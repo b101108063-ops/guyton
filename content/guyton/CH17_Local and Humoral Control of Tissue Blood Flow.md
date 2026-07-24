@@ -1,6 +1,7 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH17"
+---
 title: "Local and Humoral Control of Tissue Blood Flow"
 book: "Guyton & Hall"
 summary: "Tissue blood flow is regulated by local metabolic factors and circulating hormones that act directly on vascular smooth muscle. Chemical factors including ions (K+, Ca2+, Mg2+, H+), CO2, and adenosine cause vasodilation, while autoregulation maintains constant flow despite pressure changes. Long-term blood flow is ultimately determined by tissue metabolic needs."

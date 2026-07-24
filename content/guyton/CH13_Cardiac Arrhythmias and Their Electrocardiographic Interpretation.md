@@ -1,6 +1,7 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH13"
+---
 title: "Cardiac Arrhythmias and Their Electrocardiographic Interpretation"
 book: "Guyton & Hall"
 summary: "Cardiac arrhythmias result from abnormalities in impulse formation or conduction within the cardiac conduction system. ECG diagnosis distinguishes sinus node dysfunction (tachycardia, bradycardia, sinus arrhythmia), conduction blocks (SA block, AV block of varying degrees), and circus movement arrhythmias (atrial flutter, atrial fibrillation, ventricular fibrillation)."

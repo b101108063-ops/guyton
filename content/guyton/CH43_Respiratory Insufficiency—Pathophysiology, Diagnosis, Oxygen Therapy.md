@@ -3,7 +3,13 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH43"
 title: "Respiratory Insufficiency—Pathophysiology, Diagnosis, Oxygen Therapy"
 book: "Guyton & Hall"
----
+summary: "Respiratory insufficiency encompasses abnormalities in maximum expiratory flow-volume curves, used to diagnose obstructive and restrictive lung diseases. The flow-volume relationship reveals how airway resistance, lung compliance, and respiratory muscle strength determine ventilatory capacity."
+key_points:
+  - "Maximum expiratory flow is limited by dynamic airway compression: once bronchioles collapse during expiration, further increases in pleural pressure cannot increase flow (flow limitation)"
+  - "Constricted lungs (restrictive disease) show reduced TLC and RV with preserved or increased maximum flow rates relative to lung volume"
+  - "Airway obstruction diseases (asthma, COPD) show decreased maximum expiratory flow at all lung volumes, with greatest reduction at low lung volumes"
+  - "Maximum expiratory flow-volume curves are measured by having the subject inhale maximally then exhale with maximum effort"
+  - "Maximum voluntary ventilation (MVV) and FEV1 are key clinical measures that complement flow-volume curve analysis"
 
 ## RESPIRATORY INSUFFICIENCY — PATHOPHYSIOLOGY
 

@@ -3,7 +3,13 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH49"
 title: "Somatic Sensations: II. Pain and Temperature"
 book: "Guyton & Hall"
----
+summary: "Pain and temperature sensations are detected by specialized receptors (nociceptors and thermoreceptors) and transmitted via specific sensory pathways to the brain. The hypothalamus serves as the central integrator for temperature regulation, coordinating vasomotor, sweating, and shivering responses to maintain thermal homeostasis."
+key_points:
+  - "Posterior hypothalamus integrates peripheral and central temperature signals to control heat-producing and heat-conserving mechanisms"
+  - "Temperature-decreasing mechanisms include skin vasodilation, sweating (evaporative heat loss), and inhibition of heat production"
+  - "Temperature-increasing mechanisms include skin vasoconstriction, piloerection (arrector pili contraction), and shivering thermogenesis"
+  - "Fever results from pyrogens resetting the hypothalamic thermostat to a higher set point via prostaglandin E2"
+  - "Nociceptive pain is transmitted by A-delta fibers (fast, sharp pain) and C fibers (slow, dull pain)"
 
 ## POSTERIOR HYPOTHALAMUS INTEGRATES CENTRAL AND PERIPHERAL TEMPERATURE SENSORY SIGNALS
 

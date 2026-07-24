@@ -3,6 +3,13 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH53"
 title: "The Sense of Hearing"
 book: "Guyton & Hall"
+summary: "Note: This file contains content from Chapter 54 (Taste and Smell) rather than Chapter 53. Taste is detected by taste buds on the tongue and palate, with five primary modalities (sour, salty, sweet, bitter, umami). Taste thresholds vary widely between modalities, with bitter being most sensitive."
+key_points:
+  - "The five primary taste sensations are sour (acids/H+), salty (Na+), sweet (various organics), bitter (alkaloids/long-chain nitrogen compounds), and umami (L-glutamate)"
+  - "Taste buds contain 50 taste cells each, continuously replaced every ~10 days, with microvilli (taste hairs) protruding into the taste pore"
+  - "Bitter taste is most sensitive (quinine threshold ~0.000008 M) providing protective function against toxins"
+  - "Taste buds are located mainly on circumvallate, foliate, and fungiform papillae of the tongue"
+  - "Umami (L-glutamate from meat, aged cheese) signals protein-rich food and promotes protein ingestion"
 ---
 
 ## NOTE

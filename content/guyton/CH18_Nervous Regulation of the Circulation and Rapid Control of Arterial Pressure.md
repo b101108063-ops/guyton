@@ -1,6 +1,7 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH18"
+---
 title: "Nervous Regulation of the Circulation and Rapid Control of Arterial Pressure"
 book: "Guyton & Hall"
 summary: "The autonomic nervous system provides rapid, global control of circulation through sympathetic and parasympathetic divisions. Sympathetic stimulation increases heart rate, contractility, and vasoconstriction (especially in veins and resistance vessels of kidneys, intestines, spleen, and skin), while parasympathetic vagal stimulation slows heart rate via the sinoatrial node."
