@@ -1,0 +1,173 @@
+---
+source: "Guyton & Hall Textbook of Medical Physiology"
+chapter: "CH58"
+title: "Cerebral Cortex, Intellectual Functions of the Brain, Learning, and Memory"
+book: "Guyton & Hall"
+---
+
+## OF THE BRAIN
+
+
+Without continuous transmission of nerve signals from
+the lower brain into the cerebrum, the cerebrum becomes
+useless. In fact, severe compression of the brain stem at
+the juncture between the mesencephalon and cerebrum,
+as sometimes results from a pineal tumor, often causes
+the person to enter into unremitting coma lasting for the
+remainder of his or her life.
+Nerve signals in the brain stem activate the cerebrum
+in two ways: (1) by directly stimulating a background level
+of neuronal activity in wide areas of the brain and (2) by
+activating neurohormonal systems that release specific
+facilitory or inhibitory hormone-like neurotransmitters
+into selected areas of the brain.
+
+CONTROL OF CEREBRAL ACTIVITY BY
+CONTINUOUS EXCITATORY SIGNALS
+
+## FROM THE BRAIN STEM
+
+
+Reticular Excitatory Area of the Brain
+Stem—a Driver of Brain Activity
+Figure 59- 1 shows a general system for controlling the
+activity level of the brain. The central driving component
+
+of this system is an excitatory area located in the reticular
+
+substance of the pons and mesencephalon. This area is also
+called the bulboreticular facilitory area. We also discuss
+this area in Chapter 56 because it is the same brain stem
+reticular area that transmits facilitory signals downward
+to the spinal cord to maintain tone in the antigravity
+muscles and to control levels of activity of the spinal cord
+reflexes. In addition to these downward signals, this area
+also sends a profusion of signals in the upward direction.
+Most of these signals go first to the thalamus, where they
+
+excite a different set of neurons that transmit nerve signals to all regions of the cerebral cortex, as well as to multiple subcortical areas.
+
+The signals passing through the thalamus are of two
+types. One type is rapidly transmitted action potentials
+that excite the cerebrum for only a few milliseconds.
+These signals originate from large neuronal cell bodies
+that lie throughout the brain stem reticular area. Their
+nerve endings release the neurotransmitter acetylcholine,
+which serves as an excitatory agent that lasts for only a
+few milliseconds before it is destroyed.
+The second type of excitatory signal originates from
+large numbers of small neurons spread throughout the
+brain stem reticular excitatory area. Again, most of these
+signals pass to the thalamus, but through small, slowly
+
+conducting fibers that synapse mainly in the intralaminar nuclei of the thalamus and in the reticular nuclei over
+
+the surface of the thalamus. From here, additional small
+fibers are distributed throughout the cerebral cortex. The
+excitatory effect caused by this system of fibers can build
+up progressively for many seconds to a minute or more,
+which suggests that its signals are especially important for
+controlling the longer term background excitability level
+of the brain.
+
+Excitation of the Reticular Excitatory Area by Peripheral Sensory Signals. The level of activity of the reticular
+excitatory area in the brain stem, and therefore the level
+of activity of the entire brain, is determined to a great extent by the number and type of sensory signals that enter the brain from the periphery. Pain signals in particular increase activity in this excitatory area and therefore
+
+strongly excite the brain to attention.
+The importance of sensory signals in activating the
+excitatory area is demonstrated by the effect of cutting
+the brain stem above the point where the fifth cerebral
+nerves enter the pons. These nerves are the highest nerves
+entering the brain that transmit significant numbers of
+The Limbic System and the Hypothalamus—
+Behavioral and Motivational Mechanisms of the Brain
+
+
+somatosensory signals into the brain. When all these
+input sensory signals are gone, the level of activity in the
+brain excitatory area diminishes abruptly, and the brain
+proceeds instantly to a state of greatly reduced activity,
+approaching a permanent state of coma. However, when
+the brain stem is transected below the fifth nerves, which
+leaves much input of sensory signals from the facial and
+oral regions, the coma is averted.
+Increased Activity of the Excitatory Area Caused
+by Feedback Signals Returning From the Cerebral
+Cortex. Not only do excitatory signals pass to the cerebral
+cortex from the bulboreticular excitatory area of the brain
+stem, but feedback signals also return from the cerebral
+
+cortex back to this same area. Therefore, any time the cerebral cortex becomes activated by brain thought processes or by motor processes, signals are sent from the cortex
+to the brain stem excitatory area, which in turn sends still
+more excitatory signals to the cortex. This process helps
+to maintain the level of excitation of the cerebral cortex or
+
+even to enhance it. This is a positive feedback mechanism
+that allows any beginning activity in the cerebral cortex
+to support still more activity, thus leading to an “awake”
+mind.
+The Thalamus Is a Distribution Center That Controls
+Activity in Specific Regions of the Cortex. As pointed
+out in Chapter 58, almost every area of the cerebral cortex
+connects with its own highly specific area in the thalamus.
+Therefore, electrical stimulation of a specific point in the
+thalamus generally activates its own specific small region
+of the cortex. Furthermore, signals regularly reverberate
+back and forth between the thalamus and the cerebral
+
+cortex, with the thalamus exciting the cortex and the cortex then re-exciting the thalamus via return fibers. Activation of these back-and- forth reverberation signals has
+
+been suggested to establish long-term memories.
+Whether the thalamus also functions to call forth
+specific memories from the cortex or to activate specific
+thought processes is still unclear, but the thalamus does
+have appropriate neuronal circuitry for these purposes.
+A Reticular Inhibitory Area Is Located in
+the Lower Brain Stem
+Figure 59- 1 shows another area that is important in
+controlling brain activity—the reticular inhibitory area,
+located medially and ventrally in the medulla. In Chapter
+
+56, we learned that this area can inhibit the reticular facilitory area of the upper brain stem and thereby decrease
+activity in the superior portions of the brain. One of the
+mechanisms for this activity is to excite serotonergic neurons, which in turn secrete the inhibitory neurohormone
+serotonin at crucial points in the brain; we discuss this
+concept in more detail later.
+NEUROHORMONAL CONTROL OF BRAIN
+
+## ACTIVITY
+
+Aside from direct control of brain activity by specific
+transmission of nerve signals from the lower brain areas
+to the cortical regions of the brain, still another physiological mechanism is often used to control brain activity.
+This mechanism is to secrete excitatory or inhibitory neurotransmitter hormonal agents into the substance of the
+
+brain. These neurohormones often persist for minutes or
+hours and thereby provide long periods of control, rather
+than just instantaneous activation or inhibition.
+Figure 59- 2 shows three neurohormonal systems that
+
+have been studied in detail in the rat brain: (1) a norepinephrine system, (2) a dopamine system, and (3) a serotonin system. Norepinephrine usually functions as an
+excitatory hormone, whereas serotonin is usually inhibitory and dopamine is excitatory in some areas but inhibitory in others. As would be expected, these three systems
+have different effects on levels of excitability in different
+parts of the brain. The norepinephrine system spreads to
+virtually every area of the brain, whereas the serotonin
+and dopamine systems are directed much more to specific brain regions—the dopamine system mainly into the
+
+basal ganglial regions and the serotonin system more into
+the midline structures.
+Neurohormonal Systems in the Human Brain. Figure
+59- 3 shows the brain stem areas in the human brain for
+activating four neurohormonal systems, the same three
+
+discussed for the rat and one other, the acetylcholine system. Some of the specific functions of these systems are
+
+as follows.
+Thalamus
+Inhibitory area
+Excitatory area
+Fifth cranial nerve
+
+
+> **Figure 59- 1 The excitatory- activating system of the brain. Also shown is an inhibitory area in the medulla that can inhibit or depress the activating system.**
