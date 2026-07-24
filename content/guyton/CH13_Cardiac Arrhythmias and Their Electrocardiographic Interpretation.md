@@ -11,6 +11,7 @@ key_points:
   - "Atrial fibrillation produces an irregularly irregular ventricular rhythm because the AV node blocks rapid irregular atrial impulses, allowing only those arriving after its refractory period"
   - "Atrial flutter conducts to ventricles at a 2:1 or 3:1 ratio due to the long refractory period of the AV node; the characteristic sawtooth flutter waves appear on ECG at 200-350 beats/min"
 
+---
 ## TACHYCARDIA
 
 **Tachycardia** means a fast heart rate, defined as faster than **100 beats/min** in an adult. Figure 13-1 shows an ECG from a patient with tachycardia.

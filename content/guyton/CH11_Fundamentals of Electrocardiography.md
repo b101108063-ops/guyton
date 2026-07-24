@@ -11,6 +11,7 @@ key_points:
   - "Vectorial projection onto a lead axis determines whether the ECG records a positive or negative deflection: a positive projection yields an above-baseline deflection"
   - "When the heart vector is nearly perpendicular to a lead axis, the recorded voltage in that lead is minimal; when parallel, the voltage approaches maximum"
 
+---
 ## ELECTROCARDIOGRAMS
 
 ## VECTORS CAN REPRESENT ELECTRICAL POTENTIALS

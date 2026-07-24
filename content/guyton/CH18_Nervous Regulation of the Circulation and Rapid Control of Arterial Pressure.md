@@ -11,6 +11,7 @@ key_points:
   - "Parasympathetic stimulation via the vagus nerves decreases heart rate and slightly decreases contractility; it has minimal direct effect on vascular resistance in most tissues"
   - "Sympathetic stimulation of veins reduces venous capacitance, increasing venous return and cardiac output by mobilizing blood from the venous reservoir"
 
+---
 ## AUTONOMIC NERVOUS SYSTEM
 
 The most important part of the autonomic nervous system for regulating the circulation is the **sympathetic nervous system**. The parasympathetic nervous system contributes importantly to regulation of heart function.

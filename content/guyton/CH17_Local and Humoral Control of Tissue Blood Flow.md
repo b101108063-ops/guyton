@@ -11,6 +11,7 @@ key_points:
   - "Magnesium ions cause vasodilation by inhibiting smooth muscle contraction; acetate and citrate cause mild vasodilation"
   - "Most vasoactive substances (angiotensin II, bradykinin) have minimal long-term effect on blood flow because autoregulation compensates unless tissue metabolic rate changes"
 
+---
 ## OTHER CHEMICAL FACTORS
 
 Many different ions and other chemical factors can dilate or constrict local blood vessels. The following list details their specific effects:

@@ -11,6 +11,7 @@ key_points:
   - "Selective permeability of cell membranes allows water to follow solute concentration gradients by osmosis; solutes that cannot cross cell membranes exert full osmotic effect"
   - "The van't Hoff law calculates potential osmotic pressure as osmolarity × 19.3 mm Hg per mOsm/L; the osmotic coefficient corrects for ion interactions in solution"
 
+---
 ## OSMOTIC PRESSURE
 
 The basic principles of osmosis and osmotic pressure were presented in Chapter 4. Here we review only the most important aspects as they apply to volume regulation.

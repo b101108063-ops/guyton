@@ -11,6 +11,7 @@ key_points:
   - "Digitalis toxicity produces nonspecific T wave changes including inversion or biphasic T waves, often serving as the earliest sign of drug overdose"
   - "Abnormally short depolarization of the ventricular base (shortened action potential) causes the base to repolarize before the apex, reversing the normal repolarization vector and inverting the T wave"
 
+---
 ## ABNORMALITIES IN THE T WAVE
 
 Earlier in the chapter, we noted that the T wave is normally positive in all the standard bipolar limb leads. This is caused by repolarization of the apex and outer surfaces of the ventricles ahead of the intraventricular surfaces.

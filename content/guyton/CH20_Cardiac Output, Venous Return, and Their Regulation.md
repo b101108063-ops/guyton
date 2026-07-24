@@ -11,6 +11,7 @@ key_points:
   - "At constant arterial pressure, cardiac output varies inversely with total peripheral resistance because Flow = Pressure / Resistance"
   - "During exercise, cardiac output can increase 4-7× above resting values through sympathetic activation, increased venous return, and local metabolic vasodilation in active muscles"
 
+---
 ## CARDIAC OUTPUT AND VENOUS RETURN
 
 **Cardiac output** is the quantity of blood pumped into the aorta each minute by the heart. This is also the quantity of blood that flows through the circulation. Because cardiac output is the sum of blood flow to all tissues of the body, it is one of the most important factors in cardiovascular function.

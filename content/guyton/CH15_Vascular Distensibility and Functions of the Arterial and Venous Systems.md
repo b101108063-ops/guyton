@@ -11,6 +11,7 @@ key_points:
   - "Sympathetic stimulation increases vascular tone, shifting blood from venous reservoirs into the heart, which is critical for increasing cardiac output during hemorrhage or exercise"
   - "Delayed compliance (stress-relaxation) causes vessel pressure to gradually fall toward baseline despite maintained increased volume, due to progressive stretching of smooth muscle"
 
+---
 ## HEPATIC CIRCULATION
 
 ### Blood Flow Through the Liver

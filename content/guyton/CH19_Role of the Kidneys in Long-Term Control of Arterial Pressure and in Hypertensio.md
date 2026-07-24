@@ -11,6 +11,7 @@ key_points:
   - "Rapid pressure control mechanisms (baroreceptors, CNS ischemic response, chemoreceptors) act within seconds to minutes; intermediate mechanisms (renin-angiotensin, stress relaxation, capillary fluid shift) act over minutes to hours"
   - "The renin-angiotensin-aldosterone system amplifies pressure control precision by adjusting sodium reabsorption in response to pressure changes; without it, blood pressure becomes highly sensitive to salt intake"
 
+---
 ## ARTERIAL PRESSURE REGULATION: AN INTEGRATED SYSTEM
 
 It is clear that arterial pressure is regulated not by a single pressure controlling system but by several interrelated systems, each of which performs a specific function.
