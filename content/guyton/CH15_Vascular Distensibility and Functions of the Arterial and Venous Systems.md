@@ -1,7 +1,6 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH15"
----
 title: "Vascular Distensibility and Functions of the Arterial and Venous Systems"
 book: "Guyton & Hall"
 summary: "Vascular compliance and distensibility determine how blood volume changes affect pressure in different circulatory segments. Veins are 8× more distensible than arteries and serve as the primary blood reservoir; arterial compliance dampens pulsations to produce steady capillary flow. Delayed compliance (stress-relaxation) allows vessels to gradually adjust to volume changes."

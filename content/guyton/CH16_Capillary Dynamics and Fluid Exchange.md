@@ -1,7 +1,6 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH16"
----
 title: "Capillary Dynamics and Fluid Exchange"
 book: "Guyton & Hall"
 summary: "Fluid exchange across the capillary membrane is governed by Starling forces, which include hydrostatic pressure gradients driving filtration and oncotic pressure gradients opposing it. Osmotic pressure differences between plasma and interstitial fluid are critical for maintaining vascular volume and cellular hydration."

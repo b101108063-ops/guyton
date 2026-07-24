@@ -1,7 +1,6 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH20"
----
 title: "Cardiac Output, Venous Return, and Their Regulation"
 book: "Guyton & Hall"
 summary: "Cardiac output equals venous return and is normally regulated by the sum of all local tissue blood flows via the Frank-Starling mechanism. The heart automatically pumps whatever volume returns from the veins; long-term cardiac output varies inversely with total peripheral resistance when arterial pressure is held constant."

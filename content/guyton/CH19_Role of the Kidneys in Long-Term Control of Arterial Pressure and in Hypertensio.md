@@ -1,7 +1,6 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH19"
----
 title: "Role of the Kidneys in Long-Term Control of Arterial Pressure and in Hypertension"
 book: "Guyton & Hall"
 summary: "The renal-body fluid system is the primary mechanism for long-term arterial pressure control through pressure diuresis and pressure natriuresis. The equilibrium point where renal fluid output equals intake determines the steady-state arterial pressure; this point can be shifted by kidney function changes or salt intake, forming the basis of hypertension."

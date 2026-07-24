@@ -1,7 +1,6 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH11"
----
 title: "Fundamentals of Electrocardiography"
 book: "Guyton & Hall"
 summary: "The ECG records the summation of cardiac electrical potentials as vectors during depolarization and repolarization. Vectorial analysis allows interpretation of the ECG waveform in different leads by projecting the instantaneous mean vector onto each lead axis, enabling localization of cardiac electrical activity."

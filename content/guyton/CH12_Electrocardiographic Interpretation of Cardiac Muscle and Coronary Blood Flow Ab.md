@@ -1,7 +1,6 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH12"
----
 title: "Electrocardiographic Interpretation of Cardiac Muscle and Coronary Blood Flow Abnormalities"
 book: "Guyton & Hall"
 summary: "T wave abnormalities on ECG reflect altered repolarization sequences caused by conditions such as ischemia, bundle branch block, or digitalis toxicity. The polarity and morphology of the T wave provide diagnostic clues about the underlying cardiac pathology affecting ventricular repolarization."
