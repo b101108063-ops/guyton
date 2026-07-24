@@ -1,0 +1,78 @@
+---
+source: "Guyton & Hall Textbook of Medical Physiology"
+chapter: "CH61"
+title: "Autonomic Nervous System and the Adrenal Medulla"
+book: "Guyton & Hall"
+summary: "The autonomic nervous system (ANS) consists of sympathetic and parasympathetic divisions that control involuntary functions of visceral organs. Sympathetic neurons originate from spinal cord T1-L2, pass through paravertebral ganglia and prevertebral ganglia to reach effectors. Parasympathetic fibers travel via cranial nerves III, VII, IX, X and sacral nerves S2-S4. The adrenal medulla, embryologically a sympathetic ganglion, secretes epinephrine and norepinephrine directly into the bloodstream."
+key_points:
+  - "Sympathetic preganglionic fibers originate from intermediolateral horn cells (T1-L2), pass through white rami into paravertebral sympathetic chain, and synapse in chain ganglia or pass through as splanchnic nerves to prevertebral ganglia"
+  - "Postganglionic sympathetic fibers travel via gray rami back to spinal nerves (C fibers) to innervate blood vessels, sweat glands, and piloerector muscles throughout the body"
+  - "Parasympathetic preganglionic fibers are long; most vagal parasympathetic fibers (CN X) synapse in or near the target organ in intramural ganglia"
+  - "The adrenal medulla is a modified sympathetic ganglion where preganglionic fibers (without synapsing) directly innervate chromaffin cells that secrete epinephrine and norepinephrine"
+  - "Sympathetic stimulation causes fight-or-flight responses (increased heart rate, bronchodilation, pupil dilation, decreased GI motility); parasympathetic stimulation promotes rest-and-digest functions"
+---
+## GLUCOCORTICOIDS, AND ANDROGENS
+
+Two major types of adrenocortical hormones, the mineralocorticoids and the glucocorticoids, are secreted by the adrenal cortex. In addition to these hormones, small amounts of sex hormones are secreted, especially androgenic hormones, which exhibit about the same effects in
+
+the body as the male sex hormone testosterone. They are normally of only slight importance, although in certain abnormalities of the adrenal cortices, extreme quantities can be secreted (which is discussed later in the chapter) and can result in masculinizing effects. The mineralocorticoids gained this name because they especially affect the electrolytes (the “minerals”) of the extracellular fluids, especially sodium and potassium.
+
+The glucocorticoids gained their name because they exhibit important effects that increase blood glucose concentration. They have additional effects on protein and fat metabolism that are equally as important to body function as their effects on carbohydrate metabolism. More than 30 steroids have been isolated from the adrenal cortex, but two are of exceptional importance to
+
+the normal endocrine function of the human body: aldosterone, which is the principal mineralocorticoid, and cortisol, which is the principal glucocorticoid. SYNTHESIS AND SECRETION OF
+
+## THE ADRENAL CORTEX HAS THREE DISTINCT LAYERS
+
+
+> **Figure 78-1 shows that the adrenal cortex is composed of three relatively distinct layers: 1. The zona glomerulosa, a thin layer of cells that lies just underneath the capsule, constitutes about 15% of the adrenal cortex. These cells are the only ones in the adrenal gland capable of secreting significant amounts of aldosterone because they contain the enzyme aldosterone synthase, which is necessary for synthesis of aldosterone. The secretion of these cells Adrenocortical Hormones Cortisol and androgens Magnified section Zona glomerulosa aldosterone Zona fasciculata Zona reticularis Cortex Medulla (catecholamines)**
+
+
+> **Figure 78-1. Secretion of adrenocortical hormones by the different zones of the adrenal cortex and secretion of catecholamines by the adrenal medulla. UNIT XIV 	Endocrinology and Reproduction**
+
+is controlled mainly by the extracellular fluid concentrations of angiotensin II and potassium, both of which stimulate aldosterone secretion.
+2. The zona fasciculata, the middle and widest zone,
+constitutes about 75% of the adrenal cortex and secretes the glucocorticoids cortisol and corticosterone, as well as small amounts of adrenal androgens and estrogens. The secretion of these cells is controlled in large part by the hypothalamic-pituitary axis via adrenocorticotropic hormone (ACTH).
+3. The zona reticularis, the inner zone of the cortex,
+secretes the adrenal androgens dehydroepiandrosterone and androstenedione, as well as small amounts of estrogens and some glucocorticoids. ACTH also regulates secretion of these cells, although other factors such as cortical androgen-stimulating hormone, released from the pituitary, may also be involved. The mechanisms for controlling adrenal androgen production, however, are not nearly as well understood
+
+as those for glucocorticoids and mineralocorticoids. Aldosterone and cortisol secretion are regulated by independent mechanisms. Factors such as angiotensin II that specifically increase the output of aldosterone and cause hypertrophy of the zona glomerulosa have no effect on the other two zones.
+
+Similarly, factors such as ACTH that increase secretion of cortisol and adrenal androgens and cause hypertrophy of the zona fasciculata and zona reticularis have little effect on the zona glomerulosa. Adrenocortical Hormones Are Steroids Derived From Cholesterol. All human steroid hormones, including those
+
+produced by the adrenal cortex, are synthesized from cholesterol. Although the cells of the adrenal cortex can synthesize de novo small amounts of cholesterol from acetate, approximately 80% of the cholesterol used for steroid synthesis is provided by low-density lipoproteins (LDLs) in the circulating plasma. The LDLs, which have high concentrations of cholesterol, diffuse from the plasma into the interstitial fluid and attach to specific receptors contained in structures called coated pits on the adrenocortical cell membranes.
+
+The coated pits are then internalized by endocytosis, forming vesicles that eventually fuse with cell lysosomes and release cholesterol that can be used to synthesize adrenal steroid hormones. Transport of cholesterol into the adrenal cells is regulated by feedback mechanisms that can markedly alter the
+
+amount available for steroid synthesis. For example, ACTH, which stimulates adrenal steroid synthesis, increases the number of adrenocortical cell receptors for LDL, as well as the activity of enzymes that liberate cholesterol from LDL. Once the cholesterol enters the cell, it is delivered to the mitochondria, where it is cleaved by the enzyme cholesterol
+
+desmolase to form pregnenolone; this is the rate-limiting step in the eventual formation of adrenal steroids (Figure 78-2). In all three zones of the adrenal cortex, this initial step in steroid synthesis is stimulated by the different factors that control
+
+secretion of the major hormone products aldosterone and cortisol. For example, both ACTH, which stimulates cortisol secretion, and angiotensin II, which stimulates aldosterone
+
+secretion, increase conversion of cholesterol to pregnenolone. Synthetic Pathways for Adrenal Steroids. Figure 78-2 gives the principal steps in the formation of the important steroid products of the adrenal cortex: aldosterone, cortisol, and the androgens.
+
+Essentially all these steps occur in two of the organelles of the cell, the mitochondria and the endoplasmic reticulum, with some steps occurring in one of these organelles and some in the other. Each step is catalyzed by a specific enzyme system. A change in even a single enzyme in the schema can cause vastly different types and relative proportions of hormones to be formed.
+
+For example, very large
+
+quantities of masculinizing sex hormones or other steroid compounds not normally present in the blood can occur with altered activity of only one of the enzymes in this pathway. The chemical formulas of aldosterone and cortisol, which are the major mineralocorticoid and glucocorticoid hormones, respectively, are shown in Figure 78-2. Cortisol has a keto oxygen on carbon number 3 and is hydroxylated
+
+at carbon numbers 11 and 21. The mineralocorticoid aldosterone has an oxygen atom bound at the number 18 carbon.
+
+In addition to aldosterone and cortisol, other steroids having glucocorticoid or mineralocorticoid activities, or both, are normally secreted in small amounts by the adrenal
+
+cortex. Furthermore, several additional potent steroid hormones not normally formed in the adrenal glands have been synthesized and are used in various forms of therapy. Some of the more important of the corticosteroid hormones, including the synthetic ones, are the following, as summarized in Table 78-1.
+
+Mineralocorticoids • Aldosterone (very potent; accounts for ≈90% of all mineralocorticoid activity)
+
+• Deoxycorticosterone (1/30 as potent as aldosterone, but very small quantities are secreted) • Corticosterone (slight mineralocorticoid activity) • 9αFluorocortisol (synthetic; slightly more potent than aldosterone) • Cortisol (slight mineralocorticoid activity, but a large quantity is secreted) • Cortisone (slight mineralocorticoid activity) Glucocorticoids
+
+• Cortisol (very potent; accounts for ≈95% of all glucocorticoid activity) • Corticosterone (provides ≈4% of total glucocorticoid activity, but is much less potent than cortisol) • Cortisone (almost as potent as cortisol) • Prednisone (synthetic; four times as potent as cortisol) • Methylprednisone (synthetic; five times as potent as cortisol)
+
+• Dexamethasone (synthetic; 30 times as potent as cortisol) It is clear from this list that some of these hormones
+
+and synthetic steroids have both glucocorticoid and mineralocorticoid activities. It is especially significant that cortisol normally has some mineralocorticoid activity, because
+
+some syndromes of excess cortisol secretion can cause significant mineralocorticoid effects, along with its much more potent glucocorticoid effects.
+
+The intense glucocorticoid activity of the synthetic hormone dexamethasone, which has almost zero mineralocorticoid activity, makes it an especially important drug for stimulating specific glucocorticoid activity.
