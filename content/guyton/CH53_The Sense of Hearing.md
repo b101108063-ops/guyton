@@ -14,25 +14,32 @@ key_points:
 
 ## NOTE
 
-This file appears to contain content from Chapter 54 (Taste and Smell) rather than Chapter 53 (Hearing). The actual hearing content is not present in this file. Please verify the source file.
+This file appears to contain content from Chapter 54 (Taste and Smell) rather than Chapter 53 (Hearing).
+
+The actual hearing content is not present in this file. Please verify the source file.
 
 ## SENSE OF TASTE
 
 *(Content from Chapter 54 appears to be in this file)*
 
-Taste is mainly a function of the taste buds in the mouth, but the sense of smell also contributes strongly to taste perception.
+Taste is mainly a function of the taste buds in the mouth.
+
+The sense of smell also contributes strongly to taste perception.
 
 Additionally, the texture of food detected by tactual senses of the mouth, and the presence of substances that stimulate pain endings (such as pepper), greatly alter the taste experience.
 
 ### Importance of Taste
 
-The importance of taste lies in the fact that it allows a person to select food in accord with desires and often in accord with the body tissues' metabolic need for specific substances.
+The importance of taste lies in the fact that it allows a person to select food in accord with desires.
+
+It also allows selection in accord with the body tissues' metabolic need for specific substances.
 
 ## PRIMARY TASTE SENSATIONS
 
 The identities of the many specific chemicals that excite different taste receptors are not all known.
 
 For practical analysis, the primary sensations of taste have been grouped into five general categories:
+
 - Sour
 - Salty
 - Sweet
@@ -64,6 +71,7 @@ The anions also contribute to a lesser extent.
 The sweet taste is not caused by any single class of chemicals.
 
 Some of the types of chemicals that cause this taste include:
+
 - Sugars
 - Glycols
 - Alcohols
@@ -88,10 +96,12 @@ The bitter taste, like the sweet taste, is not caused by any single type of chem
 The substances that give the bitter taste are almost entirely organic substances.
 
 Two particular classes of substances are especially likely to cause bitter taste sensations:
+
 1. Long-chain organic substances that contain nitrogen
 2. Alkaloids
 
 The alkaloids include many drugs used in medicines, such as:
+
 - Quinine
 - Caffeine
 - Strychnine
@@ -101,7 +111,11 @@ Some substances that initially taste sweet have a bitter aftertaste. This is tru
 
 High concentrations of salts may also result in a bitter taste.
 
-**Function of bitter taste:** When it occurs in high intensity, it usually causes the person or animal to reject the food. This is an important protective function because many deadly toxins found in poisonous plants are alkaloids, and virtually all these alkaloids cause an intensely bitter taste.
+**Function of bitter taste:** When it occurs in high intensity, it usually causes the person or animal to reject the food.
+
+This is an important protective function because many deadly toxins found in poisonous plants are alkaloids.
+
+Virtually all these alkaloids cause an intensely bitter taste.
 
 ### Umami Taste
 
@@ -122,7 +136,9 @@ The pleasurable sensation of umami taste is thought to be important for nutritio
 | Sweet | Sucrose | 0.01 M |
 | Bitter | Quinine | 0.000008 M |
 
-The bitter taste sense is much more sensitive than all the others, which provides an important protective function against many dangerous toxins in food.
+The bitter taste sense is much more sensitive than all the others.
+
+This provides an important protective function against many dangerous toxins in food.
 
 ### Taste Blindness
 
@@ -139,10 +155,12 @@ The exact percentage depends on the method of testing and the concentration of t
 ### Structure of Taste Buds
 
 A taste bud has:
+
 - Diameter of about 1/30 of a millimeter
 - Length of about 1/16 of a millimeter
 
 The taste bud is composed of epithelial cells:
+
 - Supporting cells called sustentacular cells
 - Taste cells
 
@@ -151,6 +169,7 @@ There are about 50 taste cells in each taste bud.
 The taste cells are continually being replaced by mitotic division of surrounding epithelial cells.
 
 **Life span of taste cells:**
+
 - Average: about 10 days
 - Some eliminated in only 2 days
 - Others may survive for over 3 weeks
@@ -169,7 +188,9 @@ Interwoven around the bodies of the taste cells is a branching terminal network 
 
 Some fibers invaginate into folds of the taste cell membranes.
 
-Many vesicles form beneath the cell membrane near the fibers. These vesicles are believed to contain neurotransmitter substance that is released to excite the nerve fiber endings in response to taste stimulation.
+Many vesicles form beneath the cell membrane near the fibers.
+
+These vesicles are believed to contain neurotransmitter substance that is released to excite the nerve fiber endings in response to taste stimulation.
 
 ### Location of Taste Buds
 
@@ -188,6 +209,7 @@ Additional taste buds are located on the palate, and a few are found on the tons
 Table 54-1 lists the relative taste indices (reciprocals of the taste thresholds) of different substances.
 
 The intensities of four primary sensations are referred to the intensities of:
+
 - Hydrochloric acid (sour)
 - Quinine (bitter)
 - Sucrose (sweet)

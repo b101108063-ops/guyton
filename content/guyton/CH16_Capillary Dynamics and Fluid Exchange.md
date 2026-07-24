@@ -28,7 +28,7 @@ Conversely, if a solute such as sodium chloride is removed from the extracellula
 
 | Term | Definition |
 |------|------------|
-| **Osolality** | Osmoles per kilogram of water |
+| **Osmolality** | Osmoles per kilogram of water |
 | **Osmolarity** | Osmoles per liter of solution |
 
 In dilute solutions such as body fluids, these two terms can be used almost synonymously because the differences are small. Most clinical calculations are based on **osmolarities** rather than osmolalities.

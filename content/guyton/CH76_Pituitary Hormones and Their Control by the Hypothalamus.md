@@ -3,13 +3,13 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH76"
 title: "Pituitary Hormones and Their Control by the Hypothalamus"
 book: "Guyton & Hall"
-summary: "The hypothalamus controls the posterior pituitary via neural pathways (releasing ADH and oxytocin from magnocellular neurons) and regulates the anterior pituitary through portal vein delivery of releasing/inhibitory hormones. ADH secretion is primarily controlled by plasma osmolarity via osmoreceptors and by blood volume/pressure via baroreceptors."
+summary: "The hypothalamus controls the posterior pituitary via neural pathways (releasing ADH and oxytocin from magnocellular neurons) and regulates the anterior pituitary through portal vein delivery of releasing/inhibiting hormones. ADH secretion is primarily controlled by plasma osmolarity via osmoreceptors and by blood volume/pressure via baroreceptors."
 key_points:
   - "ADH (vasopressin) secretion is stimulated by increased plasma osmolarity (osmoreceptors in hypothalamus/AV3V) and by decreased blood volume/pressure (baroreceptor inhibition); high ADH levels also cause vasoconstriction"
   - "Oxytocin stimulates uterine contraction during labor and milk ejection (myoepithelial cell contraction) during lactation; suckling triggers oxytocin release via a neuroendocrine reflex"
   - "Thyroid hormones T4 (thyroxine) and T3 (triiodothyronine) are formed by iodination and coupling of tyrosine residues within thyroglobulin, stored as colloid in thyroid follicles"
   - "Iodide is actively transported into thyroid cells by the sodium-iodide symporter (NIS) against a concentration gradient; pendrin transports iodide into the follicular colloid"
-  - "Hypothalamic-hypophysial portal vessels deliver releasing/inhibitory hormones (TRH, CRH, GHRH, somatostatin, GnRH, PIH) from the hypothalamus to the anterior pituitary"
+  - "Hypothalamic-hypophysial portal vessels deliver releasing/inhibiting hormones (TRH, CRH, GHRH, somatostatin, GnRH, PIH) from the hypothalamus to the anterior pituitary"
 ---
 
 ## HORMONE PRODUCTION
@@ -22,7 +22,7 @@ ADH secretion sometimes increases to as high as 20 times normal in response to t
 
 Conversely, injection of a dilute solution into this artery causes cessation of these impulses and therefore almost total cessation of ADH secretion.
 
-Thus, the concentration of ADH in the body fluids can change from small amounts to large amounts, or vice versa, in only a few minutes.
+The concentration of ADH in the body fluids can change from small amounts to large amounts, or vice versa, in only a few minutes.
 
 ### Osmoreceptor Mechanism
 
@@ -36,7 +36,7 @@ Although some researchers place these osmoreceptors in the hypothalamus (in the 
 
 As discussed in Chapter 29, lesions of the AV3V region greatly impair ADH secretion, whereas electrical stimulation or stimulation by angiotensin II increases ADH secretion.
 
-Regardless of the mechanism, concentrated body fluids stimulate these osmoreceptors and ADH secretion whereas dilute body fluids inhibit them.
+Regardless of the mechanism, concentrated body fluids stimulate these osmoreceptors and ADH secretion, whereas dilute body fluids inhibit them.
 
 This provides a powerful feedback control system for controlling the total osmotic pressure of the body fluids.
 
@@ -80,9 +80,9 @@ Therefore, many obstetricians believe that this hormone is at least partially re
 
 This belief is supported by the following facts:
 
-1. In a hypophysectomized animal, the duration of labor is prolonged, indicating a possible effect of oxytocin during delivery.
-2. The amount of oxytocin in the plasma increases during labor, especially during the last stage.
-3. Stimulation of the cervix in a pregnant animal elicits nervous signals that pass to the hypothalamus and cause increased secretion of oxytocin.
+- In a hypophysectomized animal, the duration of labor is prolonged, indicating a possible effect of oxytocin during delivery.
+- The amount of oxytocin in the plasma increases during labor, especially during the last stage.
+- Stimulation of the cervix in a pregnant animal elicits nervous signals that pass to the hypothalamus and cause increased secretion of oxytocin.
 
 These effects and this possible mechanism for aiding in the birth process are discussed in more detail in Chapter 83.
 
@@ -111,6 +111,15 @@ However, almost all the thyroxine is eventually converted to triiodothyronine in
 The functions of these two hormones are qualitatively the same, but they differ in rapidity and intensity of action.
 
 Triiodothyronine is about four times as potent as thyroxine, but it is present in the blood in much smaller quantities and persists for a much shorter time compared with thyroxine.
+
+### Comparison of T4 and T3
+
+| Characteristic | Thyroxine (T4) | Triiodothyronine (T3) |
+|---------------|----------------|----------------------|
+| Potency | Lower (1x) | Higher (4x) |
+| Blood concentration | Higher | Lower |
+| Duration in blood | Longer | Shorter |
+| Percentage of secretion | 93% | 7% |
 
 ## PHYSIOLOGIC ANATOMY OF THE THYROID GLAND
 
@@ -150,11 +159,20 @@ In a normal gland, the iodide pump concentrates the iodide to about 30 times its
 
 When the thyroid gland becomes maximally active, this concentration ratio can rise to as high as 250 times.
 
-The rate of iodide trapping by the thyroid is influenced by several factors, the most important being the concentration of TSH; TSH stimulates and hypophysectomy greatly diminishes the activity of the iodide pump in thyroid cells.
+The rate of iodide trapping by the thyroid is influenced by several factors, the most important being the concentration of TSH. TSH stimulates and hypophysectomy greatly diminishes the activity of the iodide pump in thyroid cells.
 
 Iodide is transported out of the thyroid cells across the apical membrane into the follicle by a chloride-iodide ion counter-transporter molecule called pendrin.
 
 The thyroid epithelial cells also secrete into the follicle thyroglobulin that contains tyrosine amino acids to which the iodine will bind.
+
+### Factors Affecting Iodide Trapping
+
+| Factor | Effect on Iodide Trapping |
+|--------|---------------------------|
+| TSH | Stimulates |
+| Hypophysectomy | Greatly diminishes |
+| Maximum activity | Concentration ratio up to 250x |
+| Normal activity | Concentration ratio about 30x |
 
 ## THYROXINE AND TRIIODOTHYRONINE FORMATION AND SECRETION
 

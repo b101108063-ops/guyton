@@ -231,10 +231,12 @@ Activator substances from the traumatized vascular wall, from platelets, and fro
 
 ### Timeline of Clot Formation
 
-- **15-20 seconds** — Clot begins (severe trauma)
-- **1-2 minutes** — Clot begins (minor trauma)
-- **3-6 minutes** — Entire opening or broken end of the vessel is filled with clot (if opening is not too large)
-- **20-60 minutes** — Clot retracts, which closes the vessel still further
+| Time | Event |
+|------|-------|
+| 15-20 seconds | Clot begins (severe trauma) |
+| 1-2 minutes | Clot begins (minor trauma) |
+| 3-6 minutes | Entire opening or broken end of the vessel is filled with clot (if opening is not too large) |
+| 20-60 minutes | Clot retracts, which closes the vessel still further |
 
 Platelets also play an important role in clot retraction.
 
@@ -245,6 +247,7 @@ Platelets also play an important role in clot retraction.
 > **Figure 37-1.** Formation of a platelet plug in a severed blood vessel. Endothelial injury and exposure of the vascular extracellular matrix facilitates platelet adhesions and activation, which changes their shape and causes release of adenosine diphosphate (ADP), thromboxane A2 (TXA2), and platelet-activating factor (PAF). These platelet-secreted factors recruit additional platelets (aggregation) to form a hemostatic plug. Von Willebrand factor (vWF) serves as an adhesion bridge between subendothelial collagen and the glycoprotein Ib (GpIb) platelet receptor.
 
 **Steps:**
+
 1. Severed vessel
 2. Platelets agglutinate
 3. Fibrin appears

@@ -32,11 +32,11 @@ This enzyme catalyzes the reversible reaction between carbon dioxide (CO₂) and
 
 The rapidity of this reaction makes it possible for the water of the blood to transport enormous quantities of CO₂ in the form of bicarbonate ion (HCO₃⁻) from the tissues to the lungs. There, it is reconverted to CO₂ and expelled into the atmosphere as a body waste product.
 
-The hemoglobin in the cells is an excellent acid-base buffer (as is true of most proteins). Therefore, the RBCs are responsible for most of the acid-base buffering power of whole blood.
+The hemoglobin in the cells is an excellent acid-base buffer. Therefore, the RBCs are responsible for most of the acid-base buffering power of whole blood.
 
 ## Shape and Size of Red Blood Cells
 
-Normal RBCs, shown in Figure 33-3, are biconcave discs.
+Normal RBCs are biconcave discs (Figure 33-3).
 
 Their physical characteristics are:
 
@@ -76,7 +76,7 @@ When the hematocrit (the percentage of blood that is comprised of cells—normal
 | Men | 15 g hemoglobin/100 ml |
 | Women | 14 g hemoglobin/100 ml |
 
-As discussed in connection with blood transport of oxygen in Chapter 41, each gram of hemoglobin can combine with 1.34 ml of oxygen if the hemoglobin is 100% saturated.
+Each gram of hemoglobin can combine with 1.34 ml of oxygen if the hemoglobin is 100% saturated.
 
 Therefore, in the average man, a maximum of about 20 milliliters of oxygen can be carried in combination with hemoglobin in each 100 milliliters of blood. In woman, 19 milliliters of oxygen can be carried.
 

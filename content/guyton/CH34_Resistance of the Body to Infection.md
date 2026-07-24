@@ -51,10 +51,9 @@ A clinical condition known as leukopenia, in which the bone marrow produces very
 
 Normally, the human body lives in symbiosis with many bacteria because the mucous membranes of the body are constantly exposed to large numbers of bacteria.
 
-- The mouth almost always contains various spirochetal, pneumococcal, and streptococcal bacteria
-- These same bacteria are present to a lesser extent in the entire respiratory tract
-- The distal gastrointestinal tract is especially loaded with colon bacilli
-- One can always find bacteria on the surfaces of the eyes, urethra, and vagina
+The mouth almost always contains various spirochetal, pneumococcal, and streptococcal bacteria. These same bacteria are present to a lesser extent in the entire respiratory tract.
+
+The distal gastrointestinal tract is especially loaded with colon bacilli. One can always find bacteria on the surfaces of the eyes, urethra, and vagina.
 
 Any decrease in the number of WBCs immediately allows invasion of adjacent tissues by bacteria that are already present.
 
@@ -146,7 +145,7 @@ After metabolic starvation has continued long enough, this factor alone is suffi
 
 The human body has the ability to resist almost all types of organisms or toxins that tend to damage the tissues and organs. This capability is called immunity.
 
-Much of the immunity is acquired immunity that does not develop until after the body is first attacked by a bacterium, virus, or toxin; often, weeks or months are required for the immunity to develop.
+Much of the immunity is acquired immunity that does not develop until after the body is first attacked by a bacterium, virus, or toxin. Often, weeks or months are required for the immunity to develop.
 
 An additional element of immunity that results from general processes, rather than from processes directed at specific disease organisms, is called innate immunity.
 
@@ -233,10 +232,13 @@ The lymphoid tissue is distributed advantageously in the body to intercept invad
 
 In most cases, the invading agent first enters the tissue fluids and then is carried by lymph vessels to the lymph node or other lymphoid tissue.
 
-- The lymphoid tissue of the gastrointestinal walls is exposed immediately to antigens invading from the gut
-- The lymphoid tissue of the throat and pharynx (including the tonsils and adenoids) is well located to intercept antigens that enter by way of the upper respiratory tract
-- The lymphoid tissue in the lymph nodes is exposed to antigens that invade the peripheral tissues of the body
-- The lymphoid tissue of the spleen, thymus, and bone marrow plays the specific role of intercepting antigenic agents that have succeeded in reaching the circulating blood
+The lymphoid tissue of the gastrointestinal walls is exposed immediately to antigens invading from the gut.
+
+The lymphoid tissue of the throat and pharynx (including the tonsils and adenoids) is well located to intercept antigens that enter by way of the upper respiratory tract.
+
+The lymphoid tissue in the lymph nodes is exposed to antigens that invade the peripheral tissues of the body.
+
+The lymphoid tissue of the spleen, thymus, and bone marrow plays the specific role of intercepting antigenic agents that have succeeded in reaching the circulating blood.
 
 ## T and B Lymphocytes
 
@@ -270,6 +272,7 @@ This population of cells was first discovered in birds, which have a special pre
 > **Figure 35-1.** Formation of antibodies and sensitized lymphocytes by a lymph node in response to antigens. This shows the origin of thymic (T) and bursal (B) lymphocytes that, respectively, are responsible for the cell-mediated and humoral immune processes.
 
 **Pathway:**
+
 - Hematopoietic stem cells → Common lymphoid progenitor cell
 - Common lymphoid progenitor cell → Developing B cell (in liver/bone marrow) → B lymphocyte → Plasma cell → Antibodies
 - Common lymphoid progenitor cell → Thymus → T lymphocyte → Activated T lymphocytes

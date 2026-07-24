@@ -18,7 +18,9 @@ As altitude increases, barometric pressure decreases.
 
 This decrease in barometric pressure is the basic cause of all the hypoxia problems in high-altitude physiology.
 
-As the barometric pressure decreases, the atmospheric oxygen partial pressure (PO2) decreases proportionately, remaining at all times slightly less than 21% of the total barometric pressure.
+As the barometric pressure decreases, the atmospheric oxygen partial pressure (PO2) decreases proportionately.
+
+It remains at all times slightly less than 21% of the total barometric pressure.
 
 ### Barometric and Oxygen Pressures at Different Altitudes
 
@@ -54,6 +56,7 @@ In the acclimatized person, who increases ventilation about fivefold, the PCO2 f
 ### Calculation of Alveolar PO2 at High Altitudes
 
 At the top of Mount Everest (29,028 feet):
+
 1. Barometric pressure = 253 mm Hg
 2. Water vapor pressure = 47 mm Hg (must be subtracted)
 3. Remaining pressure = 206 mm Hg
@@ -83,6 +86,7 @@ Figure 44-1 shows arterial blood O2 saturation at different altitudes while a pe
 Up to an altitude of about 10,000 feet, even when air is breathed, the arterial O2 saturation remains at least as high as 90%.
 
 Above 10,000 feet, the arterial O2 saturation falls rapidly:
+
 - At 20,000 feet: slightly less than 70%
 - At still higher altitudes: even lower
 
@@ -100,11 +104,14 @@ Then it falls rapidly to about 50% at about 47,000 feet.
 
 An aviator breathing pure O2 in an unpressurized airplane can ascend to far higher altitudes than one breathing air.
 
-The arterial saturation at 47,000 feet when breathing O2 is about 50%, which is equivalent to the arterial O2 saturation at 23,000 feet when breathing air.
+The arterial saturation at 47,000 feet when breathing O2 is about 50%.
+
+This is equivalent to the arterial O2 saturation at 23,000 feet when breathing air.
 
 An unacclimatized person usually can remain conscious until the arterial O2 saturation falls to 50%.
 
 **Therefore:**
+
 - **Ceiling for breathing air:** ~23,000 feet (short exposure)
 - **Ceiling for breathing pure O2:** ~47,000 feet (provided equipment operates perfectly)
 
@@ -113,6 +120,7 @@ An unacclimatized person usually can remain conscious until the arterial O2 satu
 ### Symptoms Beginning at ~12,000 Feet (Unacclimatized)
 
 Some of the important acute effects of hypoxia in the unacclimatized person breathing air, beginning at about 12,000 feet:
+
 - Drowsiness
 - Lassitude
 - Mental and muscle fatigue
@@ -123,6 +131,7 @@ Some of the important acute effects of hypoxia in the unacclimatized person brea
 ### Progressive Symptoms
 
 These effects progress to:
+
 - **Above 18,000 feet:** Twitchings or seizures
 - **Above 23,000 feet:** Coma, followed shortly thereafter by death
 
@@ -131,6 +140,7 @@ These effects progress to:
 One of the most important effects of hypoxia is decreased mental proficiency.
 
 This decreases:
+
 - Judgment
 - Memory
 - Performance of discrete motor movements
@@ -144,6 +154,7 @@ After 18 hours at this level, it falls to about 20% of normal.
 A person remaining at high altitudes for days, weeks, or years becomes more and more acclimatized to the low PO2.
 
 After acclimatization:
+
 - It becomes possible for the person to work harder without hypoxic effects
 - It becomes possible to ascend to still higher altitudes
 
@@ -163,4 +174,6 @@ Immediate exposure to low PO2 stimulates the arterial chemoreceptors.
 
 This stimulation increases alveolar ventilation to a maximum of about 1.65 times normal.
 
-This compensation occurs within seconds for the high altitude and alone allows the person to function reasonably well.
+This compensation occurs within seconds for the high altitude.
+
+It alone allows the person to function reasonably well.

@@ -23,7 +23,7 @@ The function of the circulation is to serve the needs of the body tissues. The c
 
 The rate of blood flow through many tissues is controlled mainly in response to their need for nutrients and removal of waste products of metabolism.
 
-In some organs, such as the kidneys, the circulation serves additional functions. Blood flow to the kidney is far in excess of its metabolic requirements and is related to its excretory function, which requires that a large volume of blood be filtered each minute.
+In some organs, such as the kidneys, the circulation serves additional functions. Blood flow to the kidney is far in excess of its metabolic requirements. This is related to its excretory function, which requires that a large volume of blood be filtered each minute.
 
 The heart and blood vessels are controlled to provide the **cardiac output** and **arterial pressure** needed to supply adequate tissue blood flow.
 
@@ -60,7 +60,7 @@ Figure 14-1 lists the percentages of total blood volume in major segments of the
 | Pulmonary vessels | 9% |
 | Lungs (including pulmonary vessels) | 16% (heart + lungs) |
 
-Most surprising is the **low blood volume in the capillaries**. However, it is here that the most important function of the circulation occurs — diffusion of substances back and forth between the blood and tissues (discussed in Chapter 16).
+Most surprising is the **low blood volume in the capillaries**. However, it is here that the most important function of the circulation occurs. This is the diffusion of substances back and forth between the blood and tissues (discussed in Chapter 16).
 
 ### Cross-Sectional Areas and Velocities of Blood Flow
 
@@ -76,7 +76,7 @@ If all the systemic vessels of each type were put side by side, the approximate 
 | Small veins | 80 |
 | Venae cavae | 8 |
 
-Note particularly that the cross-sectional areas of the **veins are much larger** than those of the arteries — averaging about **four times** those of the corresponding arteries. This difference explains the large blood storage capacity of the venous system.
+Note particularly that the cross-sectional areas of the **veins are much larger** than those of the arteries. They average about **four times** those of the corresponding arteries. This difference explains the large blood storage capacity of the venous system.
 
 ### Relationship Between Velocity and Cross-Sectional Area
 
@@ -89,7 +89,7 @@ Under resting conditions:
 - Velocity averages about **33 cm/sec** in the aorta
 - Velocity in capillaries is only **1/1000 as rapid** — about **0.3 mm/sec**
 
-However, because the capillaries have a typical length of only **0.3 to 1 millimeter**, the blood remains in the capillaries for only **1 to 3 seconds**. All diffusion of nutrient food substances and electrolytes through the capillary walls must be performed in this short time.
+Because the capillaries have a typical length of only **0.3 to 1 millimeter**, the blood remains in the capillaries for only **1 to 3 seconds**. All diffusion of nutrient food substances and electrolytes through the capillary walls must be performed in this short time.
 
 ### Pressures in the Various Portions of the Circulation
 
@@ -122,9 +122,11 @@ For example, if 1 mm Hg causes a vessel that originally contained 10 ml of blood
 
 ### Veins Are Much More Distensible Than Arteries
 
-The walls of the arteries are thicker and far stronger than those of the veins. Consequently, the veins are, on average, about **eight times more distensible** than the arteries. A given increase in pressure causes about eight times as much increase in blood in a vein as in an artery of comparable size.
+The walls of the arteries are thicker and far stronger than those of the veins. Consequently, the veins are, on average, about **eight times more distensible** than the arteries.
 
-In the pulmonary circulation, the pulmonary vein distensibilities are similar to those of the systemic circulation. However, the pulmonary arteries normally operate under pressures about **one sixth** of those in the systemic arterial system, and their distensibilities are correspondingly greater — about **six times** the distensibility of systemic arteries.
+A given increase in pressure causes about eight times as much increase in blood in a vein as in an artery of comparable size.
+
+In the pulmonary circulation, the pulmonary vein distensibilities are similar to those of the systemic circulation. However, the pulmonary arteries normally operate under pressures about **one sixth** of those in the systemic arterial system. Their distensibilities are correspondingly greater — about **six times** the distensibility of systemic arteries.
 
 ## VASCULAR COMPLIANCE (OR VASCULAR CAPACITANCE)
 
@@ -136,7 +138,7 @@ This value is called the **compliance** or **capacitance** of the respective vas
 
 **Compliance and distensibility are quite different.** A highly distensible vessel with a small volume may have far less compliance than a much less distensible vessel with a large volume. This is because compliance equals distensibility times volume.
 
-The compliance of a systemic vein is about **24 times** that of its corresponding artery — because it is about 8 times as distensible and has a volume about 3 times as great (8 × 3 = 24).
+The compliance of a systemic vein is about **24 times** that of its corresponding artery. This is because it is about 8 times as distensible and has a volume about 3 times as great (8 × 3 = 24).
 
 ## ARTERIAL AND VENOUS CIRCULATIONS
 
@@ -163,31 +165,31 @@ Sympathetic stimulation or inhibition affects the volume-pressure curves of the 
 - **Sympathetic stimulation**: Increases vascular smooth muscle tone, which increases the pressure at each volume of the arteries or veins
 - **Sympathetic inhibition**: Decreases the pressure at each volume
 
-Control of the vessels by the sympathetics is a valuable means for diminishing the dimensions of one segment of the circulation, thus **transferring blood to other segments**.
+Control of the vessels by the sympathetics is a valuable means for diminishing the dimensions of one segment of the circulation. This allows **transferring blood to other segments**.
 
-For example, an increase in vascular tone throughout the systemic circulation can cause large volumes of blood to shift into the heart — one of the principal methods that the body uses to rapidly increase heart pumping.
+For example, an increase in vascular tone throughout the systemic circulation can cause large volumes of blood to shift into the heart. This is one of the principal methods that the body uses to rapidly increase heart pumping.
 
-**Sympathetic control of vascular capacitance is highly important during hemorrhage.** Enhancement of sympathetic tone, especially to the veins, reduces the vessel sizes enough that the circulation continues to operate almost normally, even when as much as **25% of the total blood volume** has been lost.
+**Sympathetic control of vascular capacitance is highly important during hemorrhage.** Enhancement of sympathetic tone, especially to the veins, reduces the vessel sizes enough that the circulation continues to operate almost normally. This occurs even when as much as **25% of the total blood volume** has been lost.
 
 ## DELAYED COMPLIANCE (STRESS-RELAXATION) OF VESSELS
 
-The term **delayed compliance** means that a vessel exposed to increased volume at first exhibits a large increase in pressure, but progressive delayed stretching of smooth muscle in the vessel wall allows the pressure to return toward normal over a period of minutes to hours.
+The term **delayed compliance** means that a vessel exposed to increased volume at first exhibits a large increase in pressure. However, progressive delayed stretching of smooth muscle in the vessel wall allows the pressure to return toward normal over a period of minutes to hours.
 
 This effect is shown in Figure 15-2. In this figure, pressure is recorded in a small segment of a vein occluded at both ends. An extra volume of blood is suddenly injected until the pressure rises from **5 to 12 mm Hg**.
 
-Even though none of the blood is removed after it is injected, the pressure begins to decrease immediately and approaches about **9 mm Hg after several minutes**.
+Even though none of the blood is removed after it is injected, the pressure begins to decrease immediately. It approaches about **9 mm Hg after several minutes**.
 
-The volume of blood injected causes immediate elastic distention of the vein. Then the smooth muscle fibers of the vein begin to creep to longer lengths, and their tensions correspondingly decrease. This effect is called **stress-relaxation** (explained in Chapter 8).
+The volume of blood injected causes immediate elastic distention of the vein. Then the smooth muscle fibers of the vein begin to creep to longer lengths. Their tensions correspondingly decrease. This effect is called **stress-relaxation** (explained in Chapter 8).
 
 ### Clinical Significance of Delayed Compliance
 
-Delayed compliance is a valuable mechanism whereby the circulation can accommodate extra blood when necessary, such as after a large transfusion.
+Delayed compliance is a valuable mechanism whereby the circulation can accommodate extra blood when necessary. This is important such as after a large transfusion.
 
 Delayed compliance in the reverse direction is one way in which the circulation automatically adjusts itself over a period of minutes or hours to **diminished blood volume after serious hemorrhage**.
 
 ## ARTERIAL PRESSURE PULSATIONS
 
-With each beat of the heart, a new surge of blood fills the arteries. Were it not for distensibility of the arterial system, all this new blood would have to flow through the peripheral blood vessels almost instantaneously — only during cardiac systole — and no flow would occur during diastole.
+With each beat of the heart, a new surge of blood fills the arteries. Were it not for distensibility of the arterial system, all this new blood would have to flow through the peripheral blood vessels almost instantaneously — only during cardiac systole. No flow would occur during diastole.
 
 However, the compliance of the arterial tree normally reduces the pressure pulsations to almost no pulsations by the time the blood reaches the capillaries. Therefore, **tissue blood flow is mainly continuous** with very little pulsation.
 

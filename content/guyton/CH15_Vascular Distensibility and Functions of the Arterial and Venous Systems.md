@@ -26,7 +26,7 @@ Blood flows through the liver from two sources:
 
 The pressure in the portal vein leading into the liver averages about **9 mm Hg**. The pressure in the hepatic vein leading from the liver into the vena cava normally averages about **0 mm Hg**.
 
-This small pressure difference — only 9 mm Hg — shows that the resistance to blood flow through the hepatic sinusoids is normally very low, especially when one considers that about 1350 ml/min of blood flow passes through this route.
+This small pressure difference — only 9 mm Hg — shows that the resistance to blood flow through the hepatic sinusoids is normally very low. This is especially true when one considers that about 1350 ml/min of blood flow passes through this route.
 
 ## CIRRHOSIS OF THE LIVER
 
@@ -38,7 +38,7 @@ When liver parenchymal cells are destroyed, they are replaced with fibrous tissu
 |-------|-------------|
 | Chronic alcoholism | Most common cause |
 | Nonalcoholic steatohepatitis (NASH) | Fat accumulation + liver inflammation |
-| Nonalcoholic fatty liver disease (NAFLD) | Less severe form; most common cause in industrialized countries; associated with obesity and type 2 diabetes |
+| Nonalcoholic fatty liver disease (NAFLD) | Most common cause in industrialized countries; associated with obesity and type 2 diabetes |
 | Carbon tetrachloride poisoning | Chemical toxin |
 | Viral hepatitis | Infectious disease |
 | Bile duct obstruction | Blocked bile ducts |
@@ -50,7 +50,7 @@ The portal system can also be occasionally blocked by a large clot developing in
 
 When the portal system is suddenly blocked, the return of blood from the intestines and spleen through the liver portal blood flow system to the systemic circulation is impeded. This causes **portal hypertension**, with the capillary pressure in the intestinal wall increasing to **15 to 20 mm Hg** above normal.
 
-If the obstruction is not relieved, the patient may die within a few hours because of excessive loss of fluid from the capillaries into the lumens and walls of the intestines.
+If the obstruction is not relieved, the patient may die within a few hours. This is because of excessive loss of fluid from the capillaries into the lumens and walls of the intestines.
 
 ## THE LIVER AS A BLOOD RESERVOIR
 
@@ -58,27 +58,27 @@ Because the liver is an expandable organ, large quantities of blood can be store
 
 The normal blood volume of the liver — including that in the hepatic veins and hepatic sinuses — is about **450 ml**, or almost **10%** of the body's total blood volume.
 
-When high pressure in the right atrium causes back-pressure in the liver, the liver expands, and **0.5 to 1 liter** of extra blood can be stored in the hepatic veins and sinuses.
+When high pressure in the right atrium causes back-pressure in the liver, the liver expands. **0.5 to 1 liter** of extra blood can be stored in the hepatic veins and sinuses.
 
 This storage of extra blood occurs especially in cases of **cardiac failure with peripheral congestion** (discussed in Chapter 22).
 
-Thus, the liver functions as a large, expandable, venous organ. It serves as a valuable blood reservoir in times of excess blood volume and can supply extra blood in times of diminished blood volume.
+Thus, the liver functions as a large, expandable, venous organ. It serves as a valuable blood reservoir in times of excess blood volume. It can also supply extra blood in times of diminished blood volume.
 
 ## HEPATIC LYMPH FLOW
 
 Because the pores in the hepatic sinusoids are very permeable compared with capillaries in other tissues, they allow ready passage of both fluid and proteins into the spaces of Disse.
 
-Therefore, the lymph draining from the liver usually has a protein concentration of about **6 g/dl** — only slightly less than the protein concentration of plasma.
+Therefore, the lymph draining from the liver usually has a protein concentration of about **6 g/dl**. This is only slightly less than the protein concentration of plasma.
 
 In addition, the high permeability of the liver sinusoid epithelium allows large quantities of lymph to form. About **half of all the lymph** formed in the body under resting conditions arises in the liver.
 
 ## HIGH HEPATIC VASCULAR PRESSURES AND ASCITES
 
-When the pressure in the hepatic veins rises only **3 to 7 mm Hg** above normal, excessive amounts of fluid begin to transude into the lymph and leak through the outer surface of the liver capsule directly into the abdominal cavity.
+When the pressure in the hepatic veins rises only **3 to 7 mm Hg** above normal, excessive amounts of fluid begin to transude into the lymph. They also leak through the outer surface of the liver capsule directly into the abdominal cavity.
 
 This fluid is almost pure plasma, containing **80% to 90%** as much protein as normal plasma.
 
-At vena caval pressures of **10 to 15 mm Hg**, hepatic lymph flow increases to as much as **20 times normal**. The "sweating" from the surface of the liver can be so great that it causes large amounts of free fluid in the abdominal cavity — called **ascites**.
+At vena caval pressures of **10 to 15 mm Hg**, hepatic lymph flow increases to as much as **20 times normal**. The "sweating" from the surface of the liver can be so great that it causes large amounts of free fluid in the abdominal cavity. This is called **ascites**.
 
 ### Portal System Blockage
 
@@ -90,7 +90,7 @@ Blockage of portal flow through the liver also causes high capillary pressures i
 
 ## REGULATION OF LIVER MASS — REGENERATION
 
-The liver possesses a remarkable ability to restore itself after significant hepatic tissue loss from either **partial hepatectomy** or **acute liver injury**.
+The liver possesses a remarkable ability to restore itself after significant hepatic tissue loss. This can occur from either **partial hepatectomy** or **acute liver injury**.
 
 As long as the injury is uncomplicated by viral infection or inflammation, the liver can regenerate. Partial hepatectomy — in which up to **70%** of the liver is removed — causes the remaining lobes to enlarge and restore the liver to its original size.
 
@@ -98,7 +98,7 @@ This regeneration is remarkably rapid, requiring only **5 to 7 days** in rats. D
 
 ### Control of Liver Regeneration
 
-Control of this rapid regeneration is not well understood, but **hepatocyte growth factor (HGF)** appears to be important in causing liver cell division and growth.
+Control of this rapid regeneration is not well understood. However, **hepatocyte growth factor (HGF)** appears to be important in causing liver cell division and growth.
 
 Key facts about HGF:
 
@@ -118,7 +118,7 @@ Other growth factors and cytokines involved in stimulating regeneration include:
 
 After the liver has returned to its original size, the process of hepatic cell division is terminated.
 
-The factors involved are not well understood. However, **transforming growth factor-β (TGF-β)** — a cytokine secreted by hepatic cells — is a potent inhibitor of liver cell proliferation and has been suggested as the main terminator of liver regeneration.
+The factors involved are not well understood. However, **transforming growth factor-β (TGF-β)** — a cytokine secreted by hepatic cells — is a potent inhibitor of liver cell proliferation. It has been suggested as the main terminator of liver regeneration.
 
 ## LIVER LOBULE STRUCTURE
 

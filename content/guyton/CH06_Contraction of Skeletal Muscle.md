@@ -91,3 +91,53 @@ The acetylcholine-gated channel has a diameter of about 0.65 nanometer, which is
 Patch clamp studies have shown that one of these channels, when opened by acetylcholine, can transmit 15,000 to 30,000 sodium ions in 1 millisecond.
 
 Conversely, negative ions, such as chloride ions, do not pass through because of strong negative charges in the mouth of the channel that repel these negative ions.
+
+## EXCITATION-CONTRACTION COUPLING
+
+Figure 7-6 shows excitation-contraction coupling in skeletal muscle.
+
+The top panel shows an action potential in the transverse tubule that causes a conformational change in the voltage-sensing dihydropyridine (DHP) receptors.
+
+This opens the ryanodine (RyR) Ca2+ release channels in the terminal cisternae of the sarcoplasmic reticulum.
+
+This permits Ca2+ to diffuse rapidly into the sarcoplasm and initiate muscle contraction.
+
+During repolarization (bottom panel), the conformational change in the DHP receptor closes the Ca2+ release channels.
+
+Ca2+ is transported from the sarcoplasm into the sarcoplasmic reticulum by an adenosine triphosphate–dependent calcium pump, called SERCA (sarcoplasmic reticulum Ca2+-ATPase).
+
+## MALIGNANT HYPERTHERMIA
+
+Malignant hyperthermia is a condition caused by mutations in ryanodine receptors, whereby anesthetics interact with these abnormal receptors to trigger the condition.
+
+These mutations cause unregulated passage of calcium from the sarcoplasmic reticulum into the intracellular spaces.
+
+This causes the muscle fibers to contract excessively.
+
+These sustained muscle contractions greatly increase metabolic rate, generating large amounts of heat.
+
+They also cause cellular acidosis, as well as depletion of energy stores.
+
+### Symptoms
+
+Symptoms of malignant hyperthermia include:
+
+- Muscle rigidity
+- High fever
+- Rapid heart rate
+
+### Complications
+
+Additional complications in severe cases may include:
+
+- Rapid breakdown of skeletal muscle (rhabdomyolysis)
+- High plasma potassium level due to release of large amounts of potassium from damaged muscle cells
+
+### Treatment
+
+Treatment of malignant hyperthermia generally involves:
+
+1. Rapid cooling
+2. Administration of dantrolene, a drug that antagonizes ryanodine receptors
+
+Dantrolene inhibits calcium ion release from the sarcoplasmic reticulum, thereby attenuating muscle contraction.

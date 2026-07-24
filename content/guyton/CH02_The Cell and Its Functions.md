@@ -59,7 +59,7 @@ The general schema whereby genes control cell function involves:
 4. **Translation** → at ribosomes
 5. **Protein formation** → functional cell products
 
-## THE CELL MEMBRANE IS A LIPID BILAYER WITH CELL MEMBRANE TRANSPORT PROTEINS
+## THE CELL MEMBRANE: A LIPID BILAYER WITH TRANSPORT PROTEINS
 
 The structure of the membrane covering the outside of every cell of the body is discussed in Chapter 2 and illustrated in Figure 2-3 and Figure 4-2.
 
@@ -81,7 +81,9 @@ Some proteins have watery spaces all the way through the molecule and allow free
 
 ### Carrier Proteins
 
-Other proteins, called carrier proteins, bind with molecules or ions that are to be transported. Conformational changes in the protein molecules then move the substances through the interstices of the protein to the other side of the membrane.
+Other proteins, called carrier proteins, bind with molecules or ions that are to be transported.
+
+Conformational changes in the protein molecules then move the substances through the interstices of the protein to the other side of the membrane.
 
 Channel proteins and carrier proteins are usually selective for the types of molecules or ions that are allowed to cross the membrane.
 

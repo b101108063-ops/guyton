@@ -43,22 +43,29 @@ This feature forces the signal to travel in required directions to perform speci
 Most activities of the nervous system are initiated by sensory experiences that excite sensory receptors.
 
 These may include:
+
 - Visual receptors in the eyes
 - Auditory receptors in the ears
 - Tactile receptors on the surface of the body
 - Other types of receptors
 
 These sensory experiences can either:
+
 1. Cause immediate reactions from the brain
 2. Result in memories that are stored in the brain for minutes, weeks, or years, determining bodily reactions at some future date
 
 ### Somatic Portion of the Sensory System
 
-Figure 46-2 shows the somatic portion of the sensory system, which transmits sensory information from:
+Figure 46-2 shows the somatic portion of the sensory system.
+
+It transmits sensory information from:
+
 - The receptors of the entire body surface
 - Some deep structures
 
-This information enters the central nervous system through peripheral nerves and is conducted immediately to multiple sensory areas:
+This information enters the central nervous system through peripheral nerves.
+
+It is conducted immediately to multiple sensory areas:
 
 | Area | Function |
 |------|----------|
@@ -73,6 +80,7 @@ This information enters the central nervous system through peripheral nerves and
 The most important eventual role of the nervous system is to control the various bodily activities.
 
 This task is achieved by controlling:
+
 1. Contraction of appropriate skeletal muscles throughout the body
 2. Contraction of smooth muscle in the internal organs
 3. Secretion of active chemical substances by both exocrine and endocrine glands
@@ -86,6 +94,7 @@ The muscles and glands are called **effectors** because they are the actual anat
 Figure 46-3 shows the skeletal motor nerve axis of the nervous system for controlling skeletal muscle contraction.
 
 Operating parallel to this axis is another system, called the **autonomic nervous system**, for controlling:
+
 - Smooth muscles
 - Glands
 - Other internal bodily systems
@@ -115,6 +124,7 @@ One of the most important functions of the nervous system is to process incoming
 More than 99% of all sensory information is discarded by the brain as irrelevant and unimportant.
 
 **Examples of discarded information:**
+
 - Parts of the body in contact with clothing
 - Seat pressure when sitting
 - Most of the visual field
@@ -124,7 +134,9 @@ However, when important sensory information excites the mind, it is immediately 
 
 This channeling and processing of information is called the **integrative function** of the nervous system.
 
-**Example:** If a person places a hand on a hot stove, the desired instantaneous response is to lift the hand. Other associated responses follow, such as moving the entire body away from the stove and perhaps shouting with pain.
+**Example:** If a person places a hand on a hot stove, the desired instantaneous response is to lift the hand.
+
+Other associated responses follow, such as moving the entire body away from the stove and perhaps shouting with pain.
 
 ## ROLE OF SYNAPSES IN PROCESSING INFORMATION
 
@@ -143,10 +155,12 @@ Synapses determine the directions that nervous signals will spread through the n
 
 ### Functions of Synapses
 
-1. Some postsynaptic neurons respond with large numbers of output impulses
-2. Other neurons respond with only a few
+Some postsynaptic neurons respond with large numbers of output impulses.
+
+Other neurons respond with only a few.
 
 Thus, synapses perform a selective action:
+
 - Blocking weak signals while allowing strong signals to pass
 - At other times, selecting and amplifying certain weak signals
 - Often channeling signals in many directions rather than in only one direction

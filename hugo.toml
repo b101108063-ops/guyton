@@ -20,22 +20,10 @@ date = ["date", "publishDate", "lastmod"]
     weight = 10
 
   [[menu.main]]
-    identifier = "tintinalli"
-    name = "Tintinalli 選單"
-    url = "/tintinalli/"
-    weight = 20
-
-  [[menu.main]]
-    identifier = "huppert"
-    name = "Huppert 選單"
-    url = "/huppert/"
-    weight = 30
-
-  [[menu.main]]
     identifier = "search"
     name = "搜尋"
     url = "/search/"
-    weight = 40
+    weight = 20
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

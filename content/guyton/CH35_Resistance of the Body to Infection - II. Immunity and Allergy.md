@@ -121,6 +121,7 @@ This population of cells was first discovered in birds, which have a special pre
 > **Figure 35-1.** Formation of antibodies and sensitized lymphocytes by a lymph node in response to antigens. This shows the origin of thymic (T) and bursal (B) lymphocytes that, respectively, are responsible for the cell-mediated and humoral immune processes.
 
 **Pathway:**
+
 - Hematopoietic stem cells → Common lymphoid progenitor cells
 - Common lymphoid progenitor cells → Developing B cells (processed in bone marrow/liver) → B lymphocytes → Plasma cells → Antibodies
 - Common lymphoid progenitor cells → T cells (processed in thymus) → Activated T lymphocytes

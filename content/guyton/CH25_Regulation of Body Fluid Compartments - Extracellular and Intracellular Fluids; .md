@@ -20,11 +20,7 @@ Putting together all the safety factors against edema, we find the following:
 2. The safety factor caused by increased lymph flow is about 7 mm Hg.
 3. The safety factor caused by washdown of proteins from the interstitial spaces is about 7 mm Hg.
 
-Therefore, the total safety factor against edema is about 17 mm Hg.
-
-This means that the capillary pressure in a peripheral tissue could theoretically rise by 17 mm Hg.
-
-This is approximately double the normal value before marked edema would occur.
+Therefore, the total safety factor against edema is about 17 mm Hg. This means that the capillary pressure in a peripheral tissue could theoretically rise by 17 mm Hg, approximately double the normal value, before marked edema would occur.
 
 ## FLUIDS IN POTENTIAL SPACES OF THE BODY
 
@@ -35,91 +31,49 @@ Some examples of potential spaces are:
 - Peritoneal cavity
 - Synovial cavities (including joint cavities and bursae)
 
-Virtually all these potential spaces have surfaces that almost touch each other.
-
-Only a thin layer of fluid is between them.
-
-The surfaces slide over each other.
-
-To facilitate the sliding, a viscous proteinaceous fluid lubricates the surfaces.
+Virtually all these potential spaces have surfaces that almost touch each other. Only a thin layer of fluid is between them, and the surfaces slide over each other. To facilitate the sliding, a viscous proteinaceous fluid lubricates the surfaces.
 
 ### Fluid Exchange Between Capillaries and Potential Spaces
 
-The surface membrane of a potential space usually does not offer significant resistance to the passage of fluids, electrolytes, or even proteins.
+The surface membrane of a potential space usually does not offer significant resistance to the passage of fluids, electrolytes, or even proteins. These all move back and forth between the space and interstitial fluid in the surrounding tissue with relative ease.
 
-These all move back and forth between the space and interstitial fluid in the surrounding tissue with relative ease.
-
-Therefore, each potential space is in reality a large tissue space.
-
-Consequently, fluid in the capillaries adjacent to the potential space diffuses not only into the interstitial fluid but also into the potential space.
+Therefore, each potential space is in reality a large tissue space. Fluid in the capillaries adjacent to the potential space diffuses not only into the interstitial fluid but also into the potential space.
 
 ### Lymphatic Vessels Drain Protein From the Potential Spaces
 
-Proteins collect in the potential spaces because of leakage out of the capillaries.
+Proteins collect in the potential spaces because of leakage out of the capillaries. This is similar to the collection of protein in the interstitial spaces throughout the body. The protein must be removed through lymphatics or other channels and must be returned to the circulation.
 
-This is similar to the collection of protein in the interstitial spaces throughout the body.
-
-The protein must be removed through lymphatics or other channels.
-
-It must be returned to the circulation.
-
-Each potential space is directly or indirectly connected with lymph vessels.
-
-In some cases, such as the pleural cavity and peritoneal cavity, large lymph vessels arise directly from the cavity itself.
+Each potential space is directly or indirectly connected with lymph vessels. In some cases, such as the pleural cavity and peritoneal cavity, large lymph vessels arise directly from the cavity itself.
 
 ### Edema Fluid in the Potential Spaces Is Called Effusion
 
-When edema occurs in the subcutaneous tissues adjacent to the potential space, edema fluid usually collects in the potential space as well.
+When edema occurs in the subcutaneous tissues adjacent to the potential space, edema fluid usually collects in the potential space as well. This fluid is called effusion.
 
-This fluid is called effusion.
+Lymph blockage or any of the multiple abnormalities that can cause excessive capillary filtration can cause effusion, the same way that interstitial edema is caused.
 
-Lymph blockage or any of the multiple abnormalities that can cause excessive capillary filtration can cause effusion.
+The abdominal cavity is especially prone to collect effusion fluid. In this case, the effusion is called ascites. In serious cases, 20 liters or more of ascitic fluid can accumulate.
 
-This is the same way that interstitial edema is caused.
+The other potential spaces can become seriously swollen when generalized edema is present, including the pleural cavity, pericardial cavity, and joint spaces.
 
-The abdominal cavity is especially prone to collect effusion fluid.
-
-In this case, the effusion is called ascites.
-
-In serious cases, 20 liters or more of ascitic fluid can accumulate.
-
-The other potential spaces can become seriously swollen when generalized edema is present.
-
-These include the pleural cavity, pericardial cavity, and joint spaces.
-
-Injury or local infection in any one of the cavities often blocks the lymph drainage.
-
-This causes isolated swelling in the cavity.
+Injury or local infection in any one of the cavities often blocks the lymph drainage, causing isolated swelling in the cavity.
 
 ### Normal Pressure in Potential Spaces
 
-The dynamics of fluid exchange in the pleural cavity are discussed in detail in Chapter 39.
+The dynamics of fluid exchange in the pleural cavity are discussed in detail in Chapter 39. These dynamics are mainly representative of all other potential spaces as well.
 
-These dynamics are mainly representative of all other potential spaces as well.
+The normal fluid pressure in most or all of the potential spaces in the nonedematous state is negative, similar to how pressure is negative (subatmospheric) in loose subcutaneous tissue.
 
-The normal fluid pressure in most or all of the potential spaces in the nonedematous state is negative.
-
-This is similar to how pressure is negative (subatmospheric) in loose subcutaneous tissue.
-
-For example:
-
-- The interstitial fluid hydrostatic pressure is normally about −7 to −8 mm Hg in the pleural cavity
-- It is −3 to −5 mm Hg in the joint spaces
-- It is −5 to −6 mm Hg in the pericardial cavity
+| Space | Interstitial Fluid Hydrostatic Pressure |
+|-------|----------------------------------------|
+| Pleural cavity | −7 to −8 mm Hg |
+| Joint spaces | −3 to −5 mm Hg |
+| Pericardial cavity | −5 to −6 mm Hg |
 
 ## FLUID INTAKE AND OUTPUT ARE BALANCED DURING STEADY-STATE CONDITIONS
 
-The relative constancy of the body fluids is remarkable.
+The relative constancy of the body fluids is remarkable. There is continuous exchange of fluid and solutes with the external environment, as well as exchange within the different body compartments.
 
-There is continuous exchange of fluid and solutes with the external environment.
-
-There is also exchange within the different body compartments.
-
-Fluid added to the body is highly variable.
-
-It must be carefully matched by an equal output of water from the body.
-
-This prevents body fluid volumes from increasing or decreasing.
+Fluid added to the body is highly variable. It must be carefully matched by an equal output of water from the body to prevent body fluid volumes from increasing or decreasing.
 
 ## DAILY INTAKE OF WATER
 
@@ -128,93 +82,35 @@ Water is added to the body by two major sources:
 1. **Ingested in form of liquids or water in food**: about 2100 ml/day
 2. **Synthesized in the body by oxidation of carbohydrates**: about 200 ml/day
 
-These mechanisms provide a total water intake of about 2300 ml/day.
-
-However, intake of water is highly variable among different people.
-
-It even varies within the same person on different days.
-
-This depends on climate, habits, and level of physical activity.
+These mechanisms provide a total water intake of about 2300 ml/day. However, intake of water is highly variable among different people and even within the same person on different days, depending on climate, habits, and level of physical activity.
 
 ## DAILY LOSS OF BODY WATER
 
 ### Insensible Water Loss
 
-Some water losses cannot be precisely regulated.
+Some water losses cannot be precisely regulated. Humans experience continuous water loss by evaporation from the respiratory tract and diffusion through the skin. Together these account for about 700 ml/day of water loss under normal conditions. This loss is termed insensible water loss. We are not consciously aware of it, even though it occurs continually in all living people.
 
-Humans experience continuous water loss by evaporation from the respiratory tract.
+**Insensible water loss through the skin** occurs independently of sweating. It is present even in people who are born without sweat glands. The average water loss by diffusion through the skin is about 300 to 400 ml/day. This loss is minimized by the cholesterol-filled, cornified layer of the skin, which provides a barrier against excessive loss by diffusion.
 
-Diffusion through the skin also causes water loss.
+When the cornified layer becomes denuded, as occurs with extensive burns, the rate of evaporation can increase as much as 10-fold, or 3 to 5 L/day. Persons with burns must be given large amounts of fluid, usually given intravenously, to balance fluid loss.
 
-Together these account for about 700 ml/day of water loss under normal conditions.
+**Insensible water loss through the respiratory tract** normally averages about 300 to 400 ml/day. As air enters the respiratory tract, it becomes saturated with moisture to a vapor pressure of about 47 mm Hg before it is expelled.
 
-This loss is termed insensible water loss.
-
-We are not consciously aware of it, even though it occurs continually in all living people.
-
-**Insensible water loss through the skin** occurs independently of sweating.
-
-It is present even in people who are born without sweat glands.
-
-The average water loss by diffusion through the skin is about 300 to 400 ml/day.
-
-This loss is minimized by the cholesterol-filled, cornified layer of the skin.
-
-This layer provides a barrier against excessive loss by diffusion.
-
-When the cornified layer becomes denuded, as occurs with extensive burns, the rate of evaporation can increase as much as 10-fold.
-
-This can be 3 to 5 L/day.
-
-Persons with burns must be given large amounts of fluid.
-
-This is usually given intravenously.
-
-This balances fluid loss.
-
-**Insensible water loss through the respiratory tract** normally averages about 300 to 400 ml/day.
-
-As air enters the respiratory tract, it becomes saturated with moisture to a vapor pressure of about 47 mm Hg before it is expelled.
-
-Because the vapor pressure of the inspired air is usually less than 47 mm Hg, water is continuously lost through the lungs with respiration.
-
-In cold weather, the atmospheric vapor pressure decreases to nearly 0.
-
-This causes an even greater loss of water from the lungs as temperature decreases.
-
-This explains the dry feeling in the respiratory passages in cold weather.
+Because the vapor pressure of the inspired air is usually less than 47 mm Hg, water is continuously lost through the lungs with respiration. In cold weather, the atmospheric vapor pressure decreases to nearly 0, causing even greater loss of water from the lungs as temperature decreases. This explains the dry feeling in the respiratory passages in cold weather.
 
 ### Fluid Loss in Sweat
 
-The amount of water lost by sweating is highly variable.
+The amount of water lost by sweating is highly variable, depending on physical activity and environmental temperature. The volume of sweat normally is about 100 ml/day.
 
-It depends on physical activity and environmental temperature.
-
-The volume of sweat normally is about 100 ml/day.
-
-In very hot weather or during heavy exercise, fluid loss in sweat occasionally increases to 1 to 2 L/hour.
-
-This fluid loss would rapidly deplete the body fluids if intake were not also increased.
-
-This is done by activating the thirst mechanism.
-
-This is discussed in Chapter 29.
+In very hot weather or during heavy exercise, fluid loss in sweat occasionally increases to 1 to 2 L/hour. This fluid loss would rapidly deplete the body fluids if intake were not also increased, done by activating the thirst mechanism (discussed in Chapter 29).
 
 ### Water Loss in Feces
 
-Only a small amount of water (100 ml/day) normally is lost in the feces.
-
-This loss can increase to several liters a day in people with severe diarrhea.
-
-Severe diarrhea can be life-threatening if not corrected within a few days.
+Only a small amount of water (100 ml/day) normally is lost in the feces. This loss can increase to several liters a day in people with severe diarrhea. Severe diarrhea can be life-threatening if not corrected within a few days.
 
 ### Water Loss by the Kidneys
 
-The remaining water loss from the body occurs in the urine excreted by the kidneys.
-
-Multiple mechanisms control the rate of urine excretion.
-
-The most important means whereby the body maintains balance between water intake and output, as well as a balance between intake and output of most electrolytes, is by controlling the rate at which the kidneys excrete these substances.
+The remaining water loss from the body occurs in the urine excreted by the kidneys. Multiple mechanisms control the rate of urine excretion. The most important means whereby the body maintains balance between water intake and output, as well as a balance between intake and output of most electrolytes, is by controlling the rate at which the kidneys excrete these substances.
 
 For example:
 
@@ -223,19 +119,9 @@ For example:
 
 ### Variability of Electrolyte Intake
 
-This variability of intake is also true for most electrolytes of the body.
+This variability of intake is also true for most electrolytes of the body, such as sodium, chloride, and potassium. In some people, sodium intake may be as low as 20 mEq/day. In others, sodium intake may be as high as 300 to 500 mEq/day.
 
-Examples include sodium, chloride, and potassium.
-
-In some people, sodium intake may be as low as 20 mEq/day.
-
-In others, sodium intake may be as high as 300 to 500 mEq/day.
-
-The kidneys have the task of adjusting the excretion rate of water and electrolytes to match the intake of these substances precisely.
-
-They also compensate for excessive losses of fluids and electrolytes that occur in certain disease states.
-
-These mechanisms are discussed in Chapters 26 through 32.
+The kidneys have the task of adjusting the excretion rate of water and electrolytes to match the intake of these substances precisely. They also compensate for excessive losses of fluids and electrolytes that occur in certain disease states. These mechanisms are discussed in Chapters 26 through 32.
 
 ## BODY FLUID COMPARTMENTS
 
@@ -249,9 +135,7 @@ Extracellular fluid is divided into:
 - Interstitial fluid
 - Blood plasma
 
-There is another small compartment of fluid referred to as transcellular fluid.
-
-This compartment includes fluid in:
+There is another small compartment of fluid referred to as transcellular fluid. This compartment includes fluid in:
 
 - Synovial spaces
 - Peritoneal spaces
@@ -259,26 +143,13 @@ This compartment includes fluid in:
 - Intraocular spaces
 - Cerebrospinal fluid
 
-It is usually considered to be a specialized type of extracellular fluid.
-
-In some cases, its composition may differ markedly from that of plasma or interstitial fluid.
-
-All the transcellular fluids together constitute about 1 to 2 liters.
+It is usually considered to be a specialized type of extracellular fluid. In some cases, its composition may differ markedly from that of plasma or interstitial fluid. All the transcellular fluids together constitute about 1 to 2 liters.
 
 ### Total Body Water in a 70-kg Adult Man
 
-In a 70-kg adult man:
+In a 70-kg adult man, total body water is about 60% of body weight, or about 42 liters.
 
-- Total body water is about 60% of body weight
-- This is about 42 liters
-
-This percentage depends on age, sex, and degree of obesity.
-
-As a person grows older, the percentage of total body weight that is fluid gradually decreases.
-
-This decrease is due in part to the fact that aging is usually associated with an increased percentage of body weight being fat.
-
-Fat decreases the percentage of water in the body.
+This percentage depends on age, sex, and degree of obesity. As a person grows older, the percentage of total body weight that is fluid gradually decreases due in part to the fact that aging is usually associated with an increased percentage of body weight being fat. Fat decreases the percentage of water in the body.
 
 Because women normally have a greater percentage of body fat compared with men, their total body water averages about 50% of body weight.
 
@@ -295,25 +166,13 @@ Therefore, when discussing average body fluid compartments, variations exist dep
 | Extracellular fluid | 14 L | 20% |
 | Interstitial fluid | 11 L | ~16% |
 | Plasma | 3 L | ~4% |
-| Transcellular fluid | 1-2 L | ~1-2% |
+| Transcellular fluid | 1–2 L | ~1–2% |
 
 ## INTRACELLULAR FLUID COMPARTMENT
 
-About 28 of the 42 liters of fluid in the body are inside the trillions of cells.
+About 28 of the 42 liters of fluid in the body are inside the trillions of cells. This is collectively called the intracellular fluid. Thus, the intracellular fluid constitutes about 40% of total body weight in an "average" person.
 
-This is collectively called the intracellular fluid.
-
-Thus, the intracellular fluid constitutes about 40% of total body weight in an "average" person.
-
-The fluid of each cell contains its individual mixture of different constituents.
-
-The concentrations of these substances are similar from one cell to another.
-
-The composition of cell fluids is remarkably similar.
-
-This is true even in different animals.
-
-This ranges from the most primitive organisms to humans.
+The fluid of each cell contains its individual mixture of different constituents. However, the concentrations of these substances are similar from one cell to another. The composition of cell fluids is remarkably similar, even in different animals, ranging from the most primitive organisms to humans.
 
 ## Daily Water Balance
 
@@ -321,9 +180,9 @@ This ranges from the most primitive organisms to humans.
 
 | Intake (ml/day) | Normal | Prolonged Heavy Exercise |
 |-----------------|--------|------------------------|
-| Fluids ingested | 2100 | ? |
+| Fluids ingested | 2100 | Increased |
 | From metabolism | 200 | 200 |
-| **Total intake** | **2300** | **?** |
+| **Total intake** | **2300** | **>2300** |
 
 | Output (ml/day) | Normal | Prolonged Heavy Exercise |
 |-----------------|--------|------------------------|
@@ -332,6 +191,6 @@ This ranges from the most primitive organisms to humans.
 | Sweat | 100 | 5000 |
 | Feces | 100 | 100 |
 | Urine | 1400 | 500 |
-| **Total output** | **2300** | **6600** |
+| **Total output** | **2300** | **~6600** |
 
 > **Figure 25-1.** Summary of body fluid regulation, including the major body fluid compartments and the membranes that separate these compartments. The values shown are for an average 70-kg man.

@@ -14,79 +14,49 @@ key_points:
 
 ## TUBULAR REABSORPTION INCLUDES PASSIVE AND ACTIVE MECHANISMS
 
-For a substance to be reabsorbed, it must first be transported across the tubular epithelial membranes into the renal interstitial fluid.
+For a substance to be reabsorbed, it must first be transported across the tubular epithelial membranes into the renal interstitial fluid. Then it must be transported through the peritubular capillary membrane back into the blood.
 
-Then it must be transported through the peritubular capillary membrane back into the blood.
+Reabsorption of water and solutes includes a series of transport steps. Reabsorption across the tubular epithelium into the interstitial fluid includes active or passive transport, using the same basic mechanisms discussed in Chapter 4 for transport across other cell membranes of the body.
 
-Reabsorption of water and solutes includes a series of transport steps.
+Water and solutes can be transported:
 
-Reabsorption across the tubular epithelium into the interstitial fluid includes active or passive transport.
+- Through the cell membranes (transcellular route)
+- Through the spaces between the cell junctions (paracellular route)
 
-These use the same basic mechanisms discussed in Chapter 4 for transport across other cell membranes of the body.
+After absorption across the tubular epithelial cells into the interstitial fluid, water and solutes are transported through the peritubular capillary walls into the blood by ultrafiltration (bulk flow) mediated by hydrostatic and colloid osmotic forces.
 
-Water and solutes can be transported through the cell membranes (transcellular route).
-
-Or they can be transported through the spaces between the cell junctions (paracellular route).
-
-After absorption across the tubular epithelial cells into the interstitial fluid, water and solutes are transported through the peritubular capillary walls into the blood.
-
-This occurs by ultrafiltration (bulk flow) mediated by hydrostatic and colloid osmotic forces.
-
-The peritubular capillaries behave like the venous ends of most other capillaries.
-
-This is because there is a net reabsorptive force that moves the fluid and solutes from the interstitium into the blood.
+The peritubular capillaries behave like the venous ends of most other capillaries because there is a net reabsorptive force that moves the fluid and solutes from the interstitium into the blood.
 
 ## ACTIVE TRANSPORT
 
-Active transport can move a solute against an electrochemical gradient.
-
-This requires energy derived from metabolism.
+Active transport can move a solute against an electrochemical gradient, which requires energy derived from metabolism.
 
 ### Primary Active Transport
 
 Transport that is coupled directly to an energy source, such as the hydrolysis of adenosine triphosphate (ATP), is termed primary active transport.
 
-An example is the sodium-potassium adenosine triphosphatase (ATPase) pump (Na+-K+ ATPase pump).
-
-This pump functions throughout most parts of the renal tubule.
+An example is the sodium-potassium adenosine triphosphatase pump (Na+-K+ ATPase pump). This pump functions throughout most parts of the renal tubule.
 
 ### Secondary Active Transport
 
-Transport that is coupled indirectly to an energy source, such as that due to an ion gradient, is referred to as secondary active transport.
+Transport that is coupled indirectly to an energy source, such as that due to an ion gradient, is referred to as secondary active transport. Reabsorption of glucose by the renal tubule is an example of secondary active transport.
 
-Reabsorption of glucose by the renal tubule is an example of secondary active transport.
-
-Although solutes can be reabsorbed by active and/or passive mechanisms by the tubule, water is always reabsorbed passively.
-
-Water moves across the tubular epithelial membrane by the process of osmosis.
+Although solutes can be reabsorbed by active and/or passive mechanisms by the tubule, water is always reabsorbed passively, moving across the tubular epithelial membrane by the process of osmosis.
 
 ### Solutes Can Be Transported Through Epithelial Cells or Between Cells
 
-Renal tubular cells, like other epithelial cells, are held together by tight junctions.
+Renal tubular cells, like other epithelial cells, are held together by tight junctions. Lateral intercellular spaces lie behind the tight junctions, separating the epithelial cells of the tubule.
 
-Lateral intercellular spaces lie behind the tight junctions.
+Solutes can be reabsorbed or secreted:
 
-These separate the epithelial cells of the tubule.
+- **Transcellular pathway**: across the cells through the cell membranes
+- **Paracellular pathway**: between the cells through the tight junctions and intercellular spaces
 
-Solutes can be reabsorbed or secreted across the cells through the transcellular pathway.
-
-Or they can move between the cells by passing through the tight junctions and intercellular spaces via the paracellular pathway.
-
-Sodium is a substance that moves through both routes.
-
-Most sodium is transported through the transcellular pathway.
-
-In some nephron segments, especially the proximal tubule, water is also reabsorbed across the paracellular pathway.
-
-Substances dissolved in the water, especially potassium, magnesium, and chloride ions, are carried with the reabsorbed fluid between the cells.
+Sodium is a substance that moves through both routes, with most transported through the transcellular pathway. In some nephron segments, especially the proximal tubule, water is also reabsorbed across the paracellular pathway, and substances dissolved in the water (especially potassium, magnesium, and chloride ions) are carried with the reabsorbed fluid between the cells.
 
 ### Primary Active Transport Through the Tubular Membrane Linked to Hydrolysis of Adenosine Triphosphatase
 
-The special importance of primary active transport is that it can move solutes against an electrochemical gradient.
-
-The energy for this active transport comes from the hydrolysis of ATP by way of membrane-bound ATPase.
-
-ATPase is also a component of the carrier mechanism that binds and moves solutes across the cell membranes.
+The special importance of primary active transport is that it can move solutes against an electrochemical gradient. The energy for this active transport comes from the hydrolysis of ATP by way of membrane-bound ATPase, which is also a component of the carrier mechanism that binds and moves solutes across the cell membranes.
 
 The primary active transporters in the kidneys that are known include:
 
@@ -97,13 +67,11 @@ The primary active transporters in the kidneys that are known include:
 
 ### Example: Reabsorption of Sodium Ions Across the Proximal Tubular Membrane
 
-A good example of primary active transport is the reabsorption of sodium ions across the proximal tubular membrane.
-
-This is shown in Figure 28-2.
+A good example of primary active transport is the reabsorption of sodium ions across the proximal tubular membrane, as shown in Figure 28-2.
 
 ## FILTRATION FRACTION IS CALCULATED FROM GFR DIVIDED BY RPF
 
-To calculate the filtration fraction, which is the fraction of plasma that filters through the glomerular membrane, one must first know the RPF (PAH clearance) and the GFR (inulin clearance).
+To calculate the filtration fraction (the fraction of plasma that filters through the glomerular membrane), one must first know the RPF (PAH clearance) and the GFR (inulin clearance).
 
 If the RPF is 650 ml/min and the GFR is 125 ml/min:
 
@@ -111,20 +79,14 @@ If the RPF is 650 ml/min and the GFR is 125 ml/min:
 FF = GFR/RPF = 125/650 = 0.19
 ```
 
-The filtration fraction (FF) is approximately 0.19 (19%).
-
-This means about one-fifth of plasma is filtered.
+The filtration fraction (FF) is approximately 0.19 (19%). This means about one-fifth of plasma is filtered.
 
 ## CALCULATION OF TUBULAR REABSORPTION OR SECRETION FROM RENAL CLEARANCES
 
 If the rates of glomerular filtration and renal excretion of a substance are known, one can calculate whether there is net reabsorption or net secretion.
 
-If the rate of excretion of the substance (Us × V) is less than the filtered load of the substance (GFR × Ps), then some of the substance must have been reabsorbed from the renal tubules.
-
-Conversely, if the excretion rate of the substance is greater than its filtered load, then the rate at which it appears in the urine represents:
-
-- The rate of glomerular filtration
-- Plus tubular secretion
+- If the rate of excretion (Us × V) is less than the filtered load (GFR × Ps), then some of the substance must have been reabsorbed from the renal tubules.
+- If the excretion rate is greater than its filtered load, then the rate at which it appears in the urine represents the rate of glomerular filtration plus tubular secretion.
 
 ### Example: Calculation of Tubular Reabsorption
 
@@ -145,7 +107,7 @@ Assume the following laboratory values for a patient were obtained:
 
 One can calculate the total blood flow through the kidneys from the total RPF and hematocrit.
 
-If the hematocrit is 0.45 and the total RPF is 650 ml/min, the total blood flow through both kidneys is:
+If the hematocrit is 0.45 and the total RPF is 650 ml/min:
 
 ```
 Total blood flow = RPF / (1 − Hematocrit) = 650 / (1 − 0.45) = 1182 ml/min
@@ -162,7 +124,7 @@ The following generalizations can be made by comparing the clearance of a substa
 ### Approximate Clearance Rates for Some Substances
 
 | Substance | Clearance Rate (ml/min) | Interpretation |
-|-----------|----------------------|----------------|
+|-----------|------------------------|----------------|
 | Glucose | 0 | Completely reabsorbed |
 | Sodium | 0.9 | Mostly reabsorbed |
 | Chloride | 1.3 | Mostly reabsorbed |
@@ -173,9 +135,11 @@ The following generalizations can be made by comparing the clearance of a substa
 
 ### Interpretation of Clearance Values
 
-- **Clearance < Inulin clearance**: Net reabsorption occurred
-- **Clearance > Inulin clearance**: Net secretion occurred
-- **Clearance = Inulin clearance**: Only filtered, neither reabsorbed nor secreted
+| Clearance vs. Inulin | Interpretation |
+|---------------------|----------------|
+| Clearance < Inulin | Net reabsorption occurred |
+| Clearance > Inulin | Net secretion occurred |
+| Clearance = Inulin | Only filtered, neither reabsorbed nor secreted |
 
 ### Special Cases
 
@@ -187,7 +151,7 @@ The following generalizations can be made by comparing the clearance of a substa
 ### Types of Tubular Transport
 
 | Type | Energy Source | Example |
-|------|-------------|---------|
+|------|--------------|---------|
 | Primary active transport | Direct ATP hydrolysis | Na+-K+ ATPase |
 | Secondary active transport | Ion gradient (established by primary active transport) | Glucose reabsorption (SGLT) |
 | Passive transport (diffusion) | Concentration or electrochemical gradient | Urea reabsorption |

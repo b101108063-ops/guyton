@@ -14,19 +14,11 @@ key_points:
 
 ## Introduction
 
-Most people are familiar with one important function of the kidneys—to rid the body of waste materials.
+Most people are familiar with one important function of the kidneys—to rid the body of waste materials. These waste materials are ingested or produced by metabolism.
 
-These waste materials are ingested or produced by metabolism.
+A second function that is especially critical is to control the volume and electrolyte composition of the body fluids. For water and virtually all electrolytes in the body, the balance between intake and output is maintained largely by the kidneys.
 
-A second function that is especially critical is to control the volume and electrolyte composition of the body fluids.
-
-For water and virtually all electrolytes in the body, the balance between intake and output is maintained largely by the kidneys.
-
-This regulatory function maintains the stable internal environment necessary for cells to perform their various activities.
-
-The kidneys perform their most critical functions by filtering the plasma.
-
-They remove substances from the filtrate at variable rates, depending on the needs of the body.
+This regulatory function maintains the stable internal environment necessary for cells to perform their various activities. The kidneys perform their most critical functions by filtering the plasma and removing substances from the filtrate at variable rates, depending on the needs of the body.
 
 ## Multiple Functions of the Kidneys
 
@@ -43,9 +35,7 @@ The kidneys serve many important homeostatic functions, including:
 
 ### Excretion of Metabolic Waste Products
 
-The kidneys are the primary means for eliminating most of the waste products of metabolism.
-
-These products include:
+The kidneys are the primary means for eliminating most of the waste products of metabolism. These products include:
 
 - **Urea**: from the metabolism of amino acids
 - **Creatinine**: from muscle creatine
@@ -53,99 +43,43 @@ These products include:
 - **Bilirubin**: end products of hemoglobin breakdown
 - **Hormone metabolites**: from various hormones
 
-The kidneys also eliminate most toxins and other foreign substances.
-
-These include pesticides, drugs, and food additives.
+The kidneys also eliminate most toxins and other foreign substances, including pesticides, drugs, and food additives.
 
 ### Regulation of Water and Electrolyte Balances
 
-For maintenance of homeostasis, excretion of water and electrolytes must match intake precisely.
+For maintenance of homeostasis, excretion of water and electrolytes must match intake precisely. If intake exceeds excretion, the amount of that substance in the body will increase. If intake is less than excretion, the amount of that substance in the body will decrease.
 
-If intake exceeds excretion, the amount of that substance in the body will increase.
+Although temporary imbalances may occur, the maintenance of life depends on restoration of water and electrolyte balance. Intake of water and many electrolytes is usually governed by a person's eating and drinking habits. This requires the kidneys to adjust their excretion rates to match the intakes.
 
-If intake is less than excretion, the amount of that substance in the body will decrease.
+Figure 26-1 shows the response of the kidneys to a sudden 10-fold increase in sodium intake. Sodium intake increases from a low level of 30 mEq/day to a high level of 300 mEq/day. Within 2 to 3 days after raising sodium intake, renal excretion also increases to about 300 mEq/day, and balance between intake and output is rapidly re-established.
 
-Although temporary imbalances may occur, the maintenance of life depends on restoration of water and electrolyte balance.
+During the 2 to 3 days of renal adaptation, there is a modest accumulation of sodium. This raises extracellular fluid volume slightly and also triggers hormonal changes and other compensatory responses that signal the kidneys to increase their sodium excretion.
 
-Intake of water and many electrolytes is usually governed by a person's eating and drinking habits.
+The capability of the kidneys to alter sodium excretion in response to changes in sodium intake is tremendous. Sodium intake can be increased to 1500 mEq/day (more than 10 times normal) or decreased to 10 mEq/day (<0.1 of normal), with relatively small changes in extracellular fluid volume or plasma sodium concentration occurring.
 
-This requires the kidneys to adjust their excretion rates to match the intakes.
-
-Figure 26-1 shows the response of the kidneys to a sudden 10-fold increase in sodium intake.
-
-Sodium intake increases from a low level of 30 mEq/day to a high level of 300 mEq/day.
-
-Within 2 to 3 days after raising sodium intake, renal excretion also increases to about 300 mEq/day.
-
-Balance between intake and output is rapidly re-established.
-
-During the 2 to 3 days of renal adaptation, there is a modest accumulation of sodium.
-
-This raises extracellular fluid volume slightly.
-
-It also triggers hormonal changes and other compensatory responses.
-
-These signal the kidneys to increase their sodium excretion.
-
-The capability of the kidneys to alter sodium excretion in response to changes in sodium intake is tremendous.
-
-Sodium intake can be increased to 1500 mEq/day (more than 10 times normal).
-
-Sodium intake can be decreased to 10 mEq/day (<0.1 of normal).
-
-Relatively small changes in extracellular fluid volume or plasma sodium concentration occur.
-
-This phenomenon is also true for water and for most other electrolytes.
-
-These include chloride, potassium, calcium, hydrogen, magnesium, and phosphate ions.
+This phenomenon is also true for water and for most other electrolytes, including chloride, potassium, calcium, hydrogen, magnesium, and phosphate ions.
 
 ### Regulation of Arterial Pressure
 
-The kidneys play a dominant role in long-term regulation of arterial pressure.
+The kidneys play a dominant role in long-term regulation of arterial pressure by excreting variable amounts of sodium and water.
 
-This is done by excreting variable amounts of sodium and water.
-
-The kidneys also contribute to short-term arterial pressure regulation.
-
-They do this by secreting hormones and vasoactive factors or substances (e.g., renin).
-
-This leads to the formation of vasoactive products (e.g., angiotensin II).
+The kidneys also contribute to short-term arterial pressure regulation by secreting hormones and vasoactive factors or substances (e.g., renin). This leads to the formation of vasoactive products (e.g., angiotensin II).
 
 ### Regulation of Acid–Base Balance
 
-The kidneys contribute to acid–base regulation, along with the lungs and body fluid buffers.
+The kidneys contribute to acid–base regulation, along with the lungs and body fluid buffers, by excreting acids and by regulating the body fluid buffer stores.
 
-They do this by excreting acids and by regulating the body fluid buffer stores.
-
-The kidneys are the only means of eliminating certain types of acids from the body.
-
-These include sulfuric acid and phosphoric acid.
-
-These are generated by the metabolism of proteins.
+The kidneys are the only means of eliminating certain types of acids from the body, including sulfuric acid and phosphoric acid, which are generated by the metabolism of proteins.
 
 ### Regulation of Erythrocyte Production
 
-The kidneys secrete erythropoietin.
+The kidneys secrete erythropoietin, which stimulates production of red blood cells by hematopoietic stem cells in the bone marrow. One important stimulus for erythropoietin secretion is hypoxia.
 
-Erythropoietin stimulates production of red blood cells by hematopoietic stem cells in the bone marrow.
-
-One important stimulus for erythropoietin secretion is hypoxia.
-
-The kidneys normally account for almost all the erythropoietin secreted into the circulation.
-
-In people with severe kidney disease or who have had their kidneys removed and placed on hemodialysis, severe anemia develops.
-
-This is a result of decreased erythropoietin production.
+The kidneys normally account for almost all the erythropoietin secreted into the circulation. In people with severe kidney disease or who have had their kidneys removed and placed on hemodialysis, severe anemia develops as a result of decreased erythropoietin production.
 
 ### Regulation of 1,25-Dihydroxyvitamin D3 Production
 
-The kidneys produce 1,25-dihydroxyvitamin D3 (calcitriol).
-
-Calcitriol is the active form of vitamin D.
-
-It is produced by hydroxylating vitamin D at the "number 1" position.
-
-Calcitriol is essential for:
+The kidneys produce 1,25-dihydroxyvitamin D3 (calcitriol), the active form of vitamin D, by hydroxylating vitamin D at the "number 1" position. Calcitriol is essential for:
 
 - Normal calcium deposition in bone
 - Calcium reabsorption by the gastrointestinal tract
@@ -154,46 +88,28 @@ Calcitriol plays an important role in calcium and phosphate regulation.
 
 ### Glucose Synthesis
 
-The kidneys synthesize glucose from amino acids and other precursors during prolonged fasting.
-
-This process is referred to as gluconeogenesis.
-
-The kidneys' capacity to add glucose to the blood during prolonged periods of fasting rivals that of the liver.
+The kidneys synthesize glucose from amino acids and other precursors during prolonged fasting. This process is referred to as gluconeogenesis. The kidneys' capacity to add glucose to the blood during prolonged periods of fasting rivals that of the liver.
 
 ### Effects of Chronic Kidney Disease
 
-With chronic kidney disease or acute failure of the kidneys, these homeostatic functions are disrupted.
+With chronic kidney disease or acute failure of the kidneys, these homeostatic functions are disrupted, and severe abnormalities of body fluid volumes and composition rapidly occur.
 
-Severe abnormalities of body fluid volumes and composition rapidly occur.
-
-With complete renal failure, enough potassium, acids, fluid, and other substances accumulate in the body.
-
-This can cause death within a few days unless clinical interventions such as hemodialysis are initiated.
-
-These interventions restore, at least partially, the body fluid and electrolyte balances.
+With complete renal failure, enough potassium, acids, fluid, and other substances accumulate in the body to cause death within a few days unless clinical interventions such as hemodialysis are initiated. These interventions restore, at least partially, the body fluid and electrolyte balances.
 
 ## Physiologic Anatomy of the Kidneys
 
 ### General Organization of the Kidneys and Urinary Tract
 
-The two kidneys lie on the posterior wall of the abdomen, outside the peritoneal cavity.
+The two kidneys lie on the posterior wall of the abdomen, outside the peritoneal cavity. Each kidney of the adult human weighs about 150 grams and is about the size of a clenched fist.
 
-Each kidney of the adult human weighs about 150 grams.
-
-Each is about the size of a clenched fist.
-
-The medial side of each kidney contains an indented region called the hilum.
-
-Through the hilum pass:
+The medial side of each kidney contains an indented region called the hilum. Through the hilum pass:
 
 - Renal artery and vein
 - Lymphatics
 - Nerve supply
 - Ureter (which carries final urine from the kidney to the bladder)
 
-The kidney is surrounded by a tough fibrous capsule.
-
-This protects its delicate inner structures.
+The kidney is surrounded by a tough fibrous capsule, which protects its delicate inner structures.
 
 ### Internal Structure of the Kidney
 
@@ -202,25 +118,11 @@ If the kidney is bisected from top to bottom, two major regions can be visualize
 - Outer cortex
 - Inner medulla
 
-The medulla is divided into 8 to 10 cone-shaped masses of tissue called renal pyramids.
+The medulla is divided into 8 to 10 cone-shaped masses of tissue called renal pyramids. The base of each pyramid originates at the border between the cortex and medulla. It terminates in the papilla, which projects into the space of the renal pelvis.
 
-The base of each pyramid originates at the border between the cortex and medulla.
+The renal pelvis is a funnel-shaped continuation of the upper end of the ureter. The outer border of the pelvis is divided into open-ended pouches called major calyces, which extend downward and divide into minor calyces. The minor calyces collect urine from the tubules of each papilla.
 
-It terminates in the papilla, which projects into the space of the renal pelvis.
-
-The renal pelvis is a funnel-shaped continuation of the upper end of the ureter.
-
-The outer border of the pelvis is divided into open-ended pouches called major calyces.
-
-These extend downward and divide into minor calyces.
-
-The minor calyces collect urine from the tubules of each papilla.
-
-The walls of the calyces, pelvis, and ureter contain contractile elements.
-
-These propel the urine toward the bladder.
-
-Urine is stored in the bladder until it is emptied by micturition.
+The walls of the calyces, pelvis, and ureter contain contractile elements that propel the urine toward the bladder. Urine is stored in the bladder until it is emptied by micturition.
 
 ## Urine Formation Results From Glomerular Filtration, Tubular Reabsorption, and Tubular Secretion
 
@@ -238,43 +140,19 @@ Urinary excretion rate = Filtration rate − Reabsorption rate + Secretion rate
 
 ### Four Patterns of Renal Handling
 
-**Pattern A**: The substance is freely filtered by the glomerular capillaries but is neither reabsorbed nor secreted.
+**Pattern A**: The substance is freely filtered by the glomerular capillaries but is neither reabsorbed nor secreted. Therefore, its excretion rate equals the rate at which it was filtered. Certain waste products, such as creatinine, are handled by the kidneys in this manner.
 
-Therefore, its excretion rate equals the rate at which it was filtered.
+**Pattern B**: The substance is freely filtered but is also partly reabsorbed from the tubules back into the blood. Therefore, the rate of urinary excretion is less than the rate of filtration at the glomerular capillaries. This pattern is typical for many electrolytes.
 
-Certain waste products, such as creatinine, are handled by the kidneys in this manner.
+**Pattern C**: The substance is freely filtered at the glomerular capillaries but is not excreted into the urine. All the filtered substance is reabsorbed from the tubules back into the blood. This pattern occurs for some nutritional substances, such as amino acids and glucose.
 
-**Pattern B**: The substance is freely filtered but is also partly reabsorbed from the tubules back into the blood.
-
-Therefore, the rate of urinary excretion is less than the rate of filtration at the glomerular capillaries.
-
-This pattern is typical for many electrolytes.
-
-**Pattern C**: The substance is freely filtered at the glomerular capillaries but is not excreted into the urine.
-
-All the filtered substance is reabsorbed from the tubules back into the blood.
-
-This pattern occurs for some nutritional substances, such as amino acids and glucose.
-
-**Pattern D**: The substance is freely filtered at the glomerular capillaries and is not reabsorbed.
-
-Additional quantities of this substance are secreted from the peritubular capillary blood into the renal tubules.
-
-This pattern often occurs for organic acids and bases.
+**Pattern D**: The substance is freely filtered at the glomerular capillaries and is not reabsorbed. Additional quantities of this substance are secreted from the peritubular capillary blood into the renal tubules. This pattern often occurs for organic acids and bases.
 
 ### Filtration, Reabsorption, and Secretion of Different Substances
 
-In general, tubular reabsorption is quantitatively more important than tubular secretion in the formation of urine.
+In general, tubular reabsorption is quantitatively more important than tubular secretion in the formation of urine. However, secretion plays an important role in determining the amounts of potassium and hydrogen ions that are excreted.
 
-However, secretion plays an important role in determining the amounts of potassium and hydrogen ions that are excreted.
-
-Most waste products are poorly reabsorbed.
-
-They are therefore excreted in large amounts in the urine.
-
-Conversely, electrolytes such as sodium ions, chloride ions, and bicarbonate ions are highly reabsorbed.
-
-Only small amounts appear in the urine.
+Most waste products are poorly reabsorbed and are therefore excreted in large amounts in the urine. Conversely, electrolytes such as sodium ions, chloride ions, and bicarbonate ions are highly reabsorbed, with only small amounts appearing in the urine.
 
 Each of the processes—glomerular filtration, tubular reabsorption, and tubular secretion—is regulated according to the needs of the body.
 
@@ -282,9 +160,7 @@ Each of the processes—glomerular filtration, tubular reabsorption, and tubular
 
 One advantage of a high GFR is that it allows the kidneys to remove waste products rapidly from the body.
 
-A second advantage is that it allows all the body fluids to be filtered and processed by the kidneys many times each day.
-
-Because the entire plasma volume is only about 3 liters, whereas the GFR is about 180 L/day, the entire plasma can be filtered and processed about 60 times each day.
+A second advantage is that it allows all the body fluids to be filtered and processed by the kidneys many times each day. Because the entire plasma volume is only about 3 liters, whereas the GFR is about 180 L/day, the entire plasma can be filtered and processed about 60 times each day.
 
 ### Summary of Renal Processes
 

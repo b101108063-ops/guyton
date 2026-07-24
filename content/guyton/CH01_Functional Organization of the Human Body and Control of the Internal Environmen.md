@@ -14,9 +14,9 @@ key_points:
 
 ## ORGANIZATION OF THE CELL
 
-A schematic drawing of a typical cell, as seen by the light microscope, is shown in Figure 2-1. Its two major parts are the nucleus and the cytoplasm.
+A typical cell, as seen by the light microscope, has two major parts: the nucleus and the cytoplasm.
 
-The nucleus is separated from the cytoplasm by a nuclear membrane. The cytoplasm is separated from the surrounding fluids by a cell membrane, also called the plasma membrane.
+The nucleus is separated from the cytoplasm by a nuclear membrane. The cytoplasm is separated from surrounding fluids by a cell membrane, also called the plasma membrane.
 
 The different substances that make up the cell are collectively called protoplasm. Protoplasm is composed mainly of five basic substances—water, electrolytes, proteins, lipids, and carbohydrates.
 
@@ -30,7 +30,9 @@ Chemical reactions take place among the dissolved chemicals or at the surfaces o
 
 ## IONS
 
-Important ions in the cell include potassium, magnesium, phosphate, sulfate, bicarbonate, and smaller quantities of sodium, chloride, and calcium. These ions are all discussed in Chapter 4, which considers the interrelations between the intracellular and extracellular fluids.
+Important ions in the cell include potassium, magnesium, phosphate, sulfate, bicarbonate, and smaller quantities of sodium, chloride, and calcium.
+
+These ions are all discussed in Chapter 4, which considers the interrelations between the intracellular and extracellular fluids.
 
 The ions provide inorganic chemicals for cellular reactions. They are also necessary for the operation of some cellular control mechanisms.
 

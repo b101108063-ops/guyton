@@ -20,9 +20,9 @@ The "lub" is associated with closure of the atrioventricular (A-V) valves at the
 
 The "dub" is associated with closure of the semilunar (aortic and pulmonary) valves at the end of systole.
 
-The "lub" sound is called the first heart sound.
+The "lub" sound is called the **first heart sound**.
 
-The "dub" sound is called the second heart sound.
+The "dub" sound is called the **second heart sound**.
 
 The normal pumping cycle of the heart is considered to start when the A-V valves close at the onset of ventricular systole.
 
@@ -32,7 +32,7 @@ The main cause of the first heart sound is vibration of the taut valves immediat
 
 Vibration also occurs in the adjacent walls of the heart and major vessels around the heart.
 
-In generating the first heart sound, contraction of the ventricles first causes sudden backflow of blood against the A-V valves (tricuspid and mitral valves).
+In generating the first heart sound, contraction of the ventricles causes sudden backflow of blood against the A-V valves (tricuspid and mitral valves).
 
 This causes them to close and bulge toward the atria.
 
@@ -72,32 +72,18 @@ The first sound is about 0.14 second.
 
 The second sound is about 0.11 second.
 
-The reason for the shorter second sound is that the semilunar valves are tauter than the A-V valves.
+The reason for the shorter second sound is that the semilunar valves are tauter than the A-V valves. Taut valves vibrate for a shorter time than do the A-V valves.
 
-Taut valves vibrate for a shorter time than do the A-V valves.
+The audible range of frequency (pitch) in the first and second heart sounds begins at the lowest frequency the ear can detect, about 40 cycles/sec. It goes up above 500 cycles/sec.
 
-The audible range of frequency (pitch) in the first and second heart sounds begins at the lowest frequency the ear can detect.
+When a special electronic apparatus is used to record these sounds, a larger proportion of recorded sound is at frequencies and sound levels below the audible range, going down to 3 to 4 cycles/sec and peaking at about 20 cycles/sec.
 
-This is about 40 cycles/sec.
-
-It goes up above 500 cycles/sec.
-
-When a special electronic apparatus is used to record these sounds, a larger proportion of recorded sound is at frequencies and sound levels below the audible range.
-
-This goes down to 3 to 4 cycles/sec.
-
-It peaks at about 20 cycles/sec.
-
-For this reason, major portions of the heart sounds can be recorded electronically by phonocardiography.
-
-This is even though they cannot be heard with a stethoscope.
+For this reason, major portions of the heart sounds can be recorded electronically by phonocardiography, even though they cannot be heard with a stethoscope.
 
 The second heart sound normally has a higher frequency than the first heart sound for two reasons:
 
 1. The tautness of the semilunar valves in comparison with the much less taut A-V valves
-2. The greater elastic coefficient of the taut arterial walls, which provides the principal vibrating chambers for the second sound
-
-This is in comparison with the much looser, less elastic ventricular chambers, which provide the vibrating system for the first heart sound.
+2. The greater elastic coefficient of the taut arterial walls, which provides the principal vibrating chambers for the second sound (compared with the much looser, less elastic ventricular chambers, which provide the vibrating system for the first heart sound)
 
 Clinicians use these differences to distinguish special characteristics of the two respective sounds.
 
@@ -105,47 +91,23 @@ Clinicians use these differences to distinguish special characteristics of the t
 
 Occasionally, a weak, rumbling third heart sound is heard at the beginning of the middle third of diastole.
 
-A logical but unproved explanation is oscillation of blood back and forth between the walls of the ventricles.
+A logical but unproved explanation is oscillation of blood back and forth between the walls of the ventricles, initiated by inrushing blood from the atria.
 
-This is initiated by inrushing blood from the atria.
+This is analogous to running water from a faucet into a paper sack. The inrushing water reverberates back and forth between the walls of the sack, causing vibrations in its walls.
 
-This is analogous to running water from a faucet into a paper sack.
+The reason the third heart sound does not occur until the middle third of diastole is believed to be as follows: In the early part of diastole, the ventricles are not filled sufficiently to create even the small amount of elastic tension necessary for reverberation.
 
-The inrushing water reverberates back and forth between the walls of the sack.
+The frequency of this sound is usually so low that the ear cannot hear it. Yet it can often be recorded in the phonocardiogram.
 
-This causes vibrations in its walls.
-
-The reason the third heart sound does not occur until the middle third of diastole is believed to be as follows.
-
-In the early part of diastole, the ventricles are not filled sufficiently.
-
-They have not created even the small amount of elastic tension necessary for reverberation.
-
-The frequency of this sound is usually so low that the ear cannot hear it.
-
-Yet it can often be recorded in the phonocardiogram.
-
-The third heart sound may be normally present in children, adolescents, and young adults.
-
-It generally indicates systolic heart failure in older adults.
+The third heart sound may be normally present in children, adolescents, and young adults. It generally indicates systolic heart failure in older adults.
 
 ### Atrial Contraction—Fourth Heart Sound
 
-An atrial heart sound can sometimes be recorded in the phonocardiogram.
+An atrial heart sound can sometimes be recorded in the phonocardiogram. It can almost never be heard with a stethoscope because of its weakness and very low frequency (usually 20 cycles/sec or less).
 
-It can almost never be heard with a stethoscope because of its weakness and very low frequency.
+This sound occurs when the atria contract. It is presumably caused by the inrush of blood into the ventricles, initiating vibrations similar to those of the third heart sound.
 
-The frequency is usually 20 cycles/sec or less.
-
-This sound occurs when the atria contract.
-
-It is presumably caused by the inrush of blood into the ventricles.
-
-This initiates vibrations similar to those of the third heart sound.
-
-A fourth heart sound is common in persons who derive benefit from atrial contraction for ventricular filling.
-
-This is a result of decreased ventricular wall compliance and increased resistance to ventricular filling.
+A fourth heart sound is common in persons who derive benefit from atrial contraction for ventricular filling. This is a result of decreased ventricular wall compliance and increased resistance to ventricular filling.
 
 A fourth heart sound is often heard in older patients with left ventricular hypertrophy.
 
@@ -155,55 +117,32 @@ Listening to the sounds of the body, usually with the aid of a stethoscope, is c
 
 Figure 23-2 shows the areas of the chest wall from which different heart valvular sounds can best be distinguished.
 
-Although sounds from all valves can be heard from all these areas, the cardiologist distinguishes them by a process of elimination.
+Although sounds from all valves can be heard from all these areas, the cardiologist distinguishes them by a process of elimination: moving the stethoscope from one area to another and noting the loudness of the sounds in different areas. Sound components from each valve are gradually picked out.
 
-He or she moves the stethoscope from one area to another.
+The areas for listening to different heart sounds are not directly over the valves themselves:
 
-The loudness of the sounds in different areas is noted.
+- **Aortic area**: upward along the aorta (sound transmission up the aorta)
+- **Pulmonic area**: upward along the pulmonary artery (sound transmission up the pulmonary artery)
+- **Tricuspid area**: over the right ventricle
+- **Mitral area**: over the apex of the left ventricle
 
-Sound components from each valve are gradually picked out.
-
-The areas for listening to different heart sounds are not directly over the valves themselves.
-
-The aortic area is upward along the aorta because of sound transmission up the aorta.
-
-The pulmonic area is upward along the pulmonary artery.
-
-The tricuspid area is over the right ventricle.
-
-The mitral area is over the apex of the left ventricle.
-
-This is the portion of the heart nearest the surface of the chest.
-
-The heart is rotated so that the remainder of the left ventricle lies more posteriorly.
+The mitral area is over the portion of the heart nearest the surface of the chest. The heart is rotated so that the remainder of the left ventricle lies more posteriorly.
 
 ### Phonocardiogram
 
-If a microphone specially designed to detect low-frequency sound is placed on the chest, the heart sounds can be amplified and recorded.
+If a microphone specially designed to detect low-frequency sound is placed on the chest, the heart sounds can be amplified and recorded using a high-speed recording apparatus.
 
-A high-speed recording apparatus is used.
+The recording is called a phonocardiogram. Heart sounds appear as waves, as shown schematically in Figure 23-3.
 
-The recording is called a phonocardiogram.
+Recording A is an example of normal heart sounds, showing vibrations of the first, second, and third heart sounds. Even the very weak atrial sound is shown.
 
-Heart sounds appear as waves, as shown schematically in Figure 23-3.
-
-Recording A is an example of normal heart sounds.
-
-It shows vibrations of the first, second, and third heart sounds.
-
-Even the very weak atrial sound is shown.
-
-Note specifically that the third and atrial heart sounds are each a very low rumble.
-
-The third heart sound can be recorded in only one-third to one-half of people.
-
-The atrial heart sound can be recorded in perhaps one-fourth of people.
+Note specifically that the third and atrial heart sounds are each a very low rumble. The third heart sound can be recorded in only one-third to one-half of people. The atrial heart sound can be recorded in perhaps one-fourth of people.
 
 ### Summary of Heart Sounds
 
 | Heart Sound | Timing | Cause | Frequency | Audible? |
-|------------|--------|-------|-----------|----------|
-| S1 (First) | Beginning of systole | Closure of A-V valves; vibration of valves, chordae tendineae, ventricular walls | 40-500 cycles/sec (peak ~20) | Yes |
+|-------------|--------|-------|-----------|----------|
+| S1 (First) | Beginning of systole | Closure of A-V valves; vibration of valves, chordae tendineae, ventricular walls | 40–500 cycles/sec (peak ~20) | Yes |
 | S2 (Second) | End of systole | Closure of semilunar valves; reverberation in arteries | Higher than S1 | Yes |
 | S3 (Third) | Early diastole (middle third) | Oscillation of ventricular walls from inrushing blood | Very low | Usually no (recordable) |
 | S4 (Fourth) | Late diastole (atrial contraction) | Inrush of blood from atrial contraction | Very low (~20 cycles/sec) | Rarely (recordable) |

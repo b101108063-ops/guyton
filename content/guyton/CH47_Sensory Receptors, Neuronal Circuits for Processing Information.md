@@ -31,6 +31,7 @@ Each type of receptor is highly sensitive to one type of stimulus for which it i
 Yet it is almost nonresponsive to other types of sensory stimuli.
 
 **Examples:**
+
 - Rods and cones of the eyes are highly responsive to light but almost completely nonresponsive to heat, cold, pressure on the eyeballs, or chemical changes in the blood
 - Osmoreceptors of the supraoptic nuclei detect minute changes in osmolality but have never been known to respond to sound
 - Pain receptors in the skin are almost never stimulated by usual touch or pressure stimuli but become highly active when tactile stimuli damage tissues
@@ -46,6 +47,7 @@ Nerve fibers transmit only impulses. How do different fibers transmit different 
 The type of sensation felt when a nerve fiber is stimulated is determined by the point in the nervous system to which the fiber leads.
 
 **Examples:**
+
 - If a pain fiber is stimulated, the person perceives pain regardless of the type of stimulus (electricity, overheating, crushing, tissue damage)
 - If a touch fiber is stimulated, the person perceives touch because touch fibers lead to specific touch areas in the brain
 - Fibers from the retina terminate in vision areas; fibers from the ear terminate in auditory areas; temperature fibers terminate in temperature areas
@@ -104,6 +106,7 @@ Such an effect occurs in widespread areas of the brain during epileptic seizures
 ### How Does the CNS Prevent This?
 
 The answer lies mainly in two basic mechanisms that function throughout the central nervous system:
+
 1. Inhibitory circuits
 2. Fatigue of synapses
 
@@ -112,11 +115,13 @@ The answer lies mainly in two basic mechanisms that function throughout the cent
 Two types of inhibitory circuits in widespread areas of the brain help prevent excessive spread of signals:
 
 **Type 1: Inhibitory feedback circuits**
+
 - Return from the termini of pathways back to the initial excitatory neurons of the same pathways
 - Occur in virtually all sensory nervous pathways
 - Inhibit either the input neurons or the intermediate neurons in the sensory pathway when the termini become overly excited
 
 **Type 2: Gross inhibitory control**
+
 - Some neuronal pools exert gross inhibitory control over widespread areas of the brain
 - Example: Many of the basal ganglia exert inhibitory influences throughout the muscle control system
 
@@ -137,10 +142,12 @@ These functions help keep the circuits operating in a range of sensitivity that 
 ### Long-Term Changes in Synaptic Sensitivity
 
 The long-term sensitivities of synapses can be changed tremendously by:
+
 - **Upregulating** the number of receptor proteins at synaptic sites when there is underactivity
 - **Downregulating** the receptors when there is overactivity
 
 **Mechanism:**
+
 1. Receptor proteins are being formed constantly by the endoplasmic reticular-Golgi apparatus system
 2. They are constantly being inserted into the receptor neuron synaptic membrane
 3. When synapses are overused, excesses of transmitter substance combine with receptor proteins

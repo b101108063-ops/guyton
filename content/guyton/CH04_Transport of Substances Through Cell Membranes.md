@@ -32,25 +32,19 @@ The structure of the membrane covering the outside of every cell of the body is 
 
 This membrane consists almost entirely of a lipid bilayer with large numbers of protein molecules in the lipid, many of which penetrate all the way through the membrane.
 
-The lipid bilayer is not miscible with the extracellular fluid or the intracellular fluid.
-
-Therefore, it constitutes a barrier against movement of water molecules and water-soluble substances between the extracellular and intracellular fluid compartments.
+The lipid bilayer is not miscible with the extracellular fluid or the intracellular fluid. Therefore, it constitutes a barrier against movement of water molecules and water-soluble substances between the extracellular and intracellular fluid compartments.
 
 However, lipid-soluble substances can diffuse directly through the lipid substance, as shown in Figure 4-2.
 
 ## TRANSPORT PROTEINS
 
-The membrane protein molecules interrupt the continuity of the lipid bilayer.
-
-They constitute an alternative pathway through the cell membrane.
+The membrane protein molecules interrupt the continuity of the lipid bilayer. They constitute an alternative pathway through the cell membrane.
 
 Many of these penetrating proteins can function as transport proteins.
 
 ### Channel Proteins
 
-Some proteins have watery spaces all the way through the molecule. They allow free movement of water, as well as selected ions or molecules.
-
-These proteins are called channel proteins.
+Some proteins have watery spaces all the way through the molecule. They allow free movement of water, as well as selected ions or molecules. These proteins are called channel proteins.
 
 ### Carrier Proteins
 

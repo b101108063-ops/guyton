@@ -48,7 +48,7 @@ The viscosity of the blood in polycythemia vera sometimes increases from the nor
 
 Because of the greatly increased viscosity of blood in polycythemia, blood flow through the peripheral blood vessels is often very sluggish.
 
-In accordance with the factors that regulate return of blood to the heart, as discussed in Chapter 20, increasing blood viscosity decreases the rate of venous return to the heart.
+Increasing blood viscosity decreases the rate of venous return to the heart.
 
 Conversely, the blood volume is greatly increased in polycythemia, which tends to increase venous return.
 
@@ -78,7 +78,7 @@ They are formed partially in the bone marrow (granulocytes and monocytes and a f
 
 The real value of WBCs is that most of them are specifically transported to areas of serious infection and inflammation, thereby providing a rapid and potent defense against infectious agents.
 
-As we see later, the granulocytes and monocytes have a special ability to "seek out and destroy" a foreign invader.
+The granulocytes and monocytes have a special ability to "seek out and destroy" a foreign invader.
 
 ## General Characteristics of Leukocytes
 
@@ -117,7 +117,7 @@ The normal percentages of the different types are approximately:
 | Monocytes | 5.3% |
 | Lymphocytes | 30.0% |
 
-The number of platelets, which are only cell fragments, in each microliter of blood is normally between 150,000 and 450,000, averaging about 300,000.
+The number of platelets in each microliter of blood is normally between 150,000 and 450,000, averaging about 300,000.
 
 ## Genesis of White Blood Cells
 
@@ -137,7 +137,7 @@ Lymphocytes and plasma cells are produced mainly in the various lymphogenous tis
 
 ### Bone Marrow Storage
 
-The WBCs formed in the bone marrow are stored in the marrow until they are needed in the circulatory system. Then, when the need arises, various factors cause them to be released (these factors are discussed later).
+The WBCs formed in the bone marrow are stored in the marrow until they are needed in the circulatory system. Then, when the need arises, various factors cause them to be released.
 
 Normally, about three times as many WBCs are stored in the marrow as circulate in the entire blood. This quantity represents about a 6-day supply of these cells.
 
@@ -145,7 +145,7 @@ The lymphocytes are mostly stored in the various lymphoid tissues, except for a 
 
 ### Platelet Formation
 
-As shown in Figure 34-1, megakaryocytes (cell 3) are also formed in the bone marrow. These megakaryocytes fragment in the bone marrow.
+As shown in Figure 34-1, megakaryocytes are also formed in the bone marrow. These megakaryocytes fragment in the bone marrow.
 
 The small fragments, known as platelets (or thrombocytes), then pass into the blood. They are very important in the initiation of blood clotting.
 
@@ -163,13 +163,13 @@ The monocytes also have a short transit time—10 to 20 hours in the blood—bef
 
 Once in the tissues, they swell to much larger sizes to become tissue macrophages. In this form, they can live for months unless destroyed while performing phagocytic functions.
 
-These tissue macrophages are the basis of the tissue macrophage system (discussed in greater detail later), which provides continuing defense against infection.
+These tissue macrophages are the basis of the tissue macrophage system, which provides continuing defense against infection.
 
 ### Lymphocytes
 
 Lymphocytes enter the circulatory system continually, along with drainage of lymph from the lymph nodes and other lymphoid tissue.
 
-After a few hours, they pass out of the blood back into the tissues by diapedesis/extravasation. Then, they re-enter the lymph and return to the blood again and again.
+After a few hours, they pass out of the blood back into the tissues by diapedesis or extravasation. Then, they re-enter the lymph and return to the blood again and again.
 
 Thus, there is continual circulation of lymphocytes through the body. Lymphocytes have life spans of weeks or months, depending on the body's need for these cells.
 
@@ -202,6 +202,7 @@ It is mainly the neutrophils and tissue macrophages that attack and destroy inva
 ## Genesis of White Blood Cells (Figure 34-1)
 
 **Myelocytic lineage:**
+
 - Myeloblast → Promyelocyte → Megakaryocyte
 - Neutrophil myelocyte → Young neutrophil metamyelocyte → Band neutrophil metamyelocyte → Neutrophil
 - Eosinophil myelocyte → Eosinophil metamyelocyte → Eosinophil

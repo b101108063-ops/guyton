@@ -31,12 +31,14 @@ The somatic senses can be classified into three physiological types:
 This chapter deals with the mechanoreceptive tactile and position senses.
 
 **The tactile senses include:**
+
 - Touch
 - Pressure
 - Vibration
 - Tickle
 
 **The position senses include:**
+
 - Static position
 - Rate of movement senses
 
@@ -67,7 +69,7 @@ There are three principal differences among them:
 
 ### Six Types of Tactile Receptors
 
-There are at least six entirely different types of tactile receptors (Figure 48-1):
+There are at least six entirely different types of tactile receptors (Figure 48-1).
 
 #### 1. Free Nerve Endings
 
@@ -82,15 +84,18 @@ Even light contact with the cornea of the eye, which contains no other type of n
 Meissner's corpuscle is a touch receptor with great sensitivity.
 
 **Structure:**
+
 - Elongated encapsulated nerve ending
 - Large (type Aβ) myelinated sensory nerve fiber
 - Many branching terminal nerve filaments inside the capsule
 
 **Location:**
+
 - Present in the nonhairy parts of the skin
 - Particularly abundant in the fingertips, lips, and other areas where spatial location discrimination is highly developed
 
 **Function:**
+
 - Adapts in a fraction of a second after stimulation
 - Particularly sensitive to movement of objects over the surface of the skin
 - Also sensitive to low-frequency vibration
@@ -100,17 +105,20 @@ Meissner's corpuscle is a touch receptor with great sensitivity.
 The fingertips and other areas that contain large numbers of Meissner's corpuscles also contain large numbers of expanded tip tactile receptors, one type of which is Merkel's discs.
 
 **Differences from Meissner's corpuscles:**
+
 - Transmit an initially strong but partially adapting signal
 - Then transmit a continuing weaker signal that adapts only slowly
 - Responsible for giving out steady-state signals that allow one to determine continuous touch of objects against the skin
 
 **Structure:**
+
 - Merkel discs are often grouped together in a receptor organ called touch domes
 - These project upward against the underside of the epithelium of the skin
 - This creates a dome and constitutes an extremely sensitive receptor
 - The entire group of Merkel's discs is innervated by a single large myelinated nerve fiber (type Aβ)
 
 These receptors play extremely important roles in:
+
 - Localizing touch sensations to specific surface areas of the body
 - Determining the texture of what is felt
 
@@ -121,6 +129,7 @@ Slight movement of any hair on the body stimulates a nerve fiber entwining its b
 Each hair and its basal nerve fiber constitute a touch receptor called the hair end-organ.
 
 **Function:**
+
 - Adapts readily
 - Detects mainly:
   - Movement of objects on the surface of the body
@@ -129,10 +138,12 @@ Each hair and its basal nerve fiber constitute a touch receptor called the hair 
 #### 5. Ruffini's Endings
 
 Ruffini's endings are multibranched encapsulated endings located in:
+
 - Deeper layers of the skin
 - Still deeper internal tissues
 
 **Function:**
+
 - Adapt very slowly
 - Important for signaling continuous states of deformation of the tissues
 - Signal heavy prolonged touch and pressure
@@ -142,10 +153,12 @@ Ruffini's endings are multibranched encapsulated endings located in:
 #### 6. Pacinian Corpuscles
 
 Pacinian corpuscles lie:
+
 - Immediately beneath the skin
 - Deep in the fascial tissues of the body
 
 **Function:**
+
 - Stimulated only by rapid local compression of the tissues
 - Adapt in a few hundredths of a second
 - Particularly important for detecting tissue vibration

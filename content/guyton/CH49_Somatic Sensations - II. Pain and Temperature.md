@@ -20,13 +20,13 @@ The area of the hypothalamus that they stimulate is located bilaterally in the p
 
 The temperature sensory signals from the anterior hypothalamic-preoptic area are also transmitted into this posterior hypothalamic area.
 
-Here, the signals from the preoptic area and the signals from elsewhere in the body are combined and integrated to control the heat-producing and heat-conserving reactions of the body.
+Here, the signals from the preoptic area and the signals from elsewhere in the body are combined and integrated.
+
+This integration controls the heat-producing and heat-conserving reactions of the body.
 
 ## NEURONAL EFFECTOR MECHANISMS THAT DECREASE OR INCREASE BODY TEMPERATURE
 
 When the hypothalamic temperature centers detect that the body temperature is either too high or too low, they institute appropriate temperature-decreasing or temperature-increasing procedures.
-
-The reader is probably familiar with most of these procedures from personal experience, but special features are described in the following sections.
 
 ## TEMPERATURE-DECREASING MECHANISMS: WHEN THE BODY IS TOO HOT
 
@@ -64,6 +64,8 @@ This vasoconstriction is caused by stimulation of the posterior hypothalamic sym
 
 Piloerection means hairs "standing on end."
 
-Sympathetic stimulation causes the arrector pili muscles to contract, which causes the hairs to stand perpendicular to the skin surface.
+Sympathetic stimulation causes the arrector pili muscles to contract.
+
+This causes the hairs to stand perpendicular to the skin surface.
 
 This creates an insulating layer of still air between the hairs that reduces heat loss.

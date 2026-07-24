@@ -33,16 +33,13 @@ The type of SCUBA used in more than 99% of all sports and commercial diving is t
 
 ### Operation
 
+The operation proceeds as follows:
+
 1. The first-stage reducing valve reduces the pressure from the tanks so that the air delivered to the mask has a pressure only a few mm Hg greater than the surrounding water pressure.
-
 2. The breathing mixture does not flow continually into the mask.
-
 3. With each inspiration, slight extra negative pressure in the demand valve of the mask pulls the diaphragm of the valve open.
-
 4. This action automatically releases air from the tank into the mask and lungs.
-
 5. Only the amount of air needed for inhalation enters the mask.
-
 6. On expiration, the air cannot go back into the tank but is expired into the water.
 
 ### Limitation of SCUBA
@@ -58,6 +55,7 @@ The greater the depth, the greater the airflow in terms of quantity of air per m
 ## EFFECTS OF INDIVIDUAL GASES ON THE BODY
 
 The individual gases to which a diver is exposed when breathing air are:
+
 - Nitrogen
 - Oxygen (O2)
 - Carbon dioxide (CO2)
@@ -110,6 +108,7 @@ Figure 45-2 depicts the O2-hemoglobin dissociation curve with the alveolar PO2 e
 The lowest curve in the figure shows the volume of O2 dissolved in the fluid of the blood at each PO2 level.
 
 **Key observations:**
+
 - In the normal range of alveolar PO2 (<120 mm Hg), almost none of the total O2 in the blood is accounted for by dissolved O2
 - As the O2 pressure rises into the thousands of mm Hg, a large portion of the total O2 is dissolved in the water of the blood, in addition to that bound with hemoglobin
 
@@ -120,6 +119,7 @@ Let us assume that the PO2 in the lungs is about 3000 mm Hg (4 atm pressure).
 This pressure represents a total O2 content in each 100 ml of blood of about 29 volumes percent.
 
 This means:
+
 - 20 volumes percent bound with hemoglobin
 - 9 volumes percent dissolved in the blood water
 
@@ -136,11 +136,13 @@ O2 is delivered to the tissues at this extremely high pressure instead of at the
 The extremely high tissue PO2 that occurs when O2 is breathed at a very high alveolar O2 pressure can be detrimental to many of the body's tissues.
 
 **Breathing O2 at 4 atm pressure (PO2 = 3040 mm Hg):**
+
 - Causes brain seizures followed by coma in most people within 30 to 60 minutes
 - The seizures often occur without warning
 - They are likely to be lethal to divers submerged beneath the sea
 
 **Other symptoms of acute O2 poisoning:**
+
 - Nausea
 - Muscle twitchings
 - Dizziness
@@ -148,7 +150,9 @@ The extremely high tissue PO2 that occurs when O2 is breathed at a very high alv
 - Irritability
 - Disorientation
 
-**Important:** Exercise greatly increases the diver's susceptibility to O2 toxicity, causing symptoms to appear much earlier and with far greater severity than in the resting person.
+**Important:** Exercise greatly increases the diver's susceptibility to O2 toxicity.
+
+This causes symptoms to appear much earlier and with far greater severity than in the resting person.
 
 ### Excessive Intracellular Oxidation — Oxidizing Free Radicals
 
@@ -157,12 +161,14 @@ Molecular O2 has little capability of oxidizing other chemical compounds.
 Instead, it must first be converted into an active form of oxygen called oxygen free radicals.
 
 **Important forms of active oxygen:**
+
 - Superoxide free radical (O2−)
 - Hydrogen peroxide radical
 
 Even when the tissue PO2 is normal at the level of 40 mm Hg, small amounts of free radicals are continually being formed from the dissolved O2.
 
 **Fortunately,** tissues contain several enzymes that rapidly remove these free radicals:
+
 - Peroxidases
 - Catalases
 - Superoxide dismutases
@@ -172,6 +178,7 @@ As long as the hemoglobin-O2 buffering mechanism maintains a normal tissue PO2, 
 ### Critical Threshold
 
 Above a critical alveolar PO2 (i.e., > approximately 2 atm PO2):
+
 1. The hemoglobin-O2 buffering mechanism fails
 2. The tissue PO2 can rise to hundreds or thousands of mm Hg
 3. The amounts of oxidizing free radicals overwhelm the enzyme systems designed to remove them
@@ -181,13 +188,17 @@ Above a critical alveolar PO2 (i.e., > approximately 2 atm PO2):
 
 ### Escape From Submarines
 
-Essentially the same problems encountered in deep sea diving are often found in relation to submarines, especially when it is necessary to escape from a submerged submarine.
+Essentially the same problems encountered in deep sea diving are often found in relation to submarines.
+
+This is especially true when it is necessary to escape from a submerged submarine.
 
 **Escape depths:**
+
 - Possible from as deep as 300 feet without use of any apparatus
 - With rebreathing devices, especially using helium, can theoretically allow escape from as deep as 600 feet or perhaps more
 
 **Major problem — Prevention of air embolism:**
+
 - As the person ascends, the gases in the lungs expand
 - This sometimes ruptures a pulmonary blood vessel
 - Gases are forced to enter the vessel and cause air embolism of the circulation
@@ -198,10 +209,12 @@ Essentially the same problems encountered in deep sea diving are often found in 
 Except for escape, submarine medicine generally centers on several engineering problems to keep hazards out of the internal environment.
 
 **First — Radiation hazards:**
+
 - In atomic submarines, there is the problem of radiation hazards
 - With appropriate shielding, the amount of radiation received by the crew submerged beneath the sea has been less than the normal amount received above the surface from cosmic rays
 
 **Second — Poisonous gases:**
+
 - Poisonous gases on occasion escape into the atmosphere of the submarine and must be controlled rapidly
 - During several weeks' submergence, cigarette smoking by the crew can liberate enough carbon monoxide to cause carbon monoxide poisoning if not removed rapidly
 - On occasion, even Freon gas has been found to diffuse out of refrigeration systems in sufficient quantity to cause toxicity
@@ -213,6 +226,7 @@ The intense oxidizing properties of high-pressure O2 (hyperbaric oxygen) can hav
 Large pressure tanks are now available in many medical centers into which patients can be placed and treated with hyperbaric O2.
 
 **Typical administration:**
+
 - O2 is usually administered at PO2 values of 2 to 3 atm pressure through a mask or intratracheal tube
 - The gas around the body is normal air compressed to the same high-pressure level
 
