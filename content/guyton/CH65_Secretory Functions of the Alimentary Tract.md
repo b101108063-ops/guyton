@@ -3,262 +3,149 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH65"
 title: "Secretory Functions of the Alimentary Tract"
 book: "Guyton & Hall"
+summary: "The gastrointestinal tract secretes digestive enzymes, mucus, and electrolytes through highly regulated mechanisms involving neural, hormonal, and paracrine controls. Salivary, gastric, pancreatic, biliary, and intestinal secretions work sequentially to break down food, while the large intestine primarily secretes protective mucus. Enteric nervous system reflexes triggered by chyme are the principal regulators of small intestine secretion."
+key_points:
+  - "Salivary amylase (ptyalin) begins starch digestion in the mouth; about 5% of starches are hydrolyzed before swallowing, and up to 30-40% before gastric acid inactivates the enzyme"
+  - "Gastric parietal cells secrete HCl at pH ~0.8, creating an intragastric pH of 2.0-3.0 necessary for pepsin activation"
+  - "Pancreatic juice contains the highest digestive enzyme capacity, with pancreatic amylase being several times more powerful than salivary amylase"
+  - "Bile salts from the liver are essential for fat emulsification, enabling pancreatic lipase to digest triglycerides into monoglycerides and fatty acids"
+  - "The large intestine secretes almost no digestive enzymes; its primary secretion is alkaline mucus (pH 8.0) that protects against bacterial activity and fecal acids"
+  - "Mucus secretion in the large intestine is regulated by direct tactile stimulation and parasympathetic activity; extreme stimulation can cause rapid mucus loss"
+  - "Diarrhea results when intense colonic irritation causes hypersecretion of water and electrolytes, washing away irritants but causing significant fluid and electrolyte loss"
 ---
-
 ## SECRETION—LOCAL STIMULI
 
-By far the most important means for regulating small
-intestine secretion are local enteric nervous reflexes,
-especially reflexes initiated by tactile or irritative stimuli
-from the chyme in the intestines.
-SECRETION OF MUCUS BY THE LARGE
+By far the most important means for regulating small intestine secretion are local enteric nervous reflexes, especially reflexes initiated by tactile or irritative stimuli from the chyme in the intestines. SECRETION OF MUCUS BY THE LARGE
 
 ## INTESTINE
 
 
-Mucus Secretion. The mucosa of the large intestine, like
-that of the small intestine, has many crypts of Lieberkühn;
-however, unlike the small intestine, it contains no villi.
-The epithelial cells secrete almost no digestive enzymes.
+Mucus Secretion. The mucosa of the large intestine, like that of the small intestine, has many crypts of Lieberkühn; however, unlike the small intestine, it contains no villi. The epithelial cells secrete almost no digestive enzymes.
 
-Instead, they contain mucous cells that secrete only mucus. This mucus contains moderate amounts of HCO3−
-secreted by a few non–mucus-secreting epithelial cells.
-The rate of mucus secretion is regulated principally by
-direct, tactile stimulation of the epithelial cells lining the
+Instead, they contain mucous cells that secrete only mucus. This mucus contains moderate amounts of HCO3− secreted by a few non–mucus-secreting epithelial cells. The rate of mucus secretion is regulated principally by direct, tactile stimulation of the epithelial cells lining the
 
-large intestine and by local nervous reflexes to the mucous
-cells in the crypts of Lieberkühn.
-Stimulation of the pelvic nerves from the spinal cord,
-which carry parasympathetic innervation to the distal
+large intestine and by local nervous reflexes to the mucous cells in the crypts of Lieberkühn. Stimulation of the pelvic nerves from the spinal cord, which carry parasympathetic innervation to the distal
 
-one-half to two-thirds of the large intestine, also can cause
-marked increases in mucus secretion along with increased
-peristaltic motility of the colon, as discussed in Chapter 64.
-During extreme parasympathetic stimulation, often
-caused by emotional disturbances, so much mucus can occasionally be secreted into the large intestine that the person
-has a bowel movement of ropy mucus as often as every
-minutes. This mucus often contains little or no fecal material.
-Mucus in the large intestine protects the intestinal wall
-against excoriation, but in addition, it provides an adherent medium for holding fecal matter together. Furthermore, it protects the intestinal wall from the great amount
-of bacterial activity that takes place inside the feces, and,
-finally, the mucus plus the alkalinity of the secretion (a pH
+one-half to two-thirds of the large intestine, also can cause marked increases in mucus secretion along with increased peristaltic motility of the colon, as discussed in Chapter 64. During extreme parasympathetic stimulation, often caused by emotional disturbances, so much mucus can occasionally be secreted into the large intestine that the person has a bowel movement of ropy mucus as often as every minutes. This mucus often contains little or no fecal material.
 
-of 8.0 caused by large amounts of sodium bicarbonate)
-provides a barrier to keep acids formed in the feces from
-attacking the intestinal wall.
-Diarrhea Caused by Excess Secretion of Water and
+Mucus in the large intestine protects the intestinal wall against excoriation, but in addition, it provides an adherent medium for holding fecal matter together. Furthermore, it protects the intestinal wall from the great amount of bacterial activity that takes place inside the feces, and, finally, the mucus plus the alkalinity of the secretion (a pH
 
-Electrolytes in Response to Irritation. Whenever a segment of the large intestine becomes intensely irritated, as
-occurs when bacterial infection becomes rampant during enteritis, the mucosa secretes extra large quantities
+of 8.0 caused by large amounts of sodium bicarbonate) provides a barrier to keep acids formed in the feces from attacking the intestinal wall. Diarrhea Caused by Excess Secretion of Water and
 
-of water and electrolytes in addition to the normal viscid
-alkaline mucus. This secretion acts to dilute the irritating
-factors and to cause rapid movement of the feces toward
+Electrolytes in Response to Irritation. Whenever a segment of the large intestine becomes intensely irritated, as occurs when bacterial infection becomes rampant during enteritis, the mucosa secretes extra large quantities
 
-the anus. The result is diarrhea, with loss of large quantities of water and electrolytes. However, the diarrhea also
-washes away irritant factors, which promotes earlier recovery from the disease than might otherwise occur.
+of water and electrolytes in addition to the normal viscid alkaline mucus. This secretion acts to dilute the irritating factors and to cause rapid movement of the feces toward
 
-Paneth cell
-Epithelial cell
-Mucous goblet
-cell
+the anus. The result is diarrhea, with loss of large quantities of water and electrolytes. However, the diarrhea also washes away irritant factors, which promotes earlier recovery from the disease than might otherwise occur.
+
+Paneth cell Epithelial cell Mucous goblet cell
 
 
-> **Figure 65- 13. A crypt of Lieberkühn, found in all parts of the small intestine between the villi, which secretes almost pure extracellular fluid. UNIT XII 	Gastrointestinal Physiology Bibliography Adriaenssens AE, Reimann F, Gribble FM: Distribution and stimulus secretion coupling of enteroendocrine cells along the intestinal tract. Compr Physiol 8:1603, 2018. Bhattacharyya A, Chattopadhyay R, Mitra S, Crowe SE: Oxidative stress: an essential factor in the pathogenesis of gastrointestinal mucosal diseases. Physiol Rev 94:329, 2014. Boyer JL: Bile formation and secretion. Compr Physiol 3:1035, 2013.**
+> **Figure 65-13. A crypt of Lieberkühn, found in all parts of the small intestine between the villi, which secretes almost pure extracellular fluid. UNIT XII 	Gastrointestinal Physiology Bibliography Adriaenssens AE, Reimann F, Gribble FM: Distribution and stimulus secretion coupling of enteroendocrine cells along the intestinal tract. Compr Physiol 8:1603, 2018. Bhattacharyya A, Chattopadhyay R, Mitra S, Crowe SE: Oxidative stress: an essential factor in the pathogenesis of gastrointestinal mucosal diseases. Physiol Rev 94:329, 2014. Boyer JL: Bile formation and secretion. Compr Physiol 3:1035, 2013.**
 
-Camilleri M: Leaky gut: mechanisms, measurement and clinical implications in humans. Gut 68:1516, 2019.
-Camilleri M, Sellin JH, Barrett KE: Pathophysiology, evaluation,
-and management of chronic watery diarrhea. Gastroenterology
-152:515, 2017.
-Di Ciaula A, Wang DQ, Portincasa P: An update on the pathogenesis
-of cholesterol gallstone disease. Curr Opin Gastroenterol 34:71,
-2018.
-Gribble FM, Reimann F: Function and mechanisms of enteroendocrine cells and gut hormones in metabolism. Nat Rev Endocrinol
-15:226, 2019.
-Hegyi P, Maléth J, Walters JR, Hofmann AF, Keely SJ: Guts and gall:
-bile acids in regulation of intestinal epithelial function in health and
-disease. Physiol Rev 98:1983, 2018.
-Housset C, Chrétien Y, Debray D, Chignard N: Functions of the gallbladder. Compr Physiol 6:1549, 2016.
-Lanas A, Chan FKL: Peptic ulcer disease. Lancet 390:613, 2017.
-Lee MG, Ohana E, Park HW, et al: Molecular mechanism of pancreatic and salivary gland fluid and HCO3− secretion. Physiol Rev
-92:39, 2012.
-Lefebvre P, Cariou B, Lien F, et al: Role of bile acids and bile acid receptors in metabolic regulation. Physiol Rev 89:147, 2009.
-Liddle RA: Interactions of gut endocrine cells with epithelium and
-neurons. Compr Physiol 8:1019, 2018.
-Trauner M, Boyer JL: Bile salt transporters: molecular characterization,
-function, and regulation. Physiol Rev 83:633, 2003.
-Wallace JL: Prostaglandins, NSAIDs, and gastric mucosal protection:
-why doesn't the stomach digest itself? Physiol Rev 88:1547, 2008.
-Yao X, Smolka AJ: Gastric parietal cell physiology and Helicobacter
-pylori- induced disease. Gastroenterology 156:2158, 2019.
-The major foods on which the body lives (with the exception of small quantities of substances such as vitamins and
-minerals) are carbohydrates, fats, and proteins. They generally cannot be absorbed in their natural forms through
+Camilleri M: Leaky gut: mechanisms, measurement and clinical implications in humans. Gut 68:1516, 2019. Camilleri M, Sellin JH, Barrett KE: Pathophysiology, evaluation, and management of chronic watery diarrhea.
 
-the gastrointestinal mucosa, and for this reason, they are
-useless as nutrients without preliminary digestion. This
-chapter discusses the processes by which carbohydrates,
+Gastroenterology 152:515, 2017. Di Ciaula A, Wang DQ, Portincasa P: An update on the pathogenesis of cholesterol gallstone disease. Curr Opin Gastroenterol 34:71, 2018.
 
-fats, and proteins are digested into small enough compounds for absorption and the mechanisms by which the
-digestive end products, as well as water, electrolytes, and
-other substances, are absorbed.
-DIGESTION OF VARIOUS FOODS BY
+Gribble FM, Reimann F: Function and mechanisms of enteroendocrine cells and gut hormones in metabolism. Nat Rev Endocrinol 15:226, 2019. Hegyi P, Maléth J, Walters JR, Hofmann AF, Keely SJ: Guts and gall: bile acids in regulation of intestinal epithelial function in health and disease.
+
+Physiol Rev 98:1983, 2018. Housset C, Chrétien Y, Debray D, Chignard N: Functions of the gallbladder. Compr Physiol 6:1549, 2016.
+
+Lanas A, Chan FKL: Peptic ulcer disease. Lancet 390:613, 2017. Lee MG, Ohana E, Park HW, et al: Molecular mechanism of pancreatic and salivary gland fluid and HCO3− secretion.
+
+Physiol Rev 92:39, 2012. Lefebvre P, Cariou B, Lien F, et al: Role of bile acids and bile acid receptors in metabolic regulation. Physiol Rev 89:147, 2009.
+
+Liddle RA: Interactions of gut endocrine cells with epithelium and neurons. Compr Physiol 8:1019, 2018. Trauner M, Boyer JL: Bile salt transporters: molecular characterization, function, and regulation.
+
+Physiol Rev 83:633, 2003. Wallace JL: Prostaglandins, NSAIDs, and gastric mucosal protection: why doesn't the stomach digest itself? Physiol Rev 88:1547, 2008.
+
+Yao X, Smolka AJ: Gastric parietal cell physiology and Helicobacter pyloriinduced disease. Gastroenterology 156:2158, 2019. The major foods on which the body lives (with the exception of small quantities of substances such as vitamins and minerals) are carbohydrates, fats, and proteins.
+
+They generally cannot be absorbed in their natural forms through
+
+the gastrointestinal mucosa, and for this reason, they are useless as nutrients without preliminary digestion. This chapter discusses the processes by which carbohydrates,
+
+fats, and proteins are digested into small enough compounds for absorption and the mechanisms by which the digestive end products, as well as water, electrolytes, and other substances, are absorbed. DIGESTION OF VARIOUS FOODS BY
 
 ## HYDROLYSIS
 
 Hydrolysis of Carbohydrates. Almost all the carbohydrates of the diet are either large polysaccharides or disaccharides, which are combinations of monosaccharides
 
-bound to one another by condensation. This phenomenon
-means that a hydrogen ion (H+) has been removed from
-one of the monosaccharides, and a hydroxyl ion (OH−) has
+bound to one another by condensation. This phenomenon means that a hydrogen ion (H+) has been removed from one of the monosaccharides, and a hydroxyl ion (OH−) has
 
-been removed from the next one. The two monosaccharides then combine with each other at these sites of removal, and the H+ and OH− then combine to form water (H2O).
-When carbohydrates are digested, this process is
-reversed, and the carbohydrates are converted into monosaccharides. Specific enzymes in the digestive juices of the
-gastrointestinal tract return the H+ and OH− from H2O
-to the polysaccharides and thereby separate the monosaccharides from each other. This process, called hydrolysis,
-is the following (in which R′′- R′ is a disaccharide):
-R‘’ − R‘ + H 2 O 	R‘’OH + R‘H				 	→	
+been removed from the next one. The two monosaccharides then combine with each other at these sites of removal, and the H+ and OH− then combine to form water (H2O). When carbohydrates are digested, this process is reversed, and the carbohydrates are converted into monosaccharides.
 
-Digestive
-enzyme
-Hydrolysis of Fats. Almost the entire fat portion of the
+Specific enzymes in the digestive juices of the gastrointestinal tract return the H+ and OH− from H2O to the polysaccharides and thereby separate the monosaccharides from each other. This process, called hydrolysis, is the following (in which R′′- R′ is a disaccharide): R‘’ − R‘ + H 2 O R‘’OH + R‘H     → 
 
-diet consists of triglycerides (neutral fats), which are combinations of three fatty acid molecules condensed with a
-single glycerol molecule. During condensation, three molecules of water are removed.
+Digestive enzyme Hydrolysis of Fats. Almost the entire fat portion of the
 
-Hydrolysis (digestion) of the triglycerides consists of
-the reverse process: the fat-digesting enzymes return
-three molecules of water to the triglyceride molecule
-and thereby split the fatty acid molecules away from the
-glycerol.
+diet consists of triglycerides (neutral fats), which are combinations of three fatty acid molecules condensed with a single glycerol molecule. During condensation, three molecules of water are removed.
 
-Hydrolysis of Proteins. Proteins are formed from multiple amino acids that are bound together by peptide linkages. At each linkage, a OH− has been removed from one
-amino acid and a H+ has been removed from the succeeding one; thus, the successive amino acids in the protein
-chain are also bound together by condensation, and digestion occurs by the reverse effect: hydrolysis. That is,
+Hydrolysis (digestion) of the triglycerides consists of the reverse process: the fat-digesting enzymes return three molecules of water to the triglyceride molecule and thereby split the fatty acid molecules away from the glycerol.
 
-the proteolytic enzymes return H+ and OH− from water
-molecules to the protein molecules to split them into their
-constituent amino acids.
-Therefore, the chemistry of digestion is simple because,
-in the case of all three major types of food, the same basic
-process of hydrolysis is involved. The only difference lies
+Hydrolysis of Proteins. Proteins are formed from multiple amino acids that are bound together by peptide linkages. At each linkage, a OH− has been removed from one amino acid and a H+ has been removed from the succeeding one; thus, the successive amino acids in the protein chain are also bound together by condensation, and digestion occurs by the reverse effect: hydrolysis.
+
+That is,
+
+the proteolytic enzymes return H+ and OH− from water molecules to the protein molecules to split them into their constituent amino acids. Therefore, the chemistry of digestion is simple because, in the case of all three major types of food, the same basic process of hydrolysis is involved. The only difference lies
 
 in the types of enzymes required to promote the hydrolysis reactions for each type of food.
 
-All the digestive enzymes are proteins. Their secretion
-by the different gastrointestinal glands was discussed in
-Chapter 65.
+All the digestive enzymes are proteins. Their secretion by the different gastrointestinal glands was discussed in Chapter 65.
 
 
 ## DIGESTION OF CARBOHYDRATES
 
-Carbohydrate Foods of the Diet. Only three major
-sources of carbohydrates exist in the normal human diet.
-They are sucrose, which is the disaccharide known popularly as cane sugar; lactose, which is a disaccharide found
-in milk; and starches, which are large polysaccharides
-present in almost all nonanimal foods, particularly in potatoes and different types of grains. Other carbohydrates
+Carbohydrate Foods of the Diet. Only three major sources of carbohydrates exist in the normal human diet. They are sucrose, which is the disaccharide known popularly as cane sugar; lactose, which is a disaccharide found in milk; and starches, which are large polysaccharides present in almost all nonanimal foods, particularly in potatoes and different types of grains.
 
-ingested to a slight extent are amylose, glycogen, alcohol,
-lactic acid, pyruvic acid, pectins, dextrins, and minor
-quantities of carbohydrate derivatives in meats.
-The diet also contains a large amount of cellulose, which
+Other carbohydrates
+
+ingested to a slight extent are amylose, glycogen, alcohol, lactic acid, pyruvic acid, pectins, dextrins, and minor quantities of carbohydrate derivatives in meats. The diet also contains a large amount of cellulose, which
 
 is a carbohydrate. However, enzymes capable of hydrolyzing cellulose are not secreted in the human digestive tract.
 
-Consequently, cellulose cannot be considered a food for
-humans.
-Digestion of Carbohydrates Begins in the Mouth
-and Stomach. When food is chewed, it is mixed with
-Digestion and Absorption in the
-Gastrointestinal Tract
-UNIT XII 	Gastrointestinal Physiology
-saliva, which contains the digestive enzyme ptyalin (an
-α-amylase) secreted mainly by the parotid glands. This
-enzyme hydrolyzes starch into the disaccharide maltose
-and other small polymers of glucose that contain three to
+Consequently, cellulose cannot be considered a food for humans. Digestion of Carbohydrates Begins in the Mouth and Stomach. When food is chewed, it is mixed with Digestion and Absorption in the Gastrointestinal Tract UNIT XII Gastrointestinal Physiology saliva, which contains the digestive enzyme ptyalin (an α-amylase) secreted mainly by the parotid glands.
 
-nine glucose molecules, as shown in Figure 66- 1. However, the food remains in the mouth only a short time,
+This enzyme hydrolyzes starch into the disaccharide maltose and other small polymers of glucose that contain three to
 
-so probably not more than 5% of all the starches become
-hydrolyzed by the time the food is swallowed.
-Starch digestion sometimes continues in the body and
-fundus of the stomach for as long as 1 hour before the
+nine glucose molecules, as shown in Figure 66-1. However, the food remains in the mouth only a short time,
 
-food becomes mixed with the stomach secretions. Activity of the salivary amylase is then blocked by acid of the
-gastric secretions because the amylase is essentially inactive as an enzyme once the pH of the medium falls below
+so probably not more than 5% of all the starches become hydrolyzed by the time the food is swallowed. Starch digestion sometimes continues in the body and fundus of the stomach for as long as 1 hour before the
 
-about 4.0. Nevertheless, on average, before food and its
-accompanying saliva become completely mixed with the
-gastric secretions, as much as 30% to 40% of the starches
-will have been hydrolyzed, mainly to form maltose.
+food becomes mixed with the stomach secretions. Activity of the salivary amylase is then blocked by acid of the gastric secretions because the amylase is essentially inactive as an enzyme once the pH of the medium falls below
+
+about 4.0. Nevertheless, on average, before food and its accompanying saliva become completely mixed with the gastric secretions, as much as 30% to 40% of the starches will have been hydrolyzed, mainly to form maltose.
 
 DIGESTION OF CARBOHYDRATES IN THE
 
 ## SMALL INTESTINE
 
 
-Digestion by Pancreatic Amylase. Pancreatic secretion,
-like saliva, contains a large quantity of α- amylase that is
-almost identical in its function to the α- amylase of saliva
-but is several times as powerful. Therefore, within 15 to 30
-minutes after the chyme empties from the stomach into
-the duodenum and mixes with pancreatic juice, virtually
-all the carbohydrates will have become digested.
+Digestion by Pancreatic Amylase. Pancreatic secretion, like saliva, contains a large quantity of αamylase that is almost identical in its function to the αamylase of saliva but is several times as powerful. Therefore, within 15 to 30 minutes after the chyme empties from the stomach into the duodenum and mixes with pancreatic juice, virtually all the carbohydrates will have become digested.
 
-In general, the carbohydrates are almost totally converted into maltose and/or other small glucose polymers
-before passing beyond the duodenum or upper jejunum.
-Hydrolysis of Disaccharides and Small Glucose Polymers Into Monosaccharides by Intestinal Epithelial
-Enzymes. The enterocytes lining the villi of the small intestine contain four enzymes (lactase, sucrase, maltase,
-and α-dextrinase), which are capable of splitting the disaccharides lactose, sucrose, and maltose, plus other small
-glucose polymers, into their constituent monosaccharides. These enzymes are located in the enterocytes covering the intestinal microvilli brush border, so the disaccharides are digested as they come in contact with these
-enterocytes.
-Lactose splits into a molecule of galactose and a molecule of glucose. Sucrose splits into a molecule of fructose and a molecule of glucose. Maltose and other small
-glucose polymers all split into multiple molecules of glucose. Thus, the final products of carbohydrate digestion
+In general, the carbohydrates are almost totally converted into maltose and/or other small glucose polymers before passing beyond the duodenum or upper jejunum. Hydrolysis of Disaccharides and Small Glucose Polymers Into Monosaccharides by Intestinal Epithelial Enzymes. The enterocytes lining the villi of the small intestine contain four enzymes (lactase, sucrase, maltase, and α-dextrinase), which are capable of splitting the disaccharides lactose, sucrose, and maltose, plus other small glucose polymers, into their constituent monosaccharides.
 
-are all monosaccharides. They are all water soluble and
-are absorbed immediately into the portal blood.
-In the ordinary diet, which contains far more starches
+These enzymes are located in the enterocytes covering the intestinal microvilli brush border, so the disaccharides are digested as they come in contact with these enterocytes. Lactose splits into a molecule of galactose and a molecule of glucose. Sucrose splits into a molecule of fructose and a molecule of glucose.
 
-than all other carbohydrates combined, glucose represents more than 80% of the final products of carbohydrate
-digestion, and galactose and fructose each seldom represent more than 10%.
-The major steps in carbohydrate digestion are summarized in Figure 66- 1.
+Maltose and other small glucose polymers all split into multiple molecules of glucose. Thus, the final products of carbohydrate digestion
+
+are all monosaccharides. They are all water soluble and are absorbed immediately into the portal blood. In the ordinary diet, which contains far more starches
+
+than all other carbohydrates combined, glucose represents more than 80% of the final products of carbohydrate digestion, and galactose and fructose each seldom represent more than 10%. The major steps in carbohydrate digestion are summarized in Figure 66-1.
 
 ## DIGESTION OF PROTEINS
 
 
-Proteins of the Diet. Dietary proteins are chemically
-long chains of amino acids bound together by peptide
-linkages. A typical linkage is the following:
-C 	N
-O
-CH 	COOH	OH + H
-NH2
-CH	R
-R
-H
-C 	N
-O
-CH 	COOH + H 2O
-NH 2
-CH	R
-R
-H
-The characteristics of each protein are determined by
-the types of amino acids in the protein molecule and by
-the sequential arrangements of these amino acids. The
-physical and chemical characteristics of different proteins
-important in human tissues are discussed in Chapter 70.
+Proteins of the Diet. Dietary proteins are chemically long chains of amino acids bound together by peptide linkages. A typical linkage is the following: C N O CH COOH OH + H NH2 CH R R H C N O CH COOH + H 2O NH 2 CH R R H The characteristics of each protein are determined by the types of amino acids in the protein molecule and by the sequential arrangements of these amino acids.
+
+The physical and chemical characteristics of different proteins important in human tissues are discussed in Chapter 70.
 
 Digestion of Proteins in the Stomach. Pepsin, an important peptic enzyme of the stomach, is most active at
 
-a pH of 2.0 to 3.0 and is inactive at a pH above about
-5.0. Consequently, for this enzyme to cause digestion of
-protein, the stomach juices must be acidic. As explained
-in Chapter 65, the gastric glands secrete a large quantity
-of hydrochloric acid. This hydrochloric acid is secreted
-by the parietal (oxyntic) cells in the glands at a pH of
-about 0.8, but by the time it is mixed with the stomach
+a pH of 2.0 to 3.0 and is inactive at a pH above about 5.0. Consequently, for this enzyme to cause digestion of protein, the stomach juices must be acidic. As explained in Chapter 65, the gastric glands secrete a large quantity of hydrochloric acid.
+
+This hydrochloric acid is secreted by the parietal (oxyntic) cells in the glands at a pH of about 0.8, but by the time it is mixed with the stomach
 
 contents and with secretions from the non-oxyntic glandular cells of the stomach, the pH then averages around
 
-> **Figure 66- 1. Digestion of carbohydrates. Ptyalin (saliva): 20%-40% Starches Glucose Maltose and 3 to 9 glucose polymers 	Lactose 	Sucrose Fructose	Galactose Sucrase (intestine) Lactase (intestine) Pancreatic amylase: 50%-80% Maltase and -dextrinase (intestine)**
+> **Figure 66-1. Digestion of carbohydrates. Ptyalin (saliva): 20%-40% Starches Glucose Maltose and 3 to 9 glucose polymers 	Lactose 	Sucrose Fructose	Galactose Sucrase (intestine) Lactase (intestine) Pancreatic amylase: 50%-80% Maltase and -dextrinase (intestine)**

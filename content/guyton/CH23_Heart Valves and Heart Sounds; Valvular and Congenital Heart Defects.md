@@ -3,242 +3,289 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH23"
 title: "Heart Valves and Heart Sounds; Valvular and Congenital Heart Defects"
 book: "Guyton & Hall"
+summary: "This chapter covers cardiac failure, including the acute compensatory responses via sympathetic nervous system activation and the chronic stage involving fluid retention. Acute myocardial infarction causes immediate depression of cardiac output and rise in venous pressure, triggering reflexes that partially restore circulation. Prolonged cardiac failure leads to renal fluid retention that can be initially beneficial but eventually detrimental, causing pulmonary edema and peripheral congestion."
+key_points:
+  - "Acute cardiac damage causes immediate fall in cardiac output and rise in right atrial pressure, with sympathetic reflexes providing partial compensation within 30 seconds"
+  - "Sympathetic stimulation increases heart contractility, venous tone (raising mean systemic filling pressure to 12-14 mm Hg), and helps prime the damaged heart with increased venous return"
+  - "Chronic cardiac failure is characterized by renal fluid retention, which increases venous return and can compensate for reduced pumping ability down to 40-50% of normal"
+  - "Excessive fluid retention in severe cardiac failure causes detrimental effects: increased cardiac workload, overstretching of the heart, pulmonary edema, and generalized edema"
+  - "Heart recovery after myocardial infarction occurs via collateral blood supply development and hypertrophy of undamaged cardiac muscle"
 ---
 
-## SURGERY
+## HEART VALVE SURGERY
 
-It is almost impossible to repair intracardiac defects surgically while the heart is still pumping. Therefore, many
-types of artificial heart-lung machines have been developed
-to take the place of the heart and lungs during the course
-of an operation. Such a system is called extracorporeal circulation. The system consists principally of a pump and an
-oxygenating device. Almost any type of pump that does not
-cause hemolysis of the blood seems to be suitable.
-Methods used for oxygenating blood include the following: (1) bubbling oxygen through the blood and removing the bubbles from the blood before passing it back into
-the patient; (2) dripping the blood downward over the surfaces of plastic sheets in the presence of oxygen; (3) passing
+It is almost impossible to repair intracardiac defects surgically while the heart is still pumping.
 
-the blood over surfaces of rotating discs; and (4) passing
-the blood between thin membranes or through thin tubes
-that are permeable to oxygen and carbon dioxide.
+Many types of artificial heart-lung machines have been developed to take the place of the heart and lungs during an operation.
 
-HYPERTROPHY OF THE HEART IN
-VALVULAR AND CONGENITAL HEART
+Such a system is called extracorporeal circulation.
 
-## DISEASE
+The system consists principally of a pump and an oxygenating device.
 
-Hypertrophy of cardiac muscle is one of the most important mechanisms whereby the heart adapts to increased
+Almost any type of pump that does not cause hemolysis of the blood seems suitable.
 
-workloads whether these loads are caused by increased
-pressure against which the heart muscle must contract
-or by increased cardiac output that must be pumped.
-One can calculate approximately how much hypertrophy
-will occur in each chamber of the heart by multiplying
-the ventricular output by the pressure against which the
-ventricle must work, with an emphasis on pressure. Thus,
+Methods used for oxygenating blood include:
 
-hypertrophy occurs in most types of valvular and congenital disease, sometimes causing the heart to weigh as
-much as 800 grams instead of the normal 300 grams.
-Detrimental Effects of Late Stages of Cardiac Hypertrophy. Although the most common cause of cardiac
+- Bubbling oxygen through the blood and removing the bubbles before passing it back into the patient
+- Dripping the blood downward over surfaces of plastic sheets in the presence of oxygen
+- Passing the blood over surfaces of rotating discs
+- Passing the blood between thin membranes or through thin tubes permeable to oxygen and carbon dioxide
 
-hypertrophy is hypertension, almost all forms of cardiac
-diseases, including valvular and congenital disease, can
-stimulate enlargement of the heart.
-So-called physiological cardiac hypertrophy is generally
-considered to be a compensatory response of the heart to
+## HYPERTROPHY OF THE HEART IN VALVULAR AND CONGENITAL HEART DISEASE
 
-increased workload and is usually beneficial for maintaining cardiac output in the presence of abnormalities that
+Hypertrophy of cardiac muscle is one of the most important mechanisms whereby the heart adapts to increased workloads.
 
-impair the heart’s effectiveness as a pump. However, extreme
-degrees of hypertrophy can lead to heart failure. One reason
-for this is that the coronary vasculature typically does not
-increase to the same extent as the mass of cardiac muscle
-increases. The second reason is that fibrosis often develops
-in the muscle, especially in the subendocardial muscle where
+These workloads may be caused by increased pressure against which the heart muscle must contract.
 
-the coronary blood flow is poor, with fibrous tissue replacing
-degenerating muscle fibers. Because of the disproportionate increase in muscle mass relative to coronary blood flow,
-relative ischemia may develop as the cardiac muscle hypertrophies, and coronary blood flow insufficiency may ensue.
-Anginal pain is therefore a frequent accompaniment of cardiac hypertrophy associated with valvular and congenital
-heart disease. Enlargement of the heart is also associated
-with a greater risk for developing arrhythmias, which in turn
-can lead to further impairment of cardiac function and sudden death because of fibrillation.
+Or by increased cardiac output that must be pumped.
+
+One can calculate approximately how much hypertrophy will occur in each chamber of the heart.
+
+This is done by multiplying the ventricular output by the pressure against which the ventricle must work.
+
+An emphasis is placed on pressure.
+
+Hypertrophy occurs in most types of valvular and congenital disease.
+
+Sometimes it causes the heart to weigh as much as 800 grams instead of the normal 300 grams.
+
+### Detrimental Effects of Late Stages of Cardiac Hypertrophy
+
+Although the most common cause of cardiac hypertrophy is hypertension, almost all forms of cardiac diseases can stimulate enlargement of the heart.
+
+This includes valvular and congenital disease.
+
+So-called physiological cardiac hypertrophy is generally considered to be a compensatory response of the heart to increased workload.
+
+It is usually beneficial for maintaining cardiac output in the presence of abnormalities that impair the heart's effectiveness as a pump.
+
+However, extreme degrees of hypertrophy can lead to heart failure.
+
+One reason is that the coronary vasculature typically does not increase to the same extent as the mass of cardiac muscle increases.
+
+A second reason is that fibrosis often develops in the muscle.
+
+This is especially in the subendocardial muscle where coronary blood flow is poor.
+
+Fibrous tissue replaces degenerating muscle fibers.
+
+Because of the disproportionate increase in muscle mass relative to coronary blood flow, relative ischemia may develop.
+
+Coronary blood flow insufficiency may ensue.
+
+Anginal pain is therefore a frequent accompaniment of cardiac hypertrophy associated with valvular and congenital heart disease.
+
+Enlargement of the heart is also associated with a greater risk for developing arrhythmias.
+
+These arrhythmias can lead to further impairment of cardiac function and sudden death because of fibrillation.
+
+### Comparison of Physiological vs. Pathological Cardiac Hypertrophy
+
+| Feature | Physiological Hypertrophy | Pathological Hypertrophy |
+|---------|-------------------------|-------------------------|
+| Cause | Exercise, normal growth | Hypertension, valve disease, congenital defects |
+| Extent | Moderate | Extreme |
+| Coronary vessels | Adequate supply | Insufficient (relative ischemia) |
+| Fibrosis | Minimal | Often present, especially subendocardial |
+| Result | Beneficial, maintains output | Can lead to heart failure, arrhythmias |
 
 ## DECREASED CARDIAC OUTPUT
 
+### Shock Usually Results from Inadequate Cardiac Output
 
-### Shock usually results from inadequate cardiac output.
+Any condition that reduces cardiac output far below normal may lead to circulatory shock.
 
-Therefore, any condition that reduces the cardiac output far below normal may lead to circulatory shock. Two
-types of factors can severely reduce cardiac output:
-1. Cardiac abnormalities that decrease the ability of
-the heart to pump blood. These abnormalities include in particular myocardial infarction but also
-toxic states of the heart, severe heart valve dysfunction, heart arrhythmias, and other conditions.
+Two types of factors can severely reduce cardiac output:
 
-The circulatory shock that results from diminished
-cardiac pumping ability is called cardiogenic shock.
-This condition is discussed in Chapter 22, where it
+**1. Cardiac abnormalities that decrease the ability of the heart to pump blood:**
 
-is noted that as many as 70% of people who experience cardiogenic shock do not survive.
-2. Factors that decrease venous return also decrease
-cardiac output because the heart cannot pump
-blood that does not flow into it. The most common cause of decreased venous return is diminished blood volume, but venous return can also be
-reduced as a result of decreased vascular tone, especially of the venous blood reservoirs, or obstruction
-to blood flow at some point in the circulation, especially in the venous return pathway to the heart.
-CIRCULATORY SHOCK WITHOUT
+- Myocardial infarction
+- Toxic states of the heart
+- Severe heart valve dysfunction
+- Heart arrhythmias
+- Other conditions
 
-## DIMINISHED CARDIAC OUTPUT
+The circulatory shock resulting from diminished cardiac pumping ability is called cardiogenic shock.
 
-Occasionally, cardiac output is normal or even more than
-normal, yet the person is in a state of circulatory shock.
-This situation can result from the following: (1) excessive metabolic rate, so even a normal cardiac output is
+As many as 70% of people who experience cardiogenic shock do not survive.
 
-inadequate; or (2) abnormal tissue perfusion patterns, so
-most of the cardiac output is passing through blood vessels
-besides those that supply the local tissues with nutrition.
-The specific causes of shock are discussed later in this
+**2. Factors that decrease venous return:**
 
-chapter. For the present, it is important to note that all of
+- Diminished blood volume (most common cause)
+- Decreased vascular tone, especially of the venous blood reservoirs
+- Obstruction to blood flow at some point in the circulation, especially in the venous return pathway to the heart
 
-them lead to inadequate delivery of nutrients to critical
-tissues and critical organs, as well as inadequate removal
-of cellular waste products from the tissues.
+The heart cannot pump blood that does not flow into it.
 
+## CIRCULATORY SHOCK WITHOUT DIMINISHED CARDIAC OUTPUT
 
-## PRESSURE IN CIRCULATORY SHOCK?
+Occasionally, cardiac output is normal or even more than normal.
 
-In the minds of many physicians, the arterial pressure
-level is the principal measure of adequacy of circulatory
-function. However, the arterial pressure can often be seriously misleading. At times, a person may be in severe
-shock and still have an almost normal arterial pressure
-because of powerful nervous reflexes that keep the pressure from falling. At other times, the arterial pressure can
-fall to half of normal, but the person still has normal tissue
+Yet the person is in a state of circulatory shock.
 
-perfusion and is not in shock.
-In most types of shock, especially shock caused by
-severe blood loss, the arterial blood pressure decreases
-at the same time the cardiac output decreases, although
-usually not as much.
+This situation can result from:
 
-TISSUE DETERIORATION IS THE END
+- Excessive metabolic rate, so even a normal cardiac output is inadequate
+- Abnormal tissue perfusion patterns, so most of the cardiac output is passing through blood vessels besides those that supply the local tissues with nutrition
 
-## RESULT OF CIRCULATORY SHOCK
+All causes of shock lead to inadequate delivery of nutrients to critical tissues and organs.
 
-Once circulatory shock reaches a critical state of severity,
-regardless of its initiating cause, the shock itself leads to
+They also lead to inadequate removal of cellular waste products from the tissues.
 
-more shock. That is, the inadequate blood flow causes the
-body tissues to begin deteriorating, including the heart
-and circulatory system. This deterioration causes even
-greater decreases in cardiac output, and a vicious cycle
-ensues, with progressively increasing circulatory shock,
-less adequate tissue perfusion, and more shock until death
-occurs. It is with this late stage of circulatory shock that
+## IS ARTERIAL PRESSURE THE PRIMARY MEASURE IN CIRCULATORY SHOCK?
 
-we are especially concerned because appropriate physiological treatment can often reverse the rapid slide to
+In the minds of many physicians, the arterial pressure level is the principal measure of adequacy of circulatory function.
 
-death.
-Circulatory Shock and Its Treatment
-UNIT IV	 The Circulation
+However, the arterial pressure can often be seriously misleading.
 
+At times, a person may be in severe shock and still have an almost normal arterial pressure.
+
+This is because of powerful nervous reflexes that keep the pressure from falling.
+
+At other times, the arterial pressure can fall to half of normal.
+
+The person may still have normal tissue perfusion and not be in shock.
+
+In most types of shock, especially shock caused by severe blood loss:
+
+- Arterial blood pressure decreases at the same time cardiac output decreases
+- Usually not as much
+
+## TISSUE DETERIORATION IS THE END RESULT OF CIRCULATORY SHOCK
+
+Once circulatory shock reaches a critical state of severity, regardless of its initiating cause, the shock itself leads to more shock.
+
+Inadequate blood flow causes the body tissues to begin deteriorating.
+
+This includes the heart and circulatory system.
+
+This deterioration causes even greater decreases in cardiac output.
+
+A vicious cycle ensues.
+
+Progressively increasing circulatory shock occurs.
+
+Less adequate tissue perfusion follows.
+
+More shock continues until death occurs.
+
+It is with this late stage of circulatory shock that we are especially concerned.
+
+Appropriate physiological treatment can often reverse the rapid slide to death.
 
 ## STAGES OF SHOCK
 
+Because the characteristics of circulatory shock change with different degrees of severity, shock is often divided into three major stages:
 
-Because the characteristics of circulatory shock change
-with different degrees of severity, shock is often divided
-into the following three major stages:
+### Stage 1: Nonprogressive (Compensated) Stage
 
-1. A nonprogressive stage (sometimes called the compensated stage), in which the normal circulatory
-compensatory mechanisms eventually cause full recovery without help from outside therapy.
-2. A progressive stage, in which, without therapy, the
-shock becomes steadily worse until death occurs.
-3. An irreversible stage, in which the shock has progressed to such an extent that all forms of known
+The normal circulatory compensatory mechanisms eventually cause full recovery without help from outside therapy.
 
-therapy are inadequate to save the person’s life
-even though, for the moment, the person is still
-alive.
-We will now discuss the stages of circulatory shock
-caused by decreased blood volume, which illustrate the
+### Stage 2: Progressive Stage
 
-basic principles. Then we will consider special characteristics of shock initiated by other causes.
-SHOCK CAUSED BY HYPOVOLEMIA—
+Without therapy, the shock becomes steadily worse until death occurs.
 
-## HEMORRHAGIC SHOCK
+### Stage 3: Irreversible Stage
 
+The shock has progressed to such an extent that all forms of known therapy are inadequate to save the person's life.
 
-### Hypovolemia means diminished blood volume. Hemorrhage is the most common cause of hypovolemic shock.
+Even though, for the moment, the person is still alive.
 
-Hemorrhage decreases the filling pressure of the circulation and, as a consequence, decreases venous return. As
+### Comparison of Shock Stages
 
-a result, the cardiac output falls below normal, and shock
-may ensue.
-Relationship of Bleeding Volume to
-Cardiac Output and Arterial Pressure
-Figure 24- 1 shows the approximate effects on cardiac
-output and arterial pressure of removing blood from the
-circulatory system over a period of about 30 minutes.
-About 10% of the total blood volume can be removed
+| Stage | Characteristics | Outcome |
+|-------|-----------------|---------|
+| Nonprogressive (Compensated) | Reflexes restore circulation | Full recovery without therapy |
+| Progressive | Worsens despite compensation | Death without treatment |
+| Irreversible | Therapy futile | Death even with treatment |
 
-with almost no effect on arterial pressure or cardiac output, but greater blood loss usually diminishes the cardiac
-output first and later the arterial pressure, both of which
-fall to zero when about 40% to 45% of the total blood volume has been removed.
-Sympathetic Reflex Compensations in Shock—Their
-Special Value to Maintain Arterial Pressure. The decrease in arterial pressure after hemorrhage, as well as decreases in pressures in the pulmonary arteries and veins
-in the thorax, cause powerful sympathetic reflexes (initiated mainly by the arterial baroreceptors and other vascular stretch receptors, as explained in Chapter 18). These
+## SHOCK CAUSED BY HYPOVOLEMIA—HEMORRHAGIC SHOCK
 
-reflexes stimulate the sympathetic vasoconstrictor system
-in most tissues of the body, resulting in three important
-effects:
+Hypovolemia means diminished blood volume.
 
-1. The arterioles constrict in most parts of the systemic circulation, thereby increasing the total peripheral resistance.
+Hemorrhage is the most common cause of hypovolemic shock.
 
-2. The veins and venous reservoirs constrict, thereby
-helping maintain adequate venous return, despite
-diminished blood volume.
+Hemorrhage decreases the filling pressure of the circulation.
 
-3. Heart activity increases markedly, sometimes increasing the heart rate from the normal value of
+As a consequence, venous return decreases.
 
-beats/min to as high as 160 to 180 beats/min.
-In the absence of the sympathetic reflexes, only 15% to
-20% of the blood volume can be removed over a period
+Cardiac output falls below normal, and shock may ensue.
 
-of 30 minutes before a person dies; in contrast, a person can sustain a 30% to 40% loss of blood volume when
-the reflexes are intact. Therefore, these reflexes extend
-the amount of blood loss that can occur without causing death to about twice that which is possible in their
+### Relationship of Bleeding Volume to Cardiac Output and Arterial Pressure
 
-absence.
-Greater Effect of Sympathetic Nervous Reflexes in
-Maintaining Arterial Pressure Than in Maintaining
-Cardiac Output. Referring again to Figure 24- 1, note
+About 10% of the total blood volume can be removed with almost no effect on arterial pressure or cardiac output.
 
-that the arterial pressure is maintained at or near normal levels in the hemorrhaging person longer than is the
-cardiac output. The reason for this difference is that the
-sympathetic reflexes are geared more for maintaining arterial pressure than for maintaining cardiac output. They
-increase the arterial pressure mainly by increasing the total peripheral resistance, which has no beneficial effect on
+Greater blood loss usually diminishes cardiac output first.
 
-cardiac output. However, the sympathetic constriction of
-the veins is important to keep venous return and cardiac
-output from falling too much, in addition to their role in
-maintaining arterial pressure.
+Arterial pressure falls later.
 
-Especially interesting is the second plateau occurring at about 50 mm Hg in the arterial pressure curve of
+Both fall to zero when about 40% to 45% of the total blood volume has been removed.
 
-> **Figure 24- 1. This second plateau results from activation of the central nervous system ischemic response, which causes extreme stimulation of the sympathetic nervous**
+### Sympathetic Reflex Compensations in Shock
 
-system when the brain begins to experience lack of oxygen or excess buildup of carbon dioxide, as discussed in
-Chapter 18. This effect of the central nervous system ischemic response can be called the “last-ditch stand” of the
+The decrease in arterial pressure after hemorrhage causes powerful sympathetic reflexes.
 
-sympathetic reflexes in their attempt to keep the arterial
-pressure from falling too low.
-Cardiac output and
-arterial pressure
-(% of normal)
-0 	10 	20 	30 	40 	50
-0
-% of total blood removed
-Arterial
-pressure
-Cardiac
-output
+These are initiated mainly by arterial baroreceptors and other vascular stretch receptors.
 
+These reflexes stimulate the sympathetic vasoconstrictor system in most tissues.
 
-> **Figure 24- 1 Effect of hemorrhage on cardiac output and arterial pressure.**
+This results in three important effects:
+
+1. **Arterioles constrict** in most parts of the systemic circulation, thereby increasing total peripheral resistance
+2. **Veins and venous reservoirs constrict**, thereby helping maintain adequate venous return despite diminished blood volume
+3. **Heart activity increases markedly**, sometimes increasing heart rate from the normal value of 70 beats/min to as high as 160 to 180 beats/min
+
+#### Survival Value of Sympathetic Reflexes
+
+Without sympathetic reflexes, only 15% to 20% of blood volume can be removed over 30 minutes before death occurs.
+
+With reflexes intact, a person can sustain 30% to 40% loss of blood volume.
+
+These reflexes extend the survivable blood loss to about twice that possible in their absence.
+
+#### Greater Effect on Arterial Pressure Than on Cardiac Output
+
+The arterial pressure is maintained at or near normal levels longer than cardiac output during hemorrhage.
+
+The reason is that sympathetic reflexes are geared more for maintaining arterial pressure than cardiac output.
+
+They increase arterial pressure mainly by increasing total peripheral resistance.
+
+This has no beneficial effect on cardiac output.
+
+However, sympathetic constriction of veins is important.
+
+It keeps venous return and cardiac output from falling too much.
+
+It also helps maintain arterial pressure.
+
+### The "Second Plateau" in Arterial Pressure During Severe Hemorrhage
+
+A second plateau occurs at about 50 mm Hg in the arterial pressure curve during severe hemorrhage.
+
+This results from activation of the central nervous system ischemic response.
+
+This causes extreme stimulation of the sympathetic nervous system when the brain begins to experience lack of oxygen.
+
+Or excess buildup of carbon dioxide occurs.
+
+This can be called the "last-ditch stand" of the sympathetic reflexes.
+
+Their purpose is to keep arterial pressure from falling too low.
+
+### Summary of Hemorrhage Effects
+
+| Blood Volume Lost | Effect on Cardiac Output | Effect on Arterial Pressure |
+|-------------------|-------------------------|----------------------------|
+| <10% | Minimal effect | Minimal effect |
+| 10-30% | Decreases first | Decreases later |
+| 30-40% | Markedly reduced | Partially maintained by reflexes |
+| 40-45% | Falls to zero | Falls to zero |
+
+### Sympathetic Compensation Effects
+
+| Effect | Mechanism | Benefit |
+|--------|-----------|---------|
+| Arteriolar constriction | ↑ Total peripheral resistance | Maintains arterial pressure |
+| Venous constriction | ↑ Venous return | Maintains cardiac output |
+| ↑ Heart rate | ↑ Contractility | Maintains cardiac output |

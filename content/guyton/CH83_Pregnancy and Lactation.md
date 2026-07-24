@@ -3,295 +3,254 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH83"
 title: "Pregnancy and Lactation"
 book: "Guyton & Hall"
+summary: "Following ovulation, the secondary oocyte is captured by the fimbriated end of the fallopian tube and transported to the ampulla where fertilization typically occurs. Sperm capacitation, the acrosome reaction, and fusion of male and female pronuclei are essential steps in successful fertilization."
+key_points:
+  - "The secondary oocyte (arrested in metaphase II) is ovulated into the peritoneal cavity and enters the fallopian tube via ciliary action of fimbriae, guided by estrogen-activated cilia"
+  - "Sperm must undergo capacitation in the female reproductive tract (5-7 hours) and the acrosome reaction to penetrate the zona pellucida and fertilize the oocyte"
+  - "Fertilization normally occurs in the ampulla of the fallopian tube; the sperm penetrates the corona radiata, zona pellucida, and oocyte membrane to fuse with the female pronucleus"
+  - "Cortical granules release enzymes that modify the zona pellucida (zona reaction), preventing polyspermy"
+  - "The uterine endometrium undergoes cyclic changes under estrogen and progesterone control, becoming receptive to implantation during the secretory (luteal) phase"
 ---
 
-## CAUSED BY LACTATION
+## THE OVUM
 
+### Oocyte Maturation Before Ovulation
 
-Table 83- 1 lists the approximate composition of human
-milk and cow’s milk. The concentration of lactose in
-human milk is about 50% greater than in cow’s milk, but
-the concentration of protein in cow’s milk is ordinarily
-two or more times greater than in human milk. Finally,
-only one-third as much ash, which contains calcium and
-other minerals, is found in human milk compared with
-cow’s milk.
-At the height of lactation in the human mother, 1.5
-liters of milk may be formed each day (and even more
-if the mother has twins). With this degree of lactation,
-great quantities of energy are drained from the mother;
-approximately 650 to 750 kilocalories per liter (or 19 to
-22 kilocalories per ounce) are contained in breast milk,
-although the composition and caloric content of the milk
-depends on the mother’s diet and other factors such as the
-fullness of the breasts.
-Large amounts of metabolic substrates are also lost
-from the mother. For example, about 50 grams of fat
-enter the milk each day, as well as about 100 grams of
-lactose, which must be derived by conversion from the
+While still in the ovary, the ovum is in the primary oocyte stage.
 
-mother’s glucose. Also, 2 to 3 grams of calcium phosphate may be lost each day; unless the mother is drinking large quantities of milk and has an adequate intake
+Shortly before it is released from the ovarian follicle, its nucleus divides by meiosis and a first polar body is expelled from the nucleus of the oocyte.
 
-of vitamin D, the output of calcium and phosphate by
-the lactating mammae will often be much greater than
-the intake of these substances. To supply the needed
-calcium and phosphate, the parathyroid glands enlarge
+The primary oocyte then becomes the secondary oocyte.
 
-greatly, and the bones become progressively decalcified. The mother’s bone decalcification is usually not a
+In this process, each of the 23 pairs of chromosomes loses one of its partners, which becomes incorporated in a polar body that is expelled.
 
-big problem during pregnancy, but it can become more
-important during lactation.
-Antibodies and Other Anti-infectious Agents in
-Milk. Not only does milk provide the newborn baby
-with needed nutrients, but it also provides important
-protection against infection. For example, multiple
-types of antibodies and other anti-infectious agents are
+This leaves 23 unpaired chromosomes in the secondary oocyte.
 
-secreted in milk along with nutrients. Also, several different types of white blood cells are secreted, including
-both neutrophils and macrophages, some of which are
-especially lethal to bacteria that could cause deadly infections in newborn babies. Particularly important are
+It is at this time that the ovum, which is still in the secondary oocyte stage, is ovulated into the abdominal cavity.
 
-antibodies and macrophages that destroy Escherichia
-coli bacteria, which can cause lethal diarrhea in newborns.
-When cow’s milk is used to supply nutrition for the
-baby in place of mother’s milk, the protective agents in
-it are usually of little value because they are normally
-destroyed within minutes in the internal environment of
-the human being.
-Bibliography
+Then, almost immediately, it enters the fimbriated end of one of the fallopian tubes.
 
-Berkane N, Liere P, Oudinet JP, et al: From pregnancy to preeclampsia: a key role for estrogens. Endocr Rev 38:123, 2017.
-Bernard V, Young J, Binart N: Prolactin - a pleiotropic factor in health
-and disease. Nat Rev Endocrinol 15:356, 2019.
-Burton GJ, Redman CW, Roberts JM, Moffett A: Pre-eclampsia:
-pathophysiology and clinical implications. BMJ 366:l2381, 2019.
-Fleming TP, Watkins AJ, Velazquez MA, et al: Origins of lifetime
-health around the time of conception: causes and consequences.
-Lancet 391:1842, 2018.
-Goldstein RF, Abell SK, Ranasinha S, et al: Association of gestational
-weight gain with maternal and infant outcomes: a systematic review and meta-analysis. JAMA 317:2207, 2017.
-Hill JW, Elias CF: Neuroanatomical framework of the metabolic control of reproduction. Physiol Rev 98:2349, 2018.
-Jelinic M, Marshall SA, Stewart D, Unemori E, et al: Peptide hormone
-relaxin: from bench to bedside. Am J Physiol Regul Integr Comp
-Physiol 314:R753, 2018.
-Jurek B, Neumann ID: The oxytocin receptor: from intracellular signaling to behavior. Physiol Rev 98:1805, 2018.
-Kelleher AM, DeMayo FJ, Spencer TE: Uterine glands: developmental biology and functional roles in pregnancy. Endocr Rev 40:1424, 2019.
-Kovacs CS: Maternal mineral and bone metabolism during pregnancy,
-lactation, and post-weaning recovery. Physiol Rev 96:449, 2016.
-Rana S, Lemoine E, Granger J, Karumanchi SA: Preeclampsia. Circ Res
-124:1094, 2019.
-Robertson SA, Care AS, Moldenhauer LM: Regulatory T cells in embryo implantation and the immune response to pregnancy. J Clin
-Invest 128:4224, 2018.
-Shahbazi MN, Siggia ED, Zernicka-Goetz M: Self-organization of stem
-cells into embryos: a window on early mammalian development.
-Science 364:948, 2019.
-Shennan DB, Peaker M: Transport of milk constituents by the mammary gland. Physiol Rev 80:925, 2000.
-Silver RM, Branch DW: Placenta accreta spectrum. N Engl J Med
-378:1529, 2018.
-Wiles KS, Nelson-Piercy C, Bramham K: Reproductive health and
-pregnancy in women with chronic kidney disease. Nat Rev Nephrol
+### Entry of the Ovum Into the Fallopian Tube
 
-14:165, 2018.
-Table 83- 1 	Composition of Milk
-Constituent 	Human Milk (%) 	Cow’s Milk (%)
-Water 	88.5 	87.0
-Fat 	3.3 	3.5
-Lactose 	6.8 	4.8
-Casein 	0.9 	2.7
-Lactalbumin and
-other proteins
-0.4 	0.7
-Ash 	0.2 	0.7
-1061
+When ovulation occurs, the ovum, along with a hundred or more attached granulosa cells that constitute the corona radiata, is expelled directly into the peritoneal cavity.
 
-A complete discussion of fetal development, physiology of the child immediately after birth, and growth and
+It must then enter one of the fallopian tubes (uterine tubes) to reach the cavity of the uterus.
 
-development through the early years of life lies within the
-province of formal courses in obstetrics and pediatrics.
-However, many physiological principles are peculiar to
-the infant, and this chapter discusses the more important
-of these principles.
-Growth and Development of the Fetus
-The placenta and fetal membranes initially develop far
-more rapidly than does the fetus. In fact, during the first
+The fimbriated ends of each fallopian tube fall naturally around the ovaries.
 
-2 to 3 weeks after implantation of the blastocyst, the fetus remains almost microscopic, but thereafter, as shown
+The inner surfaces of the fimbriated tentacles are lined with ciliated epithelium.
 
-in Figure 84- 1, the length of the fetus increases almost
-in proportion to age. At 12 weeks, the length is about 10
-centimeters; at 20 weeks, 25 centimeters; and at term (40
-weeks), 53 centimeters (≈21 inches). Because the weight
-of the fetus is approximately proportional to the cube of
-length, the weight increases almost in proportion to the
-cube of the age of the fetus.
+The cilia are activated by estrogen from the ovaries, which causes the cilia to beat toward the opening (ostium) of the involved fallopian tube.
 
-Note in Figure 84- 1 that the weight remains minuscule during the first 12 weeks and reaches 1 pound only at
+One can actually see a slow fluid current flowing toward the ostium.
 
-23 weeks (5.5 months) of gestation. Then, during the last
-trimester of pregnancy, the fetus gains weight rapidly, so
-that 2 months before birth, the weight averages 3 pounds; 1
-month before birth, the average is 4.5 pounds; and at birth,
-the average is 7 pounds, with the final birth weight varying
+By this means, the ovum enters one of the fallopian tubes.
 
-from as low as 4.5 pounds to as high as 11 pounds in normal infants with normal gestational periods.
+### Success Rate of Ovum Entry
 
-Development of the Organ Systems
-Within 1 month after fertilization of the ovum, the gross
-characteristics of all the different organs of the fetus
-have already begun to develop, and during the next 2 to
-3 months, most of the details of the different organs are
-established. Beyond month 4, the organs of the fetus are
+Although one might suspect that many ova fail to enter the fallopian tubes, conception studies suggest up to 98% of ova succeed in this task.
 
-grossly the same as those of the neonate. However, cellular development in each organ is usually far from complete and requires the full remaining 5 months of pregnancy for complete development. Even at birth, certain
-structures lack full development, particularly in the nervous system, the kidneys, and the liver, as discussed later
+In some recorded cases, women with one ovary removed and the opposite fallopian tube removed have had several children with relative ease of conception.
 
-in this chapter.
-Circulatory System. The human heart begins beating
-during the fourth week after fertilization, contracting at a
-rate of about 65 beats/min. This rate increases steadily to
-about 140 beats/min immediately before birth.
+This demonstrates that ova can even enter the opposite fallopian tube.
 
-Formation of Blood Cells. Nucleated red blood cells begin to be formed in the yolk sac and mesothelial layers of
+## FERTILIZATION OF THE OVUM
 
-the placenta at about the third week of fetal development.
-This is followed 1 week later (at 4–5 weeks) by formation of
-non-nucleated red blood cells by the fetal mesenchyme and
-also by the endothelium of fetal blood vessels. At 6 weeks,
+### Sperm Transport
 
-the liver begins to form blood cells, and in the third month,
+After the male ejaculates semen into the vagina during intercourse, a few sperm are transported within 5 to 10 minutes upward from the vagina and through the uterus and fallopian tubes to the ampullae of the fallopian tubes near the ovarian ends of the tubes.
 
-the spleen and other lymphoid tissues of the body begin
-forming blood cells. Finally, from the third month on, the
-bone marrow gradually becomes the principal source of
+This transport of the sperm is aided by:
 
-red blood cells, as well as most of the white blood cells, except for continued lymphocyte and plasma cell production
-in lymphoid tissue.
-Respiratory System. Respiration cannot occur during
-fetal life because there is no air to breathe in the amniotic
-cavity. However, attempted respiratory movements do take
-place beginning at the end of the first trimester of pregnancy. Tactile stimuli and fetal asphyxia especially cause these
-attempted respiratory movements.
-During the last 3 to 4 months of pregnancy, the respiratory movements of the fetus are mainly inhibited, for reasons unknown, and the lungs remain almost completely deflated. The inhibition of respiration during the later months
-of fetal life prevents filling of the lungs with fluid and debris
+- Contractions of the uterus and fallopian tubes stimulated by prostaglandins in the male seminal fluid
+- Oxytocin released from the posterior pituitary gland of the female during her orgasm
 
-from the meconium excreted by the fetus’s gastrointestinal
-tract into the amniotic fluid. Also, small amounts of fluid
-are secreted into the lungs by the alveolar epithelium up
-until the moment of birth, thus keeping only clean fluid in
-the lungs.
-Nervous System. Most of the reflexes of the fetus that
-involve the spinal cord and even the brain stem are present
+Of the almost half a billion sperm deposited in the vagina, a few thousand succeed in reaching each ampulla.
 
-by the third to fourth months of pregnancy. However, nervous system functions that involve the cerebral cortex are
-still only in the early stages of development, even at birth.
-Indeed, myelinization of some major tracts of the brain becomes complete only after about 1 year of postnatal life.
-Gastrointestinal Tract. By midpregnancy, the fetus begins to ingest and absorb large quantities of amniotic fluid,
-and during the last 2 to 3 months, gastrointestinal function approaches that of the normal neonate. By that time,
-small quantities of meconium are continually formed in
-the gastrointestinal tract and excreted from the anus into
-the amniotic fluid. Meconium is composed partly of residue from swallowed amniotic fluid and partly of mucus,
+### Fertilization Process
 
-Fetal and Neonatal Physiology
-UNIT XIV 	Endocrinology and Reproduction
-1062
-epithelial cells, and other residues of excretory products
-from the gastrointestinal mucosa and glands.
+Fertilization of the ovum normally takes place in the ampulla of one of the fallopian tubes soon after both the sperm and the ovum enter the ampulla.
 
-Kidneys. The fetal kidneys begin to excrete urine during the second trimester, and fetal urine accounts for about
-70% to 80% of the amniotic fluid. Abnormal kidney development or severe impairment of kidney function in the
-fetus greatly reduces formation of amniotic fluid (oligohydramnios) and can lead to fetal death.
+Before a sperm can enter the ovum, it must first:
 
-Although fetal kidneys form urine, the renal control
-systems for regulating fetal extracellular fluid volume and
-electrolyte balances, and especially acid–base balance, are
+1. Penetrate the multiple layers of granulosa cells attached to the outside of the ovum (the corona radiata)
+2. Bind to and penetrate the zona pellucida surrounding the ovum
 
-almost nonexistent until late fetal life and do not reach full
-development until a few months after birth.
-Fetal Metabolism
-The fetus mainly uses glucose for energy. The fetus has a high
-capability of storing fat and protein, with much if not most of
-the fat being synthesized from glucose rather than being absorbed directly from the mother’s blood. In addition to these
+The mechanisms used by the sperm for these purposes are presented in Chapter 81.
 
-generalities, there are special problems of fetal metabolism
-related to calcium, phosphate, iron, and some vitamins.
-Metabolism of Calcium and Phosphate
+### Formation of Pronuclei
 
+Once a sperm has entered the ovum (which is still in the secondary oocyte stage of development), the oocyte divides again to form the mature ovum plus a second polar body that is expelled.
 
-> **Figure 84-2 shows the rates of calcium and phosphate accumulation in the fetus, demonstrating that about 22.5 grams of calcium and 13.5 grams of phosphorus are accumulated in the average fetus during gestation. About one-half of these accumulate during the last 4 weeks of gestation, which is coincident with the period of rapid ossification of the fetal bones and with the period of rapid weight gain of the fetus.**
+The mature ovum still carries in its nucleus (now called the female pronucleus) 23 chromosomes.
 
-During the earlier part of fetal life, the bones are relatively unossified and have mainly a cartilaginous matrix.
+One of these chromosomes is the female chromosome, known as the X chromosome.
 
-Ossification usually does not occur until after the fourth
-month of pregnancy.
-Note especially that the total amounts of calcium and
-phosphate needed by the fetus during gestation represent
-only about 2% of the quantities of these substances in the
-mother’s bones, and thus the drain of these substances
-from the mother is minimal. A much greater drain occurs
-after birth during lactation.
-Accumulation of Iron
-Figure 84- 2 also shows that iron accumulates in the fetus
-even more rapidly than does calcium and phosphate. Most
-of the iron is in the form of hemoglobin, which begins to
-be formed as early as the third week after fertilization of
-the ovum.
-Small amounts of iron are concentrated in the mother’s
+Meanwhile, the fertilizing sperm has also changed.
 
-uterine progestational endometrium even before implantation of the ovum; this iron is ingested into the embryo by
-the trophoblastic cells and is used to form the very early red
-blood cells. About one-third of the iron in a fully developed
-fetus is normally stored in the liver. This iron can then be
-used by the neonate to form additional hemoglobin for several months after birth.
+On entering the ovum, its head swells to form a male pronucleus.
 
-Utilization and Storage of Vitamins
-The fetus needs vitamins equally as much as the adult and
-in some instances to a far greater extent. In general, the
-vitamins function the same in the fetus as in the adult, as
+Later, the 23 unpaired chromosomes of the male pronucleus and the 23 unpaired chromosomes of the female pronucleus align themselves.
 
-discussed in Chapter 72. Special functions of several vitamins should be mentioned, however.
+They re-form a complete complement of 46 chromosomes (23 pairs) in the fertilized ovum or zygote.
 
-The B vitamins, especially vitamin B12 and folic acid, are
-necessary for the formation of red blood cells and nervous
-tissue, as well as for overall growth of the fetus.
+## WHAT DETERMINES THE SEX OF THE FETUS?
 
-Vitamin C is necessary for appropriate formation of intercellular substances, especially the bone matrix and fibers
+Half of the mature sperm carry in their genome an X chromosome (the female chromosome) and half carry a Y chromosome (the male chromosome).
 
-of connective tissue.
-Vitamin D is necessary for normal bone growth in the
-fetus, but even more important, the mother needs it for
-adequate absorption of calcium from her gastrointestinal
-tract. If the mother has plenty of vitamin D in her body
+If an X chromosome from a sperm combines with an X chromosome from an ovum, giving an XX combination, a female child will be born.
 
-fluids, large quantities of the vitamin will be stored by the
-fetal liver to be used by the neonate for several months after
+If a Y chromosome from a sperm is paired with an X chromosome from an ovum, giving an XY combination, a male child will be born.
 
-birth.
-The mechanisms of the functions of vitamin E are not
-entirely clear, but it is necessary for normal development
-of the early embryo. In its absence in laboratory animals,
-spontaneous abortion usually occurs at an early stage of
-pregnancy.
+## TRANSPORT OF THE FERTILIZED OVUM IN THE FALLOPIAN TUBE
 
-Vitamin K is used by the fetal liver for formation of Factor VII, prothrombin, and several other blood coagulation
-factors. When vitamin K is insufficient in the mother, Factor VII and prothrombin become deficient in the fetus and
+After fertilization has occurred, an additional 3 to 5 days is normally required for transport of the fertilized ovum through the remainder of the fallopian tube into the cavity of the uterus.
 
-the mother. Because most vitamin K is formed by bacterial
-action in the mother’s colon, the neonate has no adequate
-0 	4 	8 	12 16 20 24 28 32 36 40
-Ovulation
-Parturition
-5
-0
-Iron
-Calcium
-Phosphorus
-0
-Age of fetus (weeks after last menstruation)
-Grams of calcium or phosphorus stored
-Milligrams of iron stored
+This transport is effected mainly by a feeble fluid current in the tube resulting from epithelial secretion plus action of the ciliated epithelium that lines the tube.
 
+The cilia always beat toward the uterus.
 
-> **Figure 84- 2. Iron, calcium, and phosphorus storage in the fetus at different stages of gestation. 0 	36	32	28	24	20	16	12	8	4 Ovulation Parturition Length Weight 0 2 1 3 0 Age of fetus (weeks after last menstruation) Length (centimeters) Weight (kilograms)**
+Weak contractions of the fallopian tube may also aid passage of the ovum.
 
+### Isthmus Contraction Pattern
 
-> **Figure 84- 1. Growth of the fetus.**
+The fallopian tubes are lined with a rugged cryptoid surface that impedes passage of the ovum despite the fluid current.
+
+The isthmus of the fallopian tube (the last 2 centimeters before the tube enters the uterus) remains spastically contracted for about the first 3 days after ovulation.
+
+After this time, the rapidly increasing progesterone secreted by the ovarian corpus luteum first promotes increasing progesterone receptors on the fallopian tube smooth muscle cells.
+
+Then the progesterone activates the receptors, relaxing the tubules and allowing entry of the ovum into the uterus.
+
+### Purpose of Delayed Transport
+
+This delayed transport of the fertilized ovum through the fallopian tube allows several stages of cell division to occur before the dividing ovum (now called a blastocyst, with about 100 cells) enters the uterus.
+
+During this time, the fallopian tube secretory cells produce large quantities of secretions used for nutrition of the developing blastocyst.
+
+## IMPLANTATION OF THE BLASTOCYST IN THE UTERUS
+
+After reaching the uterus, the developing blastocyst usually remains in the uterine cavity an additional 1 to 3 days before it implants in the endometrium.
+
+Implantation ordinarily occurs on about the fifth to seventh day after ovulation.
+
+Before implantation, the blastocyst obtains its nutrition from the uterine endometrial secretions, called "uterine milk."
+
+### Implantation Mechanism
+
+Implantation results from the action of trophoblast cells that develop over the surface of the blastocyst.
+
+These cells secrete proteolytic enzymes that digest and liquefy the adjacent cells of the uterine endometrium.
+
+Some of the fluid and nutrients released are actively transported by the same trophoblast cells into the blastocyst.
+
+This adds more sustenance for growth.
+
+Once implantation has taken place, the trophoblast cells and other adjacent cells (from the blastocyst and the uterine endometrium) form the placenta.
+
+## PREGNANCY AND LACTATION HORMONES
+
+### Human Chorionic Gonadotropin (hCG)
+
+hCG is the earliest pregnancy marker.
+
+It is secreted by trophoblastic cells.
+
+hCG maintains the corpus luteum's progesterone production until the placenta takes over.
+
+### Placental Hormones
+
+| Hormone | Function |
+|---------|----------|
+| Estrogen | Maintains endometrium, suppresses uterine contractions |
+| Progesterone | Maintains endometrium, suppresses uterine contractions |
+| Human placental lactogen (hPL) | Antagonizes maternal insulin, directs glucose to fetus |
+
+## MILK COMPOSITION
+
+Table 83-1 lists the approximate composition of human milk and cow's milk.
+
+| Constituent | Human Milk (%) | Cow's Milk (%) |
+|-------------|----------------|----------------|
+| Water | 88.5 | 87.0 |
+| Fat | 3.3 | 3.5 |
+| Lactose | 6.8 | 4.8 |
+| Casein | 0.9 | 2.7 |
+| Lactalbumin and other proteins | 0.4 | 0.7 |
+| Ash | 0.2 | 0.7 |
+
+The concentration of lactose in human milk is about 50% greater than in cow's milk.
+
+The concentration of protein in cow's milk is ordinarily two or more times greater than in human milk.
+
+Only one-third as much ash (containing calcium and other minerals) is found in human milk compared with cow's milk.
+
+## LACTATION ENERGY AND METABOLIC DEMANDS
+
+At the height of lactation in the human mother, 1.5 liters of milk may be formed each day.
+
+With twins, even more may be produced.
+
+With this degree of lactation, great quantities of energy are drained from the mother.
+
+Approximately 650 to 750 kilocalories per liter (or 19 to 22 kilocalories per ounce) are contained in breast milk.
+
+The composition and caloric content of the milk depends on the mother's diet and other factors such as the fullness of the breasts.
+
+### Metabolic Substrate Loss
+
+Large amounts of metabolic substrates are also lost from the mother:
+
+| Substance | Daily Loss in Milk |
+|-----------|-------------------|
+| Fat | ~50 grams |
+| Lactose | ~100 grams (derived from glucose) |
+| Calcium phosphate | 2-3 grams |
+
+Unless the mother is drinking large quantities of milk and has an adequate intake of vitamin D, the output of calcium and phosphate by the lactating mammae will often be much greater than the intake.
+
+To supply the needed calcium and phosphate, the parathyroid glands enlarge greatly.
+
+The bones become progressively decalcified.
+
+The mother's bone decalcification is usually not a big problem during pregnancy, but it can become more important during lactation.
+
+## ANTIBODIES AND OTHER ANTI-INFECTIOUS AGENTS IN MILK
+
+Not only does milk provide the newborn baby with needed nutrients, but it also provides important protection against infection.
+
+Multiple types of antibodies and other anti-infectious agents are secreted in milk along with nutrients.
+
+Several different types of white blood cells are secreted, including both neutrophils and macrophages.
+
+Some of these white blood cells are especially lethal to bacteria that could cause deadly infections in newborn babies.
+
+Particularly important are antibodies and macrophages that destroy Escherichia coli bacteria.
+
+These can cause lethal diarrhea in newborns.
+
+### Cow's Milk Limitations
+
+When cow's milk is used to supply nutrition for the baby in place of mother's milk, the protective agents in it are usually of little value.
+
+This is because they are normally destroyed within minutes in the internal environment of the human being.
+
+## FERTILIZATION AND IMPLANTATION TIMELINE
+
+| Day | Event |
+|-----|-------|
+| 1 | Fertilization in fallopian tube ampulla |
+| 2-3 | Cell division to 2-8 cells |
+| 4-5 | Morula stage, enters uterus |
+| 5-7 | Blastocyst implants in endometrium |
+
+## PREGNANCY PHYSIOLOGY SUMMARY
+
+| System | Adaptation |
+|--------|------------|
+| Endocrine | hCG maintains corpus luteum; placenta takes over hormone production |
+| Cardiovascular | Increased blood volume, cardiac output |
+| Respiratory | Increased tidal volume, minute ventilation |
+| Renal | Increased GFR, fluid retention |
+| Gastrointestinal | Relaxed smooth muscle, constipation possible |
+| Metabolic | Insulin resistance, increased nutrient demand |

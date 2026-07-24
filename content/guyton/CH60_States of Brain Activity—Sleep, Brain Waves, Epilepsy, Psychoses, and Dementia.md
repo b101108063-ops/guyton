@@ -3,189 +3,82 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH60"
 title: "States of Brain Activity—Sleep, Brain Waves, Epilepsy, Psychoses, and Dementia"
 book: "Guyton & Hall"
+summary: "Brain activity cycles between wakefulness, REM sleep, and non-REM (slow-wave) sleep, each with distinct EEG patterns and physiological characteristics. Sleep is actively induced by inhibitory centers in the brain stem and hypothalamus, particularly serotonergic neurons in the raphe nuclei. Various neurological conditions including epilepsy, psychoses, and dementia involve specific patterns of brain activity disruption."
+key_points:
+  - "REM sleep is characterized by vivid dreaming, muscle atonia, rapid eye movements, and desynchronized beta-wave EEG activity similar to wakefulness"
+  - "Slow-wave (non-REM) sleep progresses through stages 1-4, with progressive increase in slow-wave (delta) activity; it is the most restful sleep phase"
+  - "Sleep is actively induced by inhibitory processes; raphe nuclei serotonin secretion promotes sleep, and lesions in sleep-promoting centers cause insomnia"
+  - "Alpha waves (8-12 Hz) indicate relaxed wakefulness; beta waves (>13 Hz) indicate active wakefulness; theta and delta waves characterize deeper sleep stages"
+  - "Epileptic seizures result from hypersynchronous neuronal discharges; petit mal involves 3-Hz spike-and-wave patterns, grand mal involves tonic-clonic contractions"
 ---
-
 ## AUTONOMIC NERVOUS SYSTEM
 
-The autonomic nervous system is activated mainly by centers located in the spinal cord, brain stem, and hypothalamus. In addition, portions of the cerebral cortex, especially
-of the limbic cortex, can transmit signals to the lower centers and in this way can influence autonomic control.
-The autonomic nervous system also often operates
-through visceral reflexes. That is, subconscious sensory
-signals from visceral organs can enter the autonomic ganglia, the brain stem, or the hypothalamus and then return
+The autonomic nervous system is activated mainly by centers located in the spinal cord, brain stem, and hypothalamus. In addition, portions of the cerebral cortex, especially of the limbic cortex, can transmit signals to the lower centers and in this way can influence autonomic control. The autonomic nervous system also often operates through visceral reflexes.
 
-subconscious reflex responses directly back to the visceral
-organs to control their activities.
-The efferent autonomic signals are transmitted to
+That is, subconscious sensory signals from visceral organs can enter the autonomic ganglia, the brain stem, or the hypothalamus and then return
+
+subconscious reflex responses directly back to the visceral organs to control their activities. The efferent autonomic signals are transmitted to
 
 the various organs of the body through two major subdivisions called the sympathetic nervous system and the
 
-parasympathetic nervous system, the characteristics and
-functions of which are described in the following sections.
-Physiologic Anatomy of the Sympathetic Nervous
-System
+parasympathetic nervous system, the characteristics and functions of which are described in the following sections. Physiologic Anatomy of the Sympathetic Nervous System
 
 
-> **Figure 61- 1 shows the general organization of the peripheral portions of the sympathetic nervous system. Shown**
+> **Figure 61-1 shows the general organization of the peripheral portions of the sympathetic nervous system. Shown**
 
 specifically in the figure are (1) one of the two paravertebral sympathetic chains of ganglia that are interconnected
 
-with the spinal nerves on the side of the vertebral column,
-(2) prevertebral ganglia (the celiac, superior mesenteric,
-aorticorenal, inferior mesenteric, and hypogastric), and (3)
-nerves extending from the ganglia to the different internal
-organs.
-The sympathetic nerve fibers originate in the spinal cord
-along with spinal nerves between cord segments T1 and L2
+with the spinal nerves on the side of the vertebral column, (2) prevertebral ganglia (the celiac, superior mesenteric, aorticorenal, inferior mesenteric, and hypogastric), and (3) nerves extending from the ganglia to the different internal organs. The sympathetic nerve fibers originate in the spinal cord along with spinal nerves between cord segments T1 and L2
 
 and pass first into the sympathetic chain and then to the tissues and organs that are stimulated by the sympathetic nerves.
 
-Preganglionic and Postganglionic Sympathetic Neurons
-The sympathetic nerves are different from skeletal motor
-nerves in the following way. Each sympathetic pathway
-from the cord to the stimulated tissue is composed of two
+Preganglionic and Postganglionic Sympathetic Neurons The sympathetic nerves are different from skeletal motor nerves in the following way. Each sympathetic pathway from the cord to the stimulated tissue is composed of two
 
-neurons, a preganglionic neuron and a postganglionic neuron, in contrast to only a single neuron in the skeletal motor
-pathway. The cell body of each preganglionic neuron lies in
-the intermediolateral horn of the spinal cord; its fiber passes through a ventral root of the cord into the corresponding
+neurons, a preganglionic neuron and a postganglionic neuron, in contrast to only a single neuron in the skeletal motor pathway. The cell body of each preganglionic neuron lies in the intermediolateral horn of the spinal cord; its fiber passes through a ventral root of the cord into the corresponding
 
-spinal nerve, as shown in Figure 61- 2.
-Immediately after the spinal nerve leaves the spinal canal,
-the preganglionic sympathetic fibers leave the spinal nerve
+spinal nerve, as shown in Figure 61-2. Immediately after the spinal nerve leaves the spinal canal, the preganglionic sympathetic fibers leave the spinal nerve
 
-and pass through a white ramus into one of the ganglia of the
-sympathetic chain. The fibers then can take one of the following three courses: (1) they can synapse with postganglionic sympathetic neurons in the ganglion that they enter; (2)
-they can pass upward or downward in the chain and synapse
-in one of the other ganglia of the chain; or (3) they can pass
-for variable distances through the chain and then through
-one of the sympathetic nerves radiating outward from the
-chain, finally synapsing in a peripheral sympathetic ganglion.
+and pass through a white ramus into one of the ganglia of the sympathetic chain. The fibers then can take one of the following three courses: (1) they can synapse with postganglionic sympathetic neurons in the ganglion that they enter; (2) they can pass upward or downward in the chain and synapse in one of the other ganglia of the chain; or (3) they can pass for variable distances through the chain and then through one of the sympathetic nerves radiating outward from the chain, finally synapsing in a peripheral sympathetic ganglion.
 
-The postganglionic sympathetic neuron thus originates
-either in one of the sympathetic chain ganglia or in one of
-the peripheral sympathetic ganglia. From either of these
-two sources, the postganglionic fibers then travel to their
-destinations in the various organs.
-Sympathetic Nerve Fibers in the Skeletal Nerves. Some
-of the postganglionic fibers pass back from the sympathetic
-chain into the spinal nerves through gray rami at all levels
-of the cord, as shown in Figure 61- 2. These sympathetic
+The postganglionic sympathetic neuron thus originates either in one of the sympathetic chain ganglia or in one of the peripheral sympathetic ganglia. From either of these two sources, the postganglionic fibers then travel to their destinations in the various organs. Sympathetic Nerve Fibers in the Skeletal Nerves.
+
+Some of the postganglionic fibers pass back from the sympathetic chain into the spinal nerves through gray rami at all levels of the cord, as shown in Figure 61-2. These sympathetic
 
 fibers are all very small type C fibers, and they extend to all
 
-parts of the body via the skeletal nerves. They control the
-blood vessels, sweat glands, and piloerector muscles of the
-hairs. About 8% of the fibers in the average skeletal nerve
-are sympathetic fibers, indicating their great importance.
-The Autonomic Nervous System and the
-Adrenal Medulla
+parts of the body via the skeletal nerves. They control the blood vessels, sweat glands, and piloerector muscles of the hairs. About 8% of the fibers in the average skeletal nerve are sympathetic fibers, indicating their great importance.
+
+The Autonomic Nervous System and the Adrenal Medulla
 
 
 ### Segmental Distribution of the Sympathetic Nerve Fibers.
 
-The sympathetic pathways that originate in the different segments of the spinal cord are not necessarily distributed to
-the same part of the body as the somatic spinal nerve fibers from the same segments. Instead, the sympathetic fibers
+The sympathetic pathways that originate in the different segments of the spinal cord are not necessarily distributed to the same part of the body as the somatic spinal nerve fibers from the same segments. Instead, the sympathetic fibers
 
-from cord segment T1 generally pass as follows: (1) up the
-sympathetic chain to terminate in the head; (2) from T2 to
-terminate in the neck; (3) from T3, T4, T5, and T6 into the
-thorax; (4) from T7, T8, T9, T10, and T11 into the abdomen;
+from cord segment T1 generally pass as follows: (1) up the sympathetic chain to terminate in the head; (2) from T2 to terminate in the neck; (3) from T3, T4, T5, and T6 into the thorax; (4) from T7, T8, T9, T10, and T11 into the abdomen;
 
 and (5) from T12, L1, and L2 into the legs. This distribution
 
-is only approximate and overlaps greatly.
-The distribution of sympathetic nerves to each organ is
-determined partly by the locus in the embryo from which
-the organ originated. For example, the heart receives many
+is only approximate and overlaps greatly. The distribution of sympathetic nerves to each organ is determined partly by the locus in the embryo from which the organ originated. For example, the heart receives many
 
 sympathetic nerve fibers from the neck portion of the sympathetic chain because the heart originated in the neck of
 
-the embryo before translocating into the thorax. Likewise,
-the abdominal organs receive most of their sympathetic
-innervation from the lower thoracic spinal cord segments
-because most of the primitive gut originated in this area.
+the embryo before translocating into the thorax. Likewise, the abdominal organs receive most of their sympathetic innervation from the lower thoracic spinal cord segments because most of the primitive gut originated in this area.
 
-Special Sympathetic Nerve Endings in the Adrenal Medullae. Preganglionic sympathetic nerve fibers pass, without synapsing, all the way from the intermediolateral horn
-cells of the spinal cord, through the sympathetic chains,
-then through the splanchnic nerves, and finally into the two
-adrenal medullae. There they end directly on modified neuronal cells that secrete epinephrine and norepinephrine into
+Special Sympathetic Nerve Endings in the Adrenal Medullae. Preganglionic sympathetic nerve fibers pass, without synapsing, all the way from the intermediolateral horn cells of the spinal cord, through the sympathetic chains, then through the splanchnic nerves, and finally into the two adrenal medullae. There they end directly on modified neuronal cells that secrete epinephrine and norepinephrine into
 
-the blood stream. These secretory cells embryologically are
-derived from nervous tissue and are actually postganglionic
-neurons; indeed, they even have rudimentary nerve fibers,
+the blood stream. These secretory cells embryologically are derived from nervous tissue and are actually postganglionic neurons; indeed, they even have rudimentary nerve fibers,
 
 and it is the endings of these fibers that secrete the adrenal
 
-hormones epinephrine and norepinephrine.
-Physiological Anatomy of the Parasympathetic
-Nervous System
-The parasympathetic nervous system is shown in Figure
-61- 3, which demonstrates that parasympathetic fibers leave
-the central nervous system through cranial nerves III, VII,
+hormones epinephrine and norepinephrine. Physiological Anatomy of the Parasympathetic Nervous System The parasympathetic nervous system is shown in Figure 61-3, which demonstrates that parasympathetic fibers leave the central nervous system through cranial nerves III, VII,
 
-IX, and X; additional parasympathetic fibers leave the lowermost part of the spinal cord through the second and third
-sacral spinal nerves and occasionally the first and fourth
-sacral nerves. About 75% of all parasympathetic nerve fibers are in the vagus nerves (cranial nerve X), passing to the
+IX, and X; additional parasympathetic fibers leave the lowermost part of the spinal cord through the second and third sacral spinal nerves and occasionally the first and fourth sacral nerves. About 75% of all parasympathetic nerve fibers are in the vagus nerves (cranial nerve X), passing to the
 
-Bronchi
-Heart
-Eye
-Celiac
-ganglion
-Inferior
-mesenteric
-ganglion
-Superior
-mesenteric
-ganglion
-Aorticorenal
-ganglion
-Sweat
-gland
-C1
-T1
-T12
-L1
-L2
-S1
-Blood
-vessel
-Spinal
-cord
-from
-T1-L2
-Piloerector
-muscle
-Hypogastric
-plexus
-Preganglionic neuron
-Postganglionic neuron
-Liver 	Stomach
-Pancreas
-Intestine
-Ileocecal
-valve
-Adrenal
-medulla
-Kidney
-Ureter
-Anal
-sphincter
-Colon
-Detrusor
-Trigone
-Bladder	Genitalia
-Dorsal
-root
-Gray
-ramus
-White
-ramus
-Ventral
-root
-Chain
+Bronchi Heart Eye Celiac ganglion Inferior mesenteric ganglion Superior mesenteric ganglion Aorticorenal ganglion Sweat gland C1 T1 T12 L1 L2 S1 Blood vessel Spinal cord from T1-L2 Piloerector muscle Hypogastric plexus Preganglionic neuron Postganglionic neuron Liver Stomach Pancreas Intestine Ileocecal valve Adrenal medulla Kidney Ureter Anal sphincter Colon Detrusor Trigone Bladder Genitalia Dorsal root Gray ramus White ramus Ventral root Chain
 
 
-> **Figure 61- 1. Sympathetic nervous system. The black lines represent postganglionic fibers, and the red lines show preganglionic fibers. Spinal nerve White ramus Gray ramus Spinal nerve Preganglionic neuron Postganglionic neuron Sensory neuron Dorsal root	Intermediolateral horn Ventral root Splanchnic nerve Peripheral ganglion Gut Effector endings Sensory endings Sympathetic chain**
+> **Figure 61-1. Sympathetic nervous system. The black lines represent postganglionic fibers, and the red lines show preganglionic fibers. Spinal nerve White ramus Gray ramus Spinal nerve Preganglionic neuron Postganglionic neuron Sensory neuron Dorsal root	Intermediolateral horn Ventral root Splanchnic nerve Peripheral ganglion Gut Effector endings Sensory endings Sympathetic chain**
 
 
-> **Figure 61- 2. Nerve connections among the spinal cord, spinal nerves, sympathetic chain, and peripheral sympathetic nerves.**
+> **Figure 61-2. Nerve connections among the spinal cord, spinal nerves, sympathetic chain, and peripheral sympathetic nerves.**

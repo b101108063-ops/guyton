@@ -3,196 +3,275 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH82"
 title: "Female Physiology Before Pregnancy and Female Hormones"
 book: "Guyton & Hall"
+summary: "The female monthly sexual cycle involves coordinated hypothalamic GnRH pulses, anterior pituitary FSH/LH secretion, and ovarian estrogen/progesterone production, culminating in ovulation and preparation of the uterus for potential pregnancy. Oogenesis produces a single mature ovum per cycle from primordial follicles."
+key_points:
+  - "At birth, ~1-2 million primary oocytes are present; only ~300,000 remain at puberty, with 400-500 maturing and ovulating over the reproductive lifespan"
+  - "The menstrual cycle has follicular (Days 1-14, rising estrogen) and luteal phases (Days 15-28, progesterone dominance); ovulation occurs at ~Day 14 triggered by LH surge"
+  - "FSH stimulates follicular growth and estrogen secretion; LH triggers ovulation and transforms the ruptured follicle into the corpus luteum"
+  - "Estrogen promotes proliferation of the endometrial lining; progesterone transforms the endometrium into a secretory mucosa receptive to implantation"
+  - "GnRH is released in pulses (~every 90 min); estrogen exerts negative feedback on FSH/LH in early cycle and positive feedback (LH surge) mid-cycle"
 ---
 
-## THE OVUM
+## FEMALE SEXUAL ORGANS
 
-While still in the ovary, the ovum is in the primary oocyte
-stage. Shortly before it is released from the ovarian follicle, its nucleus divides by meiosis and a first polar body is
+The principal organs of the human female reproductive tract include:
 
-expelled from the nucleus of the oocyte (see Figure 82- 3).
-The primary oocyte then becomes the secondary oocyte.
-In this process, each of the 23 pairs of chromosomes loses
-one of its partners, which becomes incorporated in a
+- Ovaries
+- Fallopian tubes (uterine tubes)
+- Uterus
+- Vagina
 
-polar body that is expelled. This leaves 23 unpaired chromosomes in the secondary oocyte. It is at this time that
-the ovum, which is still in the secondary oocyte stage, is
-ovulated into the abdominal cavity. Then, almost immediately, it enters the fimbriated end of one of the fallopian
+Reproduction begins with the development of ova in the ovaries.
 
-tubes.
-Entry of the Ovum Into the Fallopian Tube (Uterine
-Tube). When ovulation occurs, the ovum, along with a
-hundred or more attached granulosa cells that constitute
-the corona radiata, is expelled directly into the peritoneal
-cavity and must then enter one of the fallopian tubes (also
-called uterine tubes) to reach the cavity of the uterus.
-The fimbriated ends of each fallopian tube fall naturally
-around the ovaries. The inner surfaces of the fimbriated
-tentacles are lined with ciliated epithelium, and the cilia
-are activated by estrogen from the ovaries, which causes
+In the middle of each monthly sexual cycle, a single ovum is expelled from an ovarian follicle into the abdominal cavity near the open fimbriated ends of the two fallopian tubes.
 
-the cilia to beat toward the opening, or ostium, of the involved fallopian tube. One can actually see a slow fluid
+This ovum then passes through one of the fallopian tubes into the uterus.
 
-current flowing toward the ostium. By this means, the
-ovum enters one of the fallopian tubes.
-Although one might suspect that many ova fail to
-enter the fallopian tubes, conception studies suggest
-that up to 98% of ova succeed in this task. Indeed, in
-some recorded cases, women with one ovary removed
+If it has been fertilized by a sperm, it implants in the uterus, where it develops into a fetus, a placenta, and fetal membranes—and eventually into a baby.
 
-and the opposite fallopian tube removed have had several children with relative ease of conception, thus demonstrating that ova can even enter the opposite fallopian
+## OOGENESIS AND FOLLICULAR DEVELOPMENT IN THE OVARIES
 
-tube.
-Fertilization of the Ovum. After the male ejaculates
-semen into the vagina during intercourse, a few sperm
-are transported within 5 to 10 minutes upward from the
-vagina and through the uterus and fallopian tubes to the
-ampullae of the fallopian tubes near the ovarian ends of
+A developing egg (oocyte) differentiates into a mature egg (ovum) through a series of steps called oogenesis.
 
-the tubes. This transport of the sperm is aided by contractions of the uterus and fallopian tubes stimulated by prostaglandins in the male seminal fluid and also by oxytocin
-released from the posterior pituitary gland of the female
-during her orgasm. Of the almost half a billion sperm deposited in the vagina, a few thousand succeed in reaching
+During early embryonic development, primordial germ cells from the dorsal endoderm of the yolk sac migrate along the mesentery of the hindgut to the outer surface of the ovary.
 
-each ampulla.
-Fertilization of the ovum (Figure 83- 1) normally takes
-place in the ampulla of one of the fallopian tubes soon
-after both the sperm and the ovum enter the ampulla.
-Before a sperm can enter the ovum, however, it must first
-penetrate the multiple layers of granulosa cells attached
-to the outside of the ovum (the corona radiata) and then
-bind to and penetrate the zona pellucida surrounding the
+The ovary is covered by a germinal epithelium, derived embryologically from the epithelium of the germinal ridges.
 
-ovum. The mechanisms used by the sperm for these purposes are presented in Chapter 81.
+During this migration, the germ cells divide repeatedly.
 
-Once a sperm has entered the ovum (which is still
-in the secondary oocyte stage of development), the
-oocyte divides again to form the mature ovum plus a
-second polar body that is expelled (see Figure 82-3).
-The mature ovum still carries in its nucleus (now called
-the female pronucleus) 23 chromosomes. One of these
-chromosomes is the female chromosome, known as the
-X chromosome.
-In the meantime, the fertilizing sperm has also
-changed. On entering the ovum, its head swells to form
-a male pronucleus, shown in Figure 83- 1D. Later, the
-23 unpaired chromosomes of the male pronucleus and
-the 23 unpaired chromosomes of the female pronucleus
-align themselves to re-form a complete complement of 46
-chromosomes (23 pairs) in the fertilized ovum or zygote
-(see Figure 83- 1E).
-Pregnancy and Lactation
-UNIT XIV 	Endocrinology and Reproduction
-1046
+Once these primordial germ cells reach the germinal epithelium, they migrate into the substance of the ovarian cortex and become oogonia or primordial ova.
 
-WHAT DETERMINES THE SEX OF THE
+### Formation of Primordial Follicles
 
-## FETUS THAT IS CREATED?
+Each primordial ovum collects around it a layer of spindle cells from the ovarian stroma (the supporting tissue of the ovary).
 
+These spindle cells take on epithelioid characteristics and are then called granulosa cells.
 
-Half of the mature sperm carry in their genome an X
-chromosome (the female chromosome) and half carry
-a Y chromosome (the male chromosome). Therefore, if
-an X chromosome from a sperm combines with an X
-chromosome from an ovum, giving an XX combination,
-a female child will be born, as explained in Chapter 81.
-If a Y chromosome from a sperm is paired with an X
-chromosome from an ovum, giving an XY combination,
-a male child will be born.
+The ovum surrounded by a single layer of granulosa cells is called a primordial follicle.
 
-TRANSPORT OF THE FERTILIZED OVUM IN
+At this stage, the ovum is still immature and is called a primary oocyte.
 
-## THE FALLOPIAN TUBE
+It requires two more cell divisions before it can be fertilized by a sperm.
 
-After fertilization has occurred, an additional 3 to 5 days
-is normally required for transport of the fertilized ovum
-through the remainder of the fallopian tube into the cavity of the uterus (Figure 83- 2). This transport is effected
-mainly by a feeble fluid current in the tube resulting from
-epithelial secretion plus action of the ciliated epithelium
-that lines the tube; the cilia always beat toward the uterus.
+### Oogenesis Timeline
 
-### Weak contractions of the fallopian tube may also aid passage of the ovum.
+| Stage | Timing |
+|-------|--------|
+| Primordial germ cell migration | Embryonic development |
+| Mitotic replication of oogonia | In utero (by 5th month) |
+| First meiotic division begins | In utero (5th month) |
+| Meiosis arrested at prophase I | Until puberty |
+| First meiotic division completed | After puberty |
+| Second meiotic division | Upon fertilization |
 
+At birth, the ovary contains about 1 to 2 million primary oocytes.
 
-The fallopian tubes are lined with a rugged cryptoid
-surface that impedes passage of the ovum despite the fluid
-current. Also, the isthmus of the fallopian tube (the last
-2 centimeters before the tube enters the uterus) remains
+### Oocyte Numbers Throughout Life
 
-spastically contracted for about the first 3 days after ovulation. After this time, the rapidly increasing progesterone secreted by the ovarian corpus luteum first promotes
+| Life Stage | Number of Oocytes |
+|------------|-------------------|
+| At birth | 1-2 million |
+| At puberty | ~300,000 |
+| Over reproductive life (13-46 years) | 400-500 ovulated |
+| At menopause | Few remaining |
 
-increasing progesterone receptors on the fallopian tube
-smooth muscle cells; then the progesterone activates the
-receptors, relaxing the tubules and allowing entry of the
-ovum into the uterus.
-This delayed transport of the fertilized ovum through
-the fallopian tube allows several stages of cell division to
-occur before the dividing ovum—now called a blastocyst,
-with about 100 cells—enters the uterus. During this time,
+The many thousands of oocytes that do not mature degenerate (become atretic).
 
-the fallopian tube secretory cells produce large quantities of secretions used for nutrition of the developing
-blastocyst.
-IMPLANTATION OF THE BLASTOCYST IN
+At the end of reproductive capability (menopause), only a few primordial follicles remain in the ovaries.
 
-## THE UTERUS
+Even these follicles degenerate soon thereafter.
 
-After reaching the uterus, the developing blastocyst usually remains in the uterine cavity an additional 1 to 3 days
+### Meiosis Process in Oogenesis
 
-before it implants in the endometrium; thus, implantation
-ordinarily occurs on about the fifth to seventh day after
-ovulation. Before implantation, the blastocyst obtains its
-nutrition from the uterine endometrial secretions, called
-“uterine milk.”
-Implantation results from the action of trophoblast
-cells that develop over the surface of the blastocyst. These
-cells secrete proteolytic enzymes that digest and liquefy
-the adjacent cells of the uterine endometrium. Some of
-the fluid and nutrients released are actively transported
-by the same trophoblast cells into the blastocyst, adding
-more sustenance for growth. Figure 83- 3 shows an early
-implanted human blastocyst with a small embryo. Once
-implantation has taken place, the trophoblast cells and
-other adjacent cells (from the blastocyst and the uterine
-A 	B
-Corona
-radiata
-Sperm
-Female
-pronucleus 	Centrosome
-Sperm
-Male
-pronucleus
-Dispersed corona radiata
+The first stage of meiosis starts during fetal development but is arrested in the late stage of prophase I until puberty.
 
+Puberty usually occurs between ages 10 and 14 in females.
 
-> **Figure 83- 1. Fertilization of the ovum. A, The mature ovum surrounded by the corona radiata. B, Dispersal of the corona radiata. C, Entry of the sperm. D, Formation of the male and female pronuclei.**
+The first meiotic division of the oocyte is completed after puberty.
 
-E, Reorganization of a full complement of chromosomes and beginning division of the ovum. (Modified from Arey LB: Developmental
-Anatomy: A Textbook and Laboratory Manual of Embryology, 7th ed.
+Each oocyte divides into two cells:
 
-Philadelphia: WB Saunders, 1974.)
-A
-B
-Fertilization
-(day 1)
-Cell division
-Fallopian
-tube
-Ovary	Ovum
-Ovulation
-Zygote
-Blastocyst
-Blastocyst
-reaches
-uterus
-(days 4-5)
-Blastocyst
-implants
-(days 5-7)
-Uterus	Amniotic
-cavity
-Trophoblastic
-cells invading
-endometrium
+- A large ovum (secondary oocyte)
+- A small first polar body
 
+Each of these cells contains 23 duplicated chromosomes.
 
-> **Figure 83- 2. A, Ovulation, fertilization of the ovum in the fallopian tube, and implantation of the blastocyst in the uterus. B, The action of trophoblast cells in implantation of the blastocyst in the uterine endometrium.**
+The first polar body may or may not undergo a second meiotic division and then disintegrates.
+
+The ovum undergoes a second meiotic division.
+
+After the sister chromatids separate, there is a pause in meiosis.
+
+If the ovum is fertilized, the final step in meiosis occurs.
+
+The sister chromatids in the ovum go to separate cells.
+
+### Outcome of Fertilization
+
+When the ovary releases the ovum (ovulation), and if the ovum is fertilized, the final meiosis occurs.
+
+Half of the sister chromatids remain in the fertilized ovum.
+
+The other half are released in a second polar body, which then disintegrates.
+
+## FEMALE HORMONAL SYSTEM
+
+The female hormonal system consists of three hierarchies of hormones:
+
+### Hormonal Hierarchy
+
+| Level | Hormone | Source |
+|-------|---------|--------|
+| 1 | Gonadotropin-releasing hormone (GnRH) | Hypothalamus |
+| 2 | Follicle-stimulating hormone (FSH) and Luteinizing hormone (LH) | Anterior pituitary |
+| 3 | Estrogen and Progesterone | Ovaries |
+
+These various hormones are secreted at drastically differing rates during different parts of the female monthly sexual cycle.
+
+### GnRH Secretion Pattern
+
+The amount of GnRH released from the hypothalamus increases and decreases much less drastically during the monthly sexual cycle.
+
+It is secreted in short pulses averaging once every 90 minutes.
+
+This occurs in both females and males.
+
+## MONTHLY OVARIAN CYCLE AND FUNCTION OF GONADOTROPIC HORMONES
+
+The normal reproductive years of the female are characterized by monthly rhythmic changes in the rates of secretion of the female hormones.
+
+There are corresponding physical changes in the ovaries and other sexual organs.
+
+This rhythmic pattern is called the female monthly sexual cycle (or menstrual cycle).
+
+The duration of the cycle averages 28 days.
+
+It may be as short as 20 days or as long as 45 days in some women.
+
+Abnormal cycle length is frequently associated with decreased fertility.
+
+### Two Significant Results of the Female Sexual Cycle
+
+1. Only a single ovum is normally released from the ovaries each month, so normally only a single fetus will begin to grow at a time.
+2. The uterine endometrium is prepared in advance for implantation of the fertilized ovum at the required time of the month.
+
+## GONADOTROPIC HORMONES AND THEIR EFFECTS ON THE OVARIES
+
+The ovarian changes that occur during the sexual cycle depend completely on the gonadotropic hormones FSH and LH.
+
+These are secreted by the anterior pituitary gland.
+
+Both FSH and LH are small glycoproteins with molecular weights of about 30,000.
+
+### Effect of Gonadotropin Deficiency
+
+In the absence of these hormones, the ovaries remain inactive.
+
+This is the case throughout childhood, when almost no pituitary gonadotropic hormones are secreted.
+
+### Onset of Puberty
+
+At age 9 to 12 years, the pituitary begins to secrete progressively more FSH and LH.
+
+This leads to the onset of normal monthly sexual cycles beginning between the ages of 11 and 15 years.
+
+This period of change is called puberty.
+
+The time of the first menstrual cycle is called menarche.
+
+### Cyclical Variation in Gonadotropins
+
+During each month of the female sexual cycle, there is a cyclical increase and decrease of FSH and LH.
+
+These cyclical variations are essential for driving the ovarian cycle.
+
+## HORMONE CONCENTRATIONS DURING THE MENSTRUAL CYCLE
+
+| Phase | Days | FSH | LH | Estrogen | Progesterone |
+|-------|------|-----|-----|----------|--------------|
+| Menstrual | 1-5 | ↑ | Normal | Low | Low |
+| Follicular | 5-13 | ↓ then ↑ | Low | Rising | Low |
+| Ovulatory | 13-15 | Peak | LH surge | Peak | Rising |
+| Luteal | 15-28 | ↓ | ↓ | Lower | High |
+
+## ESTROGEN AND PROGESTERONE FROM THE OVARIES
+
+The ovarian hormones are secreted by the ovaries in response to the two female sex hormones from the anterior pituitary gland.
+
+### Estrogen
+
+Produced primarily by developing ovarian follicles.
+
+Effects include:
+
+- Proliferation of the endometrial lining
+- Development of female secondary sexual characteristics
+- Feedback effects on FSH and LH secretion
+
+### Progesterone
+
+Produced primarily by the corpus luteum after ovulation.
+
+Effects include:
+
+- Transformation of the endometrium into a secretory mucosa
+- Preparation of the uterus for implantation
+- Feedback effects on FSH and LH secretion
+
+## FEMALE REPRODUCTIVE ORGANS ANATOMY
+
+### Ovary
+
+| Structure | Function |
+|-----------|----------|
+| Ovarian stroma | Supporting tissue |
+| Ovarian follicles | Contain oocytes |
+| Corpus luteum | Produces progesterone |
+| Granulosa cells | Support oocyte development |
+
+### Uterine Tube (Fallopian Tube)
+
+| Region | Function |
+|--------|----------|
+| Fimbriae | Capture ovulated ovum |
+| Ampulla | Site of fertilization |
+| Isthmus | Connects to uterus |
+| Mucosal folds | Aid transport |
+
+### Uterus
+
+| Layer | Function |
+|-------|----------|
+| Endometrium | Site of implantation |
+| Myometrium | Muscle layer for contractions |
+| Perimetrium | Outer covering |
+
+## OVULATION
+
+Ovulation occurs when the mature ovarian follicle ruptures and releases the secondary oocyte.
+
+The ovum, along with a hundred or more attached granulosa cells that constitute the corona radiata, is expelled directly into the peritoneal cavity.
+
+The ovum must then enter one of the fallopian tubes to reach the cavity of the uterus.
+
+### Ciliary Transport of Ovum
+
+The fimbriated ends of each fallopian tube fall naturally around the ovaries.
+
+The inner surfaces of the fimbriated tentacles are lined with ciliated epithelium.
+
+The cilia are activated by estrogen from the ovaries.
+
+This causes the cilia to beat toward the opening (ostium) of the involved fallopian tube.
+
+One can actually see a slow fluid current flowing toward the ostium.
+
+By this means, the ovum enters one of the fallopian tubes.
+
+### Success Rate of Ovum Entry
+
+Although one might suspect that many ova fail to enter the fallopian tubes, conception studies suggest up to 98% of ova succeed in this task.
+
+In some recorded cases, women with one ovary removed and the opposite fallopian tube removed have had several children with relative ease of conception.
+
+This demonstrates that ova can even enter the opposite fallopian tube.

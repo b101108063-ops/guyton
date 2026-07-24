@@ -3,247 +3,283 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH70"
 title: "Protein Metabolism"
 book: "Guyton & Hall"
+summary: "Dietary proteins are digested to amino acids and absorbed; amino acid concentration in blood is tightly regulated at 35-65 mg/dL. The liver is the primary site of amino acid metabolism, where transamination and oxidative deamination remove nitrogen for urea synthesis. Deaminated amino acids enter the citric acid cycle for energy or are used for gluconeogenesis and ketogenesis. Protein turnover is continuous, with 20-30 g/day obligatory degradation requiring dietary protein replacement."
+key_points:
+  - "Blood amino acid concentration is 35-65 mg/dL; excess amino acids are rapidly cleared by the liver within 5-10 minutes of absorption, preventing accumulation"
+  - "The 10 essential amino acids (threonine, valine, tryptophan, isoleucine, leucine, phenylalanine, methionine, lysine, histidine, arginine) cannot be synthesized in sufficient quantities and must be obtained from diet"
+  - "Transamination transfers amino groups to α-ketoglutarate, forming glutamate; oxidative deamination releases ammonia for urea synthesis in the urea cycle"
+  - "The urea cycle (2 NH₃ + CO₂ → H₂N-CO-NH₂ + 2 H₂O) occurs almost entirely in the liver; hepatic failure leads to ammonia accumulation and hepatic coma"
+  - "Gluconeogenesis converts deaminated amino acids (especially alanine and glutamine) to glucose; ketogenesis converts amino acid carbons to ketone bodies"
+  - "Obligatory protein loss is 20-30 g/day; minimum dietary protein requirement is 30-50 g/day (recommended 60-75 g/day) to maintain nitrogen balance"
+  - "Growth hormone and insulin promote protein synthesis; glucocorticoids promote protein breakdown and gluconeogenesis; testosterone increases muscle protein deposition"
 ---
 
-## Content
+## Peptide Linkages and Protein Chemistry
 
-α- ketoglutaric acid, so the cycle can be repeated again and
-again. To initiate this process, the excess amino acids in the
-cells, especially in the liver, induce activation of large quantities of aminotransferases, the enzymes responsible for initiating most deamination.
-Urea Formation by the Liver. The ammonia released
-during deamination of amino acids is removed from the
-blood almost entirely by conversion into urea. Two molecules of ammonia (NH3) and one molecule of carbon dioxide (CO2) combine in the following net reaction:
-2NH3 	2 	2 	2 	2	CO 	H N 	C 	NH 	H O
+### Formation of Peptide Linkages
 
-O
-+ 	→ 	−− −− 	+
-||
+In the formation of a peptide linkage:
 
-Essentially all urea formed in the human body is synthesized in the liver. In the absence of the liver or in persons with
+- The nitrogen of the amino radical of one amino acid bonds with the carbon of the carboxyl radical of the other amino acid
+- A hydrogen ion is released from the amino radical
+- A hydroxyl ion is released from the carboxyl radical
+- These two ions combine to form a molecule of water
 
-serious liver disease, ammonia accumulates in the blood.
-This accumulation of ammonia is extremely toxic, especially
-to the brain, and can lead to a state called hepatic coma.
-The stages in the formation of urea are essentially the
-following:
-Ornithine + CO2 + NH3
-Citrulline
-Arginine
-(Arginase)
-+H2O
-−H2O
-−H2 O
-NH3
-Urea
-After its formation, the urea diffuses from the liver cells
-into the body fluids and is excreted by the kidneys.
-Oxidation of Deaminated Amino Acids. Once amino
-acids have been deaminated, the resulting keto acids can,
-in most cases, be oxidized to release energy for metabolic
-purposes. This oxidation usually involves two successive
-processes:
+After the peptide linkage has been formed:
 
-1. The keto acid is changed into an appropriate chemical substance that can enter the citric acid cycle.
-2. This substance is degraded by the cycle and used for
-energy in the same manner that acetyl coenzyme A
-(acetyl-CoA) derived from carbohydrate and lipid metabolism is used, as explained in Chapters 68 and 69.
-In general, the amount of adenosine triphosphate
-formed for each gram of protein that is oxidized is slightly
-less than that formed for each gram of glucose that is oxidized.
-Gluconeogenesis and Ketogenesis. Certain deaminated amino acids are similar to the substrates normally used
-by the cells, mainly the liver cells, to synthesize glucose
-or fatty acids. For example, deaminated alanine is pyruvic
-acid, which can be converted into either glucose or glycogen. Alternatively, it can be converted into acetyl-CoA,
+- An amino radical remains at one end
+- A carboxyl radical remains at the opposite end
+- Each radical can combine with additional amino acids to form a peptide chain
 
-which can then be polymerized into fatty acids. Also, two
-molecules of acetyl-CoA can condense to form acetoacetic
-acid, which is one of the ketone bodies, as explained in
-Chapter 69.
-The conversion of amino acids into glucose or glycogen
-is called gluconeogenesis, and the conversion of amino acids
+Some complicated protein molecules have many thousands of amino acids combined by peptide linkages.
 
-into keto acids or fatty acids is called ketogenesis. Of the
+Even the smallest protein molecule usually has more than **20 amino acids** combined by peptide linkages.
 
-deaminated amino acids, 18 have chemical structures that
-allow them to be converted into glucose, and 19 of them
-can be converted into fatty acids.
-Obligatory Degradation of Proteins
-When a person eats no proteins, a certain proportion of body
-proteins is degraded into amino acids and then deaminated
+The average is about **400 amino acids**.
 
-and oxidized. This process involves 20 to 30 grams of protein
-each day, which is called the obligatory loss of proteins. Therefore, to prevent net loss of protein from the body, the average
+### Other Linkages in Protein Molecules
 
-person must ingest a minimum of 20 to 30 grams of protein
-each day, although this amount depends on multiple factors,
-including muscle mass, activity, and age; to be on the safe
-side, a minimum of 60 to 75 grams is usually recommended.
-The ratios of the different amino acids in the dietary
-protein must be about the same as the ratios in the body
+Some protein molecules are composed of several peptide chains rather than a single chain.
 
-tissues if the entire dietary protein is to be fully usable to
-form new tissue proteins. If one particular type of essential amino acid is low in concentration, the others become
-unusable because cells synthesize either whole proteins or
-none at all, as explained in Chapter 3 in relation to protein
-synthesis. The unusable amino acids are deaminated and
-oxidized. A protein that has a ratio of amino acids different from that of the average body protein is called a partial
+These chains are bound to one another by other linkages, often by **hydrogen bonding** between the CO and NH radicals of the peptides.
 
-protein or an incomplete protein, and such a protein is less
-valuable for nutrition than is a complete protein.
-Effect of Starvation on Protein Degradation. Except for
-the 20 to 30 grams of obligatory protein degradation each
-day, the body uses almost entirely carbohydrates or fats for
+Many peptide chains are coiled or folded.
 
-energy, as long as they are available. However, after several
-weeks of starvation, when the quantities of stored carbohydrates and fats begin to run out, the amino acids of the
-blood are rapidly deaminated and oxidized for energy. From
-this point on, the proteins of the tissues degrade rapidly—as
-much as 125 grams daily—and, as a result, cellular functions
-deteriorate precipitously. Because carbohydrate and fat utilization for energy normally occurs in preference to protein
-utilization, carbohydrates and fats are called protein sparers.
+The successive coils or folds are held in a tight spiral or other shapes by similar hydrogen bonding and other forces.
 
-Hormonal Regulation of Protein Metabolism
-Growth Hormone Increases the Synthesis of Cellular
-Proteins. Growth hormone causes the tissue proteins to
-increase. The precise mechanism by which this increase
-occurs is not fully understood, but it is believed to result
-mainly from increased transport of amino acids through
-the cell membranes, acceleration of the DNA and RNA
+---
 
-transcription and translation processes for protein synthesis, and decreased oxidation of tissue proteins.
-Insulin Is Necessary for Protein Synthesis. Total lack of
-insulin reduces protein synthesis to almost zero. Insulin accelerates transport of some amino acids into cells, which
-could be the stimulus for protein synthesis. Also, insulin reduces protein degradation and increases the availability of
+## Transport and Storage of Amino Acids
 
-glucose to the cells, so the need for amino acids for energy
-is correspondingly reduced.
-Glucocorticoids Increase Breakdown of Most Tissue
+### Blood Amino Acids
 
-Proteins. Glucocorticoids secreted by the adrenal cortex decrease the quantity of protein in most tissues while
-increasing amino acid concentration in the plasma, as well
-as increasing liver proteins and plasma proteins. Glucocorticoids increase the rate of breakdown of extrahepatic
+The normal concentration of amino acids in the blood is between **35 and 65 mg/dL**.
 
-proteins, thereby making increased quantities of amino
-acids available in the body fluids. This allows the liver to
-synthesize increased quantities of hepatic cellular proteins
-and plasma proteins.
+This averages about **2 mg/dL** for each of the 20 amino acids, although some are present in far greater amounts.
 
-Testosterone Increases Protein Deposition in Tissues. Testosterone, the male sex hormone, causes increased deposition of protein in tissues throughout the
+Because the amino acids are relatively strong acids, they exist in the blood principally in the **ionized state**.
 
-body, especially the contractile proteins of the muscles
-(a 30%−50% increase). The mechanism of this effect is
-unknown, but it is definitely different from the effect of
-growth hormone, in the following way: Growth hormone
-causes tissues to continue growing almost indefinitely,
-whereas testosterone causes the muscles and, to a much
-lesser extent, some other protein tissues to enlarge for
+This results from the removal of one hydrogen atom from the NH₂ radical.
 
-only several months. Once the muscles and other protein tissues have reached a maximum, despite continued
-administration of testosterone, further protein deposition ceases.
+They account for **2 to 3 milliequivalents** of the negative ions in the blood.
 
-Estrogen. Estrogen, the principal female sex hormone,
-also causes some deposition of protein, but the effect of
-estrogen is much less compared with that of testosterone.
+The precise distribution of the different amino acids depends partly on the types of proteins eaten.
 
-Thyroxine Increases Metabolism of Cells. Thyroxine indirectly affects protein metabolism by increasing metabolism of the cells. If insufficient carbohydrates and fats are
-available for energy, thyroxine causes rapid degradation of
-proteins and uses them for energy. Conversely, if adequate
-quantities of carbohydrates and fats are available and excess
-amino acids are also available in the extracellular fluid, thyroxine can actually increase the rate of protein synthesis. In
-growing animals or human beings, deficiency of thyroxine
-causes growth to be greatly inhibited because of lack of protein synthesis. In essence, it is believed that thyroxine has
+The concentrations of some individual amino acids are regulated by selective synthesis in different cells.
 
-little specific effect on protein metabolism but does have
-an important general effect by increasing the rates of both
-normal anabolic and normal catabolic protein reactions.
-Bibliography
+### Fate of Amino Acids Absorbed From the Gastrointestinal Tract
 
-Bröer S, Fairweather SJ: Amino acid transport across the mammalian
-intestine. Compr Physiol 9:343, 2018.
-Bröer S, Bröer A: Amino acid homeostasis and signalling in mammalian cells and organisms. Biochem J 474:1935, 2017.
-Finn PF, Dice JF: Proteolytic and lipolytic responses to starvation. Nutrition 22:830, 2006.
-Hawley JA, Burke LM, Phillips SM, Spriet LL: Nutritional modulation
-of training-induced skeletal muscle adaptations. J Appl Physiol
-110:834, 2011.
-Kandasamy P, Gyimesi G, Kanai Y, Hediger MA: Amino acid transporters revisited: new views in health and disease. Trends Biochem
-Sci 43:752, 2018.
-Kaur J, Debnath J: Autophagy at the crossroads of catabolism and
-anabolism. Nat Rev Mol Cell Biol 16:461, 2015.
-Mann GE, Yudilevich DL, Sobrevia L: Regulation of amino acid and
-glucose transporters in endothelial and smooth muscle cells. Physiol Rev 83:183, 2003.
-Pencharz PB, Elango R, Wolfe RR: Recent developments in understanding protein needs - how much and what kind should we eat?
-Appl Physiol Nutr Metab 41:577, 2016.
-Rossetti ML, Steiner JL, Gordon BS: Androgen-mediated regulation
-of skeletal muscle protein balance. Mol Cell Endocrinol 447:35,
-2017.
-Tavernarakis N: Ageing and the regulation of protein synthesis: a balancing act? Trends Cell Biol 18:228, 2008.
-Vandenberg RJ, Ryan RM: Mechanisms of glutamate transport. Physiol Rev 93:1621, 2013.
-Wolfe RR: The 2017 Sir David P Cuthbertson lecture. Amino acids
-and muscle protein metabolism in critical care. Clin Nutr 37:1093,
-2018.
-Wolfe RR, Cifelli AM, Kostas G, Kim IY: Optimizing protein intake in
-adults: Interpretation and application of the recommended dietary
-allowance compared with the acceptable macronutrient distribution range. Adv Nutr 8:266, 2017.
+The products of protein digestion and absorption are almost entirely **amino acids**.
 
-U N I T
-X I I I
-The Liver
+Only rarely are polypeptides or whole protein molecules absorbed directly into the blood.
 
-C H A P T E R 	7 1
+Soon after a meal, the amino acid concentration in blood rises, but the increase is usually only a few milligrams per deciliter.
 
-Although the liver is a discrete organ, it performs many
-different interrelating functions. The critical interrelated
-functions of the liver become especially evident when
-abnormalities of the liver occur. This chapter summarizes
+This is because:
 
-some of the major functions of the liver, including the following: (1) filtration and storage of blood; (2) metabolism
+1. **Protein digestion and absorption are extended over 2 to 3 hours**, allowing only small quantities of amino acids to be absorbed at a time.
 
-of carbohydrates, proteins, fats, hormones, and foreign
-chemicals; (3) formation of bile; (4) storage of vitamins
-and iron; and (5) formation of coagulation factors.
-Physiologic Anatomy of the Liver
+2. **After entering the blood, amino acids are absorbed within 5 to 10 minutes** by cells throughout the body, especially by the liver.
 
-The liver is the largest organ in the body, contributing about
-2% of the total body weight, or about 1.5 kilograms (3.3
-pounds) in the average adult human. The basic functional
-unit of the liver is the liver lobule, which is a cylindric structure several millimeters in length and 0.8 to 2 millimeters
+Large concentrations of amino acids almost never accumulate in the blood and tissue fluids.
 
-in diameter. The human liver contains 50,000 to 100,000
-individual lobules.
-The liver lobule, shown in cut-away format in Figure
+Nevertheless, the turnover rate is so rapid that **many grams of proteins** can be carried from one part of the body to another each hour.
 
-71- 1, is constructed around a central vein that empties into
-the hepatic veins and then into the vena cava. The lobule is
-composed principally of many liver cellular plates (two of
-which are shown in Figure 71- 1) that radiate from the central vein like spokes in a wheel. Each hepatic plate is usually two cells thick, and between the adjacent cells lie small
-bile canaliculi that empty into bile ducts in the fibrous septa
-separating the adjacent liver lobules.
-In the septa are small portal venules that receive their
-blood mainly from the venous outflow of the gastrointestinal tract via the portal vein. From these venules blood flows
-into flat, branching hepatic sinusoids that lie between the
-hepatic plates and then into the central vein. Thus, the hepatic cells are exposed continuously to portal venous blood.
+### Active Transport of Amino Acids Into the Cells
 
-Hepatic arterioles are also present in the interlobular
-septa. These arterioles supply arterial blood to the septal
-tissues between the adjacent lobules, and many of the small
-arterioles also empty directly into the hepatic sinusoids,
-most frequently emptying into those located about one
-third the distance from the interlobular septa, as shown in
-Figure 71- 1.
-In addition to the hepatic cells, the venous sinusoids are
-lined by two other cell types: (1) typical endothelial cells
-and (2) large Kupffer cells (also called reticuloendothelial
+Amino acid molecules are too large to diffuse readily through the pores of cell membranes.
 
-cells), which are resident macrophages that line the sinusoids and are capable of phagocytizing bacteria and other
-foreign matter in the hepatic sinus blood.
-The endothelial lining of the sinusoids has extremely
-large pores, some of which are almost 1 micrometer in diameter. Beneath this lining, lying between the endothelial
-cells and the hepatic cells, are narrow tissue spaces called
-the spaces of Disse, also known as the perisinusoidal spaces.
-The millions of spaces of Disse connect with lymphatic
-vessels in the interlobular septa. Therefore, excess fluid in
-these spaces is removed through the lymphatics. Because
-of the large pores in the endothelium, substances in the
-plasma move freely into the spaces of Disse. Even large portions of the plasma proteins diffuse freely into these spaces.
-Hepatic Vascular and Lymph Systems
-The function of the hepatic vascular system is discussed in
+Significant quantities of amino acids can move into cells only via **active transport mechanisms**.
+
+---
+
+## Urea Formation
+
+### Deamination and the Urea Cycle
+
+Excess amino acids in cells — especially in the liver — induce activation of large quantities of **aminotransferases**.
+
+These enzymes initiate most deamination.
+
+The amino groups are transferred to α-ketoglutarate, forming glutamate.
+
+The glutamate can then undergo oxidative deamination, releasing ammonia.
+
+This allows the cycle to be repeated.
+
+### The Urea Reaction
+
+The ammonia released during deamination is removed from the blood almost entirely by conversion into **urea**.
+
+Two molecules of ammonia (NH₃) and one molecule of carbon dioxide (CO₂) combine:
+
+```
+2 NH₃ + CO₂ → H₂N-CO-NH₂ + 2 H₂O
+```
+
+Essentially all urea formed in the human body is **synthesized in the liver**.
+
+### Consequences of Liver Failure
+
+In the absence of the liver or in persons with serious liver disease, **ammonia accumulates in the blood**.
+
+This accumulation is extremely toxic, especially to the brain.
+
+It can lead to a state called **hepatic coma**.
+
+### Stages of Urea Formation
+
+```
+Ornithine + CO₂ + NH₃
+       ↓ (+H₂O)
+    Citrulline
+       ↓ (+NH₃, −H₂O)
+    Arginine
+       ↓ (Arginase, +H₂O)
+    Urea + Ornithine
+```
+
+After formation, urea diffuses from liver cells into body fluids and is **excreted by the kidneys**.
+
+---
+
+## Oxidation of Deaminated Amino Acids
+
+Once amino acids have been deaminated, the resulting **keto acids** can be oxidized to release energy.
+
+This usually involves:
+
+1. Converting the keto acid into a substance that can enter the citric acid cycle
+2. Degrading the substance by the cycle, releasing energy similarly to acetyl-CoA from carbohydrate and lipid metabolism
+
+The amount of ATP formed per gram of protein oxidized is **slightly less** than that formed per gram of glucose oxidized.
+
+---
+
+## Gluconeogenesis and Ketogenesis
+
+Certain deaminated amino acids can be used by liver cells to synthesize glucose or fatty acids.
+
+**Example — Alanine:**
+- Deaminated alanine becomes pyruvic acid
+- Pyruvic acid can be converted into glucose, glycogen, or acetyl-CoA
+- Acetyl-CoA can be polymerized into fatty acids
+
+Two molecules of acetyl-CoA can condense to form **acetoacetic acid** — one of the ketone bodies.
+
+### Definitions
+
+| Process | Description |
+|---------|-------------|
+| Gluconeogenesis | Conversion of amino acids into glucose or glycogen |
+| Ketogenesis | Conversion of amino acids into keto acids or fatty acids |
+
+### Amino Acid Conversion Capacity
+
+| Outcome | Number of amino acids |
+|---------|----------------------|
+| Can be converted into glucose | 18 |
+| Can be converted into fatty acids | 19 |
+
+---
+
+## Obligatory Degradation of Proteins
+
+When a person eats no proteins, a certain proportion of body proteins is degraded into amino acids and then deaminated and oxidized.
+
+This involves **20 to 30 grams of protein each day**.
+
+This is called the **obligatory loss of proteins**.
+
+To prevent net protein loss, a minimum of 20 to 30 grams of protein must be ingested each day.
+
+However, a **minimum of 60 to 75 grams** is usually recommended for safety.
+
+### Protein Quality
+
+The ratios of different amino acids in dietary protein must match those in body tissues.
+
+This is necessary for dietary protein to be fully usable for new tissue proteins.
+
+If one essential amino acid is low, the others become unusable.
+
+Cells synthesize either whole proteins or none at all.
+
+The unusable amino acids are deaminated and oxidized.
+
+**Complete protein** — has proper amino acid ratios (e.g., eggs, meat)
+
+**Partial/incomplete protein** — has different ratios, less valuable for nutrition
+
+### Starvation and Protein Degradation
+
+Except for the 20 to 30 grams of obligatory degradation, the body uses carbohydrates and fats for energy when available.
+
+After several weeks of starvation, when carbohydrates and fats are depleted, amino acids are rapidly deaminated and oxidized for energy.
+
+Proteins then degrade rapidly — as much as **125 grams daily**.
+
+Cellular functions deteriorate precipitously.
+
+Because carbohydrate and fat are used in preference to protein for energy, they are called **protein sparers**.
+
+---
+
+## Hormonal Regulation of Protein Metabolism
+
+### Growth Hormone
+
+Growth hormone causes tissue proteins to increase.
+
+Proposed mechanisms:
+
+- Increased amino acid transport through cell membranes
+- Accelerated DNA and RNA transcription and translation
+- Decreased oxidation of tissue proteins
+
+### Insulin
+
+Total lack of insulin reduces protein synthesis to almost zero.
+
+**Insulin** effects:
+
+- Accelerates amino acid transport into cells
+- Reduces protein degradation
+- Increases glucose availability, reducing amino acid use for energy
+
+### Glucocorticoids
+
+**Glucocorticoids** from the adrenal cortex:
+
+- Decrease protein quantity in most tissues
+- Increase plasma amino acid concentration
+- Increase liver proteins and plasma proteins
+- Increase breakdown of extrahepatic proteins
+
+This makes amino acids available for the liver to synthesize hepatic cellular proteins and plasma proteins.
+
+### Testosterone
+
+**Testosterone** causes increased protein deposition, especially in muscles — a **30%–50% increase**.
+
+Unlike growth hormone (which causes indefinite growth), testosterone causes enlargement for only several months.
+
+Once maximum muscle size is reached, further deposition ceases despite continued testosterone administration.
+
+### Estrogen
+
+**Estrogen** causes some protein deposition.
+
+The effect is much less than that of testosterone.
+
+### Thyroxine
+
+**Thyroxine** increases cell metabolism.
+
+If carbohydrates and fats are insufficient for energy, thyroxine causes rapid protein degradation.
+
+If adequate energy sources and excess amino acids are available, thyroxine can increase protein synthesis.
+
+Deficiency of thyroxine greatly inhibits growth due to lack of protein synthesis.
+
+Thyroxine has little specific effect on protein metabolism but has an important general effect by increasing rates of both anabolic and catabolic protein reactions.

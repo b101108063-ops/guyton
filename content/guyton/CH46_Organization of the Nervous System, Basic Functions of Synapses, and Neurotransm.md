@@ -3,188 +3,152 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH46"
 title: "Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters"
 book: "Guyton & Hall"
+summary: "The nervous system is organized into sensory, integrative, and motor divisions that process information from receptors to effectors. Synapses are the functional junctions between neurons where signal transmission is modulated by excitatory or inhibitory neurotransmitters and affected by synaptic fatigue and receptor regulation. The brain processes only salient sensory information, filtering out 99% of incoming data as irrelevant through selective synaptic transmission."
+key_points:
+  - "The CNS contains ~80-100 billion neurons; signals enter through synapses on dendrites and cell bodies (few hundred to 200,000 per neuron) and exit via a single axon, normally propagating only in the forward direction."
+  - "The nervous system has three main divisions: sensory (receptors to CNS), integrative (processing and storage), and motor (CNS to effectors); the somatic motor axis runs through spinal cord, brainstem, basal ganglia, cerebellum, and motor cortex."
+  - "Synapses determine signal direction, intensity, and pathways; excitatory neurotransmitters (glutamate, acetylcholine) depolarize postsynaptic neurons, while inhibitory neurotransmitters (GABA, glycine) hyperpolarize them."
+  - "Synaptic fatigue (decreasing transmission with prolonged activity) and inhibitory circuits prevent excessive signal spread and mass reverberation (as seen in epileptic seizures); long-term synaptic sensitivity is regulated by receptor upregulation or downregulation."
+  - "More than 99% of sensory information is filtered as irrelevant; only salient inputs that excite the brain are channeled into appropriate motor or integrative responses through selective synaptic transmission."
 ---
 
-## THE STIMULI THEY DETECT
+## CENTRAL NERVOUS SYSTEM NEURON — THE BASIC FUNCTIONAL UNIT
 
-Table 47- 1 lists and classifies five basic types of sensory
-receptors: (1) mechanoreceptors, which detect mechanical compression or stretching of the receptor or of tissues
+The central nervous system is estimated to contain 80 to 100 billion neurons.
 
-adjacent to the receptor; (2) thermoreceptors, which detect
-changes in temperature, with some receptors detecting
-cold and others detecting warmth; (3) nociceptors (pain
-receptors), which detect physical or chemical damage
-occurring in the tissues; (4) electromagnetic receptors,
+Figure 46-1 shows a typical neuron of a type found in the brain motor cortex.
 
-which detect light on the retina of the eye; and (5) chemoreceptors, which detect taste in the mouth, smell in the
-nose, oxygen level in the arterial blood, osmolality of the
-body fluids, carbon dioxide concentration, and other factors that make up the chemistry of the body.
-We will discuss the function of a few specific types
-of receptors, primarily peripheral mechanoreceptors, to
-illustrate some of the principles whereby receptors operate. Other receptors are discussed in other chapters in
+### Signal Entry Points
 
-relation to the sensory systems that they subserve. Figure
-47- 1 shows some of the types of mechanoreceptors found
-in the skin or in deep tissues of the body.
+Incoming signals enter the neuron through synapses located mostly on the neuronal dendrites, but also on the cell body.
 
+For different types of neurons, there may be only a few hundred or as many as 200,000 such synaptic connections from input fibers.
 
-## DIFFERENTIAL SENSITIVITY OF RECEPTORS
+### Signal Exit Point
 
-How do two types of sensory receptors detect different
-types of sensory stimuli? The answer is “by differential
-sensitivities.” That is, each type of receptor is highly sensitive to one type of stimulus for which it is designed and
-yet is almost nonresponsive to other types of sensory
-stimuli. Thus, the rods and cones of the eyes are highly
-responsive to light but are almost completely nonresponsive to normal ranges of heat, cold, pressure on the
-eyeballs, or chemical changes in the blood. The osmoreceptors of the supraoptic nuclei in the hypothalamus
+In contrast, the output signal travels via a single axon leaving the neuron.
 
-detect minute changes in the osmolality of the body fluids
-but have never been known to respond to sound. Finally,
-pain receptors in the skin are almost never stimulated
-by usual touch or pressure stimuli but do become highly
-active the moment tactile stimuli become severe enough
-to damage the tissues.
-Modality of Sensation—The “Labeled
-Line” Principle
+This axon may have many separate branches to other parts of the nervous system or peripheral body.
 
-Each of the principal types of sensation that we can experience—pain, touch, sight, sound, and so forth—is called a
-modality of sensation. Yet, despite the fact that we experience these different modalities of sensation, nerve fibers
-transmit only impulses. Therefore, how do different nerve
-fibers transmit different modalities of sensation?
-The answer is that each nerve tract terminates at a specific point in the central nervous system, and the type of sensation felt when a nerve fiber is stimulated is determined by
-the point in the nervous system to which the fiber leads. For
-example, if a pain fiber is stimulated, the person perceives
-pain regardless of what type of stimulus excites the fiber. The
-stimulus can be electricity, overheating of the fiber, crushing
-of the fiber, or stimulation of the pain nerve ending by damage to the tissue cells. In all these cases, the person perceives
-pain. Likewise, if a touch fiber is stimulated by electrical excitation of a touch receptor or in any other way, the person
-perceives touch because touch fibers lead to specific touch
-areas in the brain. Similarly, fibers from the retina of the eye
-terminate in the vision areas of the brain, fibers from the ear
-terminate in the auditory areas of the brain, and temperature
+### Direction of Signal Flow
 
-fibers terminate in the temperature areas.
-This specificity of nerve fibers for transmitting only one
-modality of sensation is called the labeled line principle.
+A special feature of most synapses is that the signal normally passes only in the forward direction.
 
-TRANSDUCTION OF SENSORY STIMULI
+The signal travels from the axon of a preceding neuron to dendrites on cell membranes of subsequent neurons.
 
-## INTO NERVE IMPULSES
+This feature forces the signal to travel in required directions to perform specific nervous functions.
 
-LOCAL ELECTRICAL CURRENTS AT NERVE
+## SENSORY PART OF THE NERVOUS SYSTEM — SENSORY RECEPTORS
 
-## ENDINGS—RECEPTOR POTENTIALS
+Most activities of the nervous system are initiated by sensory experiences that excite sensory receptors.
 
+These may include:
+- Visual receptors in the eyes
+- Auditory receptors in the ears
+- Tactile receptors on the surface of the body
+- Other types of receptors
 
-All sensory receptors have one feature in common.
-Whatever the type of stimulus that excites the receptor,
-its immediate effect is to change the membrane electrical
-Sensory Receptors, Neuronal Circuits for
-Processing Information
+These sensory experiences can either:
+1. Cause immediate reactions from the brain
+2. Result in memories that are stored in the brain for minutes, weeks, or years, determining bodily reactions at some future date
 
-potential of the receptor. This change in potential is called
-a receptor potential.
-Mechanisms of Receptor Potentials. Different receptors can be excited in one of several ways to cause receptor potentials: (1) by mechanical deformation of the
+### Somatic Portion of the Sensory System
 
-receptor, which stretches the receptor membrane and
-opens ion channels; (2) by application of a chemical to
-the membrane, which also opens ion channels; (3) by
-change of the temperature of the membrane, which alters
-the permeability of the membrane; or (4) by the effects of
-electromagnetic radiation, such as light on a retinal visual
-receptor, which either directly or indirectly changes the
-receptor membrane characteristics and allows ions to
-flow through membrane channels.
-These four means of exciting receptors correspond in
-general to the different types of known sensory receptors.
-In all cases, the basic cause of the change in membrane
-potential is a change in membrane permeability of the
-receptor, which allows ions to diffuse more or less readily
+Figure 46-2 shows the somatic portion of the sensory system, which transmits sensory information from:
+- The receptors of the entire body surface
+- Some deep structures
 
-through the membrane and thereby to change the transmembrane potential.
-Maximum Receptor Potential Amplitude. The maximum amplitude of most sensory receptor potentials is
+This information enters the central nervous system through peripheral nerves and is conducted immediately to multiple sensory areas:
 
-about 100 mV, but this level occurs only at an extremely
-high intensity of sensory stimulus. This is about the same
-maximum voltage recorded in action potentials and is
-also the change in voltage when the membrane becomes
-maximally permeable to sodium ions.
+| Area | Function |
+|------|----------|
+| Spinal cord at all levels | Initial processing |
+| Reticular substance of the medulla, pons, and mesencephalon | Arousal and consciousness |
+| Cerebellum | Coordination |
+| Thalamus | Relay and integration |
+| Areas of the cerebral cortex | Sensory perception |
 
-Relation of the Receptor Potential to Action Potentials. When the receptor potential rises above the
+## MOTOR PART OF THE NERVOUS SYSTEM — EFFECTORS
 
-threshold for eliciting action potentials in the nerve fiber
-attached to the receptor, then action potentials occur, as
-Table 47- 1 	Classification of Sensory Receptors
-I. Mechanoreceptors
-Skin tactile sensibilities (epidermis and dermis)
-• Free nerve endings
-• Expanded tip endings
-Merkel’s discs
-Plus several other variants
-• Spray endings
-• Ruffini’s endings
-• Encapsulated endings
-Meissner’s corpuscles
-Krause’s corpuscles
-• Hair end-organs
-Deep tissue sensibilities
-• Free nerve endings
-• Expanded tip endings
-• Spray endings
-Ruffini’s endings
-• Encapsulated endings
-Pacinian corpuscles
-Plus a few other variants
-• Muscle endings
-Muscle spindles
-Golgi tendon receptors
-Hearing
-• Sound receptors of cochlea
-Equilibrium
-• Vestibular receptors
-Arterial pressure
-• Baroreceptors of carotid sinuses and aorta
-II. Thermoreceptors
-Cold
-• Cold receptors
-Warmth
-• Warm receptors
-III. Nociceptors
-Pain
-• Free nerve endings
-IV. Electromagnetic Receptors
-Vision
-• Rods
-• Cones
-V. Chemoreceptors
-Taste
-• Receptors of taste buds
-Smell
-• Receptors of olfactory epithelium
-Arterial oxygen
-• Receptors of aortic and carotid bodies
-Osmolality
-• Neurons in or near supraoptic nuclei
-Blood CO2
-• Receptors in or on surface of medulla and in aortic and
-carotid bodies
-Blood glucose, amino acids, fatty acids
-• Receptors in hypothalamus
-Free nerve
-endings
-Expanded tip
-receptor
-Tactile hair
-Pacinian
-corpuscle
-Meissner’s
-corpuscle
-Krause’s
-corpuscle
-Ruffini’s
-endings
-Golgi tendon
-apparatus
-Muscle
-spindle
-Figure 47- 1 Several types of somatic sensory nerve endings.
+The most important eventual role of the nervous system is to control the various bodily activities.
+
+This task is achieved by controlling:
+1. Contraction of appropriate skeletal muscles throughout the body
+2. Contraction of smooth muscle in the internal organs
+3. Secretion of active chemical substances by both exocrine and endocrine glands
+
+These activities are collectively called **motor functions** of the nervous system.
+
+The muscles and glands are called **effectors** because they are the actual anatomical structures that perform the functions dictated by the nerve signals.
+
+### Skeletal Motor Nerve Axis
+
+Figure 46-3 shows the skeletal motor nerve axis of the nervous system for controlling skeletal muscle contraction.
+
+Operating parallel to this axis is another system, called the **autonomic nervous system**, for controlling:
+- Smooth muscles
+- Glands
+- Other internal bodily systems
+
+(This system is discussed in Chapter 61.)
+
+### Levels of Nervous System Control
+
+Skeletal muscles can be controlled from many levels of the central nervous system:
+
+| Level | Primary Function |
+|-------|-----------------|
+| Spinal cord | Automatic, instantaneous muscle responses to sensory stimuli |
+| Reticular substance of medulla, pons, and mesencephalon | Automatic responses, arousal |
+| Basal ganglia | Movement planning and coordination |
+| Cerebellum | Coordination and balance |
+| Motor cortex | Deliberate complex muscle movements controlled by thought |
+
+Lower regions are concerned primarily with automatic, instantaneous muscle responses to sensory stimuli.
+
+Higher regions are concerned with deliberate complex muscle movements controlled by thought processes of the brain.
+
+## PROCESSING OF INFORMATION — INTEGRATIVE FUNCTION OF THE NERVOUS SYSTEM
+
+One of the most important functions of the nervous system is to process incoming information so that appropriate mental and motor responses will occur.
+
+More than 99% of all sensory information is discarded by the brain as irrelevant and unimportant.
+
+**Examples of discarded information:**
+- Parts of the body in contact with clothing
+- Seat pressure when sitting
+- Most of the visual field
+- Perpetual background noise (usually relegated to the subconscious)
+
+However, when important sensory information excites the mind, it is immediately channeled into proper integrative and motor regions of the brain to cause desired responses.
+
+This channeling and processing of information is called the **integrative function** of the nervous system.
+
+**Example:** If a person places a hand on a hot stove, the desired instantaneous response is to lift the hand. Other associated responses follow, such as moving the entire body away from the stove and perhaps shouting with pain.
+
+## ROLE OF SYNAPSES IN PROCESSING INFORMATION
+
+The synapse is the junction point from one neuron to the next.
+
+Synapses determine the directions that nervous signals will spread through the nervous system.
+
+### Synaptic Transmission Characteristics
+
+| Type | Effect |
+|------|--------|
+| **Easy transmission synapses** | Transmit signals readily |
+| **Difficult transmission synapses** | Transmit signals only with difficulty |
+| **Facilitatory signals** | Open synapses for transmission |
+| **Inhibitory signals** | Close synapses to transmission |
+
+### Functions of Synapses
+
+1. Some postsynaptic neurons respond with large numbers of output impulses
+2. Other neurons respond with only a few
+
+Thus, synapses perform a selective action:
+- Blocking weak signals while allowing strong signals to pass
+- At other times, selecting and amplifying certain weak signals
+- Often channeling signals in many directions rather than in only one direction
+
+The brain's ability to selectively process information depends on these synaptic mechanisms.

@@ -3,204 +3,252 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH73"
 title: "Energetics and Metabolic Rate"
 book: "Guyton & Hall"
+summary: "ATP serves as the universal energy currency coupling energy-producing oxidative metabolism of foodstuffs to energy-consuming cellular work including muscle contraction, active transport, synthesis, and nerve conduction. Phosphocreatine functions as an ATP buffer, rapidly regenerating ATP from ADP. Metabolic rate is measured by direct or indirect calorimetry and is increased by physical activity, hormone effects (thyroxine, catecholamines), thermic effect of food, and temperature. Anaerobic glycolysis provides rapid energy during hypoxia and brief strenuous activity."
+key_points:
+  - "ATP is not the most abundant high-energy phosphate reservoir; phosphocreatine (CrP) is 3-8× more abundant and buffers ATP by transferring its phosphate to ADP: CrP + ADP ⇌ ATP + Cr"
+  - "The high-energy phosphate bond of phosphocreatine (~13,000 cal/mol) has more energy than ATP bonds (~12,000 cal/mol), driving rapid ATP regeneration when ATP is depleted"
+  - "Direct calorimetry measures heat production; indirect calorimetry (respiratory quotient) estimates metabolic rate from O₂ consumption and CO₂ production"
+  - "Basal metabolic rate (BMR) is measured after 12-18 hours fasting and 8 hours rest, representing minimal energy expenditure for vital functions"
+  - "Anaerobic glycolysis yields only 2 ATP per glucose (or 3 from glycogen) versus ~32 ATP from complete aerobic oxidation, but operates 100× faster, enabling maximal muscle contraction for 5-10 seconds"
+  - "During hypoxia, lactate dehydrogenase converts NADH + pyruvate to lactate, regenerating NAD⁺ for continued glycolysis; lactate is later reconverted to glucose in the liver (Cori cycle)"
+  - "Thyroxine increases BMR by uncoupling oxidative phosphorylation and increasing Na⁺/K⁺-ATPase activity; prolonged excess causes muscle protein catabolism and weight loss"
 ---
 
-## NORMAL BODY TEMPERATURES
+## ATP as the "Energy Currency" of Metabolism
 
+Carbohydrates, fats, and proteins can all be used by cells to synthesize large quantities of adenosine triphosphate (ATP).
 
-Body Core Temperature and Skin Temperature. The
-temperature of the deep tissues of the body—the “core”
-of the body—usually remains very constant, within ±1°F
+ATP is used as an energy source for almost all other cellular functions.
 
-(±0.6°C), except when a person has a febrile illness. Indeed, a nude person can be exposed to temperatures as
-low as 55°F or as high as 130°F in dry air and still maintain
+For this reason, ATP has been called an energy "currency" in cell metabolism.
 
-an almost constant core temperature. The mechanisms
-for regulating body temperature represent a beautifully
-designed control system. In this chapter we discuss this
-system as it operates in health and in disease.
+The transfer of energy from foodstuffs to most functional systems of the cells can be performed only through this medium of ATP (or the similar nucleotide guanosine triphosphate — GTP).
 
-The skin temperature, in contrast to the core temperature, rises and falls with the temperature of the surroundings. The skin temperature is important when we refer to
-the skin’s ability to lose heat to the surroundings.
-Normal Core Temperature. No single core temperature can be considered normal because measurements in
-many healthy people have shown a range of normal temperatures measured orally, as shown in Figure 74- 1, from
+Many of the attributes of ATP are presented in Chapter 2.
 
-less than 97°F (36°C) to greater than 99.5°F (37.5°C). The
-average normal core temperature is generally considered
-to be between 98.0°F and 98.6°F when measured orally
-and about 1°F higher when measured rectally.
-The body temperature increases during exercise and
-varies with temperature extremes of the surroundings
-because the temperature regulatory mechanisms are not
-perfect. When excessive heat is produced in the body by
-strenuous exercise, the temperature can rise temporarily
-to as high as 101°F to 104°F. Conversely, when the body is
-exposed to extreme cold, the temperature can fall below
+### Free Energy in ATP Bonds
 
+ATP contains a large quantity of free energy in each of its two high-energy phosphate bonds.
 
-## 96°F.
+- Under **standard conditions**: approximately **7,300 calories** per mole
+- Under **physiological conditions**: as much as **12,000 calories**
 
-BODY TEMPERATURE IS CONTROLLED
-BY BALANCING HEAT PRODUCTION
+The energy in each bond, when liberated by decomposition of ATP, is enough to cause almost any step of any chemical reaction in the body.
 
-## AND HEAT LOSS
+Some chemical reactions require only a few hundred of the available 12,000 calories.
 
+The remainder of this energy is lost in the form of heat.
 
-When the rate of heat production in the body is greater
-than the rate at which heat is being lost, heat builds up
-in the body, and the body temperature rises. Conversely,
+### ATP Generation from Combustion of Foodstuffs
 
-when heat loss is greater, both body heat and body temperature decrease. Most of the remainder of this chapter
-is concerned with this balance between heat production
-and heat loss and the mechanisms by which the body controls this production and loss.
+ATP is produced through the following processes:
 
-## HEAT PRODUCTION
+1. **Carbohydrate combustion:** Mainly glucose, but also smaller amounts of other sugars such as fructose. This occurs in the cell cytoplasm through anaerobic glycolysis and in cell mitochondria through aerobic citric acid (Krebs) cycle.
 
-Heat production is a principal by- product of metabolism. In Chapter 73, which summarizes body energetics, we discuss the different factors that determine the
+2. **Fatty acid combustion:** In cell mitochondria by beta-oxidation.
 
-rate of heat production, called the metabolic rate of the
-body. The most important of these factors are listed
-again here: (1) basal rate of metabolism of all the cells of
-the body; (2) extra rate of metabolism caused by muscle
+3. **Protein combustion:** Requires hydrolysis to component amino acids and degradation to intermediate compounds of the citric acid cycle, then to acetyl coenzyme A and carbon dioxide.
 
-activity, including muscle contractions caused by shivering; (3) extra metabolism caused by the effect of thyroxine (and, to a lesser extent, other hormones, such
+### Uses of ATP Energy
 
-as growth hormone and testosterone) on the cells; (4)
-extra metabolism caused by the effect of epinephrine,
-norepinephrine, and sympathetic stimulation on the
+#### ATP Energizes Synthesis of Cellular Components
 
-cells; (5) extra metabolism caused by increased chemical activity in the cells, especially when the cell temperature increases; and (6) extra metabolism needed for
+One of the most important intracellular processes requiring ATP energy is the formation of peptide linkages during synthesis of proteins.
 
-digestion, absorption, and storage of food (thermogenic
-effect of food).
-Body Temperature Regulation and Fever
-°F 	°C
-Oral 	Rectal
-Hard exercise
-Hard work, emotion
-A few normal adults
-Many active children
-Usual range
-of normal
-Early morning
-Cold weather, etc.
-Usual range
-of normal
-Early morning
-Cold weather, etc.
-Emotion or
-moderate exercise
-A few normal adults
-Many active children
+Different peptide linkages require from **500 to 5,000 calories** of energy per mole.
 
+Four high-energy phosphate bonds are expended during the cascade of reactions required to form each peptide linkage.
 
-> **Figure 74- 1. Estimated normal range of body “core” temperature. (Modified from DuBois EF: Fever. Springfield, IL: Charles C. Thomas, 1948.) UNIT XIII 	Metabolism and Temperature Regulation**
+This provides a total of 48,000 calories of energy.
 
+Far more than the 500 to 5,000 calories eventually stored in each peptide linkage.
 
-## HEAT LOSS
+ATP energy is also used for:
 
+- Synthesizing glucose from lactic acid
+- Synthesizing fatty acids from acetyl coenzyme A
+- Synthesizing cholesterol, phospholipids, and hormones
+- Synthesizing almost all other substances of the body
+- Forming urea excreted by the kidneys
 
-Most of the heat produced in the body is generated in the
-deep organs, especially the liver, brain, and heart, and in
-the skeletal muscles during physical activity. This heat is
-then transferred from the deeper organs and tissues to the
-skin, where it is lost to the air and other surroundings.
-Therefore, the rate at which heat is lost is determined
-almost entirely by two factors: (1) how rapidly heat can be
-conducted from where it is produced in the body core to
-the skin and (2) how rapidly heat can then be transferred
+The urea formation is especially valuable because ammonia is extremely toxic in body fluids.
 
-from the skin to the surroundings. Let us begin by discussing the system that insulates the core from the skin
+Keeping the ammonia concentration low is essential.
 
-surface.
-Insulator System of the Body
-The skin, the subcutaneous tissues, and especially the fat
+#### ATP Energizes Muscle Contraction
 
-of the subcutaneous tissues act together as a heat insulator for the body. The fat is important because it conducts
+Muscle contraction will not occur without energy from ATP.
 
-heat only one-third as readily as other tissues. When no
-blood is flowing from the heated internal organs to the
-skin, the insulating properties of the normal male body
+**Myosin** — one of the important contractile proteins of the muscle fiber — acts as an enzyme to cause breakdown of ATP into adenosine diphosphate (ADP).
 
-are about equal to three-quarters the insulating properties of a usual suit of clothes. In women, this insulation is
+This releases the energy required to cause contraction.
 
-even better.
-The insulation beneath the skin is an effective means
-of maintaining normal internal core temperature, even
-though it allows the temperature of the skin to approach
-the temperature of the surroundings.
-Blood Flow to the Skin From the Body
-Core Provides Heat Transfer
-Blood vessels are distributed profusely beneath the skin.
-Especially important is a continuous venous plexus that
-is supplied by inflow of blood from the skin capillaries,
-shown in Figure 74- 2. In the most exposed areas of the
-body—the hands, feet, and ears—blood is also supplied to
-the plexus directly from the small arteries through highly
-muscular arteriovenous anastomoses.
-The rate of blood flow into the skin venous plexus can
-vary tremendously, from barely above zero to as great as
-30% of the total cardiac output. A high rate of skin flow
-causes heat to be conducted from the body core to the
-skin with great efficiency, whereas reduction in the rate
-of skin flow can decrease heat conduction from the core
-to very little.
+Only a small amount of ATP is normally degraded in muscles when contraction is not occurring.
 
+This rate can rise to at least **150 times** the resting level during short bursts of maximal contraction.
 
-> **Figure 74- 3 shows quantitatively the effect of environmental air temperature on conductance of heat from the core to the skin surface and then conductance into the air, demonstrating an approximate eightfold increase in heat conductance between the fully vasoconstricted state and the fully vasodilated state.**
+#### ATP Energizes Active Transport Across Membranes
 
-Therefore, the skin is an effective controlled “heat radiator” system, and the flow of blood to the skin is a most
-effective mechanism for heat transfer from the body core
-to the skin.
-Control of Heat Conduction to the Skin by the Sympathetic Nervous System. Heat conduction to the skin
-by the blood is controlled by the degree of vasoconstriction of the arterioles and the arteriovenous anastomoses
-that supply blood to the venous plexus of the skin. This
-vasoconstriction is controlled almost entirely by the sympathetic nervous system in response to changes in body
-core temperature and changes in environmental temperature. This is discussed later in the chapter in connection
+Active transport of electrolytes and various nutrients across cell membranes requires energy from ATP.
 
-with control of body temperature by the hypothalamus.
-Basic Physics of Heat Loss From the Skin
-Surface
-The various methods by which heat is lost from the skin
-to the surroundings are shown in Figure 74- 4. They
-include radiation, conduction, and evaporation, which are
-explained next.
-Radiation Causes Heat Loss in the Form of Infrared
-Rays. As shown in Figure 74- 4, in a nude person sitting
-inside at normal room temperature, about 60% of total
-heat loss is by radiation.
-Most infrared heat rays (a type of electromagnetic
-ray) that radiate from the body have wavelengths of 5 to
-Epidermis
-Capillaries
-Arteries
-Veins
-Venous plexus
-Arteriovenous
-anastomosis
-Artery
-Dermis
-Subcutaneous
-tissue
-Figure 74- 2. Skin circulation.
-8
-7
-6
-5
-4
-3
-2
-1
-0
-Vasoconstricted
-Vasodilated
-70 	80 	90 	100 110 120
-Heat conductance through skin
-(uthe vasoconstricted rate)
-Environmental temperature (°F)
+Active transport from renal tubules and gastrointestinal tract into the blood also requires ATP.
 
+Active transport of most electrolytes and substances such as glucose, amino acids, and acetoacetate can occur against an electrochemical gradient.
 
-> **Figure 74- 3. Effect of changes in the environmental temperature on heat conductance from the body core to the skin surface (in °F).**
+This is even though natural diffusion would be in the opposite direction.
 
-(Modified from Benzinger TH: Heat and Temperature Fundamentals of Medical Physiology. New York: Dowden, Hutchinson & Ross,
-1980.)
+Energy provided by ATP is required to oppose the electrochemical gradient.
+
+#### ATP Energizes Glandular Secretion
+
+The same principles apply to glandular secretion as to absorption against concentration gradients.
+
+Energy is required to concentrate substances as they are secreted by glandular cells.
+
+Additionally, energy is required to synthesize the organic compounds to be secreted.
+
+#### ATP Energizes Nerve Conduction
+
+The energy used during propagation of nerve impulses is derived from concentration differences of ions across neuronal cell membranes.
+
+A high concentration of potassium inside the neuron and a low concentration outside constitutes a type of energy storage.
+
+Likewise, a high concentration of sodium on the outside and a low concentration on the inside represents another store of energy.
+
+The energy needed to pass each action potential is derived from this energy storage.
+
+Small amounts of potassium transfer out of the cell and sodium into the cell during each action potential.
+
+Active transport systems energized by ATP then retransport the ions back through the membrane to their former positions.
+
+---
+
+## Phosphocreatine as an Energy Storage Depot and "ATP Buffer"
+
+Despite the paramount importance of ATP as a coupling agent for energy transfer, ATP is not the most abundant store of high-energy phosphate bonds in the cells.
+
+**Phosphocreatine** is three to eight times more abundant than ATP.
+
+The high-energy bond of phosphocreatine contains about **8,500 calories** per mole under standard conditions.
+
+Under conditions in the body (37°C and low concentrations of reactants), it contains as many as **13,000 calories** per mole.
+
+This is slightly greater than the 12,000 calories per mole in each of the two high-energy phosphate bonds of ATP.
+
+### Chemical Structure
+
+Phosphocreatine formula:
+
+```
+HOOC-CH₂-CH₃
+     N-C-N~P-OH
+    NH    O
+```
+
+### Energy Transfer Between Phosphocreatine and ATP
+
+Unlike ATP, phosphocreatine cannot act as a direct coupling agent for energy transfer between foods and functional cellular systems.
+
+However, phosphocreatine can transfer energy interchangeably with ATP.
+
+When extra amounts of ATP are available, much of its energy is used to synthesize phosphocreatine.
+
+This builds up this storehouse of energy.
+
+When ATP begins to be used up, the energy in phosphocreatine is transferred rapidly back to ATP, then to the functional systems.
+
+This reversible interrelation between ATP and phosphocreatine is demonstrated by:
+
+```
+Phosphocreatine + ADP ⇌ ATP + Creatine
+```
+
+### ATP Buffer Function
+
+The higher energy level of the high-energy phosphate bond in phosphocreatine causes the reaction between phosphocreatine and ADP to proceed rapidly toward the formation of new ATP.
+
+This occurs whenever the slightest amount of ATP expends its energy elsewhere.
+
+The slightest usage of ATP by the cells calls forth energy from phosphocreatine to synthesize new ATP.
+
+This keeps the concentration of ATP at an almost constant high level as long as any phosphocreatine remains.
+
+Therefore, the ATP-phosphocreatine system functions as an ATP **"buffer" system**.
+
+This constancy is critical because the rates of almost all metabolic reactions in the body depend on it.
+
+---
+
+## Anaerobic vs. Aerobic Energy
+
+**Anaerobic energy** means energy that can be derived from foods without the simultaneous utilization of oxygen.
+
+**Aerobic energy** means energy that can be derived from foods only by oxidative metabolism.
+
+Carbohydrates, fats, and proteins can all be oxidized to cause synthesis of ATP.
+
+However, carbohydrates are the only significant foods that can be used to provide energy without utilization of oxygen.
+
+This energy release occurs during glycolytic breakdown of glucose or glycogen to pyruvic acid.
+
+For each mole of glucose that is split into pyruvic acid, **2 moles of ATP** are formed.
+
+When stored glycogen is split to pyruvic acid, each mole of glucose in the glycogen gives rise to **3 moles of ATP**.
+
+The reason for this difference is that free glucose entering the cell must be phosphorylated by using 1 mole of ATP before it can begin to be split.
+
+This is not true of glucose derived from glycogen because it comes from glycogen already in the phosphorylated state, without additional expenditure of ATP.
+
+Therefore, **stored glycogen** is the best source of energy under anaerobic conditions.
+
+### Anaerobic Energy Utilization During Hypoxia
+
+One of the prime examples of anaerobic energy utilization occurs in acute hypoxia.
+
+When a person stops breathing, a small amount of oxygen is already stored in the lungs and an additional amount is stored in hemoglobin.
+
+This oxygen is sufficient to keep metabolic processes functioning for only about **2 minutes**.
+
+Continued life beyond this time requires an additional source of energy.
+
+This energy can be derived for another minute or so from glycolysis.
+
+The glycogen of the cells splits into pyruvic acid.
+
+Pyruvic acid becomes lactic acid, which diffuses out of the cells.
+
+### Anaerobic Energy During Strenuous Bursts of Activity
+
+Skeletal muscles can perform extreme feats of strength for a few seconds.
+
+Muscles are much less capable during prolonged activity.
+
+Most of the extra energy required during bursts of activity cannot come from oxidative processes because they are too slow to respond.
+
+The extra energy comes from anaerobic sources:
+
+1. ATP already present in the muscle cells
+2. Phosphocreatine in the cells
+3. Anaerobic energy released by glycolytic breakdown of glycogen to lactic acid
+
+#### Energy Reserves in Muscle
+
+| Source | Amount | Duration of Maximum Contraction |
+|--------|--------|--------------------------------|
+| ATP | ~5 mmol/L intracellular fluid | ~1 second |
+| Phosphocreatine | 3–8× ATP amount | 5–10 seconds |
+
+#### Glycolytic Energy Release
+
+Release of energy by glycolysis can occur much more rapidly than oxidative release of energy.
+
+Most of the extra energy required during strenuous activity lasting more than 5 to 10 seconds but less than 1 to 2 minutes is derived from anaerobic glycolysis.
+
+During strenuous bouts of exercise:
+
+- Glycogen content of muscles is reduced
+- Lactic acid concentration of the blood rises
+
+After exercise, oxidative metabolism is used to reconvert about **four fifths** of the lactic acid into glucose.
+
+The remainder becomes pyruvic acid and is degraded.

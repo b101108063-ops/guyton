@@ -1,79 +1,72 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH16"
+---
 title: "Capillary Dynamics and Fluid Exchange"
 book: "Guyton & Hall"
----
+summary: "Fluid exchange across the capillary membrane is governed by Starling forces, which include hydrostatic pressure gradients driving filtration and oncotic pressure gradients opposing it. Osmotic pressure differences between plasma and interstitial fluid are critical for maintaining vascular volume and cellular hydration."
+key_points:
+  - "Osmolarity of plasma and interstitial fluid is ~300 mOsm/L; plasma is ~1 mOsm/L greater due to plasma protein oncotic effects, creating a slight osmotic gradient favoring fluid retention in vessels"
+  - "A 0.9% NaCl solution has an osmolarity of ~286 mOsm/L (after osmotic coefficient correction) and is isotonic with plasma"
+  - "Sodium and chloride ions account for ~80% of plasma and interstitial fluid osmolarity, while potassium ions dominate intracellular fluid osmolarity"
+  - "Selective permeability of cell membranes allows water to follow solute concentration gradients by osmosis; solutes that cannot cross cell membranes exert full osmotic effect"
+  - "The van't Hoff law calculates potential osmotic pressure as osmolarity × 19.3 mm Hg per mOsm/L; the osmotic coefficient corrects for ion interactions in solution"
 
 ## OSMOTIC PRESSURE
 
+The basic principles of osmosis and osmotic pressure were presented in Chapter 4. Here we review only the most important aspects as they apply to volume regulation.
 
-The basic principles of osmosis and osmotic pressure
-were presented in Chapter 4. Therefore, we review here
-only the most important aspects of these principles as
-they apply to volume regulation.
-Because cell membranes are relatively impermeable to
-most solutes but are highly permeable to water (i.e., they
-are selectively permeable), whenever there is a higher
-concentration of solute on one side of the cell membrane,
-water diffuses across the membrane toward the region
-of higher solute concentration. Thus, if a solute such as
-sodium chloride is added to the extracellular fluid, water
-rapidly diffuses from the cells through the cell membranes
+### Osmosis and Selective Permeability
 
-into the extracellular fluid until the water concentration on
+Because cell membranes are relatively **impermeable to most solutes** but are **highly permeable to water** (selectively permeable), whenever there is a higher concentration of solute on one side of the cell membrane, water diffuses across the membrane toward the region of higher solute concentration.
 
-both sides of the membrane becomes equal. Conversely,
-if a solute such as sodium chloride is removed from the
-extracellular fluid, water diffuses from the extracellular
-fluid through the cell membranes and into the cells.
-Osmolality and Osmolarity. The osmolal concentration
-of a solution is called osmolality when the concentration
-is expressed as osmoles per kilogram of water; it is called
+If a solute such as sodium chloride is added to the extracellular fluid, water rapidly diffuses from the cells through the cell membranes into the extracellular fluid until the water concentration on both sides of the membrane becomes equal.
 
-osmolarity when it is expressed as osmoles per liter of solution. In dilute solutions such as the body fluids, these two
-terms can be used almost synonymously because the differences are small. Most of the calculations used clinically
-and the calculations expressed in the next several chapters are based on osmolarities rather than osmolalities.
-Calculation of the Osmolarity and Osmotic Pressure
-of a Solution. Using the van’t Hoff law, one can calculate the potential osmotic pressure of a solution, assuming
+Conversely, if a solute such as sodium chloride is removed from the extracellular fluid, water diffuses from the extracellular fluid through the cell membranes and into the cells.
 
-that the cell membrane is impermeable to the solute. For
-example, the osmotic pressure of a 0.9% sodium chloride
-solution is calculated as follows. A 0.9% solution means
+### Osmolality and Osmolarity
 
-that there is 0.9 gram of sodium chloride per 100 milliliters of solution, or 9 g/L. Because the molecular weight of
-sodium chloride is 58.5 g/mol, the molarity of the solution is 9 g/L divided by 58.5 g/mol, or about 0.154 mol/L.
+| Term | Definition |
+|------|------------|
+| **Osolality** | Osmoles per kilogram of water |
+| **Osmolarity** | Osmoles per liter of solution |
 
-Because each molecule of sodium chloride is equal to 2
-osmoles, the osmolarity of the solution is 0.154 × 2, or
-0.308 Osm/L. Therefore, the osmolarity of this solution is
+In dilute solutions such as body fluids, these two terms can be used almost synonymously because the differences are small. Most clinical calculations are based on **osmolarities** rather than osmolalities.
 
-308 mOsm/L. The potential osmotic pressure of this solution would therefore be 308 mOsm/L × 19.3 mm Hg/
+### Calculation of Osmolarity and Osmotic Pressure
 
-mOsm/L, or 5944 mm Hg.
-This calculation is an approximation, because sodium
-and chloride ions do not behave entirely independently in
-solution as a result of interionic attraction between them.
-One can correct for these deviations from the predictions
-of van’t Hoff’s law by using a correction factor called the
+Using the **van't Hoff law**, one can calculate the potential osmotic pressure of a solution, assuming that the cell membrane is impermeable to the solute.
 
-osmotic coefficient. For sodium chloride, the osmotic coefficient is about 0.93. Therefore, the actual osmolarity of a
+#### Example: 0.9% Sodium Chloride Solution
 
-0.9% sodium chloride solution is 308 × 0.93, or about 286
-mOsm/L. For practical reasons, the osmotic coefficients of
-different solutes are sometimes neglected in determining the
-osmolarity and osmotic pressures of physiologic solutions.
-Osmolarity of Body Fluids. Referring back to Table 25-2,
+A 0.9% solution means 0.9 gram of sodium chloride per 100 milliliters of solution — or **9 g/L**.
 
-note the approximate osmolarity of the various osmotically active substances in plasma, interstitial fluid, and
-intracellular fluid. About 80% of the total osmolarity of
-the interstitial fluid and plasma is due to sodium and chloride ions, whereas for intracellular fluid, almost half the
+- **Molecular weight** of NaCl: 58.5 g/mol
+- **Molarity**: 9 g/L ÷ 58.5 g/mol = 0.154 mol/L
+- Because each NaCl molecule equals **2 osmoles**: 0.154 × 2 = **0.308 Osm/L** = **308 mOsm/L**
+- **Potential osmotic pressure**: 308 mOsm/L × 19.3 mm Hg/mOsm/L = **5944 mm Hg**
 
-osmolarity is due to potassium ions, and the remainder is
-divided among many other intracellular substances.
-As shown in Table 25- 2, the total osmolarity of each
-of the three compartments is about 300 mOsm/L, with
-the plasma being about 1 mOsm/L greater than that of
+### The Osmotic Coefficient
 
-the interstitial and intracellular fluids. The slight difference between plasma and interstitial fluid is caused by the
-osmotic effects of the plasma proteins, which maintain
+This calculation is an approximation because sodium and chloride ions do not behave entirely independently as a result of interionic attraction between them.
+
+A correction factor called the **osmotic coefficient** corrects for these deviations from van't Hoff's law:
+
+- For sodium chloride, the osmotic coefficient is about **0.93**
+- Therefore, the actual osmolarity of a 0.9% sodium chloride solution is 308 × 0.93 = **286 mOsm/L**
+
+For practical reasons, the osmotic coefficients of different solutes are sometimes neglected in determining osmolarity and osmotic pressures of physiologic solutions.
+
+### Osmolarity of Body Fluids
+
+Table 25-2 shows the approximate osmolarity of osmotically active substances in plasma, interstitial fluid, and intracellular fluid.
+
+| Compartment | Major Osmotically Active Substances |
+|-------------|-------------------------------------|
+| **Plasma** | ~80% from Na⁺ and Cl⁻ ions |
+| **Interstitial fluid** | ~80% from Na⁺ and Cl⁻ ions |
+| **Intracellular fluid** | ~50% from K⁺ ions; remainder from many other substances |
+
+The total osmolarity of each of the three compartments is about **300 mOsm/L**, with the plasma being about **1 mOsm/L greater** than that of the interstitial and intracellular fluids.
+
+The slight difference between plasma and interstitial fluid is caused by the **osmotic effects of the plasma proteins**, which maintain

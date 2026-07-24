@@ -3,146 +3,164 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH44"
 title: "Aviation, High Altitude, and Space Physiology"
 book: "Guyton & Hall"
+summary: "As altitude increases, barometric pressure falls, causing alveolar PO2 to decline and leading to hypoxia; breathing pure oxygen at high altitude dramatically raises alveolar PO2 by eliminating nitrogen dilution. Acclimatization involves increased ventilation, erythrocytosis, increased diffusing capacity, and enhanced tissue vascularity. Acute hypoxia causes impaired judgment, drowsiness, and seizures above 18,000 feet without acclimatization."
+key_points:
+  - "Barometric pressure at 10,000 ft is 523 mm Hg (PO2 ~110 mm Hg), at 20,000 ft is 349 mm Hg (PO2 ~73 mm Hg), and at 50,000 ft is only 87 mm Hg (PO2 ~18 mm Hg); PO2 always equals ~21% of barometric pressure minus water vapor (47 mm Hg) and CO2."
+  - "At 20,000 ft breathing air, unacclimatized alveolar PO2 is ~40 mm Hg (saturation ~73%) versus ~53 mm Hg (saturation ~85%) in acclimatized individuals due to fivefold greater ventilation."
+  - "Breathing 100% oxygen raises alveolar PO2 dramatically: at 30,000 ft it reaches ~139 mm Hg versus only ~18 mm Hg breathing air; the ceiling for consciousness without pressurization is ~23,000 ft on air vs ~47,000 ft on O2."
+  - "Acclimatization to high altitude involves: (1) increased pulmonary ventilation via peripheral chemoreceptors, (2) increased red blood cell mass, (3) increased lung diffusing capacity, (4) greater tissue vascularity, and (5) improved cellular O2 utilization."
+  - "Acute hypoxia at 12,000+ ft causes drowsiness, fatigue, and headache; above 18,000 ft seizures occur; above 23,000 ft coma and death follow rapidly without oxygen in the unacclimatized person."
 ---
 
-## OF INDIVIDUAL GASES ON THE BODY
+## BAROMETRIC PRESSURES AT DIFFERENT ALTITUDES
 
-The individual gases to which a diver is exposed when breathing air are nitrogen, O2, and CO2; each of these, at times, can
-cause significant physiological effects at high pressures.
-NITROGEN NARCOSIS AT HIGH NITROGEN
+As altitude increases, barometric pressure decreases.
 
-## PRESSURES
+This decrease in barometric pressure is the basic cause of all the hypoxia problems in high-altitude physiology.
 
-About four-fifths of the air is nitrogen. At sea level pressure,
-the nitrogen has no significant effect on bodily function, but
-at high pressures, it can cause varying degrees of narcosis.
-When the diver remains beneath the sea for 1 hour or more
-and is breathing compressed air, the depth at which the first
-symptoms of mild narcosis appear is about 120 feet. At this
-level, the diver begins to exhibit joviality and loss of many
-of his or her cares. At 150 to 200 feet, the diver becomes
-drowsy. At 200 to 250 feet, the person’s strength wanes considerably, and the diver often becomes too clumsy to perform the work required. Beyond 250 feet (8.5 atm pressure),
-the diver usually becomes almost useless as a result of nitrogen narcosis if he or she remains at these depths too long.
+As the barometric pressure decreases, the atmospheric oxygen partial pressure (PO2) decreases proportionately, remaining at all times slightly less than 21% of the total barometric pressure.
 
-Nitrogen narcosis has characteristics similar to those of
-alcohol intoxication, and for this reason it has frequently
-been called “raptures of the depths.” The mechanism of this
+### Barometric and Oxygen Pressures at Different Altitudes
 
-narcotic effect is believed to be the same as that of most other
-gas anesthetics. That is, it dissolves in the fatty substances
+| Altitude (ft) | Barometric Pressure (mm Hg) | PO2 in Air (mm Hg) |
+|---------------|------------------------------|---------------------|
+| Sea level | 760 | 159 |
+| 10,000 | 523 | 110 |
+| 20,000 | 349 | 73 |
+| 30,000 | 226 | 47 |
+| 40,000 | 141 | 29 |
+| 50,000 | 87 | 18 |
 
-in neuronal membranes and, because of its physical effect
-on altering ionic conductance through the membranes, it
-reduces neuronal excitability. Ascent to a shallower depth
-reverses the narcosis within a few minutes, with no known
-long-term effects if the ascent is not too rapid.
+At sea level, PO2 is about 159 mm Hg.
 
+At 50,000 feet, PO2 is only 18 mm Hg.
 
-## OXYGEN TOXICITY AT HIGH PRESSURES
+## ALVEOLAR PO2 AT DIFFERENT ELEVATIONS
 
+### Carbon Dioxide and Water Vapor Decrease the Alveolar Oxygen
 
-Effect of Very High Po2 on Blood Oxygen Transport.
-When the Po2 in the blood rises above 100 mm Hg, the
-amount of O2 dissolved in the water of the blood increases
+Even at high altitudes, carbon dioxide (CO2) is continually excreted from the pulmonary blood into the alveoli.
 
-markedly. This effect is shown in Figure 45- 2, which depicts the same O2- hemoglobin dissociation curve as that
-shown in Chapter 41 but with the alveolar Po2 extended
-to more than 3000 mm Hg. Also depicted by the lowest
-curve in the figure is the volume of O2 dissolved in the fluid
+In addition, water vaporizes into the inspired air from the respiratory surfaces.
 
-of the blood at each Po2 level. Note that in the normal
-range of alveolar Po2 (<120 mm Hg), almost none of the
-total O2 in the blood is accounted for by dissolved O2, but
-as the O2 pressure rises into the thousands of mm Hg, a
-large portion of the total O2 is then dissolved in the water
-of the blood, in addition to that bound with hemoglobin.
-Physiology of Deep-Sea Diving and Other
-Hyperbaric Conditions
-UNIT VIII 	Aviation, Space, and Deep-Sea Diving Physiology
-Effect of High Alveolar Po2 on Tissue Po2. Let us assume
+These two gases dilute the O2 in the alveoli, thus reducing the O2 concentration.
 
-that the Po2 in the lungs is about 3000 mm Hg (4 atm pressure). Referring to Figure 45-2, one finds that this pressure represents a total O2 content in each 100 ml of blood
+**Water vapor pressure** in the alveoli remains at 47 mm Hg as long as the body temperature is normal, regardless of altitude.
 
-of about 29 volumes percent, as demonstrated by point A
-in the figure, which means 20 volumes percent bound with
-hemoglobin and 9 volumes percent dissolved in the blood
-water. As this blood passes through the tissue capillaries,
-and the tissues use their normal amount of O2, about 5 ml
-from each 100 ml of blood, the O2 content on leaving the
+In the case of CO2, during exposure to very high altitudes, the alveolar partial pressure of CO2 (PCO2) falls from the sea level value of 40 mm Hg to lower values.
 
-tissue capillaries is still 24 volumes percent (point B in the
+In the acclimatized person, who increases ventilation about fivefold, the PCO2 falls to about 7 mm Hg because of increased respiration.
 
-figure). At this point, the Po2 is approximately 1200 mm
-Hg, which means that O2 is delivered to the tissues at this
-extremely high pressure instead of at the normal value of
+### Calculation of Alveolar PO2 at High Altitudes
 
-40 mm Hg. Thus, once the alveolar Po2 rises above a critical level, the hemoglobin-O2 buffer mechanism (discussed
+At the top of Mount Everest (29,028 feet):
+1. Barometric pressure = 253 mm Hg
+2. Water vapor pressure = 47 mm Hg (must be subtracted)
+3. Remaining pressure = 206 mm Hg
+4. CO2 pressure (acclimatized) = 7 mm Hg (must be subtracted)
+5. Remaining pressure = 199 mm Hg
+6. If no O2 were used by the body: O2 would be one-fifth of 199 = ~40 mm Hg
+7. With O2 continuously absorbed into blood: ~35 mm Hg remains
 
-in Chapter 41) is no longer capable of keeping the tissue
-Po2 in the normal safe range, between 20 and 60 mm Hg.
-Acute Oxygen Poisoning. The extremely high tissue Po2
-that occurs when O2 is breathed at a very high alveolar O2
-pressure can be detrimental to many of the body’s tissues.
-For example, breathing O2 at 4 atm pressure of O2 (Po2 =
-3040 mm Hg) will cause brain seizures followed by coma
+At the summit of Mount Everest, only the best acclimatized people can barely survive when breathing air.
 
-in most people within 30 to 60 minutes. The seizures often occur without warning and, for obvious reasons, are
-likely to be lethal to divers submerged beneath the sea.
-Other symptoms encountered in acute O2 poisoning include nausea, muscle twitchings, dizziness, disturbances of vision, irritability, and disorientation. Exercise
+### Alveolar PO2 at Different Altitudes
 
-greatly increases the diver’s susceptibility to O2 toxicity,
-causing symptoms to appear much earlier and with far
-greater severity than in the resting person.
+| Altitude (ft) | PO2 in Alveoli — Unacclimatized (mm Hg) | PO2 in Alveoli — Acclimatized (mm Hg) |
+|---------------|------------------------------------------|----------------------------------------|
+| Sea level | 104 | 104 |
+| 20,000 | 40 | 53 |
+| 30,000 | 18 | 30 |
 
-Excessive Intracellular Oxidation as a Cause of Nervous System Oxygen Toxicity—Oxidizing Free Radicals. Molecular O2 has little capability of oxidizing other
+The difference between acclimatized and unacclimatized persons is that alveolar ventilation increases much more in the acclimatized person.
 
-chemical compounds. Instead, it must first be converted
-into an active form of oxygen. There are several forms of
-active oxygen, called oxygen free radicals. One of the most
-important of these is the superoxide free radical O2−, and
-another is the peroxide radical in the form of hydrogen
-peroxide. Even when the tissue Po2 is normal at the level
+## SATURATION OF HEMOGLOBIN WITH OXYGEN AT DIFFERENT ALTITUDES
 
-of 40 mm Hg, small amounts of free radicals are continually being formed from the dissolved O2. Fortunately, the
-tissues also contain several enzymes that rapidly remove
-these free radicals, including peroxidases, catalases, and
-superoxide dismutases. Therefore, as long as the hemoglobin- O2 buffering mechanism maintains a normal tissue Po2, the oxidizing free radicals are removed rapidly
+Figure 44-1 shows arterial blood O2 saturation at different altitudes while a person is breathing air and while breathing O2.
 
-enough that they have little or no effect in the tissues.
-Above a critical alveolar Po2 (i.e., > ≈2 atm Po2), the
-hemoglobin-O2 buffering mechanism fails, and the tissue
-Po2 can then rise to hundreds or thousands of mm Hg. At
-these high levels, the amounts of oxidizing free radicals
-literally swamp the enzyme systems designed to remove
-them, and now they can have serious destructive and even
-Depth (feet/meters)
-Sea level
-33/10.1
-66/20.1
-100/30.5
-133/40.5
-166/50.6
-200/61.0
-300/91.4
-400/121.9
-500/152.4
-Atmosphere(s)
-1 liter Sea level
-33 ft	1/ 2 liter
-1/ 4 liter
-1/ 8 liter
-1
-2
-3
-4
-5
-6
-7
-100 ft
-233 ft
+### Breathing Air
 
+Up to an altitude of about 10,000 feet, even when air is breathed, the arterial O2 saturation remains at least as high as 90%.
 
-> **Figure 45- 1. Effect of sea depth on pressure (top) and on gas volume (bottom). 0 	760 Oxygen poisoning Oxygen-hemoglobin dissociation curve B A Total O2 in blood Combined with hemoglobin Dissolved in water of blood Normal alveolar oxygen pressure 1560 	2280 	3040 Oxygen partial pressure in lungs (mm Hg) Oxygen in blood (volumes %) 0 5**
+Above 10,000 feet, the arterial O2 saturation falls rapidly:
+- At 20,000 feet: slightly less than 70%
+- At still higher altitudes: even lower
 
+### Breathing Pure Oxygen
 
-> **Figure 45- 2. Quantity of O2 dissolved in the fluid of the blood and in combination with hemoglobin at very high Po2 values.**
+When a person breathes pure O2 instead of air, most of the space in the alveoli formerly occupied by nitrogen becomes occupied by O2.
+
+At 30,000 feet, an aviator could have an alveolar PO2 as high as 139 mm Hg instead of 18 mm Hg when breathing air.
+
+The saturation remains above 90% until the aviator ascends to about 39,000 feet.
+
+Then it falls rapidly to about 50% at about 47,000 feet.
+
+## THE "CEILING" — BREATHING AIR VS BREATHING OXYGEN
+
+An aviator breathing pure O2 in an unpressurized airplane can ascend to far higher altitudes than one breathing air.
+
+The arterial saturation at 47,000 feet when breathing O2 is about 50%, which is equivalent to the arterial O2 saturation at 23,000 feet when breathing air.
+
+An unacclimatized person usually can remain conscious until the arterial O2 saturation falls to 50%.
+
+**Therefore:**
+- **Ceiling for breathing air:** ~23,000 feet (short exposure)
+- **Ceiling for breathing pure O2:** ~47,000 feet (provided equipment operates perfectly)
+
+## ACUTE EFFECTS OF HYPOXIA
+
+### Symptoms Beginning at ~12,000 Feet (Unacclimatized)
+
+Some of the important acute effects of hypoxia in the unacclimatized person breathing air, beginning at about 12,000 feet:
+- Drowsiness
+- Lassitude
+- Mental and muscle fatigue
+- Sometimes headache
+- Occasionally nausea
+- Sometimes euphoria
+
+### Progressive Symptoms
+
+These effects progress to:
+- **Above 18,000 feet:** Twitchings or seizures
+- **Above 23,000 feet:** Coma, followed shortly thereafter by death
+
+### Impaired Mental Proficiency
+
+One of the most important effects of hypoxia is decreased mental proficiency.
+
+This decreases:
+- Judgment
+- Memory
+- Performance of discrete motor movements
+
+**Example:** If an unacclimatized aviator stays at 15,000 feet for 1 hour, mental proficiency ordinarily falls to about 50% of normal.
+
+After 18 hours at this level, it falls to about 20% of normal.
+
+## ACCLIMATIZATION TO LOW PO2
+
+A person remaining at high altitudes for days, weeks, or years becomes more and more acclimatized to the low PO2.
+
+After acclimatization:
+- It becomes possible for the person to work harder without hypoxic effects
+- It becomes possible to ascend to still higher altitudes
+
+### Principal Means of Acclimatization
+
+| Mechanism | Description |
+|-----------|-------------|
+| **Increased pulmonary ventilation** | Peripheral chemoreceptors stimulate increased ventilation |
+| **Increased red blood cells** | More hemoglobin to carry oxygen |
+| **Increased diffusing capacity** | Better gas exchange in lungs |
+| **Increased tissue vascularity** | More capillaries deliver oxygen to tissues |
+| **Improved cellular O2 utilization** | Cells use oxygen more efficiently |
+
+### Increased Pulmonary Ventilation — Role of Arterial Chemoreceptors
+
+Immediate exposure to low PO2 stimulates the arterial chemoreceptors.
+
+This stimulation increases alveolar ventilation to a maximum of about 1.65 times normal.
+
+This compensation occurs within seconds for the high altitude and alone allows the person to function reasonably well.
