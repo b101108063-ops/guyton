@@ -28,7 +28,9 @@ The olfactory nerve fibers leading backward from the bulb are called cranial ner
 
 Both the tract and the bulb are an anterior outgrowth of brain tissue from the base of the brain.
 
-The bulbous enlargement at its end (the olfactory bulb) lies over the cribriform plate, separating the brain cavity from the upper reaches of the nasal cavity.
+The bulbous enlargement at its end (the olfactory bulb) lies over the cribriform plate.
+
+The cribriform plate separates the brain cavity from the upper reaches of the nasal cavity.
 
 The cribriform plate has multiple small perforations through which small nerves pass upward from the olfactory membrane in the nasal cavity to enter the olfactory bulb.
 
@@ -43,6 +45,7 @@ Each bulb has several thousand such glomeruli.
 Each glomerulus is the terminus for about 25,000 axons from olfactory cells.
 
 Each glomerulus is also the terminus for dendrites from:
+
 - About 25 large mitral cells
 - About 60 smaller tufted cells
 
@@ -63,12 +66,14 @@ Specific glomeruli may be the real clue to the analysis of different odor signal
 The olfactory tract enters the brain at the anterior junction between the mesencephalon and cerebrum.
 
 There, the tract divides into two pathways:
+
 1. One passing medially into the medial olfactory area
 2. One passing laterally into the lateral olfactory area
 
 The medial olfactory area represents a very primitive olfactory system.
 
 The lateral olfactory area is the input to:
+
 1. A less old olfactory system
 2. A newer system
 
@@ -83,6 +88,7 @@ This is the brain area most concerned with basic behavior.
 **Understanding the medial olfactory area:** Consider what happens in animals when the lateral olfactory areas on both sides of the brain are removed, and only the medial system remains.
 
 Removal of the lateral areas hardly affects the more basic responses to olfaction:
+
 - Licking the lips
 - Salivation
 - Other feeding responses caused by the smell of food
@@ -93,6 +99,7 @@ Conversely, removal of the lateral areas abolishes the more complicated olfactor
 ### The Less Old Olfactory System — The Lateral Olfactory Area
 
 The lateral olfactory area is composed mainly of:
+
 - Prepyriform cortex
 - Pyriform cortex
 - Cortical portion of the amygdaloid nuclei
@@ -140,6 +147,7 @@ This inhibitory feedback may be a means for sharpening a person's specific abili
 The olfactory receptor neurons are bipolar neurons located in the olfactory epithelium.
 
 Each neuron has:
+
 - An olfactory vesicle with cilia extending into the nasal cavity
 - A single axon passing through the cribriform plate to the olfactory bulb
 
@@ -164,6 +172,7 @@ This depolarization triggers action potentials that travel along the axon to the
 The olfactory system can distinguish thousands of different odors.
 
 This is accomplished through:
+
 - A large family of odorant receptor genes (~400 functional genes in humans)
 - Each receptor type responds to multiple odorants
 - Each odorant activates multiple receptor types
@@ -174,6 +183,7 @@ This is accomplished through:
 The lateral hypothalamus and amygdala mediate olfactory contributions to feeding behavior.
 
 Olfactory signals influence:
+
 - Appetite and satiety
 - Selection of appropriate foods
 - Conditioned food aversions (via amygdala)

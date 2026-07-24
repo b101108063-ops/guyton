@@ -24,9 +24,7 @@ At puberty the spermatogonia begin to undergo mitotic division and continually p
 
 Spermatogenesis occurs in the seminiferous tubules during active sexual life as the result of stimulation by anterior pituitary gonadotropic hormones.
 
-Spermatogenesis begins in the male at an average age of 13 years and continues throughout most of the remainder of life.
-
-It decreases markedly in old age.
+Spermatogenesis begins in the male at an average age of 13 years and continues throughout most of the remainder of life. It decreases markedly in old age.
 
 ## MALE REPRODUCTIVE ANATOMY
 
@@ -72,19 +70,13 @@ Spermatogonia that cross the barrier into the Sertoli cell layer become progress
 
 Each primary spermatocyte undergoes meiotic division to form two secondary spermatocytes.
 
-After another few days, these secondary spermatocytes also divide to form spermatids.
-
-Spermatids are eventually modified to become spermatozoa (sperm).
+After another few days, these secondary spermatocytes also divide to form spermatids. Spermatids are eventually modified to become spermatozoa (sperm).
 
 ### Chromosome Division
 
-During the change from the spermatocyte stage to the spermatid stage, the 46 chromosomes (23 pairs of chromosomes) of the spermatocyte are divided.
+During the change from the spermatocyte stage to the spermatid stage, the 46 chromosomes (23 pairs of chromosomes) of the spermatocyte are divided. Thus, 23 chromosomes go to one spermatid and the other 23 go to the second spermatid.
 
-Thus, 23 chromosomes go to one spermatid and the other 23 go to the second spermatid.
-
-The chromosomal genes are also divided so that only one-half of the genetic characteristics of the eventual fetus are provided by the father.
-
-The other half is derived from the oocyte provided by the mother.
+The chromosomal genes are also divided so that only one-half of the genetic characteristics of the eventual fetus are provided by the father. The other half is derived from the oocyte provided by the mother.
 
 ### Timeline of Spermatogenesis
 
@@ -114,26 +106,24 @@ This pair is composed of:
 | X-chromosome bearing | X | Female (XX) |
 | Y-chromosome bearing | X | Male (XY) |
 
-Half of the mature sperm carry an X chromosome and half carry a Y chromosome.
-
-Therefore, the sex of the offspring is determined by which type of sperm fertilizes the ovum.
+Half of the mature sperm carry an X chromosome and half carry a Y chromosome. Therefore, the sex of the offspring is determined by which type of sperm fertilizes the ovum.
 
 ## TESTOSTERONE AND MALE HORMONES
 
 ### Testosterone Synthesis
 
-Testosterone is synthesized by Leydig cells in the testicular interstitium.
-
-LH (luteinizing hormone) stimulates testosterone production.
+Testosterone is synthesized by Leydig cells in the testicular interstitium. LH (luteinizing hormone) stimulates testosterone production.
 
 ### Functions of Testosterone
 
-1. **Fetal development**: Development of male internal genitalia (Wolffian ducts)
-2. **External genitalia**: Masculinization of penis and scrotum
-3. **Puberty**: Secondary sexual characteristics development
-4. **Spermatogenesis**: Required for sperm maturation
-5. **Libido**: Maintains sexual desire
-6. **Anabolic effects**: Increased muscle mass and bone density
+| Function | Description |
+|----------|-------------|
+| Fetal development | Development of male internal genitalia (Wolffian ducts) |
+| External genitalia | Masculinization of penis and scrotum |
+| Puberty | Secondary sexual characteristics development |
+| Spermatogenesis | Required for sperm maturation |
+| Libido | Maintains sexual desire |
+| Anabolic effects | Increased muscle mass and bone density |
 
 ### Male Secondary Sexual Characteristics
 
@@ -149,9 +139,7 @@ LH (luteinizing hormone) stimulates testosterone production.
 
 ### Follicle-Stimulating Hormone (FSH)
 
-FSH is produced by the anterior pituitary gland.
-
-It stimulates Sertoli cells in the seminiferous tubules.
+FSH is produced by the anterior pituitary gland. It stimulates Sertoli cells in the seminiferous tubules.
 
 Effects of FSH:
 
@@ -161,9 +149,7 @@ Effects of FSH:
 
 ### Luteinizing Hormone (LH)
 
-LH stimulates Leydig cells to produce testosterone.
-
-It is also called interstitial cell-stimulating hormone (ICSH) in males.
+LH stimulates Leydig cells to produce testosterone. It is also called interstitial cell-stimulating hormone (ICSH) in males.
 
 ### Hormonal Feedback in Males
 
@@ -177,21 +163,19 @@ It is also called interstitial cell-stimulating hormone (ICSH) in males.
 
 ### Melatonin Secretion
 
-The pineal gland secretes melatonin primarily at night.
-
-Melatonin secretion is stimulated by darkness and inhibited by light.
+The pineal gland secretes melatonin primarily at night. Melatonin secretion is stimulated by darkness and inhibited by light.
 
 ### Functions of Melatonin
 
-1. **Circadian rhythm regulation**: Helps set the biological clock
-2. **Seasonal reproduction**: Affects reproductive function in some species
-3. **Sleep promotion**: Contributes to sleep onset
+| Function | Description |
+|----------|-------------|
+| Circadian rhythm regulation | Helps set the biological clock |
+| Seasonal reproduction | Affects reproductive function in some species |
+| Sleep promotion | Contributes to sleep onset |
 
 ### Pineal Gland Anatomy
 
-The pineal gland is located in the epithalamus.
-
-It receives sympathetic innervation from the superior cervical ganglia.
+The pineal gland is located in the epithalamus. It receives sympathetic innervation from the superior cervical ganglia.
 
 ## MALE REPRODUCTIVE PHYSIOLOGY SUMMARY
 

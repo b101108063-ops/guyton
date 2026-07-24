@@ -18,17 +18,11 @@ key_points:
 
 While still in the ovary, the ovum is in the primary oocyte stage.
 
-Shortly before it is released from the ovarian follicle, its nucleus divides by meiosis and a first polar body is expelled from the nucleus of the oocyte.
+Shortly before it is released from the ovarian follicle, its nucleus divides by meiosis and a first polar body is expelled from the nucleus of the oocyte. The primary oocyte then becomes the secondary oocyte.
 
-The primary oocyte then becomes the secondary oocyte.
+In this process, each of the 23 pairs of chromosomes loses one of its partners, which becomes incorporated in a polar body that is expelled. This leaves 23 unpaired chromosomes in the secondary oocyte.
 
-In this process, each of the 23 pairs of chromosomes loses one of its partners, which becomes incorporated in a polar body that is expelled.
-
-This leaves 23 unpaired chromosomes in the secondary oocyte.
-
-It is at this time that the ovum, which is still in the secondary oocyte stage, is ovulated into the abdominal cavity.
-
-Then, almost immediately, it enters the fimbriated end of one of the fallopian tubes.
+It is at this time that the ovum, which is still in the secondary oocyte stage, is ovulated into the abdominal cavity. Then, almost immediately, it enters the fimbriated end of one of the fallopian tubes.
 
 ### Entry of the Ovum Into the Fallopian Tube
 
@@ -36,23 +30,15 @@ When ovulation occurs, the ovum, along with a hundred or more attached granulosa
 
 It must then enter one of the fallopian tubes (uterine tubes) to reach the cavity of the uterus.
 
-The fimbriated ends of each fallopian tube fall naturally around the ovaries.
+The fimbriated ends of each fallopian tube fall naturally around the ovaries. The inner surfaces of the fimbriated tentacles are lined with ciliated epithelium. The cilia are activated by estrogen from the ovaries, which causes the cilia to beat toward the opening (ostium) of the involved fallopian tube.
 
-The inner surfaces of the fimbriated tentacles are lined with ciliated epithelium.
-
-The cilia are activated by estrogen from the ovaries, which causes the cilia to beat toward the opening (ostium) of the involved fallopian tube.
-
-One can actually see a slow fluid current flowing toward the ostium.
-
-By this means, the ovum enters one of the fallopian tubes.
+One can actually see a slow fluid current flowing toward the ostium. By this means, the ovum enters one of the fallopian tubes.
 
 ### Success Rate of Ovum Entry
 
 Although one might suspect that many ova fail to enter the fallopian tubes, conception studies suggest up to 98% of ova succeed in this task.
 
-In some recorded cases, women with one ovary removed and the opposite fallopian tube removed have had several children with relative ease of conception.
-
-This demonstrates that ova can even enter the opposite fallopian tube.
+In some recorded cases, women with one ovary removed and the opposite fallopian tube removed have had several children with relative ease of conception. This demonstrates that ova can even enter the opposite fallopian tube.
 
 ## FERTILIZATION OF THE OVUM
 
@@ -82,17 +68,11 @@ The mechanisms used by the sperm for these purposes are presented in Chapter 81.
 
 Once a sperm has entered the ovum (which is still in the secondary oocyte stage of development), the oocyte divides again to form the mature ovum plus a second polar body that is expelled.
 
-The mature ovum still carries in its nucleus (now called the female pronucleus) 23 chromosomes.
+The mature ovum still carries in its nucleus (now called the female pronucleus) 23 chromosomes. One of these chromosomes is the female chromosome, known as the X chromosome.
 
-One of these chromosomes is the female chromosome, known as the X chromosome.
+Meanwhile, the fertilizing sperm has also changed. On entering the ovum, its head swells to form a male pronucleus.
 
-Meanwhile, the fertilizing sperm has also changed.
-
-On entering the ovum, its head swells to form a male pronucleus.
-
-Later, the 23 unpaired chromosomes of the male pronucleus and the 23 unpaired chromosomes of the female pronucleus align themselves.
-
-They re-form a complete complement of 46 chromosomes (23 pairs) in the fertilized ovum or zygote.
+Later, the 23 unpaired chromosomes of the male pronucleus and the 23 unpaired chromosomes of the female pronucleus align themselves. They re-form a complete complement of 46 chromosomes (23 pairs) in the fertilized ovum or zygote.
 
 ## WHAT DETERMINES THE SEX OF THE FETUS?
 
@@ -106,11 +86,7 @@ If a Y chromosome from a sperm is paired with an X chromosome from an ovum, givi
 
 After fertilization has occurred, an additional 3 to 5 days is normally required for transport of the fertilized ovum through the remainder of the fallopian tube into the cavity of the uterus.
 
-This transport is effected mainly by a feeble fluid current in the tube resulting from epithelial secretion plus action of the ciliated epithelium that lines the tube.
-
-The cilia always beat toward the uterus.
-
-Weak contractions of the fallopian tube may also aid passage of the ovum.
+This transport is effected mainly by a feeble fluid current in the tube resulting from epithelial secretion plus action of the ciliated epithelium that lines the tube. The cilia always beat toward the uterus. Weak contractions of the fallopian tube may also aid passage of the ovum.
 
 ### Isthmus Contraction Pattern
 
@@ -118,9 +94,7 @@ The fallopian tubes are lined with a rugged cryptoid surface that impedes passag
 
 The isthmus of the fallopian tube (the last 2 centimeters before the tube enters the uterus) remains spastically contracted for about the first 3 days after ovulation.
 
-After this time, the rapidly increasing progesterone secreted by the ovarian corpus luteum first promotes increasing progesterone receptors on the fallopian tube smooth muscle cells.
-
-Then the progesterone activates the receptors, relaxing the tubules and allowing entry of the ovum into the uterus.
+After this time, the rapidly increasing progesterone secreted by the ovarian corpus luteum first promotes increasing progesterone receptors on the fallopian tube smooth muscle cells. Then the progesterone activates the receptors, relaxing the tubules and allowing entry of the ovum into the uterus.
 
 ### Purpose of Delayed Transport
 
@@ -130,21 +104,15 @@ During this time, the fallopian tube secretory cells produce large quantities of
 
 ## IMPLANTATION OF THE BLASTOCYST IN THE UTERUS
 
-After reaching the uterus, the developing blastocyst usually remains in the uterine cavity an additional 1 to 3 days before it implants in the endometrium.
-
-Implantation ordinarily occurs on about the fifth to seventh day after ovulation.
+After reaching the uterus, the developing blastocyst usually remains in the uterine cavity an additional 1 to 3 days before it implants in the endometrium. Implantation ordinarily occurs on about the fifth to seventh day after ovulation.
 
 Before implantation, the blastocyst obtains its nutrition from the uterine endometrial secretions, called "uterine milk."
 
 ### Implantation Mechanism
 
-Implantation results from the action of trophoblast cells that develop over the surface of the blastocyst.
+Implantation results from the action of trophoblast cells that develop over the surface of the blastocyst. These cells secrete proteolytic enzymes that digest and liquefy the adjacent cells of the uterine endometrium.
 
-These cells secrete proteolytic enzymes that digest and liquefy the adjacent cells of the uterine endometrium.
-
-Some of the fluid and nutrients released are actively transported by the same trophoblast cells into the blastocyst.
-
-This adds more sustenance for growth.
+Some of the fluid and nutrients released are actively transported by the same trophoblast cells into the blastocyst. This adds more sustenance for growth.
 
 Once implantation has taken place, the trophoblast cells and other adjacent cells (from the blastocyst and the uterine endometrium) form the placenta.
 
@@ -152,11 +120,7 @@ Once implantation has taken place, the trophoblast cells and other adjacent cell
 
 ### Human Chorionic Gonadotropin (hCG)
 
-hCG is the earliest pregnancy marker.
-
-It is secreted by trophoblastic cells.
-
-hCG maintains the corpus luteum's progesterone production until the placenta takes over.
+hCG is the earliest pregnancy marker. It is secreted by trophoblastic cells. hCG maintains the corpus luteum's progesterone production until the placenta takes over.
 
 ### Placental Hormones
 
@@ -187,11 +151,7 @@ Only one-third as much ash (containing calcium and other minerals) is found in h
 
 ## LACTATION ENERGY AND METABOLIC DEMANDS
 
-At the height of lactation in the human mother, 1.5 liters of milk may be formed each day.
-
-With twins, even more may be produced.
-
-With this degree of lactation, great quantities of energy are drained from the mother.
+At the height of lactation in the human mother, 1.5 liters of milk may be formed each day. With twins, even more may be produced. With this degree of lactation, great quantities of energy are drained from the mother.
 
 Approximately 650 to 750 kilocalories per liter (or 19 to 22 kilocalories per ounce) are contained in breast milk.
 
@@ -209,31 +169,19 @@ Large amounts of metabolic substrates are also lost from the mother:
 
 Unless the mother is drinking large quantities of milk and has an adequate intake of vitamin D, the output of calcium and phosphate by the lactating mammae will often be much greater than the intake.
 
-To supply the needed calcium and phosphate, the parathyroid glands enlarge greatly.
-
-The bones become progressively decalcified.
-
-The mother's bone decalcification is usually not a big problem during pregnancy, but it can become more important during lactation.
+To supply the needed calcium and phosphate, the parathyroid glands enlarge greatly. The bones become progressively decalcified. The mother's bone decalcification is usually not a big problem during pregnancy, but it can become more important during lactation.
 
 ## ANTIBODIES AND OTHER ANTI-INFECTIOUS AGENTS IN MILK
 
 Not only does milk provide the newborn baby with needed nutrients, but it also provides important protection against infection.
 
-Multiple types of antibodies and other anti-infectious agents are secreted in milk along with nutrients.
+Multiple types of antibodies and other anti-infectious agents are secreted in milk along with nutrients. Several different types of white blood cells are secreted, including both neutrophils and macrophages. Some of these white blood cells are especially lethal to bacteria that could cause deadly infections in newborn babies.
 
-Several different types of white blood cells are secreted, including both neutrophils and macrophages.
-
-Some of these white blood cells are especially lethal to bacteria that could cause deadly infections in newborn babies.
-
-Particularly important are antibodies and macrophages that destroy Escherichia coli bacteria.
-
-These can cause lethal diarrhea in newborns.
+Particularly important are antibodies and macrophages that destroy Escherichia coli bacteria, which can cause lethal diarrhea in newborns.
 
 ### Cow's Milk Limitations
 
-When cow's milk is used to supply nutrition for the baby in place of mother's milk, the protective agents in it are usually of little value.
-
-This is because they are normally destroyed within minutes in the internal environment of the human being.
+When cow's milk is used to supply nutrition for the baby in place of mother's milk, the protective agents in it are usually of little value. This is because they are normally destroyed within minutes in the internal environment of the human being.
 
 ## FERTILIZATION AND IMPLANTATION TIMELINE
 

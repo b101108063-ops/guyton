@@ -15,200 +15,297 @@ key_points:
   - "Antipyretics (aspirin, acetaminophen) inhibit cyclooxygenase and prostaglandin synthesis, lowering the elevated set-point to normalize temperature"
 ---
 
-## Chemical Messenger Systems
+## Normal Body Temperature
 
-The multiple activities of the cells, tissues, and organs of the body are coordinated by several types of chemical messenger systems:
+### Core Temperature Range
 
-| Messenger Type | Description |
-|----------------|-------------|
-| **Neurotransmitters** | Released by axon terminals of neurons into synaptic junctions; act locally to control nerve cell functions |
-| **Endocrine hormones** | Released by glands or specialized cells into circulating blood; influence function of target cells at another location |
-| **Neuroendocrine hormones** | Secreted by neurons into circulating blood; influence function of target cells at another location |
-| **Paracrines** | Secreted by cells into extracellular fluid; affect neighboring target cells of a different type |
-| **Autocrines** | Secreted by cells into extracellular fluid; affect the function of the same cells that produced them |
-| **Cytokines** | Peptides secreted by cells into extracellular fluid; can function as autocrines, paracrines, or endocrine hormones |
+Normal core temperature ranges from **97°F to 99.5°F** (approximately **36°C to 37.5°C**).
 
-**Examples of cytokines:** interleukins and other lymphokines secreted by helper cells that act on other cells of the immune system.
+Oral temperature is typically measured.
 
-**Cytokine hormones** (e.g., leptin) produced by adipocytes are sometimes called **adipokines**.
+Rectal temperature is approximately **1°F higher** than oral temperature.
 
-### Coordination of Chemical Messenger Systems
+### Circadian Variation
 
-The body's chemical messenger systems interact with one another to maintain homeostasis.
+Body temperature follows a circadian rhythm.
 
-For example, the adrenal medullae and the pituitary gland secrete their hormones primarily in response to neural stimuli.
+The nadir (lowest point) occurs in the early morning hours.
 
-The neuroendocrine cells, located in the hypothalamus, have axons that terminate in the posterior pituitary gland and median eminence.
+The peak occurs in the late afternoon or evening.
 
-They secrete several neurohormones, including:
+### Average Normal Temperature
 
-- Antidiuretic hormone
-- Oxytocin
-- Hypophysiotropic hormones (which control the secretion of anterior pituitary hormones)
+The commonly cited average normal temperature is **98.6°F (37°C)**.
 
-### Transport and Action of Endocrine Hormones
+However, normal temperature varies among individuals.
 
-Endocrine hormones are carried by the circulatory system to cells throughout the body.
+## Heat Production and Heat Loss
 
-They bind with receptors and initiate many cell reactions.
+### Heat Production
 
-**Some endocrine hormones affect many different types of cells:**
-- Growth hormone from the anterior pituitary gland causes growth in most parts of the body
-- Thyroxine from the thyroid gland increases the rate of many chemical reactions in almost all the body's cells
+Heat is produced by metabolic processes in the body.
 
-**Other hormones affect mainly specific target tissues** because these tissues have abundant receptors for the hormone:
+Major sources of heat production include:
+- Basal metabolic rate of all cells
+- Muscle contraction
+- Thyroxine and epinephrine effects
+- Activity level
 
-- Adrenocorticotropic hormone (ACTH) specifically stimulates the adrenal cortex
-- Ovarian hormones mainly affect female sex organs and secondary sexual characteristics
+### Heat Loss Mechanisms
 
----
+Heat is lost from the body through several mechanisms:
 
-## Chemical Structure and Synthesis of Hormones
+| Mechanism | Description |
+|-----------|-------------|
+| Radiation | Heat loss via infrared rays (60% of heat loss at rest in neutral environment) |
+| Conduction | Direct transfer of heat to objects in contact with skin (~15%) |
+| Convection | Heat transfer to air currents (significant with air movement) |
+| Evaporation | Heat loss through sweat evaporation (dominant when ambient temp > core) |
 
-Three general classes of hormones exist:
+### Evaporative Heat Loss
 
-| Class | Examples |
-|-------|----------|
-| **Proteins and polypeptides** | Hormones from anterior and posterior pituitary, pancreas (insulin, glucagon), parathyroid gland (PTH) |
-| **Steroids** | Adrenal cortex (cortisol, aldosterone), ovaries (estrogen, progesterone), testes (testosterone), placenta |
-| **Derivatives of amino acid tyrosine** | Thyroid (thyroxine, triiodothyronine), adrenal medullae (epinephrine, norepinephrine) |
+Evaporation is the dominant heat loss mechanism when ambient temperature exceeds core temperature.
 
-There are no known polysaccharides or nucleic acid hormones.
+Approximately **0.6 calories** are lost per milliliter of sweat evaporated.
 
-### Polypeptide and Protein Hormones
+## Thermoregulatory Center — The Hypothalamus
 
-Most hormones in the body are polypeptides and proteins.
+### Hypothalamic Regions
 
-These hormones range in size:
+The hypothalamus serves as the primary thermoregulatory center.
 
-- Small peptides with as few as **three amino acids** (e.g., thyrotropin-releasing hormone)
-- Proteins with almost **200 amino acids** (e.g., growth hormone, prolactin)
+| Region | Function |
+|--------|----------|
+| **Anterior hypothalamus** | Detects temperature via warm-sensitive neurons; initiates heat loss responses |
+| **Posterior hypothalamus** | Initiates heat conservation and heat production when temperature falls |
 
-**Classification:**
-- Polypeptides with 100 or more amino acids: called **proteins**
-- Polypeptides with fewer than 100 amino acids: called **peptides**
+### Afferent Temperature Signals
 
-#### Synthesis and Secretion
+The hypothalamus integrates afferent signals from:
+- Central thermoreceptors in the hypothalamus
+- Peripheral thermoreceptors in the skin
+- Spinal cord thermoreceptors
 
-Protein and peptide hormones are synthesized on the rough end of the endoplasmic reticulum of endocrine cells.
+### Heat Conservation Mechanisms
 
-They are usually synthesized first as larger, biologically inactive **preprohormones**.
+When core temperature falls, the posterior hypothalamus initiates:
+- Vasoconstriction of skin blood vessels
+- Piloerection (goosebumps)
+- Increased metabolic rate
+- shivering
 
-These are cleaved to form smaller **prohormones** in the endoplasmic reticulum.
+### Heat Loss Mechanisms
 
-Prohormones are transferred to the Golgi apparatus for packaging into secretory vesicles.
+When core temperature rises, the anterior hypothalamus initiates:
+- Vasodilation of skin blood vessels
+- Sweating
+- Decreased metabolic rate
 
-Enzymes in the vesicles cleave the prohormones to produce:
+## Skin Blood Flow and Thermal Conductance
 
-- Smaller, biologically active hormones
-- Inactive fragments
+### Blood Flow Variation
 
-The vesicles are stored within the cytoplasm.
+Skin blood flow can vary **8-fold** between full vasoconstriction and full vasodilation.
 
-Many are bound to the cell membrane until secretion is needed.
+This accounts for most change in thermal conductance.
 
-Secretion occurs when secretory vesicles fuse with the cell membrane.
+### Vasoconstriction
 
-The granular contents are extruded into the interstitial fluid or directly into the bloodstream by **exocytosis**.
+Full vasoconstriction minimizes blood flow to the skin.
 
-#### Secretion Stimuli
+This reduces heat loss from the body surface.
 
-In many cases, the stimulus for exocytosis is increased cytosolic calcium concentration caused by depolarization of the plasma membrane.
+This is the primary heat conservation mechanism.
 
-In other cases, stimulation of an endocrine cell surface receptor causes:
+### Vasodilation
 
-1. Increased cyclic adenosine monophosphate (cAMP)
-2. Activation of protein kinases
-3. Initiation of hormone secretion
+Full vasodilation maximizes blood flow to the skin.
 
-Peptide hormones are **water soluble**, allowing them to enter the circulatory system easily and be carried to target tissues.
+This increases heat loss from the body surface.
 
-### Steroid Hormones
+This is the primary heat dissipation mechanism.
 
-Steroid hormones have a chemical structure similar to cholesterol.
+## Insulation
 
-In most cases, they are synthesized from cholesterol.
+### Subcutaneous Fat
 
-They are **lipid soluble** and consist of:
+Subcutaneous adipose tissue provides thermal insulation.
 
-- Three cyclohexyl rings
-- One cyclopentyl ring
+Fat has a thermal conductivity approximately **1/3 that of other tissues**.
 
-Combined into a single structure.
+This reduces heat transfer between the body core and the skin surface.
 
-#### Storage and Secretion
+### Individual Variation
 
-There is usually very little hormone storage in steroid-producing endocrine cells.
+Subcutaneous fat thickness is the primary determinant of interindividual variation in cold tolerance.
 
-However, large stores of **cholesterol esters** in cytoplasmic vacuoles can be rapidly mobilized for steroid synthesis after a stimulus.
+People with more body fat can tolerate cold better than leaner individuals.
 
-Much of the cholesterol in steroid-producing cells comes from plasma.
+## Sweating and Evaporation
 
-There is also de novo synthesis of cholesterol in these cells.
+### Sweat Glands
 
-Because steroids are highly lipid soluble, once synthesized, they can simply diffuse across the cell membrane.
+Sweat glands are exocrine glands in the skin.
 
-They enter the interstitial fluid, then the blood.
+When activated, they secrete sweat onto the skin surface.
 
-### Amine Hormones
+### Evaporative Cooling
 
-The two groups of hormones derived from tyrosine are:
+Evaporation of sweat cools the skin surface.
 
-1. **Thyroid hormones** (thyroxine, triiodothyronine)
-2. **Adrenal medullary hormones** (epinephrine, norepinephrine)
+This is the most effective heat dissipation mechanism when ambient temperature is high.
 
-These are formed by the actions of enzymes in the cytoplasmic compartments of glandular cells.
+### Sweat Rate
 
-#### Thyroid Hormones
+Sweat rate can reach several liters per hour during extreme heat or exercise.
 
-Thyroid hormones are synthesized and stored in the thyroid gland.
+### Fluid Loss
 
-They are incorporated into macromolecules of the protein **thyroglobulin**.
+Prolonged sweating can lead to significant fluid and electrolyte loss.
 
-Thyroglobulin is stored in large follicles within the thyroid gland.
+This can cause dehydration if fluids are not replaced.
 
-Hormone secretion occurs when the amines are split from thyroglobulin.
+## Fever
 
----
+### Definition
 
-## Anatomic Locus of Major Endocrine Glands
+Fever is an elevated core body temperature above the normal range.
 
-The major endocrine glands and tissues of the body include:
+It results from a raised hypothalamic set-point.
 
-| Gland/Location | Hormone Examples |
-|---------------|------------------|
-| Pituitary gland | Growth hormone, TSH, ACTH, FSH, LH, prolactin |
-| Pineal gland | Melatonin |
-| Hypothalamus | releasing/inhibiting hormones |
-| Thymus gland | Thymosin |
-| Parathyroid glands | Parathyroid hormone |
-| Thyroid gland | Thyroxine, calcitonin |
-| Kidneys | Erythropoietin, renin |
-| Pancreas | Insulin, glucagon |
-| Adrenal glands | Cortisol, aldosterone, epinephrine |
-| Adipose tissue | Leptin |
-| Stomach | Gastrin |
-| Small intestine | Cholecystokinin, secretin |
-| Testes (male) | Testosterone |
-| Ovaries (female) | Estrogen, progesterone |
+### Pyrogens
 
----
+Fever is triggered by **pyrogens**, substances that raise the hypothalamic set-point.
 
-## Functions Regulated by Hormone Systems
+#### Exogenous Pyrogens
 
-The multiple hormone systems play a key role in regulating almost all body functions:
+Exogenous pyrogens include:
+- Bacterial endotoxin
+- Lipopolysaccharide (LPS)
+- Other microbial products
 
-- **Metabolism**
-- **Growth and development**
-- **Water and electrolyte balance**
-- **Reproduction**
-- **Behavior**
+#### Endogenous Pyrogens
 
-### Examples of Hormone Functions
+Endogenous pyrogens are cytokines produced by the immune system:
+- **IL-1β** (Interleukin-1 beta)
+- **TNF-α** (Tumor necrosis factor alpha)
+- **IL-6** (Interleukin-6)
 
-| Without This Hormone | Result |
-|---------------------|--------|
-| Growth hormone | Very short stature |
-| Thyroxine and triiodothyronine | Sluggish chemical reactions and behavior |
-| Insulin | Cells cannot use carbohydrates for energy |
-| Sex hormones | No sexual development or function |
+These cytokines act on the hypothalamus.
+
+### Mechanism of Fever
+
+Endogenous pyrogens act on the **organum vasculosum of the lamina terminalis (OVLT)**.
+
+This is a circumventricular organ with poor blood-brain barrier.
+
+Pyrogens induce synthesis of **prostaglandin E₂ (PGE₂)**.
+
+PGE₂ raises the hypothalamic temperature set-point.
+
+The body then initiates heat conservation and production to reach the new set-point.
+
+This causes the characteristic chills and shivering of fever onset.
+
+### Antipyretics
+
+Antipyretic drugs lower fever by inhibiting prostaglandin synthesis.
+
+| Drug | Mechanism |
+|------|----------|
+| Aspirin | Inhibits cyclooxygenase (COX-1 and COX-2) |
+| Acetaminophen | Inhibits cyclooxygenase in the CNS |
+
+These drugs inhibit cyclooxygenase and prostaglandin synthesis.
+
+This lowers the elevated set-point to normalize temperature.
+
+### Benefits of Fever
+
+Fever may have beneficial effects:
+- Enhances immune system function
+- Inhibits some microbial growth
+- May help resolve infections
+
+### Harmful Effects
+
+High fever can be harmful:
+- Increased metabolic rate
+- Increased cardiac workload
+- Seizures (especially in children)
+- Neurological damage in extreme cases
+
+## Heat Stroke
+
+### Definition
+
+Heat stroke is a failure of thermoregulation.
+
+It occurs when core temperature rises above **40°C (104°F)**.
+
+### Mechanism
+
+Heat stroke results from overwhelming heat dissipation mechanisms.
+
+This occurs during:
+- High environmental temperatures
+- Heavy exercise
+- Dehydration
+
+### Symptoms
+
+Heat stroke symptoms include:
+- Altered mental status
+- Confusion
+- Loss of consciousness
+- Hot, dry skin
+- Rapid heartbeat
+
+### Treatment
+
+Emergency treatment includes:
+- Rapid cooling
+- IV fluid resuscitation
+- Supportive care
+
+## Hypothermia
+
+### Definition
+
+Hypothermia is core body temperature below **35°C (95°F)**.
+
+### Causes
+
+Hypothermia results from:
+- Cold environmental exposure
+- Impaired thermoregulation
+- Medical conditions (hypothyroidism, sepsis)
+
+### Stages
+
+| Stage | Temperature |
+|-------|-------------|
+| Mild | 32–35°C (90–95°F) |
+| Moderate | 28–32°C (82–90°F) |
+| Severe | <28°C (<82°F) |
+
+### Effects
+
+Progressive effects include:
+- Shivering (until exhaustion)
+- Confusion
+- Loss of coordination
+- Loss of consciousness
+- Cardiac arrhythmias
+- Death
+
+## Behavioral Temperature Regulation
+
+Beyond autonomic responses, humans use behavioral mechanisms:
+
+- Seeking shade or sunlight
+- Adjusting clothing
+- Modifying activity level
+- Using heating or cooling devices
+
+Behavioral regulation is a critical component of human thermoregulation.

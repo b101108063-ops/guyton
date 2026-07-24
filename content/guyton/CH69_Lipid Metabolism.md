@@ -14,308 +14,391 @@ key_points:
   - "Very-low-density lipoprotein (VLDL) synthesized by the liver transports endogenous triglycerides and cholesterol to peripheral tissues"
 ---
 
-## Peptide Linkages and Protein Structure
+## Chemical Structure of Lipids
 
-### Formation of Peptide Linkages
+### Overview of Lipid Types
 
-In the reaction that forms a peptide linkage:
+Lipids are a diverse group of organic compounds that are insoluble in water but soluble in organic solvents.
 
-- The nitrogen of the amino radical of one amino acid bonds with the carbon of the carboxyl radical of the other amino acid
-- A hydrogen ion is released from the amino radical
-- A hydroxyl ion is released from the carboxyl radical
-- These two ions combine to form a molecule of water
+The main types include:
+- **Triglycerides** (neutral fat) — energy storage
+- **Phospholipids** — cell membrane structure
+- **Cholesterol** — membrane structure and steroid hormone precursor
+- **Fatty acids** — energy metabolism
 
-After the peptide linkage has been formed:
+### Cholesterol
 
-- An amino radical remains at one end
-- A carboxyl radical remains at the opposite end
-- Each of these radicals is capable of combining with additional amino acids to form a peptide chain
+Cholesterol does not contain fatty acid, but its sterol nucleus is synthesized from portions of fatty acid molecules.
 
-Some complicated protein molecules have **many thousands of amino acids** combined by peptide linkages.
+This gives cholesterol many of the physical and chemical properties of other lipids.
 
-Even the smallest protein molecule usually has more than **20 amino acids** combined by peptide linkages.
+### Triglycerides (Neutral Fat)
 
-The average is about **400 amino acids**.
+Triglycerides are used mainly to provide energy for metabolic processes.
 
-### Other Linkages in Protein Molecules
+This function is shared almost equally with carbohydrates.
 
-Some protein molecules are composed of several peptide chains rather than a single chain.
+Some lipids — especially cholesterol, phospholipids, and small amounts of triglycerides — form the membranes of all cells.
 
-These chains are bound to one another by other linkages, often by **hydrogen bonding** between the CO and NH radicals of the peptides.
+These lipids also perform other essential cellular functions.
 
-Many peptide chains are coiled or folded.
+### Basic Chemical Structure of Triglycerides
 
-The successive coils or folds are held in a tight spiral or in other shapes by similar hydrogen bonding and other forces.
+A triglyceride molecule consists of:
+- **Three long-chain fatty acid molecules**
+- **One molecule of glycerol**
 
----
+**Example: Tristearin**
 
-## Transport and Storage of Amino Acids
+| Position | Chemical Group |
+|----------|----------------|
+| Fatty acid 1 | COO–CH₃–CH₂–(CH₂)₁₆ |
+| Fatty acid 2 | COO–CH₃–CH–(CH₂)₁₆ |
+| Fatty acid 3 | COO–CH₃–CH₂–(CH₂)₁₆ |
+| Glycerol backbone | Central connecting molecule |
 
-### Blood Amino Acids
+### Common Fatty Acids in Human Triglycerides
 
-The normal concentration of amino acids in the blood is between **35 and 65 mg/dL**.
+| Fatty Acid | Carbon Chain Length | Saturation |
+|------------|--------------------|-----------|
+| Stearic acid | 18 carbons | Fully saturated |
+| Oleic acid | 18 carbons | One double bond |
+| Palmitic acid | 16 carbons | Fully saturated |
 
-This is an average of about **2 mg/dL** for each of the 20 amino acids, although some are present in far greater amounts than others.
+## Transport of Lipids in the Body
 
-Because the amino acids are relatively strong acids, they exist in the blood principally in the **ionized state**.
+### Chylomicrons — Transport of Triglycerides from the Gastrointestinal Tract
 
-This results from the removal of one hydrogen atom from the NH₂ radical.
+As explained in Chapter 66, almost all dietary fats — except some short-chain fatty acids — are absorbed from the intestines into intestinal lymph.
 
-They account for **2 to 3 milliequivalents** of the negative ions in the blood.
+During digestion, most triglycerides are split into monoglycerides and fatty acids.
 
-The precise distribution of the different amino acids in the blood depends to some extent on the types of proteins eaten.
+While passing through intestinal epithelial cells, monoglycerides and fatty acids are resynthesized into new triglycerides.
 
-The concentrations of at least some individual amino acids are regulated by selective synthesis in the different cells.
+These enter the lymph as minute dispersed droplets called **chylomicrons**.
 
-### Fate of Amino Acids Absorbed From the Gastrointestinal Tract
+### Chylomicron Structure
 
-The products of protein digestion and absorption in the gastrointestinal tract are almost entirely **amino acids**.
+Chylomicron diameters are between **0.08 and 0.6 micron**.
 
-Only rarely are polypeptides or whole protein molecules absorbed from the digestive tract into the blood.
+A small amount of apolipoprotein — mainly **apolipoprotein B** — is adsorbed to outer surfaces.
 
-Soon after a meal, the amino acid concentration in a person's blood rises, but the increase is usually only a few milligrams per deciliter.
+The protein molecules project into surrounding water, increasing suspension stability.
 
-This is for two reasons:
+This prevents adherence to lymphatic vessel walls.
 
-1. **Slow digestion and absorption:** Protein digestion and absorption are usually extended over 2 to 3 hours, which allows only small quantities of amino acids to be absorbed at a time.
+### Chylomicron Composition
 
-2. **Rapid cellular uptake:** After entering the blood, the additional amino acids are absorbed within 5 to 10 minutes by cells throughout the body, especially by the liver.
+| Component | Percentage |
+|-----------|------------|
+| Phospholipids | ~9% |
+| Cholesterol | ~3% |
+| Apolipoproteins | ~1% |
+| Triglycerides | Remainder |
 
-Therefore, large concentrations of amino acids almost never accumulate in the blood and tissue fluids.
+### Chylomicron Transport Pathway
 
-Nevertheless, the turnover rate of the amino acids is so rapid that **many grams of proteins** can be carried from one part of the body to another in the form of amino acids each hour.
+Most cholesterol and phospholipids absorbed from the GI tract enter the chylomicrons.
 
-### Active Transport of Amino Acids Into the Cells
+Chylomicrons are transported upward through the thoracic duct.
 
-The molecules of all the amino acids are much too large to diffuse readily through the pores of the cell membranes.
+They are emptied into circulating venous blood at the juncture of the jugular and subclavian veins.
 
-Therefore, significant quantities of amino acids can move into cells only via **active transport mechanisms**.
+## Removal of Chylomicrons from Blood
 
----
+### Plasma Appearance
 
-## Essential and Nonessential Amino Acids
+About 1 hour after a fat-containing meal, chylomicron concentration in plasma may rise to **1%–2%** of total plasma.
 
-The body can synthesize most amino acids from other compounds.
+Because of their large size, the plasma appears turbid and sometimes yellow.
 
-However, **10 essential amino acids** cannot be synthesized in sufficient quantities and must be obtained from food.
+Chylomicrons have a **half-life of less than 1 hour**.
 
-### Essential Amino Acids
+Plasma becomes clear again within a few hours.
 
-| Amino Acid | Notes |
-|------------|-------|
-| Threonine | Essential |
-| Valine | Essential |
-| Tryptophan | Essential |
-| Isoleucine | Essential |
-| Leucine | Essential |
-| Phenylalanine | Essential |
-| Methionine | Essential |
-| Lysine | Essential |
-| Histidine | Essential (in children) |
-| Arginine | Essential (in children) |
+### Lipoprotein Lipase
 
-### Nonessential Amino Acids
+Most chylomicrons are removed as they pass through capillaries of various tissues.
 
-| Amino Acid | Notes |
-|------------|-------|
-| Alanine | Nonessential |
-| Glycine | Nonessential |
-| Proline | Nonessential |
-| Glutamine | Nonessential |
-| Asparagine | Nonessential |
-| Serine | Nonessential |
-| Cysteine | Nonessential |
-| Aspartic Acid | Nonessential |
-| Glutamic Acid | Nonessential |
-| Tyrosine | Nonessential |
+Tissues especially involved include:
+- Adipose tissue
+- Skeletal muscle
+- Heart
 
----
+These tissues synthesize **lipoprotein lipase** (LPL).
 
-## Deamination and Urea Formation
+LPL is transported to the surface of capillary endothelial cells.
 
-### Deamination of Amino Acids
+LPL hydrolyzes triglycerides of chylomicrons as they contact the endothelial wall.
 
-Deamination is the process of removing the amino group from amino acids.
+This releases **fatty acids and glycerol**.
 
-Excess amino acids in the cells — especially in the liver — induce activation of large quantities of **aminotransferases**.
+### Fate of Released Fatty Acids
 
-These are the enzymes responsible for initiating most deamination.
+Fatty acids released from chylomicrons diffuse into fat cells of adipose tissue and muscle cells.
 
-After deamination, the amino groups are transferred to α-ketoglutaric acid, forming glutamate.
+Once inside cells, fatty acids can be:
+- Used for fuel (oxidation)
+- Re-synthesized into triglycerides (storage)
 
-The glutamate can then undergo oxidative deamination, releasing ammonia.
+New glycerol is supplied by metabolic processes of storage cells.
 
-The cycle can be repeated again and again.
+LPL also hydrolyzes phospholipids, releasing fatty acids for storage.
 
-### Urea Formation by the Liver
+### Chylomicron Remnants
 
-The ammonia released during deamination of amino acids is removed from the blood almost entirely by conversion into **urea**.
+After triglycerides are removed, cholesterol-enriched **chylomicron remnants** remain.
 
-Two molecules of ammonia (NH₃) and one molecule of carbon dioxide (CO₂) combine in the following net reaction:
+These remnants bind to receptors on endothelial cells in liver sinusoids.
 
-```
-2 NH₃ + CO₂ → H₂N-CO-NH₂ + 2 H₂O
-(ammonia)    (carbon dioxide) (urea)    (water)
-```
+**Apolipoprotein E** plays an important role in initiating clearance of these lipoproteins.
 
-Essentially all urea formed in the human body is **synthesized in the liver**.
+## Free Fatty Acid Transport
 
-In the absence of the liver or in persons with serious liver disease, **ammonia accumulates in the blood**.
+### Mechanism
 
-This accumulation of ammonia is extremely toxic, especially to the brain, and can lead to a state called **hepatic coma**.
+When fat stored in adipose tissue is needed elsewhere, it must be transported.
 
-#### Stages of Urea Formation
+It is transported mainly as **free fatty acids (FFA)**.
 
-```
-Ornithine + CO₂ + NH₃
-       ↓ (+H₂O)
-    Citrulline
-       ↓ (+NH₃, −H₂O)
-    Arginine
-       ↓ (Arginase, +H₂O)
-    Urea + Ornithine
-```
+This transport is achieved by hydrolysis of triglycerides back into fatty acids and glycerol.
 
-After its formation, the urea diffuses from the liver cells into the body fluids and is **excreted by the kidneys**.
+### Triglyceride Hydrolysis Stimuli
 
-### Oxidation of Deaminated Amino Acids
+Two main stimuli promote this hydrolysis:
 
-Once amino acids have been deaminated, the resulting **keto acids** can be oxidized to release energy for metabolic purposes.
+1. **Glucose deficiency:** When glucose available to fat cells is inadequate, α-glycerophosphate is also insufficient. Since α-glycerophosphate is required to maintain the glycerol portion of triglycerides, hydrolysis results.
 
-This oxidation usually involves two successive processes:
+2. **Hormone-sensitive lipase activation:** A hormone-sensitive cellular lipase can be activated by several hormones. This promotes rapid hydrolysis of triglycerides.
 
-1. The keto acid is changed into an appropriate chemical substance that can enter the citric acid cycle.
+### Binding to Albumin
 
-2. This substance is degraded by the cycle and used for energy in the same manner that acetyl-CoA derived from carbohydrate and lipid metabolism is used.
+Upon leaving fat cells, fatty acids ionize strongly in plasma.
 
-In general, the amount of adenosine triphosphate formed for each gram of protein that is oxidized is **slightly less** than that formed for each gram of glucose that is oxidized.
+The ionic portion combines immediately with **albumin molecules**.
 
-### Gluconeogenesis and Ketogenesis
+Fatty acids bound this way are called:
+- **Free fatty acids (FFA)**
+- **Nonesterified fatty acids (NEFA)**
 
-Certain deaminated amino acids are similar to the substrates normally used by the cells — mainly the liver cells — to synthesize glucose or fatty acids.
+This distinguishes them from fatty acids existing as:
+1. Esters of glycerol
+2. Cholesterol
+3. Other substances
 
-For example, deaminated **alanine** is pyruvic acid, which can be converted into either glucose or glycogen.
+### Free Fatty Acid Concentration
 
-Alternatively, it can be converted into acetyl-CoA, which can then be polymerized into fatty acids.
+Under resting conditions, the concentration of free fatty acids in plasma is about **15 mg/dL**.
 
-Two molecules of acetyl-CoA can condense to form **acetoacetic acid**, which is one of the ketone bodies.
+This represents only about **0.45 gram** of fatty acids in the entire circulatory system.
 
-The conversion of amino acids into glucose or glycogen is called **gluconeogenesis**.
+Despite this small amount, the rate of turnover is extremely rapid.
 
-The conversion of amino acids into keto acids or fatty acids is called **ketogenesis**.
+**Half the plasma fatty acid is replaced every 2–3 minutes.**
 
-Of the deaminated amino acids:
+At this rate, almost all normal energy requirements can be provided by oxidation of transported free fatty acids.
 
-- **18** can be converted into glucose
-- **19** can be converted into fatty acids
+This can occur without using carbohydrates or proteins for energy.
 
----
+### Conditions Increasing FFA
 
-## Obligatory Degradation of Proteins
+Conditions that increase fat utilization for cellular energy also increase plasma free fatty acid concentration.
 
-When a person eats no proteins, a certain proportion of body proteins is degraded into amino acids and then deaminated and oxidized.
+The concentration sometimes increases **fivefold to eightfold**.
 
-This process involves **20 to 30 grams of protein each day**.
+This especially occurs in:
+- **Starvation**
+- **Diabetes mellitus**
 
-This is called the **obligatory loss of proteins**.
+In both conditions, the person derives little or no metabolic energy from carbohydrates.
 
-To prevent net loss of protein from the body, the average person must ingest a minimum of 20 to 30 grams of protein each day.
+### Fatty Acid Binding Capacity
 
-However, to be on the safe side, a **minimum of 60 to 75 grams** is usually recommended.
+Normally, only about **3 molecules** of fatty acid combine with each molecule of albumin.
 
-### Complete vs. Partial Proteins
+As many as **30 fatty acid molecules** can combine with a single albumin molecule when need is extreme.
 
-The ratios of the different amino acids in the dietary protein must be about the same as the ratios in the body tissues.
+## Lipoprotein Classes
 
-This is necessary if the entire dietary protein is to be fully usable to form new tissue proteins.
+### Overview
 
-If one particular type of essential amino acid is low in concentration, the others become unusable.
+Lipoproteins are spherical particles that transport lipids in plasma.
 
-Cells synthesize either whole proteins or none at all.
+They consist of:
+- Core: Triglycerides and cholesterol esters
+- Surface: Phospholipids, cholesterol, and apolipoproteins
 
-The unusable amino acids are deaminated and oxidized.
+### Classes of Lipoproteins
 
-A protein that has a ratio of amino acids different from that of the average body protein is called a **partial protein** or **incomplete protein**.
+| Lipoprotein | Main Function | Major Lipids |
+|-------------|--------------|--------------|
+| Chylomicrons | Transport dietary fat from intestine | Mostly triglycerides |
+| VLDL | Transport endogenous triglycerides from liver | Triglycerides |
+| IDL | Intermediate (VLDL → LDL) | Triglycerides, cholesterol |
+| LDL | Transport cholesterol to tissues | Cholesterol esters |
+| HDL | Reverse cholesterol transport | Phospholipids, cholesterol |
 
-Such a protein is less valuable for nutrition than is a **complete protein**.
+### LDL and HDL Functions
 
-### Effect of Starvation on Protein Degradation
+**LDL** carries cholesterol to peripheral tissues.
 
-Except for the 20 to 30 grams of obligatory protein degradation each day, the body uses almost entirely carbohydrates or fats for energy, as long as they are available.
+High LDL levels are associated with increased cardiovascular disease risk.
 
-After several weeks of starvation, when the quantities of stored carbohydrates and fats begin to run out, the amino acids of the blood are rapidly deaminated and oxidized for energy.
+**HDL** removes cholesterol from peripheral tissues and transports it to the liver.
 
-From this point on, the proteins of the tissues degrade rapidly — as much as **125 grams daily**.
+High HDL levels are associated with reduced cardiovascular disease risk.
 
-As a result, cellular functions deteriorate precipitously.
+## Fatty Acid Oxidation
 
-Because carbohydrate and fat utilization for energy normally occurs in preference to protein utilization, carbohydrates and fats are called **protein sparers**.
+### Beta-Oxidation
 
----
+Beta-oxidation is the process by which fatty acids are broken down in mitochondria.
 
-## Hormonal Regulation of Protein Metabolism
+Fatty acids are sequentially broken into **2-carbon acetyl-CoA units**.
 
-### Growth Hormone
+Each round of beta-oxidation produces:
+- 1 acetyl-CoA
+- 1 NADH
+- 1 FADH₂
 
-**Growth hormone** causes the tissue proteins to increase.
+### Beta-Oxidation Steps
 
-The precise mechanism by which this increase occurs is not fully understood, but it is believed to result mainly from:
+1. **Activation:** Fatty acid is converted to fatty acyl-CoA (uses 2 ATP)
+2. **Transport:** Carnitine carries fatty acyl-CoA into mitochondria
+3. **Sequential cleavage:** Each cycle removes 2 carbons as acetyl-CoA
 
-- Increased transport of amino acids through the cell membranes
-- Acceleration of the DNA and RNA transcription and translation processes for protein synthesis
-- Decreased oxidation of tissue proteins
+### Energy Yield from Fatty Acid Oxidation
 
-### Insulin
+Example: Stearic acid (18 carbons)
 
-Total lack of insulin reduces protein synthesis to almost zero.
+| Product | Yield |
+|---------|-------|
+| Acetyl-CoA | 9 units |
+| NADH | 8 units |
+| FADH₂ | 8 units |
 
-**Insulin** accelerates transport of some amino acids into cells, which could be the stimulus for protein synthesis.
+Total ATP from complete oxidation: approximately **120 ATP**
 
-Also, insulin reduces protein degradation and increases the availability of glucose to the cells.
+### Odd-Chain vs. Even-Chain Fatty Acids
 
-This reduces the need for amino acids for energy.
+**Even-chain fatty acids:** Yield only acetyl-CoA
 
-### Glucocorticoids
+**Odd-chain fatty acids:** Yield propionyl-CoA (3 carbons) as the final product
 
-**Glucocorticoids** secreted by the adrenal cortex decrease the quantity of protein in most tissues.
+Propionyl-CoA is converted to **succinyl-CoA**, which enters the citric acid cycle.
 
-They increase amino acid concentration in the plasma.
+Succinyl-CoA is a gluconeogenic substrate.
 
-They also increase liver proteins and plasma proteins.
+## Ketone Body Formation
 
-Glucocorticoids increase the rate of breakdown of extrahepatic proteins.
+### Ketogenesis
 
-This makes increased quantities of amino acids available in the body fluids.
+When excess acetyl-CoA accumulates in liver mitochondria, it is converted to ketone bodies.
 
-This allows the liver to synthesize increased quantities of hepatic cellular proteins and plasma proteins.
+The liver is the only organ that significant ketogenesis occurs in.
 
-### Testosterone
+### Ketone Bodies
 
-**Testosterone**, the male sex hormone, causes increased deposition of protein in tissues throughout the body.
+| Ketone Body | Description |
+|-------------|-------------|
+| Acetoacetate | Primary ketone body formed |
+| β-hydroxybutyrate | Most abundant ketone body in blood during starvation |
+| Acetone | Formed by spontaneous decarboxylation of acetoacetate |
 
-The effect is especially notable in the contractile proteins of the muscles — a **30%–50% increase**.
+### Uses of Ketone Bodies
 
-The mechanism of this effect is different from the effect of growth hormone:
+During prolonged fasting or starvation:
+- Ketone bodies become a major energy source for the brain
+- The brain adapts to using ketone bodies (acetoacetate and β-hydroxybutyrate)
+- This reduces glucose requirement and muscle protein breakdown
 
-- **Growth hormone** causes tissues to continue growing almost indefinitely
-- **Testosterone** causes the muscles and some other protein tissues to enlarge for only several months
+### Ketogenic vs. Glucogenic Amino Acids
 
-Once the muscles and other protein tissues have reached a maximum, despite continued administration of testosterone, further protein deposition ceases.
+**Ketogenic amino acids:** Yield acetyl-CoA or acetoacetate (e.g., leucine, lysine)
 
-### Estrogen
+**Glucogenic amino acids:** Yield pyruvate or citric acid cycle intermediates (e.g., alanine, glutamate)
 
-**Estrogen**, the principal female sex hormone, also causes some deposition of protein.
+**Mixed:** Yield both (e.g., isoleucine, tryptophan, phenylalanine, tyrosine)
 
-The effect of estrogen is much less compared with that of testosterone.
+## Fat Storage and Mobilization
 
-### Thyroxine
+### Fat Storage
 
-**Thyroxine** indirectly affects protein metabolism by increasing metabolism of the cells.
+Triglycerides are stored in adipose tissue.
 
-If insufficient carbohydrates and fats are available for energy, thyroxine causes rapid degradation of proteins and uses them for energy.
+Adipose tissue is found:
+- Subcutaneously
+- Around organs
+- In bone marrow
 
-Conversely, if adequate quantities of carbohydrates and fats are available and excess amino acids are also available in the extracellular fluid, thyroxine can actually increase the rate of protein synthesis.
+### Mobilization of Stored Fat
 
-In growing animals or human beings, deficiency of thyroxine causes growth to be greatly inhibited because of lack of protein synthesis.
+When energy is needed, triglycerides are hydrolyzed to fatty acids and glycerol.
 
-It is believed that thyroxine has little specific effect on protein metabolism but does have an important general effect by increasing the rates of both normal anabolic and normal catabolic protein reactions.
+**Hormone-sensitive lipase (HSL)** is the key enzyme.
+
+### Hormonal Regulation
+
+| Hormone | Effect | Mechanism |
+|---------|--------|-----------|
+| Glucagon | Promotes lipolysis | Activates HSL via cAMP |
+| Epinephrine | Promotes lipolysis | Activates HSL via cAMP |
+| ACTH | Promotes lipolysis | Activates HSL via cAMP |
+| Insulin | Inhibits lipolysis | Decreases cAMP |
+| Growth hormone | Promotes lipolysis | Increases lipolysis during prolonged fasting |
+
+### Glycerol Handling
+
+Glycerol released from triglyceride hydrolysis travels to the liver.
+
+Glycerol can be:
+- Used in glycolysis
+- Converted to glucose via gluconeogenesis
+
+## Cholesterol Metabolism
+
+### Sources of Cholesterol
+
+| Source | Percentage |
+|--------|------------|
+| Dietary cholesterol | ~25–30% |
+| Endogenous synthesis | ~70–75% |
+
+### Cholesterol Synthesis
+
+The liver synthesizes most endogenous cholesterol.
+
+The rate-limiting enzyme is **HMG-CoA reductase**.
+
+Cholesterol synthesis requires:
+- Acetyl-CoA
+- NADPH
+- ATP
+
+### Functions of Cholesterol
+
+Cholesterol serves as:
+- Structural component of cell membranes
+- Precursor for steroid hormones
+- Precursor for bile acids
+- Component of myelin sheaths
+
+### Cholesterol Transport
+
+Excess cholesterol is transported back to the liver via **reverse cholesterol transport**.
+
+This process is mediated by **HDL**.
+
+## Summary of Lipid Transport
+
+### Chylomicron Composition Summary
+
+| Component | Description |
+|-----------|-------------|
+| Triglycerides | Principal component (inner core) |
+| Phospholipids | ~9% (outer surface) |
+| Cholesterol | ~3% (inner core) |
+| Apolipoproteins | ~1% (surface; mainly apolipoprotein B) |
+| Size | 0.08–0.6 micron diameter |
+| Transport route | Intestinal lymph → thoracic duct → venous blood |
+| Half-life | Less than 1 hour |

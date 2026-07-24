@@ -26,9 +26,7 @@ During exercise, several cardiovascular adjustments occur to meet the increased 
 
 ### VO2 Max
 
-VO2 max is the gold standard measure of aerobic capacity.
-
-It represents the maximum rate at which oxygen can be consumed during intense exercise.
+VO2 max is the gold standard measure of aerobic capacity. It represents the maximum rate at which oxygen can be consumed during intense exercise.
 
 VO2 max = Cardiac Output × Arteriovenous O2 difference
 
@@ -155,7 +153,7 @@ Fatigue during exercise results from multiple factors:
 
 ## BODY COMPOSITION AND ATHLETIC PERFORMANCE
 
-### somatotype Categories
+### Somatotype Categories
 
 | Type | Characteristics | Suitability |
 |------|----------------|-------------|
@@ -167,10 +165,12 @@ Fatigue during exercise results from multiple factors:
 
 Dehydration significantly impairs exercise performance:
 
-- 1% body weight loss: Measurable decrease in performance
-- 3-5% loss: Significant impairment
-- >7% loss: Heat illness risk
-- >10% loss: Circulatory failure risk
+| Body Weight Loss | Effect |
+|-----------------|--------|
+| 1% | Measurable decrease in performance |
+| 3-5% | Significant impairment |
+| >7% | Heat illness risk |
+| >10% | Circulatory failure risk |
 
 ## ENVIRONMENTAL FACTORS IN SPORTS
 
@@ -215,7 +215,7 @@ At altitude (above 5,000 ft / 1,500 m):
 ### Timing of Nutrition
 
 | Timing | Recommendation |
-|--------|-----------------|
+|--------|----------------|
 | Pre-exercise | 3-4 hours before: High carb, moderate protein, low fat/fiber |
 | During exercise | 30-60 g carb/hour for >60 min exercise |
 | Post-exercise | 1.2 g carb/kg within 30 min; protein supplementation |

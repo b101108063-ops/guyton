@@ -14,29 +14,19 @@ key_points:
 
 ## EXTRACELLULAR FLUID AND PLASMA CALCIUM REGULATION
 
-Extracellular fluid calcium concentration is normally regulated precisely; it seldom rises or falls more than a few percent from the normal value of about 9.4 mg/dl.
+Extracellular fluid calcium concentration is normally regulated precisely. It seldom rises or falls more than a few percent from the normal value of about 9.4 mg/dl.
 
 This is equivalent to 2.4 millimoles of calcium per liter.
 
-This precise control is essential because calcium plays a key role in many physiological processes, including:
+This precise control is essential because calcium plays a key role in many physiological processes.
 
-- Contraction of skeletal, cardiac, and smooth muscles
-- Blood clotting
-- Transmission of nerve impulses
-
-Excitable cells such as neurons are sensitive to changes in calcium ion concentrations.
-
-Increases above normal (hypercalcemia) cause progressive depression of the nervous system.
-
-Conversely, decreases in calcium concentration (hypocalcemia) cause the nervous system to become more excited.
+Excitable cells such as neurons are sensitive to changes in calcium ion concentrations. Increases above normal (hypercalcemia) cause progressive depression of the nervous system. Conversely, decreases in calcium concentration (hypocalcemia) cause the nervous system to become more excited.
 
 ### Calcium Storage in Bone
 
 An important feature of extracellular calcium regulation is that only about 0.1% of the total body calcium is in the extracellular fluid.
 
-About 1% is in the cells and their organelles.
-
-The rest is stored in bones.
+About 1% is in the cells and their organelles. The rest is stored in bones.
 
 Therefore, the bones can serve as large reservoirs, storing excess calcium and releasing calcium when extracellular fluid concentration decreases.
 
@@ -44,9 +34,7 @@ Therefore, the bones can serve as large reservoirs, storing excess calcium and r
 
 Approximately 85% of the body's phosphate is stored in bones.
 
-14% to 15% is in the cells.
-
-Less than 1% is in the extracellular fluid.
+14% to 15% is in the cells. Less than 1% is in the extracellular fluid.
 
 Although extracellular fluid phosphate concentration is not nearly as well regulated as calcium concentration, phosphate serves several important functions and is controlled by many of the same factors that regulate calcium.
 
@@ -87,9 +75,7 @@ These relations were presented in the discussion of acid-base balance in Chapter
 
 Because it is difficult to determine chemically the exact quantities of HPO4= and H2PO4− in the blood, ordinarily the total quantity of phosphate is expressed in terms of milligrams of phosphorus per deciliter of blood.
 
-The average total quantity of inorganic phosphorus represented by both phosphate ions is about 4 mg/dl.
-
-Normal limits vary between 3 to 4 mg/dl in adults and 4 to 5 mg/dl in children.
+The average total quantity of inorganic phosphorus represented by both phosphate ions is about 4 mg/dl. Normal limits vary between 3 to 4 mg/dl in adults and 4 to 5 mg/dl in children.
 
 ## PHYSIOLOGICAL EFFECTS OF CALCIUM AND PHOSPHATE CONCENTRATIONS
 
@@ -105,23 +91,13 @@ When the extracellular fluid concentration of calcium ions falls below normal, t
 
 This is because of increased neuronal membrane permeability to sodium ions, allowing easy initiation of action potentials.
 
-At plasma calcium ion concentrations about 50% below normal, the peripheral nerve fibers become so excitable that they begin to discharge spontaneously.
+At plasma calcium ion concentrations about 50% below normal, the peripheral nerve fibers become so excitable that they begin to discharge spontaneously. This initiates trains of nerve impulses that pass to the peripheral skeletal muscles to elicit tetanic muscle contraction.
 
-This initiates trains of nerve impulses that pass to the peripheral skeletal muscles to elicit tetanic muscle contraction.
-
-Consequently, hypocalcemia causes tetany.
-
-It also occasionally causes seizures because of its action of increasing excitability in the brain.
+Consequently, hypocalcemia causes tetany. It also occasionally causes seizures because of its action of increasing excitability in the brain.
 
 ### Carpopedal Spasm
 
-Figure 80-2 shows tetany in the hand, which usually occurs before tetany develops in most other parts of the body.
-
-This is called carpopedal spasm.
-
-Tetany ordinarily occurs when the blood concentration of calcium falls from its normal level of 9.4 mg/dl to about 6 mg/dl.
-
-This is only 35% below the normal calcium concentration.
+Tetany ordinarily occurs when the blood concentration of calcium falls from its normal level of 9.4 mg/dl to about 6 mg/dl. This is only 35% below the normal calcium concentration.
 
 Tetany is usually lethal at about 4 mg/dl.
 
@@ -150,17 +126,13 @@ These depressive effects begin to appear when the blood level of calcium rises a
 
 They can become marked as the calcium level rises above 15 mg/dl.
 
-When the calcium concentration rises above about 17 mg/dl in the blood, calcium phosphate crystals are likely to precipitate throughout the body.
-
-This condition is discussed later in connection with parathyroid poisoning.
+When the calcium concentration rises above about 17 mg/dl in the blood, calcium phosphate crystals are likely to precipitate throughout the body. This condition is discussed later in connection with parathyroid poisoning.
 
 ## ABSORPTION AND EXCRETION OF CALCIUM AND PHOSPHATE
 
 ### Intestinal Absorption and Fecal Excretion
 
-The usual rates of intake are approximately 1000 mg/day each for calcium and phosphorus.
-
-This is about the amounts in 1 liter of milk.
+The usual rates of intake are approximately 1000 mg/day each for calcium and phosphorus. This is about the amounts in 1 liter of milk.
 
 Normally, divalent cations such as calcium ions are poorly absorbed from the intestines.
 
@@ -194,7 +166,9 @@ This is later excreted in the urine.
 
 The precise regulation of ionized calcium concentration is critical for:
 
-1. **Neuromuscular excitability** - Controls membrane stability
-2. **Cardiac contraction** - Affects QT interval
-3. **Blood coagulation** - Cofactor for clotting factors
-4. **Bone mineralization** - Matrix calcification
+| Function | Role of Calcium |
+|----------|----------------|
+| Neuromuscular excitability | Controls membrane stability |
+| Cardiac contraction | Affects QT interval |
+| Blood coagulation | Cofactor for clotting factors |
+| Bone mineralization | Matrix calcification |

@@ -15,60 +15,174 @@ key_points:
   - "Iron is critical for hemoglobin synthesis and electron transport (cytochromes); iodine is essential for thyroid hormone synthesis; zinc is a cofactor for carbonic anhydrase and many peptidases"
 ---
 
+## Regulation of Food Intake
+
+### Hunger and Satiety Centers
+
+Food intake is regulated by centers in the hypothalamus.
+
+The **hypothalamic arcuate nucleus** contains key neurons for appetite regulation:
+
+| Neuron Type | Effect | Neurotransmitters |
+|-------------|--------|------------------|
+| Orexigenic (NPY/AgRP) | Stimulates hunger | Neuropeptide Y, Agouti-related peptide |
+| Anorexigenic (POMC/CART) | Promotes satiety | Proopiomelanocortin, Cocaine- and amphetamine-regulated transcript |
+
+### Peripheral Signals
+
+The hypothalamus integrates peripheral signals related to energy stores and food intake:
+
+**Leptin:**
+- Secreted by adipocytes (fat cells)
+- Secretion is proportional to adipose tissue mass
+- Inhibits NPY/AgRP neurons
+- Stimulates POMC neurons
+- Overall effect: reduces food intake
+
+**Ghrelin:**
+- Secreted by the stomach
+- Levels rise before meals
+- Stimulates NPY/AgRP neurons
+- Increases appetite
+
+**Insulin:**
+- Secreted by pancreatic β-cells
+- Signals satiety
+- Inhibits food intake
+
+**Glucose:**
+- Acts as a direct metabolic signal
+- Higher glucose levels reduce appetite
+
+## Obesity and Weight Regulation
+
+### Energy Balance
+
+Weight stability requires caloric intake equal to energy expenditure.
+
+Excess energy is stored primarily as fat.
+
+When overfed persistently, body weight increases.
+
+When underfed, body weight decreases.
+
+### Causes of Obesity
+
+Obesity results from:
+- Excessive caloric intake
+- Reduced energy expenditure
+- Combination of both
+
+Genetic factors influence:
+- Basal metabolic rate
+- Fat distribution
+- Appetite regulation
+
+Environmental factors include:
+- Diet composition
+- Physical activity levels
+- Stress and sleep patterns
+
+## Starvation and Metabolic Adaptations
+
+### Early Starvation
+
+During the first few days of starvation:
+- Glycogen stores are depleted (provides ~24 hours of glucose)
+- Gluconeogenesis increases (using amino acids, glycerol, lactate)
+- Protein breakdown begins
+
+### Prolonged Starvation
+
+After glycogen depletion, the body adapts:
+- **Ketogenesis** increases significantly
+- Ketone bodies become a major energy source for the brain
+- Protein breakdown is somewhat spared
+- Muscle protein degradation increases to ~125 g/day
+
+### Protein Sparing
+
+Carbohydrate and fat metabolism spare protein.
+
+During starvation:
+- Initial protein degradation is limited
+- Eventually, protein stores are mobilized for gluconeogenesis
+- This leads to muscle wasting and organ dysfunction
+
 ## Vitamins
 
-### Vitamin E
+### Fat-Soluble Vitamins
 
-Vitamin E is believed to play a protective role in the prevention of oxidation of unsaturated fats.
+#### Vitamin A
 
-In the absence of vitamin E, the quantity of unsaturated fats in the cells becomes diminished.
+Vitamin A is essential for:
+- Vision (retinal pigment)
+- Epithelial cell maintenance
+- Immune function
 
-This causes abnormal structure and function of cellular organelles such as:
+Deficiency causes night blindness and xerophthalmia.
 
-- Mitochondria
-- Lysosomes
-- Cell membrane
+#### Vitamin D
 
-### Vitamin K
+Vitamin D functions as a hormone:
+- Increases calcium absorption from the intestine
+- Promotes bone mineralization
+- Regulates calcium and phosphorus homeostasis
 
-Vitamin K is an essential cofactor to a liver enzyme that adds a carboxyl group to factors II (prothrombin), VII (proconvertin), IX, and X.
+Deficiency causes rickets in children and osteomalacia in adults.
 
-These are all important in blood coagulation.
+#### Vitamin E
+
+Vitamin E protects against oxidation of unsaturated fats.
+
+In the absence of vitamin E:
+- Unsaturated fats in cells become diminished
+- Cellular organelles are abnormally structured (mitochondria, lysosomes, cell membranes)
+
+#### Vitamin K
+
+Vitamin K is an essential cofactor for a liver enzyme.
+
+This enzyme adds a carboxyl group to clotting factors:
+- Factor II (prothrombin)
+- Factor VII (proconvertin)
+- Factor IX
+- Factor X
 
 Without this carboxylation, these coagulation factors are inactive.
 
-Therefore, when vitamin K deficiency occurs, blood clotting is retarded.
+Deficiency causes delayed blood clotting.
 
-Several natural and synthetic compounds exhibit vitamin K activity.
+Vitamin K is synthesized by colonic bacteria, making dietary deficiency rare.
 
-Because vitamin K is synthesized by bacteria in the colon, it is rare for a person to have a bleeding tendency because of vitamin K deficiency in the diet.
+However, when colonic bacteria are destroyed by antibiotics, deficiency can occur rapidly.
 
-However, when the bacteria of the colon are destroyed by administration of large quantities of antibiotic drugs, vitamin K deficiency occurs rapidly.
+### Water-Soluble Vitamins
 
-This is because of the paucity of this compound in the normal diet.
+#### Vitamin B Complex
 
----
+| Vitamin | Function | Deficiency |
+|---------|----------|------------|
+| B₁ (Thiamine) | Coenzyme in carbohydrate metabolism | Beriberi (cardiovascular and neurologic symptoms) |
+| B₂ (Riboflavin) | FMN, FAD cofactors | Cheilosis, glossitis |
+| B₃ (Niacin) | NAD⁺, NADP⁺ cofactors | Pellagra (dermatitis, diarrhea, dementia) |
+| B₆ (Pyridoxine) | Amino acid metabolism coenzyme | Peripheral neuropathy, anemia |
+| B₁₂ (Cobalamin) | Methyl transfer, DNA synthesis | Pernicious anemia, neurologic damage |
+| Folic acid | DNA synthesis | Megaloblastic anemia, neural tube defects |
+| C (Ascorbic acid) | Antioxidant, collagen synthesis | Scurvy (bleeding gums, poor wound healing) |
 
 ## Mineral Metabolism
 
-### Recommended Daily Dietary Intakes of Minerals
+### Major Minerals
 
-| Mineral | Men | Women |
-|---------|-----|-------|
-| Sodium | 1500 mg | 1500 mg |
-| Potassium | 3400 mg | 2600 mg |
-| Chloride | 2300 mg | 2300 mg |
-| Calcium | 1000 mg | 1000 mg |
-| Phosphorus | 700 mg | 700 mg |
-| Iron | 8 mg | 18 mg |
-| Iodine | 150 μg | 150 μg |
-| Fluoride | 4 mg | 3 mg |
-| Magnesium | 420 mg | 320 mg |
-| Molybdenum | 45 mg | 45 mg |
-| Selenium | 55 μg | 55 μg |
-| Copper | 900 μg | 900 μg |
-| Manganese | 2.3 mg | 1.8 mg |
-| Zinc | 11 mg | 8 mg |
+| Mineral | Daily Requirement (Men) | Daily Requirement (Women) | Functions |
+|---------|------------------------|---------------------------|----------|
+| Sodium | 1500 mg | 1500 mg | Fluid balance, nerve function |
+| Potassium | 3400 mg | 2600 mg | Nerve function, muscle contraction |
+| Chloride | 2300 mg | 2300 mg | Fluid balance, HCl production |
+| Calcium | 1000 mg | 1000 mg | Bone structure, muscle contraction, nerve function |
+| Phosphorus | 700 mg | 700 mg | Bone structure, ATP, nucleic acids |
+| Magnesium | 420 mg | 320 mg | Enzyme cofactor, muscle function |
 
 **Notes:**
 - Calcium increases to 1200 mg/day after age 70 (men) and after age 51 (women)
@@ -76,147 +190,131 @@ This is because of the paucity of this compound in the normal diet.
 
 ### Magnesium
 
-Magnesium is about one sixth as plentiful in cells as potassium.
+Magnesium is about one-sixth as plentiful in cells as potassium.
 
-Magnesium is required as a catalyst for many intracellular enzymatic reactions, particularly those related to carbohydrate metabolism.
+It is required as a catalyst for many intracellular enzymatic reactions.
 
-The extracellular fluid magnesium concentration is slight — only **1.8 to 2.5 mEq/L**.
+Particularly important for carbohydrate metabolism.
 
-Increased extracellular concentration of magnesium:
+**Extracellular magnesium concentration:** 1.8–2.5 mEq/L
 
+**Effects of increased extracellular magnesium:**
 - Depresses nervous system activity
-- Depresses skeletal muscle contraction
+- Depresses skeletal muscle contraction (can be blocked by calcium)
 
-This latter effect can be blocked by the administration of calcium.
-
-Low magnesium concentration causes:
-
-- Increased irritability of the nervous system
+**Effects of low magnesium:**
+- Increased nervous system irritability
 - Peripheral vasodilation
 - Cardiac arrhythmias (especially after acute myocardial infarction)
 
 ### Calcium
 
-Calcium is present in the body mainly in the form of calcium phosphate in bone.
+Calcium is present mainly as calcium phosphate in bone.
 
-Excess quantities of calcium ions in extracellular fluid:
-
+**Effects of excess calcium ions:**
 - Can cause the heart to stop in systole
 - Can act as a mental depressant
 
-Low levels of calcium:
-
-- Can cause spontaneous discharge of nerve fibers
+**Effects of low calcium:**
+- Can cause spontaneous nerve fiber discharge
 - Results in tetany
 
 ### Phosphorus
 
 Phosphate is the major anion of intracellular fluid.
 
-Phosphates have the ability to combine reversibly with many coenzyme systems and with multiple other compounds necessary for metabolic processes.
+Phosphates combine reversibly with many coenzyme systems and compounds necessary for metabolic processes.
 
-Important reactions involving phosphates include those related to:
-
+Important reactions involve:
 - Adenosine triphosphate (ATP)
 - Adenosine diphosphate (ADP)
 - Phosphocreatine
 
-Also, bone contains a large amount of calcium phosphate.
-
 ### Iron
 
-Two thirds of the iron in the body is in the form of hemoglobin.
+Two-thirds of body iron is in hemoglobin.
 
-Smaller quantities are present in the liver and bone marrow.
+Smaller quantities are present in liver and bone marrow.
 
-Electron carriers containing iron (especially the cytochromes) are present in the mitochondria of all cells.
+Iron-containing electron carriers (cytochromes) are in mitochondria.
 
-These are essential for most of the oxidation that occurs in the cells.
+These are essential for most cellular oxidation.
 
-Iron is absolutely essential for:
-
-- Transport of oxygen to the tissues
-- Operation of oxidative systems within tissue cells
+**Iron is essential for:**
+- Transport of oxygen to tissues
+- Operation of oxidative systems within cells
 
 Without iron, life would cease within a few seconds.
 
----
-
 ## Important Trace Elements
 
-A few elements are present in the body in such small quantities that they are called **trace elements**.
+A few elements are present in very small quantities — called **trace elements**.
 
-The amounts in foods are also usually minute.
+Without any one of them, a specific deficiency syndrome develops.
 
-Without any one of them, a specific deficiency syndrome is likely to develop.
-
-Three of the most important trace elements are **iodine**, **zinc**, and **fluorine**.
+The three most important are **iodine**, **zinc**, and **fluorine**.
 
 ### Iodine
 
-The best known of the trace elements is iodine.
-
 The entire body contains an average of only **14 milligrams** of iodine.
 
-Iodine is essential for the formation of thyroxine and triiodothyronine.
+Iodine is essential for formation of:
+- Thyroxine (T₄)
+- Triiodothyronine (T₃)
 
-These are the two thyroid hormones essential for maintenance of normal metabolic rates in all cells of the body.
+These thyroid hormones maintain normal metabolic rates in all cells.
 
 ### Zinc
 
-Zinc is an integral part of many enzymes, one of the most important being **carbonic anhydrase**.
+Zinc is an integral part of many enzymes.
 
-Carbonic anhydrase is present in especially high concentration in red blood cells.
+One of the most important is **carbonic anhydrase**.
 
-This enzyme is responsible for:
+Carbonic anhydrase is present in high concentration in red blood cells.
 
-- Rapid combination of carbon dioxide with water in red blood cells of peripheral capillary blood
-- Rapid release of carbon dioxide from pulmonary capillary blood into the alveoli
+It is responsible for:
+- Rapid combination of CO₂ with water in peripheral capillary RBCs
+- Rapid release of CO₂ from pulmonary capillary blood into alveoli
 
 Carbonic anhydrase is also present in:
-
 - Gastrointestinal mucosa
-- Tubules of the kidney
+- Renal tubules
 - Epithelial cells of many glands
-
-Therefore, zinc is essential for many reactions related to carbon dioxide metabolism.
 
 Zinc is also a component of **lactic dehydrogenase**.
 
-This is important for interconversions between pyruvic acid and lactic acid.
+This enzyme is important for interconversions between pyruvic acid and lactic acid.
 
 Finally, zinc is a component of some **peptidases**.
 
-It is important for the digestion of proteins in the gastrointestinal tract.
+It is important for protein digestion in the GI tract.
 
 ### Fluorine
 
 Fluorine does not seem to be a necessary element for metabolism.
 
-However, the presence of a small quantity of fluorine in the body during the period when the teeth are being formed subsequently protects against caries.
+However, a small quantity protects against dental caries (tooth decay).
 
-Fluorine does not make the teeth stronger.
+Fluorine does not make teeth stronger.
 
 It suppresses the cariogenic process.
 
-It has been suggested that fluorine is deposited in the hydroxyapatite crystals of tooth enamel.
+Fluorine may be deposited in hydroxyapatite crystals of tooth enamel.
 
-It combines with and blocks the functions of various trace metals necessary for activation of bacterial enzymes that cause caries.
-
-Therefore, when fluorine is present, the enzymes remain inactive and cause no caries.
+It blocks trace metals necessary for activation of bacterial enzymes that cause caries.
 
 #### Fluorosis
 
-Excessive intake of fluorine causes **fluorosis**.
+Excessive fluorine intake causes **fluorosis**.
 
-In its mild state, fluorosis manifests as **mottled teeth**.
+**Mild fluorosis:** Mottled teeth
 
-In its more severe state, fluorosis causes **enlarged bones**.
+**Severe fluorosis:** Enlarged bones
 
-It has been postulated that fluorine combines with trace metals in some metabolic enzymes, including the phosphatases.
+Fluorine may combine with trace metals in metabolic enzymes, including phosphatases.
 
 Various metabolic systems become partially inactivated.
 
-According to this theory, the mottled teeth and enlarged bones are due to abnormal enzyme systems in the odontoblasts and osteoblasts.
+Mottled teeth and enlarged bones may result from abnormal enzyme systems in odontoblasts and osteoblasts.
 
-Even though the mottled teeth are highly resistant to the development of caries, the structural strength of these teeth may be lessened by the mottling process.
+The mottled teeth, despite being highly resistant to caries, may have reduced structural strength.

@@ -14,6 +14,149 @@ key_points:
   - "Irritable bowel syndrome (IBS) is a functional disorder characterized by visceral hypersensitivity, altered gut motility, and brain-gut axis dysregulation without structural pathology"
 ---
 
+## Peptic Ulcer Disease
+
+### Helicobacter pylori Infection
+
+Helicobacter pylori is a spiral-shaped bacterium that colonizes the gastric mucosa and is a major cause of peptic ulcer disease.
+
+H. pylori produces **urease**, which converts urea to ammonia.
+
+This ammonia neutralizes gastric acid and creates a favorable environment for bacterial survival.
+
+H. pylori also produces **cytotoxins** that directly damage epithelial cells.
+
+The bacteria activate host inflammatory responses, leading to further mucosal injury.
+
+### NSAID-Induced Gastric Damage
+
+NSAIDs cause gastric damage primarily by inhibiting the enzyme **cyclooxygenase-1 (COX-1)**.
+
+COX-1 inhibition reduces prostaglandin synthesis.
+
+Prostaglandins normally:
+- Stimulate mucus and bicarbonate secretion
+- Maintain mucosal blood flow
+- Promote epithelial cell renewal
+
+Without these protective mechanisms, the gastric mucosa becomes vulnerable to acid damage.
+
+### Storage Colon and Absorbing Colon
+
+The large intestine can be divided into two functional regions.
+
+The **absorbing colon** (proximal half) is responsible for fluid and electrolyte absorption.
+
+The **storage colon** (distal half) functions primarily for feces storage until excretion.
+
+## Acute Pancreatitis
+
+### Pathophysiology
+
+Acute pancreatitis results from inappropriate activation of pancreatic enzymes within the pancreas.
+
+This leads to **autodigestion** of pancreatic tissue by its own enzymes.
+
+The two most common causes are:
+- **Gallstones** (obstructing pancreatic duct)
+- **Alcohol** (direct toxic effect on pancreatic acinar cells)
+
+### Clinical Manifestations
+
+When pancreatic enzymes are activated prematurely:
+- Trypsin activates other proteolytic enzymes
+- Elastase damages blood vessel walls
+- Phospholipase A2 damages cell membranes
+
+This cascade leads to inflammation, hemorrhage, and potentially systemic complications.
+
+## Malabsorption Syndromes
+
+### Celiac Disease
+
+Celiac disease is an immune-mediated enteropathy triggered by gluten (gliadin) in genetically susceptible individuals.
+
+These individuals express **HLA-DQ2** or **HLA-DQ8** on antigen-presenting cells.
+
+The immune response leads to **villous atrophy** in the small intestine.
+
+This atrophy reduces the absorptive surface area, leading to malabsorption of nutrients.
+
+### Lactose Intolerance
+
+Lactose intolerance results from deficiency of the brush border enzyme **lactase**.
+
+Without lactase, lactose cannot be hydrolyzed into glucose and galactose.
+
+Undigested lactose causes osmotic diarrhea and bacterial fermentation in the colon.
+
+This condition is prevalent in adults worldwide, with varying prevalence by ethnicity.
+
+## Secretory Diarrhea
+
+### Cholera and Bacterial Enterotoxins
+
+Cholera toxin and similar bacterial enterotoxins cause severe secretory diarrhea.
+
+These toxins activate **cystic fibrosis transmembrane conductance regulator (CFTR)** chloride channels.
+
+CFTR activation leads to massive chloride secretion into the intestinal lumen.
+
+Water follows osmotically, resulting in profuse watery diarrhea.
+
+### Mechanism
+
+The pathophysiology involves:
+- Bacterial toxin binding to intestinal epithelial cells
+- Activation of intracellular signaling pathways
+- Increased chloride channel conductance
+- Sodium and water secretion into the lumen
+- Loss of up to 10+ liters of fluid per day
+
+## Gastroesophageal Reflux Disease (GERD)
+
+### Pathophysiology
+
+GERD results from **transient lower esophageal sphincter (LES) relaxations** that allow gastric contents to reflux into the esophagus.
+
+Contributing factors include:
+- Hiatal hernia (displacement of gastric cardia above the diaphragm)
+- Impaired mucosal defense mechanisms
+- Increased gastric acid secretion
+- Delayed gastric emptying
+
+### Consequences
+
+Repeated acid exposure leads to:
+- Esophagitis (esophageal inflammation)
+- Barrett's esophagus (intestinal metaplasia)
+- Increased risk of esophageal adenocarcinoma
+
+## Irritable Bowel Syndrome (IBS)
+
+### Functional Disorder Characteristics
+
+IBS is a functional gastrointestinal disorder characterized by:
+- **Visceral hypersensitivity** (painful response to normal distension)
+- **Altered gut motility** (abnormal contraction patterns)
+- **Brain-gut axis dysregulation** (impaired communication between CNS and ENS)
+
+### Diagnostic Criteria
+
+IBS is diagnosed based on:
+- Recurrent abdominal pain (at least 1 day/week for 3 months)
+- Association with defecation
+- Change in stool frequency or form
+
+### Subtypes
+
+| IBS Subtype | Characteristics |
+|-------------|-----------------|
+| IBS-C | Constipation-predominant |
+| IBS-D | Diarrhea-predominant |
+| IBS-M | Mixed stool patterns |
+| IBS-U | Unclassified |
+
 ## References
 
 Bharucha AE, Wouters MM, Tack J: Existing and emerging therapies for managing constipation and diarrhea. *Curr Opin Pharmacol* 37:158, 2017.
@@ -51,141 +194,3 @@ Strate LL, Morris AM: Epidemiology, pathophysiology, and treatment of diverticul
 Verheijden S, Boeckxstaens GE: Neuroimmune interaction and the regulation of intestinal immune homeostasis. *Am J Physiol Gastrointest Liver Physiol* 314:G75, 2018.
 
 Wallace JL: Prostaglandins, NSAIDs, and gastric mucosal protection: why doesn't the stomach digest itself? *Physiol Rev* 88:1547, 2008.
-
----
-
-## Metabolism and Energy — Introduction to UNIT XIII
-
-The next few chapters deal with metabolism in the body — the chemical processes that make it possible for the cells to continue living.
-
-It is not the purpose of this text to present the chemical details of all the various cellular reactions, which lie in the discipline of biochemistry.
-
-These chapters are devoted to:
-
-1. A review of the principal chemical processes of the cell
-2. An analysis of their physiological implications, especially the manner in which they fit into overall body homeostasis
-
-### Release of Energy From Foods and "Free Energy"
-
-Many of the chemical reactions in the cells are aimed at making the energy in foods available to the various physiological systems of the cell.
-
-Energy is required for:
-
-- Muscle activity
-- Secretion by the glands
-- Maintenance of membrane potentials by nerve and muscle fibers
-- Synthesis of substances in the cells
-- Absorption of foods from the gastrointestinal tract
-- Many other functions
-
-#### Coupled Reactions
-
-All the energy foods — carbohydrates, fats, and proteins — can be oxidized in the cells, and during this process, large amounts of energy are released.
-
-These same foods can also be burned with pure oxygen outside the body in an actual fire, releasing large amounts of energy, but the energy is released suddenly, all in the form of heat.
-
-The energy needed by the physiologic processes of the cells is not heat but energy to cause:
-
-- Mechanical movement (muscle function)
-- Concentration of solutes (glandular secretion)
-- Many other cell functions
-
-To provide this energy, the chemical reactions must be "coupled" with the systems responsible for these physiologic functions.
-
-This coupling is accomplished by special cellular enzymes and energy transfer systems.
-
-#### "Free Energy"
-
-The amount of energy liberated by complete oxidation of a food is called the **free energy** of food oxidation.
-
-Free energy is generally represented by the symbol **ΔG**.
-
-Free energy is usually expressed in terms of calories per mole of substance.
-
-For example, the amount of free energy liberated by complete oxidation of 1 mole (180 grams) of glucose is **686,000 calories**.
-
-### Adenosine Triphosphate as the "Energy Currency" of the Body
-
-Adenosine triphosphate (ATP) is an essential link between energy-utilizing and energy-producing functions of the body.
-
-For this reason, ATP has been called the **"energy currency"** of the body, and it can be gained and spent repeatedly.
-
-Energy derived from the oxidation of carbohydrates, proteins, and fats is used to convert adenosine diphosphate (ADP) to ATP.
-
-ATP is then consumed by the various reactions of the body that are necessary to maintain and propagate life.
-
-#### Chemical Structure of ATP
-
-ATP is a labile chemical compound that is present in all cells.
-
-ATP is a combination of adenine, ribose, and three phosphate radicals.
-
-The last two phosphate radicals are connected with the remainder of the molecule by **high-energy bonds**, indicated by the symbol **∼**.
-
-The amount of free energy in each of these high-energy bonds per mole of ATP is:
-
-| Condition | Free energy per mole |
-|-----------|---------------------|
-| Standard conditions | ~7,300 calories |
-| Body conditions (temperature and concentrations) | ~12,000 calories |
-
-After loss of one phosphate radical from ATP, the compound becomes **ADP**.
-
-After loss of the second phosphate radical, it becomes **adenosine monophosphate (AMP)**.
-
-#### Interconversions
-
-The interconversions among ATP, ADP, and AMP are:
-
-```
-ATP  ⇌  ADP  +  Pi  (release of ~12,000 cal)
-ADP  ⇌  AMP  +  Pi  (release of ~12,000 cal)
-```
-
-ATP is present everywhere in the cytoplasm and nucleoplasm of all cells.
-
-Essentially all the physiological mechanisms that require energy for operation obtain it directly from ATP (or another similar high-energy compound, guanosine triphosphate — GTP).
-
-The food in the cells is gradually oxidized, and the released energy is used to form new ATP, thus always maintaining a supply of this substance.
-
-All these energy transfers take place via **coupled reactions**.
-
-#### ATP Cycle Summary
-
-| Process | Role |
-|---------|------|
-| Energy production | Oxidation of proteins, carbohydrates, fats → ADP + Pi → ATP |
-| Energy utilization | Active ion transport, muscle contraction, synthesis of molecules, cell division and growth |
-
-### Central Role of Glucose in Carbohydrate Metabolism
-
-The final products of carbohydrate digestion in the alimentary tract are almost entirely glucose, fructose, and galactose.
-
-Glucose represents, on average, about **80%** of these products.
-
-After absorption from the intestinal tract, much of the fructose and almost all the galactose are rapidly converted into glucose in the liver.
-
-Therefore, little fructose and galactose are present in the circulating blood.
-
-**Glucose thus becomes the final common pathway** for transport of almost all carbohydrates to the tissue cells.
-
-In liver cells, appropriate enzymes are available to promote interconversions among the monosaccharides — glucose, fructose, and galactose.
-
-When the liver releases monosaccharides back into the blood, the final product is almost entirely glucose.
-
-The reason for this is that liver cells contain large amounts of **glucose phosphatase**.
-
-Glucose-6-phosphate can be degraded to glucose and phosphate, and the glucose can then be transported through the liver cell membrane back into the blood.
-
-More than **95%** of all the monosaccharides that circulate in the blood are normally the final conversion product, glucose.
-
-### Glucose Transport Through Cell Membranes
-
-Before glucose can be used by the body's tissue cells, it must be transported through the cell membrane into the cellular cytoplasm.
-
-Glucose cannot easily diffuse through the pores of the cell membrane because:
-
-- The maximum molecular weight of particles that can diffuse readily is about **100**
-- Glucose has a molecular weight of **180**
-
-Yet glucose does pass to the interior of the cells with a reasonable degree of ease via specialized glucose transporters (GLUTs).

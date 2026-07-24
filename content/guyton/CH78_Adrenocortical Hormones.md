@@ -20,15 +20,13 @@ Historically, insulin has been associated with "blood sugar," and true enough, i
 
 However, abnormalities of fat metabolism that cause conditions such as acidosis and arteriosclerosis are also important causes of morbidity and death in patients with diabetes mellitus.
 
-Patients with prolonged, untreated diabetes have diminished ability to synthesize proteins which leads to wasting of the tissues and many cellular functional disorders.
+Patients with prolonged, untreated diabetes have diminished ability to synthesize proteins, which leads to wasting of the tissues and many cellular functional disorders.
 
 Therefore, it is clear that insulin affects fat and protein metabolism almost as much as it affects carbohydrate metabolism.
 
 ## INSULIN IS A HORMONE ASSOCIATED WITH ENERGY ABUNDANCE
 
-As we discuss insulin in the next few pages, it will become apparent that insulin secretion is associated with energy abundance.
-
-That is, when a person's diet includes a great abundance of foods that provide energy, especially excess amounts of carbohydrates, insulin secretion increases.
+When a person's diet includes a great abundance of foods that provide energy, especially excess amounts of carbohydrates, insulin secretion increases.
 
 In turn, the insulin plays an important role in storing the excess energy.
 
@@ -168,9 +166,11 @@ It inhibits protein catabolism.
 
 The pancreatic islets (islets of Langerhans) contain several cell types:
 
-- **Beta cells** (60-70%): Secrete insulin
-- **Alpha cells** (20-25%): Secrete glucagon
-- **Delta cells** (5-10%): Secrete somatostatin
-- **F cells/PP cells**: Secrete pancreatic polypeptide
+| Cell Type | Percentage | Secretion |
+|-----------|------------|-----------|
+| Beta cells | 60-70% | Insulin |
+| Alpha cells | 20-25% | Glucagon |
+| Delta cells | 5-10% | Somatostatin |
+| F cells/PP cells | <5% | Pancreatic polypeptide |
 
 Each islet is supplied with capillaries and innervated by autonomic nerve fibers.

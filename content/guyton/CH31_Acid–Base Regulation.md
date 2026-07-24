@@ -81,7 +81,6 @@ By blocking sodium-chloride-potassium co-transport in the luminal membrane of th
 This occurs for two reasons:
 
 1. They greatly increase the quantities of solutes delivered to the distal parts of the nephrons, and these solutes act as osmotic agents to prevent water reabsorption.
-
 2. They disrupt the countercurrent multiplier system by decreasing absorption of ions from the loop of Henle into the medullary interstitium, thereby decreasing the osmolarity of the medullary interstitial fluid.
 
 ### Effects on Urine Concentration and Dilution
@@ -112,9 +111,9 @@ Acetazolamide inhibits the enzyme carbonic anhydrase, which is critical for reab
 
 Carbonic anhydrase is especially abundant in the proximal tubule, the primary site of action of carbonic anhydrase inhibitors. Some carbonic anhydrase is also present in other tubular cells, such as in the intercalated cells of the collecting tubule.
 
----
-
 ## Diuretic Compensatory Mechanisms
+
+When diuretics are administered, several compensatory mechanisms are activated:
 
 | Parameter | Effect of Diuretic |
 |-----------|-------------------|
@@ -130,7 +129,7 @@ Carbonic anhydrase is especially abundant in the proximal tubule, the primary si
 ## Summary of Diuretic Classes
 
 | Class of Diuretic (examples) | Mechanism of Action | Tubular Site of Action |
-|------------------------------|---------------------|------------------------|
+|------------------------------|--------------------|-----------------------|
 | Osmotic diuretics (mannitol) | Inhibit water and solute reabsorption by increasing osmolarity of tubular fluid | Mainly proximal tubules |
 | Loop diuretics (furosemide, bumetanide) | Inhibit Na⁺-K⁺-Cl⁻ co-transport in luminal membrane | Thick ascending loop of Henle |
 | Thiazide diuretics (hydrochlorothiazide, chlorthalidone) | Inhibit Na⁺-Cl⁻ co-transport in luminal membrane | Early distal tubules |

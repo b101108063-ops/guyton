@@ -14,71 +14,203 @@ key_points:
   - "The colon absorbs up to 5-8 liters of fluid daily; bacteria digest cellulose, produce vitamin K and B vitamins, and generate flatus (CO₂, H₂, CH₄)"
 ---
 
-## FORMATION OF FECES
+## Carbohydrate Digestion
 
-About 1500 ml of chyme normally pass through the ileocecal valve into the large intestine each day.
+### Overview
 
-Most of the water and electrolytes in this chyme are absorbed in the colon, usually leaving less than 100 ml of fluid to be excreted in the feces.
+Carbohydrates are digested into monosaccharides for absorption.
 
-Essentially all the ions are absorbed, leaving only 1 to 5 mEq each of sodium and chloride ions to be lost in the feces.
+The final monosaccharide products include glucose (>80%), galactose, and fructose.
 
-Most of the absorption in the large intestine occurs in the proximal half of the colon, giving this portion the name **absorbing colon**.
+These are absorbed into portal blood via the intestinal mucosa.
 
-The distal colon functions principally for feces storage until a propitious time for feces excretion and is therefore called the **storage colon**.
+### Enzymatic Breakdown
 
-### Absorption and Secretion of Electrolytes and Water
+Salivary amylase begins starch hydrolysis in the mouth.
 
-The mucosa of the large intestine has a high capability for active absorption of sodium.
+Pancreatic amylase continues hydrolysis in the small intestine, producing maltose and small glucose polymers.
 
-The electrical potential gradient created by sodium absorption causes chloride absorption as well.
+Intestinal brush border enzymes complete digestion:
+- **Maltase** hydrolyzes maltose to two glucose molecules
+- **α-dextrinase** hydrolyzes α-dextrins to glucose
+- **Sucrase** hydrolyzes sucrose to glucose and fructose
+- **Lactase** hydrolyzes lactose to glucose and galactose
 
-The tight junctions between the epithelial cells of the large intestinal epithelium are much tighter than those of the small intestine.
+### Absorption of Monosaccharides
 
-This characteristic prevents significant amounts of back-diffusion of ions through these junctions.
+Monosaccharides are absorbed primarily by active transport and facilitated diffusion.
 
-This allows the large intestinal mucosa to absorb sodium ions far more completely — that is, against a much higher concentration gradient — than can occur in the small intestine.
+Glucose and galactose are absorbed via **SGLT1** (sodium-glucose cotransporter 1).
 
-This is especially true when large quantities of aldosterone are available because aldosterone greatly enhances sodium transport capability.
+Fructose is absorbed via **GLUT5** (facilitated diffusion).
 
-The mucosa of the large intestine secretes HCO₃⁻ while simultaneously absorbing an equal number of chloride ions in an exchange transport process.
+All monosaccharides then enter the portal circulation via **GLUT2** transporters in hepatocyte membranes.
 
-The HCO₃⁻ helps neutralize the acidic end products of bacterial action in the large intestine.
+## Protein Digestion
 
-Absorption of sodium and chloride ions creates an osmotic gradient across the large intestinal mucosa, which in turn causes absorption of water.
+### Gastric Digestion
 
-### Maximum Absorption Capacity of the Large Intestine
+Protein digestion begins in the stomach.
 
-The large intestine can absorb a maximum of 5 to 8 liters of fluid and electrolytes each day.
+**Pepsin** is the principal gastric proteolytic enzyme, secreted as pepsinogen.
 
-When the total quantity entering the large intestine through the ileocecal valve or by way of large intestine secretion exceeds this amount, the excess appears in the feces as diarrhea.
+Pepsin functions optimally at **pH 2.0–3.0**.
 
-Toxins from cholera or certain other bacterial infections often cause the crypts in the terminal ileum and large intestine to secrete 10 or more liters of fluid each day, leading to severe and sometimes lethal diarrhea.
+HCl from parietal cells activates pepsinogen to pepsin and provides the acidic environment.
 
-### Bacterial Action in the Colon
+### Small Intestine Digestion
 
-Numerous bacteria, especially colon bacilli, are present even normally in the absorbing colon.
+Pancreatic proteolytic enzymes complete protein digestion:
+- **Trypsin** cleaves peptide bonds at lysine and arginine residues
+- **Chymotrypsin** cleaves peptide bonds at aromatic and large hydrophobic residues
+- **Carboxypeptidase** removes amino acids from the carboxyl terminus
+- **Aminopeptidase** removes amino acids from the amino terminus
 
-They are capable of digesting small amounts of cellulose, providing a few calories of extra nutrition for the body.
+These enzymes are secreted as inactive zymogens (trypsinogen, chymotrypsinogen, procarboxypeptidase).
 
-In herbivorous animals, this source of energy is significant, although it is of negligible importance in human beings.
+**Enterokinase** (from duodenal mucosa) activates trypsinogen to trypsin.
 
-Other substances formed as a result of bacterial activity include:
+### Absorption of Amino Acids
 
+Amino acids are absorbed via active transport mechanisms in the small intestine.
+
+Multiple transport systems exist for different types of amino acids:
+- Neutral amino acid transporter
+- Basic amino acid transporter
+- Acidic amino acid transporter
+- Proline and hydroxyproline transporter
+
+Small peptides (dipeptides and tripeptides) can be absorbed via a separate PepT1 transporter.
+
+Peptides are then hydrolyzed intracellularly to individual amino acids.
+
+## Fat Digestion
+
+### Emulsification
+
+Fat digestion requires prior emulsification by **bile salts**.
+
+Bile salts are amphipathic molecules that disperse large fat droplets into smaller micelles.
+
+Emulsification increases the surface area for enzymatic action.
+
+### Enzymatic Hydrolysis
+
+**Pancreatic lipase** is the primary enzyme for triglyceride digestion.
+
+Lipase hydrolyzes triglycerides to:
+- **Monoglycerides**
+- **Free fatty acids**
+
+Colipase is a cofactor that anchors lipase to the lipid-water interface.
+
+### Formation of Micelles
+
+Bile salts form micelles that solubilize monoglycerides and fatty acids.
+
+Micelles transport these products to the intestinal brush border for absorption.
+
+Inside the enterocyte, monoglycerides are re-esterified to triglycerides.
+
+### Transport as Chylomicrons
+
+Absorbed fatty acids are packaged into **chylomicrons**.
+
+Chylomicrons enter the lymphatic vessels (lacteals).
+
+They travel via the thoracic duct to the venous circulation.
+
+Importantly, this pathway **bypasses the liver on first pass**.
+
+## Water and Electrolyte Absorption
+
+### Small Intestine
+
+The small intestine absorbs approximately 8–9 liters of fluid daily.
+
+This includes dietary intake and gastrointestinal secretions.
+
+Water absorption follows osmotic gradients created by solute absorption.
+
+Sodium is absorbed via multiple mechanisms:
+- Active transport (primary)
+- Co-transport with glucose and amino acids
+- Exchange with hydrogen ions
+
+### Large Intestine
+
+The large intestine absorbs approximately 5–8 liters of fluid daily.
+
+Most absorption occurs in the proximal (absorbing) colon.
+
+The distal colon functions primarily for feces storage (storage colon).
+
+## Formation of Feces
+
+### Overview
+
+About **1500 ml** of chyme passes through the ileocecal valve into the large intestine each day.
+
+Most water and electrolytes are absorbed in the colon.
+
+Less than **100 ml** of fluid is typically excreted in feces.
+
+### Electrolyte Absorption
+
+The large intestinal mucosa has high capability for active sodium absorption.
+
+Sodium absorption creates an electrical gradient that drives chloride absorption.
+
+Tight junctions in the large intestine are much tighter than in the small intestine.
+
+This prevents back-diffusion of ions and allows absorption against higher concentration gradients.
+
+**Aldosterone** enhances sodium transport capability when available.
+
+### Bicarbonate Secretion
+
+The large intestinal mucosa secretes HCO₃⁻.
+
+This occurs via exchange transport with chloride absorption.
+
+HCO₃⁻ neutralizes acidic end products of bacterial action.
+
+### Maximum Absorption Capacity
+
+The large intestine can absorb a maximum of **5–8 liters** per day.
+
+When fluid input exceeds this capacity, diarrhea results.
+
+Cholera toxins can cause secretion of **10+ liters** of fluid per day, leading to severe and potentially lethal diarrhea.
+
+## Bacterial Action in the Colon
+
+### Normal Flora
+
+Numerous bacteria, especially colon bacilli, inhabit the large intestine.
+
+Bacteria can digest small amounts of cellulose, providing minimal calories in humans.
+
+This cellulose digestion is more significant in herbivorous animals.
+
+### Bacterial Products
+
+Bacterial activity produces:
 - **Vitamins:** Vitamin K, vitamin B₁₂, thiamine, riboflavin
-- **Gases:** CO₂, hydrogen gas, methane (contribute to flatus)
+- **Gases:** CO₂, hydrogen gas, methane (flatus)
 
-The bacteria-formed vitamin K is especially important because the amount of this vitamin in the daily ingested foods is normally insufficient to maintain adequate blood coagulation.
+Bacterial vitamin K is clinically important because dietary intake is often insufficient for adequate blood coagulation.
 
-### Composition of the Feces
+## Composition of Feces
 
-The feces composition is approximately:
+### General Composition
 
 | Component | Percentage |
 |-----------|------------|
 | Water | ~75% |
 | Solid matter | ~25% |
 
-**Solid matter composition:**
+### Solid Matter Composition
 
 | Component | Percentage |
 |-----------|------------|
@@ -88,8 +220,14 @@ The feces composition is approximately:
 | Protein | 2–3% |
 | Undigested roughage and dried digestive juices | ~30% |
 
-The brown color of feces is caused by stercobilin and urobilin, derivatives of bilirubin.
+### Color and Odor
 
-The odor is caused principally by products of bacterial action, which vary from one person to another depending on each person's colonic bacterial flora and the type of food eaten.
+The brown color of feces is caused by **stercobilin** and **urobilin** (derivatives of bilirubin).
 
-The actual odoriferous products include indole, skatole, mercaptans, and hydrogen sulfide.
+The odor results from products of bacterial action:
+- Indole
+- Skatole
+- Mercaptans
+- Hydrogen sulfide
+
+These products vary between individuals based on colonic bacterial flora and diet.

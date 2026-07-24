@@ -14,193 +14,330 @@ key_points:
   - "The liver contains glucose-6-phosphatase, allowing it to release free glucose into blood, whereas muscle lacks this enzyme and uses glucose-6-phosphate internally"
 ---
 
-## Chemical Structure of Lipids
+## Metabolism and Energy — Introduction
 
-### Cholesterol
+The next few chapters deal with metabolism in the body — the chemical processes that enable cells to continue living.
 
-Cholesterol does not contain fatty acid, but its sterol nucleus is synthesized from portions of fatty acid molecules.
+These chapters do not present chemical details of all cellular reactions (the domain of biochemistry).
 
-This gives cholesterol many of the physical and chemical properties of other lipids.
+Instead, they focus on:
+1. A review of the principal chemical processes of the cell
+2. An analysis of their physiological implications, especially how they fit into overall body homeostasis
 
-### Triglycerides (Neutral Fat)
+## Release of Energy From Foods
 
-Triglycerides are used in the body mainly to provide energy for the different metabolic processes.
+### Free Energy
 
-This function is shared almost equally with carbohydrates.
+Many cellular chemical reactions are aimed at making energy in foods available to physiological systems.
 
-Some lipids — especially cholesterol, phospholipids, and small amounts of triglycerides — are used to form the membranes of all cells of the body.
+Energy is required for:
+- Muscle activity
+- Secretion by glands
+- Maintenance of membrane potentials by nerve and muscle fibers
+- Synthesis of substances in cells
+- Absorption of foods from the gastrointestinal tract
+- Many other functions
 
-These lipids also perform other essential cellular functions.
+The amount of energy liberated by complete oxidation of a food is called **free energy**.
 
-### Basic Chemical Structure of Triglycerides
+Free energy is represented by the symbol **ΔG**.
 
-A triglyceride molecule consists of **three long-chain fatty acid molecules** bound with **one molecule of glycerol**.
+Free energy is expressed in calories per mole of substance.
 
-**Example: Tristearin**
+For example, complete oxidation of 1 mole (180 grams) of glucose releases **686,000 calories**.
 
-| Position | Chemical Group |
-|----------|----------------|
-| Fatty acid 1 | COO–CH₃–CH₂–(CH₂)₁₆ |
-| Fatty acid 2 | COO–CH₃–CH–(CH₂)₁₆ |
-| Fatty acid 3 | COO–CH₃–CH₂–(CH₂)₁₆ |
-| Glycerol backbone | Central connecting molecule |
+### Coupled Reactions
 
-### Fatty Acids Most Commonly Present in Human Triglycerides
+All energy foods — carbohydrates, fats, and proteins — can be oxidized in cells, releasing large amounts of energy.
 
-| Fatty Acid | Carbon Chain Length | Saturation |
-|------------|--------------------|-----------|
-| Stearic acid | 18 carbons | Fully saturated |
-| Oleic acid | 18 carbons | One double bond in middle |
-| Palmitic acid | 16 carbons | Fully saturated |
+If oxidized outside the body (in a fire), energy is released suddenly and all in the form of heat.
 
----
+Cellular physiological processes require energy that is not heat, but energy to cause:
+- Mechanical movement (muscle function)
+- Concentration of solutes (glandular secretion)
+- Many other cell functions
 
-## Transport of Lipids in the Body
+Chemical reactions must be **coupled** with systems responsible for these physiologic functions.
 
-### Transport of Triglycerides and Other Lipids from the Gastrointestinal Tract by Lymph — The Chylomicrons
+This coupling is accomplished by special cellular enzymes and energy transfer systems.
 
-As explained in Chapter 66, almost all the fats in the diet — with the principal exception of a few short-chain fatty acids — are absorbed from the intestines into the intestinal lymph.
+## Adenosine Triphosphate (ATP)
 
-During digestion, most triglycerides are split into monoglycerides and fatty acids.
+### The Energy Currency of the Body
 
-While passing through the intestinal epithelial cells, the monoglycerides and fatty acids are resynthesized into new molecules of triglycerides.
+ATP is an essential link between energy-utilizing and energy-producing functions of the body.
 
-These enter the lymph as minute, dispersed droplets called **chylomicrons**.
+ATP has been called the **"energy currency"** of the body.
 
-Chylomicron diameters are between **0.08 and 0.6 micron**.
+It can be gained and spent repeatedly.
 
-A small amount of apolipoprotein — mainly **apolipoprotein B** — is adsorbed to the outer surfaces of the chylomicrons.
+Energy from oxidation of carbohydrates, proteins, and fats converts adenosine diphosphate (ADP) to ATP.
 
-The remainder of the protein molecules project into the surrounding water, increasing the suspension stability of the chylomicrons in the lymph fluid.
+ATP is then consumed by various reactions necessary to maintain and propagate life.
 
-This prevents their adherence to the lymphatic vessel walls.
+### Chemical Structure of ATP
 
-Most of the cholesterol and phospholipids absorbed from the gastrointestinal tract enter the chylomicrons.
+ATP is a labile chemical compound present in all cells.
 
-Although the chylomicrons are composed principally of triglycerides, they also contain:
+ATP is a combination of:
+- Adenine
+- Ribose
+- Three phosphate radicals
 
-| Component | Percentage |
-|-----------|------------|
-| Phospholipids | ~9% |
-| Cholesterol | ~3% |
-| Apolipoproteins | ~1% |
-| Triglycerides | Remainder |
+The last two phosphate radicals are connected by **high-energy bonds** (symbol **∼**).
 
-The chylomicrons are then transported upward through the thoracic duct.
+| Condition | Free energy per mole |
+|-----------|---------------------|
+| Standard conditions | ~7,300 calories |
+| Body conditions (temperature and concentrations) | ~12,000 calories |
 
-They are emptied into the circulating venous blood at the juncture of the jugular and subclavian veins.
+After loss of one phosphate radical, ATP becomes **ADP**.
 
-### Removal of Chylomicrons from the Blood
+After loss of the second phosphate radical, it becomes **AMP** (adenosine monophosphate).
 
-About 1 hour after a meal containing large quantities of fat, the chylomicron concentration in the plasma may rise to **1% to 2%** of the total plasma.
+### ATP Interconversions
 
-Because of the large size of the chylomicrons, the plasma appears turbid and sometimes yellow.
+| Conversion | Energy Released |
+|-----------|----------------|
+| ATP → ADP + Pi | ~12,000 calories |
+| ADP → AMP + Pi | ~12,000 calories |
 
-The chylomicrons have a **half-life of less than 1 hour**, so the plasma becomes clear again within a few hours.
+### ATP Cycle Summary
 
-The fat of the chylomicrons is removed mainly by the following mechanism:
+| Process | Role |
+|---------|------|
+| Energy production | Oxidation of proteins, carbohydrates, fats → ADP + Pi → ATP |
+| Energy utilization | Active ion transport, muscle contraction, synthesis of molecules, cell division and growth |
 
-#### Chylomicron Triglycerides Are Hydrolyzed by Lipoprotein Lipase
+ATP is present everywhere in the cytoplasm and nucleoplasm of all cells.
 
-Most of the chylomicrons are removed from the circulating blood as they pass through the capillaries of various tissues.
+Essentially all physiological mechanisms requiring energy obtain it directly from ATP (or another similar compound, **GTP** — guanosine triphosphate).
 
-The tissues especially involved are:
+## Central Role of Glucose in Carbohydrate Metabolism
 
-- Adipose tissue
-- Skeletal muscle
-- Heart
+### Overview
 
-These tissues synthesize the enzyme **lipoprotein lipase**, which is transported to the surface of capillary endothelial cells.
+The final products of carbohydrate digestion in the alimentary tract are glucose, fructose, and galactose.
 
-Lipoprotein lipase hydrolyzes the triglycerides of chylomicrons as they come in contact with the endothelial wall.
+Glucose represents about **80%** of these products.
 
-This releases **fatty acids and glycerol**.
+After absorption, much of the fructose and almost all galactose are rapidly converted into glucose in the liver.
 
-The fatty acids released from the chylomicrons — being highly miscible with the membranes of the cells — diffuse into the fat cells of the adipose tissue and muscle cells.
+Therefore, little fructose and galactose circulate in blood.
 
-Once inside these cells, the fatty acids can be used for fuel or again synthesized into triglycerides.
+**Glucose thus becomes the final common pathway** for transport of almost all carbohydrates to tissue cells.
 
-New glycerol is supplied by the metabolic processes of the storage cells.
+### Liver Processing
 
-The lipase also causes hydrolysis of phospholipids, which also releases fatty acids to be stored in the cells.
+In liver cells, appropriate enzymes promote interconversions among monosaccharides.
 
-#### Chylomicron Remnants
+When the liver releases monosaccharides back into blood, the final product is almost entirely glucose.
 
-After the triglycerides are removed from the chylomicrons, the cholesterol-enriched **chylomicron remnants** are rapidly cleared from the plasma.
+The reason is that liver cells contain large amounts of **glucose-6-phosphatase**.
 
-The chylomicron remnants bind to receptors on endothelial cells in the liver sinusoids.
+Glucose-6-phosphate can be degraded to glucose and phosphate.
 
-**Apolipoprotein E** on the surface of the chylomicron remnants — and secreted by liver cells — also plays an important role in initiating clearance of these plasma lipoproteins.
+Glucose can then be transported through the liver cell membrane back into the blood.
 
-### "Free Fatty Acids" Are Transported in the Blood in Combination With Albumin
+More than **95%** of all monosaccharides circulating in blood are glucose.
 
-When fat that has been stored in the adipose tissue is to be used elsewhere in the body to provide energy, it must first be transported from the adipose tissue to the other tissue.
+## Glucose Transport Through Cell Membranes
 
-It is transported mainly in the form of **free fatty acids**.
+### Transport Mechanism
 
-This transport is achieved by hydrolysis of the triglycerides back into fatty acids and glycerol.
+Before glucose can be used by tissue cells, it must be transported through the cell membrane into the cellular cytoplasm.
 
-#### Stimuli That Promote Triglyceride Hydrolysis in Adipose Tissue
+Glucose cannot easily diffuse through cell membrane pores because:
+- The maximum molecular weight of particles that diffuse readily is about **100**
+- Glucose has a molecular weight of **180**
 
-At least two classes of stimuli play important roles in promoting this hydrolysis:
+Glucose passes into cells via specialized glucose transporters (**GLUTs**).
 
-1. **Glucose deficiency:** When the amount of glucose available to the fat cell is inadequate, α-glycerophosphate is also available in insufficient quantities. Because α-glycerophosphate is required to maintain the glycerol portion of triglycerides, the result is hydrolysis of triglycerides.
+### Glucose Transporter Types
 
-2. **Hormone-sensitive lipase activation:** A hormone-sensitive cellular lipase can be activated by several hormones from the endocrine glands. This promotes rapid hydrolysis of triglycerides.
+| Transporter | Location | Function |
+|-------------|----------|----------|
+| GLUT1 | RBCs, brain endothelium | Basal glucose uptake |
+| GLUT2 | Liver, pancreatic β-cells, kidney | Low affinity, high capacity |
+| GLUT3 | Brain neurons | High affinity |
+| GLUT4 | Muscle, adipose tissue | Insulin-responsive |
+| GLUT5 | Small intestine | Fructose transport |
+| SGLT1 | Small intestine | Sodium-glucose cotransporter |
+| SGLT2 | Kidney | Glucose reabsorption |
 
-Upon leaving fat cells, fatty acids ionize strongly in the plasma.
+### Insulin and GLUT4
 
-The ionic portion combines immediately with **albumin molecules** of the plasma proteins.
+Insulin stimulates translocation of **GLUT4** to cell membranes in muscle and adipose tissue.
 
-Fatty acids bound in this manner are called **free fatty acids (FFA)** or **nonesterified fatty acids (NEFA)**.
+This increases glucose uptake in these tissues after meals.
 
-This distinguishes them from other fatty acids in the plasma that exist in the form of:
+## Glycolysis
 
-1. Esters of glycerol
-2. Cholesterol
-3. Other substances
+### Overview
 
-#### Free Fatty Acid Concentration and Turnover
+Glycolysis is the anaerobic breakdown of glucose (or glycogen) to pyruvate or lactate.
 
-The concentration of free fatty acids in the plasma under resting conditions is about **15 mg/dL**.
+It occurs in the cytoplasm of all cells.
 
-This represents a total of only **0.45 gram** of fatty acids in the entire circulatory system.
+One molecule of glucose is converted to two molecules of pyruvate.
 
-Despite the minute amount of free fatty acid in the blood, its rate of "turnover" is extremely rapid.
+### Net Products of Glycolysis (from Glucose)
 
-**Half the plasma fatty acid is replaced by new fatty acid every 2 to 3 minutes.**
+| Product | Yield |
+|---------|-------|
+| ATP | 2 ATP (net) |
+| NADH | 2 NADH |
+| Pyruvate | 2 molecules |
 
-At this rate, almost all the normal energy requirements of the body can be provided by the oxidation of transported free fatty acids.
+### Glycolysis from Glycogen
 
-This can occur without using any carbohydrates or proteins for energy.
+When glycolysis begins from glycogen instead of free glucose:
+- The first step (phosphorylation) is bypassed
+- This saves 1 ATP
+- Result: **4 ATP** produced (gross), but 1 ATP used = **3 ATP net**
 
-Conditions that increase the rate of utilization of fat for cellular energy also increase the free fatty acid concentration in the blood.
+### Anaerobic Fermentation
 
-The concentration sometimes increases **fivefold to eightfold**.
+In the absence of oxygen, pyruvate is converted to lactate by lactate dehydrogenase.
 
-This large increase occurs especially in:
+This regenerates NAD⁺ needed for continued glycolysis.
 
-- **Starvation**
-- **Diabetes mellitus**
+This allows glycolysis to continue when oxygen is scarce.
 
-In both these conditions, the person derives little or no metabolic energy from carbohydrates.
+## Mitochondrial Metabolism
 
-#### Fatty Acid Binding to Albumin
+### Pyruvate Decarboxylation
 
-Under normal conditions, only about **3 molecules** of fatty acid combine with each molecule of albumin.
+Pyruvate enters mitochondria and is converted to acetyl-CoA by **pyruvate dehydrogenase**.
 
-As many as **30 fatty acid molecules** can combine with a single albumin molecule when the need for fatty acid transport is extreme.
+This reaction generates:
+- 1 NADH per pyruvate (2 per glucose)
+- 1 CO₂ per pyruvate (2 per glucose)
 
-This shows how variable the rate of lipid transport can be under different physiological conditions.
+Acetyl-CoA then enters the citric acid cycle.
 
-### Chylomicron Composition Summary
+### The Citric Acid Cycle (Krebs Cycle)
 
-| Component | Description |
-|-----------|-------------|
-| Triglycerides | Principal component (inner core) |
-| Phospholipids | ~9% (outer surface) |
-| Cholesterol | ~3% (inner core) |
-| Apolipoproteins | ~1% (surface; mainly apolipoprotein B) |
-| Size | 0.08–0.6 micron diameter |
-| Transport route | Intestinal lymph → thoracic duct → venous blood |
-| Half-life | Less than 1 hour |
+The citric acid cycle occurs in the mitochondrial matrix.
+
+For each acetyl-CoA (per turn of the cycle):
+
+| Product | Yield |
+|---------|-------|
+| CO₂ | 2 molecules |
+| NADH | 3 molecules |
+| FADH₂ | 1 molecule |
+| GTP (equivalent to ATP) | 1 molecule |
+
+Per glucose molecule (2 acetyl-CoA):
+
+| Product | Yield |
+|---------|-------|
+| CO₂ | 4 molecules |
+| NADH | 6 molecules |
+| FADH₂ | 2 molecules |
+| ATP (or GTP) | 2 molecules |
+
+## Oxidative Phosphorylation
+
+### Electron Transport Chain
+
+The electron transport chain is located in the inner mitochondrial membrane.
+
+NADH and FADH₂ donate electrons to the chain.
+
+Electrons flow through a series of carriers:
+- Complex I (NADH dehydrogenase)
+- Complex II (Succinate dehydrogenase)
+- Coenzyme Q
+- Complex III (Cytochrome bc1)
+- Cytochrome c
+- Complex IV (Cytochrome c oxidase)
+
+### Proton Pumping
+
+As electrons flow, protons (H⁺) are pumped from the mitochondrial matrix to the intermembrane space.
+
+This creates an electrochemical gradient (proton motive force).
+
+### ATP Synthesis
+
+Protons flow back into the matrix through **ATP synthase**.
+
+This flow drives the synthesis of ATP from ADP and Pi.
+
+| Electron Donor | ATP Yield (approx.) |
+|----------------|---------------------|
+| NADH | 2.5 ATP |
+| FADH₂ | 1.5 ATP |
+
+### Total ATP from Glucose
+
+| Stage | ATP from NADH | ATP from FADH₂ | Direct ATP |
+|-------|---------------|----------------|------------|
+| Glycolysis | 2 (cytosolic) | 0 | 2 |
+| Pyruvate decarboxylation | 2 | 0 | 0 |
+| Citric acid cycle | 6 | 2 | 2 |
+| **Total** | **~30-32 ATP** | | |
+
+Note: 2 ATP from glycolysis are considered cytosolic and require shuttle systems to enter mitochondria.
+
+## Glycogen Storage and Breakdown
+
+### Glycogen Synthesis
+
+Glycogen is the storage form of glucose in liver and muscle.
+
+**Glycogen synthase** catalyzes glycogen synthesis from glucose-6-phosphate.
+
+Insulin promotes glycogen synthesis by activating glycogen synthase.
+
+### Glycogenolysis (Breakdown)
+
+**Glycogen phosphorylase** catalyzes breakdown of glycogen to glucose-1-phosphate.
+
+In liver: Glucose-1-phosphate → Glucose-6-phosphate → Glucose (via glucose-6-phosphatase) → Blood
+
+In muscle: Glucose-1-phosphate → Glucose-6-phosphate → Glycolysis (muscle lacks glucose-6-phosphatase)
+
+### Hormonal Regulation
+
+| Hormone | Effect on Glycogen | Mechanism |
+|---------|-------------------|------------|
+| Insulin | Promotes synthesis | Activates glycogen synthase |
+| Glucagon | Promotes breakdown (liver) | Activates glycogen phosphorylase |
+| Epinephrine | Promotes breakdown | Activates glycogen phosphorylase via cAMP |
+
+## Gluconeogenesis
+
+### Overview
+
+Gluconeogenesis is the synthesis of glucose from non-carbohydrate precursors.
+
+This occurs primarily in the liver during fasting or starvation.
+
+### Precursors
+
+Gluconeogenic precursors include:
+- Lactate (from anaerobic glycolysis)
+- Glycerol (from triglyceride breakdown)
+- Amino acids (especially alanine and glutamine)
+- Propionyl-CoA (from odd-chain fatty acids)
+
+### Key Enzymes
+
+Gluconeogenesis requires four key enzymes not in glycolysis:
+- **Pyruvate carboxylase** (pyruvate → oxaloacetate)
+- **Phosphoenolpyruvate carboxykinase** (oxaloacetate → phosphoenolpyruvate)
+- **Fructose-1,6-bisphosphatase** (fructose-1,6-bisphosphate → fructose-6-phosphate)
+- **Glucose-6-phosphatase** (glucose-6-phosphate → glucose)
+
+### Cori Cycle
+
+Lactate produced by muscle during anaerobic glycolysis travels to the liver.
+
+The liver converts lactate back to glucose via gluconeogenesis.
+
+Glucose returns to muscle for energy.
+
+This is the **Cori cycle**.

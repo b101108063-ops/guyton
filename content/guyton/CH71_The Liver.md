@@ -14,81 +14,209 @@ key_points:
   - "First-pass metabolism: drugs and toxins absorbed from the GI tract are largely metabolized by the liver before entering systemic circulation (bioavailability concept)"
 ---
 
+## Hepatic Blood Flow and Microcirculation
+
+### Blood Supply
+
+The liver receives approximately **25% of cardiac output**.
+
+This comes from two sources:
+
+| Source | Percentage | Type of Blood |
+|--------|-----------|--------------|
+| Portal vein | ~75% | Venous blood (from GI tract) |
+| Hepatic artery | ~25% | Oxygenated arterial blood |
+
+The portal vein delivers blood rich in nutrients absorbed from the gastrointestinal tract.
+
+The hepatic artery provides oxygenated blood to meet the liver's high metabolic demands.
+
+### Liver Lobule Structure
+
+The liver lobule is the functional unit of the liver.
+
+Hepatocytes are arranged in plates between sinusoidal capillaries (liver sinusoids).
+
+Blood flows from the portal triads (portal vein, hepatic artery, bile duct) toward the central vein.
+
+### Space of Disse
+
+The **space of Disse** (perisinusoidal space) lies between endothelial cells and hepatocytes.
+
+This space allows free exchange of plasma proteins and macromolecules between blood and hepatocytes.
+
+### Kupffer Cells
+
+**Kupffer cells** are resident macrophages that line the hepatic sinusoids.
+
+They phagocytose bacteria and particulate matter from portal blood.
+
+This function is a key defense mechanism against gut-derived pathogens.
+
+## Bile Secretion and Transport
+
+### Bile Flow Pathway
+
+Bile is secreted by hepatocytes.
+
+The flow pathway is:
+
+```
+Bile canaliculi → Bile ducts → Hepatic duct → Common bile duct
+                                                        ↓
+                              Gallbladder (storage) ←→ Duodenum (entry)
+```
+
+### Functions of Bile
+
+Bile serves two main functions:
+- **Fat digestion:** Bile salts emulsify fats, increasing surface area for pancreatic lipase action
+- **Waste excretion:** Bilirubin, cholesterol, and xenobiotics are excreted in bile
+
+### Gallbladder Storage
+
+The gallbladder stores and concentrates bile between meals.
+
+After a fatty meal, bile is released into the duodenum via gallbladder contraction.
+
+## Metabolic Functions of the Liver
+
+### Carbohydrate Metabolism
+
+The liver maintains blood glucose homeostasis.
+
+It performs the following:
+- Converts glucose to glycogen for storage (glycogenesis)
+- Breaks down glycogen to release glucose (glycogenolysis)
+- Performs gluconeogenesis from non-carbohydrate precursors (amino acids, lactate, glycerol)
+
+The liver contains **glucose-6-phosphatase**, allowing it to release free glucose into blood.
+
+This is in contrast to muscle, which lacks this enzyme.
+
+### Protein Metabolism
+
+The liver is the primary site of amino acid metabolism.
+
+Key functions:
+- **Transamination:** Transfers amino groups between amino acids and keto acids
+- **Deamination:** Removes amino groups for urea synthesis
+- **Urea synthesis:** Converts toxic ammonia to urea for excretion
+- **Synthesis:** Produces most plasma proteins (albumin, fibrinogen, clotting factors)
+
+### Clotting Factor Synthesis
+
+The liver synthesizes all plasma albumin, fibrinogen, and most globulins.
+
+Vitamin K-dependent clotting factors synthesized by the liver include:
+- Factor II (prothrombin)
+- Factor VII
+- Factor IX
+- Factor X
+
+These factors require vitamin K-dependent carboxylation for biological activity.
+
+### Lipid Metabolism
+
+The liver:
+- Synthesizes cholesterol and phospholipids
+- Packages lipids into lipoproteins (VLDL, HDL)
+- Performs beta-oxidation of fatty acids
+- Converts excess acetyl-CoA to ketone bodies (ketogenesis)
+
+## Storage Functions
+
+### Glycogen Storage
+
+The liver can store up to **500 grams** of glycogen.
+
+Glycogen provides a rapidly accessible source of glucose during fasting.
+
+### Vitamin and Mineral Storage
+
+The liver stores:
+| Substance | Storage Form |
+|-----------|-------------|
+| Vitamin A | Retinyl esters |
+| Vitamin D | 25-hydroxyvitamin D |
+| Vitamin E | Tocopherol |
+| Vitamin K | Phylloquinone |
+| Vitamin B₁₂ | Transcobalamin-bound |
+| Iron | Ferritin |
+| Copper | Ceruloplasmin |
+
+## Detoxification and Biotransformation
+
+### First-Pass Metabolism
+
+Drugs and toxins absorbed from the GI tract pass through the liver before entering systemic circulation.
+
+This is called **first-pass metabolism**.
+
+As a result, many drugs have reduced bioavailability when taken orally.
+
+### Phase I and Phase II Reactions
+
+The liver metabolizes drugs and toxins through two main reaction types:
+
+**Phase I reactions (Functionalization):**
+- Oxidation, reduction, hydrolysis
+- Primarily via cytochrome P450 enzymes
+- May activate or inactivate compounds
+
+**Phase II reactions (Conjugation):**
+- Glucuronidation, sulfation, acetylation, glutathione conjugation
+- Generally increases water solubility for excretion
+
+### Hormone Metabolism
+
+The liver metabolizes:
+- Insulin (degradation)
+- Steroid hormones (estrogen, testosterone, cortisol)
+- Thyroid hormones
+- Various other circulating hormones
+
 ## Dietary Balances and Energy Regulation
 
-Proteins, carbohydrates, and fats in the diet provide energy for various body functions or for storage and later use.
+### Energy Balance
 
-Stability of body weight and composition over long periods requires that a person's energy intake and energy expenditure be balanced.
+Proteins, carbohydrates, and fats provide energy for body functions or for storage.
 
-When a person is overfed, and energy intake persistently exceeds expenditure, most of the excess energy is stored as fat, and body weight increases.
+Stability of body weight requires energy intake to equal energy expenditure.
 
-Conversely, loss of body mass and starvation occur when energy intake is insufficient to meet the body's metabolic needs.
+When overfed and energy intake persistently exceeds expenditure, excess energy is stored as fat.
 
-Because different foods contain different proportions of proteins, carbohydrates, fats, minerals, and vitamins, appropriate balances must be maintained among these constituents.
+Body weight increases.
 
-This ensures that all of the body's metabolic systems can be supplied with the requisite materials.
+Conversely, loss of body mass occurs when energy intake is insufficient.
 
 ### Energy Available in Foods
 
-The energy liberated from each gram of carbohydrate as it is oxidized to carbon dioxide and water is **4.1 Calories**.
+| Substance | Energy per Gram | Absorption Rate |
+|-----------|----------------|-----------------|
+| Carbohydrate | 4.1 Calories | ~98% |
+| Fat | 9.3 Calories | ~95% |
+| Protein | 4.35 Calories | ~92% |
 
-The energy liberated from fat is **9.3 Calories**.
+Average physiologically available energy per gram:
 
-The energy liberated from metabolism of the average dietary protein as each gram is oxidized to carbon dioxide, water, and urea is **4.35 Calories**.
-
-These substances vary in the average percentages absorbed from the gastrointestinal tract:
-
-| Substance | Absorption Rate |
-|-----------|----------------|
-| Carbohydrate | ~98% |
-| Fat | ~95% |
-| Protein | ~92% |
-
-The average physiologically available energy in each gram is:
-
-| Foodstuff | Calories per gram |
-|-----------|------------------|
+| Foodstuff | Calories per Gram |
+|-----------|-----------------|
 | Carbohydrate | ~4 |
 | Fat | ~9 |
 | Protein | ~4 |
 
-### Dietary Composition in Different Populations
-
-Although considerable variation exists among different individuals and even in the same person from day to day, the usual diet of Americans provides:
-
-| Nutrient | Percentage of Energy Intake |
-|----------|---------------------------|
-| Protein | ~15% |
-| Fat | ~40% |
-| Carbohydrate | ~45% |
-
-In most non-Western countries, the quantity of energy derived from carbohydrates far exceeds that derived from proteins and fats.
-
-In some parts of the world where meat is scarce, the energy received from fats and proteins combined may be no greater than **15% to 20%**.
-
-### Food Composition Examples
-
-Fat is deceptive in the diet because it usually exists as nearly 100% fat.
-
-Proteins and carbohydrates are mixed in watery media, each normally representing less than 25% of total weight.
-
-Therefore, the fat of one pat of butter mixed with an entire helping of potato sometimes contains as much energy as the potato itself.
-
----
-
 ## Protein Requirements
 
-### Average Daily Protein Requirement
+### Daily Protein Requirement
 
-Twenty to 30 grams of body proteins are degraded daily and used to produce other body chemicals.
+Twenty to 30 grams of body proteins are degraded daily.
 
-All cells must continue to form new proteins to replace those being destroyed.
+All cells must form new proteins to replace those being destroyed.
 
-A supply of protein is necessary in the diet for this purpose.
+An average person can maintain normal protein stores if daily intake is **greater than 30–50 grams**.
 
-An average person can maintain normal stores of protein if the daily intake is **greater than 30 to 50 grams**.
-
-### Protein Quality — Complete vs. Partial Proteins
+### Protein Quality
 
 Some proteins have inadequate quantities of certain essential amino acids.
 
@@ -96,40 +224,43 @@ These cannot be used to replace degraded proteins.
 
 Such proteins are called **partial proteins**.
 
-When partial proteins are present in large quantities in the diet, the daily protein requirement is much greater than normal.
+Proteins derived from animal foodstuffs are generally more complete than vegetable proteins.
 
-Proteins derived from animal foodstuffs are generally more complete than proteins derived from vegetable and grain sources.
+### Kwashiorkor
 
-**Example — Corn protein deficiency:**
-- Corn has inadequate amounts of tryptophan and lysine
-- These are essential amino acids
-- Individuals consuming cornmeal as their principal protein source may develop **kwashiorkor**
+**Kwashiorkor** is a form of severe protein malnutrition.
 
-Kwashiorkor symptoms include:
+Example: Corn protein has inadequate amounts of tryptophan and lysine.
+
+Individuals consuming cornmeal as their principal protein source may develop kwashiorkor.
+
+**Kwashiorkor symptoms:**
 - Failure to grow
 - Lethargy
 - Depressed mentality
 - Edema (caused by low plasma protein concentration)
 
-**Example — Legume protein deficiency:**
-- Food legumes (chick peas, beans) provide relatively rich sources of tryptophan and lysine
-- But they contain inadequate amounts of methionine
-- The proteins of corn and legumes **complement each other**
-- Together they provide all essential amino acids in the diet
+### Complementary Proteins
+
+Food legumes provide relatively rich sources of tryptophan and lysine.
+
+But legumes contain inadequate amounts of methionine.
+
+The proteins of corn and legumes **complement each other**.
+
+Together they provide all essential amino acids.
 
 ### Protein Sparing Effect
 
-When a person's diet contains an abundance of carbohydrates and fats, almost all the body's energy is derived from these two substances.
+When the diet contains abundant carbohydrates and fats, almost all body energy is derived from these substances.
 
 Little energy is derived from proteins.
 
 Therefore, **carbohydrates and fats are said to be protein sparers**.
 
-In starvation, after carbohydrates and fats have been depleted, the body's protein stores are consumed rapidly for energy.
+In starvation, after carbohydrates and fats are depleted, protein stores are consumed rapidly for energy.
 
-This can be at rates approaching several hundred grams per day rather than the normal daily rate of 30 to 50 grams.
-
----
+This can approach several hundred grams per day rather than the normal 30–50 grams.
 
 ## Methods for Determining Metabolic Utilization
 
@@ -137,25 +268,7 @@ This can be at rates approaching several hundred grams per day rather than the n
 
 The **respiratory quotient (RQ)** is the ratio of carbon dioxide production to oxygen utilization.
 
-It can be used to estimate fat and carbohydrate utilization.
-
-#### Respiratory Quotient Values
-
-When carbohydrates are metabolized with oxygen, exactly one carbon dioxide molecule is formed for each molecule of oxygen consumed.
-
-Therefore, the respiratory quotient for carbohydrates is **1.0**.
-
-When fat is oxidized in the body's cells, an average of 70 carbon dioxide molecules are formed for each 100 molecules of oxygen consumed.
-
-The respiratory quotient for fat therefore averages **0.70**.
-
-When proteins are oxidized by the cells, the average respiratory quotient is **0.80**.
-
-The reason that the respiratory quotients for fats and proteins are lower than those for carbohydrates is that a portion of the oxygen metabolized with these foods is required to combine with the excess hydrogen atoms present in their molecules.
-
-Less carbon dioxide is formed in relation to the oxygen used.
-
-#### Respiratory Quotient Summary
+It estimates fat and carbohydrate utilization.
 
 | Substrate | Respiratory Quotient |
 |-----------|---------------------|
@@ -163,7 +276,13 @@ Less carbon dioxide is formed in relation to the oxygen used.
 | Fat | 0.70 |
 | Protein | 0.80 |
 
-### Food Composition Table
+When carbohydrates are metabolized with oxygen, exactly one CO₂ molecule is formed per O₂ molecule consumed.
+
+When fat is oxidized, an average of 70 CO₂ molecules are formed per 100 O₂ molecules consumed.
+
+The RQ for fats and proteins is lower because some oxygen is required to combine with excess hydrogen atoms.
+
+### Food Composition Examples
 
 | Food | Protein (%) | Fat (%) | Carbohydrate (%) | Fuel Value per 100g (Calories) |
 |------|-------------|---------|------------------|--------------------------------|

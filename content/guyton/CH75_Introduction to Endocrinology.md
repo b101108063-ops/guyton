@@ -12,41 +12,228 @@ key_points:
   - "Anterior pituitary secretion is controlled by hypothalamic releasing/inhibitory hormones delivered via the hypothalamic-hypophysial portal system"
 ---
 
-## Anterior and Posterior Lobes of the Pituitary Gland
+## Chemical Messenger Systems
 
-The **pituitary gland** (also called the **hypophysis**) is a small gland about **1 centimeter** in diameter and **0.5 to 1 gram** in weight.
+The multiple activities of cells, tissues, and organs are coordinated by several types of chemical messenger systems:
+
+| Messenger Type | Description |
+|----------------|-------------|
+| **Neurotransmitters** | Released by axon terminals into synaptic junctions; act locally to control nerve cell functions |
+| **Endocrine hormones** | Released by glands into circulating blood; influence function of target cells at another location |
+| **Neuroendocrine hormones** | Secreted by neurons into circulating blood; influence function of target cells at another location |
+| **Paracrines** | Secreted into extracellular fluid; affect neighboring target cells of a different type |
+| **Autocrines** | Secreted into extracellular fluid; affect the same cells that produced them |
+| **Cytokines** | Peptides secreted into extracellular fluid; can function as autocrines, paracrines, or endocrine hormones |
+
+### Cytokines
+
+**Examples of cytokines:** interleukins and other lymphokines secreted by helper cells that act on other cells of the immune system.
+
+**Cytokine hormones** (e.g., leptin from adipocytes) are sometimes called **adipokines**.
+
+### Coordination of Chemical Messenger Systems
+
+The body's chemical messenger systems interact to maintain homeostasis.
+
+For example, adrenal medullae and pituitary gland secrete hormones primarily in response to neural stimuli.
+
+Neuroendocrine cells in the hypothalamus have axons terminating in the posterior pituitary and median eminence.
+
+They secrete several neurohormones:
+- Antidiuretic hormone
+- Oxytocin
+- Hypophysiotropic hormones (controlling anterior pituitary secretion)
+
+## Chemical Structure and Synthesis of Hormones
+
+Three general classes of hormones exist:
+
+| Class | Examples |
+|-------|----------|
+| **Proteins and polypeptides** | Pituitary hormones, insulin, glucagon, parathyroid hormone (PTH) |
+| **Steroids** | Cortisol, aldosterone, estrogen, progesterone, testosterone |
+| **Derivatives of amino acid tyrosine** | Thyroxine, triiodothyronine, epinephrine, norepinephrine |
+
+There are no known polysaccharides or nucleic acid hormones.
+
+## Polypeptide and Protein Hormones
+
+### Size Range
+
+Most hormones in the body are polypeptides and proteins.
+
+They range from small peptides with as few as **3 amino acids** (e.g., thyrotropin-releasing hormone) to proteins with almost **200 amino acids** (e.g., growth hormone, prolactin).
+
+**Classification:**
+- **Proteins:** Polypeptides with 100 or more amino acids
+- **Peptides:** Polypeptides with fewer than 100 amino acids
+
+### Synthesis and Secretion
+
+Protein and peptide hormones are synthesized on the rough endoplasmic reticulum of endocrine cells.
+
+They are usually synthesized first as larger, biologically inactive **preprohormones**.
+
+These are cleaved to form **prohormones** in the endoplasmic reticulum.
+
+Prohormones are transferred to the Golgi apparatus for packaging into secretory vesicles.
+
+Enzymes in vesicles cleave prohormones to produce:
+- Smaller, biologically active hormones
+- Inactive fragments
+
+Vesicles are stored within the cytoplasm until secretion is needed.
+
+Secretion occurs when vesicles fuse with the cell membrane.
+
+Contents are extruded by **exocytosis**.
+
+### Secretion Stimuli
+
+In many cases, the stimulus is increased cytosolic calcium from plasma membrane depolarization.
+
+In other cases, stimulation of an endocrine cell surface receptor causes:
+1. Increased cyclic adenosine monophosphate (cAMP)
+2. Activation of protein kinases
+3. Initiation of hormone secretion
+
+Peptide hormones are **water soluble** and enter the circulatory system easily.
+
+## Steroid Hormones
+
+### Structure
+
+Steroid hormones have a chemical structure similar to cholesterol.
+
+They are synthesized from cholesterol.
+
+They are **lipid soluble** and consist of:
+- Three cyclohexyl rings
+- One cyclopentyl ring
+
+Combined into a single structure.
+
+### Storage and Secretion
+
+There is usually very little hormone storage in steroid-producing cells.
+
+However, large stores of **cholesterol esters** in cytoplasmic vacuoles can be rapidly mobilized.
+
+Much of the cholesterol in steroid-producing cells comes from plasma.
+
+There is also de novo synthesis of cholesterol.
+
+Because steroids are highly lipid soluble, they diffuse across the cell membrane easily.
+
+They enter interstitial fluid, then blood.
+
+## Amine Hormones
+
+Two groups of hormones are derived from tyrosine:
+
+| Group | Examples |
+|-------|----------|
+| **Thyroid hormones** | Thyroxine (T₄), Triiodothyronine (T₃) |
+| **Adrenal medullary hormones** | Epinephrine, Norepinephrine |
+
+These are formed by enzymes in the cytoplasmic compartments of glandular cells.
+
+### Thyroid Hormones
+
+Thyroid hormones are synthesized and stored in the thyroid gland.
+
+They are incorporated into **thyroglobulin**.
+
+Thyroglobulin is stored in large follicles.
+
+Hormone secretion occurs when amines are split from thyroglobulin.
+
+## Anatomic Locus of Major Endocrine Glands
+
+| Gland/Location | Hormone Examples |
+|---------------|------------------|
+| Pituitary gland | Growth hormone, TSH, ACTH, FSH, LH, prolactin, ADH, oxytocin |
+| Pineal gland | Melatonin |
+| Hypothalamus | Releasing/inhibiting hormones |
+| Thymus gland | Thymosin |
+| Parathyroid glands | Parathyroid hormone |
+| Thyroid gland | Thyroxine, calcitonin |
+| Kidneys | Erythropoietin, renin |
+| Pancreas | Insulin, glucagon |
+| Adrenal glands | Cortisol, aldosterone, epinephrine |
+| Adipose tissue | Leptin |
+| Stomach | Gastrin |
+| Small intestine | Cholecystokinin, secretin |
+| Testes (male) | Testosterone |
+| Ovaries (female) | Estrogen, progesterone |
+
+## Transport and Action of Endocrine Hormones
+
+Endocrine hormones are carried by the circulatory system to cells throughout the body.
+
+They bind with receptors and initiate cell reactions.
+
+### Hormones Affecting Many Cells
+
+Some endocrine hormones affect many different types of cells:
+- **Growth hormone** causes growth in most parts of the body
+- **Thyroxine** increases the rate of many chemical reactions in almost all cells
+
+### Hormones Affecting Specific Tissues
+
+Other hormones affect mainly specific target tissues because those tissues have abundant receptors:
+- **ACTH** specifically stimulates the adrenal cortex
+- **Ovarian hormones** mainly affect female sex organs and secondary sexual characteristics
+
+## Functions Regulated by Hormone Systems
+
+The multiple hormone systems regulate almost all body functions:
+- **Metabolism**
+- **Growth and development**
+- **Water and electrolyte balance**
+- **Reproduction**
+- **Behavior**
+
+### Examples of Hormone Functions
+
+| Without This Hormone | Result |
+|---------------------|--------|
+| Growth hormone | Very short stature |
+| Thyroxine and triiodothyronine | Sluggish chemical reactions and behavior |
+| Insulin | Cells cannot use carbohydrates for energy |
+| Sex hormones | No sexual development or function |
+
+## Pituitary Gland — Overview
+
+The **pituitary gland** (hypophysis) is about **1 centimeter** in diameter and **0.5 to 1 gram** in weight.
 
 It lies in the **sella turcica**, a bony cavity at the base of the brain.
 
 It is connected to the hypothalamus by the **pituitary (hypophysial) stalk**.
 
-### Two Distinct Portions
+## Anterior and Posterior Lobes
 
-Physiologically, the pituitary gland is divisible into two distinct portions:
+Physiologically, the pituitary is divisible into two distinct portions:
 
 | Portion | Also Known As |
 |---------|---------------|
 | **Anterior pituitary** | Adenohypophysis |
 | **Posterior pituitary** | Neurohypophysis |
 
-Between these portions is a small, relatively avascular zone called the **pars intermedia**.
+Between these is a small, relatively avascular zone called the **pars intermedia**.
 
-This zone is much less developed in humans but is larger and much more functional in some animals.
+This zone is much less developed in humans but larger and more functional in some animals.
 
-### Embryological Origins
-
-The two portions originate from different sources:
+## Embryological Origins
 
 | Portion | Embryological Origin |
 |---------|---------------------|
 | **Anterior pituitary** | Rathke's pouch — an embryonic invagination of the pharyngeal epithelium |
 | **Posterior pituitary** | Neural tissue outgrowth from the hypothalamus |
 
-The origin of the anterior pituitary from pharyngeal epithelium explains the **epithelioid nature** of its cells.
+The origin from pharyngeal epithelium explains the **epithelioid nature** of anterior pituitary cells.
 
-The origin of the posterior pituitary from neural tissue explains the presence of large numbers of **glial-type cells** in this gland.
-
----
+The origin from neural tissue explains the presence of large numbers of **glial-type cells** in the posterior pituitary.
 
 ## Pituitary Hormones
 
@@ -72,18 +259,16 @@ Two important peptide hormones are secreted by the posterior pituitary:
 | Antidiuretic hormone | ADH (vasopressin) | Controls rate of water excretion into urine; helps control water concentration in body fluids |
 | Oxytocin | — | Helps express milk from breast glands to nipples during suckling; helps in delivery of baby at end of gestation |
 
----
-
 ## Anterior Pituitary Cell Types
 
-Usually, there is **one cell type for each major hormone** formed in the anterior pituitary gland.
+Usually, there is **one cell type for each major hormone** formed in the anterior pituitary.
 
-Using special stains attached to high-affinity antibodies that bind with the distinctive hormones, at least **five cell types** can be differentiated.
+At least **five cell types** can be differentiated using special stains with high-affinity antibodies.
 
-### Anterior Pituitary Cell Types Summary
+### Cell Types Summary
 
-| Cell Type | Hormone Produced | Staining Characteristics |
-|-----------|-----------------|------------------------|
+| Cell Type | Hormone Produced | Staining |
+|-----------|----------------|----------|
 | Somatotropes | Human growth hormone (hGH) | Acidophils |
 | Corticotropes | ACTH | — |
 | Thyrotropes | TSH | Basophils |
@@ -100,56 +285,47 @@ Using special stains attached to high-affinity antibodies that bind with the dis
 | Gonadotropes (FSH/LH-secreting) | 3%–5% |
 | Lactotropes (prolactin-secreting) | 3%–5% |
 
-Somatotropes stain strongly with acid dyes and are therefore called **acidophils**.
+Somatotropes stain strongly with acid dyes and are called **acidophils**.
 
 Pituitary tumors that secrete large quantities of hGH are called **acidophilic tumors**.
 
----
-
 ## Posterior Pituitary — Hypothalamic Synthesis
 
-The bodies of the cells that secrete the posterior pituitary hormones are **not located in the pituitary gland**.
+The bodies of cells that secrete posterior pituitary hormones are **not in the pituitary gland**.
 
 They are **large neurons**, called **magnocellular neurons**, located in the:
-
 - Supraoptic nucleus
 - Paraventricular nucleus
 
 of the **hypothalamus**.
 
-The hormones are transported in the **axoplasm** of the neuron's nerve fibers.
+The hormones are transported in the **axoplasm** of the neuronal nerve fibers.
 
 These fibers pass from the hypothalamus to the posterior pituitary gland.
-
----
 
 ## Hypothalamus Controls Pituitary Secretion
 
 Almost all pituitary secretion is controlled by hormonal or nervous signals from the hypothalamus.
 
-When the pituitary gland is removed from its normal position beneath the hypothalamus and transplanted to another part of the body, its secretion rates of the different hormones — except for prolactin — fall to very low levels.
+When the pituitary is removed and transplanted to another part of the body, secretion rates — except for prolactin — fall to very low levels.
 
 ### Control of Posterior Pituitary
 
-Secretion from the posterior pituitary is controlled by **nerve signals** that originate in the hypothalamus and terminate in the posterior pituitary.
+Secretion from the posterior pituitary is controlled by **nerve signals** originating in the hypothalamus.
 
 ### Control of Anterior Pituitary
 
-Secretion by the anterior pituitary is controlled by **hormones** called:
-
+Anterior pituitary secretion is controlled by **hormones** called:
 - **Hypothalamic releasing hormones**
 - **Hypothalamic inhibitory hormones (or factors)**
 
 These are secreted within the hypothalamus.
 
-They are conducted to the anterior pituitary through minute blood vessels called **hypothalamic-hypophysial portal vessels**.
+They are conducted to the anterior pituitary through **hypothalamic-hypophysial portal vessels**.
 
-In the anterior pituitary, these releasing and inhibitory hormones act on the glandular cells to control their secretion.
+### Hypothalamic Inputs
 
-### Hypothalamic Inputs to the Hypothalamus
-
-The hypothalamus receives signals from many sources in the nervous system:
-
-- **Pain signals** — when a person is exposed to pain, a portion is transmitted into the hypothalamus
-- **Emotional signals** — powerful depressing or exciting thoughts transmit signals into the hypothalamus
-- **Olfactory stimuli** — pleasant or unpleasant smells transmit strong signals directly and through the amygdaloid nuclei
+The hypothalamus receives signals from many sources:
+- **Pain signals** — transmitted into the hypothalamus
+- **Emotional signals** — powerful depressing or exciting thoughts
+- **Olfactory stimuli** — pleasant or unpleasant smells transmitted directly and through the amygdaloid nuclei

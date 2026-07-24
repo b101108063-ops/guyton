@@ -24,9 +24,7 @@ At puberty the spermatogonia begin to undergo mitotic division and continually p
 
 Spermatogenesis occurs in the seminiferous tubules during active sexual life as the result of stimulation by anterior pituitary gonadotropic hormones.
 
-Spermatogenesis begins in the male at an average age of 13 years and continues throughout most of the remainder of life.
-
-It decreases markedly in old age.
+Spermatogenesis begins in the male at an average age of 13 years and continues throughout most of the remainder of life. It decreases markedly in old age.
 
 ### Stages of Germ Cell Development
 
@@ -57,13 +55,9 @@ Each of these primary spermatocytes, in turn, undergoes meiotic division to form
 
 After another few days, these secondary spermatocytes also divide to form spermatids that are eventually modified to become spermatozoa (sperm).
 
-During the change from the spermatocyte stage to the spermatid stage, the 46 chromosomes (23 pairs of chromosomes) of the spermatocyte are divided.
+During the change from the spermatocyte stage to the spermatid stage, the 46 chromosomes (23 pairs of chromosomes) of the spermatocyte are divided. Thus, 23 chromosomes go to one spermatid and the other 23 go to the second spermatid.
 
-Thus, 23 chromosomes go to one spermatid and the other 23 go to the second spermatid.
-
-The chromosomal genes are also divided so that only one-half of the genetic characteristics of the eventual fetus are provided by the father.
-
-The other half is derived from the oocyte provided by the mother.
+The chromosomal genes are also divided so that only one-half of the genetic characteristics of the eventual fetus are provided by the father. The other half is derived from the oocyte provided by the mother.
 
 ### Sex Chromosomes
 
@@ -71,9 +65,7 @@ In each spermatogonium, one of the 23 pairs of chromosomes carries the genetic i
 
 This pair is composed of one X chromosome, which is the female chromosome, and one Y chromosome, which is the male chromosome.
 
-When an X-chromosome-bearing sperm fertilizes the ovum, a female results (XX).
-
-When a Y-chromosome-bearing sperm fertilizes the ovum, a male results (XY).
+When an X-chromosome-bearing sperm fertilizes the ovum, a female results (XX). When a Y-chromosome-bearing sperm fertilizes the ovum, a male results (XY).
 
 ## MALE REPRODUCTIVE ORGANS ANATOMY
 
@@ -124,17 +116,11 @@ Semen consists of:
 
 ### Erection
 
-Erection is primarily a parasympathetic function.
-
-It results from relaxation of the smooth muscle in the arterial walls of the penis.
-
-This allows increased blood flow into the corpora cavernosa and corpus spongiosum.
+Erection is primarily a parasympathetic function. It results from relaxation of the smooth muscle in the arterial walls of the penis. This allows increased blood flow into the corpora cavernosa and corpus spongiosum.
 
 ### Ejaculation
 
-Ejaculation is primarily a sympathetic function.
-
-It involves:
+Ejaculation is primarily a sympathetic function. It involves:
 
 1. Closure of the internal urethral sphincter
 2. Contraction of the seminal vesicles and prostate
@@ -144,18 +130,18 @@ It involves:
 
 ### Testosterone Synthesis
 
-Testosterone is synthesized by Leydig cells in the testicular interstitium.
-
-LH stimulates testosterone production.
+Testosterone is synthesized by Leydig cells in the testicular interstitium. LH stimulates testosterone production.
 
 ### Functions of Testosterone
 
-1. **Fetal development**: Development of male internal genitalia (Wolffian ducts)
-2. **External genitalia**: masculinization of penis and scrotum
-3. **Puberty**: Secondary sexual characteristics
-4. **Spermatogenesis**: Required for sperm maturation
-5. **Libido**: Maintains sexual desire
-6. **Anabolic effects**: Increased muscle mass and bone density
+| Function | Description |
+|----------|-------------|
+| Fetal development | Development of male internal genitalia (Wolffian ducts) |
+| External genitalia | Masculinization of penis and scrotum |
+| Puberty | Secondary sexual characteristics |
+| Spermatogenesis | Required for sperm maturation |
+| Libido | Maintains sexual desire |
+| Anabolic effects | Increased muscle mass and bone density |
 
 ### Male Secondary Sexual Characteristics
 
@@ -171,9 +157,7 @@ LH stimulates testosterone production.
 
 ### Follicle-Stimulating Hormone (FSH)
 
-FSH is produced by the anterior pituitary.
-
-It stimulates Sertoli cells in the seminiferous tubules.
+FSH is produced by the anterior pituitary. It stimulates Sertoli cells in the seminiferous tubules.
 
 Effects of FSH:
 
@@ -199,21 +183,19 @@ It is also called interstitial cell-stimulating hormone (ICSH) in males.
 
 ### Melatonin Secretion
 
-The pineal gland secretes melatonin primarily at night.
-
-Melatonin secretion is stimulated by darkness and inhibited by light.
+The pineal gland secretes melatonin primarily at night. Melatonin secretion is stimulated by darkness and inhibited by light.
 
 ### Functions of Melatonin
 
-1. **Circadian rhythm regulation**: Helps set the biological clock
-2. **Seasonal reproduction**: Affects reproductive function in some species
-3. **Sleep promotion**: Contributes to sleep onset
+| Function | Description |
+|----------|-------------|
+| Circadian rhythm regulation | Helps set the biological clock |
+| Seasonal reproduction | Affects reproductive function in some species |
+| Sleep promotion | Contributes to sleep onset |
 
 ### Pineal Gland Anatomy
 
-The pineal gland is located in the epithalamus.
-
-It receives sympathetic innervation from the superior cervical ganglia.
+The pineal gland is located in the epithalamus. It receives sympathetic innervation from the superior cervical ganglia.
 
 ## MALE REPRODUCTIVE PHYSIOLOGY SUMMARY
 

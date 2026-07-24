@@ -16,11 +16,20 @@ key_points:
 
 ### Effects on Carbohydrate Metabolism
 
-Thyroid hormones stimulate almost all aspects of carbohydrate metabolism, including increased glucose uptake from the intestine, enhanced glycolysis and gluconeogenesis, and increased insulin secretion with resulting increased glucose storage as glycogen.
+Thyroid hormones stimulate almost all aspects of carbohydrate metabolism.
+
+This includes:
+
+- Increased glucose uptake from the intestine
+- Enhanced glycolysis and gluconeogenesis
+- Increased insulin secretion
+- Increased glucose storage as glycogen
 
 ### Effects on Lipid Metabolism
 
-Thyroid hormones stimulate fat mobilization and oxidation in adipose tissue, leading to increased fatty acid levels in the plasma.
+Thyroid hormones stimulate fat mobilization and oxidation in adipose tissue.
+
+This leads to increased fatty acid levels in the plasma.
 
 They also stimulate cholesterol synthesis and excretion, resulting in decreased plasma cholesterol levels.
 
@@ -34,7 +43,9 @@ However, excess thyroid hormones cause muscle wasting and weakness.
 
 ## HYPOTHYROIDISM
 
-Hypothyroidism is the condition of thyroid hormone deficiency. In areas of the world with adequate iodine, the most common cause is autoimmune thyroiditis (Hashimoto disease).
+Hypothyroidism is the condition of thyroid hormone deficiency.
+
+In areas of the world with adequate iodine, the most common cause is autoimmune thyroiditis (Hashimoto disease).
 
 ### Myxedema
 
@@ -81,7 +92,7 @@ A few weeks after birth, however, the neonate's movements become sluggish and bo
 
 Treatment of the neonate with cretinism at any time with adequate iodine or thyroxine usually causes normal return of physical growth.
 
-However, unless the cretinism is treated within a few weeks after birth, mental growth remains permanently retarded.
+Unless the cretinism is treated within a few weeks after birth, mental growth remains permanently retarded.
 
 This state results from retardation of the growth, branching, and myelination of the neuronal cells of the central nervous system at this critical time in the normal development of the mental powers.
 

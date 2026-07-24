@@ -17,4 +17,5 @@ Stimulation by
 1. Stretch
 2. Acetylcholine
 3. Parasympathetics
-Resting Hyperpolarization Slow waves 30 36 42 48 54 Seconds Seconds > **Figure 63-3. Membrane potentials in intestinal smooth muscle. Note** the slow waves, the spike potentials, total depolarization, and hyperpolarization, all of which occur under different physiological conditions of the intestine. Parotid gland Mouth Salivary glands Esophagus Liver Gallbladder Duodenum Ascending colon Transverse colon Stomach Pancreas Jejunum Descending colon Ileum Anus Figure 63-1. Alimentary tract.
+Resting Hyperpolarization Slow waves 30 36 42 48 54 Seconds Seconds > **Figure 63-3. Membrane potentials in intestinal smooth muscle. Note** the slow waves, the spike potentials, total depolarization, and hyperpolarization, all of which occur under different physiological conditions of the intestine.
+Parotid gland Mouth Salivary glands Esophagus Liver Gallbladder Duodenum Ascending colon Transverse colon Stomach Pancreas Jejunum Descending colon Ileum Anus Figure 63-1. Alimentary tract.

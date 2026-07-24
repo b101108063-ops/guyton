@@ -14,126 +14,119 @@ key_points:
   - "Thyroxine increases BMR by uncoupling oxidative phosphorylation and increasing Na⁺/K⁺-ATPase activity; prolonged excess causes muscle protein catabolism and weight loss"
 ---
 
-## ATP as the "Energy Currency" of Metabolism
+## ATP as the Energy Currency of Metabolism
 
-Carbohydrates, fats, and proteins can all be used by cells to synthesize large quantities of adenosine triphosphate (ATP).
+Carbohydrates, fats, and proteins can all be used by cells to synthesize large quantities of ATP.
 
 ATP is used as an energy source for almost all other cellular functions.
 
-For this reason, ATP has been called an energy "currency" in cell metabolism.
+ATP has been called an energy **"currency"** in cell metabolism.
 
-The transfer of energy from foodstuffs to most functional systems of the cells can be performed only through this medium of ATP (or the similar nucleotide guanosine triphosphate — GTP).
-
-Many of the attributes of ATP are presented in Chapter 2.
+Energy transfer from foodstuffs to functional systems can only be performed through ATP (or the similar GTP).
 
 ### Free Energy in ATP Bonds
 
 ATP contains a large quantity of free energy in each of its two high-energy phosphate bonds.
 
-- Under **standard conditions**: approximately **7,300 calories** per mole
-- Under **physiological conditions**: as much as **12,000 calories**
+| Condition | Calories per Mole |
+|-----------|------------------|
+| Standard conditions | ~7,300 calories |
+| Physiological conditions | ~12,000 calories |
 
-The energy in each bond, when liberated by decomposition of ATP, is enough to cause almost any step of any chemical reaction in the body.
+The energy in each bond, when liberated by ATP decomposition, can cause almost any chemical reaction step in the body.
 
-Some chemical reactions require only a few hundred of the available 12,000 calories.
+Some reactions require only a few hundred calories.
 
-The remainder of this energy is lost in the form of heat.
+The remainder is lost as heat.
 
 ### ATP Generation from Combustion of Foodstuffs
 
-ATP is produced through the following processes:
+ATP is produced through:
 
-1. **Carbohydrate combustion:** Mainly glucose, but also smaller amounts of other sugars such as fructose. This occurs in the cell cytoplasm through anaerobic glycolysis and in cell mitochondria through aerobic citric acid (Krebs) cycle.
+1. **Carbohydrate combustion:** Through anaerobic glycolysis (cytoplasm) and aerobic citric acid cycle (mitochondria)
 
-2. **Fatty acid combustion:** In cell mitochondria by beta-oxidation.
+2. **Fatty acid combustion:** Beta-oxidation in cell mitochondria
 
-3. **Protein combustion:** Requires hydrolysis to component amino acids and degradation to intermediate compounds of the citric acid cycle, then to acetyl coenzyme A and carbon dioxide.
+3. **Protein combustion:** Hydrolysis to amino acids, degradation to citric acid cycle intermediates, then to acetyl-CoA and CO₂
 
-### Uses of ATP Energy
+## Uses of ATP Energy
 
-#### ATP Energizes Synthesis of Cellular Components
+### ATP Energizes Synthesis of Cellular Components
 
-One of the most important intracellular processes requiring ATP energy is the formation of peptide linkages during synthesis of proteins.
+One of the most important processes requiring ATP energy is synthesis of peptide linkages during protein synthesis.
 
-Different peptide linkages require from **500 to 5,000 calories** of energy per mole.
+Different peptide linkages require **500 to 5,000 calories** per mole.
 
-Four high-energy phosphate bonds are expended during the cascade of reactions required to form each peptide linkage.
+Four high-energy phosphate bonds are expended for each peptide linkage.
 
-This provides a total of 48,000 calories of energy.
+This provides 48,000 calories total.
 
 Far more than the 500 to 5,000 calories eventually stored in each peptide linkage.
 
 ATP energy is also used for:
-
 - Synthesizing glucose from lactic acid
-- Synthesizing fatty acids from acetyl coenzyme A
+- Synthesizing fatty acids from acetyl-CoA
 - Synthesizing cholesterol, phospholipids, and hormones
-- Synthesizing almost all other substances of the body
-- Forming urea excreted by the kidneys
+- Synthesizing almost all other body substances
+- Forming urea (excreted by kidneys)
 
-The urea formation is especially valuable because ammonia is extremely toxic in body fluids.
+### ATP Energizes Muscle Contraction
 
-Keeping the ammonia concentration low is essential.
+Muscle contraction will not occur without ATP energy.
 
-#### ATP Energizes Muscle Contraction
+**Myosin** acts as an enzyme to break down ATP into ADP.
 
-Muscle contraction will not occur without energy from ATP.
+This releases energy required for contraction.
 
-**Myosin** — one of the important contractile proteins of the muscle fiber — acts as an enzyme to cause breakdown of ATP into adenosine diphosphate (ADP).
+Only a small amount of ATP is degraded in resting muscle.
 
-This releases the energy required to cause contraction.
+During short bursts of maximal contraction, this rate can rise to **150 times** the resting level.
 
-Only a small amount of ATP is normally degraded in muscles when contraction is not occurring.
+### ATP Energizes Active Transport
 
-This rate can rise to at least **150 times** the resting level during short bursts of maximal contraction.
+Active transport of electrolytes and nutrients across cell membranes requires ATP.
 
-#### ATP Energizes Active Transport Across Membranes
+This includes transport from renal tubules and GI tract into blood.
 
-Active transport of electrolytes and various nutrients across cell membranes requires energy from ATP.
+Active transport can occur against electrochemical gradients.
 
-Active transport from renal tubules and gastrointestinal tract into the blood also requires ATP.
+Energy from ATP is required to oppose these gradients.
 
-Active transport of most electrolytes and substances such as glucose, amino acids, and acetoacetate can occur against an electrochemical gradient.
+### ATP Energizes Glandular Secretion
 
-This is even though natural diffusion would be in the opposite direction.
+The same principles apply to glandular secretion as to absorption.
 
-Energy provided by ATP is required to oppose the electrochemical gradient.
+Energy is required to concentrate substances during secretion.
 
-#### ATP Energizes Glandular Secretion
+Additional energy is required to synthesize organic compounds for secretion.
 
-The same principles apply to glandular secretion as to absorption against concentration gradients.
+### ATP Energizes Nerve Conduction
 
-Energy is required to concentrate substances as they are secreted by glandular cells.
+Energy for nerve impulse propagation comes from ion concentration differences across neuronal membranes.
 
-Additionally, energy is required to synthesize the organic compounds to be secreted.
+High potassium inside and low outside is one energy store.
 
-#### ATP Energizes Nerve Conduction
+High sodium outside and low inside is another energy store.
 
-The energy used during propagation of nerve impulses is derived from concentration differences of ions across neuronal cell membranes.
+Energy for each action potential comes from this energy storage.
 
-A high concentration of potassium inside the neuron and a low concentration outside constitutes a type of energy storage.
+During each action potential, small amounts of potassium leave and sodium enter the cell.
 
-Likewise, a high concentration of sodium on the outside and a low concentration on the inside represents another store of energy.
+ATP-powered active transport systems then return ions to their original positions.
 
-The energy needed to pass each action potential is derived from this energy storage.
+## Phosphocreatine as an Energy Storage Depot
 
-Small amounts of potassium transfer out of the cell and sodium into the cell during each action potential.
-
-Active transport systems energized by ATP then retransport the ions back through the membrane to their former positions.
-
----
-
-## Phosphocreatine as an Energy Storage Depot and "ATP Buffer"
-
-Despite the paramount importance of ATP as a coupling agent for energy transfer, ATP is not the most abundant store of high-energy phosphate bonds in the cells.
+Despite ATP's importance, it is not the most abundant high-energy phosphate store.
 
 **Phosphocreatine** is three to eight times more abundant than ATP.
 
-The high-energy bond of phosphocreatine contains about **8,500 calories** per mole under standard conditions.
+### Energy Content
 
-Under conditions in the body (37°C and low concentrations of reactants), it contains as many as **13,000 calories** per mole.
+The high-energy bond of phosphocreatine contains:
+- **8,500 calories** per mole (standard conditions)
+- **13,000 calories** per mole (body conditions at 37°C)
 
-This is slightly greater than the 12,000 calories per mole in each of the two high-energy phosphate bonds of ATP.
+This exceeds the 12,000 calories per mole in each ATP high-energy phosphate bond.
 
 ### Chemical Structure
 
@@ -145,110 +138,154 @@ HOOC-CH₂-CH₃
     NH    O
 ```
 
-### Energy Transfer Between Phosphocreatine and ATP
+### Energy Transfer
 
-Unlike ATP, phosphocreatine cannot act as a direct coupling agent for energy transfer between foods and functional cellular systems.
+Unlike ATP, phosphocreatine cannot directly couple energy transfer.
 
-However, phosphocreatine can transfer energy interchangeably with ATP.
-
-When extra amounts of ATP are available, much of its energy is used to synthesize phosphocreatine.
-
-This builds up this storehouse of energy.
-
-When ATP begins to be used up, the energy in phosphocreatine is transferred rapidly back to ATP, then to the functional systems.
-
-This reversible interrelation between ATP and phosphocreatine is demonstrated by:
+However, energy transfers interchangeably between phosphocreatine and ATP:
 
 ```
 Phosphocreatine + ADP ⇌ ATP + Creatine
 ```
 
+When extra ATP is available, energy is used to synthesize phosphocreatine.
+
+When ATP is depleted, phosphocreatine energy is transferred back to ATP.
+
 ### ATP Buffer Function
 
-The higher energy level of the high-energy phosphate bond in phosphocreatine causes the reaction between phosphocreatine and ADP to proceed rapidly toward the formation of new ATP.
+The higher energy level of phosphocreatine causes rapid reaction with ADP to form new ATP.
 
-This occurs whenever the slightest amount of ATP expends its energy elsewhere.
+Any slight usage of ATP calls forth energy from phosphocreatine to synthesize new ATP.
 
-The slightest usage of ATP by the cells calls forth energy from phosphocreatine to synthesize new ATP.
+This keeps ATP concentration nearly constant.
 
-This keeps the concentration of ATP at an almost constant high level as long as any phosphocreatine remains.
+Therefore, the ATP-phosphocreatine system functions as an ATP **"buffer"** system.
 
-Therefore, the ATP-phosphocreatine system functions as an ATP **"buffer" system**.
-
-This constancy is critical because the rates of almost all metabolic reactions in the body depend on it.
-
----
+This constancy is critical because most metabolic reaction rates depend on it.
 
 ## Anaerobic vs. Aerobic Energy
 
-**Anaerobic energy** means energy that can be derived from foods without the simultaneous utilization of oxygen.
+**Anaerobic energy** is derived without oxygen utilization.
 
-**Aerobic energy** means energy that can be derived from foods only by oxidative metabolism.
+**Aerobic energy** requires oxidative metabolism.
 
-Carbohydrates, fats, and proteins can all be oxidized to cause synthesis of ATP.
+Carbohydrates, fats, and proteins can all be oxidized to produce ATP.
 
-However, carbohydrates are the only significant foods that can be used to provide energy without utilization of oxygen.
+Only carbohydrates can provide significant energy without oxygen.
 
-This energy release occurs during glycolytic breakdown of glucose or glycogen to pyruvic acid.
+This occurs during glycolytic breakdown of glucose to pyruvic acid.
 
-For each mole of glucose that is split into pyruvic acid, **2 moles of ATP** are formed.
+### ATP from Anaerobic Glycolysis
 
-When stored glycogen is split to pyruvic acid, each mole of glucose in the glycogen gives rise to **3 moles of ATP**.
+For each mole of glucose split into pyruvic acid, **2 moles of ATP** are formed.
 
-The reason for this difference is that free glucose entering the cell must be phosphorylated by using 1 mole of ATP before it can begin to be split.
+When stored glycogen is split to pyruvic acid, each mole of glucose gives **3 moles of ATP**.
 
-This is not true of glucose derived from glycogen because it comes from glycogen already in the phosphorylated state, without additional expenditure of ATP.
+Free glucose entering cells must be phosphorylated (using 1 ATP) before splitting.
 
-Therefore, **stored glycogen** is the best source of energy under anaerobic conditions.
+Glycogen-derived glucose is already in the phosphorylated state.
 
-### Anaerobic Energy Utilization During Hypoxia
+Therefore, **stored glycogen** is the best anaerobic energy source.
 
-One of the prime examples of anaerobic energy utilization occurs in acute hypoxia.
+## Anaerobic Energy During Hypoxia
 
-When a person stops breathing, a small amount of oxygen is already stored in the lungs and an additional amount is stored in hemoglobin.
+One prime example of anaerobic energy utilization occurs in acute hypoxia.
 
-This oxygen is sufficient to keep metabolic processes functioning for only about **2 minutes**.
+When breathing stops, a small amount of oxygen is stored in lungs and hemoglobin.
 
-Continued life beyond this time requires an additional source of energy.
+This sustains metabolic processes for only about **2 minutes**.
 
-This energy can be derived for another minute or so from glycolysis.
+Continued life beyond this requires additional energy sources.
 
-The glycogen of the cells splits into pyruvic acid.
+Energy can be derived from glycolysis for about another minute.
 
-Pyruvic acid becomes lactic acid, which diffuses out of the cells.
+Glycogen splits into pyruvic acid.
 
-### Anaerobic Energy During Strenuous Bursts of Activity
+Pyruvic acid becomes lactic acid, which diffuses out of cells.
 
-Skeletal muscles can perform extreme feats of strength for a few seconds.
+## Anaerobic Energy During Strenuous Activity
+
+Skeletal muscles can perform extreme feats for a few seconds.
 
 Muscles are much less capable during prolonged activity.
 
-Most of the extra energy required during bursts of activity cannot come from oxidative processes because they are too slow to respond.
+Extra energy for bursts of activity cannot come from oxidative processes because they respond too slowly.
 
-The extra energy comes from anaerobic sources:
-
-1. ATP already present in the muscle cells
+Extra energy comes from anaerobic sources:
+1. ATP already present in muscle cells
 2. Phosphocreatine in the cells
-3. Anaerobic energy released by glycolytic breakdown of glycogen to lactic acid
+3. Anaerobic glycolysis of glycogen to lactic acid
 
-#### Energy Reserves in Muscle
+### Energy Reserves in Muscle
 
 | Source | Amount | Duration of Maximum Contraction |
 |--------|--------|--------------------------------|
 | ATP | ~5 mmol/L intracellular fluid | ~1 second |
 | Phosphocreatine | 3–8× ATP amount | 5–10 seconds |
 
-#### Glycolytic Energy Release
+### Glycolytic Energy Release
 
-Release of energy by glycolysis can occur much more rapidly than oxidative release of energy.
+Glycolytic energy release occurs much more rapidly than oxidative energy release.
 
-Most of the extra energy required during strenuous activity lasting more than 5 to 10 seconds but less than 1 to 2 minutes is derived from anaerobic glycolysis.
+Extra energy for strenuous activity lasting more than 5–10 seconds but less than 1–2 minutes comes mainly from anaerobic glycolysis.
 
-During strenuous bouts of exercise:
-
+During strenuous exercise:
 - Glycogen content of muscles is reduced
-- Lactic acid concentration of the blood rises
+- Lactic acid concentration in blood rises
 
-After exercise, oxidative metabolism is used to reconvert about **four fifths** of the lactic acid into glucose.
+After exercise, oxidative metabolism reconverts about **four fifths** of lactic acid into glucose.
 
 The remainder becomes pyruvic acid and is degraded.
+
+## Metabolic Rate
+
+### Definition
+
+Metabolic rate is the rate of energy expenditure by the body.
+
+It can be measured by:
+- **Direct calorimetry:** Measures heat production directly
+- **Indirect calorimetry:** Estimates metabolic rate from O₂ consumption and CO₂ production
+
+### Basal Metabolic Rate (BMR)
+
+BMR is measured under standardized conditions:
+- After 12–18 hours of fasting
+- After 8 hours of rest
+- In a comfortable, thermoneutral environment
+
+BMR represents minimal energy expenditure for vital functions.
+
+### Factors Affecting Metabolic Rate
+
+| Factor | Effect |
+|--------|--------|
+| Physical activity | Increases metabolic rate significantly |
+| Thyroxine | Increases BMR |
+| Catecholamines | Increase metabolic rate |
+| Thermic effect of food | Increases metabolic rate temporarily |
+| Body temperature | Fever increases metabolic rate |
+| Age | Higher in children; decreases with age |
+
+### Thyroxine Effects
+
+Thyroxine increases BMR by:
+- Uncoupling oxidative phosphorylation
+- Increasing Na⁺/K⁺-ATPase activity
+
+Prolonged thyroxine excess causes:
+- Muscle protein catabolism
+- Weight loss
+
+### Respiratory Quotient and Metabolic Rate
+
+The respiratory quotient (RQ) is the ratio of CO₂ produced to O₂ consumed.
+
+| Substrate | RQ |
+|-----------|-----|
+| Carbohydrate | 1.0 |
+| Fat | 0.70 |
+| Protein | 0.80 |
+
+Indirect calorimetry uses RQ and oxygen consumption to estimate metabolic rate.
