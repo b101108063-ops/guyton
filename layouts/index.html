@@ -1,46 +1,19 @@
 {{ define "main" }}
 <header class="page-header" style="text-align: center; margin-bottom: 2rem;">
-    <h1>📚 醫療筆記書櫃</h1>
+    <h1>Guyton & Hall 生理學</h1>
 </header>
 
 <div class="bookshelf-container">
     
-    <!-- Tintinalli -->
-    <div class="book-card">
-        <h2 class="book-card-title">Tintinalli's Emergency Medicine, 8th Edition</h2>
-        <div class="book-card-actions">
-            {{ $tintinalli := site.GetPage "tintinalli" }}
-            {{ if $tintinalli }}
-                <a href="{{ $tintinalli.Permalink }}" class="book-action-btn primary">📖 Tintinalli 選單</a>
-            {{ end }}
-            
-            <a href="{{ "search/" | absURL }}" class="book-action-btn secondary">🔍 筆記搜尋</a>
-        </div>
-    </div>
-
-    <!-- Guyton -->
     <div class="book-card">
         <h2 class="book-card-title">Guyton & Hall Textbook of Medical Physiology</h2>
         <div class="book-card-actions">
             {{ $guyton := site.GetPage "guyton" }}
             {{ if $guyton }}
-                <a href="{{ $guyton.Permalink }}" class="book-action-btn primary">📖 Guyton 選單</a>
+                <a href="{{ $guyton.Permalink }}" class="book-action-btn primary">📖 章節選單</a>
             {{ end }}
             
-            <a href="{{ "search/" | absURL }}" class="book-action-btn secondary">🔍 筆記搜尋</a>
-        </div>
-    </div>
-
-    <!-- Huppert -->
-    <div class="book-card">
-        <h2 class="book-card-title">Huppert's Notes: Pathophysiology and Clinical Pearls for Internal Medicine</h2>
-        <div class="book-card-actions">
-            {{ $huppert := site.GetPage "huppert" }}
-            {{ if $huppert }}
-                <a href="{{ $huppert.Permalink }}" class="book-action-btn primary">📖 Huppert 選單</a>
-            {{ end }}
-            
-            <a href="{{ "search/" | absURL }}" class="book-action-btn secondary">🔍 筆記搜尋</a>
+            <a href="{{ "search/" | absURL }}" class="book-action-btn secondary">🔍 搜尋</a>
         </div>
     </div>
 

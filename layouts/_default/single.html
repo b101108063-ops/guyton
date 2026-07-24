@@ -3,69 +3,18 @@
 
 <article class="post-single">
   <header class="post-header">
-    
     {{- $path := .RelPermalink -}}
-    {{- $bookName := .Params.source -}}
-    {{- $specialtyName := .Params.specialty -}}
     
-    {{/* 取得專科名稱 */}}
-    {{- if in $path "huppert" -}}
-        {{- $bookName = "Huppert's Notes" -}}
-        {{- if not $specialtyName -}}
-            {{- if in $path "part1" -}} {{- $specialtyName = "Cardiology" -}}
-            {{- else if in $path "part2" -}} {{- $specialtyName = "Pulmonology" -}}
-            {{- else if in $path "part3" -}} {{- $specialtyName = "Critical Care Medicine" -}}
-            {{- else if in $path "part4" -}} {{- $specialtyName = "Gastroenterology" -}}
-            {{- else if in $path "part5" -}} {{- $specialtyName = "Endocrinology" -}}
-            {{- else if in $path "part6" -}} {{- $specialtyName = "Nephrology" -}}
-            {{- else if in $path "part7" -}} {{- $specialtyName = "Hematology and Oncology" -}}
-            {{- else if in $path "part8" -}} {{- $specialtyName = "Infectious Diseases" -}}
-            {{- else if in $path "part9" -}} {{- $specialtyName = "Rheumatology" -}}
-            {{- else if in $path "part10" -}} {{- $specialtyName = "General Medicine" -}}
-            {{- else if in $path "part11" -}} {{- $specialtyName = "Dermatology" -}}
-            {{- else if in $path "part12" -}} {{- $specialtyName = "Neurology" -}}
-            {{- else if in $path "part13" -}} {{- $specialtyName = "Psychiatry" -}}
-            {{- else if in $path "appendix" -}} {{- $specialtyName = "Appendices & Abbreviations" -}}
-            {{- else -}} {{- $specialtyName = "Chapters" -}}
-            {{- end -}}
-        {{- end -}}
-    {{- else if in $path "tintinalli" -}}
-        {{- $bookName = "Tintinalli's Emergency Medicine" -}}
-    {{- else if in $path "guyton" -}}
-        {{- $bookName = "Guyton & Hall Textbook of Medical Physiology" -}}
-    {{- end -}}
-
-    {{/* ================= 標題專屬排版區塊 ================= */}}
-    {{ if in $path "huppert" }}
-        <div class="note-breadcrumb" style="font-size: 0.85rem; color: #3a86ff; margin-bottom: 0.4rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
-            📚 {{ $bookName }}
+    {{ if in $path "guyton" }}
+        <div class="note-breadcrumb">
+            📚 Guyton & Hall Textbook of Medical Physiology
         </div>
-        <h1 class="post-title" style="margin-bottom: 0.2rem;">
-            {{ $specialtyName | default "Huppert's Notes" }}
-        </h1>
-        <div class="post-subtitle" style="font-size: 1.35rem; color: #9ca3af; font-weight: 500; border-bottom: 1px solid #38393a; padding-bottom: 1rem; margin-bottom: 1rem;">
-            {{ .Params.title | default .Title }}
-        </div>
-
-    {{ else if in $path "tintinalli" }}
-        <div class="note-breadcrumb" style="font-size: 0.85rem; color: #3a86ff; margin-bottom: 0.8rem; font-weight: 500;">
-            📚 {{ $bookName }} &rsaquo; {{ .Params.title_tc }}
-        </div>
-        <h1 class="post-title">
-            {{ if .Params.section }}Section {{ .Params.section }} : {{ end }}{{ .Params.title_tc | default .Title }}
-        </h1>
-
-    {{ else if in $path "guyton" }}
-        <div class="note-breadcrumb" style="font-size: 0.85rem; color: #3a86ff; margin-bottom: 0.4rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
-            📚 {{ $bookName }}
-        </div>
-        <h1 class="post-title" style="margin-bottom: 0.2rem;">
+        <h1 class="post-title chapter-title">
             {{ .Params.chapter | default .Title }}
         </h1>
-        <div class="post-subtitle" style="font-size: 1.35rem; color: #9ca3af; font-weight: 500; border-bottom: 1px solid #38393a; padding-bottom: 1rem; margin-bottom: 1rem;">
+        <div class="post-subtitle chapter-subtitle">
             {{ .Params.title | default .Title }}
         </div>
-
     {{ else }}
         <h1 class="post-title">{{ .Title }}</h1>
     {{ end }}
@@ -95,6 +44,32 @@
     /* 全局內文排版與呼吸感 */
     .post-content { font-size: 1.02rem; line-height: 1.7; color: #e5e7eb; }
 
+    /* Guyton 專屬標題樣式 */
+    .note-breadcrumb {
+        font-size: 0.85rem;
+        color: #3a86ff;
+        margin-bottom: 0.4rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    .chapter-title {
+        font-size: 1.8rem;
+        color: #60a5fa;
+        margin-bottom: 0.3rem;
+        font-weight: 700;
+    }
+    
+    .chapter-subtitle {
+        font-size: 1.25rem;
+        color: #9ca3af;
+        font-weight: 500;
+        border-bottom: 1px solid #38393a;
+        padding-bottom: 1rem;
+        margin-bottom: 1.5rem;
+    }
+
     /* 美化 H2/H3 標題 */
     .post-content h2 { font-size: 1.4rem; color: #60a5fa; border-left: 4px solid #3a86ff; padding-left: 12px; margin-top: 2.2rem; margin-bottom: 1rem; font-weight: 600; }
     .post-content h3 { font-size: 1.2rem; color: #93c5fd; margin-top: 1.8rem; margin-bottom: 0.8rem; font-weight: 600; }
@@ -109,27 +84,20 @@
     .post-content th { background-color: #2a2b2c; color: #3a86ff; font-weight: bold; }
     .post-content tr:last-child td { border-bottom: none; }
     .post-content tr:hover { background-color: #2a2b2c; }
-
-    /* Huppert 專屬：引用卡片與重點標題樣式 */
-    .huppert-ref-card {
-        font-size: 0.85rem;
-        color: #9ca3af;
-        background: #2a2b2c;
-        padding: 8px 12px;
-        border-radius: 6px;
-        margin-bottom: 16px;
-        border-left: 3px solid #6b7280;
-        line-height: 1.5;
-        display: block;
+    
+    /* 引用樣式 */
+    .post-content blockquote { 
+        border-left: 4px solid #3a86ff; 
+        padding: 12px 16px; 
+        margin: 1.5rem 0; 
+        background-color: #242526; 
+        border-radius: 4px;
     }
-    .huppert-key-title {
-        font-size: 1.15rem;
-        color: #60a5fa;
-        font-weight: 700;
-        margin-top: 16px;
-        margin-bottom: 8px;
-        display: block;
-    }
+    .post-content blockquote p { margin-bottom: 0.5rem; color: #9ca3af; }
+    
+    /* 粗體和斜體 */
+    .post-content strong { color: #60a5fa; font-weight: 600; }
+    .post-content em { color: #93c5fd; }
 </style>
 
 <script>
@@ -143,16 +111,6 @@ document.addEventListener("DOMContentLoaded", function() {
             firstHeading.style.display = 'none';
         }
     }
-
-    // 自動美化 Huppert 複製文字
-    document.querySelectorAll('.post-content li, .post-content p').forEach(function(el) {
-        var html = el.innerHTML;
-        if (html.includes("Huppert") && html.includes("Chapter")) {
-            html = html.replace(/(Huppert['']s Notes: Pathophysiology and Clinical Pearls.*?(?:Chapter \d+:?[^A-Z]*[A-Za-z\s]+))/, '<div class="huppert-ref-card">📖 $1</div>');
-            html = html.replace(/KEY TERMS AND DEFINITIONS/g, '<div class="huppert-key-title">KEY TERMS AND DEFINITIONS</div>');
-            el.innerHTML = html;
-        }
-    });
 });
 </script>
 {{ end }}
