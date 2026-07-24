@@ -10,6 +10,7 @@ key_points:
   - "Ohm's law applied to circulation: Flow = (Pressure difference) / Resistance; mean aortic pressure = Cardiac output × Total peripheral resistance"
   - "The microcirculation (arterioles and capillaries) accounts for most of the total peripheral resistance, allowing precise control of tissue blood flow"
   - "The low capillary blood volume (~7% of total) belies their critical role in diffusion-mediated nutrient and waste exchange between blood and tissues"
+---
 
 ## INTRODUCTION: FUNCTIONS OF THE CIRCULATION
 

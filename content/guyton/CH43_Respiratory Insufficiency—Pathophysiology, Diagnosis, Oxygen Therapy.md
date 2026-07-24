@@ -10,6 +10,7 @@ key_points:
   - "Airway obstruction diseases (asthma, COPD) show decreased maximum expiratory flow at all lung volumes, with greatest reduction at low lung volumes"
   - "Maximum expiratory flow-volume curves are measured by having the subject inhale maximally then exhale with maximum effort"
   - "Maximum voluntary ventilation (MVV) and FEV1 are key clinical measures that complement flow-volume curve analysis"
+---
 
 ## RESPIRATORY INSUFFICIENCY — PATHOPHYSIOLOGY
 

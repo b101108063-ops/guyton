@@ -10,6 +10,7 @@ key_points:
   - "Temperature-increasing mechanisms include skin vasoconstriction, piloerection (arrector pili contraction), and shivering thermogenesis"
   - "Fever results from pyrogens resetting the hypothalamic thermostat to a higher set point via prostaglandin E2"
   - "Nociceptive pain is transmitted by A-delta fibers (fast, sharp pain) and C fibers (slow, dull pain)"
+---
 
 ## POSTERIOR HYPOTHALAMUS INTEGRATES CENTRAL AND PERIPHERAL TEMPERATURE SENSORY SIGNALS
 
