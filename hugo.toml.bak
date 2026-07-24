@@ -5,6 +5,8 @@ theme = 'PaperMod'
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
 
+[markup.goldmark.parser.attribute]
+title = true
 
 [menu]
   [[menu.main]]
