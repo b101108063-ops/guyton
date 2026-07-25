@@ -15,13 +15,13 @@ date = ["date", "publishDate", "lastmod"]
   [[menu.main]]
     identifier = "guyton"
     name = "Guyton 選單"
-    url = "/guyton/guyton/"
+    url = "guyton/"
     weight = 10
 
   [[menu.main]]
     identifier = "search"
     name = "搜尋"
-    url = "/guyton/search/"
+    url = "guyton/search/"
     weight = 20
 
 [outputs]
