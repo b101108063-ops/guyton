@@ -1,14 +1,192 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH58"
-title: "Cerebral Cortex, Intellectual Functions of the Brain, Learning, and Memory"
+title: "大腦皮層、智力功能、學習與記憶"
 book: "Guyton & Hall"
-summary: "The cerebral cortex is organized into six histological layers containing granular, pyramidal, and fusiform neurons that process sensory information and generate motor commands. Different cortical areas have specific functions: primary motor cortex controls discrete muscle movements, premotor and supplementary motor areas plan complex patterns, and association areas integrate multimodal information for higher cognitive functions including learning and memory."
+summary: "大腦皮層由六層組織學結構組成，處理感覺資訊並產生運動指令。皮層不同區域有特定功能：初級運動皮層控制離散肌肉運動，預運動區和輔助運動區計畫複雜運動模式，聯合區整合多模態資訊以執行更高層次的認知功能，包括學習與記憶。"
 key_points:
-  - "The six-layered neocortex contains granular (interneurons), pyramidal (output), and fusiform cells, with layer IV receiving sensory input and layers V-VI giving rise to descending motor projections"
-  - "The primary motor cortex (area 4) has a somatotopic map where hand and facial muscles occupy disproportionately large representation areas"
-  - "Premotor and supplementary motor areas plan complex motor patterns; premotor cortex creates 'motor images' before exciting specific muscle sequences"
-  - "Broca's area (motor speech area) in the inferior premotor cortex is specialized for word formation; lesions cause expressive aphasia"
-  - "The thalamocortical system operates as an integrated unit; thalamic damage combined with cortical loss produces greater dysfunction than either alone"
+  - "新皮層的六層結構包含顆粒細胞（抑制性中間神經元）、錐體細胞（輸出神經元）和梭形細胞；第IV層接收感覺輸入，第V-VI層發出下行運動投射"
+  - "初級運動皮層（Broda 4區）有軀體定位圖，手和面部肌肉佔據不成比例的大區域"
+  - "預運動區和輔助運動區計畫複雜運動模式；預運動皮層在興奮特定肌肉序列前先建立「運動影像」"
+  - "Broca語言區（左側額下回）專門處理單字形成；損傷導致表達性失語症"
+  - "丘腦皮層系統作為整合單位運作；丘腦損傷加上皮層喪失會產生比兩者單獨更大的功能障礙"
 ---
----## OF THE BRAIN Without continuous transmission of nerve signals from the lower brain into the cerebrum, the cerebrum becomes useless. In fact, severe compression of the brain stem at the juncture between the mesencephalon and cerebrum, as sometimes results from a pineal tumor, often causes the person to enter into unremitting coma lasting for the remainder of his or her life. Nerve signals in the brain stem activate the cerebrum in two ways: (1) by directly stimulating a background level of neuronal activity in wide areas of the brain and (2) by activating neurohormonal systems that release specific facilitory or inhibitory hormone-like neurotransmitters into selected areas of the brain. CONTROL OF CEREBRAL ACTIVITY BY CONTINUOUS EXCITATORY SIGNALS ## FROM THE BRAIN STEM Reticular Excitatory Area of the Brain Stem—a Driver of Brain Activity Figure 59-1 shows a general system for controlling the activity level of the brain. The central driving component of this system is an excitatory area located in the reticular substance of the pons and mesencephalon. This area is also called the bulboreticular facilitory area. We also discuss this area in Chapter 56 because it is the same brain stem reticular area that transmits facilitory signals downward to the spinal cord to maintain tone in the antigravity muscles and to control levels of activity of the spinal cord reflexes. In addition to these downward signals, this area also sends a profusion of signals in the upward direction. Most of these signals go first to the thalamus, where they excite a different set of neurons that transmit nerve signals to all regions of the cerebral cortex, as well as to multiple subcortical areas. The signals passing through the thalamus are of two types. One type is rapidly transmitted action potentials that excite the cerebrum for only a few milliseconds. These signals originate from large neuronal cell bodies that lie throughout the brain stem reticular area. Their nerve endings release the neurotransmitter acetylcholine, which serves as an excitatory agent that lasts for only a few milliseconds before it is destroyed. The second type of excitatory signal originates from large numbers of small neurons spread throughout the brain stem reticular excitatory area. Again, most of these signals pass to the thalamus, but through small, slowly conducting fibers that synapse mainly in the intralaminar nuclei of the thalamus and in the reticular nuclei over the surface of the thalamus. From here, additional small fibers are distributed throughout the cerebral cortex. The excitatory effect caused by this system of fibers can build up progressively for many seconds to a minute or more, which suggests that its signals are especially important for controlling the longer term background excitability level of the brain. Excitation of the Reticular Excitatory Area by Peripheral Sensory Signals. The level of activity of the reticular excitatory area in the brain stem, and therefore the level of activity of the entire brain, is determined to a great extent by the number and type of sensory signals that enter the brain from the periphery. Pain signals in particular increase activity in this excitatory area and therefore strongly excite the brain to attention. The importance of sensory signals in activating the excitatory area is demonstrated by the effect of cutting the brain stem above the point where the fifth cerebral nerves enter the pons. These nerves are the highest nerves entering the brain that transmit significant numbers of The Limbic System and the Hypothalamus— Behavioral and Motivational Mechanisms of the Brain somatosensory signals into the brain. When all these input sensory signals are gone, the level of activity in the brain excitatory area diminishes abruptly, and the brain proceeds instantly to a state of greatly reduced activity, approaching a permanent state of coma. However, when the brain stem is transected below the fifth nerves, which leaves much input of sensory signals from the facial and oral regions, the coma is averted. Increased Activity of the Excitatory Area Caused by Feedback Signals Returning From the Cerebral Cortex. Not only do excitatory signals pass to the cerebral cortex from the bulboreticular excitatory area of the brain stem, but feedback signals also return from the cerebral cortex back to this same area. Therefore, any time the cerebral cortex becomes activated by brain thought processes or by motor processes, signals are sent from the cortex to the brain stem excitatory area, which in turn sends still more excitatory signals to the cortex. This process helps to maintain the level of excitation of the cerebral cortex or even to enhance it. This is a positive feedback mechanism that allows any beginning activity in the cerebral cortex to support still more activity, thus leading to an “awake” mind. The Thalamus Is a Distribution Center That Controls Activity in Specific Regions of the Cortex. As pointed out in Chapter 58, almost every area of the cerebral cortex connects with its own highly specific area in the thalamus. Therefore, electrical stimulation of a specific point in the thalamus generally activates its own specific small region of the cortex. Furthermore, signals regularly reverberate back and forth between the thalamus and the cerebral cortex, with the thalamus exciting the cortex and the cortex then re-exciting the thalamus via return fibers. Activation of these back-andforth reverberation signals has been suggested to establish long-term memories. Whether the thalamus also functions to call forth specific memories from the cortex or to activate specific thought processes is still unclear, but the thalamus does have appropriate neuronal circuitry for these purposes. A Reticular Inhibitory Area Is Located in the Lower Brain Stem Figure 59-1 shows another area that is important in controlling brain activity—the reticular inhibitory area, located medially and ventrally in the medulla. In Chapter 56, we learned that this area can inhibit the reticular facilitory area of the upper brain stem and thereby decrease activity in the superior portions of the brain. One of the mechanisms for this activity is to excite serotonergic neurons, which in turn secrete the inhibitory neurohormone serotonin at crucial points in the brain; we discuss this concept in more detail later. NEUROHORMONAL CONTROL OF BRAIN ## ACTIVITY Aside from direct control of brain activity by specific transmission of nerve signals from the lower brain areas to the cortical regions of the brain, still another physiological mechanism is often used to control brain activity. This mechanism is to secrete excitatory or inhibitory neurotransmitter hormonal agents into the substance of the brain. These neurohormones often persist for minutes or hours and thereby provide long periods of control, rather than just instantaneous activation or inhibition. Figure 59-2 shows three neurohormonal systems that have been studied in detail in the rat brain: (1) a norepinephrine system, (2) a dopamine system, and (3) a serotonin system. Norepinephrine usually functions as an excitatory hormone, whereas serotonin is usually inhibitory and dopamine is excitatory in some areas but inhibitory in others. As would be expected, these three systems have different effects on levels of excitability in different parts of the brain. The norepinephrine system spreads to virtually every area of the brain, whereas the serotonin and dopamine systems are directed much more to specific brain regions—the dopamine system mainly into the basal ganglial regions and the serotonin system more into the midline structures. Neurohormonal Systems in the Human Brain. Figure 59-3 shows the brain stem areas in the human brain for activating four neurohormonal systems, the same three discussed for the rat and one other, the acetylcholine system. Some of the specific functions of these systems are as follows. Thalamus Inhibitory area Excitatory area Fifth cranial nerve > **Figure 59-1 The excitatoryactivating system of the brain. Also shown is an inhibitory area in the medulla that can inhibit or depress the activating system.**
+
+## 大腦皮層的結構與功能
+
+### 六層新皮層組織學
+
+大腦皮層是由神經元組成的複雜結構。
+
+這些神經元排列成六個主要的組織學層次：
+
+| 層次 | 名稱 | 功能 |
+|------|------|------|
+| I | 分子層 | 樹突和水平神經元 |
+| II | 外顆粒層 | 小顆粒神經元 |
+| III | 外錐體層 | 錐體細胞（皮層內投射）|
+| IV | 內顆粒層 | 接收感覺輸入 |
+| V | 內錐體層 | 發出皮層下投射 |
+| VI | 多形層 | 梭形細胞（皮層投射）|
+
+### 皮層區域的功能專門化
+
+皮層的不同區域負責不同功能：
+
+**運動皮層**分布於中央前回，負責控制隨意運動。
+
+**感覺皮層**分布於中央後回，負責處理體感覺資訊。
+
+**視覺皮層**位於枕葉，負責處理視覺資訊。
+
+**聽覺皮層**位於顳葉，負責處理聽覺資訊。
+
+### 大腦半球優勢半球
+
+大多數人的左側大腦半球是<span class="c-red">語言優勢半球</span>。
+
+右側半球主要處理<span class="c-cyan">三度空間知覺</span>和<span class="c-cyan">創造力</span>。
+
+## 皮層的運動控制功能
+
+### 初級運動皮層
+
+<span class="c-red">初級運動皮層</span>（Broda 4區）控制軀體對側的離散肌肉運動。
+
+這個區域有精確的<span class="c-yellow">軀體定位圖（somatotopic map）</span>。
+
+手的代表區域異常大（因為需要精細控制）。
+
+面部和口的代表區域也很大。
+
+### 預運動區與輔助運動區
+
+<span class="c-red">預運動區</span>（6區）位於初級運動皮層前方。
+
+這個區域的功能是<span class="c-green">計畫複雜的運動模式</span>。
+
+預運動皮層創造「運動影像」，然後興奮特定的肌肉序列。
+
+<span class="c-red">輔助運動區</span>位於半球內側面。
+
+這個區域負責雙側運動計畫和複雜運動序列。
+
+### Broca語言區
+
+<span class="c-red">Broca區</span>位於左側額下回。
+
+這是<span class="c-cyan">運動語言區</span>，專門處理單字形成。
+
+損傷導致<span class="c-yellow">表達性失語症</span>：患者能理解語言但無法形成流暢言語。
+
+## 皮層的聯合功能
+
+### 聯合皮層的重要性
+
+皮層聯合區佔據了大部分的皮層表面積。
+
+這些區域不直接處理感覺輸入或產生運動輸出。
+
+相反，它們<span class="c-green">整合來自多個來源的資訊</span>。
+
+### 頂葉聯合皮層
+
+<span class="c-red">頂葉聯合皮層</span>整合多種感覺資訊。
+
+這個區域負責：
+- 空間定位
+- 肢體位置感知
+- 物件辨識
+
+### 額葉聯合皮層
+
+<span class="c-red">額葉聯合皮層</span>與人格、判斷和計畫有關。
+
+這個區域讓人能夠：
+- 做出未來計畫
+- 抑制不當行為
+- 保持專注
+
+### 顳葉聯合皮層
+
+<span class="c-red">顳葉聯合皮層</span>負責：
+- 語言理解（左側）
+- 面孔辨識（右側）
+- 情緒記憶
+
+## 學習慣與記憶
+
+### 記憶的類型
+
+記憶可分為幾種主要類型：
+
+| 類型 | 特點 | 持續時間 |
+|------|------|----------|
+| <span class="c-yellow">感覺記憶</span> | 原始感覺輸入 | 毫秒至秒 |
+| <span class="c-yellow">短期記憶</span> | 意識注意的內容 | 秒至分鐘 |
+| <span class="c-yellow">長期記憶</span> | 持久儲存的資訊 | 小時至終生 |
+
+### 短期記憶轉化為長期記憶
+
+海馬迴在<span class="c-green">短期記憶轉化為長期記憶</span>的過程中起關鍵作用。
+
+這個過程稱為<span class="c-cyan">記憶鞏固（consolidation）</span>。
+
+一旦鞏固完成，記憶就分佈儲存在整個皮層。
+
+### 長期增益作用
+
+<span class="c-red">長期增益作用（LTP）</span>是記憶的細胞機制。
+
+當突觸快速重複刺激時會發生：
+
+- 受體數量增加
+- 突觸效能增強
+- 新蛋白質合成（長期LTP需要）
+
+LTP主要發生在<span class="c-yellow">海馬迴</span>的<span class="c-yellow">CA3區</span>。
+
+## 丘腦皮層系統
+
+### 丘腦作為整合中樞
+
+<span class="c-red">丘腦</span>幾乎與皮層的每個區域都有特異性連接。
+
+這種連接是雙向的：
+- 丘腦→皮層（興奮性投射）
+- 皮層→丘腦（回饋投射）
+
+### 丘腦在皮層活動控制中的角色
+
+信號規律地在丘腦和大腦皮層之間來回振盪。
+
+這種來回振盪被假設用於<span class="c-cyan">建立長期記憶</span>。
+
+丘腦可能也負責從皮層召喚特定記憶或激活特定思維過程。
+
+### 網狀結構的調控作用
+
+<span class="c-red">丘腦網狀結構（RT）</span>包圍著丘腦外側。
+
+RT抑制性地調節丘腦皮層投射。
+
+這個系統參與：
+- 注意力切換
+- 睡眠紡織波的產生
+- 感覺門控
+
+## 皮層的意識功能
+
+### 意識的神經基礎
+
+意識需要整個大腦的協調活動。
+
+網狀結構的<span class="c-yellow">上行啟動系統</span>對維持意識至關重要。
+
+皮層本身也需要連續的神經信號輸入才能保持活躍。
+
+### 大腦皮層與意識的關係
+
+如果腦幹與大腦交界處嚴重受壓（例如松果體腫瘤），人會進入<span class="c-red">不可逆的昏迷</span>。
+
+這證明了<span class="c-cyan">上行啟動系統</span>對意識的關鍵作用。

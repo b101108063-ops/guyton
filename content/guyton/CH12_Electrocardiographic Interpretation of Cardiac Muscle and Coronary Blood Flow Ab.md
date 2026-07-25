@@ -1,62 +1,142 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH12"
-title: "Electrocardiographic Interpretation of Cardiac Muscle and Coronary Blood Flow Abnormalities"
+title: "心電圖判讀與冠狀血流"
 book: "Guyton & Hall"
-summary: "T wave abnormalities on ECG reflect altered repolarization sequences caused by conditions such as ischemia, bundle branch block, or digitalis toxicity. The polarity and morphology of the T wave provide diagnostic clues about the underlying cardiac pathology affecting ventricular repolarization."
+summary: "T波異常反映由缺血、束支傳導阻滯或毛地黃毒性等情況引起的復極化順序改變。T波的極性和形態提供關於影響心室復極化的潛在心臟病理的診斷線索。"
 key_points:
-  - "The T wave is normally positive in standard limb leads because the apex and outer ventricular surfaces repolarize ahead of the intraventricular surfaces"
-  - "Bundle branch block prolongs the QRS complex and causes the T wave to become opposite in polarity to the QRS complex because ventricular refractory periods differ between the blocked and non-blocked sides"
-  - "Mild myocardial ischemia shortens the depolarization period by increasing potassium channel current flow, causing T wave inversion or biphasic morphology"
-  - "Digitalis toxicity produces nonspecific T wave changes including inversion or biphasic T waves, often serving as the earliest sign of drug overdose"
-  - "Abnormally short depolarization of the ventricular base (shortened action potential) causes the base to repolarize before the apex, reversing the normal repolarization vector and inverting the T wave"
+  - "T波在標準肢體導聯通常為正向，因為心尖和心室外表面先於心室內表面復極化"
+  - "束支傳導阻滯使 QRS 波群延長，T波變為與 QRS 波群極性相反，因為傳導阻滯側和未阻滯側的心室不反應期不同"
+  - "輕度心肌缺血通過增加鉀離子通道電流使復極化期縮短，導致 T波倒置或雙向形態"
+  - "毛地黃毒性產生非特異性 T波變化，包括倒置或雙向 T波，常作為藥物過量的最早徵兆"
+  - "心室底部異常縮短的復極化（縮短動作電位）使底部先於心尖復極化，逆轉正常的復極化向量並使 T波倒置"
+---
+
+## T波異常的機制
+
+### 正常 T波的形成
+
+正常情況下，T波在所有標準雙極肢體導聯為<span class="c-green">正向</span>。這是因為<span class="c-cyan">心尖和心室外表面</span>先於心室內表面復極化。
+
+當正常的復極化順序不再發生時，T波就會變得異常。多種因素（包括心肌缺血）可以改變這個復極化順序。
+
+## 傳導延遲對 T波的影響
+
+### 束支傳導阻滯
+
+圖 12-14 顯示 QRS 波群顯著延長。原因是**左心室傳導延遲**導致<span class="c-red">左束支傳導阻滯（Left bundle branch block）</span>。
+
+這種傳導延遲使左心室大約在右心室復極化後 **0.08 秒**才開始復極化，產生強大的向左 QRS 平均向量。
+
+然而，右心室和左心室肌肉質量的不反應期彼此差異不大。因此：
+
+| 時序 | 電位變化 |
+|------|---------|
+| 右心室先開始復極化 | 產生強大正電位 |
+| 左心室延遲復極化 | 產生負電位 |
+| T波平均軸偏向右側 | **與 QRS 平均電軸方向相反** |
+
+所以，當去極化脈動通過心室的傳導大幅延遲時，T波幾乎總是與 QRS 波群的極性<span class="c-red">相反</span>。
+
+## 復極化縮短與 T波異常
+
+如果心室底部表現為異常縮短的復極化期（縮短的動作電位），心室復極化就不會像正常情況那樣從心尖開始。
+
+相反，心室底部會<span class="c-red">先於</span>心尖復極化。復極化向量將從心尖指向心室底部——與標準復極化向量方向相反。
+
+因此，三個標準導聯的 T波都會是<span class="c-red">負向</span>而不是通常的正向。心室底部復極化期的縮短足以引起 T波的顯著變化，甚至改變整個 T波極性（圖 12-23）。
+
+## 缺血對 T波的影響
+
+### 輕度缺血的效應
+
+<span class="c-yellow">輕度缺血</span>是心臟肌肉復極化期縮短的最常見原因，因為這種情況**增加了鉀離子通道的電流流動**。
+
+當心臟某個區域發生缺血時，該區域的復極化期會不成比例地縮短。因此，T波形態的變化——如倒置或雙向波形——可能是心肌缺血的證據。
+
+### 缺血的常見原因
+
+| 病因 | 機制 |
+|------|------|
+| **慢性進行性冠狀動脈狹窄** | 冠狀動脈逐漸變窄 |
+| **急性冠狀動脈阻塞** | 血栓突然阻斷血流 |
+| **冠狀動脈痙攣** | 血管平滑肌突然收縮 |
+| **運動或嚴重貧血時相對性冠狀灌注不足** | 供需不平衡 |
+
+### 缺血的 T波變化
+
+| 缺血程度 | T波形態 | 機制 |
+|---------|---------|------|
+| **輕度缺血** | T波輕度倒置或低平 | 動作電位縮短 |
+| **中度缺血** | T波明顯倒置 | 復極化順序明顯改變 |
+| **重度缺血/梗塞** | 深倒置或寬大倒置 | 動作電位顯著縮短 |
+
+## 毛地黃對 T波的影響
+
+<span class="c-yellow">毛地黃（Digitalis）</span>是一種在心臟衰竭時用於增強心肌收縮力的藥物（第 22 章討論）。
+
+然而，當給予過量毛地黃時，心室某部分的復極化期可能會不成比例地延長。因此，會發生**非特異性變化**——例如在一個或多個心電圖導聯中出現 T波倒置或雙向 T波。
+
+毛地黃過量引起的雙向 T波如圖 12-24 所示。毛地黃給藥期間的 T波變化通常是**毛地黃毒性的最早徵兆**。
+
+### 毛地黃毒性的臨床意義
+
+| 毛地黃毒性徵兆 | 說明 |
+|---------------|------|
+| **T波變化** | 最早、最常見的徵兆 |
+| **QT 間期縮短** | 動作電位縮短 |
+| **ST 段下斜型压低** | 勺狀改變 |
+| **心律不整** | 可能危及生命 |
+
+## 冠狀血流與心電圖的關係
+
+### 冠狀循環的生理學
+
+冠狀血流供應心肌本身。冠狀血流減少會導致心肌缺血，進而影響心臟的電生理特性。
+
+| 冠狀血管 | 功能 |
+|---------|------|
+| **左冠狀動血流** | 主要供應左心室 |
+| **右冠狀動血流** | 主要供應右心室和傳導系統 |
+
+### 冠狀血流減少對心電圖的影響
+
+心肌缺血時：
+
+1. **細胞內 K+ 外流增加**
+2. **動作電位時程縮短**
+3. **復極化順序改變**
+4. **T波形態異常**
+
+這些電生理變化反映在心電圖上，提供心肌缺血的診斷線索。
+
+## 臨床上常見的心電圖解讀模式
+
+### 缺血性心電圖變化
+
+| 臨床情況 | 心電圖特徵 |
+|---------|-----------|
+| **穩定型心絞痛** | 運動時 ST 段压低 |
+| **不穩定型心絞痛** | ST 段压低或 T波倒置（可在休息時出現） |
+| **急性心肌梗塞** | ST 段抬高 → T波倒置 → Q波出現 |
+| **慢性冠心病** | T波低平或倒置 |
+
+### 藥物相關心電圖變化
+
+| 藥物 | 心電圖變化 |
+|------|-----------|
+| **毛地黃** | ST 段魚鉤樣压低、T波倒置、QT 縮短 |
+| **奎尼丁** | QT 間期延長、QRS 增寬 |
+| **胺碘酮** | QT 間期延長、T波增寬 |
 
 ---
-## ABNORMALITIES IN THE T WAVE
 
-Earlier in the chapter, we noted that the T wave is normally positive in all the standard bipolar limb leads. This is caused by repolarization of the apex and outer surfaces of the ventricles ahead of the intraventricular surfaces.
+## 總結：T波判讀要點
 
-The T wave becomes abnormal when the normal sequence of repolarization does not occur. Several factors, including myocardial ischemia, can change this sequence of repolarization.
-
-## EFFECT OF SLOW CONDUCTION OF THE DEPOLARIZATION WAVE ON THE CHARACTERISTICS OF THE T WAVE
-
-Figure 12-14 shows that the QRS complex is considerably prolonged. The reason for this prolongation is **delayed conduction in the left ventricle** resulting from left bundle branch block.
-
-This delayed conduction causes the left ventricle to become depolarized about **0.08 second** after depolarization of the right ventricle, which gives a strong mean QRS vector to the left.
-
-However, the refractory periods of the right and left ventricular muscle masses are not greatly different from each other. Therefore:
-
-- The right ventricle begins to repolarize **long before** the left ventricle.
-- This causes strong **positivity in the right ventricle** and **negativity in the left ventricle** when the T wave is developing.
-- The mean axis of the T wave is deviated to the right — **opposite to the mean electrical axis of the QRS complex**.
-
-Thus, when conduction of the depolarization impulse through the ventricles is greatly delayed, the T wave is almost always of **opposite polarity** to that of the QRS complex.
-
-## SHORTENED DEPOLARIZATION AND T-WAVE ABNORMALITIES
-
-If the base of the ventricles exhibits an abnormally short period of depolarization (a shortened action potential), repolarization of the ventricles would not begin at the apex as it normally does.
-
-Instead, the base of the ventricles would repolarize **ahead of the apex**. The vector of repolarization would point from the apex toward the base of the heart — opposite to the standard vector of repolarization.
-
-Consequently, the T wave in all three standard leads would be **negative** rather than the usual positive. A shortened depolarization period in the base of the ventricles is sufficient to cause marked changes in the T wave, even to the extent of changing the entire T-wave polarity (Figure 12-23).
-
-### Mild Ischemia
-
-Mild ischemia is the most common cause of shortening of depolarization of cardiac muscle because this condition **increases current flow through the potassium channels**.
-
-When ischemia occurs in only one area of the heart, the depolarization period of that area decreases out of proportion to that in other portions. As a result, changes in the T-wave morphology — such as inversion or biphasic waveforms — can be evidence of myocardial ischemia.
-
-Causes of ischemia include:
-
-- Chronic, progressive coronary stenosis (narrowing)
-- Acute coronary occlusion
-- Coronary artery spasm
-- Relative coronary insufficiency during exercise or severe anemia
-
-### Effect of Digitalis on the T Wave
-
-Digitalis is a drug that can be used during heart failure to increase the strength of cardiac muscle contraction (discussed in Chapter 22).
-
-However, when an overdose of digitalis is given, depolarization duration in one part of the ventricles may be increased out of proportion to that of other parts. As a result, **nonspecific changes** occur — such as T-wave inversion or biphasic T waves — in one or more of the electrocardiographic leads.
-
-A biphasic T wave caused by excessive administration of digitalis is shown in Figure 12-24. Changes in the T wave during digitalis administration are often the **earliest signs of digitalis toxicity**.
+| T波形態 | 可能原因 |
+|---------|---------|
+| **高尖 T波（ Hyperkalemia）** | 高血鉀 |
+| **低平 T波** | 低血鉀、甲狀腺功能減退 |
+| **倒置 T波** | 心肌缺血、左心室肥大、腦血管意外 |
+| **雙向 T波** | 毛地黃毒性、心肌缺血 |
+| **巨大倒置 T波** | 心尖肥厚型心肌病、腦血管意外 |

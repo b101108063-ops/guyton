@@ -1,26 +1,290 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH61"
-title: "Autonomic Nervous System and the Adrenal Medulla"
+title: "腎上腺皮質激素——糖皮質素、礦物皮質素與雄性素"
 book: "Guyton & Hall"
-summary: "The autonomic nervous system (ANS) consists of sympathetic and parasympathetic divisions that control involuntary functions of visceral organs. Sympathetic neurons originate from spinal cord T1-L2, pass through paravertebral ganglia and prevertebral ganglia to reach effectors. Parasympathetic fibers travel via cranial nerves III, VII, IX, X and sacral nerves S2-S4. The adrenal medulla, embryologically a sympathetic ganglion, secretes epinephrine and norepinephrine directly into the bloodstream."
+summary: "腎上腺皮質分泌兩大類激素：礦物皮質素（如醛固酮）和糖皮質素（如皮質醇），以及少量雄性素。皮質分為三層：球狀帶（分泌醛固酮）、束狀帶（分泌皮質醇）和網狀帶（分泌雄性素）。這些激素調控電解質平衡、血糖濃度、蛋白質和脂肪代謝，以及壓力反應。"
 key_points:
-  - "Sympathetic preganglionic fibers originate from intermediolateral horn cells (T1-L2), pass through white rami into paravertebral sympathetic chain, and synapse in chain ganglia or pass through as splanchnic nerves to prevertebral ganglia"
-  - "Postganglionic sympathetic fibers travel via gray rami back to spinal nerves (C fibers) to innervate blood vessels, sweat glands, and piloerector muscles throughout the body"
-  - "Parasympathetic preganglionic fibers are long; most vagal parasympathetic fibers (CN X) synapse in or near the target organ in intramural ganglia"
-  - "The adrenal medulla is a modified sympathetic ganglion where preganglionic fibers (without synapsing) directly innervate chromaffin cells that secrete epinephrine and norepinephrine"
-  - "Sympathetic stimulation causes fight-or-flight responses (increased heart rate, bronchodilation, pupil dilation, decreased GI motility); parasympathetic stimulation promotes rest-and-digest functions"
+  - "腎上腺皮質分為三層：球狀帶（15%，分泌醛固酮）、束狀帶（75%，分泌皮質醇）和網狀帶（內層，分泌雄性素）"
+  - "醛固酮分泌主要受血管張力素II和血鉀濃度調節；皮質醇分泌主要受ACTH調節"
+  - "所有類固醇激素都由膽固醇合成；大約80%的膽固醇來自血漿LDL"
+  - "皮質醇具有輕度礦物皮質素活性；過量皮質醇可導致明顯的礦物皮質素效應（如庫欣氏症候群）"
+  - " dexamethasone是強效糖皮質素，幾乎無礦物皮質素活性，常用於治療"
 ---
----## GLUCOCORTICOIDS, AND ANDROGENS Two major types of adrenocortical hormones, the mineralocorticoids and the glucocorticoids, are secreted by the adrenal cortex. In addition to these hormones, small amounts of sex hormones are secreted, especially androgenic hormones, which exhibit about the same effects in the body as the male sex hormone testosterone. They are normally of only slight importance, although in certain abnormalities of the adrenal cortices, extreme quantities can be secreted (which is discussed later in the chapter) and can result in masculinizing effects. The mineralocorticoids gained this name because they especially affect the electrolytes (the “minerals”) of the extracellular fluids, especially sodium and potassium. The glucocorticoids gained their name because they exhibit important effects that increase blood glucose concentration. They have additional effects on protein and fat metabolism that are equally as important to body function as their effects on carbohydrate metabolism. More than 30 steroids have been isolated from the adrenal cortex, but two are of exceptional importance to the normal endocrine function of the human body: aldosterone, which is the principal mineralocorticoid, and cortisol, which is the principal glucocorticoid. SYNTHESIS AND SECRETION OF ## THE ADRENAL CORTEX HAS THREE DISTINCT LAYERS > **Figure 78-1 shows that the adrenal cortex is composed of three relatively distinct layers: 1. The zona glomerulosa, a thin layer of cells that lies just underneath the capsule, constitutes about 15% of the adrenal cortex. These cells are the only ones in the adrenal gland capable of secreting significant amounts of aldosterone because they contain the enzyme aldosterone synthase, which is necessary for synthesis of aldosterone. The secretion of these cells Adrenocortical Hormones Cortisol and androgens Magnified section Zona glomerulosa aldosterone Zona fasciculata Zona reticularis Cortex Medulla (catecholamines)** > **Figure 78-1. Secretion of adrenocortical hormones by the different zones of the adrenal cortex and secretion of catecholamines by the adrenal medulla. UNIT XIV Endocrinology and Reproduction** is controlled mainly by the extracellular fluid concentrations of angiotensin II and potassium, both of which stimulate aldosterone secretion.
-2. The zona fasciculata, the middle and widest zone, constitutes about 75% of the adrenal cortex and secretes the glucocorticoids cortisol and corticosterone, as well as small amounts of adrenal androgens and estrogens. The secretion of these cells is controlled in large part by the hypothalamic-pituitary axis via adrenocorticotropic hormone (ACTH). 3.
-The zona reticularis, the inner zone of the cortex, secretes the adrenal androgens dehydroepiandrosterone and androstenedione, as well as small amounts of estrogens and some glucocorticoids. ACTH also regulates secretion of these cells, although other factors such as cortical androgen-stimulating hormone, released from the pituitary, may also be involved. The mechanisms for controlling adrenal androgen production, however, are not nearly as well understood as those for glucocorticoids and mineralocorticoids.
-Aldosterone and cortisol secretion are regulated by independent mechanisms. Factors such as angiotensin II that specifically increase the output of aldosterone and cause hypertrophy of the zona glomerulosa have no effect on the other two zones. Similarly, factors such as ACTH that increase secretion of cortisol and adrenal androgens and cause hypertrophy of the zona fasciculata and zona reticularis have little effect on the zona glomerulosa.
-Adrenocortical Hormones Are Steroids Derived From Cholesterol. All human steroid hormones, including those produced by the adrenal cortex, are synthesized from cholesterol. Although the cells of the adrenal cortex can synthesize de novo small amounts of cholesterol from acetate, approximately 80% of the cholesterol used for steroid synthesis is provided by low-density lipoproteins (LDLs) in the circulating plasma.
-The LDLs, which have high concentrations of cholesterol, diffuse from the plasma into the interstitial fluid and attach to specific receptors contained in structures called coated pits on the adrenocortical cell membranes. The coated pits are then internalized by endocytosis, forming vesicles that eventually fuse with cell lysosomes and release cholesterol that can be used to synthesize adrenal steroid hormones. Transport of cholesterol into the adrenal cells is regulated by feedback mechanisms that can markedly alter the amount available for steroid synthesis.
-For example, ACTH, which stimulates adrenal steroid synthesis, increases the number of adrenocortical cell receptors for LDL, as well as the activity of enzymes that liberate cholesterol from LDL. Once the cholesterol enters the cell, it is delivered to the mitochondria, where it is cleaved by the enzyme cholesterol desmolase to form pregnenolone; this is the rate-limiting step in the eventual formation of adrenal steroids (Figure 78-2). In all three zones of the adrenal cortex, this initial step in steroid synthesis is stimulated by the different factors that control secretion of the major hormone products aldosterone and cortisol.
-For example, both ACTH, which stimulates cortisol secretion, and angiotensin II, which stimulates aldosterone secretion, increase conversion of cholesterol to pregnenolone. Synthetic Pathways for Adrenal Steroids. Figure 78-2 gives the principal steps in the formation of the important steroid products of the adrenal cortex: aldosterone, cortisol, and the androgens.
-Essentially all these steps occur in two of the organelles of the cell, the mitochondria and the endoplasmic reticulum, with some steps occurring in one of these organelles and some in the other. Each step is catalyzed by a specific enzyme system. A change in even a single enzyme in the schema can cause vastly different types and relative proportions of hormones to be formed.
-For example, very large quantities of masculinizing sex hormones or other steroid compounds not normally present in the blood can occur with altered activity of only one of the enzymes in this pathway. The chemical formulas of aldosterone and cortisol, which are the major mineralocorticoid and glucocorticoid hormones, respectively, are shown in Figure 78-2. Cortisol has a keto oxygen on carbon number 3 and is hydroxylated at carbon numbers 11 and 21.
-The mineralocorticoid aldosterone has an oxygen atom bound at the number 18 carbon. In addition to aldosterone and cortisol, other steroids having glucocorticoid or mineralocorticoid activities, or both, are normally secreted in small amounts by the adrenal cortex. Furthermore, several additional potent steroid hormones not normally formed in the adrenal glands have been synthesized and are used in various forms of therapy.
-Some of the more important of the corticosteroid hormones, including the synthetic ones, are the following, as summarized in Table 78-1. Mineralocorticoids • Aldosterone (very potent; accounts for ≈90% of all mineralocorticoid activity) • Deoxycorticosterone (1/30 as potent as aldosterone, but very small quantities are secreted) • Corticosterone (slight mineralocorticoid activity) • 9αFluorocortisol (synthetic; slightly more potent than aldosterone) • Cortisol (slight mineralocorticoid activity, but a large quantity is secreted) • Cortisone (slight mineralocorticoid activity) Glucocorticoids • Cortisol (very potent; accounts for ≈95% of all glucocorticoid activity) • Corticosterone (provides ≈4% of total glucocorticoid activity, but is much less potent than cortisol) • Cortisone (almost as potent as cortisol) • Prednisone (synthetic; four times as potent as cortisol) • Methylprednisone (synthetic; five times as potent as cortisol) • Dexamethasone (synthetic; 30 times as potent as cortisol) It is clear from this list that some of these hormones and synthetic steroids have both glucocorticoid and mineralocorticoid activities. It is especially significant that cortisol normally has some mineralocorticoid activity, because some syndromes of excess cortisol secretion can cause significant mineralocorticoid effects, along with its much more potent glucocorticoid effects.
-The intense glucocorticoid activity of the synthetic hormone dexamethasone, which has almost zero mineralocorticoid activity, makes it an especially important drug for stimulating specific glucocorticoid activity.
+
+## 腎上腺皮質激素概述
+
+### 兩大類腎上腺皮質激素
+
+腎上腺皮質分泌兩種主要類型的激素：
+
+| 類型 | 主要激素 | 主要功能 |
+|------|----------|----------|
+| <span class="c-red">礦物皮質素</span> | 醛固酮 | 調節鈉鉀平衡 |
+| <span class="c-cyan">糖皮質素</span> | 皮質醇 | 調節血糖、抑制發炎 |
+
+此外，還分泌少量<span class="c-yellow">性激素</span>（尤其是雄性素）。
+
+### 礦物皮質素的名稱由來
+
+礦物皮質素這個名稱來自它們對<span class="c-yellow">細胞外液電解質</span>的顯著影響，特別是鈉和鉀。
+
+### 糖皮質素的名稱由來
+
+糖皮質素這個名稱來自它們能增加<span class="c-cyan">血糖濃度</span>的重要作用。
+
+它們對蛋白質和脂肪代謝的作用對身體功能同樣重要。
+
+### 重要的腎上腺皮質激素
+
+超過30種類固醇已從腎上腺皮質分離出來。
+
+兩種對人體正常內分泌功能最重要的激素是：
+
+| 激素 | 類型 | 重要性 |
+|------|------|--------|
+| <span class="c-red">醛固酮</span> | 礦物皮質素 | 主要礦物皮質素 |
+| <span class="c-cyan">皮質醇</span> | 糖皮質素 | 主要糖皮質素 |
+
+## 腎上腺皮質的三層結構
+
+### 皮質分層示意
+
+腎上腺皮質由三個相對分明的層次組成：
+
+```
+腎上腺結構（外→內）
+┌─────────────────────┐
+│  被膜（Capsule）     │ 
+├─────────────────────┤
+│  球狀帶（15%）       │ ← 分泌醛固酮
+│  Zona Glomerulosa   │
+├─────────────────────┤
+│  束狀帶（75%）       │ ← 分泌皮質醇
+│  Zona Fasciculata   │
+├─────────────────────┤
+│  網狀帶（10%）       │ ← 分泌雄性素
+│  Zona Reticularis   │
+├─────────────────────┤
+│  髓質（Medulla）     │ ← 分泌兒茶酚胺
+│  （腎上腺素/正腎上腺素）│
+└─────────────────────┘
+```
+
+### 球狀帶（Zona Glomerulosa）
+
+<span class="c-red">球狀帶</span>是位於被膜下方的薄層細胞，佔腎上腺皮質約<span class="c-yellow">15%</span>。
+
+這些細胞是腎上腺中唯一能分泌大量<span class="c-red">醛固酮</span>的細胞。
+
+因為它們含有合成醛固酮所必需的<span class="c-cyan">醛固酮合成酶</span>。
+
+**分泌調節**：
+- <span class="c-yellow">血管張力素II</span>（主要刺激）
+- <span class="c-yellow">血鉀濃度</span>（主要刺激）
+
+### 束狀帶（Zona Fasciculata）
+
+<span class="c-red">束狀帶</span>是中間和最寬的區域，佔腎上腺皮質約<span class="c-yellow">75%</span>。
+
+這個區域分泌：
+- <span class="c-cyan">皮質醇</span>
+- <span class="c-cyan">皮質酮</span>
+- 少量腎上腺雄性素和雌激素
+
+**分泌調節**：
+主要通過<span class="c-yellow">下視丘-腦下垂體軸</span>受<span class="c-cyan">ACTH</span>（促腎上腺皮質激素）控制。
+
+### 網狀帶（Zona Reticularis）
+
+<span class="c-red">網狀帶</span>是皮質的內層區域。
+
+分泌：
+- <span class="c-yellow">去氫錤雄烯二酮（DHEA）</span>
+- <span class="c-yellow">雄烯二酮</span>
+- 少量雌激素和糖皮質素
+
+**分泌調節**：
+也受ACTH調節，但其他因素如<span class="c-cyan">皮質雄性素刺激激素</span>可能也參與。
+
+## 激素分泌的獨立調節
+
+### 醛固酮與皮質醇的調節是獨立的
+
+<span class="c-red">醛固酮</span>和<span class="c-cyan">皮質醇</span>的分泌由獨立機制調節。
+
+例如，血管張力素II增加醛固酮輸出並引起球狀帶肥大的因素，對其他兩層沒有影響。
+
+同樣，ACTH增加皮質醇和腎上腺雄性素分泌並引起束狀帶和網狀帶肥大的因素，對球狀帶影響很小。
+
+## 類固醇激素的合成
+
+### 膽固醇是所有類固醇激素的前驅物
+
+所有人類類固醇激素（包括腎上腺皮質產生的）都是從<span class="c-yellow">膽固醇</span>合成的。
+
+腎上腺皮質細胞可以從醋酸鹽新生合成少量膽固醇。
+
+但用於類固醇合成的大約<span class="c-yellow">80%</span>的膽固醇是由循環血漿中的<span class="c-red">低密度脂蛋白（LDL）</span>提供的。
+
+### LDL受體介導的膽固醇攝取
+
+LDLs攜帶高濃度膽固醇，它們從血漿擴散到間質液中。
+
+這些LDL附著在腎上腺皮質細胞膜上稱為<span class="c-cyan">被覆凹陷（coated pits）</span>的特定受體上。
+
+被覆凹陷通過<span class="c-yellow">胞吞作用</span>內化，形成囊泡。
+
+囊泡最終與細胞溶酶體融合，釋放可用於合成腎上腺類固醇激素的膽固醇。
+
+### 膽固醇轉運的調節
+
+<span class="c-red">ACTH</span>刺激腎上腺類固醇合成，它會：
+
+- 增加腎上腺皮質細胞上<span class="c-yellow">LDL受體</span>的數量
+- 增加從LDL游離膽固醇的酶活性
+
+### 類固醇合成的第一步
+
+一旦膽固醇進入細胞，它被送到粒線體。
+
+在粒線體中，它被<span class="c-red">膽固醇碳鏈裂解酶（P450scc）</span>切割形成<span class="c-cyan">孕烯醇酮</span>。
+
+這是類固醇形成的<span class="c-yellow">速率限制步驟</span>。
+
+## 皮質醇的分泌與功能
+
+### 皮質醇的分泌節律
+
+皮質醇的分泌有<span class="c-yellow">晝夜節律</span>。
+
+清醒前達到峰值，睡眠時降到最低。
+
+### 皮質醇的主要功能
+
+<span class="c-red">皮質醇</span>（氫化可體松）的作用：
+
+| 功能 | 機制 |
+|------|------|
+| <span class="c-cyan">升高血糖</span> | 促進蛋白質分解、增加糖質新生、減少葡萄糖利用 |
+| <span class="c-cyan">抗發炎</span> | 抑制磷脂酶A2、減少前列腺素和白三烯合成 |
+| <span class="c-cyan">免疫抑制</span> | 減少淋巴細胞增殖、減少細胞激素釋放 |
+| <span class="c-cyan">蛋白質分解</span> | 促進肌肉蛋白質分解（糖皮質素活性）|
+
+### 皮質醇過多的效應（庫欣氏症候群）
+
+| 表現 | 說明 |
+|------|------|
+| 高血糖 | 糖皮質素活性 |
+| 肌肉無力 | 蛋白質分解 |
+| 骨質疏鬆 | 骨吸收增加 |
+| 高血壓 | 礦物皮質素活性 |
+| 皮膚變薄、易瘀青 | 膠原蛋白分解 |
+| 脂肪重新分布 | 臉部、肩部脂肪增加（月亮臉、水牛肩）|
+
+## 醛固酮的分泌與功能
+
+### 醛固酮的分泌調節
+
+<span class="c-red">醛固酮</span>的分泌主要受兩種因素刺激：
+
+| 因素 | 作用機制 |
+|------|----------|
+| <span class="c-yellow">血管張力素II</span> | 腎素-血管張力素系統激活 |
+| <span class="c-yellow">血鉀濃度↑</span> | 直接刺激球狀帶細胞 |
+
+### 醛固酮的主要功能
+
+| 功能 | 部位 | 效應 |
+|------|------|------|
+| <span class="c-red">促進鈉離子重吸收</span> | 腎小管 | 鈉↑、細胞外液↑ |
+| <span class="c-red">促進鉀離子排泄</span> | 腎小管 | 鉀↓ |
+| <span class="c-red">促進氫離子排泄</span> | 腎小管 | 代謝性鹼中毒 |
+
+### 醛固酮過多的效應（康氏症候群）
+
+| 表現 | 說明 |
+|------|------|
+| 高血鈉 | 鈉過多重吸收 |
+| 低血鉀 | 鉀過多排泄 |
+| 高血壓 | 細胞外液增加 |
+| 代謝性鹼中毒 | 氫離子排泄增加 |
+
+### 醛固酮過少的效應（愛迪生氏病）
+
+| 表現 | 說明 |
+|------|------|
+| 低血鈉 | 鈉排泄增加 |
+| 高血鉀 | 鉀排泄減少 |
+| 低血壓 | 細胞外液減少 |
+| 疲勞 | 電解質失衡 |
+
+## 腎上腺雄性素
+
+### 主要的腎上腺雄性素
+
+<span class="c-yellow">去氫錤雄烯二酮（DHEA）</span>和<span class="c-yellow">雄烯二酮</span>是兩種主要的腎上腺雄性素。
+
+它們在男性和女性中都存在，發揮輕度雄激素活性。
+
+### 過量腎上腺雄性素的效應
+
+某些腎上腺皮質異常情況下，會分泌大量雄性素。
+
+這可能導致<span class="c-red">雄性化效應</span>：
+
+| 性別 | 效應 |
+|------|------|
+| 女性 | 深沉聲音、多毛、陰蒂肥大、月經停止 |
+| 兒童 | 早熟（腎上腺性早熟）|
+
+## 重要的皮質類固醇激素一覽表
+
+### 礦物皮質素
+
+| 激素 | 效力（相對醛固酮）| 備註 |
+|------|-------------------|------|
+| <span class="c-red">醛固酮</span> | 100% | 主要礦物皮質素，約佔90%活性 |
+| 去氧皮質酮 | 3% | 分泌量很少 |
+| 皮質酮 | 輕度 | 分泌量少 |
+| 9α-氟皮質醇 | 100%+ | 合成，效力略強於醛固酮 |
+| <span class="c-cyan">皮質醇</span> | 輕度 | 分泌量大（約佔皮質醇總量）|
+| 皮質酮 | 輕度 | 輕度礦物皮質素活性 |
+
+### 糖皮質素
+
+| 激素 | 效力（相對皮質醇）| 備註 |
+|------|-------------------|------|
+| <span class="c-red">皮質醇</span> | 100% | 主要糖皮質素，約佔95%活性 |
+| 皮質酮 | 4% | 效力遠低於皮質醇 |
+| 皮質酮 | 接近皮質醇 | 效力幾乎與皮質醇相同 |
+| 潑尼松 | 400% | 合成，效力為皮質醇的4倍 |
+| 甲潑尼龍 | 500% | 合成，效力為皮質醇的5倍 |
+| <span class="c-yellow">Dexamethasone</span> | 3000% | 合成，效力為皮質醇的30倍 |
+
+### 皮質醇的雙重活性
+
+皮質醇正常情況下具有一些<span class="c-yellow">礦物皮質素活性</span>。
+
+過量皮質醇分泌的症候群（如庫欣氏症候群）除了主要糖皮質素效應外，還可引起明顯的<span class="c-cyan">礦物皮質素效應</span>。
+
+### 地塞米松的重要性
+
+<span class="c-yellow">地塞米松</span>的強效糖皮質素活性幾乎沒有礦物皮質素活性。
+
+這使其成為刺激特定糖皮質素活性的重要藥物。
+
+## 氫硫基皮質素與氨基皮質素
+
+### 氫硫基皮質素（Cortisol）
+
+<span class="c-red">氫硫基皮質素</span>具有以下化學特徵：
+
+- 碳3上有酮氧
+- 碳11和21上有羥基
+
+### 氨基皮質素（Aldosterone）
+
+<span class="c-red">氨基皮質素</span>在碳18上有氧原子（與甲醛基結合）。
+
+這是其高礦物皮質素活性的結構基礎。

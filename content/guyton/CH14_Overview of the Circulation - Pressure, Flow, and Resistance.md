@@ -1,224 +1,177 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH14"
-title: "Overview of the Circulation: Pressure, Flow, and Resistance"
+title: "循環系統概論：壓力、流量與阻力"
 book: "Guyton & Hall"
-summary: "The circulation consists of systemic and pulmonary circuits with distinct functions: arteries transport high-pressure blood, arterioles control flow resistance, capillaries permit fluid exchange, and veins serve as a blood reservoir. Blood flow velocity is inversely proportional to cross-sectional area, and mean aortic pressure (100 mm Hg) is maintained by cardiac output against total peripheral resistance."
+summary: "循環系統由體循環和肺循環組成，具有不同功能：动脉运输高压血液，細動静脉控制流量阻力，毛細血管允许液体交换，静脉作为血液储存库。血流速度與橫截面積成反比，平均主動脈壓（100 mm Hg）由心輸出量和總周邊阻力維持。"
 key_points:
-  - "Blood volume distribution: 84% in systemic circulation (64% in veins, 13% in arteries, 7% in arterioles/capillaries), 9% in pulmonary vessels, and 7% in the heart"
-  - "Blood flow velocity is inversely proportional to total cross-sectional area; velocity in the aorta (~33 cm/sec) is about 1000 times greater than in capillaries (~0.3 mm/sec)"
-  - "Ohm's law applied to circulation: Flow = (Pressure difference) / Resistance; mean aortic pressure = Cardiac output × Total peripheral resistance"
-  - "The microcirculation (arterioles and capillaries) accounts for most of the total peripheral resistance, allowing precise control of tissue blood flow"
-  - "The low capillary blood volume (~7% of total) belies their critical role in diffusion-mediated nutrient and waste exchange between blood and tissues"
+  - "血量分布：84% 在體循環（64% 在靜脈，13% 在动脉，7% 在細動静脉/毛細血管），9% 在肺血管，7% 在心臟"
+  - "血流速度與總橫截面積成反比；主動脈速度（約 33 cm/sec）約為毛細血管（約 0.3 mm/sec）的 1000 倍"
+  - "歐姆定律應用於循環：流量 =（壓力差）/阻力；平均主動脈壓 = 心輸出量 × 總周邊阻力"
+  - "微循環（細動静脉和毛細血管）佔總周邊阻力的大部分，允許對組織血流進行精確控制"
+  - "毛細血管的低血量（佔總量的約 7%）掩蓋了其在血液和組織間擴散交換營養和廢物方面的重要作用"
 ---
 
-## INTRODUCTION: FUNCTIONS OF THE CIRCULATION
+## 循環的功能
 
-The function of the circulation is to serve the needs of the body tissues. The circulation:
+循環的功能是滿足身體組織的需求：
 
-- **Transports nutrients** to the tissues
-- **Transports waste products** away from the tissues
-- **Transports hormones** from one part of the body to another
-- **Maintains an appropriate environment** in all the tissue fluids for survival and optimal function of the cells
+- **運輸營養素**到組織
+- **運輸廢物**離開組織
+- **運輸激素**從身體一部分到另一部分
+- **維持適當的環境**，使細胞能存活並最佳功能運作
 
-The rate of blood flow through many tissues is controlled mainly in response to their need for nutrients and removal of waste products of metabolism.
+許多組織的血流速率主要根據其對營養的需求和代謝廢物移除的需求來控制。
 
-In some organs, such as the kidneys, the circulation serves additional functions. Blood flow to the kidney is far in excess of its metabolic requirements. This is related to its excretory function, which requires that a large volume of blood be filtered each minute.
+心臟和血管被控制以提供**心輸出量**和**血壓**來供應充足的組織血流。
 
-The heart and blood vessels are controlled to provide the **cardiac output** and **arterial pressure** needed to supply adequate tissue blood flow.
+## 循環的物理特性
 
-## PHYSICAL CHARACTERISTICS OF THE CIRCULATION
+循環（如圖 14-1）分為：
 
-The circulation (Figure 14-1) is divided into:
+- **體循環（Systemic circulation）**：又稱大循環或周邊循環，供血給除肺臟外的所有組織
+- **肺循環（Pulmonary circulation）**：供血給肺臟
 
-- **Systemic circulation** (also called the greater circulation or peripheral circulation) — supplies blood flow to all tissues except the lungs
-- **Pulmonary circulation** — supplies blood to the lungs
+## 循環的功能組成部分
 
-### Functional Parts of the Circulation
+| 組成部分 | 功能 |
+|---------|------|
+| **动脉** | 在高壓下將血液輸送至組織；具有強韌的血管壁；血流速度快 |
+| **細動静脉（Arterioles）** | 动脉系統最後的小分支；作為控制管道，血液由此進入毛細血管；可完全關閉或擴張數倍以改變血流 |
+| **毛細血管** | 在血液和間質液之間交換液體、營養素、電解質、激素和其他物質；壁薄，有許多微孔 |
+| **微靜脈（Venules）** | 從毛細血管收集血液，逐漸合併成更大的靜脈 |
+| **靜脈** | 將血液從微靜脈輸送回心臟的管道；也是額外血液的主要儲存庫 |
 
-| Component | Function |
-|-----------|----------|
-| **Arteries** | Transport blood under high pressure to the tissues; have strong vascular walls; blood flows at high velocity |
-| **Arterioles** | Last small branches of the arterial system; act as control conduits through which blood is released into the capillaries; can close completely or dilate severalfold to alter blood flow |
-| **Capillaries** | Exchange fluid, nutrients, electrolytes, hormones, and other substances between blood and interstitial fluid; have thin walls with numerous minute pores |
-| **Venules** | Collect blood from capillaries and gradually coalesce into larger veins |
-| **Veins** | Function as conduits for transport of blood from venules back to the heart; serve as a major reservoir of extra blood |
+靜脈也作為**額外血液的主要儲存庫**。因為靜脈系統的壓力低，靜脈壁薄。即使如此，它們有足夠的肌肉來收縮或擴張，作為額外血液的可控儲存庫。
 
-The veins also serve as a **major reservoir of extra blood**. Because the pressure in the venous system is low, the venous walls are thin. Even so, they are muscular enough to contract or expand, serving as a controllable reservoir for extra blood.
+## 各部分循環的血量分布
 
-### Volumes of Blood in the Different Parts of the Circulation
+圖 14-1 顯示了循環主要部分中佔總血量的百分比：
 
-Figure 14-1 lists the percentages of total blood volume in major segments of the circulation:
+| 位置 | 佔總血量的百分比 |
+|------|----------------|
+| 體循環（總計） | 84% |
+| — 其中：靜脈和微靜脈 | 64% |
+| — 其中：动脉 | 13% |
+| — 其中：細動静脉和毛細血管 | 7% |
+| 心臟 | 7% |
+| 肺血管 | 9% |
 
-| Location | Percentage of Total Blood Volume |
-|----------|--------------------------------|
-| Systemic circulation (total) | 84% |
-| — of which: Veins and venules | 64% |
-| — of which: Arteries | 13% |
-| — of which: Arterioles and capillaries | 7% |
-| Heart | 7% |
-| Pulmonary vessels | 9% |
-| Lungs (including pulmonary vessels) | 16% (heart + lungs) |
+最令人驚訝的是<span class="c-yellow">毛細血管中血量很低</span>。然而，循環最重要的功能就在這裡發生——這是物質在血液和組織之間來回擴散的過程（第 16 章討論）。
 
-Most surprising is the **low blood volume in the capillaries**. However, it is here that the most important function of the circulation occurs. This is the diffusion of substances back and forth between the blood and tissues (discussed in Chapter 16).
+## 血流面積與速度
 
-### Cross-Sectional Areas and Velocities of Blood Flow
+如果將所有類型的體循環血管並排放置，平均人類的總橫截面積大致為：
 
-If all the systemic vessels of each type were put side by side, the approximate total cross-sectional areas for the average human would be:
+| 血管 | 橫截面積（cm²） |
+|------|----------------|
+| 主動脈 | 2.5 |
+| 小动脉 | 20 |
+| 細動静脉 | 40 |
+| 毛細血管 | 2500 |
+| 微靜脈 | 250 |
+| 小靜脈 | 80 |
+| 腔靜脈 | 8 |
 
-| Vessel | Cross-Sectional Area (cm²) |
-|--------|---------------------------|
-| Aorta | 2.5 |
-| Small arteries | 20 |
-| Arterioles | 40 |
-| Capillaries | 2500 |
-| Venules | 250 |
-| Small veins | 80 |
-| Venae cavae | 8 |
+特別要注意的是<span class="c-cyan">靜脈的橫截面積遠大於动脉</span>。它們平均約為相應动脉的四倍。這一差異解釋了靜脈系統的大容量血液儲存能力。
 
-Note particularly that the cross-sectional areas of the **veins are much larger** than those of the arteries. They average about **four times** those of the corresponding arteries. This difference explains the large blood storage capacity of the venous system.
+## 速度與面積的關係
 
-### Relationship Between Velocity and Cross-Sectional Area
-
-Because the same volume of blood flow (F) must pass through each segment of the circulation each minute, the **velocity of blood flow (v) is inversely proportional** to the vascular cross-sectional area (A):
+因為每分鐘相同體積的血流（F）必須通過循環的每個部分，所以<span class="c-cyan">血流速度（v）與血管橫截面積（A）成反比</span>：
 
 > **v = F / A**
 
-Under resting conditions:
+在休息狀態下：
 
-- Velocity averages about **33 cm/sec** in the aorta
-- Velocity in capillaries is only **1/1000 as rapid** — about **0.3 mm/sec**
+- 主動脈中速度平均約 **33 cm/sec**
+- 毛細血管中的速度只有其 **1/1000**——約 **0.3 mm/sec**
 
-Because the capillaries have a typical length of only **0.3 to 1 millimeter**, the blood remains in the capillaries for only **1 to 3 seconds**. All diffusion of nutrient food substances and electrolytes through the capillary walls must be performed in this short time.
+因為毛細血管典型長度只有 **0.3 到 1 毫米**，血液在毛細血管中只停留 **1 到 3 秒**。所有營養物質和電解質通過毛細血管壁的擴散都必须在這麼短的時間內完成。
 
-### Pressures in the Various Portions of the Circulation
+## 各部分循環的血壓
 
-Because the heart pumps blood continually into the aorta, the **mean pressure in the aorta is high** — averaging about **100 mm Hg**.
+因為心臟不斷將血液泵入主動脈，所以**主動脈的平均血壓很高**——平均約 **100 mm Hg**。
 
-Heart pumping is pulsatile, so the arterial pressure normally alternates between:
+心臟的泵血是搏動的，所以血壓通常在以下之間交替：
 
-- **Systolic pressure**: average **120 mm Hg**
-- **Diastolic pressure**: average **80 mm Hg**
+- **收縮壓**：平均 **120 mm Hg**
+- **舒張壓**：平均 **80 mm Hg**
 
-(Shown on the left side of Figure 14-2.)
+（顯示在圖 14-2 左側。）
 
 ---
 
-## VASCULAR DISTENSIBILITY
+## 血管的順應性
 
-A valuable characteristic of the vascular system is that **all blood vessels are distensible**. The distensible nature of the arteries allows them to accommodate the pulsatile output of the heart and to average out the pressure pulsations. This capability provides smooth continuous flow of blood through the very small blood vessels of the tissues.
+血管系統的一個重要特性是**所有血管都有彈性擴展性**。动脉的彈性使它們能夠容納心臟的搏動輸出，並平均化血壓搏動。這種能力確保了血液在非常小的組織血管中平穩連續流動。
 
-### Venous Distensibility and Blood Storage
+### 靜脈的擴展性與血液儲存
 
-The most distensible of all the vessels are the **veins**. Even slight increases in venous pressure cause the veins to store **0.5 to 1.0 liter** of extra blood. Therefore, the veins provide a reservoir for storing large quantities of extra blood.
+所有血管中<span class="c-yellow">最具有擴展性的是靜脈</span>。即使靜脈壓力的輕微增加也會使靜脈儲存 **0.5 到 1.0 升**的額外血液。因此，靜脈提供了存儲大量額外血液的儲存庫。
 
-### Units of Vascular Distensibility
+### 血管擴展性的單位
 
-Vascular distensibility is normally expressed as the **fractional increase in volume for each mm Hg rise in pressure**:
+血管擴展性通常表示為**每 mm Hg 血壓增加時體積的分數增加**：
 
-> **Vascular distensibility = (Increase in volume / Original volume) / Increase in pressure**
+> **血管擴展性 =（體積增加 / 原始體積）/ 壓力增加**
 
-For example, if 1 mm Hg causes a vessel that originally contained 10 ml of blood to increase its volume by 1 ml, the distensibility would be **0.1 per mm Hg**, or **10% per mm Hg**.
+例如，如果 1 mm Hg 使原本含有 10 ml 血液的血管增加 1 ml 體積，擴展性為 **0.1 per mm Hg**，或 **10% per mm Hg**。
 
-### Veins Are Much More Distensible Than Arteries
+### 靜脈比动脉更具擴展性
 
-The walls of the arteries are thicker and far stronger than those of the veins. Consequently, the veins are, on average, about **eight times more distensible** than the arteries.
+动脉壁較厚，比靜脈強韌得多。因此，靜脈平均比动脉的擴展性約 **8 倍**。
 
-A given increase in pressure causes about eight times as much increase in blood in a vein as in an artery of comparable size.
+同等大小下，給定壓力的增加在靜脈中引起的血液增加約是动脉的 8 倍。
 
-In the pulmonary circulation, the pulmonary vein distensibilities are similar to those of the systemic circulation. However, the pulmonary arteries normally operate under pressures about **one sixth** of those in the systemic arterial system. Their distensibilities are correspondingly greater — about **six times** the distensibility of systemic arteries.
+在肺循環中，肺靜脈的擴展性與體循環靜脈相似。然而，肺动脉通常在約為體循環动脉系統 **六分之一**的血壓下運作。它們的擴展性相應地更大——約為體循環动脉的 **6 倍**。
 
-## VASCULAR COMPLIANCE (OR VASCULAR CAPACITANCE)
+## 歐姆定律與血流
 
-In hemodynamic studies, it is often more important to know the **total quantity of blood** that can be stored in a given portion of the circulation for each mm Hg pressure rise than to know the distensibilities of the individual vessels.
+血流與<span class="c-green">壓力差</span>成正比，與<span class="c-red">阻力</span>成反比：
 
-This value is called the **compliance** or **capacitance** of the respective vascular bed:
+> **血流量 = （P1 - P2）/ R**
 
-> **Vascular compliance = Increase in volume / Increase in pressure**
+其中：
 
-**Compliance and distensibility are quite different.** A highly distensible vessel with a small volume may have far less compliance than a much less distensible vessel with a large volume. This is because compliance equals distensibility times volume.
+- **P1**：入口壓力（如平均主動脈壓 ~100 mm Hg）
+- **P2**：出口壓力（如右心房壓 ~0 mm Hg）
+- **R**：血管阻力（即<span class="c-red">總周邊阻力（TPR）</span>）
 
-The compliance of a systemic vein is about **24 times** that of its corresponding artery. This is because it is about 8 times as distensible and has a volume about 3 times as great (8 × 3 = 24).
+---
 
-## ARTERIAL AND VENOUS CIRCULATIONS
+## 臨床上重要的血壓概念
 
-A convenient method for expressing the relationship of pressure to volume in a vessel is to use a **volume-pressure curve**.
+### 平均血壓的計算
 
-Figure 15-1 shows the volume-pressure curves of the normal systemic arterial system and venous system:
+平均血壓不是簡單的平均值（100 mm Hg），而是：
 
-### Arterial System
+> **平均血壓 ≈ 舒張壓 + 1/3（收縮壓 - 舒張壓）**
 
-- When filled with about **700 ml** of blood: mean arterial pressure is **100 mm Hg**
-- When filled with only **400 ml** of blood: pressure falls to **zero**
+例如：BP 120/80 → 平均血壓 ≈ 80 + 13 ≈ **93 mm Hg**
 
-### Venous System
+### 血壓的調節層次
 
-- Normal volume ranges from **2000 to 3500 ml**
-- A change of **several hundred ml** in volume is required to change the venous pressure by only **3 to 5 mm Hg**
+| 調節層次 | 主要角色 |
+|---------|---------|
+| **心臟** | 決定心輸出量和搏出量 |
+| **大动脉** | 緩衝血壓搏動（Windkessel 效應） |
+| **細動静脉** | 控制總周邊阻力 |
+| **靜脈** | 決定回心血量和前負荷 |
 
-This explains why as much as **one-half liter of blood** can be transfused into a healthy person in only a few minutes without greatly altering the function of the circulation.
+### 阻力血管
 
-### Effect of Sympathetic Stimulation or Inhibition
+<span class="c-red">細動静脉</span>是循環中最重要的阻力血管：
 
-Sympathetic stimulation or inhibition affects the volume-pressure curves of the arterial and venous systems:
+- 數量多（數百萬）
+- 口徑小
+- 可通過平滑肌收縮/舒張快速改變阻力
+- 決定了血壓的高低
 
-- **Sympathetic stimulation**: Increases vascular smooth muscle tone, which increases the pressure at each volume of the arteries or veins
-- **Sympathetic inhibition**: Decreases the pressure at each volume
+### 臨床相關性
 
-Control of the vessels by the sympathetics is a valuable means for diminishing the dimensions of one segment of the circulation. This allows **transferring blood to other segments**.
-
-For example, an increase in vascular tone throughout the systemic circulation can cause large volumes of blood to shift into the heart. This is one of the principal methods that the body uses to rapidly increase heart pumping.
-
-**Sympathetic control of vascular capacitance is highly important during hemorrhage.** Enhancement of sympathetic tone, especially to the veins, reduces the vessel sizes enough that the circulation continues to operate almost normally. This occurs even when as much as **25% of the total blood volume** has been lost.
-
-## DELAYED COMPLIANCE (STRESS-RELAXATION) OF VESSELS
-
-The term **delayed compliance** means that a vessel exposed to increased volume at first exhibits a large increase in pressure. However, progressive delayed stretching of smooth muscle in the vessel wall allows the pressure to return toward normal over a period of minutes to hours.
-
-This effect is shown in Figure 15-2. In this figure, pressure is recorded in a small segment of a vein occluded at both ends. An extra volume of blood is suddenly injected until the pressure rises from **5 to 12 mm Hg**.
-
-Even though none of the blood is removed after it is injected, the pressure begins to decrease immediately. It approaches about **9 mm Hg after several minutes**.
-
-The volume of blood injected causes immediate elastic distention of the vein. Then the smooth muscle fibers of the vein begin to creep to longer lengths. Their tensions correspondingly decrease. This effect is called **stress-relaxation** (explained in Chapter 8).
-
-### Clinical Significance of Delayed Compliance
-
-Delayed compliance is a valuable mechanism whereby the circulation can accommodate extra blood when necessary. This is important such as after a large transfusion.
-
-Delayed compliance in the reverse direction is one way in which the circulation automatically adjusts itself over a period of minutes or hours to **diminished blood volume after serious hemorrhage**.
-
-## ARTERIAL PRESSURE PULSATIONS
-
-With each beat of the heart, a new surge of blood fills the arteries. Were it not for distensibility of the arterial system, all this new blood would have to flow through the peripheral blood vessels almost instantaneously — only during cardiac systole. No flow would occur during diastole.
-
-However, the compliance of the arterial tree normally reduces the pressure pulsations to almost no pulsations by the time the blood reaches the capillaries. Therefore, **tissue blood flow is mainly continuous** with very little pulsation.
-
-### Normal Pulse Pressure Values
-
-The pressure pulsations at the root of the aorta are illustrated in Figure 15-3. In a healthy young adult:
-
-| Parameter | Value |
-|-----------|-------|
-| **Systolic pressure** (top of each pulse) | ~120 mm Hg |
-| **Diastolic pressure** (lowest point of each pulse) | ~80 mm Hg |
-| **Pulse pressure** (difference) | ~40 mm Hg |
-
-### Factors That Affect Pulse Pressure
-
-Two major factors affect the pulse pressure:
-
-1. **The stroke volume output of the heart** — The greater the stroke volume output, the greater the amount of blood that must be accommodated in the arterial tree with each heartbeat. This causes a greater pressure rise and fall during systole and diastole, thus a greater pulse pressure.
-
-2. **The compliance (total distensibility) of the arterial tree** — The less the compliance of the arterial system, the greater the pulse pressure.
-
-A third less important factor is the character of ejection from the heart during systole.
-
-> **Figure 14-1.** Distribution of blood (in percentage of total blood) in the different parts of the circulatory system.
->
-> **Figure 14-2.** Normal blood pressures (in mm Hg) in the different portions of the circulatory system when a person is lying in the horizontal position.
->
-> **Figure 15-1.** Volume-pressure curves of the systemic arterial and venous systems, showing the effects of stimulation or inhibition of the sympathetic nerves.
->
-> **Figure 15-2.** Effect on the intravascular pressure of injecting a volume of blood into a venous segment and later removing the excess blood, demonstrating the principle of delayed compliance.
->
-> **Figure 15-3.** Arterial pressure pulsations at the root of the aorta.
+| 情況 | 血壓變化 | 機制 |
+|------|---------|------|
+| **全身性紅斑性狼瘡** | 血管炎導致阻力增加 | 炎症影響血管 |
+| **主動脈縮窄** | 上肢高血壓，下肢低血壓 | 先天性狹窄 |
+| **動靜脈瘻管** | 低舒張壓、高心輸出量 | 阻力降低 |
+| **敗血症休克** | 低血壓、高心輸出量 | 阻力降低、血管擴張 |

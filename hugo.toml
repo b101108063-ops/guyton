@@ -2,6 +2,13 @@ baseURL = "/guyton/"
 locale = "en-us"
 theme = "PaperMod"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      commentHanlder = false
+  ignoreLogs = ["warning-goldmark-raw-html"]
+
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
 

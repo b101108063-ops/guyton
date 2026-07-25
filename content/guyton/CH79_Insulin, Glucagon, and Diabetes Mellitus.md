@@ -1,174 +1,270 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH79"
-title: "Insulin, Glucagon, and Diabetes Mellitus"
+title: "胰島素、升糖素與糖尿病"
 book: "Guyton & Hall"
-summary: "Plasma calcium exists as ionized (50%), protein-bound (41%), and complexed (9%) fractions; precise regulation of ionized calcium (~1.2 mmol/L) is critical for neuromuscular excitability, muscle contraction, and blood clotting. Hypocalcemia causes tetany and seizures, while hypercalcemia depresses the nervous system and can lead to calcium phosphate precipitation."
+summary: "胰島素由胰臟β細胞分泌，是合成代謝激素，促進葡萄糖進入細胞、肝糖合成、脂肪合成與蛋白質合成；其缺乏導致糖尿病。升糖素由α細胞分泌，作用與胰島素相反，刺激肝糖分解與葡萄糖新生以在禁食時維持血糖。"
 key_points:
-  - "Total plasma calcium is ~9.4 mg/dl; ionized calcium (1.2 mmol/L) is the physiologically active fraction controlling neuromuscular excitability"
-  - "Hypocalcemia increases neuronal membrane permeability to Na+, causing spontaneous nerve firing, tetany, carpopedal spasm, and seizures; tetany occurs at ~6 mg/dl and is lethal at ~4 mg/dl"
-  - "Hypercalcemia (>12 mg/dl) depresses the CNS, decreases QT interval, causes constipation and anorexia; >17 mg/dl risks calcium phosphate precipitation"
-  - "Calcium is absorbed from the intestine (~350 mg/day of 1000 mg ingested) in a vitamin D-dependent process; 90% is excreted in feces"
-  - "Phosphate homeostasis is less tightly regulated than calcium; phosphate exists as HPO4= and H2PO4− with ratio dependent on pH"
+  - "胰島素以前驅胰島素→胰島素原→胰島素（A鏈與B鏈經雙硫鍵連接）加上C肽的形式分泌，C肽與胰島素等莫耳分泌"
+  - "胰島素受體是酪氨酸激酶受體（α2β2），自體磷酸化激活IRS蛋白，進而激活PI3K/Akt路徑使GLUT4轉運蛋白移至細胞膜"
+  - "胰島素促進葡萄糖攝取（經GLUT4）、肝糖合成（活化肝糖合成酶）、脂肪合成並抑制葡萄糖新生、肝糖分解與脂肪分解"
+  - "胰島素分泌受血糖升高、胺基酸（尤其是白胺酸）與副交感神經刺激；受體恆定、α-腎上腺素受體激動劑與低血糖抑制"
+  - "升糖素刺激肝臟肝糖分解與葡萄糖新生以升高血糖；胰島素與升糖素的共同缺乏是糖尿病的特徵"
 ---
 
-## EXTRACELLULAR FLUID AND PLASMA CALCIUM REGULATION
+## 胰島素與其代謝作用
 
-Extracellular fluid calcium concentration is normally regulated precisely. It seldom rises or falls more than a few percent from the normal value of about 9.4 mg/dl.
+胰島素於1922年由Banting和Best首次從胰臟分離出來，几乎在一夜之间将严重糖尿病患者从健康迅速衰退和早逝中解救出来。
 
-This is equivalent to 2.4 millimoles of calcium per liter.
+歷史上，胰島素與「血糖」密切相關，確實，胰島素對碳水化合物代謝有深遠的影響。
 
-This precise control is essential because calcium plays a key role in many physiological processes.
+然而，脂肪代謝異常導致的酮酸中毒與動脈硬化，也是糖尿病患者發病與死亡的重要原因。
 
-Excitable cells such as neurons are sensitive to changes in calcium ion concentrations. Increases above normal (hypercalcemia) cause progressive depression of the nervous system. Conversely, decreases in calcium concentration (hypocalcemia) cause the nervous system to become more excited.
+長期未治療的糖尿病患者合成蛋白質的能力降低，導致組織耗損與多種細胞功能障礙。
 
-### Calcium Storage in Bone
+因此，顯然胰島素對脂肪與蛋白質代謝的影響幾乎與對碳水化合物代謝的影響同等重要。
 
-An important feature of extracellular calcium regulation is that only about 0.1% of the total body calcium is in the extracellular fluid.
+## 胰島素是與能量充裕相關的激素
 
-About 1% is in the cells and their organelles. The rest is stored in bones.
+當飲食中含有豐富的能量食物，特別是過量的碳水化合物時，胰島素分泌會增加。
 
-Therefore, the bones can serve as large reservoirs, storing excess calcium and releasing calcium when extracellular fluid concentration decreases.
+接著，胰島素在儲存過剩能量方面發揮重要作用。
 
-### Phosphate Distribution in the Body
+對於過量的碳水化合物，胰島素促使它們以肝糖形式儲存，主要儲存於肝臟與肌肉中。
 
-Approximately 85% of the body's phosphate is stored in bones.
+此外，無法以肝糖儲存的過量碳水化合物，會在胰島素的刺激下轉化為脂肪，儲存於脂肪組織中。
 
-14% to 15% is in the cells. Less than 1% is in the extracellular fluid.
+對於蛋白質，胰島素直接促進細胞對胺基酸的攝取，並將這些胺基酸轉化為蛋白質。
 
-Although extracellular fluid phosphate concentration is not nearly as well regulated as calcium concentration, phosphate serves several important functions and is controlled by many of the same factors that regulate calcium.
+此外，胰島素抑制細胞內已存在蛋白質的分解。
 
-## CALCIUM IN THE PLASMA AND INTERSTITIAL FLUID
+## 胰島素的化學與合成
 
-Calcium in the plasma is present in three forms:
+人類胰島素的分子量為5808，由兩條以雙硫鍵連接的胺基酸鏈組成。
 
-| Form | Percentage | Concentration | Diffusibility |
-|------|-----------|----------------|---------------|
-| Combined with plasma proteins | 41% | 1.0 mmol/L | Non-diffusible through capillary membrane |
-| Diffusible but combined with anions (citrate, phosphate) | 9% | 0.2 mmol/L | Diffusible but not ionized |
-| Ionized calcium | 50% | 1.2 mmol/L | Diffusible through capillary membrane |
+當這兩條胺基酸鏈分開時，胰島素的功能活性就會喪失。
 
-Thus, the plasma and interstitial fluids have a normal calcium ion concentration of about 1.2 mmol/L (or 2.4 mEq/L, because it is a divalent ion).
+### 胰島素合成路徑
 
-This level is only one-half the total plasma calcium concentration.
+胰島素在β細胞中透過一般的蛋白質合成機制合成。
 
-This ionic calcium is the form that is important for most functions of calcium in the body, including:
+整個過程始於核糖體附著於內質網上，翻譯胰島素mRNA形成前驅胰島素。
 
-- The effect of calcium on the heart
-- The nervous system
-- Bone formation
+最初的前驅胰島素分子量約為11,500，隨後在內質網中被切割，形成分子量約9000的胰島素原。
 
-## INORGANIC PHOSPHATE IN THE EXTRACELLULAR FLUIDS
+胰島素原由三條肽鏈組成：A鏈、B鏈與C鏈。
 
-Inorganic phosphate in the plasma is mainly in two forms:
+大部分的胰島素原在高爾基體中進一步被切割，形成胰島素（由雙硫鍵連接的A鏈與B鏈）與C鏈肽（稱為C肽）。
 
-- HPO4= (concentration about 1.05 mmol/L)
-- H2PO4− (concentration about 0.26 mmol/L)
+胰島素與C肽被包裝在分泌顆粒中，並以等莫耳數釋放。
 
-When the total quantity of phosphate in the extracellular fluid rises, so does the quantity of each of these two types of phosphate ions.
+約5%至10%的最終分泌產物仍以胰島素原的形式存在。
 
-Furthermore, when the pH of the extracellular fluid becomes more acidic, there is a relative increase in H2PO4− and a decrease in HPO4=.
+### C肽的功能
 
-The opposite occurs when the extracellular fluid becomes alkaline.
+胰島素原與C肽幾乎沒有胰島素活性。
 
-These relations were presented in the discussion of acid-base balance in Chapter 31.
+然而，C肽可與膜結構結合（很可能是G蛋白偶聯膜受體），並激活至少兩種酶系統：
 
-Because it is difficult to determine chemically the exact quantities of HPO4= and H2PO4− in the blood, ordinarily the total quantity of phosphate is expressed in terms of milligrams of phosphorus per deciliter of blood.
+- 鈉鉀ATP酶
+- 內皮一氧化氮合成酶
 
-The average total quantity of inorganic phosphorus represented by both phosphate ions is about 4 mg/dl. Normal limits vary between 3 to 4 mg/dl in adults and 4 to 5 mg/dl in children.
+雖然這兩種酶都有多種生理功能，但C肽調節這些酶的重要性仍不確定。
 
-## PHYSIOLOGICAL EFFECTS OF CALCIUM AND PHOSPHATE CONCENTRATIONS
+### C肽的臨床應用
 
-Changing the level of phosphate in the extracellular fluid from far below normal to two to three times normal does not cause major immediate effects on the body.
+在胰島素治療的糖尿病患者中，可透過放射免疫分析法測量C肽水平，以確定他們自身產生的胰島素量。
 
-In contrast, even slight increases or decreases of calcium ion in the extracellular fluid can cause extreme immediate physiological effects.
+第一型糖尿病患者無法製造胰島素，通常也會有大幅降低的C肽水平。
 
-In addition, chronic hypocalcemia or hypophosphatemia greatly decreases bone mineralization, as is explained later in the chapter.
+### 胰島素的清除
 
-## HYPOCALCEMIA CAUSES NERVOUS SYSTEM EXCITEMENT AND TETANY
+當胰島素分泌進入血液後，幾乎完全以游離形式循環。
 
-When the extracellular fluid concentration of calcium ions falls below normal, the nervous system becomes progressively more excitable.
+由於其血漿半衰期平均僅約6分鐘，主要在10-15分鐘內從血液中清除。
 
-This is because of increased neuronal membrane permeability to sodium ions, allowing easy initiation of action potentials.
+除了與目標細胞受體結合的部分外，胰島素主要由肝臟的胰島素酶降解，其次是腎臟與肌肉，在大多數其他組織中也有少量降解。
 
-At plasma calcium ion concentrations about 50% below normal, the peripheral nerve fibers become so excitable that they begin to discharge spontaneously. This initiates trains of nerve impulses that pass to the peripheral skeletal muscles to elicit tetanic muscle contraction.
+血漿中快速清除胰島素是很重要的，因為有時快速關閉胰島素的控制功能與快速開啟一樣重要。
 
-Consequently, hypocalcemia causes tetany. It also occasionally causes seizures because of its action of increasing excitability in the brain.
+## 胰島素對目標細胞受體的激活
 
-### Carpopedal Spasm
+為了在目標細胞中發揮作用，胰島素首先必須與分子量約300,000的膜受體蛋白結合並激活它。
 
-Tetany ordinarily occurs when the blood concentration of calcium falls from its normal level of 9.4 mg/dl to about 6 mg/dl. This is only 35% below the normal calcium concentration.
+### 胰島素受體結構
 
-Tetany is usually lethal at about 4 mg/dl.
+胰島素受體是由四個次單位透過雙硫鍵連接組成：
 
-### Other Effects of Extreme Hypocalcemia
+- 兩個α次單位，完整地位於細胞膜外側
+- 兩個β次單位，穿過細胞膜，突出於細胞質中
 
-In laboratory animals, extreme hypocalcemia can cause other effects that are seldom evident in patients:
+胰島素在細胞外側與α次單位結合。
 
-- Marked dilation of the heart
-- Changes in cellular enzyme activities
-- Increased membrane permeability in some cells (in addition to nerve cells)
-- Impaired blood clotting
+由於與β次單位的連接，β次單位突出於細胞內的部分會發生自體磷酸化。
 
-## HYPERCALCEMIA DEPRESSES NERVOUS SYSTEM AND MUSCLE ACTIVITY
+因此，胰島素受體是酶聯受體的一個例子。
 
-When calcium concentration in the body fluids rises above normal, the nervous system becomes depressed.
+### 受體訊號級聯
 
-Reflex activities of the central nervous system are sluggish.
+受體β次單位的自體磷酸化會激活局部酪氨酸激酶。
 
-Also, increased calcium ion concentration decreases the QT interval of the heart.
+這接著導致多種其他細胞內酶的磷酸化，包括稱為胰島素受體基質（IRS）的一組蛋白質。
 
-It causes lack of appetite and constipation, probably because of depressed contractility of the muscle walls of the gastrointestinal tract.
+不同類型的IRS（例如IRS-1、IRS-2與IRS-3）在不同組織中表現。
 
-### Threshold for Hypercalcemia Effects
+最終效果是激活某些酶，同時使其他酶失活。
 
-These depressive effects begin to appear when the blood level of calcium rises above about 12 mg/dl.
+透過這種方式，胰島素指導細胞內的代謝機制產生所需的效果。
 
-They can become marked as the calcium level rises above 15 mg/dl.
+### 胰島素合成與分泌摘要
 
-When the calcium concentration rises above about 17 mg/dl in the blood, calcium phosphate crystals are likely to precipitate throughout the body. This condition is discussed later in connection with parathyroid poisoning.
+| 步驟 | 位置 | 過程 |
+|------|------|------|
+| 前驅胰島素合成 | 內質網 | 核糖體翻譯胰島素mRNA |
+| 胰島素原形成 | 內質網 | 訊息肽被切割 |
+| 胰島素原加工 | 高爾基體 | C肽被切割，形成顆粒 |
+| 胰島素分泌 | 分泌顆粒 | 等莫耳的胰島素+C肽釋放 |
 
-## ABSORPTION AND EXCRETION OF CALCIUM AND PHOSPHATE
+## 胰島素的代謝作用
 
-### Intestinal Absorption and Fecal Excretion
+### 對葡萄糖攝取的影響
 
-The usual rates of intake are approximately 1000 mg/day each for calcium and phosphorus. This is about the amounts in 1 liter of milk.
+胰島素透過刺激GLUT4葡萄糖轉運蛋白移至細胞膜來促進葡萄糖攝取。
 
-Normally, divalent cations such as calcium ions are poorly absorbed from the intestines.
+這在骨骼肌與脂肪組織中特別重要。
 
-However, as discussed later, vitamin D promotes calcium absorption by the intestines, and about 35% (350 mg/day) of the ingested calcium is usually absorbed.
+### 對肝糖合成的影響
 
-The remaining calcium in the intestine is excreted in the feces.
+胰島素激活肝糖合成酶，促進肝臟與肌肉中的肝糖合成。
 
-An additional 250 mg/day of calcium enters the intestines via secreted gastrointestinal juices and sloughed mucosal cells.
+它也抑制肝糖磷解酶，防止肝糖分解。
 
-Thus, about 90% (900 mg/day) of the daily intake of calcium is excreted in the feces.
+### 對脂肪代謝的影響
 
-### Phosphate Absorption
+胰島素促進脂肪組織與肝臟的脂肪合成。
 
-Intestinal absorption of phosphate occurs easily.
+它抑制脂肪組織的脂肪分解。
 
-Except for the portion of phosphate that is excreted in the feces in combination with nonabsorbed calcium, almost all the dietary phosphate is absorbed into the blood from the gut.
+### 對蛋白質代謝的影響
 
-This is later excreted in the urine.
+胰島素促進骨骼肌與其他組織對胺基酸的攝取與蛋白質合成。
 
-## SUMMARY: CALCIUM AND PHOSPHATE BALANCE
+它抑制蛋白質異化作用。
 
-| Parameter | Calcium | Phosphate |
-|-----------|---------|-----------|
-| Daily intake | ~1000 mg | ~1000 mg |
-| Intestinal absorption | ~350 mg (35%) | ~800 mg (80%) |
-| Fecal excretion | ~900 mg (90%) | ~200 mg (20%) |
-| Urinary excretion | Variable | Variable |
-| Storage in bone | ~99% | ~85% |
+### 胰島素與升糖素作用比較
 
-## CALCIUM ION CONCENTRATION AND PHYSIOLOGICAL FUNCTION
+| 功能 | 胰島素作用 | 升糖素作用 |
+|------|-----------|-----------|
+| 血糖 | 降低 | 升高 |
+| 肝糖合成 | 刺激 | 抑制 |
+| 肝糖分解 | 抑制 | 刺激 |
+| 葡萄糖新生 | 抑制 | 刺激 |
+| 脂肪分解 | 抑制 | 刺激 |
+| 脂肪合成 | 刺激 | 抑制 |
+| 蛋白質合成 | 刺激 | 抑制 |
+| 蛋白質分解 | 抑制 | 刺激 |
 
-The precise regulation of ionized calcium concentration is critical for:
+## 升糖素及其作用
 
-| Function | Role of Calcium |
-|----------|----------------|
-| Neuromuscular excitability | Controls membrane stability |
-| Cardiac contraction | Affects QT interval |
-| Blood coagulation | Cofactor for clotting factors |
-| Bone mineralization | Matrix calcification |
+### 升糖素的來源
+
+升糖素由胰臟蘭氏小島的α細胞分泌。
+
+它的主要作用是升高血糖濃度。
+
+### 升糖素的代謝作用
+
+升糖素的主要作用於肝臟：
+
+- 刺激肝糖分解（促進肝糖分解為葡萄糖）
+- 刺激葡萄糖新生（從胺基酸、乳酸、甘油等合成葡萄糖）
+- 抑制肝糖合成
+- 抑制蛋白質合成
+
+升糖素不通過細胞膜，因此需要與肝細胞膜上的G蛋白偶聯受體結合來發揮作用。
+
+受體激活後，會激活腺苷酸環化酶，增加細胞內cAMP濃度，進而激活蛋白激酶A。
+
+## 蘭氏小島的結構
+
+蘭氏小島（胰島）含有多種細胞類型：
+
+| 細胞類型 | 比例 | 分泌物 |
+|----------|------|--------|
+| β細胞 | 60-70% | 胰島素 |
+| α細胞 | 20-25% | 升糖素 |
+| δ細胞 | 5-10% | 體抑素 |
+| F細胞/PP細胞 | <5% | 胰多肽 |
+
+每個胰島都有毛細血管供應，並有自主神經纖維支配。
+
+## 胰島素與升糖素分泌的調節
+
+### 胰島素分泌的刺激因素
+
+| 刺激因素 | 機制 |
+|----------|------|
+| 血糖升高 | 直接刺激β細胞 |
+| 胺基酸（尤其是白胺酸） | 直接刺激β細胞 |
+| 游離脂肪酸 | 輕度刺激 |
+| 副交感神經活性 | 經由M3受體 |
+| 胃腸激素（GIP、GLP-1） | 腸泌素效應 |
+
+### 胰島素分泌的抑制因素
+
+- 血糖降低
+- 交感神經活性（經由α2受體）
+- 體抑素
+- 酮體
+
+### 升糖素分泌的調節
+
+| 因素 | 對升糖素分泌的影響 |
+|------|-------------------|
+| 低血糖 | 刺激 |
+| 血糖升高 | 抑制 |
+| 胺基酸（尤其是白胺酸） | 刺激 |
+| 交感神經 | 刺激 |
+| 副交感神經 | 抑制 |
+| 酮體 | 直接抑制 |
+
+## 糖尿病
+
+### 第一型糖尿病
+
+第一型糖尿病是由於胰島β細胞的自身免疫性破壞，導致胰島素絕對缺乏。
+
+特徵：
+
+- 發病年齡通常較年輕（<30歲）
+- 需要胰島素治療
+- 易發生糖尿病酮酸中毒
+- C肽水平極低或檢測不到
+
+### 第二型糖尿病
+
+第二型糖尿病的特徵是胰島素阻抗與相對性胰島素缺乏。
+
+特徵：
+
+- 發病年齡通常較年長（>40歲）
+- 與肥胖密切相關
+- 初期不需要胰島素治療
+- C肽水平正常或升高
+- 易發生高滲透壓高血糖狀態
+
+### 糖尿病的急性併發症
+
+| 併發症 | 特徵 | 原因 |
+|--------|------|------|
+| 糖尿病酮酸中毒（DKA） | 高血糖、酮體累積、代謝性酸中毒 | 胰島素絕對缺乏 |
+| 高滲透壓高血糖狀態（HHS） | 極高血糖、無酮症、嚴重脫水 | 相對性胰島素缺乏 |
+| 低血糖 | 血糖過低 | 胰島素過多或飲食不足 |
+
+### 糖尿病的慢性併發症
+
+| 併發症 | 受影響器官/系統 |
+|--------|-----------------|
+| 微血管病變 | 視網膜病變、腎病變、神經病變 |
+| 大血管病變 | 冠狀動脈疾病、腦血管疾病、周邊血管疾病 |
+| 糖尿病足 | 感覺喪失、感染、潰瘍 |

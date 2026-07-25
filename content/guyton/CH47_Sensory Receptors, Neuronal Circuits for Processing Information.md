@@ -1,7 +1,7 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH47"
-title: "Sensory Receptors, Neuronal Circuits for Processing Information"
+title: "感覺受器與神經元訊息處理迴路"
 book: "Guyton & Hall"
 summary: "Sensory receptors transduce specific stimuli into electrical signals via receptor potentials, following the labeled line principle where each fiber transmits only one sensation type. The five receptor classes are mechanoreceptors, thermoreceptors, nociceptors, electromagnetic receptors, and chemoreceptors. Neuronal circuits use excitatory and inhibitory pathways with reverberating circuits for signal amplification and synaptic fatigue for short-term sensitivity regulation."
 key_points:

@@ -1,311 +1,326 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH74"
-title: "Body Temperature Regulation and Fever"
+title: "體溫調節與發燒"
 book: "Guyton & Hall"
-summary: "Core body temperature is maintained at ~98.6°F (37°C) by balancing heat production (from metabolism and muscle activity) against heat loss (via radiation, conduction, convection, and evaporation). The hypothalamus serves as the thermoregulatory center, integrating afferent temperature signals and orchestrating autonomic and behavioral responses. Fever results from pyrogen-mediated elevation of the hypothalamic set-point, whereas heat stroke and hypothermia represent failures of thermoregulation."
+summary: "核心體溫通過平衡產熱（來自代謝和肌肉活動）和散熱（通過輻射、傳導、對流和蒸發）維持在約98.6°F（37°C）。下視丘作為體溫調節中樞，整合傳入的溫度信號並協調自律和行為反應。發燒是由熱原介導的下視丘設定點升高，而中暑和低體溫症代表體溫調節的失效。"
 key_points:
-  - "Normal core temperature ranges from 97°F to 99.5°F (36°C to 37.5°C) orally; rectal temperature is approximately 1°F higher; circadian variation places the nadir in early morning"
-  - "The anterior hypothalamus detects temperature via warm-sensitive neurons and initiates heat loss responses; the posterior hypothalamus initiates heat conservation and production when temperature falls"
-  - "Skin blood flow varies 8-fold between full vasoconstriction (heat conservation) and full vasodilation (heat dissipation), accounting for most change in thermal conductance"
-  - "Subcutaneous fat provides thermal insulation (conductivity 1/3 that of other tissues) and is the primary determinant of interindividual variation in cold tolerance"
-  - "Evaporative heat loss via sweating is the dominant mechanism when ambient temperature exceeds core temperature; ~0.6 Cal is lost per mL of sweat evaporated"
-  - "Radiation and conduction account for ~60% and ~15% of heat loss at rest in a neutral environment; convection becomes significant with air movement"
-  - "Fever is triggered by exogenous pyrogens (bacterial endotoxin, IL-1β, TNF-α, IL-6) acting on the organum vasculosum of the lamina terminalis (OVLT) to raise the hypothalamic set-point via prostaglandin E₂ synthesis"
-  - "Antipyretics (aspirin, acetaminophen) inhibit cyclooxygenase and prostaglandin synthesis, lowering the elevated set-point to normalize temperature"
+  - "正常核心體溫範圍為97°F至99.5°F（36°C至37.5°C）口溫；直腸體溫約高1°F；晝夜變化在清晨最低"
+  - "前部下視丘通過溫度敏感神經元檢測溫度並啟動散熱反應；後部下視丘在溫度下降時啟動保熱和產熱"
+  - "皮膚血流在完全血管收縮（保熱）和完全血管舒張（散熱）之間變化8倍，解釋了大部分熱傳導變化"
+  - "皮下脂肪提供熱絕緣（導熱係數為其他組織的1/3），是個體間耐寒差異的主要決定因素"
+  - "蒸發散熱（出汗）是當環境溫度超過核心溫度時的主要機制；每毫升蒸發的汗水約損失0.6卡"
+  - "休息時在中性環境中，輻射和傳導分別約佔散熱的60%和15%；對流在有風時顯著"
+  - "發燒是由外源性熱原（細菌內毒素、IL-1β、TNF-α、IL-6）作用於終板血管器（OVLT）通過前列腺素E₂合成升高下視丘設定點"
+  - "退燒藥（阿斯匹靈、退燒藥）抑制環氧酶和前列腺素合成，降低升高設定點以恢復正常體溫"
 ---
 
-## Normal Body Temperature
+## 正常體溫
 
-### Core Temperature Range
+### 核心體溫範圍
 
-Normal core temperature ranges from **97°F to 99.5°F** (approximately **36°C to 37.5°C**).
+正常核心體溫範圍為<span class="c-yellow">97°F至99.5°F</span>（約<span class="c-yellow">36°C至37.5°C</span>）。
 
-Oral temperature is typically measured.
+通常測量口溫。
 
-Rectal temperature is approximately **1°F higher** than oral temperature.
+直腸體溫約比口溫<span class="c-yellow">高1°F</span>。
 
-### Circadian Variation
+### 晝夜變化
 
-Body temperature follows a circadian rhythm.
+體溫遵循晝夜節律。
 
-The nadir (lowest point) occurs in the early morning hours.
+最低點出現在清晨。
 
-The peak occurs in the late afternoon or evening.
+高峰出現在下午晚些時候或傍晚。
 
-### Average Normal Temperature
+### 平均正常體溫
 
-The commonly cited average normal temperature is **98.6°F (37°C)**.
+通常引用的平均正常體溫是<span class="c-yellow">98.6°F（37°C）</span>。
 
-However, normal temperature varies among individuals.
+然而，正常體溫因人而異。
 
-## Heat Production and Heat Loss
+## 產熱與散熱
 
-### Heat Production
+### 產熱
 
-Heat is produced by metabolic processes in the body.
+熱量由身體的代謝過程產生。
 
-Major sources of heat production include:
-- Basal metabolic rate of all cells
-- Muscle contraction
-- Thyroxine and epinephrine effects
-- Activity level
+主要產熱來源包括：
 
-### Heat Loss Mechanisms
+- 所有細胞的基底代謝率
+- 肌肉收縮
+- 甲狀腺素和腎上腺素效應
+- 活動水平
 
-Heat is lost from the body through several mechanisms:
+### 散熱機制
 
-| Mechanism | Description |
-|-----------|-------------|
-| Radiation | Heat loss via infrared rays (60% of heat loss at rest in neutral environment) |
-| Conduction | Direct transfer of heat to objects in contact with skin (~15%) |
-| Convection | Heat transfer to air currents (significant with air movement) |
-| Evaporation | Heat loss through sweat evaporation (dominant when ambient temp > core) |
+熱量通過幾種機制從身體散失：
 
-### Evaporative Heat Loss
+| 機制 | 說明 |
+|------|------|
+| <span class="c-red">輻射</span> | 通過紅外線散熱（休息時在中性環境中佔散熱的60%）|
+| <span class="c-cyan">傳導</span> | 直接轉移到與皮膚接觸的物體（約15%）|
+| <span class="c-yellow">對流</span> | 轉移到氣流（有風時顯著）|
+| <span class="c-green">蒸發</span> | 通過汗水蒸發散熱（環境溫度>核心時為主）|
 
-Evaporation is the dominant heat loss mechanism when ambient temperature exceeds core temperature.
+### 蒸發散熱
 
-Approximately **0.6 calories** are lost per milliliter of sweat evaporated.
+當環境溫度超過核心溫度時，蒸發是主要的散熱機制。
 
-## Thermoregulatory Center — The Hypothalamus
+每毫升蒸發的汗水約損失<span class="c-yellow">0.6卡</span>。
 
-### Hypothalamic Regions
+## 體溫調節中樞——下視丘
 
-The hypothalamus serves as the primary thermoregulatory center.
+### 下視丘區域
 
-| Region | Function |
-|--------|----------|
-| **Anterior hypothalamus** | Detects temperature via warm-sensitive neurons; initiates heat loss responses |
-| **Posterior hypothalamus** | Initiates heat conservation and heat production when temperature falls |
+<span class="c-red">下視丘</span>作為主要的體溫調節中樞。
 
-### Afferent Temperature Signals
+| 區域 | 功能 |
+|------|------|
+| <span class="c-red">前部下視丘</span> | 通過溫度敏感神經元檢測溫度；啟動散熱反應 |
+| <span class="c-red">後部下視丘</span> | 溫度下降時啟動保熱和產熱 |
 
-The hypothalamus integrates afferent signals from:
-- Central thermoreceptors in the hypothalamus
-- Peripheral thermoreceptors in the skin
-- Spinal cord thermoreceptors
+### 傳入溫度信號
 
-### Heat Conservation Mechanisms
+下視丘整合來自以下部位的傳入信號：
 
-When core temperature falls, the posterior hypothalamus initiates:
-- Vasoconstriction of skin blood vessels
-- Piloerection (goosebumps)
-- Increased metabolic rate
-- shivering
+- 下視丘中的<span class="c-cyan">中央溫度感受器</span>
+- 皮膚中的<span class="c-cyan">周邊溫度感受器</span>
+- 脊髓中的<span class="c-cyan">溫度感受器</span>
 
-### Heat Loss Mechanisms
+### 保熱機制
 
-When core temperature rises, the anterior hypothalamus initiates:
-- Vasodilation of skin blood vessels
-- Sweating
-- Decreased metabolic rate
+當核心溫度下降時，後部下視丘啟動：
 
-## Skin Blood Flow and Thermal Conductance
+- 皮膚血管<span class="c-red">血管收縮</span>
+- 立毛（鵝皮疙瘩）
+- 代謝率增加
+- <span class="c-red">顫抖</span>
 
-### Blood Flow Variation
+### 散熱機制
 
-Skin blood flow can vary **8-fold** between full vasoconstriction and full vasodilation.
+當核心溫度上升時，前部下視丘啟動：
 
-This accounts for most change in thermal conductance.
+- 皮膚血管<span class="c-cyan">血管舒張</span>
+- <span class="c-cyan">出汗</span>
+- 代謝率降低
 
-### Vasoconstriction
+## 皮膚血流與熱傳導
 
-Full vasoconstriction minimizes blood flow to the skin.
+### 血流變化
 
-This reduces heat loss from the body surface.
+皮膚血流可以在完全<span class="c-red">血管收縮</span>和完全<span class="c-cyan">血管舒張</span>之間變化<span class="c-yellow">8倍</span>。
 
-This is the primary heat conservation mechanism.
+這解釋了大部分熱傳導變化。
 
-### Vasodilation
+### 血管收縮
 
-Full vasodilation maximizes blood flow to the skin.
+完全血管收縮將皮膚血流降至最低。
 
-This increases heat loss from the body surface.
+這減少了從身體表面散熱。
 
-This is the primary heat dissipation mechanism.
+這是主要的保熱機制。
 
-## Insulation
+### 血管舒張
 
-### Subcutaneous Fat
+完全血管舒張將皮膚血流增加到最大。
 
-Subcutaneous adipose tissue provides thermal insulation.
+這增加了從身體表面散熱。
 
-Fat has a thermal conductivity approximately **1/3 that of other tissues**.
+這是主要的散熱機制。
 
-This reduces heat transfer between the body core and the skin surface.
+## 絕緣
 
-### Individual Variation
+### 皮下脂肪
 
-Subcutaneous fat thickness is the primary determinant of interindividual variation in cold tolerance.
+<span class="c-red">皮下脂肪組織</span>提供熱絕緣。
 
-People with more body fat can tolerate cold better than leaner individuals.
+脂肪的導熱係數約為其他組織的<span class="c-yellow">1/3</span>。
 
-## Sweating and Evaporation
+這減少了身體核心和皮膚表面之間的熱傳遞。
 
-### Sweat Glands
+### 個體差異
 
-Sweat glands are exocrine glands in the skin.
+皮下脂肪厚度是個體間耐寒差異的<span class="c-yellow">主要決定因素</span>。
 
-When activated, they secrete sweat onto the skin surface.
+體脂較多的人比較瘦的人更能耐寒。
 
-### Evaporative Cooling
+## 出汗與蒸發
 
-Evaporation of sweat cools the skin surface.
+### 汗腺
 
-This is the most effective heat dissipation mechanism when ambient temperature is high.
+<span class="c-red">汗腺</span>是皮膚中的外分泌腺。
 
-### Sweat Rate
+激活時，它們將汗水分泌到皮膚表面。
 
-Sweat rate can reach several liters per hour during extreme heat or exercise.
+### 蒸發冷卻
 
-### Fluid Loss
+汗水蒸發冷卻皮膚表面。
 
-Prolonged sweating can lead to significant fluid and electrolyte loss.
+這是環境溫度高時最有效的散熱機制。
 
-This can cause dehydration if fluids are not replaced.
+### 出汗率
 
-## Fever
+在極端炎熱或運動期間，出汗率可達到每小時數升。
 
-### Definition
+### 液體流失
 
-Fever is an elevated core body temperature above the normal range.
+長時間出汗可導致顯著的液體和電解質流失。
 
-It results from a raised hypothalamic set-point.
+如果不及時補充，可能導致<span class="c-red">脫水</span>。
 
-### Pyrogens
+## 發燒
 
-Fever is triggered by **pyrogens**, substances that raise the hypothalamic set-point.
+### 定義
 
-#### Exogenous Pyrogens
+<span class="c-red">發燒</span>是核心體溫升高到正常範圍以上。
 
-Exogenous pyrogens include:
-- Bacterial endotoxin
-- Lipopolysaccharide (LPS)
-- Other microbial products
+這是由於<span class="c-yellow">下視丘設定點</span>升高。
 
-#### Endogenous Pyrogens
+### 熱原
 
-Endogenous pyrogens are cytokines produced by the immune system:
-- **IL-1β** (Interleukin-1 beta)
-- **TNF-α** (Tumor necrosis factor alpha)
-- **IL-6** (Interleukin-6)
+發燒是由<span class="c-red">熱原</span>引發的，這些物質升高下視丘設定點。
 
-These cytokines act on the hypothalamus.
+#### 外源性熱原
 
-### Mechanism of Fever
+外源性熱原包括：
 
-Endogenous pyrogens act on the **organum vasculosum of the lamina terminalis (OVLT)**.
+- 細菌內毒素
+- 脂多糖（LPS）
+- 其他微生物產品
 
-This is a circumventricular organ with poor blood-brain barrier.
+#### 內源性熱原
 
-Pyrogens induce synthesis of **prostaglandin E₂ (PGE₂)**.
+內源性熱原是免疫系統產生的細胞激素：
 
-PGE₂ raises the hypothalamic temperature set-point.
+| 細胞激素 | 說明 |
+|----------|------|
+| <span class="c-red">IL-1β</span> | 白細胞介素-1β |
+| <span class="c-red">TNF-α</span> | 腫瘤壞死因子α |
+| <span class="c-red">IL-6</span> | 白細胞介素-6 |
 
-The body then initiates heat conservation and production to reach the new set-point.
+這些細胞激素作用於下視丘。
 
-This causes the characteristic chills and shivering of fever onset.
+### 發燒的機制
 
-### Antipyretics
+內源性熱原作用於<span class="c-red">終板血管器（OVLT）</span>。
 
-Antipyretic drugs lower fever by inhibiting prostaglandin synthesis.
+這是血腦屏障較差的腦室周器官。
 
-| Drug | Mechanism |
-|------|----------|
-| Aspirin | Inhibits cyclooxygenase (COX-1 and COX-2) |
-| Acetaminophen | Inhibits cyclooxygenase in the CNS |
+熱原誘導<span class="c-yellow">前列腺素E₂（PGE₂）</span>的合成。
 
-These drugs inhibit cyclooxygenase and prostaglandin synthesis.
+PGE₂升高下視丘溫度設定點。
 
-This lowers the elevated set-point to normalize temperature.
+身體然後啟動保熱和產熱以達到新的設定點。
 
-### Benefits of Fever
+這導致發燒開始時特徵性的<span class="c-cyan">寒戰和顫抖</span>。
 
-Fever may have beneficial effects:
-- Enhances immune system function
-- Inhibits some microbial growth
-- May help resolve infections
+### 退燒藥
 
-### Harmful Effects
+<span class="c-red">退燒藥</span>通過抑制前列腺素合成來降低發燒。
 
-High fever can be harmful:
-- Increased metabolic rate
-- Increased cardiac workload
-- Seizures (especially in children)
-- Neurological damage in extreme cases
+| 藥物 | 機制 |
+|------|------|
+| <span class="c-yellow">阿斯匹靈</span> | 抑制環氧酶（COX-1和COX-2）|
+| <span class="c-yellow">退燒藥</span> | 抑制中樞神經系統中的環氧酶 |
 
-## Heat Stroke
+這些藥物抑制環氧酶和前列腺素合成。
 
-### Definition
+這降低升高設定點以恢復正常體溫。
 
-Heat stroke is a failure of thermoregulation.
+### 發燒的益處
 
-It occurs when core temperature rises above **40°C (104°F)**.
+發燒可能有有益效應：
 
-### Mechanism
+- 增強免疫系統功能
+- 抑制某些微生物生長
+- 可能幫助對抗感染
 
-Heat stroke results from overwhelming heat dissipation mechanisms.
+### 有害效應
 
-This occurs during:
-- High environmental temperatures
-- Heavy exercise
-- Dehydration
+高燒可能有害：
 
-### Symptoms
+- 代謝率增加
+- 心臟負荷增加
+- 癲癇發作（特別是兒童）
+- 極端情況下神經損傷
 
-Heat stroke symptoms include:
-- Altered mental status
-- Confusion
-- Loss of consciousness
-- Hot, dry skin
-- Rapid heartbeat
+## 中暑
 
-### Treatment
+### 定義
 
-Emergency treatment includes:
-- Rapid cooling
-- IV fluid resuscitation
-- Supportive care
+<span class="c-red">中暑</span>是體溫調節的失效。
 
-## Hypothermia
+當核心溫度升高超過<span class="c-yellow">40°C（104°F）</span>時發生。
 
-### Definition
+### 機制
 
-Hypothermia is core body temperature below **35°C (95°F)**.
+中暑是由於散熱機制被壓倒。
 
-### Causes
+這發生在：
 
-Hypothermia results from:
-- Cold environmental exposure
-- Impaired thermoregulation
-- Medical conditions (hypothyroidism, sepsis)
+- 高環境溫度
+- 劇烈運動
+- 脫水
 
-### Stages
+### 症狀
 
-| Stage | Temperature |
-|-------|-------------|
-| Mild | 32–35°C (90–95°F) |
-| Moderate | 28–32°C (82–90°F) |
-| Severe | <28°C (<82°F) |
+中暑症狀包括：
 
-### Effects
+- 意識狀態改變
+- 意識混亂
+- 意識喪失
+- 皮膚熱而乾燥
+- 心跳快速
 
-Progressive effects include:
-- Shivering (until exhaustion)
-- Confusion
-- Loss of coordination
-- Loss of consciousness
-- Cardiac arrhythmias
-- Death
+### 治療
 
-## Behavioral Temperature Regulation
+緊急治療包括：
 
-Beyond autonomic responses, humans use behavioral mechanisms:
+- 快速降溫
+- 靜脈輸液復甦
+- 支持性護理
 
-- Seeking shade or sunlight
-- Adjusting clothing
-- Modifying activity level
-- Using heating or cooling devices
+## 低體溫症
 
-Behavioral regulation is a critical component of human thermoregulation.
+### 定義
+
+<span class="c-cyan">低體溫症</span>是核心體溫低於<span class="c-yellow">35°C（95°F）</span>。
+
+### 原因
+
+低體溫症是由於：
+
+- 寒冷環境暴露
+- 體溫調節受損
+- 醫療狀況（甲狀腺功能減退、敗血症）
+
+### 分期
+
+| 分期 | 溫度 |
+|------|------|
+| 輕度 | 32–35°C（90–95°F）|
+| 中度 | 28–32°C（82–90°F）|
+| 重度 | <28°C（<82°F）|
+
+### 效應
+
+進行性效應包括：
+
+- 顫抖（直到衰竭）
+- 意識混亂
+- 失去協調
+- 意識喪失
+- 心律不整
+- 死亡
+
+## 行為性體溫調節
+
+除了自律反應外，人類還使用行為機制：
+
+- 尋找陰涼處或陽光
+- 調整衣物
+- 改變活動水平
+- 使用取暖或制冷設備
+
+行為調節是人類體溫調節的關鍵組成部分。

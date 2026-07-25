@@ -1,7 +1,7 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH49"
-title: "Somatic Sensations: II. Pain and Temperature"
+title: "軀體感覺：疼痛與溫度"
 book: "Guyton & Hall"
 summary: "Pain and temperature sensations are detected by specialized receptors (nociceptors and thermoreceptors) and transmitted via specific sensory pathways to the brain. The hypothalamus serves as the central integrator for temperature regulation, coordinating vasomotor, sweating, and shivering responses to maintain thermal homeostasis."
 key_points:

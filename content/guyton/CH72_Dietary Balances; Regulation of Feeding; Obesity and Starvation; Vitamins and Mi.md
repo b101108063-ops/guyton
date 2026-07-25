@@ -1,320 +1,344 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH72"
-title: "Dietary Balances; Regulation of Feeding; Obesity and Starvation; Vitamins and Minerals"
+title: "膳食平衡、攝食調節、肥胖與飢餓、維生素與礦物質"
 book: "Guyton & Hall"
-summary: "Energy balance requires caloric intake equal to expenditure; excess energy is stored primarily as fat. Food intake is regulated by hypothalamic hunger/satiety centers responding to metabolic signals (leptin, ghrelin, insulin, glucose) and GI hormones. Starvation triggers glycogen depletion, protein catabolism, and ketogenesis. Vitamins are essential organic cofactors, and minerals serve structural, enzymatic, and electrochemical functions. The respiratory quotient (RQ = CO₂/O₂) reflects the mix of macronutrients oxidized."
+summary: "能量平衡需要卡路里攝入等於消耗；過剩能量主要儲存為脂肪。食物攝入由下視丘飢餓/飽足中樞調節，回應代謝信號（瘦素、飢餓素、胰島素、葡萄糖）和胃腸道激素。飢餓觸發肝糖耗盡、蛋白質分解和酮體生成。維生素是必需的有機輔因子，礦物質具有結構、酶和電化學功能。呼吸商（RQ = CO₂/O₂）反映被氧化的巨量營養素組合。"
 key_points:
-  - "Energy values: carbohydrate 4 Cal/g, fat 9 Cal/g, protein 4 Cal/g (physiologically available); American diet is ~15% protein, 40% fat, 45% carbohydrate"
-  - "The hypothalamic arcuate nucleus contains orexigenic NPY/AgRP neurons and anorexigenic POMC/CART neurons that integrate peripheral satiety signals including leptin (from adipocytes) and ghrelin (from stomach)"
-  - "Leptin secretion is proportional to adipose tissue mass; leptin inhibits NPY/AgRP neurons and stimulates POMC neurons to reduce food intake"
-  - "Kwashiorkor (protein deficiency) causes edema, lethargy, and growth failure due to inadequate essential amino acids, whereas marasmus (total caloric deficiency) causes muscle wasting and weight loss"
-  - "Carbohydrate and fat metabolism spare protein; during starvation, protein stores are spared initially but degradation increases to 125 g/day after glycogen depletion"
-  - "The respiratory quotient (RQ) is 1.0 for carbohydrate, 0.70 for fat, and 0.80 for protein; mixed diets yield intermediate RQ values"
-  - "Vitamin K is essential for γ-carboxylation of clotting factors II, VII, IX, X; deficiency causes bleeding diathesis; gut bacteria normally synthesize adequate vitamin K"
-  - "Iron is critical for hemoglobin synthesis and electron transport (cytochromes); iodine is essential for thyroid hormone synthesis; zinc is a cofactor for carbonic anhydrase and many peptidases"
+  - "能量值：碳水化合物4 Cal/g、脂肪9 Cal/g、蛋白質4 Cal/g（生理可用）；美國飲食約15%蛋白質、40%脂肪、45%碳水化合物"
+  - "下視丘弓狀核包含食慾刺激NPY/AgRP神經元和食慾抑制POMC/CART神經元，整合來自脂肪細胞的瘦素和來自胃的飢餓素等外周飽足信號"
+  - "瘦素分泌與脂肪組織質量成正比；瘦素抑制NPY/AgRP神經元並刺激POMC神經元以減少食物攝入"
+  - "蛋白質缺乏（kwashiorkor）導致水腫、嗜睡和生長失敗；總熱量缺乏（marasmus）導致肌肉消耗和體重減輕"
+  - "碳水化合物和脂肪代謝節約蛋白質；飢餓期間，蛋白質儲存最初被節約，但肝糖耗盡後降解增加至每天125克"
+  - "呼吸商（RQ）碳水化合物為1.0、脂肪為0.70、蛋白質為0.80；混合飲食產生中間RQ值"
+  - "維生素K對凝血因子II、VII、IX、X的γ-羧化必不可少；缺乏導致出血體質；腸道細菌通常合成足夠維生素K"
+  - "鐵對血紅素合成和電子傳遞（細胞色素）至關重要；碘對甲狀腺激素合成必不可少；鋅是碳酸酐酶和許多肽酶的輔因子"
 ---
 
-## Regulation of Food Intake
+## 食物攝入的調節
 
-### Hunger and Satiety Centers
+### 飢餓與飽足中樞
 
-Food intake is regulated by centers in the hypothalamus.
+食物攝入由下視丘中的中樞調節。
 
-The **hypothalamic arcuate nucleus** contains key neurons for appetite regulation:
+<span class="c-red">下視丘弓狀核</span>包含食慾調節的關鍵神經元：
 
-| Neuron Type | Effect | Neurotransmitters |
-|-------------|--------|------------------|
-| Orexigenic (NPY/AgRP) | Stimulates hunger | Neuropeptide Y, Agouti-related peptide |
-| Anorexigenic (POMC/CART) | Promotes satiety | Proopiomelanocortin, Cocaine- and amphetamine-regulated transcript |
+| 神經元類型 | 效應 | 神經傳導物質 |
+|-----------|------|-------------|
+| <span class="c-red">食慾刺激型（NPY/AgRP）</span> | 刺激飢餓 | 神經肽Y、刺鼠相關肽 |
+| <span class="c-cyan">食慾抑制型（POMC/CART）</span> | 促進飽足 | 黑色素皮質素、可卡因和苯丙胺調節轉錄物 |
 
-### Peripheral Signals
+### 外周信號
 
-The hypothalamus integrates peripheral signals related to energy stores and food intake:
+下視丘整合與能量儲存和食物攝入相關的外周信號：
 
-**Leptin:**
-- Secreted by adipocytes (fat cells)
-- Secretion is proportional to adipose tissue mass
-- Inhibits NPY/AgRP neurons
-- Stimulates POMC neurons
-- Overall effect: reduces food intake
+**瘦素：**
 
-**Ghrelin:**
-- Secreted by the stomach
-- Levels rise before meals
-- Stimulates NPY/AgRP neurons
-- Increases appetite
+- 由脂肪細胞分泌
+- 分泌與脂肪組織質量成正比
+- 抑制NPY/AgRP神經元
+- 刺激POMC神經元
+- 總效應：<span class="c-yellow">減少食物攝入</span>
 
-**Insulin:**
-- Secreted by pancreatic β-cells
-- Signals satiety
-- Inhibits food intake
+**飢餓素：**
 
-**Glucose:**
-- Acts as a direct metabolic signal
-- Higher glucose levels reduce appetite
+- 由胃分泌
+- 飯前水平升高
+- 刺激NPY/AgRP神經元
+- <span class="c-yellow">增加食慾</span>
 
-## Obesity and Weight Regulation
+**胰島素：**
 
-### Energy Balance
+- 由胰臟β細胞分泌
+- 信號飽足
+- 抑制食物攝入
 
-Weight stability requires caloric intake equal to energy expenditure.
+**葡萄糖：**
 
-Excess energy is stored primarily as fat.
+- 作為直接代謝信號
+- 較高葡萄糖水平減少食慾
 
-When overfed persistently, body weight increases.
+## 肥胖與體重調節
 
-When underfed, body weight decreases.
+### 能量平衡
 
-### Causes of Obesity
+體重穩定需要卡路里攝入等於能量消耗。
 
-Obesity results from:
-- Excessive caloric intake
-- Reduced energy expenditure
-- Combination of both
+過剩能量主要儲存為脂肪。
 
-Genetic factors influence:
-- Basal metabolic rate
-- Fat distribution
-- Appetite regulation
+持續過度進食時，體重增加。
 
-Environmental factors include:
-- Diet composition
-- Physical activity levels
-- Stress and sleep patterns
+攝入不足時，體重減少。
 
-## Starvation and Metabolic Adaptations
+### 肥胖的原因
 
-### Early Starvation
+肥胖是由以下原因造成：
 
-During the first few days of starvation:
-- Glycogen stores are depleted (provides ~24 hours of glucose)
-- Gluconeogenesis increases (using amino acids, glycerol, lactate)
-- Protein breakdown begins
+- 過度卡路里攝入
+- 減少能量消耗
+- 兩者結合
 
-### Prolonged Starvation
+遺傳因素影響：
 
-After glycogen depletion, the body adapts:
-- **Ketogenesis** increases significantly
-- Ketone bodies become a major energy source for the brain
-- Protein breakdown is somewhat spared
-- Muscle protein degradation increases to ~125 g/day
+- 基礎代謝率
+- 脂肪分布
+- 食慾調節
 
-### Protein Sparing
+環境因素包括：
 
-Carbohydrate and fat metabolism spare protein.
+- 飲食組成
+- 身體活動水平
+- 壓力和睡眠模式
 
-During starvation:
-- Initial protein degradation is limited
-- Eventually, protein stores are mobilized for gluconeogenesis
-- This leads to muscle wasting and organ dysfunction
+## 飢餓與代謝適應
 
-## Vitamins
+### 早期飢餓
 
-### Fat-Soluble Vitamins
+飢餓的前幾天：
 
-#### Vitamin A
+- 肝糖儲存耗盡（提供約24小時葡萄糖）
+- 新生葡萄糖生成增加（使用胺基酸、甘油、乳酸）
+- 蛋白質分解開始
 
-Vitamin A is essential for:
-- Vision (retinal pigment)
-- Epithelial cell maintenance
-- Immune function
+### 長期飢餓
 
-Deficiency causes night blindness and xerophthalmia.
+肝糖耗盡後，身體適應：
 
-#### Vitamin D
+- <span class="c-red">酮體生成</span>顯著增加
+- 酮體成為大腦的主要能量來源
+- 蛋白質分解有所節約
+- 肌肉蛋白降解增加至每天約<span class="c-yellow">125克</span>
 
-Vitamin D functions as a hormone:
-- Increases calcium absorption from the intestine
-- Promotes bone mineralization
-- Regulates calcium and phosphorus homeostasis
+### 蛋白質節約
 
-Deficiency causes rickets in children and osteomalacia in adults.
+碳水化合物和脂肪代謝<span class="c-cyan">節約蛋白質</span>。
 
-#### Vitamin E
+飢餓期間：
 
-Vitamin E protects against oxidation of unsaturated fats.
+- 初始蛋白質降解有限
+- 最終蛋白質儲存被動員用於新生葡萄糖生成
+- 導致肌肉消耗和器官功能障礙
 
-In the absence of vitamin E:
-- Unsaturated fats in cells become diminished
-- Cellular organelles are abnormally structured (mitochondria, lysosomes, cell membranes)
+## 維生素
 
-#### Vitamin K
+### 脂溶性維生素
 
-Vitamin K is an essential cofactor for a liver enzyme.
+#### 維生素A
 
-This enzyme adds a carboxyl group to clotting factors:
-- Factor II (prothrombin)
-- Factor VII (proconvertin)
-- Factor IX
-- Factor X
+維生素A對以下至關重要：
 
-Without this carboxylation, these coagulation factors are inactive.
+- 視覺（視網膜色素）
+- 上皮細胞維護
+- 免疫功能
 
-Deficiency causes delayed blood clotting.
+缺乏導致夜盲和乾眼症。
 
-Vitamin K is synthesized by colonic bacteria, making dietary deficiency rare.
+#### 維生素D
 
-However, when colonic bacteria are destroyed by antibiotics, deficiency can occur rapidly.
+維生素D作為激素發揮作用：
 
-### Water-Soluble Vitamins
+- 增加腸道鈣吸收
+- 促進骨質礦化
+- 調節鈣磷恆定
 
-#### Vitamin B Complex
+缺乏導致兒童<span class="c-red">佝僂病</span>和成人<span class="c-red">軟骨病</span>。
 
-| Vitamin | Function | Deficiency |
-|---------|----------|------------|
-| B₁ (Thiamine) | Coenzyme in carbohydrate metabolism | Beriberi (cardiovascular and neurologic symptoms) |
-| B₂ (Riboflavin) | FMN, FAD cofactors | Cheilosis, glossitis |
-| B₃ (Niacin) | NAD⁺, NADP⁺ cofactors | Pellagra (dermatitis, diarrhea, dementia) |
-| B₆ (Pyridoxine) | Amino acid metabolism coenzyme | Peripheral neuropathy, anemia |
-| B₁₂ (Cobalamin) | Methyl transfer, DNA synthesis | Pernicious anemia, neurologic damage |
-| Folic acid | DNA synthesis | Megaloblastic anemia, neural tube defects |
-| C (Ascorbic acid) | Antioxidant, collagen synthesis | Scurvy (bleeding gums, poor wound healing) |
+#### 維生素E
 
-## Mineral Metabolism
+維生素E防止不飽和脂肪氧化。
 
-### Major Minerals
+沒有維生素E時：
 
-| Mineral | Daily Requirement (Men) | Daily Requirement (Women) | Functions |
-|---------|------------------------|---------------------------|----------|
-| Sodium | 1500 mg | 1500 mg | Fluid balance, nerve function |
-| Potassium | 3400 mg | 2600 mg | Nerve function, muscle contraction |
-| Chloride | 2300 mg | 2300 mg | Fluid balance, HCl production |
-| Calcium | 1000 mg | 1000 mg | Bone structure, muscle contraction, nerve function |
-| Phosphorus | 700 mg | 700 mg | Bone structure, ATP, nucleic acids |
-| Magnesium | 420 mg | 320 mg | Enzyme cofactor, muscle function |
+- 細胞中的不飽和脂肪減少
+- 細胞器結構異常（粒線體、溶酶體、細胞膜）
 
-**Notes:**
-- Calcium increases to 1200 mg/day after age 70 (men) and after age 51 (women)
-- Iron decreases to 8 mg/day after age 51
+#### 維生素K
 
-### Magnesium
+維生素K是肝臟酶的必需輔因子。
 
-Magnesium is about one-sixth as plentiful in cells as potassium.
+此酶將羧基團添加到凝血因子：
 
-It is required as a catalyst for many intracellular enzymatic reactions.
+- 因子II（凝血酶原）
+- 因子VII（前轉化素）
+- 因子IX
+- 因子X
 
-Particularly important for carbohydrate metabolism.
+沒有這種羧化，這些凝血因子是無活的。
 
-**Extracellular magnesium concentration:** 1.8–2.5 mEq/L
+缺乏導致血液凝固延遲。
 
-**Effects of increased extracellular magnesium:**
-- Depresses nervous system activity
-- Depresses skeletal muscle contraction (can be blocked by calcium)
+維生素K由結腸細菌合成，使飲食缺乏罕見。
 
-**Effects of low magnesium:**
-- Increased nervous system irritability
-- Peripheral vasodilation
-- Cardiac arrhythmias (especially after acute myocardial infarction)
+然而，當結腸細菌被抗生素破壞時，缺乏可能迅速發生。
 
-### Calcium
+### 水溶性維生素
 
-Calcium is present mainly as calcium phosphate in bone.
+#### 維生素B複合體
 
-**Effects of excess calcium ions:**
-- Can cause the heart to stop in systole
-- Can act as a mental depressant
+| 維生素 | 功能 | 缺乏 |
+|--------|------|------|
+| B1（硫胺素）| 碳水化合物代謝中的輔酶 | <span class="c-red">腳氣病</span>（心血管和神經系統症狀）|
+| B2（核黃素）| FMN、FAD輔因子 | 口角炎、舌炎 |
+| B3（菸鹼酸）| NAD⁺、NADP⁺輔因子 | <span class="c-red">糙皮病</span>（皮膚炎、腹瀉、失智）|
+| B6（吡哆醇）| 胺基酸代謝輔酶 | 周邊神經病變、貧血 |
+| B12（鈷胺素）| 甲基轉移、DNA合成 | <span class="c-red">惡性貧血</span>、神經損傷 |
+| 葉酸 | DNA合成 | 巨球性貧血、神經管缺陷 |
+| C（抗壞血酸）| 抗氧化劑、膠原蛋白合成 | <span class="c-red">壞血病</span>（牙齦出血、傷口癒合不良）|
 
-**Effects of low calcium:**
-- Can cause spontaneous nerve fiber discharge
-- Results in tetany
+## 礦物質代謝
 
-### Phosphorus
+### 主要礦物質
 
-Phosphate is the major anion of intracellular fluid.
+| 礦物質 | 男性每日需求 | 女性每日需求 | 功能 |
+|--------|-------------|-------------|------|
+| 鈉 | 1500 mg | 1500 mg | 液體平衡、神經功能 |
+| 鉀 | 3400 mg | 2600 mg | 神經功能、肌肉收縮 |
+| 氯化物 | 2300 mg | 2300 mg | 液體平衡、鹽酸生產 |
+| 鈣 | 1000 mg | 1000 mg | 骨骼結構、肌肉收縮、神經功能 |
+| 磷 | 700 mg | 700 mg | 骨骼結構、ATP、核酸 |
+| 鎂 | 420 mg | 320 mg | 酶輔因子、肌肉功能 |
 
-Phosphates combine reversibly with many coenzyme systems and compounds necessary for metabolic processes.
+**注意：**
 
-Important reactions involve:
-- Adenosine triphosphate (ATP)
-- Adenosine diphosphate (ADP)
-- Phosphocreatine
+- 鈉在70歲後（男性）和51歲後（女性）增加到1200毫克/天
+- 鐵在51歲後減少到8毫克/天
 
-### Iron
+### 鎂
 
-Two-thirds of body iron is in hemoglobin.
+鎂在細胞中的含量約為鉀的六分之一。
 
-Smaller quantities are present in liver and bone marrow.
+它是許多細胞內酶反應的催化劑。
 
-Iron-containing electron carriers (cytochromes) are in mitochondria.
+對碳水化合物代謝特別重要。
 
-These are essential for most cellular oxidation.
+**細胞外鎂濃度：** 1.8–2.5 mEq/L
 
-**Iron is essential for:**
-- Transport of oxygen to tissues
-- Operation of oxidative systems within cells
+**細胞外鎂增加的效應：**
 
-Without iron, life would cease within a few seconds.
+- 抑制神經系統活動
+- 抑制骨骼肌收縮（可被鈣阻斷）
 
-## Important Trace Elements
+**鎂過低的效應：**
 
-A few elements are present in very small quantities — called **trace elements**.
+- 神經系統興奮性增加
+- 周邊血管擴張
+- 心律不整（尤其急性心肌梗塞後）
 
-Without any one of them, a specific deficiency syndrome develops.
+### 鈣
 
-The three most important are **iodine**, **zinc**, and **fluorine**.
+鈣主要以磷酸鈣形式存在於骨骼中。
 
-### Iodine
+**鈣離子過多的效應：**
 
-The entire body contains an average of only **14 milligrams** of iodine.
+- 可導致心臟在收縮期停止
+- 可作為精神抑製劑
 
-Iodine is essential for formation of:
-- Thyroxine (T₄)
-- Triiodothyronine (T₃)
+**鈣過低的效應：**
 
-These thyroid hormones maintain normal metabolic rates in all cells.
+- 可導致自發性神經纖維放電
+- 導致<span class="c-red">強直</span>
 
-### Zinc
+### 磷
 
-Zinc is an integral part of many enzymes.
+磷酸鹽是細胞內液的主要陰離子。
 
-One of the most important is **carbonic anhydrase**.
+磷酸鹽可逆地與許多輔酶系統和代謝過程所必需的化合物結合。
 
-Carbonic anhydrase is present in high concentration in red blood cells.
+重要反應涉及：
 
-It is responsible for:
-- Rapid combination of CO₂ with water in peripheral capillary RBCs
-- Rapid release of CO₂ from pulmonary capillary blood into alveoli
+- <span class="c-yellow">三磷酸腺苷（ATP）</span>
+- <span class="c-yellow">二磷酸腺苷（ADP）</span>
+- <span class="c-yellow">磷酸肌酸</span>
 
-Carbonic anhydrase is also present in:
-- Gastrointestinal mucosa
-- Renal tubules
-- Epithelial cells of many glands
+### 鐵
 
-Zinc is also a component of **lactic dehydrogenase**.
+體內三分之二的鐵在血紅素中。
 
-This enzyme is important for interconversions between pyruvic acid and lactic acid.
+較少量存在於肝臟和骨髓。
 
-Finally, zinc is a component of some **peptidases**.
+含鐵電子載體（<span class="c-red">細胞色素</span>）存在於粒線體中。
 
-It is important for protein digestion in the GI tract.
+這些對大多數細胞氧化至關重要。
 
-### Fluorine
+**鐵對以下必不可少：**
 
-Fluorine does not seem to be a necessary element for metabolism.
+- 將氧氣運輸到組織
+- 在細胞內氧化系統的運作
 
-However, a small quantity protects against dental caries (tooth decay).
+沒有鐵，生命會在幾秒鐘內終止。
 
-Fluorine does not make teeth stronger.
+## 重要微量元素
 
-It suppresses the cariogenic process.
+少數元素以非常小的量存在——稱為<span class="c-yellow">微量元素</span>。
 
-Fluorine may be deposited in hydroxyapatite crystals of tooth enamel.
+缺乏任何一種都會產生特定的缺乏症候群。
 
-It blocks trace metals necessary for activation of bacterial enzymes that cause caries.
+三個最重要的是<span class="c-red">碘</span>、<span class="c-red">鋅</span>和<span class="c-red">氟</span>。
 
-#### Fluorosis
+### 碘
 
-Excessive fluorine intake causes **fluorosis**.
+整個身體平均只含有<span class="c-yellow">14毫克</span>碘。
 
-**Mild fluorosis:** Mottled teeth
+碘對以下激素的形成必不可少：
 
-**Severe fluorosis:** Enlarged bones
+- <span class="c-cyan">甲狀腺素（T₄）</span>
+- <span class="c-cyan">三碘甲狀腺素（T₃）</span>
 
-Fluorine may combine with trace metals in metabolic enzymes, including phosphatases.
+這些甲狀腺激素維持所有細胞的正常代謝率。
 
-Various metabolic systems become partially inactivated.
+### 鋅
 
-Mottled teeth and enlarged bones may result from abnormal enzyme systems in odontoblasts and osteoblasts.
+鋅是許多酶的組成部分。
 
-The mottled teeth, despite being highly resistant to caries, may have reduced structural strength.
+其中最重要的是<span class="c-red">碳酸酐酶</span>。
+
+碳酸酐酶大量存在於紅血球中。
+
+它的作用是：
+
+- 在周邊毛細血管紅血球中CO₂與水的快速結合
+- 在肺毛細血管血液中CO₂快速釋放到肺泡
+
+碳酸酐酶也存在於：
+
+- 胃腸道黏膜
+- 腎小管
+- 許多腺體的上皮細胞
+
+鋅也是<span class="c-cyan">乳酸脫氫酶</span>的組成部分。
+
+這種酶對丙酮酸和乳酸之間的相互轉化很重要。
+
+最後，鋅是一些<span class="c-cyan">肽酶</span>的組成部分。
+
+它對胃腸道中的蛋白質消化很重要。
+
+### 氟
+
+氟似乎不是代謝的必要元素。
+
+然而，少量可以防止<span class="c-yellow">齲齒</span>。
+
+氟不使牙齒更強壯。
+
+它抑制齲齒過程。
+
+氟可能沉積在牙釉質的羥基磷灰石晶體中。
+
+它阻斷細菌酶活化所需的金屬微量營養素。
+
+#### 氟中毒
+
+過量氟攝入導致<span class="c-red">氟中毒</span>。
+
+**輕度氟中毒：** 斑點牙齒
+
+**嚴重氟中毒：** 骨骼增大
+
+氟可能與代謝酶中的微量金屬結合，包括磷酸酶。
+
+各種代謝系統部分失活。
+
+斑點牙齒和骨骼增大可能源於造齒質細胞和成骨細胞的異常酶系統。
+
+斑點牙齒儘管對齲齒有很高的抵抗力，但可能有降低的結構強度。

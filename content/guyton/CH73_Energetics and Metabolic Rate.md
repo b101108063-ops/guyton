@@ -1,136 +1,142 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH73"
-title: "Energetics and Metabolic Rate"
+title: "能量學與基礎代謝率"
 book: "Guyton & Hall"
-summary: "ATP serves as the universal energy currency coupling energy-producing oxidative metabolism of foodstuffs to energy-consuming cellular work including muscle contraction, active transport, synthesis, and nerve conduction. Phosphocreatine functions as an ATP buffer, rapidly regenerating ATP from ADP. Metabolic rate is measured by direct or indirect calorimetry and is increased by physical activity, hormone effects (thyroxine, catecholamines), thermic effect of food, and temperature. Anaerobic glycolysis provides rapid energy during hypoxia and brief strenuous activity."
+summary: "ATP作為通用能量貨幣，將食物的產能氧化代謝與能量消耗的細胞工作（包括肌肉收縮、主動運輸、合成和神經傳導）耦合。磷酸肌酸作為ATP緩衝劑，從ADP快速再生ATP。基礎代謝率通過直接測熱法或間接測熱法測量，甲狀腺素、兒茶酚胺、食物的熱效應和溫度都會增加基礎代謝率。無氧糖酵解在缺氧和短暫劇烈運動期間提供快速能量。"
 key_points:
-  - "ATP is not the most abundant high-energy phosphate reservoir; phosphocreatine (CrP) is 3-8× more abundant and buffers ATP by transferring its phosphate to ADP: CrP + ADP ⇌ ATP + Cr"
-  - "The high-energy phosphate bond of phosphocreatine (~13,000 cal/mol) has more energy than ATP bonds (~12,000 cal/mol), driving rapid ATP regeneration when ATP is depleted"
-  - "Direct calorimetry measures heat production; indirect calorimetry (respiratory quotient) estimates metabolic rate from O₂ consumption and CO₂ production"
-  - "Basal metabolic rate (BMR) is measured after 12-18 hours fasting and 8 hours rest, representing minimal energy expenditure for vital functions"
-  - "Anaerobic glycolysis yields only 2 ATP per glucose (or 3 from glycogen) versus ~32 ATP from complete aerobic oxidation, but operates 100× faster, enabling maximal muscle contraction for 5-10 seconds"
-  - "During hypoxia, lactate dehydrogenase converts NADH + pyruvate to lactate, regenerating NAD⁺ for continued glycolysis; lactate is later reconverted to glucose in the liver (Cori cycle)"
-  - "Thyroxine increases BMR by uncoupling oxidative phosphorylation and increasing Na⁺/K⁺-ATPase activity; prolonged excess causes muscle protein catabolism and weight loss"
+  - "ATP不是最豐富的高能磷酸鹽儲備；磷酸肌酸（CrP）多3-8倍，通過將磷酸轉移到ADP來緩衝ATP：CrP + ADP ⇌ ATP + Cr"
+  - "磷酸肌酸的高能磷酸鍵（約13,000 cal/mol）比ATP鍵（約12,000 cal/mol）有更多能量，在ATP耗盡時驅動快速ATP再生"
+  - "直接測熱法測量熱量產生；間接測熱法（呼吸商）根據O₂消耗和CO₂產生估計基礎代謝率"
+  - "基礎代謝率（BMR）在禁食12-18小時和休息8小時後測量，代表維持生命功能的最小能量消耗"
+  - "無氧糖酵解每分子葡萄糖只產生2 ATP（或來自糖原的3 ATP），而完全需氧氧化產生約32 ATP，但速度快100倍，使最大肌肉收縮維持5-10秒"
+  - "缺氧期間，乳酸脫氫酶將NADH + 丙酮酸轉化為乳酸，再生NAD⁺以持續糖酵解；乳酸後來在肝臟中重新轉化為葡萄糖（Cori循環）"
+  - "甲狀腺素通過解離氧化磷酸化和增加Na⁺/K⁺-ATP酶活性來增加BMR；長期過量導致肌肉蛋白質分解和體重減輕"
 ---
 
-## ATP as the Energy Currency of Metabolism
+## ATP作為代謝的能量貨幣
 
-Carbohydrates, fats, and proteins can all be used by cells to synthesize large quantities of ATP.
+### ATP的普遍性
 
-ATP is used as an energy source for almost all other cellular functions.
+碳水化合物、脂肪和蛋白質都可以被細胞用來合成大量ATP。
 
-ATP has been called an energy **"currency"** in cell metabolism.
+ATP幾乎所有其他細胞功能的能量來源。
 
-Energy transfer from foodstuffs to functional systems can only be performed through ATP (or the similar GTP).
+ATP被稱為細胞代謝中的能量<span class="c-yellow">「貨幣」</span>。
 
-### Free Energy in ATP Bonds
+能量從食物到功能系統的轉移只能通過ATP（或類似的GTP）來執行。
 
-ATP contains a large quantity of free energy in each of its two high-energy phosphate bonds.
+### ATP鍵中的自由能
 
-| Condition | Calories per Mole |
-|-----------|------------------|
-| Standard conditions | ~7,300 calories |
-| Physiological conditions | ~12,000 calories |
+ATP在每個高能磷酸鍵中含有大量自由能。
 
-The energy in each bond, when liberated by ATP decomposition, can cause almost any chemical reaction step in the body.
+| 條件 | 每摩爾卡路里 |
+|------|-------------|
+| 標準條件 | 約7,300卡 |
+| 生理條件 | 約<span class="c-yellow">12,000卡</span> |
 
-Some reactions require only a few hundred calories.
+ATP分解時每個鍵釋放的能量幾乎可以導致體內任何化學反應步驟。
 
-The remainder is lost as heat.
+一些反應只需要幾百卡。
 
-### ATP Generation from Combustion of Foodstuffs
+其餘的作為熱量丟失。
 
-ATP is produced through:
+### 從食物燃燒生成ATP
 
-1. **Carbohydrate combustion:** Through anaerobic glycolysis (cytoplasm) and aerobic citric acid cycle (mitochondria)
+ATP通過以下方式產生：
 
-2. **Fatty acid combustion:** Beta-oxidation in cell mitochondria
+1. **碳水化合物燃燒：** 通過無氧糖酵解（細胞質）和需氧檸檬酸循環（粒線體）
 
-3. **Protein combustion:** Hydrolysis to amino acids, degradation to citric acid cycle intermediates, then to acetyl-CoA and CO₂
+2. **脂肪酸燃燒：** 細胞粒線體中的β-氧化
 
-## Uses of ATP Energy
+3. **蛋白質燃燒：** 水解為胺基酸，降解為檸檬酸循環中介物，然後為乙醯輔酶A和CO₂
 
-### ATP Energizes Synthesis of Cellular Components
+## ATP能量的用途
 
-One of the most important processes requiring ATP energy is synthesis of peptide linkages during protein synthesis.
+### ATP為細胞成分合成提供能量
 
-Different peptide linkages require **500 to 5,000 calories** per mole.
+需要ATP能量的最重要過程之一是蛋白質合成過程中<span class="c-red">肽鍵的合成</span>。
 
-Four high-energy phosphate bonds are expended for each peptide linkage.
+不同的肽鍵每摩爾需要<span class="c-yellow">500至5,000卡</span>。
 
-This provides 48,000 calories total.
+每個肽鍵消耗四個高能磷酸鍵。
 
-Far more than the 500 to 5,000 calories eventually stored in each peptide linkage.
+這提供了總共48,000卡。
 
-ATP energy is also used for:
-- Synthesizing glucose from lactic acid
-- Synthesizing fatty acids from acetyl-CoA
-- Synthesizing cholesterol, phospholipids, and hormones
-- Synthesizing almost all other body substances
-- Forming urea (excreted by kidneys)
+遠遠超過最終儲存在每個肽鍵中的500至5,000卡。
 
-### ATP Energizes Muscle Contraction
+ATP能量也用於：
 
-Muscle contraction will not occur without ATP energy.
+- 從乳酸合成葡萄糖
+- 從乙醯輔酶A合成脂肪酸
+- 合成膽固醇、磷脂和激素
+- 合成幾乎所有其他身體物質
+- 形成尿素（由腎臟排泄）
 
-**Myosin** acts as an enzyme to break down ATP into ADP.
+### ATP為肌肉收縮提供能量
 
-This releases energy required for contraction.
+沒有ATP能量，肌肉收縮就不會發生。
 
-Only a small amount of ATP is degraded in resting muscle.
+<span class="c-red">肌球蛋白</span>作為分解ATP為ADP的酶。
 
-During short bursts of maximal contraction, this rate can rise to **150 times** the resting level.
+這釋放收縮所需的能量。
 
-### ATP Energizes Active Transport
+休息肌肉中只有少量ATP降解。
 
-Active transport of electrolytes and nutrients across cell membranes requires ATP.
+在短暫最大收縮爆發期間，這個速率可能上升到<span class="c-yellow">休息水平的150倍</span>。
 
-This includes transport from renal tubules and GI tract into blood.
+### ATP為主動運輸提供能量
 
-Active transport can occur against electrochemical gradients.
+跨細胞膜的電解質和營養素的主動運輸需要ATP。
 
-Energy from ATP is required to oppose these gradients.
+這包括從腎小管和胃腸道到血液的運輸。
 
-### ATP Energizes Glandular Secretion
+主動運輸可以逆著電化學梯度發生。
 
-The same principles apply to glandular secretion as to absorption.
+ATP能量需要對抗這些梯度。
 
-Energy is required to concentrate substances during secretion.
+### ATP為腺體分泌提供能量
 
-Additional energy is required to synthesize organic compounds for secretion.
+腺體分泌與吸收的原則相同。
 
-### ATP Energizes Nerve Conduction
+分泌過程中濃縮物質需要能量。
 
-Energy for nerve impulse propagation comes from ion concentration differences across neuronal membranes.
+分泌所需的有機化合物的合成需要額外能量。
 
-High potassium inside and low outside is one energy store.
+### ATP為神經傳導提供能量
 
-High sodium outside and low inside is another energy store.
+神經衝動傳播的能量來自神經元膜兩側離子濃度差異。
 
-Energy for each action potential comes from this energy storage.
+細胞內高鉀和細胞外低鉀是一個能量儲存。
 
-During each action potential, small amounts of potassium leave and sodium enter the cell.
+細胞外高鈉和細胞內低鈉是另一個能量儲存。
 
-ATP-powered active transport systems then return ions to their original positions.
+每個動作電位的能量來自這種能量儲存。
 
-## Phosphocreatine as an Energy Storage Depot
+在每個動作電位期間，少量鉀離開細胞，鈉進入細胞。
 
-Despite ATP's importance, it is not the most abundant high-energy phosphate store.
+然後ATP供能的主動運輸系統將離子返回其原始位置。
 
-**Phosphocreatine** is three to eight times more abundant than ATP.
+## 磷酸肌酸作為能量儲存庫
 
-### Energy Content
+### 磷酸肌酸的優勢
 
-The high-energy bond of phosphocreatine contains:
-- **8,500 calories** per mole (standard conditions)
-- **13,000 calories** per mole (body conditions at 37°C)
+儘管ATP很重要，它不是最豐富的高能磷酸鹽儲備。
 
-This exceeds the 12,000 calories per mole in each ATP high-energy phosphate bond.
+<span class="c-red">磷酸肌酸</span>比ATP多<span class="c-yellow">3至8倍</span>。
 
-### Chemical Structure
+### 能量含量
 
-Phosphocreatine formula:
+磷酸肌酸的高能鍵含有：
+
+- 標準條件下每摩爾<span class="c-yellow">8,500卡</span>
+- 體溫37°C條件下每摩爾<span class="c-yellow">13,000卡</span>
+
+這超過了每個ATP高能磷酸鍵的12,000卡/摩爾。
+
+### 化學結構
+
+磷酸肌酸公式：
 
 ```
 HOOC-CH₂-CH₃
@@ -138,154 +144,190 @@ HOOC-CH₂-CH₃
     NH    O
 ```
 
-### Energy Transfer
+### 能量轉移
 
-Unlike ATP, phosphocreatine cannot directly couple energy transfer.
+與ATP不同，磷酸肌酸不能直接耦合能量轉移。
 
-However, energy transfers interchangeably between phosphocreatine and ATP:
+然而，能量在磷酸肌酸和ATP之間可交換地轉移：
 
 ```
-Phosphocreatine + ADP ⇌ ATP + Creatine
+磷酸肌酸 + ADP ⇌ ATP + 肌酸
 ```
 
-When extra ATP is available, energy is used to synthesize phosphocreatine.
+當有多餘ATP可用時，能量用於合成磷酸肌酸。
 
-When ATP is depleted, phosphocreatine energy is transferred back to ATP.
+當ATP耗盡時，磷酸肌酸能量轉移回ATP。
 
-### ATP Buffer Function
+### ATP緩衝功能
 
-The higher energy level of phosphocreatine causes rapid reaction with ADP to form new ATP.
+磷酸肌酸較高的能量水平導致與ADP快速反應形成新ATP。
 
-Any slight usage of ATP calls forth energy from phosphocreatine to synthesize new ATP.
+任何ATP的輕微使用都會調用磷酸肌酸的能量來合成新ATP。
 
-This keeps ATP concentration nearly constant.
+這使ATP濃度幾乎保持恆定。
 
-Therefore, the ATP-phosphocreatine system functions as an ATP **"buffer"** system.
+因此，ATP-磷酸肌酸系統作為ATP<span class="c-yellow">「緩衝」</span>系統。
 
-This constancy is critical because most metabolic reaction rates depend on it.
+這種恆定性至關重要，因為大多數代謝反應速率依賴於它。
 
-## Anaerobic vs. Aerobic Energy
+## 無氧與需氧能量
 
-**Anaerobic energy** is derived without oxygen utilization.
+### 定義
 
-**Aerobic energy** requires oxidative metabolism.
+<span class="c-red">無氧能量</span>是不利用氧氣而獲得的能量。
 
-Carbohydrates, fats, and proteins can all be oxidized to produce ATP.
+<span class="c-cyan">需氧能量</span>需要氧化代謝。
 
-Only carbohydrates can provide significant energy without oxygen.
+碳水化合物、脂肪和蛋白質都可以氧化以產生ATP。
 
-This occurs during glycolytic breakdown of glucose to pyruvic acid.
+只有碳水化合物可以在沒有氧氣的情況下提供重要能量。
 
-### ATP from Anaerobic Glycolysis
+這發生在葡萄糖分解為丙酮酸的糖酵解過程中。
 
-For each mole of glucose split into pyruvic acid, **2 moles of ATP** are formed.
+### 來自無氧糖酵解的ATP
 
-When stored glycogen is split to pyruvic acid, each mole of glucose gives **3 moles of ATP**.
+每摩爾葡萄糖分裂為丙酮酸，形成<span class="c-yellow">2摩爾ATP</span>。
 
-Free glucose entering cells must be phosphorylated (using 1 ATP) before splitting.
+當儲存的糖原分裂為丙酮酸時，每摩爾葡萄糖給出<span class="c-yellow">3摩爾ATP</span>。
 
-Glycogen-derived glucose is already in the phosphorylated state.
+進入細胞的遊離葡萄糖必須先被磷酸化（使用1 ATP）才能分裂。
 
-Therefore, **stored glycogen** is the best anaerobic energy source.
+來自糖原的葡萄糖已經處於磷酸化狀態。
 
-## Anaerobic Energy During Hypoxia
+因此，<span class="c-cyan">儲存糖原</span>是最佳的無氧能量來源。
 
-One prime example of anaerobic energy utilization occurs in acute hypoxia.
+## 缺氧期間的無氧能量
 
-When breathing stops, a small amount of oxygen is stored in lungs and hemoglobin.
+### 急性缺氧的例子
 
-This sustains metabolic processes for only about **2 minutes**.
+急性缺氧中無氧能量利用的一個典型例子。
 
-Continued life beyond this requires additional energy sources.
+當呼吸停止時，肺部和血紅蛋白中儲存的少量氧氣。
 
-Energy can be derived from glycolysis for about another minute.
+這只維持大約<span class="c-yellow">2分鐘</span>的代謝過程。
 
-Glycogen splits into pyruvic acid.
+繼續存活需要額外能量來源。
 
-Pyruvic acid becomes lactic acid, which diffuses out of cells.
+能量可以從糖酵解獲得大約又一分鐘。
 
-## Anaerobic Energy During Strenuous Activity
+糖原分裂為丙酮酸。
 
-Skeletal muscles can perform extreme feats for a few seconds.
+丙酮酸變為乳酸，擴散出細胞。
 
-Muscles are much less capable during prolonged activity.
+## 劇烈運動期間的無氧能量
 
-Extra energy for bursts of activity cannot come from oxidative processes because they respond too slowly.
+### 肌肉的極端表現
 
-Extra energy comes from anaerobic sources:
-1. ATP already present in muscle cells
-2. Phosphocreatine in the cells
-3. Anaerobic glycolysis of glycogen to lactic acid
+骨骼肌可以執行幾秒鐘的極端表現。
 
-### Energy Reserves in Muscle
+肌肉在長時間活動中能力要差得多。
 
-| Source | Amount | Duration of Maximum Contraction |
-|--------|--------|--------------------------------|
-| ATP | ~5 mmol/L intracellular fluid | ~1 second |
-| Phosphocreatine | 3–8× ATP amount | 5–10 seconds |
+活動爆發的額外能量不能來自氧化過程，因為它們反應太慢。
 
-### Glycolytic Energy Release
+額外能量來自無氧來源：
 
-Glycolytic energy release occurs much more rapidly than oxidative energy release.
+1. 肌肉細胞中已經存在的ATP
+2. 細胞中的磷酸肌酸
+3. 糖原到乳酸的無氧糖酵解
 
-Extra energy for strenuous activity lasting more than 5–10 seconds but less than 1–2 minutes comes mainly from anaerobic glycolysis.
+### 肌肉中的能量儲備
 
-During strenuous exercise:
-- Glycogen content of muscles is reduced
-- Lactic acid concentration in blood rises
+| 來源 | 含量 | 最大收縮持續時間 |
+|------|------|----------------|
+| ATP | 約5 mmol/L細胞內液 | 約1秒 |
+| 磷酸肌酸 | ATP量的3-8倍 | 5-10秒 |
 
-After exercise, oxidative metabolism reconverts about **four fifths** of lactic acid into glucose.
+### 糖酵解能量釋放
 
-The remainder becomes pyruvic acid and is degraded.
+糖酵解能量釋放比氧化能量釋放快得多。
 
-## Metabolic Rate
+持續超過5-10秒但少於1-2分鐘的劇烈活動的額外能量主要來自<span class="c-red">無氧糖酵解</span>。
 
-### Definition
+劇烈運動期間：
 
-Metabolic rate is the rate of energy expenditure by the body.
+- 肌肉的糖原含量減少
+- 血中乳酸濃度上升
 
-It can be measured by:
-- **Direct calorimetry:** Measures heat production directly
-- **Indirect calorimetry:** Estimates metabolic rate from O₂ consumption and CO₂ production
+運動後，氧化代謝將約<span class="c-yellow">五分之四</span>的乳酸重新轉化為葡萄糖。
 
-### Basal Metabolic Rate (BMR)
+其餘變為丙酮酸並被降解。
 
-BMR is measured under standardized conditions:
-- After 12–18 hours of fasting
-- After 8 hours of rest
-- In a comfortable, thermoneutral environment
+## 代謝率
 
-BMR represents minimal energy expenditure for vital functions.
+### 定義
 
-### Factors Affecting Metabolic Rate
+<span class="c-red">代謝率</span>是身體能量消耗的速率。
 
-| Factor | Effect |
-|--------|--------|
-| Physical activity | Increases metabolic rate significantly |
-| Thyroxine | Increases BMR |
-| Catecholamines | Increase metabolic rate |
-| Thermic effect of food | Increases metabolic rate temporarily |
-| Body temperature | Fever increases metabolic rate |
-| Age | Higher in children; decreases with age |
+測量方法：
 
-### Thyroxine Effects
+- <span class="c-cyan">直接測熱法：</span>直接測量熱量產生
+- <span class="c-cyan">間接測熱法：</span>根據O₂消耗和CO₂產生估計
 
-Thyroxine increases BMR by:
-- Uncoupling oxidative phosphorylation
-- Increasing Na⁺/K⁺-ATPase activity
+### 基礎代謝率（BMR）
 
-Prolonged thyroxine excess causes:
-- Muscle protein catabolism
-- Weight loss
+BMR在標準化條件下測量：
 
-### Respiratory Quotient and Metabolic Rate
+- 禁食12-18小時後
+- 休息8小時後
+- 在舒適的熱中性環境中
 
-The respiratory quotient (RQ) is the ratio of CO₂ produced to O₂ consumed.
+BMR代表維持生命功能的<span class="c-yellow">最小能量消耗</span>。
 
-| Substrate | RQ |
-|-----------|-----|
-| Carbohydrate | 1.0 |
-| Fat | 0.70 |
-| Protein | 0.80 |
+### 影響代謝率的因素
 
-Indirect calorimetry uses RQ and oxygen consumption to estimate metabolic rate.
+| 因素 | 效應 |
+|------|------|
+| 身體活動 | 顯著增加代謝率 |
+| 甲狀腺素 | 增加BMR |
+| 兒茶酚胺 | 增加代謝率 |
+| 食物的熱效應 | 暫時增加代謝率 |
+| 體溫 | 發燒增加代謝率 |
+| 年齡 | 兒童較高；隨年齡減少 |
+
+### 甲狀腺素效應
+
+甲狀腺素通過以下方式增加BMR：
+
+- <span class="c-red">解離氧化磷酸化</span>
+- 增加<span class="c-red">Na⁺/K⁺-ATP酶</span>活性
+
+長期甲狀腺素過量導致：
+
+- 肌肉蛋白質分解
+- 體重減輕
+
+### 呼吸商與代謝率
+
+<span class="c-red">呼吸商（RQ）</span>是產生的CO₂與消耗的O₂之比。
+
+| 基質 | RQ |
+|------|-----|
+| 碳水化合物 | <span class="c-yellow">1.0</span> |
+| 脂肪 | <span class="c-yellow">0.70</span> |
+| 蛋白質 | <span class="c-yellow">0.80</span> |
+
+間接測熱法使用RQ和氧消耗來估計代謝率。
+
+## 直接測熱法與間接測熱法
+
+### 直接測熱法
+
+直接測量身體散發的熱量。
+
+使用隔熱測熱室。
+
+記錄一定時間內散發的總熱量。
+
+### 間接測熱法
+
+根據氧消耗和CO₂產生估計能量產生。
+
+每升氧消耗產生的能量取決於燃燒的基質。
+
+| 基質 | 每升O₂的能量（千卡）|
+|------|---------------------|
+| 碳水化合物 | 5.0 |
+| 脂肪 | 4.7 |
+| 蛋白質 | 4.5 |
+
+混合飲食約為<span class="c-yellow">4.8-5.0千卡/升O₂</span>。

@@ -1,27 +1,212 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH59"
-title: "The Limbic System and the Hypothalamus—Behavioral and Motivational Mechanisms of the Brain"
+title: "邊緣系統與下視丘——行為與動機的神經機制"
 book: "Guyton & Hall"
-summary: "The limbic system and hypothalamus form the brain's motivational and behavioral control center, working with brain stem reticular activating system to regulate arousal, sleep-wake cycles, and motivated behaviors. The hypothalamus maintains homeostasis by controlling autonomic function, endocrine secretion, thirst, hunger, and temperature regulation. Neurohormonal systems using serotonin, norepinephrine, dopamine, and acetylcholine modulate brain activity and behavior."
+summary: "邊緣系統和下視丘構成大腦的動機和行為控制中心，與腦幹網狀啟動系統共同調節覺醒、睡眠-覺醒週期和動機行為。下視丘通過控制自律神經功能、內分泌分泌、渴覺、飢餓和體溫調節來維持恆定。神經激素系統（血清素、正腎上腺素、多巴胺、乙醯膽鹼）調節腦活動和行為。"
 key_points:
-  - "The limbic system includes hypothalamus, amygdala, hippocampus, septal nuclei, and anterior thalamic nuclei; it controls emotions, motivation, and basic survival behaviors"
-  - "The hypothalamus contains the suprachiasmatic nucleus (master circadian clock), feeding and thirst centers, and temperature regulation neurons"
-  - "Brain stem reticular activating system maintains cortical arousal through projections to thalamus and diffuse neurotransmitter systems"
-  - "Serotonergic neurons in raphe nuclei promote sleep; lesions in these nuclei cause insomnia"
-  - "The limbic-hypothalamic-pituitary axis coordinates endocrine responses to stress and emotional stimuli"
+  - "邊緣系統包括下視丘、杏仁核、海馬迴、間隔核和丘腦前核；控制情緒、動機和基本生存行為"
+  - "下視丘包含視交叉上核（主時鐘）、攝食和渴覺中樞以及體溫調節神經元"
+  - "腦幹網狀啟動系統通過到丘腦的投射和瀰散神經遞質系統維持皮層覺醒"
+  - "縫核中的血清素能神經元促進睡眠；這些核團的損傷導致失眠"
+  - "邊緣-下視丘-腦下垂體軸協調對壓力和情緒刺激的內分泌反應"
 ---
----## SLEEP Sleep is defined as unconsciousness from which a person can be aroused by sensory or other stimuli. It is to be distinguished from coma, which is unconsciousness from which a person cannot be aroused. There are multiple stages of sleep, from very light sleep to very deep sleep. Sleep researchers also divide sleep into two entirely different types of sleep that have different qualities, as described in the following section. ## SLEEP AND RAPID EYE MOVEMENT SLEEP Each night, a person goes through stages of two major types of sleep that alternate with each other (Figure 60-1). These types are called (1) rapid eye movement sleep (REM sleep), in which the eyes undergo rapid movements even though the person is still asleep, and (2) slow-wave sleep or nonREM (NREM) sleep, in which the brain waves are strong and of low frequency, as we discuss later. REM sleep occurs in episodes that occupy about 25% of the sleep time in young adults; each episode normally recurs about every 90 minutes. This type of sleep is not so restful, and it is often associated with vivid dreaming. Most sleep during each night is of the slow-wave (NREM) variety, which is the deep, restful sleep that the person experiences during the first hour of sleep after having been awake for many hours. REM (Paradoxical, Desynchronized) Sleep In a normal night of sleep, bouts of REM sleep lasting 5 to 30 minutes usually appear on average every 90 minutes in young adults. When a person is extremely sleepy, each bout of REM sleep is short and may even be absent. As the person becomes more rested through the night, the durations of the REM bouts increase. REM sleep has several important characteristics:
-1. It is an active form of sleep usually associated with dreaming and active bodily muscle movements. 2. The person is even more difficult to arouse by sensory stimuli than during deep slow-wave sleep, and yet people usually awaken spontaneously in the morning during an episode of REM sleep. 3.
-Muscle tone throughout the body is exceedingly depressed, indicating strong inhibition of the spinal muscle control areas. 4. Heart rate and respiratory rate usually become irregular, which is characteristic of the dream state. 5. Despite the extreme inhibition of the peripheral muscles, irregular muscle movements do occur in addition to the rapid movements of the eyes. 6.
-The brain is highly active in REM sleep, and overall brain metabolism may be increased as much as 20%. An electroencephalogram (EEG) shows a pattern of brain waves similar to those that occur during wakefulness. This type of sleep is also called paradoxical sleep because it is a paradox that a person can still be asleep, despite the presence of marked activity in the brain.
-In summary, REM sleep is a type of sleep in which the brain is quite active. However, the person is not fully aware of the surroundings and therefore is truly asleep. SlowWave Sleep We can understand the characteristics of deep slow-wave sleep by remembering the last time we were kept awake for more than 24 hours and the deep sleep that occurred during the first hour after going to sleep.
-This sleep is exceedingly restful and is associated with decreases in peripheral vascular tone and many other vegetative functions of the body. For example, 10% to 30% decreases occur in blood pressure, respiratory rate, and basal metabolic rate. Although slow-wave sleep is frequently called “dreamless sleep,” dreams and sometimes even nightmares do occur during slow-wave sleep.
-The difference between States of Brain Activity—Sleep, Brain Waves, Epilepsy, Psychoses, and Dementia the dreams that occur in slow-wave sleep and those that occur in REM sleep is that those of REM sleep are associated with more bodily muscle activity. Also, the dreams of slow-wave sleep are usually not remembered because consolidation of the dreams in memory does not occur. ## BASIC THEORIES OF SLEEP ### Sleep Is Caused by an Active Inhibitory Process. An earlier theory of sleep was that the excitatory areas of the upper brain stem, the reticular activating system, simply became fatigued during the waking day and became inactive as a result.
-An important experiment changed this thinking to the current view that sleep is caused by an active inhibitory process, because it was discovered that transecting the brain stem at the level of the midpons creates a brain cortex that never goes to sleep. In other words, a center located below the midpontile level of the brain stem appears to be required to cause sleep by inhibiting other parts of the brain. Neuronal Centers, Neurohumoral Substances, and Mechanisms That Can Cause Sleep—Possible Role for Serotonin ### Stimulation of several specific areas of the brain can produce sleep with characteristics near those of natural sleep.
-Some of these areas are the following: 1. The raphe nuclei in the lower half of the pons and in the medulla is the most conspicuous stimulation area for causing almost natural sleep. These nuclei comprise a thin sheet of special neurons located in the midline.
-Nerve fibers from these nuclei spread locally in the brain stem reticular formation and also upward into the thalamus, hypothalamus, most areas of the limbic system, and even the neocortex of the cerebrum. In addition, fibers extend downward into the spinal cord, terminating in the posterior horns, where they can inhibit incoming sensory signals, including pain, as discussed in Chapter 49. Many nerve endings of fibers from these raphe neurons secrete serotonin.
-When a drug that blocks the formation of serotonin is administered to an animal, the animal often cannot sleep for the next several days. Therefore, it has been assumed that serotonin is a transmitter substance associated with the production of sleep. 2. Stimulation of some areas in the nucleus of the tractus solitarius can also cause sleep.
-This nucleus is the termination in the medulla and pons for visceral sensory signals entering by way of the vagus and glossopharyngeal nerves. 3. Sleep can be promoted by stimulation of several regions in the diencephalon, including (1) the rostral part of the hypothalamus, mainly in the suprachiasmal area, and (2) an occasional area in the diffuse nuclei of the thalamus. Lesions in Sleep-Promoting Centers Can Cause Intense Wakefulness.
-Discrete lesions in the raphe nuclei lead to a high state of wakefulness. This phenomenon is also true of bilateral lesions in the medial rostral suprachiasmal area in the anterior hypothalamus. In both cases, the excitatory reticular nuclei of the mesencephalon and Alert wakefulness (beta waves) Awake REM REM REM REM REM REM Stage 1 Stage 2 Stage 3 Stage 4 1 2 3 4 Time (hours) 5 6 7 8 Quiet wakefulness (alpha waves) Stage 1 sleep (low voltage and spindles) Stages 2 and 3 sleep (theta waves) Stage 4 slow-wave sleep (delta waves) REM sleep (beta waves) 1 sec 50 μV > **Figure 60-1.
-Progressive change in the characteristics of the brain waves during alert wakefulness, rapid eye movement (REM) sleep, and stages one through four of sleep.**
+
+## 睡眠的本質
+
+### 睡眠的定義
+
+睡眠是意識變淺的狀態，可通過感覺或其他刺激喚醒。
+
+這與<span class="c-red">昏迷</span>不同，昏迷是無法喚醒的意識喪失。
+
+睡眠有多個階段，從非常淺的睡眠到非常深的睡眠。
+
+### 睡眠的兩種類型
+
+睡眠研究者將睡眠分為兩種完全不同的類型：
+
+| 類型 | 特點 |
+|------|------|
+| <span class="c-red">REM睡眠</span>（快速動眼睡眠）| 眼睛快速移動，腦波活躍，與清醒相似 |
+| <span class="c-cyan">NREM睡眠</span>（非快速動眼睡眠）| 腦波強而頻率低，又稱慢波睡眠 |
+
+年輕成人REM睡眠約佔總睡眠時間的<span class="c-yellow">25%</span>。
+
+每個REM週期約<span class="c-yellow">90分鐘</span>出現一次。
+
+## REM睡眠（異相睡眠）
+
+### REM睡眠的特徵
+
+<span class="c-red">REM睡眠</span>具有以下重要特徵：
+
+1. 這是一種活躍的睡眠形式，通常與<span class="c-cyan">生動做夢</span>和身體肌肉活動有關。
+
+2. 人在REM睡眠中比深慢波睡眠更難被感覺刺激喚醒，但人在早晨通常會<span class="c-cyan">自發性醒來</span>。
+
+3. 全身肌肉張力高度抑制，表明對脊髓肌肉控制區有強烈抑制。
+
+4. 心率和呼吸頻率通常變得不規則，這是做夢狀態的特徵。
+
+5. 儘管周邊肌肉受到極端抑制，但除了眼睛快速移動外，不規則的肌肉運動確實會發生。
+
+6. 大腦在REM睡眠中高度活躍，整體腦代謝可能增加<span class="c-yellow">多達20%</span>。
+
+### REM睡眠與腦波
+
+腦電圖（EEG）顯示與清醒時相似的腦波模式。
+
+這種睡眠也稱為<span class="c-red">異相睡眠</span>或<span class="c-red">去同步化睡眠</span>。
+
+矛盾的是，睡著的人儘管大腦有明顯活動，仍處於真正的睡眠狀態。
+
+## 慢波睡眠（NREM睡眠）
+
+### 慢波睡眠的特點
+
+慢波睡眠是最<span class="c-green">深層、最寧靜</span>的睡眠形式。
+
+這種睡眠與許多植物神經功能的下降有關：
+
+| 參數 | 變化 |
+|------|------|
+| 血壓 | 下降10-30% |
+| 呼吸頻率 | 下降10-30% |
+| 基底代謝率 | 下降10-30% |
+| 周邊血管張力 | 下降 |
+
+慢波睡眠通常稱為「無夢睡眠」，但夢和噩夢確實會發生。
+
+### 慢波睡眠與做夢
+
+慢波睡眠中發生的夢與REM睡眠中的夢不同：
+
+慢波睡眠中的夢通常<span class="c-yellow">不被記住</span>，因為夢沒有在記憶中鞏固。
+
+慢波睡眠中的夢通常伴隨較少的肢體肌肉活動。
+
+## 睡眠的機制
+
+### 睡眠的主動抑制過程
+
+早期理論認為睡眠是由於上行啟動系統疲勞。
+
+關鍵實驗改變了這種看法，證明睡眠是一個<span class="c-red">主動抑制過程</span>：
+
+在中腦橋水平橫切腦幹會產生一個永不入睡的大腦皮層。
+
+這表明位於中腦橋水平以下的某個中樞需要抑制其他腦區來引發睡眠。
+
+### 縫核與睡眠
+
+<span class="c-red">縫核</span>位於橋腦下半部和延腦。
+
+這些核團位於中線，由特殊神經元組成的薄片構成。
+
+縫核神經元的纖維：
+
+- 局部擴散到腦幹網狀結構
+- 上行到丘腦、下視丘、大部分邊緣系統
+- 下行到脊髓後角，抑制疼痛等傳入感覺信號
+
+這些神經末梢分泌<span class="c-yellow">血清素（serotonin）</span>。
+
+### 血清素與睡眠
+
+給動物服用<span class="c-red">阻斷血清素形成的藥物</span>，動物通常在接下來幾天無法入睡。
+
+因此，血清素被認為是與產生睡眠相關的神經傳導物質。
+
+### 睡眠促進中樞
+
+可以引起接近自然睡眠特徵的睡眠的腦區域包括：
+
+1. **縫核**（最顯著的睡眠促進區）
+2. **孤束核**的某些區域（終止於延腦和橋腦的內臟感覺信號）
+3. **間腦**的幾個區域：
+   - 下視丘前部，主要是視交叉上區
+   - 丘腦瀰散核的某些區域
+
+### 睡眠中樞損傷導致失眠
+
+縫核的離散損傷導致<span class="c-red">高度覺醒狀態</span>。
+
+雙側損傷視交叉上前區域（前部下視丘）也會產生同樣效果。
+
+## 腦波的類型
+
+### 不同腦波頻率
+
+腦電波頻率分類：
+
+| 類型 | 頻率 | 出現狀態 |
+|------|------|----------|
+| <span class="c-red">β波</span> | >13 Hz | 活躍覺醒、REM睡眠 |
+| <span class="c-cyan">α波</span> | 8-12 Hz | 放鬆覺醒、安静覺醒 |
+| <span class="c-yellow">θ波</span> | 4-7 Hz | 淺睡眠、瞌睡 |
+| <span class="c-green">δ波</span> | 0.5-3 Hz | 深慢波睡眠 |
+
+### 睡眠階段與腦波
+
+睡眠過程中的腦波變化：
+
+- **階段1**：低電壓混合頻率波
+- **階段2**：睡眠紡錘波（12-14 Hz）和K複合波
+- **階段3**：θ波占主導地位
+- **階段4**：高電壓δ波（占50%以上）
+
+## 神經激素對腦活動的控制
+
+### 重要的神經激素系統
+
+除了通過神經信號直接控制腦活動外，還有另一種生理機制：
+
+<span class="c-red">神經激素</span>——將興奮性或抑制性神經傳導物質激素樣劑分泌到腦組織中。
+
+這些神經激素可持續<span class="c-yellow">分鐘到小時</span>，提供長效控制。
+
+### 主要的神經激素系統
+
+| 系統 | 主要作用 | 分泌區域 |
+|------|----------|----------|
+| <span class="c-red">正腎上腺素系統</span> | 興奮性 | 藍斑核 |
+| <span class="c-yellow">血清素系統</span> | 抑制性 | 縫核 |
+| <span class="c-cyan">多巴胺系統</span> | 混合性 | 黑質、腹側被蓋區 |
+| <span class="c-green">乙醯膽鹼系統</span> | 興奮性 | 橋腦腳橋核、基底前腦 |
+
+### 各系統的擴散範圍
+
+<span class="c-red">正腎上腺素系統</span>擴散到幾乎腦的每個區域。
+
+<span class="c-yellow">血清素系統</span>主要分布於中線結構。
+
+<span class="c-cyan">多巴胺系統</span>主要投射到基底神經節區域。
+
+這種差異性分布解釋了為什麼干擾不同系統會產生不同的行為效應。
+
+## 覺醒與睡眠週期
+
+### 晝夜節律
+
+<span class="c-red">視交叉上核（SCN）</span>是主要的晝夜節律時鐘。
+
+SCN位於下視丘，接收視網膜直接投射。
+
+它調節褪黑激素分泌和整個身體的日常節律。
+
+### 覺醒的維持
+
+覺醒狀態依賴於：
+
+- <span class="c-red">網狀結構上行啟動系統</span>的持續活動
+- 感覺輸入的到達
+- 皮層-丘腦來回振盪迴路
+
+### 睡眠的開始
+
+睡眠的開始涉及：
+
+- <span class="c-yellow">縫核血清素能系統</span>的啟動
+- 網狀啟動系統的抑制
+- 皮層活動的普遍下降

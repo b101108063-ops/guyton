@@ -1,14 +1,250 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH60"
-title: "States of Brain Activity—Sleep, Brain Waves, Epilepsy, Psychoses, and Dementia"
+title: "腦活動狀態——睡眠、腦波、癲癇、精神病與失智症"
 book: "Guyton & Hall"
-summary: "Brain activity cycles between wakefulness, REM sleep, and non-REM (slow-wave) sleep, each with distinct EEG patterns and physiological characteristics. Sleep is actively induced by inhibitory centers in the brain stem and hypothalamus, particularly serotonergic neurons in the raphe nuclei. Various neurological conditions including epilepsy, psychoses, and dementia involve specific patterns of brain activity disruption."
+summary: "腦活動在清醒、REM睡眠和非REM（慢波）睡眠之間循環，每種狀態都有獨特的腦波模式和生理特徵。癲癇是由於神經元過度同步放電引起的。精神病和失智症涉及特定腦活動模式的破壞。睡眠障礙與特定腦區功能障礙有關。"
 key_points:
-  - "REM sleep is characterized by vivid dreaming, muscle atonia, rapid eye movements, and desynchronized beta-wave EEG activity similar to wakefulness"
-  - "Slow-wave (non-REM) sleep progresses through stages 1-4, with progressive increase in slow-wave (delta) activity; it is the most restful sleep phase"
-  - "Sleep is actively induced by inhibitory processes; raphe nuclei serotonin secretion promotes sleep, and lesions in sleep-promoting centers cause insomnia"
-  - "Alpha waves (8-12 Hz) indicate relaxed wakefulness; beta waves (>13 Hz) indicate active wakefulness; theta and delta waves characterize deeper sleep stages"
-  - "Epileptic seizures result from hypersynchronous neuronal discharges; petit mal involves 3-Hz spike-and-wave patterns, grand mal involves tonic-clonic contractions"
+  - "REM睡眠特徵是生動做夢、肌肉弛緩、快速動眼和類似清醒的去同步β波EEG"
+  - "慢波（非REM）睡眠分為1-4期，隨著深度增加δ波活動進行性增加；是最寧靜的睡眠階段"
+  - "α波（8-12 Hz）表示放鬆覺醒；β波（>13 Hz）表示活躍覺醒；θ和δ波代表更深層睡眠"
+  - "癲癇發作源於神經元過度同步放電；小發作涉及3-Hz棘慢波複合，大發作涉及強直-陣攣性收縮"
+  - "精神病（如精神分裂症）和失智症（如阿茲海默症）與特定腦活動模式和神經迴路障礙有關"
 ---
----## AUTONOMIC NERVOUS SYSTEM The autonomic nervous system is activated mainly by centers located in the spinal cord, brain stem, and hypothalamus. In addition, portions of the cerebral cortex, especially of the limbic cortex, can transmit signals to the lower centers and in this way can influence autonomic control. The autonomic nervous system also often operates through visceral reflexes. That is, subconscious sensory signals from visceral organs can enter the autonomic ganglia, the brain stem, or the hypothalamus and then return subconscious reflex responses directly back to the visceral organs to control their activities. The efferent autonomic signals are transmitted to the various organs of the body through two major subdivisions called the sympathetic nervous system and the parasympathetic nervous system, the characteristics and functions of which are described in the following sections. Physiologic Anatomy of the Sympathetic Nervous System > **Figure 61-1 shows the general organization of the peripheral portions of the sympathetic nervous system. Shown** specifically in the figure are (1) one of the two paravertebral sympathetic chains of ganglia that are interconnected with the spinal nerves on the side of the vertebral column, (2) prevertebral ganglia (the celiac, superior mesenteric, aorticorenal, inferior mesenteric, and hypogastric), and (3) nerves extending from the ganglia to the different internal organs. The sympathetic nerve fibers originate in the spinal cord along with spinal nerves between cord segments T1 and L2 and pass first into the sympathetic chain and then to the tissues and organs that are stimulated by the sympathetic nerves. Preganglionic and Postganglionic Sympathetic Neurons The sympathetic nerves are different from skeletal motor nerves in the following way. Each sympathetic pathway from the cord to the stimulated tissue is composed of two neurons, a preganglionic neuron and a postganglionic neuron, in contrast to only a single neuron in the skeletal motor pathway. The cell body of each preganglionic neuron lies in the intermediolateral horn of the spinal cord; its fiber passes through a ventral root of the cord into the corresponding spinal nerve, as shown in Figure 61-2. Immediately after the spinal nerve leaves the spinal canal, the preganglionic sympathetic fibers leave the spinal nerve and pass through a white ramus into one of the ganglia of the sympathetic chain. The fibers then can take one of the following three courses: (1) they can synapse with postganglionic sympathetic neurons in the ganglion that they enter; (2) they can pass upward or downward in the chain and synapse in one of the other ganglia of the chain; or (3) they can pass for variable distances through the chain and then through one of the sympathetic nerves radiating outward from the chain, finally synapsing in a peripheral sympathetic ganglion. The postganglionic sympathetic neuron thus originates either in one of the sympathetic chain ganglia or in one of the peripheral sympathetic ganglia. From either of these two sources, the postganglionic fibers then travel to their destinations in the various organs. Sympathetic Nerve Fibers in the Skeletal Nerves. Some of the postganglionic fibers pass back from the sympathetic chain into the spinal nerves through gray rami at all levels of the cord, as shown in Figure 61-2. These sympathetic fibers are all very small type C fibers, and they extend to all parts of the body via the skeletal nerves. They control the blood vessels, sweat glands, and piloerector muscles of the hairs. About 8% of the fibers in the average skeletal nerve are sympathetic fibers, indicating their great importance. The Autonomic Nervous System and the Adrenal Medulla ### Segmental Distribution of the Sympathetic Nerve Fibers. The sympathetic pathways that originate in the different segments of the spinal cord are not necessarily distributed to the same part of the body as the somatic spinal nerve fibers from the same segments. Instead, the sympathetic fibers from cord segment T1 generally pass as follows: (1) up the sympathetic chain to terminate in the head; (2) from T2 to terminate in the neck; (3) from T3, T4, T5, and T6 into the thorax; (4) from T7, T8, T9, T10, and T11 into the abdomen; and (5) from T12, L1, and L2 into the legs. This distribution is only approximate and overlaps greatly. The distribution of sympathetic nerves to each organ is determined partly by the locus in the embryo from which the organ originated. For example, the heart receives many sympathetic nerve fibers from the neck portion of the sympathetic chain because the heart originated in the neck of the embryo before translocating into the thorax. Likewise, the abdominal organs receive most of their sympathetic innervation from the lower thoracic spinal cord segments because most of the primitive gut originated in this area. Special Sympathetic Nerve Endings in the Adrenal Medullae. Preganglionic sympathetic nerve fibers pass, without synapsing, all the way from the intermediolateral horn cells of the spinal cord, through the sympathetic chains, then through the splanchnic nerves, and finally into the two adrenal medullae. There they end directly on modified neuronal cells that secrete epinephrine and norepinephrine into the blood stream. These secretory cells embryologically are derived from nervous tissue and are actually postganglionic neurons; indeed, they even have rudimentary nerve fibers, and it is the endings of these fibers that secrete the adrenal hormones epinephrine and norepinephrine. Physiological Anatomy of the Parasympathetic Nervous System The parasympathetic nervous system is shown in Figure 61-3, which demonstrates that parasympathetic fibers leave the central nervous system through cranial nerves III, VII, IX, and X; additional parasympathetic fibers leave the lowermost part of the spinal cord through the second and third sacral spinal nerves and occasionally the first and fourth sacral nerves. About 75% of all parasympathetic nerve fibers are in the vagus nerves (cranial nerve X), passing to the Bronchi Heart Eye Celiac ganglion Inferior mesenteric ganglion Superior mesenteric ganglion Aorticorenal ganglion Sweat gland C1 T1 T12 L1 L2 S1 Blood vessel Spinal cord from T1-L2 Piloerector muscle Hypogastric plexus Preganglionic neuron Postganglionic neuron Liver Stomach Pancreas Intestine Ileocecal valve Adrenal medulla Kidney Ureter Anal sphincter Colon Detrusor Trigone Bladder Genitalia Dorsal root Gray ramus White ramus Ventral root Chain > **Figure 61-1. Sympathetic nervous system. The black lines represent postganglionic fibers, and the red lines show preganglionic fibers. Spinal nerve White ramus Gray ramus Spinal nerve Preganglionic neuron Postganglionic neuron Sensory neuron Dorsal root	Intermediolateral horn Ventral root Splanchnic nerve Peripheral ganglion Gut Effector endings Sensory endings Sympathetic chain** > **Figure 61-2. Nerve connections among the spinal cord, spinal nerves, sympathetic chain, and peripheral sympathetic nerves.**
+
+## 自律神經系統概述
+
+### 自律神經系統的功能
+
+<span class="c-red">自律神經系統</span>主要被以下中樞激活：
+
+- 脊髓
+- 腦幹
+- 下視丘
+
+此外，大腦皮層（尤其是邊緣皮層）可以向下中樞傳送信號，從而影響自律控制。
+
+自律神經系統也常通過<span class="c-cyan">內臟反射</span>運作。
+
+### 兩個主要分支
+
+自律神經信號通過兩個主要分支傳送到身體各器官：
+
+| 分支 | 俗稱 | 主要功能 |
+|------|------|----------|
+| <span class="c-red">交感神經系統</span> | 戰鬥或逃跑 | 應激反應 |
+| <span class="c-cyan">副交感神經系統</span> | 休息和消化 | 修復和保存 |
+
+## 交感神經系統的解剖
+
+### 交感神經鏈
+
+<span class="c-red">交感神經系統</span>的周邊部分組織如下：
+
+1. **椎旁交感神經鏈**：位於脊椎柱兩側，與脊髓神經互聯
+2. **椎前神經節**：腹腔腸繫膜上动脉、腎上腺素、主動脈、腸繫膜下动脉、腹下神經叢
+3. **神經**：從神經節延伸到不同的內部器官
+
+### 交感神經纖維的起源
+
+交感神經纖維起源於<span class="c-yellow">T1至L2</span>脊髓段。
+
+這些纖維首先進入交感鏈，然後到達被交感神經刺激的組織和器官。
+
+### 節前和節後交感神經元
+
+每條交感路徑由兩個神經元組成：
+
+| 類型 | 位置 | 特點 |
+|------|------|------|
+| <span class="c-yellow">節前神經元</span> | 脊髓側角 | 細胞體在脊髓內 |
+| <span class="c-cyan">節後神經元</span> | 交感鏈或周邊神經節 | 軸突延伸到效應器 |
+
+### 節後纖維的去向
+
+節後交感纖維可以：
+
+1. 在進入的神經節與節後神經元突觸
+2. 在鏈中向上或向下走行，在其他神經節中的任一個突觸
+3. 通過交感神經鏈並穿過交感神經，放射到周邊，最後在周邊交感神經節突觸
+
+### 骨骼神經中的交感纖維
+
+一些節後纖維通過<span class="c-red">灰交通支</span>從交感鏈返回脊髓神經。
+
+這些交感纖維都是非常小的<span class="c-yellow">C型纖維</span>。
+
+它們通過骨骼神經延伸到身體各部位，控制：
+
+- <span class="c-cyan">血管</span>
+- <span class="c-cyan">汗腺</span>
+- <span class="c-cyan">立毛肌</span>
+
+平均骨骼神經中約<span class="c-yellow">8%</span>是交感纖維。
+
+### 交感神經纖維的節段分布
+
+交感路徑起源於脊髓不同節段，分布到身體特定區域：
+
+| 脊髓節段 | 分布區域 |
+|----------|----------|
+| T1 | 頭部 |
+| T2 | 頸部 |
+| T3-T6 | 胸部 |
+| T7-T11 | 腹部 |
+| T12-L2 | 下肢 |
+
+這種分布是近似值，有很大重疊。
+
+### 腎上腺髓質的特殊神經末梢
+
+節前交感纖維穿過交感鏈，通過內臟神經，最終進入兩個<span class="c-red">腎上腺髓質</span>。
+
+在這裡它們直接終止於分泌<span class="c-yellow">腎上腺素</span>和<span class="c-yellow">正腎上腺素</span>入血的改良神經細胞。
+
+這些分泌細胞在胚胎上來源於神經組織，實際上是節後神經元。
+
+## 副交感神經系統的解剖
+
+### 副交感神經纖維的起源
+
+<span class="c-cyan">副交感神經系統</span>的副交感纖維離開中樞神經系統：
+
+- 通過顱神經<span class="c-yellow">III、VII、IX、X</span>
+- 通過第2和第3<a >骶神經</a>（偶爾第1和第4）
+
+### 迷走神經的重要性
+
+約<span class="c-yellow">75%</span>的所有副交感神經纖維位於迷走神經（顱神經X）中。
+
+這些纖維傳送到：
+
+- 心臟
+- 肺臟
+- 胃
+- 小腸
+- 肝臟
+- 胰臟
+
+### 副交感神經節的特點
+
+副交感神經節位於或接近目標器官（稱為<span class="c-red">壁內神經節</span>）。
+
+這意味著副交感<span class="c-yellow">節前纖維很長</span>，而<span class="c-cyan">節後纖維很短</span>。
+
+這與交感神經系統相反（交感神經節靠近脊髓，節前纖維短，節後纖維長）。
+
+## 自律神經系統的神經傳導物質
+
+### 節前纖維的神經傳導物質
+
+無論是交感還是副交感，<span class="c-red">所有節前纖維</span>都釋放<span class="c-yellow">乙醯膽鹼（ACh）</span>。
+
+### 節後纖維的神經傳導物質
+
+| 系統 | 神經傳導物質 |
+|------|-------------|
+| 副交感節後纖維 | <span class="c-yellow">乙醯膽鹼</span> |
+| 交感節後纖維（大部分） | <span class="c-yellow">正腎上腺素</span> |
+| 交感膽鹼能纖維 | 乙醯膽鹼（支配汗腺）|
+
+### 腎上腺髓質
+
+腎上腺髓質釋放<span class="c-red">腎上腺素（70%）</span>和<span class="c-red">正腎上腺素（30%）</span>。
+
+## 自律神經系統的功能效應
+
+### 交感神經刺激的效應
+
+<span class="c-red">交感神經刺激</span>引起「戰鬥或逃跑」反應：
+
+| 效應器 | 效應 |
+|--------|------|
+| 心臟 | 心率↑、收縮力↑、傳導速度↑ |
+| 血管（皮膚、內臟）| 收縮（導致血壓↑）|
+| 肺 | 支氣管擴張 |
+| 眼 | 瞳孔放大 |
+| 消化道 | 蠕動↓、分泌↓ |
+
+### 副交感神經刺激的效應
+
+<span class="c-cyan">副交感神經刺激</span>促進「休息和消化」功能：
+
+| 效應器 | 效應 |
+|--------|------|
+| 心臟 | 心率↓ |
+| 眼睛 | 瞳孔縮小、睫狀肌收縮 |
+| 消化道 | 蠕動↑、分泌↑ |
+| 唾液腺 | 分泌↑ |
+
+### 自主神經系統的對比
+
+| 功能 | 交感神經 | 副交感神經 |
+|------|----------|------------|
+| 俗稱 | 戰鬥或逃跑 | 休息和消化 |
+| 節前纖維長度 | 短 | 長 |
+| 節後纖維長度 | 長 | 短 |
+| 神經節位置 | 靠近脊髓 | 靠近或位於效應器 |
+| 神經傳導物質（節後）| 正腎上腺素 | 乙醯膽鹼 |
+| 影響範圍 | 全身瀰散性 | 特定器官局部 |
+
+## 內臟反射
+
+### 內臟反射的組成
+
+內臟反射包括：
+
+1. **傳入支**：內臟感覺神經元（到達腦幹、下視丘）
+2. **中樞處理**：腦幹和下視丘整合中樞
+3. **傳出支**：自律神經系統（返回內臟）
+
+### 重要的內臟反射
+
+| 反射 | 傳入 | 中樞 | 傳出 | 效應 |
+|------|------|------|------|------|
+| <span class="c-yellow">心壓反射</span> | 頸动脉竇/主動脉弓 | 延腦 | 交感/副交感 | 調節血壓 |
+| <span class="c-yellow">化學受器反射</span> | 化學受器 | 延腦 | 自律神經 | 調節呼吸和血壓 |
+| <span class="c-yellow">排尿反射</span> | 膀胱伸展 | 脊髓/腦幹 | 副交感 | 膀胱收縮 |
+
+## 交感神經系統的功能狀態
+
+### 整體交感神經刺激
+
+在激烈情緒激動或劇烈運動時，全身交感神經系統幾乎同時激活。
+
+這會導致：
+
+- 血壓急劇升高
+- 心輸出量增加
+- 血糖升高
+- 瞳孔放大
+- 消化功能抑制
+
+### 局部交感神經刺激
+
+身體不同部位可以獨立激活局部交感神經。
+
+例如：
+- 散瞳（看到感興趣的東西）
+- 局部出汗（手心出汗）
+- 局部血管收縮（寒冷時保護核心體溫）
+
+## 自主神經系統與疾病
+
+### 自主神經功能障礙
+
+自主神經系統功能障礙可導致：
+
+| 疾病 | 表現 |
+|------|------|
+| <span class="c-red">姿位性心動過速症候群（POTS）</span> | 站立時心率大幅增加 |
+| <span class="c-red">自主神經失調</span> | 血壓波動、消化問題、排汗異常 |
+| <span class="c-red">Horner症候群</span> | 眼瞼下垂、瞳孔縮小、面部無汗 |
+
+### 藥物對自律神經的作用
+
+| 藥物 | 作用 | 效應 |
+|------|------|------|
+| <span class="c-yellow">阿托品</span> | 阻斷毒蕈鹼受體 | 副交感抑制（心率↑、瞳孔放大）|
+| <span class="c-yellow">心得安</span> | 阻斷β受體 | 交感抑制（心率↓、血壓↓）|
+| <span class="c-yellow">麻黃素</span> | 刺激α和β受體 | 交感激活（血壓↑、心率↑）|

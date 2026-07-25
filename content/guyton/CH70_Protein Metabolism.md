@@ -1,316 +1,310 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH70"
-title: "Protein Metabolism"
+title: "蛋白質代謝"
 book: "Guyton & Hall"
-summary: "Dietary proteins are digested to amino acids and absorbed; amino acid concentration in blood is tightly regulated at 35-65 mg/dL. The liver is the primary site of amino acid metabolism, where transamination and oxidative deamination remove nitrogen for urea synthesis. Deaminated amino acids enter the citric acid cycle for energy or are used for gluconeogenesis and ketogenesis. Protein turnover is continuous, with 20-30 g/day obligatory degradation requiring dietary protein replacement."
+summary: "膳食蛋白質被消化成胺基酸並被吸收；血中胺基酸濃度被嚴格調節在35-65 mg/dL。肝臟是胺基酸代謝的主要場所，轉氨作用和氧化去氨作用移除氮以進行尿素合成。去氨後的胺基酸進入檸檬酸循環產生能量或用於新生葡萄糖生成和酮體生成。蛋白質的更新是持續性的，每天20-30克的強制降解需要膳食蛋白質補充。"
 key_points:
-  - "Blood amino acid concentration is 35-65 mg/dL; excess amino acids are rapidly cleared by the liver within 5-10 minutes of absorption, preventing accumulation"
-  - "The 10 essential amino acids (threonine, valine, tryptophan, isoleucine, leucine, phenylalanine, methionine, lysine, histidine, arginine) cannot be synthesized in sufficient quantities and must be obtained from diet"
-  - "Transamination transfers amino groups to α-ketoglutarate, forming glutamate; oxidative deamination releases ammonia for urea synthesis in the urea cycle"
-  - "The urea cycle (2 NH₃ + CO₂ → H₂N-CO-NH₂ + 2 H₂O) occurs almost entirely in the liver; hepatic failure leads to ammonia accumulation and hepatic coma"
-  - "Gluconeogenesis converts deaminated amino acids (especially alanine and glutamine) to glucose; ketogenesis converts amino acid carbons to ketone bodies"
-  - "Obligatory protein loss is 20-30 g/day; minimum dietary protein requirement is 30-50 g/day (recommended 60-75 g/day) to maintain nitrogen balance"
-  - "Growth hormone and insulin promote protein synthesis; glucocorticoids promote protein breakdown and gluconeogenesis; testosterone increases muscle protein deposition"
+  - "血中胺基酸濃度為35-65 mg/dL；吸收後5-10分鐘內過量胺基酸被肝臟快速清除"
+  - "10種必需胺基酸（酥胺酸、纈胺酸、色胺酸、異亮胺酸、白胺酸、苯丙胺酸、甲硫胺酸、賴胺酸、組織胺酸、精胺酸）無法在人體內充分合成，必須從食物獲取"
+  - "轉氨作用將胺基基轉移至α-酮戊二酸形成麩胺酸；氧化去氨作用釋放氨用於尿素合成"
+  - "尿素循環（2 NH₃ + CO₂ → H₂N-CO-NH₂ + 2 H₂O）幾乎完全在肝臟進行；肝衰竭導致氨累積和肝性昏迷"
+  - "新生葡萄糖生成將去氨胺基酸（尤其是丙胺酸和麩胺酸）轉化為葡萄糖；酮體生成將胺基酸碳轉化為酮體"
+  - "強制蛋白質流失為每天20-30克；維持氮平衡的最低膳食蛋白質需求為每天30-50克（建議60-75克/天）"
+  - "生長激素和胰島素促進蛋白質合成；糖皮質素促進蛋白質分解和新生葡萄糖生成；睪固酮增加肌肉蛋白質沉積"
 ---
 
-## Peptide Linkages and Protein Structure
+## 蛋白質的基本結構
 
-### Formation of Peptide Linkages
+### 肽鍵的形成
 
-In the reaction that forms a peptide linkage:
+在形成肽鍵的反應中：
 
-- The nitrogen of the amino radical of one amino acid bonds with the carbon of the carboxyl radical of the other amino acid
-- A hydrogen ion is released from the amino radical
-- A hydroxyl ion is released from the carboxyl radical
-- These two ions combine to form a molecule of water
+- 一個胺基酸的胺基團的氮與另一個胺基酸的羧基的碳鍵結
+- 氫離子從胺基團釋出
+- 氫氧離子從羧基釋出
+- 這兩個離子結合形成一分子的水
 
-After the peptide linkage has been formed:
-- An amino radical remains at one end
-- A carboxyl radical remains at the opposite end
-- Each radical can combine with additional amino acids to form a peptide chain
+肽鍵形成後：
 
-Some complicated protein molecules have **many thousands** of amino acids combined by peptide linkages.
+- 一端保留胺基團
+- 另一端保留羧基
+- 每個基團可以與額外的胺基酸結合形成肽鏈
 
-Even the smallest protein molecule usually has more than **20 amino acids**.
+### 蛋白質分子的其他鍵結
 
-The average is about **400 amino acids**.
+有些複雜的蛋白質分子由幾條肽鏈組成而不是單一鏈。
 
-### Other Linkages in Protein Molecules
+這些鏈通過其他鍵結連接，通常是<span class="c-cyan">肽的CO和NH基團之間的氫鍵結合</span>。
 
-Some protein molecules are composed of several peptide chains rather than a single chain.
+許多肽鏈是捲曲或折疊的。
 
-These chains are bound by other linkages, often by **hydrogen bonding** between the CO and NH radicals of the peptides.
+連續的捲曲或折疊通過氫鍵和其他力量維持。
 
-Many peptide chains are coiled or folded.
+## 胺基酸的運輸與儲存
 
-The successive coils or folds are held by hydrogen bonding and other forces.
+### 血中胺基酸
 
-## Transport and Storage of Amino Acids
+胺基酸在血中的正常濃度為<span class="c-yellow">35至65 mg/dL</span>。
 
-### Blood Amino Acids
+每種20種胺基酸的平均值約為<span class="c-yellow">2 mg/dL</span>。
 
-The normal concentration of amino acids in blood is between **35 and 65 mg/dL**.
+因為胺基酸是相對強的酸，它們主要存在於<span class="c-cyan">離子化狀態</span>。
 
-This averages about **2 mg/dL** for each of the 20 amino acids.
+這來自於從NH₂基團移除一個氫原子。
 
-Some amino acids are present in far greater amounts than others.
+它們佔血中<span class="c-yellow">2至3毫當量</span>的負離子。
 
-Because amino acids are relatively strong acids, they exist principally in the **ionized state**.
+### 吸收後胺基酸的命運
 
-This results from the removal of one hydrogen atom from the NH₂ radical.
+蛋白質消化和吸收的產物幾乎完全是<span class="c-red">胺基酸</span>。
 
-They account for **2 to 3 milliequivalents** of negative ions in the blood.
+很少有多肽或整個蛋白質分子直接吸收進入血液。
 
-The distribution of different amino acids depends partly on the types of proteins eaten.
+飯後不久，血中胺基酸濃度上升，但通常只增加幾mg/dL。
 
-Concentrations of some amino acids are regulated by selective synthesis in cells.
+這是因為：
 
-### Fate of Absorbed Amino Acids
+1. **慢消化和吸收：** 蛋白質消化和吸收延長至2-3小時，每次只允許少量被吸收。
 
-The products of protein digestion and absorption are almost entirely **amino acids**.
+2. **快速細胞攝取：** 進入血液後，胺基酸在5-10分鐘內被全身細胞特別是肝臟吸收。
 
-Only rarely are polypeptides or whole protein molecules absorbed directly into blood.
+血中和組織液中幾乎從不累積高濃度胺基酸。
 
-Soon after a meal, blood amino acid concentration rises, but the increase is usually only a few mg/dL.
+更新率如此之快，以至於每小時可以有<span class="c-yellow">許多克蛋白質</span>從身體一部分運送到另一部分。
 
-This is because:
+### 胺基酸的主動運輸
 
-1. **Slow digestion and absorption:** Protein digestion and absorption are extended over 2–3 hours, allowing only small quantities to be absorbed at a time.
+胺基酸分子太大，無法通過細胞膜孔隙輕易擴散。
 
-2. **Rapid cellular uptake:** After entering blood, amino acids are absorbed within 5–10 minutes by cells throughout the body, especially the liver.
+大量胺基酸只能通過<span class="c-red">主動運輸機制</span>進入細胞。
 
-Large concentrations of amino acids almost never accumulate in blood and tissue fluids.
+## 必需與非必需胺基酸
 
-The turnover rate is so rapid that **many grams of proteins** can be carried from one part of the body to another each hour.
+### 必需胺基酸
 
-### Active Transport of Amino Acids
+人體可以從其他化合物合成大部分胺基酸。
 
-Amino acid molecules are too large to diffuse readily through cell membrane pores.
+然而，<span class="c-red">10種必需胺基酸</span>無法在人體內充分合成，必須從食物獲取。
 
-Significant quantities enter cells only via **active transport mechanisms**.
+| 胺基酸 | 類別 |
+|--------|------|
+| <span class="c-yellow">酥胺酸（Threonine）</span> | 必需 |
+| <span class="c-yellow">纈胺酸（Valine）</span> | 必需 |
+| <span class="c-yellow">色胺酸（Tryptophan）</span> | 必需 |
+| <span class="c-yellow">異亮胺酸（Isoleucine）</span> | 必需 |
+| <span class="c-yellow">白胺酸（Leucine）</span> | 必需 |
+| <span class="c-yellow">苯丙胺酸（Phenylalanine）</span> | 必需 |
+| <span class="c-yellow">甲硫胺酸（Methionine）</span> | 必需 |
+| <span class="c-yellow">賴胺酸（Lysine）</span> | 必需 |
+| <span class="c-yellow">組織胺酸（Histidine）</span> | 兒童必需 |
+| <span class="c-yellow">精胺酸（Arginine）</span> | 兒童必需 |
 
-## Essential and Nonessential Amino Acids
+### 非必需胺基酸
 
-### Essential Amino Acids
+| 胺基酸 | 類別 |
+|--------|------|
+| 丙胺酸（Alanine） | 非必需 |
+| 甘胺酸（Glycine） | 非必需 |
+| 脯胺酸（Proline） | 非必需 |
+| 麩胺酸（Glutamine） | 非必需 |
+| 天門冬胺酸（Asparagine） | 非必需 |
+| 絲胺酸（Serine） | 非必需 |
+| 半胱胺酸（Cysteine） | 非必需 |
+| 天門冬胺酸（Aspartic acid） | 非必需 |
+| 麩胺酸（Glutamic acid） | 非必需 |
+| 酪胺酸（Tyrosine） | 非必需 |
 
-The body can synthesize most amino acids from other compounds.
+## 去氨作用與尿素形成
 
-However, **10 essential amino acids** cannot be synthesized in sufficient quantities and must be obtained from food.
+### 胺基酸的去氨作用
 
-| Amino Acid | Notes |
-|------------|-------|
-| Threonine | Essential |
-| Valine | Essential |
-| Tryptophan | Essential |
-| Isoleucine | Essential |
-| Leucine | Essential |
-| Phenylalanine | Essential |
-| Methionine | Essential |
-| Lysine | Essential |
-| Histidine | Essential (in children) |
-| Arginine | Essential (in children) |
+<span class="c-red">去氨作用</span>是從胺基酸移除胺基團的過程。
 
-### Nonessential Amino Acids
+細胞中特別是肝臟中的過量胺基酸會誘導大量<span class="c-yellow">胺基轉移酶</span>的活化。
 
-| Amino Acid | Notes |
-|------------|-------|
-| Alanine | Nonessential |
-| Glycine | Nonessential |
-| Proline | Nonessential |
-| Glutamine | Nonessential |
-| Asparagine | Nonessential |
-| Serine | Nonessential |
-| Cysteine | Nonessential |
-| Aspartic acid | Nonessential |
-| Glutamic acid | Nonessential |
-| Tyrosine | Nonessential |
+這些是啟動大多數去氨作用的酶。
 
-## Deamination and Urea Formation
+去氨作用後，胺基團被轉移到α-酮戊二酸，形成<span class="c-cyan">麩胺酸</span>。
 
-### Deamination of Amino Acids
+麩胺酸然後可以經歷氧化去氨作用，釋放<span class="c-yellow">氨</span>。
 
-Deamination is the process of removing the amino group from amino acids.
+這個循環可以一次又一次地重複。
 
-Excess amino acids in cells — especially in the liver — induce activation of large quantities of **aminotransferases**.
+### 肝臟的尿素形成
 
-These are the enzymes responsible for initiating most deamination.
+去氨作用中釋放的氨幾乎完全通過轉化為<span class="c-red">尿素</span>從血液中移除。
 
-After deamination, amino groups are transferred to α-ketoglutarate, forming glutamate.
-
-The glutamate can then undergo oxidative deamination, releasing ammonia.
-
-The cycle can be repeated again and again.
-
-### Urea Formation by the Liver
-
-The ammonia released during deamination is removed from blood almost entirely by conversion into **urea**.
-
-Two molecules of ammonia (NH₃) and one molecule of carbon dioxide (CO₂) combine:
+兩分子氨（NH₃）和一分子二氧化碳（CO₂）結合：
 
 ```
 2 NH₃ + CO₂ → H₂N-CO-NH₂ + 2 H₂O
-(ammonia)    (carbon dioxide) (urea)    (water)
+(氨)           (二氧化碳)  (尿素)     (水)
 ```
 
-Essentially all urea formed in the human body is **synthesized in the liver**.
+人體形成的尿素幾乎全部<span class="c-yellow">在肝臟合成</span>。
 
-In the absence of the liver or in persons with serious liver disease, **ammonia accumulates in the blood**.
+在肝臟缺失或嚴重肝病患者中，<span class="c-red">氨在血液中累積</span>。
 
-This accumulation is extremely toxic, especially to the brain.
+這是極毒的，特別是對腦。
 
-It can lead to a state called **hepatic coma**.
+可能導致稱為<span class="c-red">肝性昏迷</span>的狀態。
 
-### Stages of Urea Formation
+### 尿素形成的階段
 
 ```
 Ornithine + CO₂ + NH₃
-       ↓ (+H₂O)
-    Citrulline
-       ↓ (+NH₃, −H₂O)
-    Arginine
-       ↓ (Arginase, +H₂O)
-    Urea + Ornithine
+         ↓ (+H₂O)
+      Citrulline（瓜胺酸）
+         ↓ (+NH₃, −H₂O)
+      Arginine（精胺酸）
+         ↓ (Arginase, +H₂O)
+      Urea（尿素）+ Ornithine（鳥胺酸）
 ```
 
-After formation, urea diffuses from liver cells into body fluids.
+形成後，尿素從肝細胞擴散到身體液體中。
 
-It is **excreted by the kidneys**.
+它<span class="c-yellow">由腎臟排泄</span>。
 
-## Oxidation of Deaminated Amino Acids
+## 去氨胺基酸的氧化
 
-Once amino acids have been deaminated, the resulting **keto acids** can be oxidized to release energy.
+### 氧化過程
 
-This oxidation usually involves two processes:
+胺基酸一旦被去氨，所得的<span class="c-cyan">酮酸</span>可以被氧化以釋放能量。
 
-1. The keto acid is changed into a substance that can enter the citric acid cycle.
-2. This substance is degraded by the cycle, releasing energy similarly to acetyl-CoA from carbohydrate and lipid metabolism.
+這種氧化通常涉及兩個過程：
 
-The amount of ATP formed per gram of protein oxidized is **slightly less** than that formed per gram of glucose oxidized.
+1. 酮酸被轉化為可以進入檸檬酸循環的物質。
+2. 該物質被循環降解，釋放能量，類似於來自碳水化合物和脂肪代謝的乙醯輔酶A。
 
-## Gluconeogenesis and Ketogenesis
+每克蛋白質氧化產生的ATP<span class="c-yellow">略少於</span>每克葡萄糖氧化產生的ATP。
 
-Certain deaminated amino acids can be used by liver cells to synthesize glucose or fatty acids.
+## 新生葡萄糖生成與酮體生成
 
-**Example — Alanine:**
-- Deaminated alanine becomes pyruvic acid
-- Pyruvic acid can be converted into glucose, glycogen, or acetyl-CoA
-- Acetyl-CoA can be polymerized into fatty acids
+### 定義
 
-Two molecules of acetyl-CoA can condense to form **acetoacetic acid**, one of the ketone bodies.
+| 過程 | 說明 |
+|------|------|
+| <span class="c-red">新生葡萄糖生成</span> | 將胺基酸轉化為葡萄糖或肝糖 |
+| <span class="c-red">酮體生成</span> | 將胺基酸轉化為酮酸或脂肪酸 |
 
-### Definitions
+### 胺基酸轉化能力
 
-| Process | Description |
-|---------|-------------|
-| Gluconeogenesis | Conversion of amino acids into glucose or glycogen |
-| Ketogenesis | Conversion of amino acids into keto acids or fatty acids |
+| 結局 | 胺基酸數量 |
+|------|-----------|
+| 可轉化為葡萄糖 | <span class="c-yellow">18種</span> |
+| 可轉化為脂肪酸 | <span class="c-yellow">19種</span> |
 
-### Amino Acid Conversion Capacity
+### 酮體生成的例子
 
-| Outcome | Number of amino acids |
-|---------|----------------------|
-| Can be converted into glucose | 18 |
-| Can be converted into fatty acids | 19 |
+丙胺酸的命運：
 
-## Obligatory Degradation of Proteins
+- 去氨後的丙胺酸變成<span class="c-cyan">丙酮酸</span>
+- 丙酮酸可以轉化為葡萄糖、肝糖或<span class="c-cyan">乙醯輔酶A</span>
+- 乙醯輔酶A可以聚合成<span class="c-yellow">乙醯乙酸</span>（酮體之一）
 
-### Daily Protein Loss
+## 蛋白質的強制降解
 
-When a person eats no proteins, a certain proportion of body proteins is degraded into amino acids and then deaminated and oxidized.
+### 每日蛋白質流失
 
-This involves **20 to 30 grams of protein each day**.
+當一個人不吃蛋白質時，一定比例的體蛋白被降解成胺基酸，然後被去氨和氧化。
 
-This is called the **obligatory loss of proteins**.
+這涉及每天<span class="c-yellow">20至30克蛋白質</span>。
 
-To prevent net protein loss, a minimum of 20–30 grams of protein must be ingested each day.
+這稱為<span class="c-red">強制蛋白質流失</span>。
 
-However, a **minimum of 60–75 grams** is usually recommended for safety.
+為防止蛋白質淨流失，每天必須攝入至少<span class="c-yellow">20-30克蛋白質</span>。
 
-### Complete vs. Partial Proteins
+然而，通常建議<span class="c-yellow">每天60-75克</span>以確保安全。
 
-The ratios of different amino acids in dietary protein must match those in body tissues.
+### 完全蛋白質與部分蛋白質
 
-This is necessary for dietary protein to be fully usable for new tissue proteins.
+膳食蛋白質中不同胺基酸的比例必須與身體組織中的比例匹配。
 
-If one essential amino acid is low in concentration, the others become unusable.
+這對於膳食蛋白質能夠完全用於新組織蛋白質是必要的。
 
-Cells synthesize either whole proteins or none at all.
+如果一種必需胺基酸濃度低，其他胺基酸就無法使用。
 
-The unusable amino acids are deaminated and oxidized.
+細胞合成完整的蛋白質或根本不合成。
 
-**Complete protein** has proper amino acid ratios (e.g., eggs, meat).
+無法使用的胺基酸被去氨和氧化。
 
-**Partial or incomplete protein** has different ratios and is less valuable for nutrition.
+<span class="c-red">完全蛋白</span>具有適當的胺基酸比例（如蛋、肉）。
 
-### Effect of Starvation
+<span class="c-red">部分或不完全蛋白</span>具有不同的比例，對營養的價值較低。
 
-Except for the 20–30 grams of obligatory degradation, the body uses carbohydrates and fats for energy when available.
+### 飢餓的效應
 
-After several weeks of starvation, when carbohydrates and fats are depleted, amino acids are rapidly deaminated and oxidized for energy.
+除20-30克的強制降解外，當有碳水化合物和脂肪可用時，身體用它們來提供能量。
 
-Proteins then degrade rapidly — as much as **125 grams daily**.
+飢餓數週後，當碳水化合物和脂肪耗盡時，胺基酸被快速去氨和氧化用於能量。
 
-Cellular functions deteriorate precipitously.
+然後蛋白質快速降解——每天多達<span class="c-yellow">125克</span>。
 
-Because carbohydrate and fat are used in preference to protein for energy, they are called **protein sparers**.
+細胞功能迅速惡化。
 
-## Hormonal Regulation of Protein Metabolism
+因為碳水化合物和脂肪被優先用於能量而不是蛋白質，它們被稱為<span class="c-cyan">蛋白質節約劑</span>。
 
-### Growth Hormone
+## 蛋白質代謝的激素調節
 
-Growth hormone causes tissue proteins to increase.
+### 生長激素
 
-The precise mechanism is not fully understood, but it results mainly from:
-- Increased transport of amino acids through cell membranes
-- Accelerated DNA and RNA transcription and translation for protein synthesis
-- Decreased oxidation of tissue proteins
+<span class="c-red">生長激素</span>使組織蛋白增加。
 
-### Insulin
+確切機制尚不完全理解，但主要由於：
 
-Total lack of insulin reduces protein synthesis to almost zero.
+- 增加胺基酸通過細胞膜的運輸
+- 加速DNA和RNA轉錄和翻譯以進行蛋白質合成
+- 減少組織蛋白質的氧化
 
-**Insulin** effects:
-- Accelerates transport of some amino acids into cells
-- Reduces protein degradation
-- Increases glucose availability, reducing amino acid use for energy
+### 胰島素
 
-### Glucocorticoids
+胰島素完全缺乏將蛋白質合成降低到幾乎為零。
 
-**Glucocorticoids** secreted by the adrenal cortex:
-- Decrease protein quantity in most tissues
-- Increase plasma amino acid concentration
-- Increase liver proteins and plasma proteins
-- Increase rate of breakdown of extrahepatic proteins
+<span class="c-red">胰島素</span>的作用：
 
-This makes increased quantities of amino acids available.
+- 加速某些胺基酸進入細胞的運輸
+- 減少蛋白質降解
+- 增加葡萄糖可用性，減少胺基酸用於能量
 
-The liver can then synthesize hepatic cellular proteins and plasma proteins.
+### 糖皮質素
 
-### Testosterone
+<span class="c-red">糖皮質素</span>（由腎上腺皮質分泌）：
 
-**Testosterone** causes increased deposition of protein, especially in muscles — a **30%–50% increase** in contractile proteins.
+- 減少大多數組織中的蛋白質量
+- 增加血漿胺基酸濃度
+- 增加肝臟蛋白質和血漿蛋白質
+- 增加細胞外蛋白質的分解速率
 
-The mechanism differs from growth hormone:
-- **Growth hormone** causes tissues to continue growing almost indefinitely
-- **Testosterone** causes muscles and other protein tissues to enlarge for only several months
+這使得大量胺基酸可用。
 
-Once maximum muscle size is reached, further protein deposition ceases despite continued testosterone administration.
+肝臟然後可以合成肝細胞蛋白質和血漿蛋白質。
 
-### Estrogen
+### 睪固酮
 
-**Estrogen** causes some deposition of protein.
+<span class="c-red">睪固酮</span>導致蛋白質沉積增加，特別是在肌肉中——<span class="c-yellow">增加30%-50%</span>。
 
-The effect is much less than that of testosterone.
+機制與生長激素不同：
 
-### Thyroxine
+- <span class="c-cyan">生長激素</span>使組織幾乎無限地繼續生長
+- <span class="c-cyan">睪固酮</span>使肌肉和其他蛋白質組織只在幾個月內增大
 
-**Thyroxine** increases cell metabolism.
+一旦達到最大肌肉大小，進一步的蛋白質沉積就停止，儘管繼續給予睪固酮。
 
-If carbohydrates and fats are insufficient for energy, thyroxine causes rapid protein degradation and uses proteins for energy.
+### 雌激素
 
-If adequate energy sources and excess amino acids are available, thyroxine can increase protein synthesis.
+<span class="c-red">雌激素</span>導致一些蛋白質沉積。
 
-In growing animals or human beings, thyroxine deficiency greatly inhibits growth due to lack of protein synthesis.
+效果遠低於睪固酮。
 
-Thyroxine has little specific effect on protein metabolism but has an important general effect by increasing rates of both anabolic and catabolic protein reactions.
+### 甲狀腺素
+
+<span class="c-red">甲狀腺素</span>增加細胞代謝。
+
+如果碳水化合物和脂肪對能量不足，甲狀腺素導致快速蛋白質降解並用蛋白質提供能量。
+
+如果能量來源和過量胺基酸充足，甲狀腺素可以增加蛋白質合成。
+
+在生長中的動物或人類中，甲狀腺素缺乏大大抑制生長，這是由於缺乏蛋白質合成。
+
+甲狀腺素對蛋白質代謝沒有特定作用，但通過增加合成和分解蛋白質反應的速率有重要的總體作用。

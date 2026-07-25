@@ -1,256 +1,139 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH30"
-title: "Renal Regulation of Potassium, Calcium, Phosphate, and Magnesium"
+title: "鉀、鈣、磷酸鹽和鎂的腎臟調節"
 book: "Guyton & Hall"
-summary: "This chapter covers the renal regulation of potassium, calcium, phosphate, and magnesium, with emphasis on the precise control of extracellular potassium concentration. It describes how potassium distribution between intracellular and extracellular compartments is regulated by insulin, aldosterone, β-adrenergic stimulation, acid-base status, and cell lysis, and how the kidneys control potassium excretion through filtration, reabsorption, and secretion."
+summary: "本章涵蓋鉀、鈣、磷酸鹽和鎂的腎臟調節，強調細胞外鉀濃度的精確控制。描述了胰島素、醛固酮、β-腎上腺素刺激、酸鹼狀態和細胞裂解如何調節細胞內和細胞外區室之間的鉀分佈，以及腎臟如何通過過濾、重吸收和分泌控制鉀排泄。"
 key_points:
-  - "Extracellular potassium concentration (normally 4.2 mEq/L) is precisely regulated because even small increases (3-4 mEq/L) can cause cardiac arrhythmias; >98% of total body potassium is intracellular, making cellular redistribution a critical first-line defense"
-  - "Insulin and aldosterone both shift potassium into cells by stimulating Na+-K+ ATPase; insulin deficiency (diabetes) causes hyperkalemia, while excess aldosterone (Conn syndrome) causes hypokalemia"
-  - "Metabolic acidosis shifts potassium out of cells (causing hyperkalemia) by reducing Na+-K+ ATPase activity, while alkalosis shifts potassium into cells (causing hypokalemia)"
-  - "Renal potassium excretion equals filtration (GFR × plasma K+ ≈ 756 mEq/day) minus reabsorption plus secretion; the principal cells of the collecting duct secrete potassium via ROMK channels in response to aldosterone"
-  - "β2-adrenergic stimulation promotes cellular potassium uptake (useful during exercise), while β-blockers (propranolol) cause tendency toward hyperkalemia by blocking this mechanism"
+  - "細胞外鉀濃度（正常為4.2 mEq/L）被精確調節，因為即使增加3-4 mEq/L也可能導致心律不整；超過98%的總體鉀在細胞內，使細胞重新分佈成為關鍵的第一道防線"
+  - "胰島素和醛固酮都通過刺激Na+-K+ ATP酶將鉀轉移到細胞內；胰島素缺乏（糖尿病）導致高鉀血症，而過量醛固酮（康恩症候群）導致低鉀血症"
+  - "代謝性酸中毒將鉀移出細胞（引起高鉀血症），而鹼中毒將鉀移入細胞（引起低鉀血症）"
+  - "β2-腎上腺素刺激促進細胞攝取鉀（在運動期間有用），而β受體阻斷劑（如propranolol）通過阻斷此機制導致趨向高鉀血症"
 ---
 
-## REGULATION OF EXTRACELLULAR FLUID POTASSIUM CONCENTRATION AND POTASSIUM EXCRETION
+## 細胞外液鉀濃度的調節
 
-The extracellular fluid potassium concentration normally is regulated at about 4.2 mEq/L. It seldom rises or falls more than ±0.3 mEq/L. This precise control is necessary because many cell functions are sensitive to changes in extracellular fluid potassium concentration.
+細胞外液鉀濃度正常約為<span class="c-yellow">4.2 mEq/L</span>。它很少上升或下降超過±0.3 mEq/L。這種精確控制是必要的，因為許多細胞功能對細胞外液鉀濃度變化敏感。
 
-An increase in plasma potassium concentration of only 3 to 4 mEq/L can cause cardiac arrhythmias. Higher concentrations can lead to cardiac arrest or fibrillation.
+血漿鉀濃度僅增加3至4 mEq/L就可以引起<span class="c-red">心律不整</span>。更高濃度可導致心臟驟停或纖顫。
 
-### The Challenge of Potassium Regulation
+### 鉀調節的挑戰
 
-A special difficulty in regulating extracellular potassium concentration is the fact that more than 98% of the total body potassium is contained in the cells, and only 2% is contained in the extracellular fluid.
+調節細胞外鉀濃度的一個特殊困難是，超過98%的總體鉀存在於細胞內，只有2%存在於細胞外液中。
 
-For a 70-kg adult with about 28 liters of intracellular fluid and 14 liters of extracellular fluid:
+對於約有28升細胞內液和14升細胞外液的70公斤成年人：
+- 約3920 mEq的鉀在細胞內
+- 只有約59 mEq在細胞外液
 
-- About 3920 mEq of potassium are inside the cells
-- Only about 59 mEq are in the extracellular fluid
+一頓飯中含有的鉀可能高達50 mEq。如果攝入的鉀不能快速離開細胞外液，可能會危及生命。
 
-The potassium contained in a single meal may be as high as 50 mEq. Daily intake usually ranges between 50 and 200 mEq/day. Failure to rapidly rid the extracellular fluid of the ingested potassium could cause life-threatening hyperkalemia. Likewise, a small loss of potassium from the extracellular fluid could cause severe hypokalemia.
+### 細胞重新分佈的作用
 
-### Role of the Kidneys in Potassium Balance
+控制鉀在細胞外和細胞內區室之間的分佈也在鉀穩態中發揮重要作用。由於超過98%的總體鉀存在於細胞內，它們可以作為：
+- 高鉀血症時過剩細胞外液鉀的溢出部位
+- 低鉀血症時的鉀來源
 
-Maintenance of a balance between intake and output of potassium depends primarily on excretion by the kidneys. The amount excreted in the feces is only about 5% to 10% of the potassium intake. Thus, the maintenance of a normal potassium balance requires the kidneys to adjust their potassium excretion rapidly and precisely in response to wide variations in intake.
+鉀在細胞內和細胞外液之間的重新分佈提供了抵禦細胞外液鉀濃度變化的<span class="c-cyan">第一道防線</span>。
 
-### Role of Cellular Redistribution
+## 影響鉀分佈的因素
 
-Control of potassium distribution between the extracellular and intracellular compartments also plays an important role in potassium homeostasis. Because more than 98% of the total body potassium is contained in the cells, they can serve as:
+### 將K+移入細胞的因素（降低細胞外[K+]）
 
-- An overflow site for excess extracellular fluid potassium during hyperkalemia
-- A source of potassium during hypokalemia
+| 因素 | 機制 |
+|------|------|
+| 胰島素 | 刺激Na+-K+ ATP酶 |
+| 醛固酮 | 增加細胞攝取 |
+| β-腎上腺素刺激 | 激活β2受體 |
+| 鹼中毒 | 降低H+濃度 |
 
-Redistribution of potassium between the intracellular and extracellular fluid compartments provides a first line of defense against changes in extracellular fluid potassium concentration.
+### 將K+移出細胞的因素（增加細胞外[K+]）
 
-## REGULATION OF INTERNAL POTASSIUM DISTRIBUTION
+| 因素 | 機制 |
+|------|------|
+| 胰島素缺乏（糖尿病） | Na+-K+ ATP酶活性降低 |
+| 醛固酮缺乏（愛迪生氏病） | 細胞攝取減少 |
+| β-腎上腺素阻斷 | 阻斷細胞攝取 |
+| 酸中毒 | 降低Na+-K+ ATP酶活性 |
+| 細胞裂解 | 鉀從受損細胞釋放 |
+| 劇烈運動 | 肌肉釋放鉀 |
+| 細胞外液滲透壓增加 | 鉀從脫水細胞移出 |
 
-After ingestion of a potassium-rich meal, extracellular fluid potassium concentration would rise to a dangerous level if the ingested potassium did not move into the cells rapidly.
+## 胰島素刺激細胞攝取鉀
 
-For example, absorption of 40 mEq of potassium (the amount contained in a meal rich in vegetables and fruit) into an extracellular fluid volume of 14 liters would raise plasma potassium concentration by about 2.9 mEq/L if all the potassium remained in the extracellular compartment. Fortunately, most of the ingested potassium rapidly moves into the cells until the kidneys can eliminate the excess.
+胰島素刺激許多組織中包括骨骼肌在內的鈉-鉀腺苷三磷酸酶（ATP酶）活性。這又轉運鉀進入細胞。胰島素對於飯後增加細胞攝取鉀很重要。
 
-Between meals, plasma potassium concentration also remains nearly constant as potassium is released by the cells to balance the extracellular fluid potassium excreted by the kidneys.
+在胰島素缺乏的糖尿病患者中，飯後血漿鉀濃度的升高比正常情況大得多。胰島素注射可以幫助糾正高鉀血症。
 
-### Factors That Alter Potassium Distribution
+## 醛固酮增加細胞攝取鉀
 
-| Factors That Shift K+ Into Cells (Decrease Extracellular [K+]) | Factors That Shift K+ Out of Cells (Increase Extracellular [K+]) |
-|--------------------------------------------------------------|---------------------------------------------------------------|
-| Insulin | Insulin deficiency (diabetes mellitus) |
-| Aldosterone | Aldosterone deficiency (Addison disease) |
-| β-Adrenergic stimulation | β-Adrenergic blockade |
-| Alkalosis | Acidosis |
-| | Cell lysis |
-| | Strenuous exercise |
-| | Increased extracellular fluid osmolarity |
+增加鉀攝取也刺激醛固酮分泌，這增加細胞攝取鉀。醛固酮分泌過量幾乎總是與低鉀血症相關，部分是由於細胞外鉀轉移到細胞內。
 
-### Insulin Stimulates Potassium Uptake Into Cells
+相反，醛固酮分泌不足的患者（愛迪生氏病）經常有臨床上顯著的高鉀血症，這是由於鉀在細胞外空間積聚以及腎臟保留鉀。
 
-Insulin stimulates sodium-potassium adenosine triphosphatase (ATPase) activity in many tissues, including skeletal muscle. This in turn transports potassium into the cells. Insulin is important for increasing cell potassium uptake after a meal.
+## β-腎上腺素刺激增加細胞攝取鉀
 
-In people who have insulin-deficient diabetes mellitus, the rise in plasma potassium concentration after eating a meal is much greater than normal. Injections of insulin can help correct the hyperkalemia.
+兒茶酚胺（尤其是腎上腺素）分泌增加可以導致鉀從細胞外移到細胞內液，主要是通過激活<span class="c-yellow">β2-腎上腺素受體</span>。
 
-### Aldosterone Increases Potassium Uptake Into Cells
+相反，用β-腎上腺素受體阻斷劑（如propranolol）治療高血壓會導致鉀從細胞內移出，造成趨向<span class="c-red">高鉀血症</span>。
 
-Increased potassium intake also stimulates secretion of aldosterone, which increases cell potassium uptake. Excess aldosterone secretion (Conn syndrome) is almost invariably associated with hypokalemia due in part to movement of extracellular potassium into the cells.
+## 酸鹼異常改變鉀分佈
 
-Conversely, patients with deficient aldosterone production (Addison disease) often have clinically significant hyperkalemia due to accumulation of potassium in the extracellular space, as well as renal retention of potassium.
+<span class="c-cyan">代謝性酸中毒</span>通過導致鉀從細胞丟失來增加細胞外鉀濃度。<span class="c-cyan">代謝性鹼中毒</span>降低細胞外液鉀濃度。
 
-### β-Adrenergic Stimulation Increases Cellular Uptake of Potassium
+## 腎臟鉀排泄概述
 
-Increased secretion of catecholamines, especially epinephrine, can cause movement of potassium from the extracellular to the intracellular fluid, mainly by activation of β2-adrenergic receptors.
+腎臟鉀排泄由三個過程的總和決定：
 
-Conversely, treatment of hypertension with β-adrenergic receptor blockers, such as propranolol, causes potassium to move out of the cells, creating a tendency toward hyperkalemia.
+1. **過濾**：鉀過濾速率（GFR乘以血漿鉀濃度）
+2. **重吸收**：腎小管鉀重吸收速率
+3. **分泌**：腎小管鉀分泌速率
 
-### Acid–Base Abnormalities Can Cause Changes in Potassium Distribution
+正常腎絲球毛細血管鉀過濾速率約為756 mEq/日，計算為：GFR（180 L/日）× 血漿鉀濃度（4.2 mEq/L）。
 
-Metabolic acidosis increases extracellular potassium concentration by causing loss of potassium from the cells. Metabolic alkalosis decreases extracellular fluid potassium concentration.
+### 每日鉀平衡
 
-The mechanisms responsible for the effect of hydrogen ion concentration on internal distribution of potassium are not completely understood. One effect of increased hydrogen ion concentration is to reduce activity of the Na+-K+ ATPase pump, decreasing cellular uptake of potassium and raising extracellular potassium concentration. Alkalosis has the opposite effect, shifting potassium from the extracellular fluid into the cells and tending to cause hypokalemia.
+| 組成部分 | 數量（mEq/日） |
+|---------|--------------|
+| K+攝取 | 100 |
+| K+排泄（尿液） | 92 |
+| K+排泄（糞便） | 8 |
 
-### Cell Lysis Causes Increased Extracellular Potassium Concentration
+### 腎臟對鉀的處理
 
-As cells are destroyed, the large amounts of potassium contained in the cells are released into the extracellular fluid. This release of potassium can cause significant hyperkalemia if large amounts of tissue are destroyed, such as with severe muscle injury or red blood cell lysis.
+| 過程 | 描述 |
+|------|------|
+| 過濾 | K+在腎絲球自由過濾（~756 mEq/日） |
+| 重吸收 | 大部分過濾的K+在近端腎小管和亨利氏環中被重吸收 |
+| 分泌 | K+由集合管主細胞分泌（受醛固酮調節） |
 
-### Strenuous Exercise Can Cause Hyperkalemia
+## 鎂的腎臟調節
 
-During prolonged exercise, potassium is released from skeletal muscle into the extracellular fluid. Usually the hyperkalemia is mild but may be clinically significant after heavy exercise, especially in patients treated with β-adrenergic blockers and in individuals with insulin deficiency. In rare cases, hyperkalemia after exercise may be severe enough to cause cardiac toxicity.
+鎂是細胞內許多酶反應的重要輔因子。血漿鎂濃度正常為1.5-2.0 mEq/L。
 
-### Increased Extracellular Fluid Osmolarity Causes Redistribution of Potassium
+腎臟對鎂的控制：
+- 鎂主要在亨利氏環上升支被重吸收
+- 甲狀旁腺激素（PTH）增加鎂重吸收
+- 甲狀旁腺機能減退導致鎂丟失
 
-Increased extracellular fluid osmolarity causes osmotic flow of water out of the cells. The cellular dehydration increases intracellular potassium concentration, promoting diffusion of potassium out of the cells and increasing extracellular fluid potassium concentration. Decreased extracellular fluid osmolarity has the opposite effect.
+## 鈣和磷酸鹽的腎臟調節
 
-## OVERVIEW OF RENAL POTASSIUM EXCRETION
+### 鈣
 
-Renal potassium excretion is determined by the sum of three processes:
+血漿離子鈣正常為4.5-5.5 mEq/L。腎臟：
+- 在近端腎小管重吸收約65%的過濾鈣
+- 在亨利氏環重吸收約20%
+- 在遠端腎小管精細調節其餘部分
 
-1. **Filtration**: the rate of potassium filtration (GFR multiplied by the plasma potassium concentration)
-2. **Reabsorption**: the rate of potassium reabsorption by the tubules
-3. **Secretion**: the rate of potassium secretion by the tubules
+### 磷酸鹽
 
-The normal rate of potassium filtration by the glomerular capillaries is about 756 mEq/day, calculated as: GFR (180 L/day) × plasma potassium concentration (4.2 mEq/L).
+磷酸鹽幾乎完全被腎小管重吸收（>90%），但當血漿濃度超過腎小管轉運最大值時，多餘的磷酸鹽從尿液中丟失。
 
-### Daily Potassium Balance
+甲狀旁腺機能減退：
+- 甲狀旁腺激素（PTH）減少腎小管磷酸鹽重吸收
+- PTH增加腎小管鈣重吸收
 
-| Component | Amount (mEq/day) |
-|-----------|------------------|
-| K+ intake | 100 |
-| K+ excretion (urine) | 92 |
-| K+ excretion (feces) | 8 |
-
-### Potassium Handling by the Kidneys
-
-| Process | Description |
-|---------|-------------|
-| Filtration | K+ freely filtered at glomerulus (~756 mEq/day) |
-| Reabsorption | Most filtered K+ reabsorbed in proximal tubule and loop of Henle |
-| Secretion | K+ secreted by principal cells in collecting duct (regulated by aldosterone) |
-
-### Regulation of Potassium Secretion
-
-Potassium secretion in the collecting duct is primarily regulated by:
-
-- **Aldosterone**: increases K+ secretion
-- **Urine flow rate**: increased flow enhances K+ secretion
-- **Plasma potassium concentration**: directly stimulates aldosterone secretion
-
-## SODIUM RETENTION BY THE KIDNEYS
-
-In liver cirrhosis, a reduction in plasma protein concentration results from destruction of liver cells, reducing the ability of the liver to synthesize enough plasma proteins.
-
-Cirrhosis is also associated with large amounts of fibrous tissue in the liver structure, greatly impeding the flow of portal blood through the liver. This impedance raises capillary pressure throughout the portal vascular bed, contributing to the leakage of fluid and proteins into the peritoneal cavity, a condition called ascites.
-
-Once fluid and protein are lost from the circulation, the renal responses are similar to those in other conditions associated with decreased plasma volume. The kidneys continue to retain salt and water until plasma volume and arterial pressure are restored to normal.
-
-In some cases, plasma volume may actually increase above normal because of increased vascular capacity in cirrhosis. The high pressures in the portal circulation can greatly distend veins, increasing vascular capacity.
-
-## PRECISELY REGULATED
-
-Precise H+ regulation is essential because the activities of almost all enzyme systems in the body are influenced by H+ concentration. Changes in H+ concentration alter virtually all cell and body functions.
-
-### Comparison With Other Ions
-
-Compared with other ions, the H+ concentration of the body fluids normally is kept at a low level. The concentration of sodium in extracellular fluid (142 mEq/L) is about 3.5 million times as great as the normal concentration of H+ (averaging only 0.00004 mEq/L). Equally important, the normal variation in H+ concentration in extracellular fluid is only about one millionth as great as the normal variation in sodium ion concentration. The precision with which H+ is regulated emphasizes its importance to the various cell functions.
-
-## ACIDS AND BASES—DEFINITIONS AND MEANINGS
-
-A hydrogen ion is a single free proton released from a hydrogen atom. Molecules containing hydrogen atoms that can release hydrogen ions in a solution are referred to as acids. For example, hydrochloric acid (HCl) ionizes in water to form hydrogen ions (H+) and chloride ions (Cl−). Likewise, carbonic acid (H2CO3) ionizes in water to form H+ and bicarbonate ions (HCO3−).
-
-### Definition of Bases
-
-A base is an ion or a molecule that can accept an H+. For example, HCO3− is a base because it can combine with H+ to form H2CO3. Likewise, HPO4= is a base because it can accept an H+ to form H2PO4−.
-
-The proteins in the body also function as bases because some of the amino acids that make up proteins have net negative charges that readily accept H+. The protein hemoglobin in the red blood cells is among the most important of the body's bases.
-
-### Strong and Weak Acids and Bases
-
-**Strong acid**: HCl rapidly dissociates and releases especially large amounts of H+ in solution.
-
-**Weak acid**: H2CO3 is less likely to dissociate its ions and releases H+ with less vigor.
-
-**Strong base**: reacts rapidly and strongly with H+. A typical example is OH−, which reacts with H+ to form water (H2O).
-
-**Weak base**: HCO3− binds with H+ much more weakly than OH−.
-
-Most acids and bases in the extracellular fluid that are involved in normal acid–base regulation are weak acids and bases. The most important ones are:
-
-- Carbonic acid (H2CO3)
-- HCO3− base
-
-## NORMAL H+ CONCENTRATION AND pH OF BODY FLUIDS
-
-The blood H+ concentration is normally maintained within tight limits around a normal value of about 0.00004 mEq/L (40 nEq/L). Normal variations are only about 3 to 5 nEq/L. Under extreme conditions, the H+ concentration can vary from as low as 10 nEq/L to as high as 100 nEq/L without resulting in death.
-
-### The pH Scale
-
-Because H+ concentration normally is low and these small numbers are cumbersome, it is customary to express H+ concentration on a logarithm scale using pH units. pH is related to the actual H+ concentration by:
-
-```
-pH = log(1/[H+]) = −log[H+]
-```
-
-For example, normal [H+] is 40 nEq/L (0.00000004 Eq/L). Therefore, the normal pH is:
-
-```
-pH = −log[0.00000004] = 7.4
-```
-
-pH is inversely related to the H+ concentration. A low pH corresponds to a high H+ concentration, and a high pH corresponds to a low H+ concentration.
-
-### Normal pH Values
-
-| Fluid | pH |
-|-------|-----|
-| Arterial blood | 7.4 |
-| Venous blood | 7.35 |
-| Interstitial fluid | 7.35 |
-| Intracellular fluid | 6.0–7.4 |
-| Urine | 4.5–8.0 |
-| Gastric HCl | 0.8 |
-
-The lower limit of pH at which a person can live more than a few hours is about 6.8. The upper limit is about 8.0.
-
-Intracellular pH usually is slightly lower than plasma pH because cell metabolism produces acid, especially H2CO3. Depending on the type of cells, the pH of intracellular fluid has been estimated to range between 6.0 and 7.4. Hypoxia of the tissues and poor blood flow to the tissues can cause acid accumulation and decreased intracellular pH.
-
-The terms acidosis and alkalosis describe the processes that lead to acidemia and alkalemia, respectively. The pH of urine can range from 4.5 to 8.0, depending on the acid–base status of the extracellular fluid. The kidneys play a major role in correcting abnormalities of extracellular fluid H+ concentration by excreting acids or bases at variable rates.
-
-An extreme example of an acidic body fluid is the HCl secreted into the stomach by the oxyntic (parietal) cells of the stomach mucosa. The H+ concentration in these cells is about 4 million times greater than the hydrogen concentration in blood, with a pH of 0.8.
-
-## DEFENDING AGAINST CHANGES IN H+ CONCENTRATION: BUFFERS, LUNGS, AND KIDNEYS
-
-Three primary systems regulate the H+ concentration in the body fluids:
-
-1. **Chemical acid–base buffer systems** of the body fluids: These immediately combine with an acid or a base to prevent excessive changes in H+ concentration.
-2. **The respiratory center**: This regulates the removal of CO2 (and therefore H2CO3) from the extracellular fluid.
-3. **The kidneys**: These can excrete acidic or alkaline urine and readjust the extracellular fluid H+ concentration toward normal during acidosis or alkalosis.
-
-### How Buffer Systems Work
-
-When there is a change in H+ concentration, the buffer systems of the body fluids react within seconds to minimize these changes. Buffer systems do not eliminate H+ from or add H+ to the body; they only keep them tied up until balance can be re-established. The general form of the buffering reaction is:
-
-```
-Buffer + H+ ↔ H Buffer
-```
-
-When the H+ concentration increases, the reaction is forced to the right. More H+ binds to the buffer, as long as buffer is available. Conversely, when the H+ concentration decreases, the reaction shifts toward the left, and H+ is released from the buffer.
-
-### Lines of Defense Against H+ Changes
-
-| Line of Defense | Speed | Power |
-|-----------------|-------|-------|
-| Chemical buffers | Seconds | Limited |
-| Respiratory system | Minutes | Moderate |
-| Kidneys | Hours to days | Most powerful |
-
-The respiratory system acts within a few minutes to eliminate CO2 and therefore H2CO3 from the body. The first two lines of defense keep the H+ concentration from changing too much until the more slowly responding third line of defense—the kidneys—can eliminate the excess acid or base from the body.
-
-Although the kidneys are relatively slow to respond compared with the other defenses, over a period of hours to several days they are by far the most powerful of the acid–base regulatory systems.
-
-### Summary of pH and H+ Concentration
-
-| H+ Concentration (mEq/L) | pH | Body Fluid |
-|-------------------------|----|-----------|
-| 4.0 × 10−5 | 7.40 | Arterial blood |
-| 4.5 × 10−5 | 7.35 | Venous blood |
-| 4.5 × 10−5 | 7.35 | Interstitial fluid |
-| 1 × 10−3 to 4 × 10−5 | 6.0–7.4 | Intracellular fluid |
-| 3 × 10−2 to 1 × 10−5 | 4.5–8.0 | Urine |
-| 160 | 0.8 | Gastric HCl |
+> **圖30-1.** 鉀的細胞內和細胞外分佈。
+>
+> **圖30-2.** 醛固酮對鉀分泌的影響。
+>
+> **圖30-3.** 甲狀旁腺激素對腎小管鈣和磷酸鹽處理的影響。

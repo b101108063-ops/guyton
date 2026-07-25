@@ -1,169 +1,191 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH77"
-title: "Thyroid Metabolic Hormones"
+title: "甲狀腺代謝激素"
 book: "Guyton & Hall"
-summary: "The thyroid gland secretes thyroxine (T4) and triiodothyronine (T3), which regulate basal metabolic rate, growth, and development through genomic mechanisms involving nuclear receptors and mitochondrial effects."
+summary: "甲狀腺分泌甲狀腺素（T4）和三碘甲狀腺素（T3），調節基礎代謝率、生長與發育，透過核受體與粒線體效應發揮基因體機制。"
 key_points:
-  - "T4 (thyroxine) and T3 are formed by iodination of tyrosine residues on thyroglobulin within thyroid follicles; T3 is ~4x more potent than T4 but has shorter half-life"
-  - "TSH stimulates every step of thyroid hormone synthesis including iodide trapping (via NIS), iodination, endocytosis of colloid, and proteolysis of thyroglobulin"
-  - "T4 is converted to T3 in peripheral tissues by 5'-deiodinase; reverse T3 (rT3) is metabolically inactive"
-  - "Thyroid hormones increase basal metabolic rate by stimulating Na+/K+ ATPase, uncoupling proteins, and mitochondrial biogenesis"
-  - "Hypothyroidism causes myxedema (adults) or cretinism (infants, with irreversible mental retardation if untreated); hyperthyroidism causes thyrotoxicosis with heat intolerance, weight loss, and tachycardia"
+  - "T4（甲狀腺素）和T3由甲狀腺囊泡內甲狀腺球蛋白上的酪氨酸碘化形成；T3效力約為T4的4倍，但半衰期較短"
+  - "TSH刺激甲狀腺激素合成的每個步驟，包括碘化物捕捉（經由NIS）、碘化、膠體胞吞及甲狀腺球蛋白分解"
+  - "T4在外周組織經5'-去碘酶轉化為T3；反T3（rT3）無代謝活性"
+  - "甲狀腺激素透過刺激Na+/K+ ATPase、粒線體增生與解偶聯蛋白提升基礎代謝率"
+  - "甲狀腺機能低下在成人引起黴液水腫，在嬰兒引起呆小症（未治療會造成不可逆智能障礙）；甲狀腺機能亢進引起甲狀腺毒症，症狀包括耐熱不良、體重減輕、心搏過速"
 ---
 
-## THYROID HORMONE EFFECTS ON BODY SYSTEMS
+## 甲狀腺激素的化學與合成
 
-### Effects on Carbohydrate Metabolism
+### 甲狀腺激素的化學結構
 
-Thyroid hormones stimulate almost all aspects of carbohydrate metabolism.
+甲狀腺激素包括甲狀腺素（T4，四碘甲狀腺素）和三碘甲狀腺素（T3）。
 
-This includes:
+兩者均由甲狀腺球蛋白上的酪氨酸殘基碘化而成。
 
-- Increased glucose uptake from the intestine
-- Enhanced glycolysis and gluconeogenesis
-- Increased insulin secretion
-- Increased glucose storage as glycogen
+T3的效力約為T4的4倍，但T3的半衰期較短（約1天），而T4的半衰期約為7天。
 
-### Effects on Lipid Metabolism
+### 碘化物捕捉機制
 
-Thyroid hormones stimulate fat mobilization and oxidation in adipose tissue.
+甲狀腺細胞透過鈉-碘共同轉運蛋白（NIS）主動捕捉血漿中的碘化物。
 
-This leads to increased fatty acid levels in the plasma.
+這個過程需要ATP提供能量，並受到TSH的刺激。
 
-They also stimulate cholesterol synthesis and excretion, resulting in decreased plasma cholesterol levels.
+正常情況下，甲狀腺攝取的碘約佔全身碘總量的25%。
 
-### Protein Metabolism and Growth
+### 甲狀腺激素的儲存與釋放
 
-Thyroid hormones are necessary for normal growth and skeletal development.
+甲狀腺激素儲存於甲狀腺囊泡的膠體中。
 
-They stimulate protein synthesis and skeletal growth.
+當甲狀腺受到TSH刺激時，會透過胞吞作用將膠體攝入細胞內。
 
-However, excess thyroid hormones cause muscle wasting and weakness.
+接著，蛋白酶將甲狀腺球蛋白分解，釋放出T3和T4進入血液。
 
-## HYPOTHYROIDISM
+## 甲狀腺激素對身體系統的影響
 
-Hypothyroidism is the condition of thyroid hormone deficiency.
+### 對碳水化合物代謝的影響
 
-In areas of the world with adequate iodine, the most common cause is autoimmune thyroiditis (Hashimoto disease).
+甲狀腺激素刺激幾乎所有碳水化合物代謝的環節，包括：
 
-### Myxedema
+- 增加腸道葡萄糖吸收
+- 增強糖解作用與葡萄糖新生
+- 增加胰島素分泌
+- 增加肝糖儲存
 
-In the adult, severe hypothyroidism leads to myxedema, characterized by:
+### 對脂肪代謝的影響
 
-- Thickened, nonpitting edema of the skin
-- Weight gain
-- Cold intolerance
-- Decreased heart rate
-- Decreased cardiac output
-- Lethargy and mental slowing
-- Dry, coarse skin and hair
-- Constipation
+甲狀腺激素刺激脂肪組織的脂肪動員與氧化。
 
-### Treatment of Hypothyroidism
+這會導致血漿游離脂肪酸濃度升高。
 
-The treatment of hypothyroidism is straightforward: administration of thyroxine (T4).
+此外，甲狀腺激素也刺激膽固醇的合成與排泄，導致血漿膽固醇濃度降低。
 
-Because thyroxine has a long half-life (about 7 days), it need be given only once a day.
+### 蛋白質代謝與生長
 
-The time for achieving a steady state of thyroid hormone concentration in the blood is more than 1 month.
+甲狀腺激素是正常生長與骨骼發育所必需的。
 
-Consequently, a steady level of thyroid hormone activity is easily maintained in the body via daily oral ingestion of one or more tablets containing thyroxine.
+它們刺激蛋白質合成與骨骼生長。
 
-Furthermore, proper treatment of hypothyroidism results in such complete normality that formerly myxedematous patients have lived into their 90s after undergoing treatment for more than 50 years.
+然而，過量的甲狀腺激素會導致肌肉萎縮與無力。
 
-## CRETINISM
+## 甲狀腺機能低下
 
-Cretinism is caused by extreme hypothyroidism during fetal life, infancy, or childhood.
+甲狀腺機能低下是甲狀腺激素缺乏的狀態。
 
-This condition is characterized especially by failure of body growth and by mental retardation.
+在碘攝取充足的地區，最常見的原因是自體免疫甲狀腺炎（橋本氏病）。
 
-It results from:
+### 黴液水腫
 
-1. Congenital lack of a thyroid gland (congenital cretinism)
-2. Failure of the thyroid gland to produce thyroid hormone because of a genetic defect of the gland
-3. Lack of iodine in the diet (endemic cretinism)
+在成人，嚴重的甲狀腺機能低下會導致黴液水腫，其特徵包括：
 
-### Clinical Features of Cretinism
+- 皮膚非凹陷性水腫（黏液性水腫）
+- 體重增加
+- 耐寒不良
+- 心搏過緩
+- 心輸出量減少
+- 嗜睡與思維遲緩
+- 皮膚與頭髮乾燥粗糙
+- 便祕
 
-A neonate without a thyroid gland may have a normal appearance and function because she or he was supplied with some (but usually not enough) thyroid hormone by the mother while in utero.
+### 甲狀腺機能低下的治療
 
-A few weeks after birth, however, the neonate's movements become sluggish and both physical and mental growth begin to be greatly retarded.
+甲狀腺機能低下的治療很直接：給予甲狀腺素（T4）。
 
-Treatment of the neonate with cretinism at any time with adequate iodine or thyroxine usually causes normal return of physical growth.
+由於甲狀腺素的半衰期很長（約7天），每天只需服用一次。
 
-Unless the cretinism is treated within a few weeks after birth, mental growth remains permanently retarded.
+甲狀腺激素在血液中達到穩態需要超過1個月的時間。
 
-This state results from retardation of the growth, branching, and myelination of the neuronal cells of the central nervous system at this critical time in the normal development of the mental powers.
+因此，每天口服甲狀腺素即可輕易維持體內甲狀腺激素濃度的穩定。
 
-### Skeletal Growth in Cretinism
+## 呆小症
 
-Skeletal growth in a child with cretinism is characteristically more inhibited than is soft tissue growth.
+呆小症是由於胎兒時期、嬰兒期或兒童期的嚴重甲狀腺機能低下所引起。
 
-As a result of this disproportionate rate of growth, the soft tissues are likely to enlarge excessively, giving the child with cretinism an obese, stocky, and short appearance.
+此疾病的特徵是身體生長障礙與智能障礙。
 
-Occasionally the tongue becomes so large in relation to the skeletal growth that it obstructs swallowing and breathing, inducing a characteristic guttural breathing that sometimes chokes the child.
+可能的原因包括：
 
-## HYPERTHYROIDISM
+1. 先天性甲狀腺缺乏（先天性呆小症）
+2. 甲狀腺因基因缺陷無法製造甲狀腺激素
+3. 飲食中缺乏碘（地方性呆小症）
 
-Hyperthyroidism is the condition of excess thyroid hormone secretion.
+### 呆小症的臨床特徵
 
-The most common cause is Graves disease, an autoimmune condition in which thyroid-stimulating immunoglobulins (TSI) activate TSH receptors on thyroid follicular cells.
+缺乏甲狀腺的新生兒在出生時外觀與功能可能正常，因為在胎兒時期已從母體獲得部分甲狀腺激素。
 
-### Symptoms and Signs
+然而，出生後數週，嬰兒的活動會變得遲緩，身體與智能生長也開始嚴重遲緩。
 
-Hyperthyroidism causes:
+若在任何時候給予呆小症新生兒適量的碘或甲狀腺素，通常可使生長恢復正常。
 
-- Heat intolerance and sweating
-- Weight loss despite increased appetite
-- Tachycardia and palpitations
-- Tremor
-- Anxiety and irritability
-- Frequent bowel movements
-- Warm, moist skin
-- Eyelid retraction and stare (Graves ophthalmopathy)
+除非在出生後數週內治療呆小症，否則智能生長將永久受損。
 
-### Thyrotoxic Heart Disease
+這是因為在這個關鍵時期，神經元細胞的生長、分支與髓鞘化受到阻礙，影響中樞神經系統的正常發育。
 
-Prolonged thyrotoxicosis can lead to cardiac arrhythmias, especially atrial fibrillation, and high-output heart failure.
+### 呆小症的骨骼生長
 
-## THYROID GLAND DYSFUNCTION COMPARISON
+呆小症兒童的骨骼生長受到抑制的程度通常比軟組織生長更嚴重。
 
-| Feature | Hypothyroidism | Hyperthyroidism |
-|---------|----------------|-----------------|
-| BMR | Decreased | Increased |
-| Heart Rate | Slow (bradycardia) | Fast (tachycardia) |
-| Body Temperature | Cold intolerance | Heat intolerance |
-| Weight | Gain | Loss |
-| Skin | Dry, cool | Warm, moist |
-| Mental Status | Lethargy | Anxiety, irritability |
-| Myxedema | Present (adult) | Absent |
-| Associated Condition | Hashimoto disease | Graves disease |
+因此，軟組織可能過度增大，使呆小症兒童呈現肥胖、矮壯與身材矮小的外觀。
 
-## MECHANISMS OF THYROID HORMONE ACTION
+有時舌頭會因與骨骼生長不相稱而過度增大，阻礙吞嚥與呼吸，導致特徵性的喉部呼吸聲。
 
-### Genomic Mechanism
+## 甲狀腺機能亢進
 
-Thyroid hormones act primarily through nuclear receptors.
+甲狀腺機能亢進是甲狀腺激素分泌過多的狀態。
 
-T3 binds to thyroid hormone receptors (TRα and TRβ) with higher affinity than T4.
+最常見的原因是葛瑞夫茲病，一種自體免疫疾病，甲狀腺刺激免疫球蛋白（TSI）會活化甲狀腺濾泡細胞上的TSH受體。
 
-The hormone-receptor complex then binds to thyroid hormone response elements (TREs) in the promoters of target genes, regulating transcription.
+### 症狀與徵象
 
-### Effects on Mitochondria
+甲狀腺機能亢進的表現包括：
 
-Thyroid hormones increase mitochondrial activity and biogenesis.
+- 耐熱不良與出汗
+- 食慾增加但體重減輕
+- 心搏過速與心悸
+- 顫抖
+- 焦慮與易怒
+- 排便頻繁
+- 皮膚溫暖潮濕
+- 眼瞼退縮與凝視（葛瑞夫茲眼病變）
 
-This leads to increased ATP production and heat generation (non-shivering thermogenesis).
+### 甲狀腺毒症性心臟病
 
-### Effects on Na+/K+ ATPase
+長期的甲狀腺毒症可能導致心律不整（尤其是心房顫動）與高輸出量心衰竭。
 
-Thyroid hormones stimulate Na+/K+ ATPase activity in cell membranes.
+## 甲狀腺功能障礙比較
 
-This increases energy expenditure and contributes to the increased basal metabolic rate.
+| 項目 | 甲狀腺機能低下 | 甲狀腺機能亢進 |
+|------|---------------|----------------|
+| 基礎代謝率 | 降低 | 升高 |
+| 心搏速率 | 緩慢（心搏過緩） | 快速（心搏過速） |
+| 體溫 | 耐寒不良 | 耐熱不良 |
+| 體重 | 增加 | 減輕 |
+| 皮膚 | 乾燥寒冷 | 溫暖潮濕 |
+| 精神狀態 | 嗜睡 | 焦慮易怒 |
+| 黏液水腫 | 成人可見 | 無 |
+| 相關疾病 | 橋本氏甲狀腺炎 | 葛瑞夫茲病 |
 
-### Effects on Uncoupling Proteins
+## 甲狀腺激素的作用機制
 
-Thyroid hormones increase expression of uncoupling proteins (UCPs), particularly UCP1 in brown adipose tissue.
+### 基因體機制
 
-This causes proton leak across the inner mitochondrial membrane, converting energy into heat.
+甲狀腺激素主要透過核受體發揮作用。
+
+T3與甲狀腺激素受體（TRα與TRβ）的結合能力高於T4。
+
+激素-受體複合體接著與目標基因啟動子上的甲狀腺激素反應元件（TREs）結合，調節轉錄作用。
+
+### 對粒線體的影響
+
+甲狀腺激素增加粒線體的活性與增生。
+
+這導致ATP產量增加與熱量生成（非顫抖性產熱）。
+
+### 對鈉鉀ATP酶的影響
+
+甲狀腺激素刺激細胞膜上的鈉鉀ATP酶活性。
+
+這會增加能量消耗，有助於基礎代謝率的提升。
+
+### 對解偶聯蛋白的影響
+
+甲狀腺激素增加解偶聯蛋白（UCPs）的表現，尤其是棕色脂肪組織中的UCP1。
+
+這會導致內粒線體膜的質子滲漏，將能量轉化為熱能。

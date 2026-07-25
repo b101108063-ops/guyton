@@ -1,208 +1,304 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH80"
-title: "Parathyroid Hormone, Calcitonin, Calcium and Phosphate Metabolism, Vitamin D, Bone, and Teeth"
+title: "副甲狀腺激素、抑鈣素、鈣磷代謝與維生素D"
 book: "Guyton & Hall"
-summary: "Spermatogenesis occurs in the seminiferous tubules of the testes under gonadotropic hormone control, producing mature spermatozoa through mitotic proliferation, meiotic division, and differentiation over approximately 74 days. Leydig cells secrete testosterone, which together with FSH acting on Sertoli cells, regulates spermatogenesis."
+summary: "血漿鈣以游離態（50%）、蛋白質結合態（41%）與複合態（9%）存在；離子鈣（約1.2 mmol/L）的精確調節對神經肌肉興奮性、肌肉收縮與血液凝結至關重要。低血鈣導致強直與癲癇，高血鈣抑制神經系統並可能導致磷酸鈣沉澱。"
 key_points:
-  - "Spermatogenesis begins at puberty (~13 years) in seminiferous tubules, stimulated by FSH and LH; each spermatogonium undergoes mitosis, meiosis I (to primary spermatocytes), and meiosis II (to spermatids) to form spermatozoa"
-  - "Sertoli cells provide nutritional and structural support to developing germ cells; they respond to FSH and produce inhibin, androgen-binding protein (ABP), and anti-Müllerian hormone"
-  - "Leydig cells in the testicular interstitium secrete testosterone under LH stimulation; testosterone is responsible for male secondary sexual characteristics and maintenance of libido"
-  - "Sex chromosomes (X or Y) from the father determine offspring sex; Y-bearing sperm produce male offspring, X-bearing sperm produce female offspring"
-  - "Sperm complete maturation in the epididymis and are ejaculated via the vas deferens; accessory glands (seminal vesicles, prostate) contribute fluid to semen"
+  - "血漿總鈣約9.4 mg/dl；離子鈣（1.2 mmol/L）是控制神經肌肉興奮性的生理活性成分"
+  - "低血鈣增加神經元膜對鈉離子的通透性，導致自發性神經放電、強直、腕足痙攣與癲癇；強直發生於約6 mg/dl，致命於約4 mg/dl"
+  - "高血鈣（>12 mg/dl）抑制中樞神經系統、縮短QT間期、導致便祕與厭食；>17 mg/dl有磷酸鈣沉澱風險"
+  - "鈣從腸道吸收（每日攝取1000 mg中約350 mg），此過程依賴維生素D；90%經糞便排泄"
+  - "磷酸鹽體內恆定較鈣離子調節寬鬆；磷酸鹽以HPO4=與H2PO4−形式存在，比例取決於pH值"
 ---
 
-## SPERMATOGENESIS
+## 細胞外液與血漿鈣的調節
 
-During formation of the embryo, the primordial germ cells migrate into the testes and become immature germ cells called spermatogonia.
+細胞外液鈣濃度通常受到精確調節。它很少偏離正常值約9.4 mg/dl超過幾個百分點。
 
-These spermatogonia lie in two or three layers of the inner surfaces of the seminiferous tubules.
+這相當於每升2.4毫莫耳的鈣。
 
-At puberty the spermatogonia begin to undergo mitotic division and continually proliferate and differentiate through definite stages of development to form sperm.
+這種精確控制是必要的，因為鈣在許多生理過程中扮演關鍵角色。
 
-## STEPS OF SPERMATOGENESIS
+神經元等興奮細胞對鈣離子濃度的變化很敏感。濃度高於正常（高血鈣）會導致神經系統逐漸抑制。相反，濃度低於正常（低血鈣）會使神經系統更加興奮。
 
-Spermatogenesis occurs in the seminiferous tubules during active sexual life as the result of stimulation by anterior pituitary gonadotropic hormones.
+### 骨骼中的鈣儲存
 
-Spermatogenesis begins in the male at an average age of 13 years and continues throughout most of the remainder of life. It decreases markedly in old age.
+細胞外液鈣調節的一個重要特徵是，總體鈣中只有約0.1%存在於細胞外液。
 
-### Stages of Germ Cell Development
+約1%存在於細胞及其細胞器。其餘的儲存於骨骼中。
 
-| Cell Type | Stage | Duration |
-|-----------|-------|----------|
-| Primordial germ cell | Enters testis | Birth |
-| Spermatogonia | Proliferate by mitosis | 25 days |
-| Primary spermatocyte | Meiotic division I | 12-14 years |
-| Secondary spermatocytes | Meiotic division II | 9 days |
-| Spermatids | Differentiation | 19 days |
-| Mature sperm | Spermatozoa | 21 days |
+因此，骨骼可以作為大型儲庫，儲存過剩的鈣並在細胞外液濃度下降時釋放鈣。
 
-Total time from spermatogonia to spermatozoa: approximately 74 days.
+### 磷酸鹽在體內的分布
 
-## SPERMATOGENESIS CELL DIVISION PROCESS
+約85%的體內磷酸鹽儲存於骨骼中。
 
-### Mitotic Proliferation
+14%至15%存在於細胞中。只有不到1%存在於細胞外液。
 
-In the first stage of spermatogenesis, the spermatogonia migrate among Sertoli cells toward the central lumen of the seminiferous tubule.
+雖然細胞外液磷酸鹽濃度的調節不如鈣離子那麼完善，但磷酸鹽具有多種重要功能，並受到許多與調節鈣相同的因素控制。
 
-The Sertoli cells are large, with overflowing cytoplasmic envelopes that surround the developing spermatogonia all the way to the central lumen of the tubule.
+## 血漿與間質液中的鈣
 
-### Meiosis
+血漿中的鈣以三種形式存在：
 
-Spermatogonia that cross the barrier into the Sertoli cell layer become progressively modified and enlarged to form large primary spermatocytes.
+| 型態 | 百分比 | 濃度 | 彌散性 |
+|------|--------|------|--------|
+| 與血漿蛋白結合 | 41% | 1.0 mmol/L | 不可透過毛細血管膜 |
+| 可彌散但與陰離子結合（檸檬酸鹽、磷酸鹽） | 9% | 0.2 mmol/L | 可彌散但非離子化 |
+| 離子化鈣 | 50% | 1.2 mmol/L | 可透過毛細血管膜 |
 
-Each of these primary spermatocytes, in turn, undergoes meiotic division to form two secondary spermatocytes.
+因此，血漿與間質液的正常鈣離子濃度約為1.2 mmol/L（或2.4 mEq/L，因為它是二價離子）。
 
-After another few days, these secondary spermatocytes also divide to form spermatids that are eventually modified to become spermatozoa (sperm).
+此濃度只是血漿總鈣濃度的一半。
 
-During the change from the spermatocyte stage to the spermatid stage, the 46 chromosomes (23 pairs of chromosomes) of the spermatocyte are divided. Thus, 23 chromosomes go to one spermatid and the other 23 go to the second spermatid.
+這種離子鈣對於體內大多數鈣的功能都是重要的，包括：
 
-The chromosomal genes are also divided so that only one-half of the genetic characteristics of the eventual fetus are provided by the father. The other half is derived from the oocyte provided by the mother.
+- 鈣對心臟的作用
+- 神經系統
+- 骨質形成
 
-### Sex Chromosomes
+## 細胞外液中的無機磷酸鹽
 
-In each spermatogonium, one of the 23 pairs of chromosomes carries the genetic information that determines the sex of each eventual offspring.
+血漿中的無機磷酸鹽主要有兩種形式：
 
-This pair is composed of one X chromosome, which is the female chromosome, and one Y chromosome, which is the male chromosome.
+- HPO4=（濃度約1.05 mmol/L）
+- H2PO4−（濃度約0.26 mmol/L）
 
-When an X-chromosome-bearing sperm fertilizes the ovum, a female results (XX). When a Y-chromosome-bearing sperm fertilizes the ovum, a male results (XY).
+當細胞外液中磷酸鹽總量增加時，這兩種磷酸鹽離子的量也會增加。
 
-## MALE REPRODUCTIVE ORGANS ANATOMY
+此外，當細胞外液的pH變得更酸時，H2PO4−相對增加，HPO4=減少。
 
-### Testis Structure
+當細胞外液變鹼時，情況相反。
 
-| Structure | Function |
-|-----------|----------|
-| Seminiferous tubules | Site of sperm production (spermatogenesis) |
-| Leydig cells (interstitial cells) | Secrete testosterone |
-| Rete testis | Collects sperm from seminiferous tubules |
-| Efferent ductules | Transport sperm to epididymis |
+這些關係在第31章的酸鹼平衡討論中已提及。
 
-### Epididymis Structure
+因為，化學測定血液中HPO4=與H2PO4−的確切量很困難，所以通常以每分升血液中磷的毫克數來表示磷酸鹽的總量。
 
-| Region | Function |
-|--------|----------|
-| Head of epididymis | Receives sperm from efferent ductules |
-| Body of epididymis | Sperm maturation occurs here |
-| Tail of epididymis | Storage of mature sperm |
+兩種磷酸鹽離子所代表的无机磷的平均總量約為4 mg/dl。正常範圍在成人為3-4 mg/dl，兒童為4-5 mg/dl。
 
-### Accessory Organs
+## 鈣磷濃度的生理效應
 
-| Organ | Secretion |
-|-------|-----------|
-| Seminal vesicles | Fructose-rich fluid (60-70% of semen) |
-| Prostate gland | Alkaline, enzymatic fluid |
-| Bulbourethral glands | Mucus secretion |
+將細胞外液中的磷酸鹽水平從遠低於正常改變到正常的三倍，並不會對身體造成重大的立即影響。
 
-## SEMEN PROPERTIES
+相比之下，即使細胞外液中鈣離子的輕微增減，都可能產生極端的立即生理效應。
 
-Semen consists of:
+此外，慢性低血鈣或低磷酸鹽血症會大大降低骨質礦化，這將在後面的章節中解釋。
 
-- Sperm from the vas deferens (10%)
-- Fluid from the seminal vesicles (60-70%)
-- Fluid from the prostate gland (20-30%)
-- Small amounts from the bulbourethral glands
+## 低血鈣導致神經系統興奮與強直
 
-### Semen Characteristics
+當細胞外液中鈣離子濃度低於正常時，神經系統變得越來越興奮。
 
-| Property | Value |
-|----------|-------|
-| Volume per ejaculation | 2-5 mL |
-| Sperm count | 50-150 million/mL |
-| pH | 7.2-7.8 |
-| Fructose content | 200-400 mg/dL |
+這是因為神經元膜對鈉離子的通透性增加，使得動作電位容易產生。
 
-## MALE SEXUAL RESPONSE
+當血漿鈣離子濃度降至約正常值的50%以下時，周邊神經纖維變得如此興奮，以至於開始自發放電。這引發一連串的神經衝動，傳至周邊骨骼肌引起強直性肌肉收縮。
 
-### Erection
+因此，低血鈣導致強直。它偶爾也會因為增加腦部的興奮性而引起癲癇發作。
 
-Erection is primarily a parasympathetic function. It results from relaxation of the smooth muscle in the arterial walls of the penis. This allows increased blood flow into the corpora cavernosa and corpus spongiosum.
+### 腕足痙攣
 
-### Ejaculation
+當血鈣濃度從正常9.4 mg/dl降至約6 mg/dl時，通常會發生強直。這只是比正常鈣濃度低35%。
 
-Ejaculation is primarily a sympathetic function. It involves:
+強直通常在約4 mg/dl時致命。
 
-1. Closure of the internal urethral sphincter
-2. Contraction of the seminal vesicles and prostate
-3. Contraction of the bulbocavernosus muscle
+### 極端低血鈣的其他效應
 
-## TESTOSTERONE AND MALE HORMONES
+在實驗動物中，極端低血鈣可能導致其他在人體中很少見的效應：
 
-### Testosterone Synthesis
+- 心臟顯著擴張
+- 細胞酶活性改變
+- 某些細胞（除神經細胞外）的膜通透性增加
+- 凝血功能受損
 
-Testosterone is synthesized by Leydig cells in the testicular interstitium. LH stimulates testosterone production.
+## 高血鈣抑制神經系統與肌肉活動
 
-### Functions of Testosterone
+當體液中的鈣濃度高於正常時，神經系統受到抑制。
 
-| Function | Description |
-|----------|-------------|
-| Fetal development | Development of male internal genitalia (Wolffian ducts) |
-| External genitalia | Masculinization of penis and scrotum |
-| Puberty | Secondary sexual characteristics |
-| Spermatogenesis | Required for sperm maturation |
-| Libido | Maintains sexual desire |
-| Anabolic effects | Increased muscle mass and bone density |
+中樞神經系統的反射活動變得遲緩。
 
-### Male Secondary Sexual Characteristics
+此外，鈣離子濃度增加會縮短心臟的QT間期。
 
-| Characteristic | Mechanism |
-|----------------|-----------|
-| Deep voice | Laryngeal cartilage growth |
-| Facial hair | Terminal hair growth on face |
-| Body hair | Increased body hair distribution |
-| Muscle mass | Protein synthesis stimulation |
-| Bone density | Increased bone mineralization |
+它導致食慾減退與便祕，可能是因為胃腸道肌肉壁的收縮力受到抑制。
 
-## FSH AND LH IN MALES
+### 高血鈣效應的閾值
 
-### Follicle-Stimulating Hormone (FSH)
+當血鈣升至約12 mg/dl以上時，這些抑制效應開始出現。
 
-FSH is produced by the anterior pituitary. It stimulates Sertoli cells in the seminiferous tubules.
+當鈣濃度升至15 mg/dl以上時，這些效應會變得明顯。
 
-Effects of FSH:
+當血鈣升至約17 mg/dl以上時，磷酸鈣結晶可能沉澱於全身。這種情況將在副甲狀腺中毒的章節中討論。
 
-- Promotes spermatogenesis
-- Stimulates inhibin production
-- Stimulates androgen-binding protein (ABP) production
+## 鈣磷的吸收與排泄
 
-### Luteinizing Hormone (LH)
+### 腸道吸收與糞便排泄
 
-LH stimulates Leydig cells to produce testosterone.
+鈣和磷的通常攝取量約為每天各1000 mg。這大約是1升牛奶中的量。
 
-It is also called interstitial cell-stimulating hormone (ICSH) in males.
+通常，諸如鈣離子等二價陽離子很難從腸道吸收。
 
-### Hormonal Feedback in Males
+然而，如後面討論的，維生素D促進腸道對鈣的吸收，通常約35%（350 mg/天）的攝取鈣被吸收。
 
-| Hormone | Target | Effect |
-|---------|--------|--------|
-| Testosterone | Hypothalamus/Pituitary | Inhibits GnRH, LH secretion |
-| Inhibin | Pituitary | Inhibits FSH secretion |
-| FSH | Sertoli cells | Stimulates inhibin |
+腸道中剩餘的鈣隨糞便排出。
 
-## PINEAL GLAND AND MELATONIN
+另外有250 mg/天的鈣通過分泌的胃腸液與脫落的黏膜細胞進入腸道。
 
-### Melatonin Secretion
+因此，每天攝取的鈣中約90%（900 mg/天）隨糞便排出。
 
-The pineal gland secretes melatonin primarily at night. Melatonin secretion is stimulated by darkness and inhibited by light.
+### 磷酸鹽吸收
 
-### Functions of Melatonin
+磷酸鹽的腸道吸收很容易發生。
 
-| Function | Description |
-|----------|-------------|
-| Circadian rhythm regulation | Helps set the biological clock |
-| Seasonal reproduction | Affects reproductive function in some species |
-| Sleep promotion | Contributes to sleep onset |
+除了與未吸收的鈣結合而隨糞便排出的那部分磷酸鹽外，幾乎所有的膳食磷酸鹽都從腸道吸收進入血液。
 
-### Pineal Gland Anatomy
+這後來經尿液排出。
 
-The pineal gland is located in the epithalamus. It receives sympathetic innervation from the superior cervical ganglia.
+## 副甲狀腺激素的作用
 
-## MALE REPRODUCTIVE PHYSIOLOGY SUMMARY
+### 副甲狀腺激素的分泌與化學
 
-| Process | Location | Hormonal Control |
-|---------|----------|------------------|
-| Spermatogenesis | Seminiferous tubules | FSH, LH, Testosterone |
-| Testosterone secretion | Leydig cells | LH |
-| Inhibin secretion | Sertoli cells | FSH |
-| Erection | Penis | Parasympathetic |
-| Ejaculation | Reproductive tract | Sympathetic |
+副甲狀腺激素（PTH）是由甲狀旁腺的主細胞分泌的多肽激素。
+
+PTH的分泌直接受細胞外液鈣離子濃度的調節。
+
+當離子鈣濃度下降時，PTH分泌增加；當離子鈣升高時，PTH分泌減少。
+
+這種調節是透過鈣感知受體（CaSR）進行的，CaSR是甲狀旁腺細胞膜上的G蛋白偶聯受體。
+
+### 副甲狀腺激素的主要作用
+
+| 靶器官 | 作用 |
+|--------|------|
+| 骨骼 | 促進骨吸收，釋放鈣與磷酸鹽入血 |
+| 腎臟 | 增加鈣離子回收，減少磷酸鹽回收 |
+| 腸道 | 刺激維生素D活化，間接地增加鈣吸收 |
+
+### 對骨骼的效應
+
+PTH刺激骨吸收（骨質溶解），釋放鈣與磷酸鹽進入血液。
+
+急性效應：PTH與骨細胞（成骨細胞與骨細胞）上的PTH受體結合，快速動員骨礦物質。
+
+慢性效應：長期PTH刺激會導致蝕骨細胞活性增加，導致骨質減少與骨質疏鬆。
+
+### 對腎臟的效應
+
+PTH對腎臟的作用包括：
+
+- 增加遠曲小管對鈣離子的主動回收
+- 抑制近端小管對磷酸鹽的回收（導致磷酸鹽尿）
+- 刺激腎臟將25-羥維生素D轉化為1,25-二羥維生素D（活性形式）
+
+## 抑鈣素的作用
+
+抑鈣素（降鈣素）是由甲狀腺濾泡旁細胞（C細胞）分泌的激素。
+
+抑鈣素的作用與副甲狀腺激素相反：它降低血鈣濃度。
+
+### 作用機制
+
+抑鈣素抑制蝕骨細胞的活性，減少骨質吸收。
+
+這會將鈣與磷酸鹽沉積到骨骼中，降低血漿鈣濃度。
+
+### 分泌的調節
+
+抑鈣素的分泌直接受血漿鈣離子濃度調節。
+
+當血鈣升高時，抑鈣素分泌增加；當血鈣降低時，抑鈣素分泌減少。
+
+### 臨床重要性
+
+雖然抑鈣素在正常人體鈣穩態中似乎不是主要因素，但在以下情況中可能有臨床重要性：
+
+- 甲狀腺髓質癌患者（甲狀腺濾泡旁細胞癌）
+- 高轉換率骨病（如佩吉特氏病）
+
+## 維生素D的作用
+
+### 維生素D的來源與活化
+
+維生素D可以從食物攝取或由皮膚合成。
+
+皮膚合成：紫外線照射將7-脫氫膽固醇轉化為維生素D3（膽鈣化醇）。
+
+維生素D的活化需要兩個步驟的羥化反應：
+
+1. 肝臟：維生素D → 25-羥維生素D（骨化二醇）
+2. 腎臟：25-羥維生素D → 1,25-二羥維生素D（骨化三醇）
+
+1,25-二羥維生素D是維生素D的活性形式。
+
+### 1,25-二羥維生素D的作用
+
+| 靶器官 | 作用 |
+|--------|------|
+| 腸道 | 增加鈣與磷酸鹽的吸收 |
+| 骨骼 | 與PTH协同促進骨吸收 |
+| 腎臟 | 輕度增加鈣回收 |
+
+### 維生素D合成的調節
+
+1,25-二羥維生素D的生成受到以下因素調節：
+
+- PTH：刺激腎�де哄维生素D活化
+- 血鈣：低血鈣刺激活化
+- 血磷：低血磷刺激活化
+- FGF23：由骨細胞分泌，抑制維生素D活化
+
+## 甲狀旁腺功能障礙
+
+### 甲狀旁腺機能低下
+
+甲狀旁腺機能低下是由於PTH分泌不足或作用受阻。
+
+原因包括：
+
+- 甲狀腺手術中意外切除甲狀旁腺
+- 先天性甲狀旁腺發育不全
+- 自身免疫性甲狀旁腺破壞
+
+臨床特徵：
+
+- 低血鈣
+- 手足搐搦
+- 強直
+- 癲癇發作
+- 心律不整
+
+### 甲狀旁腺機能亢進
+
+甲狀旁腺機能亢進以PTH過多為特徵。
+
+類型：
+
+- 原發性：甲狀旁腺腺瘤或增生
+- 次發性：慢性腎病導致低血鈣，刺激PTH分泌
+- 三級：次發性原因長期存在導致甲狀旁腺自主增生
+
+臨床特徵：
+
+- 高血鈣
+- 骨質減少/囊狀纖維性骨炎（骨痛、病理性骨折）
+- 腎結石
+- 神經精神症狀
+
+## 鈣磷平衡摘要
+
+| 參數 | 鈣 | 磷酸鹽 |
+|------|-----|--------|
+| 每日攝取 | 約1000 mg | 約1000 mg |
+| 腸道吸收 | 約350 mg（35%） | 約800 mg（80%） |
+| 糞便排泄 | 約900 mg（90%） | 約200 mg（20%） |
+| 尿液排泄 | 可變 | 可變 |
+| 骨骼儲存 | 約99% | 約85% |
+
+## 離子鈣濃度與生理功能
+
+離子鈣濃度的精確調節對以下功能至關重要：
+
+| 功能 | 鈣的作用 |
+|------|----------|
+| 神經肌肉興奮性 | 控制膜穩定性 |
+| 心臟收縮 | 影響QT間期 |
+| 血液凝結 | 凝血因子輔因子 |
+| 骨質礦化 | 基質鈣化 |

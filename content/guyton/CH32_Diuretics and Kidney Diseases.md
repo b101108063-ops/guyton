@@ -1,158 +1,131 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH32"
-title: "Diuretics and Kidney Diseases"
+title: "利尿劑與腎臟疾病"
 book: "Guyton & Hall"
-summary: "Red blood cells (RBCs) are biconcave discs that transport hemoglobin and facilitate CO2 transport via carbonic anhydrase; they are produced from hematopoietic stem cells in bone marrow and regulated by erythropoietin."
+summary: "Diuretics increase urine output primarily by inhibiting renal tubular sodium reabsorption, causing natriuresis and water loss; different classes act at distinct nephron sites including the loop of Henle, distal tubule, and collecting duct."
 key_points:
-  - "RBCs are biconcave discs (7.8 μm diameter) containing hemoglobin that transports O2 and carries CO2 as bicarbonate via carbonic anhydrase"
-  - "Normal RBC count is ~5.2 million/μL in men and ~4.7 million/μL in women; hematocrit is 40-45%"
-  - "Hemoglobin concentration averages 15 g/dL in men and 14 g/dL in women; each gram of Hb binds 1.34 mL of O2"
-  - "RBCs originate from multipotential hematopoietic stem cells (CFU-E) in bone marrow and have a lifespan of ~120 days"
-  - "RBC production is regulated by erythropoietin (from kidneys), vitamin B12, iron, and growth inducers; spleen removes senescent RBCs"
+  - "Most diuretics inhibit sodium reabsorption in renal tubules, causing natriuresis that secondarily increases water excretion osmotically"
+  - "Loop diuretics (e.g., furosemide) block the Na-K-2Cl co-transporter in the thick ascending limb, impairing both urine concentration and dilution"
+  - "Thiazide diuretics block Na-Cl co-transport in the early distal tubule; carbonic anhydrase inhibitors reduce HCO3- reabsorption in the proximal tubule"
+  - "Potassium-sparing diuretics (spironolactone, amiloride) act on the collecting duct, either blocking aldosterone or sodium channels"
+  - "Diuretic efficacy diminishes within days (diuretic \"braking\") due to compensatory mechanisms: reduced GFR, increased angiotensin II, and Na retention"
 ---
 
-## Red Blood Cells (Erythrocytes)
+## 利尿劑作用的一般原則
 
-### Transport Function of Red Blood Cells
+<span class="c-yellow">利尿劑</span>正如其名，增加尿液輸出速率。
 
-A major function of RBCs, also known as erythrocytes, is to transport hemoglobin. Hemoglobin carries oxygen from the lungs to the tissues.
+大多數利尿劑也增加溶質（尤其是鈉和氯）的尿液排泄。事實上，大多數臨床使用的利尿劑通過減少腎小管鈉重吸收來發揮作用。
 
-In some animals, including many invertebrates, hemoglobin circulates as free protein in the circulatory fluids and is not enclosed in RBCs.
+這導致<span class="c-cyan">鈉利尿</span>（鈉輸出增加），進而導致<span class="c-cyan">利尿</span>（水輸出增加）。水排泄增加是繼發於腎小管鈉重吸收減少，因為留在腎小管中的鈉作為滲透劑減少水的重吸收。
 
-When hemoglobin is free in human plasma, about 3% of it leaks through the capillary membrane into the tissue spaces. It also leaks through the glomerular membrane of the kidney into the glomerular filtrate each time the blood passes through the capillaries.
+### 臨床用途
 
-Therefore, hemoglobin must remain inside RBCs to perform its functions in humans effectively.
+利尿劑最常見的臨床用途是減少細胞外液量，特別是用於與水腫相關的疾病和高血壓。
 
-### Carbonic Anhydrase Function
+### 利尿作用的大小
 
-The RBCs have other functions besides transport of hemoglobin. For example, they contain a large quantity of carbonic anhydrase.
+一些利尿劑可以在給藥後幾分鐘內將尿液輸出增加20倍以上。
 
-This enzyme catalyzes the reversible reaction between carbon dioxide (CO₂) and water to form carbonic acid (H₂CO₃). It increases the rate of this reaction several thousandfold.
+然而，大多數利尿劑對鹽和水腎輸出的影響在幾天內消退，這是由於細胞外液量減少引發的代償機制。
 
-The rapidity of this reaction makes it possible for the water of the blood to transport enormous quantities of CO₂ in the form of bicarbonate ion (HCO₃⁻) from the tissues to the lungs. There, it is reconverted to CO₂ and expelled into the atmosphere as a body waste product.
+## 滲透性利尿劑
 
-The hemoglobin in the cells is an excellent acid-base buffer. Therefore, the RBCs are responsible for most of the acid-base buffering power of whole blood.
+### 作用機制
 
-## Shape and Size of Red Blood Cells
+注射到血液中的物質（能夠被腎絲球毛細血管過濾但不易被腎小管重吸收），如尿素、甘露醇和蔗糖，會增加腎小管中滲透活性分子的濃度。
 
-Normal RBCs are biconcave discs (Figure 33-3).
+這些溶質的滲透壓然後減少水重吸收，將大量腎小管液衝入尿液。
 
-Their physical characteristics are:
+### 臨床例子：糖尿病
 
-| Parameter | Value |
-|-----------|-------|
-| Mean diameter | 7.8 micrometers |
-| Thickness (thickest point) | 2.5 micrometers |
-| Thickness (center) | 1 micrometer or less |
-| Average volume | 90 to 95 cubic micrometers |
+當血糖濃度在糖尿病中升高到高水平時，進入腎小管的葡萄糖負荷增加，超過其重吸收能力（即超過其葡萄糖轉運最大值）。
 
-The shapes of RBCs can change remarkably as the cells squeeze through capillaries. Actually, the RBC resembles a bag that can be deformed into almost any shape.
+當血漿葡萄糖濃度約為250 mg/dl以上時，多餘的葡萄糖很少被腎小管重吸收。相反，多餘的葡萄糖留在腎小管中，作為滲透利尿劑並增加尿流率。
 
-Furthermore, because the normal cell has a great excess of cell membrane for the quantity of material inside, deformation does not stretch the membrane greatly. Consequently, it does not rupture the cell, as would be the case with many other cells.
+## Loop利尿劑
 
-## Concentration of Red Blood Cells in the Blood
+### 作用機制
 
-In healthy men, the average number of RBCs per cubic millimeter is 5,200,000 (±300,000).
+Furosemide、ethacrynic acid和bumetanide是強效利尿劑，減少亨利氏環厚上升支的重吸收。它們阻斷位於上皮細胞管腔膜上的<span class="c-yellow">1-鈉、2-氯、1-鉀共轉運蛋白</span>。
 
-In healthy women, it is 4,700,000 (±300,000).
+### 對電解質排泄的影響
 
-Persons living at high altitudes have greater numbers of RBCs, as discussed later.
+通過阻斷亨利氏環管腔膜中的鈉-氯-鉀共轉運，loop利尿劑增加尿液中鈉、氯、鉀和其他電解質以及水的輸出。
 
-## Quantity of Hemoglobin in the Cells
+這發生有兩個原因：
+1. 它們大大增加了運送到腎元遠端的溶質量，這些溶質作為滲透劑阻止水重吸收
+2. 它們通過減少離子從亨利氏環吸收到髓質間質中來破壞逆流倍增系統
 
-RBCs can concentrate hemoglobin in the cell fluid up to about 34 g/100 ml of cells.
+### 對尿液濃縮和稀釋的影響
 
-The concentration does not rise above this value because this is the metabolic limit of the cell's hemoglobin-forming mechanism.
+Loop利尿劑損害腎臟濃縮或稀釋尿液的能力。
 
-Furthermore, in normal people, the percentage of hemoglobin is almost always near the maximum in each cell. However, when hemoglobin formation is deficient, the percentage of hemoglobin in the cells may fall considerably below this value. The volume of the RBC may also decrease because of diminished hemoglobin to fill the cell.
+尿液稀釋能力受損，因為抑制亨利氏環中鈉和氯的重吸收導致更多這些離子被排泄，以及增加的水排泄。
 
-### Blood Hemoglobin Concentrations
+尿液濃縮能力受損，因為這些離子的腎髓質間質液濃度降低，進而降低腎髓質滲透壓。
 
-When the hematocrit (the percentage of blood that is comprised of cells—normally, 40% to 45%) and the quantity of hemoglobin in each respective cell are normal:
+## Thiazide利尿劑
 
-| Gender | Average Hemoglobin |
-|--------|-------------------|
-| Men | 15 g hemoglobin/100 ml |
-| Women | 14 g hemoglobin/100 ml |
+### 作用機制
 
-Each gram of hemoglobin can combine with 1.34 ml of oxygen if the hemoglobin is 100% saturated.
+Thiazide衍生物如chlorothiazide主要作用於早期遠端腎小管。它們阻斷腎小管細胞管腔膜上的<span class="c-yellow">鈉-氯共轉運蛋白</span>。
 
-Therefore, in the average man, a maximum of about 20 milliliters of oxygen can be carried in combination with hemoglobin in each 100 milliliters of blood. In woman, 19 milliliters of oxygen can be carried.
+## 碳酸酐酶抑制劑
 
-## Production of Red Blood Cells
+### 作用機制
 
-### Areas of the Body That Produce Red Blood Cells
+Acetazolamide抑制碳酸酐酶，這對腎小管中碳酸氫鹽（HCO3-）的重吸收至關重要。
 
-In the early weeks of embryonic life, primitive nucleated RBCs are produced in the yolk sac.
+碳酸酐酶在近端腎小管中特別豐富，是碳酸酐酶抑制劑的主要作用部位。
 
-During the middle trimester of gestation, the liver is the main organ for RBC production. Reasonable numbers are also produced in the spleen and lymph nodes.
+## 保鉀利尿劑
 
-Then, during the last month or so of gestation and after birth, RBCs are produced exclusively in the bone marrow.
+### Spironolactone和Eplerenone
 
-### Bone Marrow Distribution by Age
+這些是<span class="c-yellow">醛固酮拮抗劑</span>。它們競爭性抑制集合管細胞中的醛固酮受體。
 
-As illustrated in Figure 33-1, the marrow of essentially all bones produces RBCs until a person is about 5 years old.
+效果：
+- 減少Na+重吸收
+- 減少K+分泌
+- 導致鈉利尿而保留鉀
 
-The marrow of the long bones, except for the proximal portions of the humeri and tibiae, becomes fatty and produces no more RBCs after about the age of 20 years.
+### Amiloride和Triamterene
 
-Beyond this age, most RBCs continue to be produced in the marrow of the membranous bones, such as the vertebrae, sternum, ribs, and ilia. Even in these bones, the marrow becomes less productive as age increases.
+這些直接<span class="c-yellow">阻斷集合管主細胞中的鈉通道</span>。
 
-## Genesis of Blood Cells
+效果：
+- 減少Na+攝取
+- 減少K+分泌
+- 保留鉀
 
-### Multipotential Hematopoietic Stem Cells
+## 利尿劑代償機制
 
-The blood cells begin their lives in the bone marrow from a single type of cell called the multipotential hematopoietic stem cell. From this single cell type, all the cells of the circulating blood are eventually derived.
+當給予利尿劑時，會啟動幾種代償機制：
 
-Figure 33-2 shows the successive divisions of the multipotential cells to form the different circulating blood cells.
+| 參數 | 利尿劑效果 |
+|------|-----------|
+| 細胞外液量 | 減少 |
+| 血壓 | 減少 |
+| 腎絲球過濾率（GFR） | 減少 |
+| 腎素分泌 | 增加 |
+| 血管緊張素II形成 | 增加 |
+| 鈉排泄 | 先增加，後回歸攝入水平 |
 
-As these cells reproduce, a small portion of them remains exactly like the original multipotential cells. This portion is retained in the bone marrow to maintain their supply, although their numbers diminish with age.
+<span class="c-red">利尿劑制動現象</span>：利尿劑的功效在幾天內減弱，這是由於GFR降低、血管緊張素II增加和鈉瀦留的代償。
 
-Most of the reproduced cells, however, differentiate to form the other cell types, shown at the right in Figure 33-2. The intermediate-stage cells are very much like the multipotential stem cells, even though they have already become committed to a particular line of cells. These are called committed stem cells.
+## 利尿劑類別總結
 
-The different committed stem cells, when grown in culture, will produce colonies of specific types of blood cells.
+| 利尿劑類別（例子） | 作用機制 | 作用腎小管部位 |
+|------------------|---------|-------------|
+| 滲透性利尿劑（甘露醇） | 通過增加腎小管液滲透壓抑制水和溶質重吸收 | 主要在近端腎小管 |
+| Loop利尿劑（furosemide、bumetanide） | 抑制管腔膜中Na⁺-K⁺-Cl⁻共轉運 | 亨利氏環厚上升支 |
+| Thiazide利尿劑（hydrochlorothiazide） | 抑制管腔膜中Na⁺-Cl⁻共轉運 | 早期遠端腎小管 |
+| 碳酸酐酶抑制劑（acetazolamide） | 抑制H⁺分泌和HCO₃⁻重吸收 | 主要在近端腎小管 |
+| 醛固酮拮抗劑（spironolactone、eplerenone） | 抑制集合管細胞中醛固酮的作用 | 集合管 |
+| 鈉通道阻斷劑（triamterene、amiloride） | 阻斷Na⁺進入集合管細胞 | 集合管 |
 
-### Colony-Forming Units
-
-A committed stem cell that produces erythrocytes is called a colony-forming unit–erythrocyte. The abbreviation CFU-E is used to designate this type of stem cell.
-
-Likewise, colony-forming units that form granulocytes and monocytes have the designation CFU-GM, and so forth.
-
-Growth and reproduction of the different stem cells are controlled by multiple proteins called growth inducers.
-
----
-
-## Bone Marrow RBC Production by Age
-
-| Age | Site of RBC Production |
-|-----|------------------------|
-| Embryonic (early) | Yolk sac |
-| Middle trimester | Liver (main), spleen, lymph nodes |
-| Last month of gestation + after birth | Bone marrow exclusively |
-| Childhood (up to ~5 years) | All bones |
-| After ~20 years | Membranous bones (vertebrae, sternum, ribs, ilia) |
-
-> **Figure 33-1.** Relative rates of red blood cell production in the bone marrow of different bones at different ages.
-
-## Blood Cell Formation from Stem Cells
-
-> **Figure 33-2.** Formation of the multiple different blood cells from the original multipotent hematopoietic stem cell in the bone marrow.
+> **圖32-1.** 鈉排泄和細胞外液量在利尿劑給藥期間的變化。
 >
-> **MHSC** — Multipotent hematopoietic stem cell
->
-> | Stem Cell Type | Differentiates Into |
-> |----------------|---------------------|
-> | CFU-S | Colony-forming unit–spleen |
-> | CFU-B | Colony-forming unit–blast |
-> | CFU-E | Colony-forming unit–erythrocytes |
-> | CFU-GM | Colony-forming unit–granulocytes, monocytes |
-> | CFU-M | Colony-forming unit–megakaryocytes |
-> | LSC | Lymphoid stem cell → B lymphocytes, T lymphocytes |
->
-> **Final Blood Cells:**
->
-> - Erythrocytes
-> - Monocytes
-> - Megakaryocytes → Platelets
-> - Granulocytes (Neutrophils, Eosinophils, Basophils)
-> - Macrocytes
+> **圖32-2.** 不同利尿劑的作用部位。

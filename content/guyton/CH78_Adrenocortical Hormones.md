@@ -1,176 +1,219 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH78"
-title: "Adrenocortical Hormones"
+title: "腎上腺皮質激素"
 book: "Guyton & Hall"
-summary: "Insulin, secreted by pancreatic beta cells, is an anabolic hormone that promotes glucose uptake, glycogen synthesis, lipogenesis, and protein synthesis; its deficiency causes diabetes mellitus. Glucagon from alpha cells opposes insulin by stimulating glycogenolysis and gluconeogenesis, maintaining blood glucose during fasting."
+summary: "腎上腺皮質分泌三類激素：糖皮質激素（皮質醇）、礦物皮質激素（醛固酮）、以及雄激素（脫氫表雄酮）。皮質醇調節代謝、免疫與壓力反應；醛固酮調節鈉鉀平衡與血壓；兩者皆受ACTH與腎素-血管張力素系統調節。"
 key_points:
-  - "Insulin is synthesized as preproinsulin, cleaved to proinsulin, then to insulin (A and B chains linked by disulfide bonds) plus C peptide, secreted in equimolar amounts with insulin"
-  - "Insulin receptor is a tyrosine kinase receptor (α2β2); autophosphorylation activates IRS proteins, which activate PI3K/Akt pathway to translocate GLUT4 transporters to cell membranes"
-  - "Insulin promotes glucose uptake (via GLUT4), glycogen synthesis (glycogen synthase), lipogenesis, and protein synthesis; it inhibits gluconeogenesis, glycogenolysis, and lipolysis"
-  - "Insulin secretion is stimulated by high blood glucose, amino acids (especially leucine), and parasympathetic activity; inhibited by somatostatin, alpha-adrenergic agonists, and hypoglycemia"
-  - "Glucagon from pancreatic alpha cells stimulates hepatic glycogenolysis and gluconeogenesis to raise blood glucose; deficiency of both insulin and glucagon characterize diabetes mellitus"
+  - "皮質醇由腎上腺皮質束狀帶分泌，受ACTH刺激，可升高血糖、抗發炎、抑制免疫並參與壓力反應"
+  - "醛固酮由腎上腺皮質球狀帶分泌，受血管張力素II與血鉀濃度直接刺激，促進腎臟鈉離子回收與鉀離子排泄"
+  - "腎上腺雄激素（DHEA、雄烯二酮）由網狀帶分泌，轉化為睪固酮與雌二醇"
+  - "庫欣氏症候群因皮質醇過多引起，表現為中心性肥胖、月亮臉、紫紋、高血壓與血糖升高"
+  - "Conn氏症候群（原發性醛固酮過多症）以高血壓、低血鉀與代謝性鹼中毒為特徵"
 ---
 
-## INSULIN AND ITS METABOLIC EFFECTS
+## 腎上腺皮質的結構與激素
 
-Insulin was first isolated from the pancreas in 1922 by Banting and Best, and almost overnight rescued patients with severe cases of diabetes mellitus from a rapid decline in health and early death.
+### 皮質的三層結構
 
-Historically, insulin has been associated with "blood sugar," and true enough, insulin has profound effects on carbohydrate metabolism.
+腎上腺皮質可分為三層：
 
-However, abnormalities of fat metabolism that cause conditions such as acidosis and arteriosclerosis are also important causes of morbidity and death in patients with diabetes mellitus.
+| 層次 | 區域 | 主要激素 |
+|------|------|----------|
+| 球狀帶 | 最外層 | 醛固酮（礦物皮質激素） |
+| 束狀帶 | 中層 | 皮質醇（糖皮質激素） |
+| 網狀帶 | 最內層 | 雄激素（脫氫表雄酮、雄烯二酮） |
 
-Patients with prolonged, untreated diabetes have diminished ability to synthesize proteins, which leads to wasting of the tissues and many cellular functional disorders.
+### 皮質醇的化學與分泌
 
-Therefore, it is clear that insulin affects fat and protein metabolism almost as much as it affects carbohydrate metabolism.
+皮質醇是一種類固醇激素，由膽固醇經一系列酶反應合成。
 
-## INSULIN IS A HORMONE ASSOCIATED WITH ENERGY ABUNDANCE
+正常情況下，成人每日分泌皮質醇約15-25 mg。
 
-When a person's diet includes a great abundance of foods that provide energy, especially excess amounts of carbohydrates, insulin secretion increases.
+皮質醇的分泌具有晝夜節律：清晨（約6-8點）達到高峰，夜間最低。
 
-In turn, the insulin plays an important role in storing the excess energy.
+皮質醇的分泌受下視丘-腦下垂體-腎上腺軸（HPA軸）調節。
 
-In the case of excess carbohydrates, it causes them to be stored as glycogen, mainly in the liver and muscles.
+## 皮質醇的代謝作用
 
-Furthermore, all the excess carbohydrates that cannot be stored as glycogen are converted under the stimulus of insulin into fats and stored in adipose tissue.
+### 對碳水化合物代謝的影響
 
-In the case of proteins, insulin has a direct effect in promoting amino acid uptake by cells and conversion of these amino acids into protein.
+皮質醇是維持血糖濃度的重要激素：
 
-In addition, it inhibits breakdown of proteins that are already in the cells.
+- 促進肝臟葡萄糖新生（刺激胺基酸轉化為葡萄糖）
+- 抑制骨骼肌對葡萄糖的攝取與利用
+- 促進肝糖分解
+- 減少葡萄糖儲存為肝糖
 
-## INSULIN CHEMISTRY AND SYNTHESIS
+這些作用使皮質醇成為對抗低血糖的重要激素。
 
-Human insulin, which has a molecular weight of 5808, is composed of two amino acid chains that are connected to each other by disulfide linkages.
+### 對蛋白質代謝的影響
 
-When the two amino acid chains are split apart, insulin's functional activity is lost.
+皮質醇促進肌肉蛋白質分解，釋放胺基酸進入血液。
 
-### Insulin Synthesis Pathway
+這些胺基酸可供肝臟進行葡萄糖新生。
 
-Insulin is synthesized in beta cells by the usual cell machinery for protein synthesis, beginning with translation of the insulin RNA by ribosomes attached to the endoplasmic reticulum to form preproinsulin.
+長期皮質醇過多會導致肌肉萎縮與軟弱。
 
-This initial preproinsulin has a molecular weight of about 11,500, but it is then cleaved in the endoplasmic reticulum to form a proinsulin with a molecular weight of about 9000.
+### 對脂肪代謝的影響
 
-Proinsulin consists of three chains of peptides: A, B, and C.
+皮質醇促進脂肪組織的脂肪分解。
 
-Most of the proinsulin is further cleaved in the Golgi apparatus to form insulin, which is composed of the A and B chains connected by disulfide linkages, and the C chain peptide, called connecting peptide (C peptide).
+然而，脂肪的分布會受到皮質醇的特異性影響，導致中心性肥胖（軀幹與腹部脂肪堆積）。
 
-The insulin and C peptide are packaged in secretory granules and secreted in equimolar amounts.
+## 皮質醇的抗發炎與免疫抑制作用
 
-About 5% to 10% of the final secreted product is still in the form of proinsulin.
+### 抗發炎機制
 
-### C Peptide Function
+皮質醇透過多種機制發揮強大的抗發炎作用：
 
-The proinsulin and C peptide have virtually no insulin activity.
+- 抑制磷脂酶A2，減少花生四烯酸釋放與前列腺素合成
+- 抑制環氧合酶（COX-2）表現
+- 減少促發炎細胞激素（IL-1、IL-2、TNF-α）的產生
+- 穩定嗜中性白血球的溶酶體膜
+- 減少嗜酸性白血球與嗜鹼性白血球的數量
 
-However, C peptide binds to a membrane structure, most likely a G protein–coupled membrane receptor, and elicits activation of at least two enzyme systems:
+### 免疫抑制作用
 
-- Sodium-potassium adenosine triphosphatase
-- Endothelial nitric oxide synthase
+皮質醇抑制免疫系統的多个環節：
 
-Although both of these enzymes have multiple physiological functions, the importance of C peptide in regulating these enzymes is still uncertain.
+- 減少淋巴細胞（尤其是T細胞）的增殖
+- 抑制自然殺手細胞的活性
+- 減少抗體產生
+- 抑制巨噬細胞的抗原呈現
 
-### C Peptide Clinical Use
+## 皮質醇與壓力反應
 
-C peptide levels can be measured by radioimmunoassay in insulin-treated diabetic patients to determine how much of their own natural insulin they are still producing.
+### 壓力激活HPA軸
 
-Patients with type 1 diabetes who are unable to produce insulin will usually also have greatly decreased levels of C peptide.
+身體或心理壓力會刺激下視丘釋放CRH（促腎上腺皮質激素釋放激素）。
 
-### Insulin Clearance
+CRH刺激腦下垂體分泌ACTH（促腎上腺皮質激素）。
 
-When insulin is secreted into the blood, it circulates almost entirely in an unbound form.
+ACTH刺激腎上腺皮質分泌皮質醇。
 
-Because it has a plasma half-life that averages only about 6 minutes, it is mainly cleared from the circulation within 10 to 15 minutes.
+### 皮質醇在壓力時的作用
 
-Except for the portion of the insulin that combines with receptors in the target cells, the insulin is degraded by the enzyme insulinase mainly in the liver, to a lesser extent in the kidneys and muscles, and slightly in most other tissues.
+皮質醇在壓力反應中發揮重要作用：
 
-This rapid removal from the plasma is important because, at times, it is as important to rapidly turn off the control functions of insulin as it is to turn them on.
+- 提供能量以應對威脅
+- 維持血壓與心血管功能
+- 調節發炎與免疫反應
+- 增強認知功能與警覺性
 
-## ACTIVATION OF TARGET CELL RECEPTORS BY INSULIN
+長期壓力導致皮質醇持續升高，可能對海馬迴造成損害，影響記憶功能。
 
-To initiate its effects on target cells, insulin must first bind with and activate a membrane receptor protein that has a molecular weight of about 300,000.
+## 醛固酮的生理作用
 
-### Insulin Receptor Structure
+### 對腎臟鈉離子與鉀離子交換的影響
 
-The insulin receptor is a combination of four subunits held together by disulfide linkages:
+醛固酮主要作用於腎臟的集合管主細胞。
 
-- Two alpha subunits that lie entirely outside the cell membrane
-- Two beta subunits that penetrate through the membrane, protruding into the cell cytoplasm
+醛固酮的作用包括：
 
-Insulin binds with the alpha subunits on the outside of the cell.
+- 增加鈉離子通道（ENaC）的表現與活性
+- 促進鈉離子主動回收
+- 間接促進鉀離子分泌
+- 刺激氫離子排泄
 
-Because of the linkages with the beta subunits, portions of the beta subunits protruding into the cell become autophosphorylated.
+鈉離子回收伴隨水分回收，因此醛固酮也影響細胞外液容量與血壓。
 
-Thus, the insulin receptor is an example of an enzyme-linked receptor.
+### 醛固酮分泌的調節
 
-### Receptor Signaling Cascade
+| 刺激因素 | 機制 |
+|----------|------|
+| 血管張力素II | 直接刺激球狀帶細胞 |
+| 血鉀濃度升高 | 直接刺激球狀帶細胞 |
+| ACTH | 輕度刺激 |
 
-Autophosphorylation of the beta subunits of the receptor activates a local tyrosine kinase.
+### 腎素-血管張力素-醛固酮系統（RAAS）
 
-This in turn causes phosphorylation of multiple other intracellular enzymes, including a group called insulin-receptor substrates (IRS).
+當腎臟血流減少（例如低血壓、出血、鈉離子缺乏）時，腎絲球旁細胞會釋放腎素。
 
-Different types of IRS (e.g., IRS-1, IRS-2, and IRS-3) are expressed in different tissues.
+腎素將血管張力素原轉化為血管張力素I。
 
-The net effect is to activate some of these enzymes while inactivating others.
+肺部的血管張力素轉化酶（ACE）將血管張力素I轉化為血管張力素II。
 
-In this way, insulin directs the intracellular metabolic machinery to produce the desired effects.
+血管張力素II是強力的血管收縮劑，並刺激醛固酮分泌。
 
-### Insulin Synthesis and Secretion Summary
+## 腎上腺皮質功能障礙
 
-| Step | Location | Process |
-|------|----------|---------|
-| Preproinsulin synthesis | Endoplasmic reticulum | Ribosomes translate insulin mRNA |
-| Proinsulin formation | Endoplasmic reticulum | Signal peptide cleaved |
-| Proinsulin processing | Golgi apparatus | C peptide cleaved, granules formed |
-| Insulin secretion | Secretory granules | Equimolar insulin + C peptide released |
+### 庫欣氏症候群
 
-## METABOLIC EFFECTS OF INSULIN
+庫欣氏症候群是由皮質醇過多引起的疾病。
 
-### Effects on Glucose Uptake
+常見原因包括：
 
-Insulin promotes glucose uptake by stimulating the translocation of GLUT4 glucose transporters to the cell membrane.
+- 長期使用糖皮質激素藥物（最常見）
+- 腦下垂體ACTH分泌過多（庫欣病）
+- 腎上腺皮質腫瘤
+- 異位ACTH腫瘤（如肺癌）
 
-This is particularly important in skeletal muscle and adipose tissue.
+### 庫欣氏症候群的臨床表現
 
-### Effects on Glycogen Synthesis
+| 表現 | 說明 |
+|------|------|
+| 中心性肥胖 | 腹部與軀幹脂肪堆積，四肢纖細 |
+| 月亮臉 | 臉部圓潤、雙下巴 |
+| 水牛肩 | 頸背部脂肪墊 |
+| 紫紋 | 腹部與大腿紫紅色皮膚紋路 |
+| 高血壓 | 鈉離子回收增加 |
+| 血糖升高 | 葡萄糖新生增加 |
+| 骨質疏鬆 | 骨吸收增加 |
+| 免疫抑制 | 感染風險增加 |
+| 肌肉無力 | 蛋白質異化作用 |
 
-Insulin activates glycogen synthase, promoting glycogen synthesis in liver and muscle.
+### 腎上腺機能不全
 
-It also inhibits glycogen phosphorylase, preventing glycogen breakdown.
+腎上腺機能不全是皮質醇缺乏的狀態。
 
-### Effects on Lipid Metabolism
+原因可分為：
 
-Insulin promotes lipogenesis (fat synthesis) in adipose tissue and liver.
+- 原發性（愛迪生氏病）：腎上腺皮質直接受損
+- 次發性：腦下垂體或下視丘功能障礙導致ACTH缺乏
 
-It inhibits lipolysis (fat breakdown) in adipose tissue.
+### 愛迪生氏病的臨床特徵
 
-### Effects on Protein Metabolism
+- 皮膚色素沉著（由於ACTH與黑色素刺激素升高）
+- 低血壓
+- 鈉離子流失與高血鉀
+- 倦怠與體重減輕
+- 危及生命的腎上腺危機（休克、低血糖）
 
-Insulin promotes amino acid uptake and protein synthesis in skeletal muscle and other tissues.
+### 原發性醛固酮過多症（Conn氏症候群）
 
-It inhibits protein catabolism.
+特徵：
 
-### Insulin vs Glucagon Summary
+- 高血壓
+- 低血鉀（導致肌肉無力、心律不整）
+- 代謝性鹼中毒
+- 血漿醛固酮濃度升高
+- 血漿腎素活性受抑制
 
-| Function | Insulin Effect | Glucagon Effect |
-|----------|---------------|-----------------|
-| Blood glucose | Lowers | Raises |
-| Glycogen synthesis | Stimulates | Inhibits |
-| Glycogenolysis | Inhibits | Stimulates |
-| Gluconeogenesis | Inhibits | Stimulates |
-| Lipolysis | Inhibits | Stimulates |
-| Lipogenesis | Stimulates | Inhibits |
-| Protein synthesis | Stimulates | Inhibits |
-| Protein breakdown | Inhibits | Stimulates |
+## 腎上腺雄激素
 
-## PANCREATIC ISLET STRUCTURE
+### 去氫表雄酮（DHEA）
 
-The pancreatic islets (islets of Langerhans) contain several cell types:
+DHEA是體內最豐富的循環類固醇激素。
 
-| Cell Type | Percentage | Secretion |
-|-----------|------------|-----------|
-| Beta cells | 60-70% | Insulin |
-| Alpha cells | 20-25% | Glucagon |
-| Delta cells | 5-10% | Somatostatin |
-| F cells/PP cells | <5% | Pancreatic polypeptide |
+DHEA可在多種組織中轉化為更強力的雄激素或雌激素。
 
-Each islet is supplied with capillaries and innervated by autonomic nerve fibers.
+### 雄激素的生理作用
+
+腎上腺雄激素的作用包括：
+
+- 刺激青春期陰毛與腋毛生長
+- 在停經後協助維持雄激素濃度
+- 可能影響女性的性慾
+
+## 糖皮質激素與礦物皮質激素比較
+
+| 特性 | 皮質醇（糖皮質激素） | 醛固酮（礦物皮質激素） |
+|------|---------------------|----------------------|
+| 分泌來源 | 皮質束狀帶 | 皮質球狀帶 |
+| 主要調節因子 | ACTH | 血管張力素II、血鉀 |
+| 主要作用 | 調節代謝、抗發炎、免疫抑制 | 調節鈉鉀平衡、血壓 |
+| 對血糖的影響 | 升高血糖 | 無直接作用 |
+| 對血鉀的影響 | 輕度降低 | 顯著降低 |
+| 對血鈉的影響 | 輕度增加 | 顯著增加 |
+| 受體分布 | 全身各組織 | 腎臟為主 |

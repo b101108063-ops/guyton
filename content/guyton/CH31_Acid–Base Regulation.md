@@ -1,138 +1,151 @@
 ---
+---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH31"
-title: "Acid–Base Regulation"
+title: "酸鹼調節"
 book: "Guyton & Hall"
-summary: "Diuretics increase urine output primarily by inhibiting renal tubular sodium reabsorption, causing natriuresis and water loss; different classes act at distinct nephron sites including the loop of Henle, distal tubule, and collecting duct."
+summary: "本章涵蓋酸鹼平衡的調節，包括化學緩衝系統、肺臟和腎臟在維持正常血液pH中的作用的詳細說明。描述了氫離子濃度的精確調節、弱酸和強酸鹼的對比、pH標度，以及身體對抗H+濃度變化的三道防線。"
 key_points:
-  - "Most diuretics inhibit sodium reabsorption in renal tubules, causing natriuresis that secondarily increases water excretion osmotically"
-  - "Loop diuretics (e.g., furosemide) block the Na-K-2Cl co-transporter in the thick ascending limb, impairing both urine concentration and dilution"
-  - "Thiazide diuretics block Na-Cl co-transport in the early distal tubule; carbonic anhydrase inhibitors reduce HCO3- reabsorption in the proximal tubule"
-  - "Potassium-sparing diuretics (spironolactone, amiloride) act on the collecting duct, either blocking aldosterone or sodium channels"
-  - "Diuretic efficacy diminishes within days (diuretic \"braking\") due to compensatory mechanisms: reduced GFR, increased angiotensin II, and Na retention"
+  - "血液H+濃度正常維持在約0.00004 mEq/L（40 nEq/L）的狹窄範圍內，正常變異僅約3至5 nEq/L"
+  - "細胞外液中Na+濃度（142 mEq/L）約為正常H+濃度的350萬倍，而H+濃度的正常變異僅為Na+離子濃度正常變異的百萬分之一"
+  - "身體有三道防線對抗H+變化：化學緩衝系統（秒）、呼吸系統（分鐘）、腎臟（小時至數天）"
+  - "最重要的細胞外緩衝系統是碳酸氫鹽系統，由CO2和H2CO3之間的可逆反應組成"
+  - "腎臟通過排泄酸性或鹼性尿液以及在酸中毒或鹼中毒時將細胞外液H+濃度恢復正常來發揮作用"
 ---
 
-## OF ACTION
+## 酸和鹼的定義
 
-### General Principles of Diuretic Action
+<span class="c-yellow">氫離子</span>是從氫原子釋放的單個游離質子。含有氫原子的分子在溶液中釋放氫離子稱為<span class="c-yellow">酸</span>。
 
-Diuretics increase the rate of urine volume output, as the name implies.
+例如，鹽酸（HCl）在水中離解形成氫離子（H+）和氯離子（Cl-）。同樣，碳酸（H2CO3）在水中離解形成H+和碳酸氫根離子（HCO3-）。
 
-Most diuretics also increase the urinary excretion of solutes, especially sodium and chloride. In fact, most diuretics that are used clinically act by decreasing renal tubular sodium reabsorption.
+### 鹼的定義
 
-This causes natriuresis (increased sodium output), which in turn causes diuresis (increased water output). Increased water excretion occurs secondary to inhibition of tubular sodium reabsorption because sodium remaining in the tubules acts osmotically to decrease water reabsorption.
+<span class="c-yellow">鹼</span>是能夠接受H+的離子或分子。例如，HCO3-是一種鹼，因為它可以與H+結合形成H2CO3。同樣，HPO4=是一種鹼，因為它可以接受H+形成H2PO4-。
 
-Because renal tubular reabsorption of many solutes, such as potassium, chloride, magnesium, and calcium, is also influenced secondarily by sodium reabsorption, many diuretics raise the renal excretion of these solutes as well.
+### 強酸和弱酸
 
-### Clinical Uses of Diuretics
+| 類型 | 特性 | 例子 |
+|------|------|------|
+| 強酸 | 快速離解，釋放大量H+ | HCl |
+| 弱酸 | 較不易離解，釋放H+較少 | H2CO3 |
 
-The most common clinical use of diuretics is to reduce extracellular fluid volume, especially in diseases associated with edema and in hypertension.
+### 強鹼和弱鹼
 
-As discussed in Chapter 25, loss of sodium from the body mainly decreases extracellular fluid volume. Therefore, diuretics are usually administered in clinical conditions in which extracellular fluid volume is expanded.
+| 類型 | 特性 | 例子 |
+|------|------|------|
+| 強鹼 | 與H+快速且強烈地反應 | OH- |
+| 弱鹼 | 與H+結合較弱 | HCO3- |
 
-### Magnitude of Diuretic Effect
+大多數在細胞外液中涉及正常酸鹼調節的酸和鹼是弱酸和弱鹼。最重要的包括：
 
-Some diuretics can increase urine output more than 20-fold within a few minutes after they are administered.
+- <span class="c-cyan">碳酸（H2CO3）</span>
+- <span class="c-cyan">碳酸氫根鹼（HCO3-）</span>
 
-However, the effect of most diuretics on renal output of salt and water subsides within a few days due to activation of compensatory mechanisms initiated by decreased extracellular fluid volume (Figure 32-1).
+## 體液的正常H+濃度和pH
 
-A decrease in extracellular fluid volume may reduce arterial pressure and glomerular filtration rate (GFR). It may also increase renin secretion and angiotensin II (Ang II) formation.
+血液H+濃度正常維持在約<span class="c-yellow">0.00004 mEq/L（40 nEq/L）</span>的狹窄範圍內。正常變異僅約3至5 nEq/L。
 
-All these responses together eventually override the chronic effects of the diuretic on urine output. Thus, in the steady state, urine output becomes equal to intake, but only after reductions in arterial pressure and extracellular fluid volume have occurred.
+### pH標度
 
-This relieves the hypertension or edema that prompted the use of diuretics in the first place.
+由於正常H+濃度較低且這些小數字使用不便，通常使用pH單位以對數標度表示H+濃度。pH與實際H+濃度的關係為：
 
-### Tubular Sites of Diuretic Action
+```
+pH = log(1/[H+]) = −log[H+]
+```
 
-The many diuretics available for clinical use have different mechanisms of action. They inhibit tubular reabsorption at different sites along the renal nephron.
+例如，正常[H+]為40 nEq/L（0.00000004 Eq/L）。因此，正常pH為：
 
-The general classes of diuretics, their mechanisms of action, and their tubular sites of action are shown in Table 32-1.
+```
+pH = −log[0.00000004] = 7.4
+```
 
-## Osmotic Diuretics
+pH與H+濃度呈反相關。低pH對應高H+濃度，高pH對應低H+濃度。
 
-### Mechanism of Action
+### 各體液pH值
 
-Injection of substances into the blood stream that are filtered by the glomerular capillaries but are not easily reabsorbed by the renal tubules—such as urea, mannitol, and sucrose—causes a marked increase in the concentration of osmotically active molecules in the tubules.
+| 體液 | pH |
+|------|-----|
+| 動脈血液 | 7.4 |
+| 靜脈血液 | 7.35 |
+| 組織間隙液 | 7.35 |
+| 細胞內液 | 6.0–7.4 |
+| 尿液 | 4.5–8.0 |
+| 胃鹽酸 | 0.8 |
 
-The osmotic pressure of these solutes then reduces water reabsorption, flushing large quantities of tubular fluid into the urine.
+### 血液和尿液的pH與H+濃度
 
-### Clinical Example: Diabetes Mellitus
+| H+濃度（mEq/L） | pH | 體液 |
+|-----------------|-----|------|
+| 4.0 × 10−5 | 7.40 | 動脈血液 |
+| 4.5 × 10−5 | 7.35 | 靜脈血液 |
+| 4.5 × 10−5 | 7.35 | 組織間隙液 |
+| 1 × 10−3 至 4 × 10−5 | 6.0–7.4 | 細胞內液 |
+| 3 × 10−2 至 1 × 10−5 | 4.5–8.0 | 尿液 |
+| 160 | 0.8 | 胃鹽酸 |
 
-Large volumes of urine are also formed in certain diseases associated with excess solutes that fail to be reabsorbed from the tubular fluid.
+人可以生存的pH下限約為6.8，上限約為8.0。
 
-For example, when blood glucose concentration rises to high levels in diabetes mellitus, the increased filtered load of glucose into the tubules exceeds their capacity to reabsorb glucose (i.e., exceeds their transport maximum for glucose).
+## 對抗H+濃度變化的防禦
 
-Above a plasma glucose concentration of about 250 mg/dl, little of the extra glucose is reabsorbed by the tubules. Instead, the excess glucose remains in the tubules, acts as an osmotic diuretic, and increases urine flow rate.
+### 三道防線
 
-Therefore, one of the hallmarks of uncontrolled diabetes mellitus is polyuria (frequent urination). This is balanced by a high level of fluid intake (polydipsia) secondary to dehydration, increased extracellular fluid osmolarity, and activation of the thirst mechanism.
+身體有<span class="c-cyan">三道主要防線</span>調節體液中的H+濃度：
 
-## Loop Diuretics
+| 防線 | 速度 | 功效 |
+|------|------|------|
+| 化學緩衝系統 | 秒 | 有限 |
+| 呼吸系統 | 分鐘 | 中等 |
+| 腎臟 | 小時至數天 | 最強大 |
 
-### Mechanism of Action
+### 第一道防線：化學緩衝系統
 
-Furosemide, ethacrynic acid, and bumetanide are powerful diuretics that decrease reabsorption in the thick ascending limb of the loop of Henle. They block the 1-sodium, 2-chloride, 1-potassium co-transporter located in the luminal membrane of the epithelial cells (see Figure 28-9).
+當H+濃度發生變化時，體液的緩衝系统在幾秒內反應。緩衝系統不會從身體中消除H+或向身體添加H+，只是將它們束縛住直到平衡恢復。緩衝的一般形式是：
 
-These loop diuretics are among the most powerful of the clinically used diuretics.
+```
+緩衝劑 + H+ ↔ H 緩衝劑
+```
 
-### Effects on Electrolyte Excretion
+當H+濃度增加時，反應向右推進。只要有緩衝劑可用，更多H+與緩衝劑結合。相反，當H+濃度降低時，反應向左移動，H+從緩衝劑中釋放。
 
-By blocking sodium-chloride-potassium co-transport in the luminal membrane of the loop of Henle, the loop diuretics increase urine output of sodium, chloride, potassium, and other electrolytes, as well as water.
+### 第二道防線：呼吸系統
 
-This occurs for two reasons:
+呼吸系統在幾分鐘內消除CO2因此H2CO3來調節細胞外液的pH。
 
-1. They greatly increase the quantities of solutes delivered to the distal parts of the nephrons, and these solutes act as osmotic agents to prevent water reabsorption.
-2. They disrupt the countercurrent multiplier system by decreasing absorption of ions from the loop of Henle into the medullary interstitium, thereby decreasing the osmolarity of the medullary interstitial fluid.
+### 第三道防線：腎臟
 
-### Effects on Urine Concentration and Dilution
+腎臟可以排出酸性或鹼性尿液，並在酸中毒或鹼中毒時將細胞外液H+濃度恢復到正常。雖然腎臟相對緩慢地反應，但經過數小時到數天的時間，它們是迄今為止最強大的酸鹼調節系統。
 
-Therefore, loop diuretics impair the ability of the kidneys to concentrate or dilute the urine.
+## 碳酸氫鹽緩衝系統
 
-Urinary dilution is impaired because the inhibition of sodium and chloride reabsorption in the loop of Henle causes more of these ions to be excreted, along with increased water excretion.
+<span class="c-yellow">碳酸氫鹽緩衝系統</span>是最重要的細胞外液緩衝系統。
 
-Urine concentrating ability is impaired because the renal medullary interstitial fluid concentration of these ions, and therefore renal medullary osmolarity, is reduced. Consequently, reabsorption of fluid from the collecting ducts is decreased, so the maximal concentrating ability of the kidneys is also greatly reduced.
+```
+CO2 + H2O ⇌ H2CO3 ⇌ H+ + HCO3-
+```
 
-In addition, decreased renal medullary interstitial fluid osmolarity reduces reabsorption of water from the descending loop of Henle.
+這個可逆反應由碳酸酐酶催化。
 
-Because of these multiple effects, 20% to 30% of the glomerular filtrate may be delivered into the urine. Under acute conditions, urine output may be as great as 25 times normal for at least a few minutes.
+當酸被加入時，反應向右移動，H+被結合。當鹼被加入時，反應向左移動，釋放H+。
 
-## Thiazide Diuretics
+###  Henderson-Hasselbalch 方程式
 
-### Mechanism of Action
+```
+pH = pKa + log([HCO3-]/[CO2])
+```
 
-The thiazide derivatives, such as chlorothiazide, act mainly on the early distal tubules. They block the sodium-chloride co-transporter in the luminal membrane of the tubular cells (see Figure 28-10).
+正常血漿：
+- [HCO3-] = 24 mEq/L
+- [CO2] = 1.2 mEq/L
+- pH = 6.1 + log(24/1.2) = 7.4
 
-Under favorable conditions, these agents may cause a maximum of 5% to 10% of the glomerular filtrate to pass into the urine. This is about the same amount of sodium normally reabsorbed by the distal tubules.
+## 酸中毒和鹼中毒
 
-## Carbonic Anhydrase Inhibitors
+| 類型 | pH變化 | 原因 |
+|------|--------|------|
+| 酸中毒 | pH下降 | 酸過剩或鹼喪失 |
+| 鹼中毒 | pH升高 | 鹼過剩或酸喪失 |
 
-### Mechanism of Action
-
-Acetazolamide inhibits the enzyme carbonic anhydrase, which is critical for reabsorption of bicarbonate (HCO3−) in the renal tubules, as discussed in Chapter 31.
-
-Carbonic anhydrase is especially abundant in the proximal tubule, the primary site of action of carbonic anhydrase inhibitors. Some carbonic anhydrase is also present in other tubular cells, such as in the intercalated cells of the collecting tubule.
-
-## Diuretic Compensatory Mechanisms
-
-When diuretics are administered, several compensatory mechanisms are activated:
-
-| Parameter | Effect of Diuretic |
-|-----------|-------------------|
-| Extracellular fluid volume | Decreases |
-| Arterial pressure | Decreases |
-| Glomerular filtration rate (GFR) | Decreases |
-| Renin secretion | Increases |
-| Angiotensin II formation | Increases |
-| Sodium excretion | Initially increases, then returns to intake level |
-
-> **Figure 32-1.** Sodium excretion and extracellular fluid volume during diuretic administration. The immediate increase in sodium excretion is accompanied by a decrease in extracellular fluid volume. If sodium intake is held constant, compensatory mechanisms will eventually return sodium excretion to equal sodium intake, thus re-establishing sodium balance.
-
-## Summary of Diuretic Classes
-
-| Class of Diuretic (examples) | Mechanism of Action | Tubular Site of Action |
-|------------------------------|--------------------|-----------------------|
-| Osmotic diuretics (mannitol) | Inhibit water and solute reabsorption by increasing osmolarity of tubular fluid | Mainly proximal tubules |
-| Loop diuretics (furosemide, bumetanide) | Inhibit Na⁺-K⁺-Cl⁻ co-transport in luminal membrane | Thick ascending loop of Henle |
-| Thiazide diuretics (hydrochlorothiazide, chlorthalidone) | Inhibit Na⁺-Cl⁻ co-transport in luminal membrane | Early distal tubules |
-| Carbonic anhydrase inhibitors (acetazolamide) | Inhibit H⁺ secretion and HCO₃⁻ reabsorption, which reduces Na⁺ reabsorption | Mainly proximal tubules |
-| Aldosterone antagonists (spironolactone, eplerenone) | Inhibit action of aldosterone on tubular receptor, decrease Na⁺ reabsorption, decrease K⁺ secretion | Collecting tubules |
-| Sodium channel blockers (triamterene, amiloride) | Block entry of Na⁺ into Na⁺ channels of luminal membrane, decrease Na⁺ reabsorption, decrease K⁺ secretion | Collecting tubules |
+> **圖31-1.** Henderson-Hasselbalch方程式和pH標度。
+>
+> **圖31-2.** 酸鹼調節的三道防線。

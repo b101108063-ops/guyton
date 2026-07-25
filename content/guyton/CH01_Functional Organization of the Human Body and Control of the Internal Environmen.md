@@ -1,7 +1,7 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH01"
-title: "Functional Organization of the Human Body and Control of the Internal Environment"
+title: "人體功能組織與內環境控制"
 book: "Guyton & Hall"
 summary: "The human body consists of cells organized into tissues, organs, and organ systems that work together to maintain homeostasis. Cells are composed of protoplasm containing water, electrolytes, proteins, lipids, and carbohydrates, with organelles performing specialized functions."
 key_points:

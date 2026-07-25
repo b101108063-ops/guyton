@@ -1,131 +1,110 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH29"
-title: "Urine Concentration and Dilution"
+title: "尿液濃縮與稀釋"
 book: "Guyton & Hall"
-summary: "This chapter explains how the kidneys form dilute or concentrated urine by precisely regulating water excretion independent of solute excretion. It describes the role of antidiuretic hormone (ADH) in controlling water permeability of the distal tubule and collecting ducts, the countercurrent multiplication system that creates the medullary osmotic gradient, and the mechanisms by which the loop of Henle, distal tubule, and collecting duct each contribute to urine concentration or dilution."
+summary: "本章解釋腎臟如何通過獨立於溶質排泄的水排泄的精確調節來形成稀釋或濃縮尿液。它描述了抗利尿激素（ADH）在控制遠端腎小管和集合管水通透性中的作用，逆流倍增系統如何建立腎髓質滲透梯度，以及亨利氏環、遠端腎小管和集合管各自對尿液濃縮或稀釋的貢獻機制。"
 key_points:
-  - "The kidneys can dilute urine to 50 mOsm/L (1/6 of plasma osmolarity) during water excess or concentrate it to 1200-1400 mOsm/L during dehydration, while excreting dilute or concentrated urine at volumes ranging from 0.5 to 20 L/day"
-  - "ADH increases water permeability of the distal tubule and collecting ducts; low ADH allows excretion of large volumes of dilute urine, while high ADH promotes water reabsorption and concentrated urine"
-  - "Countercurrent multiplication in the loop of Henle creates a medullary osmotic gradient (300-1200 mOsm/L from cortex to inner medulla) through active NaCl reabsorption in the thick ascending limb (impermeable to water) and water reabsorption from the descending limb"
-  - "The ascending limb of Henle is impermeable to water and actively reabsorbs NaCl, diluting tubular fluid to ~100 mOsm/L before it enters the distal tubule regardless of ADH levels"
-  - "The vasa recta (peritubular capillaries of the medulla) use countercurrent exchange to preserve the medullary gradient by carrying away reabsorbed water and solutes without dissipating the osmotic gradient"
+  - "腎臟可以在水過剩時將尿液稀釋至50 mOsm/L（血漿滲透壓的1/6）或在脫水時將其濃縮至1200-1400 mOsm/L，同時在0.5至20 L/日的範圍內排泄稀釋或濃縮尿液"
+  - "ADH增加遠端腎小管和集合管的水通透性；低ADH允許排泄大量稀釋尿液，而高ADH促進水重吸收和濃縮尿液"
+  - "亨利氏環的逆流倍增通過厚上升支中活躍的NaCl重吸收（對水不通透）建立腎髓質滲透梯度（皮質至內髓為300-1200 mOsm/L）"
+  - "亨利氏上升支對水不通透，活躍地重吸收NaCl，將腎小管液稀釋至約100 mOsm/L，無論ADH水平如何"
+  - "直血管（髓質毛細血管）使用逆流交換通過攜帶重吸收的水和溶質而不消散滲透梯度來保存髓質梯度"
 ---
 
-## INTRODUCTION
+## 抗利尿激素（ADH）控制尿液濃縮
 
-For the cells of the body to function properly, they must be bathed in extracellular fluid with a relatively constant concentration of electrolytes.
+身體有一個強大的回饋系統，通過改變腎臟排泄水的速率來調節血漿滲透壓和鈉濃度，獨立於溶質排泄率。這個回饋的主要效應器是<span class="c-yellow">抗利尿激素（ADH）</span>，也稱為血管加壓素。
 
-The total concentration of solutes in the extracellular fluid—and therefore the osmolarity—must also be precisely regulated. This prevents the cells from shrinking or swelling.
+### ADH分泌時
 
-The osmolarity is determined by the amount of solute (mainly sodium chloride) divided by the volume of the extracellular fluid. Thus, to a large extent, extracellular fluid osmolarity and sodium chloride concentration are regulated by the amount of extracellular water.
+當體液滲透壓升高到高於正常（溶質變得過於濃縮）時，垂體後葉分泌更多ADH。這增加了遠端腎小管和集合管對水的通透性，增加水重吸收並減少尿液量，而不會明顯改變溶質的腎排泄速率。
 
-The total body water is controlled by:
+### ADH分泌減少時
 
-1. **Fluid intake**: which is regulated by factors that determine thirst
-2. **Renal water excretion**: which is controlled by multiple factors that influence glomerular filtration and tubular reabsorption
+當體內有過剩水分且細胞外液滲透壓降低時，垂體後葉的ADH分泌減少。這降低了遠端腎小管和集合管對水的通透性，導致排出更多稀釋尿液。因此，ADH分泌速率很大程度上決定了腎臟是排泄稀釋還是濃縮尿液。
 
-### Topics Covered in This Chapter
+## 腎臟通過形成稀釋尿液排泄過剩水分
 
-This chapter discusses:
+正常腎臟有很強的能力來改變尿液中溶質和水的相對比例以應對各種挑戰。
 
-1. Mechanisms that cause the kidneys to eliminate excess water by excreting a dilute urine
-2. Mechanisms that cause the kidneys to conserve water by excreting a concentrated urine
-3. Renal feedback mechanisms that control the extracellular fluid sodium concentration and osmolarity
-4. Thirst and salt appetite mechanisms that determine the intakes of water and salt
+當體內有過剩水分且體液滲透壓降低時，腎臟可以排出滲透壓低至50 mOsm/L的尿液，僅約為正常細胞外液滲透壓的1/6。
 
-These help control extracellular fluid volume, osmolarity, and sodium concentration.
+相反，當體內缺水且細胞外液滲透壓高時，腎臟可以排出滲透壓高達1200至1400 mOsm/L的濃縮尿液。
 
-## KIDNEYS EXCRETE EXCESS WATER BY FORMING DILUTE URINE
+同樣重要的是，腎臟可以排出大量稀釋尿液或少量濃縮尿液，而不對鈉和鉀等溶質的排泄速率造成重大改變。這種獨立於溶質排泄的水排泄調節能力對生存是必要的，特別是當液體攝入有限時。
 
-Normal kidneys have a tremendous capability to vary the relative proportions of solutes and water in the urine in response to various challenges.
+### 尿液濃縮範圍
 
-When there is excess water in the body and body fluid osmolarity is reduced, the kidneys can excrete urine with an osmolarity as low as 50 mOsm/L, only about one-sixth the osmolarity of normal extracellular fluid.
+| 條件 | 尿液滲透壓 |
+|------|-----------|
+| 最大稀釋 | 50 mOsm/L（血漿的1/6） |
+| 正常血漿 | 300 mOsm/L |
+| 最大濃縮 | 1200–1400 mOsm/L |
 
-Conversely, when there is a deficit of water in the body and extracellular fluid osmolarity is high, the kidneys can excrete highly concentrated urine with an osmolarity of 1200 to 1400 mOsm/L.
+## 稀釋尿液的腎臟機制
 
-Equally important, the kidneys can excrete a large volume of dilute urine or a small volume of concentrated urine without major changes in rates of excretion of solutes such as sodium and potassium. This ability to regulate water excretion independently of solute excretion is necessary for survival, especially when fluid intake is limited.
+當體內有大量水分過剩時，腎臟每天可以排出多達20 L的稀釋尿液，濃度低至50 mOsm/L。腎臟通過繼續重吸收溶質而不重吸收大量水分在遠端腎元的部分（包括晚期遠端腎小管和集合管）來實現這一點。
 
-### Urine Concentration Range
+### 稀釋尿液的形成
 
-| Condition | Urine Osmolarity |
-|-----------|-----------------|
-| Maximum dilution | 50 mOsm/L (1/6 of plasma) |
-| Normal plasma | 300 mOsm/L |
-| Maximum concentration | 1200–1400 mOsm/L |
+當腎絲球濾過液最初形成時，其滲透壓約與血漿相同（300 mOsm/L）。為了排泄過剩水分，濾過液在通過腎小管時通過比水更大程度地重吸收溶質而被稀釋。這種稀釋僅發生在腎小管系統的某些段。
 
-## ANTIDIURETIC HORMONE CONTROLS URINE CONCENTRATION
+#### 近端腎小管中腎小管液保持等滲
 
-The body has a powerful feedback system for regulating plasma osmolarity and sodium concentration by altering renal excretion of water independently of solute excretion rate. A primary effector of this feedback is antidiuretic hormone (ADH), also called vasopressin.
+當液體流經近端腎小管時，溶質和水以相等比例重吸收，滲透壓幾乎不變。因此，<span class="c-cyan">近端腎小管液保持與血漿等滲</span>，約為300 mOsm/L。
 
-### When ADH Is Secreted
+#### 下降亨利氏環中腎小管液被濃縮
 
-When osmolarity of the body fluids increases above normal (the solutes become too concentrated), the posterior pituitary gland secretes more ADH. This increases the permeability of the distal tubules and collecting ducts to water, increasing water reabsorption and decreasing urine volume without markedly altering the rate of renal excretion of the solutes.
+當液體通過下降亨利氏環時，水通過滲透被重吸收。腎小管液與腎髓質周圍組織間隙液達到平衡，後者是高滲的——約為原始腎絲球濾過液滲透壓的2至4倍。
 
-### When ADH Secretion Decreases
+#### 上升亨利氏環中腎小管液被稀釋
 
-When there is excess water in the body and extracellular fluid osmolarity is reduced, secretion of ADH by the posterior pituitary decreases. This reduces the permeability of the distal tubule and collecting ducts to water, causing increased amounts of more dilute urine to be excreted. Thus, the rate of ADH secretion determines, to a large extent, whether the kidney excretes dilute or concentrated urine.
+在上升亨利氏環，尤其是厚段，鈉、鉀和氯被活躍地重吸收。<span class="c-yellow">這部分腎小管段對水不通透</span>，即使存在大量ADH。因此，當上升亨利氏環的腎小管液向上流動時，它變得更加稀釋，進入早期遠端腎小管時滲透壓逐漸降低至約100 mOsm/L。
 
-## RENAL MECHANISMS FOR EXCRETING DILUTE URINE
+無論是否存在ADH，從早期遠端腎小管段流出的液體都是低滲的，僅約為血漿滲透壓的1/3。
 
-When there is a large excess of water in the body, the kidney can excrete as much as 20 L/day of dilute urine with a concentration as low as 50 mOsm/L. The kidney performs this by continuing to reabsorb solutes without reabsorbing large amounts of water in the distal parts of the nephron, including the late distal tubule and collecting ducts.
+### 稀釋尿液形成摘要
 
-### Renal Responses After Water Ingestion
+| 腎小管段 | 水重吸收 | 溶質重吸收 | 結果滲透壓 |
+|---------|---------|-----------|-----------|
+| 近端腎小管 | 與溶質相等 | 與水相等 | 300 mOsm/L（等滲） |
+| 下降環 | 是（水分移出） | 否 | 增加至400–1200 mOsm/L |
+| 上升環 | 否 | 是（NaCl） | 降低至~100 mOsm/L |
+| 遠端/集合管（無ADH） | 否 | 是 | 進一步降低至~50 mOsm/L |
+| 遠端/集合管（高ADH） | 是 | 是 | 增加至300–1200 mOsm/L |
 
-Figure 29-1 shows the approximate renal responses after ingestion of 1 liter of water. Urine volume increased to about six times normal within 45 minutes after water ingestion. However, the total amount of solute excreted remained relatively constant, and urine formed became dilute with osmolarity decreasing from 600 to about 100 mOsm/L.
+## 濃縮尿液的腎臟機制
 
-After ingestion of excess water, the kidney rids the body of excess water without excreting excess amounts of solutes.
+濃縮尿液的形成需要：
+1. <span class="c-cyan">腎髓質滲透梯度</span>的存在
+2. <span class="c-yellow">ADH</span>增加集合管對水的通透性
 
-### Formation of Dilute Urine
+### 腎髓質梯度形成的逆流倍增
 
-When the glomerular filtrate is initially formed, its osmolarity is about the same as that of plasma (300 mOsm/L). To excrete excess water, the filtrate is diluted as it passes along the tubule by reabsorbing solutes to a greater extent than water. This dilution occurs only in certain segments of the tubular system.
+<span class="c-yellow">逆流倍增</span>系统在亨利氏環中創造腎髓質滲透梯度：
 
-#### Tubular Fluid Remains Isosmotic in Proximal Tubules
+- **下降支**：對水通透，水分移出，液體被濃縮
+- **上升支**：對水不通透，主動重吸收NaCl，液體被稀釋
 
-As fluid flows through the proximal tubule, solutes and water are reabsorbed in equal proportions, with little change in osmolarity. Thus, the proximal tubule fluid remains isosmotic to the plasma at about 300 mOsm/L.
+這在腎髓質建立了300至1200 mOsm/L的梯度。
 
-#### Tubular Fluid Becomes Concentrated in Descending Loop of Henle
+### ADH對集合管的作用
 
-As fluid passes down the descending loop of Henle, water is reabsorbed by osmosis. The tubular fluid reaches equilibrium with the surrounding interstitial fluid of the renal medulla, which is very hypertonic—about two to four times the osmolarity of the original glomerular filtrate. Therefore, the tubular fluid becomes more concentrated as it flows into the inner medulla.
+當ADH存在時，集合管變得對水高度通透。水從集合管液中被吸出進入高滲髓質間隙液，產生濃縮尿液。
 
-#### Tubular Fluid Is Diluted in the Ascending Loop of Henle
+## 水性利尿
 
-In the ascending limb of the loop of Henle, especially in the thick segment, sodium, potassium, and chloride are avidly reabsorbed. This portion of the tubular segment is impermeable to water, even in the presence of large amounts of ADH. Therefore, the tubular fluid becomes more dilute as it flows up the ascending loop of Henle, entering the early distal tubule with osmolarity decreasing progressively to about 100 mOsm/L.
+當一個人攝入過剩水分時：
 
-Regardless of whether ADH is present or absent, fluid leaving the early distal tubular segment is hypo-osmotic, only about one-third the osmolarity of plasma.
+1. 血漿滲透壓暫時降低
+2. 垂體後葉的ADH分泌減少
+3. 遠端腎小管和集合管的水通透性降低
+4. 大量稀釋尿液被排出
+5. 血漿滲透壓恢復正常
 
-#### Tubular Fluid in Distal and Collecting Tubules Is Further Diluted in Absence of ADH
-
-As the dilute fluid in the early distal tubule passes into the late distal convoluted tubule, cortical collecting duct, and medullary collecting duct, there is additional reabsorption of sodium chloride. In the absence of ADH, this portion of the tubule is also impermeable to water, and the additional reabsorption of solutes causes the tubular fluid to become even more dilute, with osmolarity decreasing to as low as 50 mOsm/L. The failure to reabsorb water and continued reabsorption of solutes lead to a large volume of dilute urine.
-
-### Summary: Formation of Dilute Urine
-
-| Segment | Water Reabsorption | Solute Reabsorption | Resulting Osmolarity |
-|---------|-------------------|--------------------|--------------------|
-| Proximal tubule | Equal to solutes | Equal to water | 300 mOsm/L (isosmotic) |
-| Descending loop | Yes (water moves out) | No | Increases to 400–1200 mOsm/L |
-| Ascending loop | No | Yes (NaCl) | Decreases to ~100 mOsm/L |
-| Distal tubule/collecting duct (no ADH) | No | Yes | Further decreases to ~50 mOsm/L |
-| Distal tubule/collecting duct (high ADH) | Yes | Yes | Increases to 300–1200 mOsm/L |
-
-### Key Concept
-
-The mechanism for forming dilute urine is to continue reabsorbing solutes from the distal segments of the tubular system while reducing water reabsorption.
-
-In healthy kidneys, fluid leaving the ascending loop of Henle and early distal tubule is always dilute, regardless of the level of ADH. In the absence of ADH, the urine is further diluted in the late distal tubule and collecting ducts, and a large volume of dilute urine is excreted.
-
-## WATER DIURESIS
-
-When a person drinks excess water:
-
-1. Plasma osmolarity decreases temporarily
-2. ADH secretion from the posterior pituitary decreases
-3. Water permeability of distal tubules and collecting ducts decreases
-4. Large volumes of dilute urine are excreted
-5. Plasma osmolarity returns to normal
-
-This process allows the body to eliminate excess water while preserving solutes.
-
-> **Figure 29-1.** Water diuresis in a person after ingestion of 1 liter of water. After water ingestion, urine volume increases and urine osmolarity decreases, causing excretion of a large volume of dilute urine; however, the total amount of solute excreted by the kidneys remains relatively constant.
-
-> **Figure 29-2.** Formation of dilute urine when antidiuretic hormone (ADH) levels are very low. In the ascending loop of Henle, the tubular fluid becomes very dilute. In the distal tubules and collecting tubules, the tubular fluid is further diluted by the reabsorption of sodium chloride and the failure to reabsorb water when ADH levels are very low.
+> **圖29-1.** 攝入1升水後的水性利尿。
+>
+> **圖29-2.** 當抗利尿激素（ADH）水平非常低時稀釋尿液的形成。
+>
+> **圖29-3.** 腎髓質逆流倍增系統。

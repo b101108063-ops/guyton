@@ -1,318 +1,239 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH71"
-title: "The Liver"
+title: "肝臟"
 book: "Guyton & Hall"
-summary: "The liver is the largest organ in the body, performing over 500 functions including metabolism of carbohydrates, proteins, and fats; formation and secretion of bile; detoxification of hormones, drugs, and toxins; synthesis of plasma proteins and clotting factors; and storage of vitamins and iron. The liver lobule is the functional unit, with hepatocytes arranged in plates between sinusoidal capillaries, receiving dual blood supply from the portal vein and hepatic artery."
+summary: "肝臟是人體最大的器官，執行超過500種功能，包括碳水化合物、蛋白質和脂肪的代謝；膽汁的形成和分泌；激素、藥物和毒素的解毒；血漿蛋白質和凝血因子的合成；以及維生素、鐵和肝糖的儲存。肝小葉是功能單位，肝細胞在肝竇之間排列成板狀，接受來自門靜脈和肝動脈的雙重血液供應。"
 key_points:
-  - "The liver receives ~25% of cardiac output via the portal vein (75% venous blood from GI tract) and hepatic artery (25% oxygenated blood)"
-  - "Kupffer cells (resident macrophages) line the hepatic sinusoids and phagocytose bacteria and particulate matter from portal blood"
-  - "The space of Disse (perisinusoidal space) between endothelial cells and hepatocytes allows free exchange of plasma proteins and macromolecules"
-  - "Bile secreted by hepatocytes flows through bile canaliculi → bile ducts → hepatic duct → common bile duct → gallbladder storage or duodenum entry"
-  - "The liver synthesizes all plasma albumin, fibrinogen, and most globulins (including clotting factors II, VII, IX, X requiring vitamin K-dependent carboxylation)"
-  - "The liver stores fat-soluble vitamins (A, D, E, K), vitamin B12, iron (as ferritin), copper, and glycogen (up to 500 g)"
-  - "First-pass metabolism: drugs and toxins absorbed from the GI tract are largely metabolized by the liver before entering systemic circulation (bioavailability concept)"
+  - "肝臟接受約25%的心輸出量，來自門靜脈（75%，來自胃腸道的靜脈血）和肝動脈（25%，充氧血）"
+  - "肝竇內襯的枯否細胞（常駐巨噬細胞）吞噬來自門靜脈血的細菌和顆粒物質"
+  - "竇隙空間（Disse space）是內皮細胞和肝細胞之間的空間，允許血漿蛋白質和大分子自由交換"
+  - "膽汁由肝細胞分泌，流經膽毛細管→膽管→肝總管→膽總管→膽囊儲存或十二指腸"
+  - "肝臟合成所有血漿白蛋白、纖維蛋白原和大多數球蛋白（包括需要維生素K依賴性羧化的凝血因子II、VII、IX、X）"
+  - "肝臟儲存脂溶性維生素（A、D、E、K）、維生素B12、鐵（作為鐵蛋白）、銅和肝糖（最多500克）"
+  - "首渡代謝：從胃腸道吸收的藥物和毒素在進入全身循環前大部分被肝臟代謝（生物可用度概念）"
 ---
 
-## Hepatic Blood Flow and Microcirculation
+## 肝臟的血液供應與微循環
 
-### Blood Supply
+### 血液供應
 
-The liver receives approximately **25% of cardiac output**.
+肝臟接受約<span class="c-yellow">25%的心輸出量</span>。
 
-This comes from two sources:
+這來自兩個來源：
 
-| Source | Percentage | Type of Blood |
-|--------|-----------|--------------|
-| Portal vein | ~75% | Venous blood (from GI tract) |
-| Hepatic artery | ~25% | Oxygenated arterial blood |
+| 來源 | 百分比 | 血液類型 |
+|------|--------|----------|
+| <span class="c-red">門靜脈</span> | 約75% | 靜脈血（來自胃腸道）|
+| <span class="c-cyan">肝動脈</span> | 約25% | 充氧的動脈血 |
 
-The portal vein delivers blood rich in nutrients absorbed from the gastrointestinal tract.
+門靜脈提供從胃腸道吸收豐富營養素的血液。
 
-The hepatic artery provides oxygenated blood to meet the liver's high metabolic demands.
+肝臟動脈提供充氧血以滿足肝臟的高代謝需求。
 
-### Liver Lobule Structure
+### 肝小葉結構
 
-The liver lobule is the functional unit of the liver.
+<span class="c-red">肝小葉</span>是肝臟的功能單位。
 
-Hepatocytes are arranged in plates between sinusoidal capillaries (liver sinusoids).
+肝細胞在<span class="c-cyan">肝竇</span>之間的板上排列。
 
-Blood flows from the portal triads (portal vein, hepatic artery, bile duct) toward the central vein.
+血液從門靜脈三合會（門靜脈、肝動脈、膽管）流向中央靜脈。
 
-### Space of Disse
+### 竇隙空間
 
-The **space of Disse** (perisinusoidal space) lies between endothelial cells and hepatocytes.
+<span class="c-red">竇隙空間（Disse space）</span>是內皮細胞和肝細胞之間的空間。
 
-This space allows free exchange of plasma proteins and macromolecules between blood and hepatocytes.
+這個空間允許血漿蛋白質和大分子在血液和肝細胞之間自由交換。
 
-### Kupffer Cells
+### 枯否細胞
 
-**Kupffer cells** are resident macrophages that line the hepatic sinusoids.
+<span class="c-red">枯否細胞</span>是襯在肝竇上的常駐巨噬細胞。
 
-They phagocytose bacteria and particulate matter from portal blood.
+它們吞噬來自門靜脈血的細菌和顆粒物質。
 
-This function is a key defense mechanism against gut-derived pathogens.
+這是對腸道來源的病原體的關鍵防禦機制。
 
-## Bile Secretion and Transport
+## 膽汁分泌與運輸
 
-### Bile Flow Pathway
+### 膽汁流動路徑
 
-Bile is secreted by hepatocytes.
+膽汁由肝細胞分泌。
 
-The flow pathway is:
+流動路徑：
 
 ```
-Bile canaliculi → Bile ducts → Hepatic duct → Common bile duct
-                                                        ↓
-                              Gallbladder (storage) ←→ Duodenum (entry)
+膽毛細管 → 膽管 → 肝總管 → 膽總管
+                                      ↓
+                    膽囊（儲存）←→ 十二指腸（進入）
 ```
 
-### Functions of Bile
+### 膽汁的功能
 
-Bile serves two main functions:
-- **Fat digestion:** Bile salts emulsify fats, increasing surface area for pancreatic lipase action
-- **Waste excretion:** Bilirubin, cholesterol, and xenobiotics are excreted in bile
+膽汁有兩個主要功能：
 
-### Gallbladder Storage
+- **脂肪消化：** 膽鹽乳化脂肪，增加胰脂肪酶作用的表面積
+- **廢物排泄：** 膽紅素、膽固醇和外來物質在膽汁中排泄
 
-The gallbladder stores and concentrates bile between meals.
+### 膽囊儲存
 
-After a fatty meal, bile is released into the duodenum via gallbladder contraction.
+膽囊在兩餐之間儲存和濃縮膽汁。
 
-## Metabolic Functions of the Liver
+攝入脂肪餐後，膽囊收縮將膽汁釋放到十二指腸。
 
-### Carbohydrate Metabolism
+## 肝臟的代謝功能
 
-The liver maintains blood glucose homeostasis.
+### 碳水化合物代謝
 
-It performs the following:
-- Converts glucose to glycogen for storage (glycogenesis)
-- Breaks down glycogen to release glucose (glycogenolysis)
-- Performs gluconeogenesis from non-carbohydrate precursors (amino acids, lactate, glycerol)
+肝臟維持血糖恆定。
 
-The liver contains **glucose-6-phosphatase**, allowing it to release free glucose into blood.
+執行以下功能：
 
-This is in contrast to muscle, which lacks this enzyme.
+- 將葡萄糖轉化為肝糖儲存（<span class="c-red">肝糖生成</span>）
+- 分解肝糖釋放葡萄糖（<span class="c-red">肝糖分解</span>）
+- 從非碳水化合物前驅物（胺基酸、乳酸、甘油）進行<span class="c-red">新生葡萄糖生成</span>
 
-### Protein Metabolism
+肝臟含有<span class="c-yellow">葡萄糖-6-磷酸酶</span>，能夠釋放遊離葡萄糖到血液中。
 
-The liver is the primary site of amino acid metabolism.
+這與缺乏這種酶的肌肉形成對比。
 
-Key functions:
-- **Transamination:** Transfers amino groups between amino acids and keto acids
-- **Deamination:** Removes amino groups for urea synthesis
-- **Urea synthesis:** Converts toxic ammonia to urea for excretion
-- **Synthesis:** Produces most plasma proteins (albumin, fibrinogen, clotting factors)
+### 蛋白質代謝
 
-### Clotting Factor Synthesis
+肝臟是胺基酸代謝的主要場所。
 
-The liver synthesizes all plasma albumin, fibrinogen, and most globulins.
+主要功能：
 
-Vitamin K-dependent clotting factors synthesized by the liver include:
-- Factor II (prothrombin)
-- Factor VII
-- Factor IX
-- Factor X
+- **轉氨作用：** 在胺基酸和酮酸之間轉移胺基團
+- **去氨作用：** 移除胺基團進行尿素合成
+- **尿素合成：** 將有毒氨轉化為尿素以便排泄
+- **合成：** 產生大多數血漿蛋白（白蛋白、纖維蛋白原、凝血因子）
 
-These factors require vitamin K-dependent carboxylation for biological activity.
+### 凝血因子合成
 
-### Lipid Metabolism
+肝臟合成所有血漿白蛋白、纖維蛋白原和大約80%的球蛋白。
 
-The liver:
-- Synthesizes cholesterol and phospholipids
-- Packages lipids into lipoproteins (VLDL, HDL)
-- Performs beta-oxidation of fatty acids
-- Converts excess acetyl-CoA to ketone bodies (ketogenesis)
+肝臟合成的維生素K依賴性凝血因子：
 
-## Storage Functions
+| 因子 | 名稱 |
+|------|------|
+| 因子II | 凝血酶原 |
+| 因子VII | 前轉化素 |
+| 因子IX | 聖誕因子 |
+| 因子X | Stuart-Prower因子 |
 
-### Glycogen Storage
+這些因子需要維生素K依賴性羧化才能具有生物活性。
 
-The liver can store up to **500 grams** of glycogen.
+### 脂肪代謝
 
-Glycogen provides a rapidly accessible source of glucose during fasting.
+肝臟：
 
-### Vitamin and Mineral Storage
+- 合成膽固醇和磷脂
+- 將脂肪包裝成脂蛋白（VLDL、HDL）
+- 執行脂肪酸的β-氧化
+- 將過量乙醯輔酶A轉化為酮體（<span class="c-red">酮體生成</span>）
 
-The liver stores:
-| Substance | Storage Form |
-|-----------|-------------|
-| Vitamin A | Retinyl esters |
-| Vitamin D | 25-hydroxyvitamin D |
-| Vitamin E | Tocopherol |
-| Vitamin K | Phylloquinone |
-| Vitamin B₁₂ | Transcobalamin-bound |
-| Iron | Ferritin |
-| Copper | Ceruloplasmin |
+## 儲存功能
 
-## Detoxification and Biotransformation
+### 肝糖儲存
 
-### First-Pass Metabolism
+肝臟可以儲存多達<span class="c-yellow">500克</span>的肝糖。
 
-Drugs and toxins absorbed from the GI tract pass through the liver before entering systemic circulation.
+肝糖在禁食期間提供快速可及的葡萄糖來源。
 
-This is called **first-pass metabolism**.
+### 維生素和礦物質儲存
 
-As a result, many drugs have reduced bioavailability when taken orally.
+肝臟儲存：
 
-### Phase I and Phase II Reactions
+| 物質 | 儲存形式 |
+|------|----------|
+| 維生素A | 視黃基酯 |
+| 維生素D | 25-羥基維生素D |
+| 維生素E | 生育酚 |
+| 維生素K | 葉綠醌 |
+| 維生素B12 | 轉鈷胺素結合型 |
+| 鐵 | 鐵蛋白 |
+| 銅 | 血漿銅藍蛋白 |
 
-The liver metabolizes drugs and toxins through two main reaction types:
+## 解毒與生物轉化
 
-**Phase I reactions (Functionalization):**
-- Oxidation, reduction, hydrolysis
-- Primarily via cytochrome P450 enzymes
-- May activate or inactivate compounds
+### 首渡代謝
 
-**Phase II reactions (Conjugation):**
-- Glucuronidation, sulfation, acetylation, glutathione conjugation
-- Generally increases water solubility for excretion
+從胃腸道吸收的藥物和毒素在進入全身循環前通過肝臟。
 
-### Hormone Metabolism
+這稱為<span class="c-red">首渡代謝</span>。
 
-The liver metabolizes:
-- Insulin (degradation)
-- Steroid hormones (estrogen, testosterone, cortisol)
-- Thyroid hormones
-- Various other circulating hormones
+結果，許多藥物口服時生物可用度降低。
 
-## Dietary Balances and Energy Regulation
+### 第一相和第二相反應
 
-### Energy Balance
+肝臟通過兩種主要反應類型代謝藥物和毒素：
 
-Proteins, carbohydrates, and fats provide energy for body functions or for storage.
+**第一相反應（功能化）：**
 
-Stability of body weight requires energy intake to equal energy expenditure.
+- 氧化、還原、水解
+- 主要通過細胞色素P450酶
+- 可能激活或抑制化合物
 
-When overfed and energy intake persistently exceeds expenditure, excess energy is stored as fat.
+**第二相反應（結合）：**
 
-Body weight increases.
+- 葡萄糖醛酸結合、硫酸化、乙醯化、穀胱甘肽結合
+- 通常增加水溶性以便排泄
 
-Conversely, loss of body mass occurs when energy intake is insufficient.
+### 激素代謝
 
-### Energy Available in Foods
+肝臟代謝：
 
-| Substance | Energy per Gram | Absorption Rate |
-|-----------|----------------|-----------------|
-| Carbohydrate | 4.1 Calories | ~98% |
-| Fat | 9.3 Calories | ~95% |
-| Protein | 4.35 Calories | ~92% |
+- 胰島素（降解）
+- 類固醇激素（雌激素、睪固酮、皮質醇）
+- 甲狀腺激素
+- 各種其他循環激素
 
-Average physiologically available energy per gram:
+## 膽紅素代謝與黃疸
 
-| Foodstuff | Calories per Gram |
-|-----------|-----------------|
-| Carbohydrate | ~4 |
-| Fat | ~9 |
-| Protein | ~4 |
+### 膽紅素的形成
 
-## Protein Requirements
+<span class="c-red">膽紅素</span>主要來自網狀內皮系統中老化紅血球的分解。
 
-### Daily Protein Requirement
+每天約產生250-300毫克膽紅素。
 
-Twenty to 30 grams of body proteins are degraded daily.
+### 膽紅素的運輸
 
-All cells must form new proteins to replace those being destroyed.
+游離膽紅素（未結合）在血液中與白蛋白結合運輸。
 
-An average person can maintain normal protein stores if daily intake is **greater than 30–50 grams**.
+然後被肝細胞攝取。
 
-### Protein Quality
+在肝細胞中，膽紅素與葡萄糖醛酸結合（<span class="c-yellow">結合作用</span>）。
 
-Some proteins have inadequate quantities of certain essential amino acids.
+結合膽紅素是水溶性的，可以排泄到膽汁中。
 
-These cannot be used to replace degraded proteins.
+### 黃疸的類型
 
-Such proteins are called **partial proteins**.
+| 類型 | 原因 | 膽紅素類型 |
+|------|------|------------|
+| <span class="c-red">溶血性黃疸</span> | 紅血球破壞增加 | 未結合膽紅素↑ |
+| <span class="c-red">肝細胞性黃疸</span> | 肝細胞功能障礙 | 兩種都可能↑ |
+| <span class="c-red">阻塞性黃疸</span> | 膽道阻塞 | 結合膽紅素↑ |
 
-Proteins derived from animal foodstuffs are generally more complete than vegetable proteins.
+## 肝臟疾病的臨床意義
 
-### Kwashiorkor
+### 肝衰竭的後果
 
-**Kwashiorkor** is a form of severe protein malnutrition.
+嚴重肝衰竭的後果包括：
 
-Example: Corn protein has inadequate amounts of tryptophan and lysine.
+| 系統 | 效應 |
+|------|------|
+| 代謝 | 血糖↓、氨↑、乳酸↑ |
+| 凝血 | 凝血因子↓、出血傾向↑ |
+| 白蛋白 | 白蛋白↓、水腫 |
+| 藥物代謝 | 藥物半衰期延長 |
 
-Individuals consuming cornmeal as their principal protein source may develop kwashiorkor.
+### 門靜脈高壓
 
-**Kwashiorkor symptoms:**
-- Failure to grow
-- Lethargy
-- Depressed mentality
-- Edema (caused by low plasma protein concentration)
+門靜脈高壓導致：
 
-### Complementary Proteins
+- <span class="c-red">腹水</span>（腹腔積液）
+- <span class="c-red">脾臟腫大</span>（脾功能亢進）
+- <span class="c-red">食道靜脈曲張</span>（可能致命出血）
 
-Food legumes provide relatively rich sources of tryptophan and lysine.
+門側支循環的建立（門奇靜脈短路）試圖繞過肝臟。
 
-But legumes contain inadequate amounts of methionine.
-
-The proteins of corn and legumes **complement each other**.
-
-Together they provide all essential amino acids.
-
-### Protein Sparing Effect
-
-When the diet contains abundant carbohydrates and fats, almost all body energy is derived from these substances.
-
-Little energy is derived from proteins.
-
-Therefore, **carbohydrates and fats are said to be protein sparers**.
-
-In starvation, after carbohydrates and fats are depleted, protein stores are consumed rapidly for energy.
-
-This can approach several hundred grams per day rather than the normal 30–50 grams.
-
-## Methods for Determining Metabolic Utilization
-
-### Respiratory Quotient
-
-The **respiratory quotient (RQ)** is the ratio of carbon dioxide production to oxygen utilization.
-
-It estimates fat and carbohydrate utilization.
-
-| Substrate | Respiratory Quotient |
-|-----------|---------------------|
-| Carbohydrate | 1.0 |
-| Fat | 0.70 |
-| Protein | 0.80 |
-
-When carbohydrates are metabolized with oxygen, exactly one CO₂ molecule is formed per O₂ molecule consumed.
-
-When fat is oxidized, an average of 70 CO₂ molecules are formed per 100 O₂ molecules consumed.
-
-The RQ for fats and proteins is lower because some oxygen is required to combine with excess hydrogen atoms.
-
-### Food Composition Examples
-
-| Food | Protein (%) | Fat (%) | Carbohydrate (%) | Fuel Value per 100g (Calories) |
-|------|-------------|---------|------------------|--------------------------------|
-| Apples | 0.3 | 0.4 | 14.9 | 64 |
-| Asparagus | 2.2 | 0.2 | 3.9 | 26 |
-| Bacon, fat | 6.2 | 76.0 | 0.7 | 712 |
-| Bacon, broiled | 25.0 | 55.0 | 1.0 | 599 |
-| Beef (average) | 17.5 | 22.0 | 1.0 | 268 |
-| Beets, fresh | 1.6 | 0.1 | 9.6 | 46 |
-| Bread, white | 9.0 | 3.6 | 49.8 | 268 |
-| Butter | 0.6 | 81.0 | 0.4 | 733 |
-| Cabbage | 1.4 | 0.2 | 5.3 | 29 |
-| Carrots | 1.2 | 0.3 | 9.3 | 45 |
-| Cashew nuts | 19.6 | 47.2 | 26.4 | 609 |
-| Cheese, cheddar | 23.9 | 32.3 | 1.7 | 393 |
-| Chicken, total edible | 21.6 | 2.7 | 1.0 | 111 |
-| Chocolate | 5.5 | 52.9 | 18.0 | 570 |
-| Corn (maize) | 10.0 | 4.3 | 73.4 | 372 |
-| Haddock | 17.2 | 0.3 | 0.5 | 72 |
-| Lamb, leg | 18.0 | 17.5 | 1.0 | 230 |
-| Milk, fresh whole | 3.5 | 3.9 | 4.9 | 69 |
-| Molasses | 0.0 | 0.0 | 60.0 | 240 |
-| Oatmeal, dry | 14.2 | 7.4 | 68.2 | 396 |
-| Oranges | 0.9 | 0.2 | 11.2 | 50 |
-| Peanuts | 26.9 | 44.2 | 23.6 | 600 |
-| Peas, fresh | 6.7 | 0.4 | 17.7 | 101 |
-| Pork, ham | 15.2 | 31.0 | 1.0 | 340 |
-| Potatoes | 2.0 | 0.1 | 19.1 | 85 |
-| Spinach | 2.3 | 0.3 | 3.2 | 25 |
-| Strawberries | 0.8 | 0.6 | 8.1 | 41 |
-| Tomatoes | 1.0 | 0.3 | 4.0 | 23 |
-| Tuna, canned | 24.2 | 10.8 | 0.5 | 194 |
-| Walnuts, English | 15.0 | 64.4 | 15.6 | 702 |
+這些側支在食道和直腸區域最明顯。

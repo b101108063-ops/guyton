@@ -1,163 +1,174 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH22"
-title: "Cardiac Failure"
+title: "心臟衰竭"
 book: "Guyton & Hall"
-summary: "This chapter describes normal heart sounds and their physiologic origins, detailing the first heart sound (S1) from A-V valve closure, the second heart sound (S2) from semilunar valve closure, the third heart sound (S3) in early diastole, and the fourth heart sound (S4) associated with atrial contraction. It also covers auscultation sites, phonocardiography, and how valvular heart disease produces abnormal murmurs."
+summary: "本章描述心臟衰竭的病理生理學，包括心輸出量減少的機制、冠狀循環的基本特性、心肌功能障礙的影響，以及身體對心輸出量減少的代償反應（如交感神經系統激活、鈉和水瀦留）。"
 key_points:
-  - "The first heart sound (S1, 'lub') is caused by closure of the atrioventricular (AV) valves at the onset of ventricular systole, with vibrations from taut valves, chordae tendineae, ventricular walls, and refluxing blood"
-  - "The second heart sound (S2, 'dub') results from closure of the aortic and pulmonary semilunar valves at the end of systole, producing higher frequency vibrations due to taut valve leaflets and elastic arterial walls"
-  - "The third heart sound (S3) occurs in early diastole during ventricular filling and may be normal in young people but indicates systolic heart failure in older adults"
-  - "The fourth heart sound (S4) is caused by atrial contraction and indicates decreased ventricular compliance; it is rarely audible but recordable on phonocardiogram"
-  - "Auscultation sites (mitral, tricuspid, aortic, pulmonic) do not directly overlie the valves but represent optimal chest wall positions for hearing each valve's sounds"
+  - "心臟衰竭發生在心輸出量不足以滿足身體組織代謝需求時，可分為左心衰竭、右心衰竭或全心衰竭"
+  - "心輸出量減少激活交感神經系統，增加心率、心肌收縮力和血管阻力作為代償"
+  - "腎臟對心輸出量減少的反應是保留鈉和水，導致細胞外液量增加和心臟前負荷增加"
+  - "心臟前負荷增加（Frank-Starling機制）在一定範圍內可以改善心輸出量，但過度增加會導致肺水腫"
+  - "慢性心臟衰竭時，心肌肥厚作為代償機制增加心臟泵血能力，但最終會進展為心臟擴大"
 ---
 
-## NORMAL HEART SOUNDS
+## 心臟衰竭的病理生理學
 
-When listening to a normal heart with a stethoscope, one hears a sound usually described as "lub, dub, lub, dub."
+當心輸出量不足以滿足身體組織的代謝需求時，就會發生<span class="c-red">心臟衰竭</span>。
 
-The "lub" is associated with closure of the atrioventricular (A-V) valves at the beginning of systole.
+心臟衰竭可以分為：
 
-The "dub" is associated with closure of the semilunar (aortic and pulmonary) valves at the end of systole.
+- **左心衰竭**：左心室泵血功能障礙
+- **右心衰竭**：右心室泵血功能障礙
+- **全心衰竭**：兩側心室都受影響
 
-The "lub" sound is called the **first heart sound**.
+## 心輸出量減少的代償反應
 
-The "dub" sound is called the **second heart sound**.
+當心輸出量下降時，身體會啟動多種代償機制來維持組織灌注：
 
-The normal pumping cycle of the heart is considered to start when the A-V valves close at the onset of ventricular systole.
+### 交感神經系統激活
 
-### The First Heart Sound Is Associated With Closure of A-V Valves
+心輸出量減少立即激活<span class="c-yellow">交感神經系統</span>：
 
-The main cause of the first heart sound is vibration of the taut valves immediately after closure.
+| 效應 | 結果 |
+|------|------|
+| 心率增加 | 心輸出量↑ |
+| 心肌收縮力增加 | 每搏輸出量↑ |
+| 靜脈收縮 | 中心靜脈壓↑ → 前負荷↑ |
+| 動脈收縮 | 維持血壓 |
 
-Vibration also occurs in the adjacent walls of the heart and major vessels around the heart.
+這些代償反應在急性心力衰竭中特別重要。
 
-In generating the first heart sound, contraction of the ventricles causes sudden backflow of blood against the A-V valves (tricuspid and mitral valves).
+### 腎臟反應和液體瀦留
 
-This causes them to close and bulge toward the atria.
+心輸出量減少導致腎臟灌注減少，引發：
 
-The chordae tendineae abruptly stop the back bulging.
+1. <span class="c-yellow">腎素-血管緊張素-醛固酮系統（RAAS）</span>激活
+2. 鈉和水瀦留
+3. 細胞外液量增加
+4. 循環血量增加
 
-The elastic tautness of the chordae tendineae and valves causes the back-surging blood to bounce forward again into each respective ventricle.
+### Frank-Starling機制
 
-This mechanism causes the blood and the ventricular walls, as well as the taut valves, to vibrate.
+根據<span class="c-cyan">Frank-Starling機制</span>，心臟前負荷增加（在一定範圍內）會導致心肌纖維拉長，增加心臟收縮力。
 
-Vibrating turbulence in the blood also occurs.
+這種代償可以暫時改善心輸出量。
 
-The vibrations travel through the adjacent tissues to the chest wall.
+然而，如果前負荷增加過度：
+- 左心衰竭時肺靜脈壓升高
+- 導致<span class="c-red">肺水腫</span>
+- 呼吸困難和缺氧
 
-There they can be heard as sound using a stethoscope.
+## 冠狀循環的基本特性
 
-### The Second Heart Sound Is Associated With Closure of the Aortic and Pulmonary Valves
+心臟是唯一在整個心跳週期都能從冠狀动脉获得血流供應的器官。
 
-The second heart sound results from sudden closure of the semilunar valves (aortic and pulmonary valves) at the end of systole.
+### 冠狀血流特點
 
-When the semilunar valves close, they bulge backward toward the ventricles.
+| 特性 | 數值 |
+|------|------|
+| 冠狀血流（安靜時） | 約250 ml/min |
+| 佔心輸出量百分比 | 約5% |
+| 左心室心肌耗氧量 | 約25%全身耗氧量 |
 
-Their elastic stretch recoils the blood back into the arteries.
+### 冠狀血流調節
 
-This causes a short period of reverberation of blood back and forth between the walls of the arteries and the semilunar valves.
+冠狀血流主要受以下因素調節：
 
-Reverberation also occurs between these valves and the ventricular walls.
+- **心肌代謝需求**：最重要的調節因素
+- **自動調節**：在一定血壓範圍內維持恆定血流
+- **神經因素**：交感神經增加血流，副交感神經減少血流
 
-The vibrations occurring in the arterial walls are then transmitted mainly along the arteries.
+### 冠狀血流特異性
 
-When vibrations of the vessels or ventricles come into contact with a sounding board such as the chest wall, they create sound that can be heard using a stethoscope.
+心內膜下心肌（尤其是左心室）在收縮期承受最高壓力，因此：
 
-### Duration and Pitch of First and Second Heart Sounds
+- 收縮期時這些區域的血流幾乎為零
+- 主要在舒張期灌注
+- 這使心內膜下心肌對缺血最敏感
 
-The duration of each heart sound is slightly more than 0.10 second.
+## 心肌功能障礙的影響
 
-The first sound is about 0.14 second.
+### 心室功能障礙
 
-The second sound is about 0.11 second.
+當心肌受損或功能障礙時：
 
-The reason for the shorter second sound is that the semilunar valves are tauter than the A-V valves. Taut valves vibrate for a shorter time than do the A-V valves.
+1. **泵血功能下降**：每搏輸出量和心輸出量減少
+2. **舒張功能障礙**：心室順應性降低，充盈受阻
+3. **心室擴大**：慢性情況下心室逐漸擴大
 
-The audible range of frequency (pitch) in the first and second heart sounds begins at the lowest frequency the ear can detect, about 40 cycles/sec. It goes up above 500 cycles/sec.
+### 心室功能曲線
 
-When a special electronic apparatus is used to record these sounds, a larger proportion of recorded sound is at frequencies and sound levels below the audible range, going down to 3 to 4 cycles/sec and peaking at about 20 cycles/sec.
+正常心室功能曲線：
+- X軸：LVEDP（左心室舒張末期壓）
+- Y軸：心輸出量或每搏作功
 
-For this reason, major portions of the heart sounds can be recorded electronically by phonocardiography, even though they cannot be heard with a stethoscope.
+在心臟衰竭時：
+- 曲線向右下移動
+- 相同LVEDP下心輸出量降低
 
-The second heart sound normally has a higher frequency than the first heart sound for two reasons:
+## 急性與慢性心臟衰竭
 
-1. The tautness of the semilunar valves in comparison with the much less taut A-V valves
-2. The greater elastic coefficient of the taut arterial walls, which provides the principal vibrating chambers for the second sound (compared with the much looser, less elastic ventricular chambers, which provide the vibrating system for the first heart sound)
+### 急性心臟衰竭
 
-Clinicians use these differences to distinguish special characteristics of the two respective sounds.
+急性發作，代償機制來不及充分啟動：
 
-### The Third Heart Sound Occurs at the Beginning of the Middle Third of Diastole
+- 突然心輸出量減少
+- 血壓可能下降
+- 需要立即醫療干預
 
-Occasionally, a weak, rumbling third heart sound is heard at the beginning of the middle third of diastole.
+### 慢性心臟衰竭
 
-A logical but unproved explanation is oscillation of blood back and forth between the walls of the ventricles, initiated by inrushing blood from the atria.
+逐漸進展，代償機制持續激活：
 
-This is analogous to running water from a faucet into a paper sack. The inrushing water reverberates back and forth between the walls of the sack, causing vibrations in its walls.
+- 心肌肥厚
+- 神經內分泌持續激活
+- 逐漸惡化
 
-The reason the third heart sound does not occur until the middle third of diastole is believed to be as follows: In the early part of diastole, the ventricles are not filled sufficiently to create even the small amount of elastic tension necessary for reverberation.
+#### 慢性心臟衰竭的神經內分泌惡性循環
 
-The frequency of this sound is usually so low that the ear cannot hear it. Yet it can often be recorded in the phonocardiogram.
+```
+心輸出量減少
+    ↓
+交感神經激活 + RAAS激活
+    ↓
+心率↑ + 血管收縮 + 鈉水瀦留
+    ↓
+心臟前負荷↑ + 後負荷↑
+    ↓
+心臟工作負擔↑ → 心肌進一步受損
+    ↓
+心輸出量進一步減少（惡性循環）
+```
 
-The third heart sound may be normally present in children, adolescents, and young adults. It generally indicates systolic heart failure in older adults.
+## 心臟衰竭分類
 
-### Atrial Contraction—Fourth Heart Sound
+### NYHA心功能分級
 
-An atrial heart sound can sometimes be recorded in the phonocardiogram. It can almost never be heard with a stethoscope because of its weakness and very low frequency (usually 20 cycles/sec or less).
+| 分級 | 描述 |
+|------|------|
+| I級 | 日常活動不引起症狀 |
+| II級 | 輕度活動引起症狀 |
+| III級 | 明顯活動引起症狀 |
+| IV級 | 休息時也有症狀 |
 
-This sound occurs when the atria contract. It is presumably caused by the inrush of blood into the ventricles, initiating vibrations similar to those of the third heart sound.
+## 治療原則
 
-A fourth heart sound is common in persons who derive benefit from atrial contraction for ventricular filling. This is a result of decreased ventricular wall compliance and increased resistance to ventricular filling.
+心臟衰竭的治療目標：
 
-A fourth heart sound is often heard in older patients with left ventricular hypertrophy.
+1. **減少心臟工作負擔**
+   - 臥床休息
+   - 血管擴張劑
 
-### Chest Surface Areas for Auscultation of Normal Heart Sounds
+2. **改善心臟泵血功能**
+   - 正性肌力藥物（如毛地黃）
+   - 利尿劑（減少前負荷）
 
-Listening to the sounds of the body, usually with the aid of a stethoscope, is called auscultation.
+3. **阻斷有害的神經內分泌激活**
+   - ACE抑制劑
+   - β受體阻斷劑
+   - 醛固酮拮抗劑
 
-Figure 23-2 shows the areas of the chest wall from which different heart valvular sounds can best be distinguished.
-
-Although sounds from all valves can be heard from all these areas, the cardiologist distinguishes them by a process of elimination: moving the stethoscope from one area to another and noting the loudness of the sounds in different areas. Sound components from each valve are gradually picked out.
-
-The areas for listening to different heart sounds are not directly over the valves themselves:
-
-- **Aortic area**: upward along the aorta (sound transmission up the aorta)
-- **Pulmonic area**: upward along the pulmonary artery (sound transmission up the pulmonary artery)
-- **Tricuspid area**: over the right ventricle
-- **Mitral area**: over the apex of the left ventricle
-
-The mitral area is over the portion of the heart nearest the surface of the chest. The heart is rotated so that the remainder of the left ventricle lies more posteriorly.
-
-### Phonocardiogram
-
-If a microphone specially designed to detect low-frequency sound is placed on the chest, the heart sounds can be amplified and recorded using a high-speed recording apparatus.
-
-The recording is called a phonocardiogram. Heart sounds appear as waves, as shown schematically in Figure 23-3.
-
-Recording A is an example of normal heart sounds, showing vibrations of the first, second, and third heart sounds. Even the very weak atrial sound is shown.
-
-Note specifically that the third and atrial heart sounds are each a very low rumble. The third heart sound can be recorded in only one-third to one-half of people. The atrial heart sound can be recorded in perhaps one-fourth of people.
-
-### Summary of Heart Sounds
-
-| Heart Sound | Timing | Cause | Frequency | Audible? |
-|-------------|--------|-------|-----------|----------|
-| S1 (First) | Beginning of systole | Closure of A-V valves; vibration of valves, chordae tendineae, ventricular walls | 40–500 cycles/sec (peak ~20) | Yes |
-| S2 (Second) | End of systole | Closure of semilunar valves; reverberation in arteries | Higher than S1 | Yes |
-| S3 (Third) | Early diastole (middle third) | Oscillation of ventricular walls from inrushing blood | Very low | Usually no (recordable) |
-| S4 (Fourth) | Late diastole (atrial contraction) | Inrush of blood from atrial contraction | Very low (~20 cycles/sec) | Rarely (recordable) |
-
-### Auscultation Sites
-
-| Valve | Location | Reason |
-|-------|----------|--------|
-| Mitral | Apex of left ventricle | Nearest chest surface |
-| Tricuspid | Over right ventricle | Sound transmission |
-| Aortic | Upward along aorta | Sound transmitted up aorta |
-| Pulmonic | Upward along pulmonary artery | Sound transmitted up pulmonary artery |
-
-> **Figure 23-1.** Amplitude of different frequency vibrations in heart sounds and heart murmurs in relationship to threshold of audibility. The range of sounds that can be heard is between 40 and 520 cycles/sec.
-
-> **Figure 23-2.** Chest areas from which sounds from each valve are heard best.
-
-> **Figure 23-3.** Phonocardiogram showing heart sounds.
+> **圖22-1.** 心臟衰竭時的代償機制。
+>
+> **圖22-2.** 心室功能曲線：正常與衰竭心臟的比較。
