@@ -1,4 +1,4 @@
-baseURL = "/guyton-notes/"
+baseURL = "/guyton/"
 locale = "en-us"
 theme = "PaperMod"
 
@@ -15,13 +15,13 @@ date = ["date", "publishDate", "lastmod"]
   [[menu.main]]
     identifier = "guyton"
     name = "Guyton 選單"
-    url = "/guyton-notes/guyton/"
+    url = "/guyton/guyton/"
     weight = 10
 
   [[menu.main]]
     identifier = "search"
     name = "搜尋"
-    url = "/guyton-notes/search/"
+    url = "/guyton/search/"
     weight = 20
 
 [outputs]
