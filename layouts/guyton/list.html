@@ -1,6 +1,6 @@
 {{ define "main" }}
 <header class="page-header">
-    <h1>Guyton &amp; Hall 生理學 章節清單</h1>
+    <h1>Guyton &amp; Hall 生理學章節清單</h1>
 </header>
 
 <div class="chapters-wrapper">
@@ -12,34 +12,29 @@
 {{ end }}
 
 {{ $groups := slice
-  (dict "name" "細胞與遺傳"      "items" (slice "CH01" "CH02" "CH03" "CH04" "CH05"))
-  (dict "name" "心臟與循環"      "items" (slice "CH06" "CH07" "CH08" "CH09" "CH10" "CH11" "CH12" "CH13"))
-  (dict "name" "血管與血液"      "items" (slice "CH14" "CH15" "CH16" "CH17" "CH18" "CH19" "CH20" "CH21" "CH22" "CH23" "CH24"))
-  (dict "name" "腎臟與體液"      "items" (slice "CH25" "CH26" "CH27" "CH28" "CH29" "CH30" "CH31" "CH32"))
-  (dict "name" "血液與免疫"      "items" (slice "CH33" "CH34" "CH35" "CH36" "CH37"))
-  (dict "name" "呼吸"            "items" (slice "CH38" "CH39" "CH40" "CH41" "CH42" "CH43" "CH44" "CH45"))
-  (dict "name" "神經系統"        "items" (slice "CH46" "CH47" "CH48" "CH49" "CH50" "CH51" "CH52" "CH53" "CH54"))
-  (dict "name" "神經系統 II"     "items" (slice "CH55" "CH56" "CH57" "CH58" "CH59" "CH60" "CH61" "CH62"))
-  (dict "name" "消化與代謝"      "items" (slice "CH63" "CH64" "CH65" "CH66" "CH67" "CH68" "CH69" "CH70" "CH71" "CH72" "CH73" "CH74"))
-  (dict "name" "內分泌"          "items" (slice "CH75" "CH76" "CH77" "CH78" "CH79" "CH80"))
-  (dict "name" "生殖與發育"      "items" (slice "CH81" "CH82" "CH83" "CH84" "CH85"))
+  (dict "name" "細胞與遺傳"     "items" (slice "CH01" "CH02" "CH03" "CH04" "CH05"))
+  (dict "name" "心臟與循環"     "items" (slice "CH06" "CH07" "CH08" "CH09" "CH10" "CH11" "CH12" "CH13"))
+  (dict "name" "血管與血液"     "items" (slice "CH14" "CH15" "CH16" "CH17" "CH18" "CH19" "CH20" "CH21" "CH22" "CH23" "CH24"))
+  (dict "name" "腎臟與體液"     "items" (slice "CH25" "CH26" "CH27" "CH28" "CH29" "CH30" "CH31" "CH32"))
+  (dict "name" "血液與免疫"     "items" (slice "CH33" "CH34" "CH35" "CH36" "CH37"))
+  (dict "name" "呼吸"           "items" (slice "CH38" "CH39" "CH40" "CH41" "CH42" "CH43" "CH44" "CH45"))
+  (dict "name" "神經系統"       "items" (slice "CH46" "CH47" "CH48" "CH49" "CH50" "CH51" "CH52" "CH53" "CH54"))
+  (dict "name" "神經系統 II"    "items" (slice "CH55" "CH56" "CH57" "CH58" "CH59" "CH60" "CH61" "CH62"))
+  (dict "name" "消化與代謝"     "items" (slice "CH63" "CH64" "CH65" "CH66" "CH67" "CH68" "CH69" "CH70" "CH71" "CH72" "CH73" "CH74"))
+  (dict "name" "內分泌"         "items" (slice "CH75" "CH76" "CH77" "CH78" "CH79" "CH80"))
+  (dict "name" "生殖與發育"     "items" (slice "CH81" "CH82" "CH83" "CH84" "CH85"))
 }}
 
 {{ range $groups }}
 <div class="chapter-group">
     <h3 class="group-title">{{ .name }}</h3>
-    <div class="group-chapters">
+    <div class="group-grid">
     {{ range .items }}
         {{ range where $chapters "num" . }}
-            <a href="{{ .url }}" class="chapter-item">
-                <div class="chapter-content">
-                    <div class="chapter-header">
-                        <span class="chapter-num">{{ .num }}</span>
-                        <span class="chapter-title">{{ .title }}</span>
-                        <span class="arrow">›</span>
-                    </div>
-                </div>
-            </a>
+        <a href="{{ .url }}" class="chapter-cell">
+            <span class="cell-num">{{ .num }}</span>
+            <span class="cell-title">{{ .title }}</span>
+        </a>
         {{ end }}
     {{ end }}
     </div>
@@ -47,4 +42,45 @@
 {{ end }}
 
 </div>
+
+<style>
+.chapter-group { margin-bottom: 2rem; }
+.group-title {
+    font-size: 1rem;
+    color: #3a86ff;
+    border-bottom: 1px solid #3a86ff;
+    padding-bottom: 4px;
+    margin-bottom: 8px;
+}
+.group-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 6px;
+}
+.chapter-cell {
+    display: flex;
+    gap: 8px;
+    padding: 6px 10px;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    text-decoration: none;
+    color: inherit;
+    align-items: baseline;
+}
+.chapter-cell:hover { border-color: #3a86ff; }
+.cell-num {
+    font-weight: bold;
+    color: #3a86ff;
+    white-space: nowrap;
+    font-size: 0.9rem;
+}
+.cell-title {
+    font-size: 0.85rem;
+    color: var(--primary);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+</style>
 {{ end }}
