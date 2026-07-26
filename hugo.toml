@@ -7,6 +7,10 @@ theme = "PaperMod"
     [markup.goldmark.renderer]
       unsafe = true
       commentHanlder = false
+  [markup.goldmark.extensions]
+    headingIDs = false
+  [markup.headingCrossReferences]
+    enable = false
   ignoreLogs = ["warning-goldmark-raw-html"]
 
 [frontmatter]

@@ -1,310 +1,432 @@
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH70"
-title: "蛋白質代謝"
+title: "Protein Metabolism"
 book: "Guyton & Hall"
-summary: "膳食蛋白質被消化成胺基酸並被吸收；血中胺基酸濃度被嚴格調節在35-65 mg/dL。肝臟是胺基酸代謝的主要場所，轉氨作用和氧化去氨作用移除氮以進行尿素合成。去氨後的胺基酸進入檸檬酸循環產生能量或用於新生葡萄糖生成和酮體生成。蛋白質的更新是持續性的，每天20-30克的強制降解需要膳食蛋白質補充。"
+summary: "Chapter 70 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
 key_points:
-  - "血中胺基酸濃度為35-65 mg/dL；吸收後5-10分鐘內過量胺基酸被肝臟快速清除"
-  - "10種必需胺基酸（酥胺酸、纈胺酸、色胺酸、異亮胺酸、白胺酸、苯丙胺酸、甲硫胺酸、賴胺酸、組織胺酸、精胺酸）無法在人體內充分合成，必須從食物獲取"
-  - "轉氨作用將胺基基轉移至α-酮戊二酸形成麩胺酸；氧化去氨作用釋放氨用於尿素合成"
-  - "尿素循環（2 NH₃ + CO₂ → H₂N-CO-NH₂ + 2 H₂O）幾乎完全在肝臟進行；肝衰竭導致氨累積和肝性昏迷"
-  - "新生葡萄糖生成將去氨胺基酸（尤其是丙胺酸和麩胺酸）轉化為葡萄糖；酮體生成將胺基酸碳轉化為酮體"
-  - "強制蛋白質流失為每天20-30克；維持氮平衡的最低膳食蛋白質需求為每天30-50克（建議60-75克/天）"
-  - "生長激素和胰島素促進蛋白質合成；糖皮質素促進蛋白質分解和新生葡萄糖生成；睪固酮增加肌肉蛋白質沉積"
+  - "Content extracted directly from official Guyton & Hall PDF source"
 ---
 
-## 蛋白質的基本結構
-
-### 肽鍵的形成
-
-在形成肽鍵的反應中：
-
-- 一個胺基酸的胺基團的氮與另一個胺基酸的羧基的碳鍵結
-- 氫離子從胺基團釋出
-- 氫氧離子從羧基釋出
-- 這兩個離子結合形成一分子的水
-
-肽鍵形成後：
-
-- 一端保留胺基團
-- 另一端保留羧基
-- 每個基團可以與額外的胺基酸結合形成肽鏈
-
-### 蛋白質分子的其他鍵結
-
-有些複雜的蛋白質分子由幾條肽鏈組成而不是單一鏈。
-
-這些鏈通過其他鍵結連接，通常是<span class="c-cyan">肽的CO和NH基團之間的氫鍵結合</span>。
-
-許多肽鏈是捲曲或折疊的。
-
-連續的捲曲或折疊通過氫鍵和其他力量維持。
-
-## 胺基酸的運輸與儲存
-
-### 血中胺基酸
-
-胺基酸在血中的正常濃度為<span class="c-yellow">35至65 mg/dL</span>。
-
-每種20種胺基酸的平均值約為<span class="c-yellow">2 mg/dL</span>。
-
-因為胺基酸是相對強的酸，它們主要存在於<span class="c-cyan">離子化狀態</span>。
-
-這來自於從NH₂基團移除一個氫原子。
-
-它們佔血中<span class="c-yellow">2至3毫當量</span>的負離子。
-
-### 吸收後胺基酸的命運
-
-蛋白質消化和吸收的產物幾乎完全是<span class="c-red">胺基酸</span>。
-
-很少有多肽或整個蛋白質分子直接吸收進入血液。
-
-飯後不久，血中胺基酸濃度上升，但通常只增加幾mg/dL。
-
-這是因為：
-
-1. **慢消化和吸收：** 蛋白質消化和吸收延長至2-3小時，每次只允許少量被吸收。
-
-2. **快速細胞攝取：** 進入血液後，胺基酸在5-10分鐘內被全身細胞特別是肝臟吸收。
-
-血中和組織液中幾乎從不累積高濃度胺基酸。
-
-更新率如此之快，以至於每小時可以有<span class="c-yellow">許多克蛋白質</span>從身體一部分運送到另一部分。
-
-### 胺基酸的主動運輸
-
-胺基酸分子太大，無法通過細胞膜孔隙輕易擴散。
-
-大量胺基酸只能通過<span class="c-red">主動運輸機制</span>進入細胞。
-
-## 必需與非必需胺基酸
-
-### 必需胺基酸
-
-人體可以從其他化合物合成大部分胺基酸。
-
-然而，<span class="c-red">10種必需胺基酸</span>無法在人體內充分合成，必須從食物獲取。
-
-| 胺基酸 | 類別 |
-|--------|------|
-| <span class="c-yellow">酥胺酸（Threonine）</span> | 必需 |
-| <span class="c-yellow">纈胺酸（Valine）</span> | 必需 |
-| <span class="c-yellow">色胺酸（Tryptophan）</span> | 必需 |
-| <span class="c-yellow">異亮胺酸（Isoleucine）</span> | 必需 |
-| <span class="c-yellow">白胺酸（Leucine）</span> | 必需 |
-| <span class="c-yellow">苯丙胺酸（Phenylalanine）</span> | 必需 |
-| <span class="c-yellow">甲硫胺酸（Methionine）</span> | 必需 |
-| <span class="c-yellow">賴胺酸（Lysine）</span> | 必需 |
-| <span class="c-yellow">組織胺酸（Histidine）</span> | 兒童必需 |
-| <span class="c-yellow">精胺酸（Arginine）</span> | 兒童必需 |
-
-### 非必需胺基酸
-
-| 胺基酸 | 類別 |
-|--------|------|
-| 丙胺酸（Alanine） | 非必需 |
-| 甘胺酸（Glycine） | 非必需 |
-| 脯胺酸（Proline） | 非必需 |
-| 麩胺酸（Glutamine） | 非必需 |
-| 天門冬胺酸（Asparagine） | 非必需 |
-| 絲胺酸（Serine） | 非必需 |
-| 半胱胺酸（Cysteine） | 非必需 |
-| 天門冬胺酸（Aspartic acid） | 非必需 |
-| 麩胺酸（Glutamic acid） | 非必需 |
-| 酪胺酸（Tyrosine） | 非必需 |
-
-## 去氨作用與尿素形成
-
-### 胺基酸的去氨作用
-
-<span class="c-red">去氨作用</span>是從胺基酸移除胺基團的過程。
-
-細胞中特別是肝臟中的過量胺基酸會誘導大量<span class="c-yellow">胺基轉移酶</span>的活化。
-
-這些是啟動大多數去氨作用的酶。
-
-去氨作用後，胺基團被轉移到α-酮戊二酸，形成<span class="c-cyan">麩胺酸</span>。
-
-麩胺酸然後可以經歷氧化去氨作用，釋放<span class="c-yellow">氨</span>。
-
-這個循環可以一次又一次地重複。
-
-### 肝臟的尿素形成
-
-去氨作用中釋放的氨幾乎完全通過轉化為<span class="c-red">尿素</span>從血液中移除。
-
-兩分子氨（NH₃）和一分子二氧化碳（CO₂）結合：
-
-```
-2 NH₃ + CO₂ → H₂N-CO-NH₂ + 2 H₂O
-(氨)           (二氧化碳)  (尿素)     (水)
-```
-
-人體形成的尿素幾乎全部<span class="c-yellow">在肝臟合成</span>。
-
-在肝臟缺失或嚴重肝病患者中，<span class="c-red">氨在血液中累積</span>。
-
-這是極毒的，特別是對腦。
-
-可能導致稱為<span class="c-red">肝性昏迷</span>的狀態。
-
-### 尿素形成的階段
-
-```
-Ornithine + CO₂ + NH₃
-         ↓ (+H₂O)
-      Citrulline（瓜胺酸）
-         ↓ (+NH₃, −H₂O)
-      Arginine（精胺酸）
-         ↓ (Arginase, +H₂O)
-      Urea（尿素）+ Ornithine（鳥胺酸）
-```
-
-形成後，尿素從肝細胞擴散到身體液體中。
-
-它<span class="c-yellow">由腎臟排泄</span>。
-
-## 去氨胺基酸的氧化
-
-### 氧化過程
-
-胺基酸一旦被去氨，所得的<span class="c-cyan">酮酸</span>可以被氧化以釋放能量。
-
-這種氧化通常涉及兩個過程：
-
-1. 酮酸被轉化為可以進入檸檬酸循環的物質。
-2. 該物質被循環降解，釋放能量，類似於來自碳水化合物和脂肪代謝的乙醯輔酶A。
-
-每克蛋白質氧化產生的ATP<span class="c-yellow">略少於</span>每克葡萄糖氧化產生的ATP。
-
-## 新生葡萄糖生成與酮體生成
-
-### 定義
-
-| 過程 | 說明 |
-|------|------|
-| <span class="c-red">新生葡萄糖生成</span> | 將胺基酸轉化為葡萄糖或肝糖 |
-| <span class="c-red">酮體生成</span> | 將胺基酸轉化為酮酸或脂肪酸 |
-
-### 胺基酸轉化能力
-
-| 結局 | 胺基酸數量 |
-|------|-----------|
-| 可轉化為葡萄糖 | <span class="c-yellow">18種</span> |
-| 可轉化為脂肪酸 | <span class="c-yellow">19種</span> |
-
-### 酮體生成的例子
-
-丙胺酸的命運：
-
-- 去氨後的丙胺酸變成<span class="c-cyan">丙酮酸</span>
-- 丙酮酸可以轉化為葡萄糖、肝糖或<span class="c-cyan">乙醯輔酶A</span>
-- 乙醯輔酶A可以聚合成<span class="c-yellow">乙醯乙酸</span>（酮體之一）
-
-## 蛋白質的強制降解
-
-### 每日蛋白質流失
-
-當一個人不吃蛋白質時，一定比例的體蛋白被降解成胺基酸，然後被去氨和氧化。
-
-這涉及每天<span class="c-yellow">20至30克蛋白質</span>。
-
-這稱為<span class="c-red">強制蛋白質流失</span>。
-
-為防止蛋白質淨流失，每天必須攝入至少<span class="c-yellow">20-30克蛋白質</span>。
-
-然而，通常建議<span class="c-yellow">每天60-75克</span>以確保安全。
-
-### 完全蛋白質與部分蛋白質
-
-膳食蛋白質中不同胺基酸的比例必須與身體組織中的比例匹配。
-
-這對於膳食蛋白質能夠完全用於新組織蛋白質是必要的。
-
-如果一種必需胺基酸濃度低，其他胺基酸就無法使用。
-
-細胞合成完整的蛋白質或根本不合成。
-
-無法使用的胺基酸被去氨和氧化。
-
-<span class="c-red">完全蛋白</span>具有適當的胺基酸比例（如蛋、肉）。
-
-<span class="c-red">部分或不完全蛋白</span>具有不同的比例，對營養的價值較低。
-
-### 飢餓的效應
-
-除20-30克的強制降解外，當有碳水化合物和脂肪可用時，身體用它們來提供能量。
-
-飢餓數週後，當碳水化合物和脂肪耗盡時，胺基酸被快速去氨和氧化用於能量。
-
-然後蛋白質快速降解——每天多達<span class="c-yellow">125克</span>。
-
-細胞功能迅速惡化。
-
-因為碳水化合物和脂肪被優先用於能量而不是蛋白質，它們被稱為<span class="c-cyan">蛋白質節約劑</span>。
-
-## 蛋白質代謝的激素調節
-
-### 生長激素
-
-<span class="c-red">生長激素</span>使組織蛋白增加。
-
-確切機制尚不完全理解，但主要由於：
-
-- 增加胺基酸通過細胞膜的運輸
-- 加速DNA和RNA轉錄和翻譯以進行蛋白質合成
-- 減少組織蛋白質的氧化
-
-### 胰島素
-
-胰島素完全缺乏將蛋白質合成降低到幾乎為零。
-
-<span class="c-red">胰島素</span>的作用：
-
-- 加速某些胺基酸進入細胞的運輸
-- 減少蛋白質降解
-- 增加葡萄糖可用性，減少胺基酸用於能量
-
-### 糖皮質素
-
-<span class="c-red">糖皮質素</span>（由腎上腺皮質分泌）：
-
-- 減少大多數組織中的蛋白質量
-- 增加血漿胺基酸濃度
-- 增加肝臟蛋白質和血漿蛋白質
-- 增加細胞外蛋白質的分解速率
-
-這使得大量胺基酸可用。
-
-肝臟然後可以合成肝細胞蛋白質和血漿蛋白質。
-
-### 睪固酮
-
-<span class="c-red">睪固酮</span>導致蛋白質沉積增加，特別是在肌肉中——<span class="c-yellow">增加30%-50%</span>。
-
-機制與生長激素不同：
-
-- <span class="c-cyan">生長激素</span>使組織幾乎無限地繼續生長
-- <span class="c-cyan">睪固酮</span>使肌肉和其他蛋白質組織只在幾個月內增大
-
-一旦達到最大肌肉大小，進一步的蛋白質沉積就停止，儘管繼續給予睪固酮。
-
-### 雌激素
-
-<span class="c-red">雌激素</span>導致一些蛋白質沉積。
-
-效果遠低於睪固酮。
-
-### 甲狀腺素
-
-<span class="c-red">甲狀腺素</span>增加細胞代謝。
-
-如果碳水化合物和脂肪對能量不足，甲狀腺素導致快速蛋白質降解並用蛋白質提供能量。
-
-如果能量來源和過量胺基酸充足，甲狀腺素可以增加蛋白質合成。
-
-在生長中的動物或人類中，甲狀腺素缺乏大大抑制生長，這是由於缺乏蛋白質合成。
-
-甲狀腺素對蛋白質代謝沒有特定作用，但通過增加合成和分解蛋白質反應的速率有重要的總體作用。
+UNIT XIII
+either inward or outward through the membranes only by 
+facilitated transport or <span class="c-yellow">active transport</span> using carrier mech-
+anisms. The nature of some of the carrier mechanisms is 
+not completely understood, but a few are discussed in 
+Chapter 4. 
+Renal Threshold for Amino Acids . In the kidneys, the 
+different amino acids that are filtered by the glomerular 
+capillaries can be reabsorbed through the proximal tubu -
+lar epithelium by secondary <span class="c-yellow">active transport</span>, which returns 
+them to the blood. However, as is true of other active trans-
+port mechanisms in the renal tubules, there is an upper 
+limit to the rate at which each type of amino acid can be 
+transported. For this reason, when the concentration of 
+a particular type of amino acid becomes too high in the 
+plasma and glomerular filtrate, the excess that cannot be 
+actively reabsorbed is lost into the urine. 
+Storage of Amino Acids as Proteins in the Cells
+After entry into tissue cells, amino acids combine with one 
+another by peptide linkages, under the direction of the cell’s 
+messenger RNA and ribosomal system, to form cellular 
+proteins. Therefore, the concentration of free amino acids 
+inside most cells usually remains low, and storage of large 
+quantities of free amino acids does not occur in the cells; 
+instead, they are stored mainly in the form of actual pro -
+teins. However, many of these intracellular proteins can be 
+rapidly decomposed again into amino acids under the in -
+fluence of intracellular lysosomal digestive enzymes. These 
+amino acids can then be transported back out of the cell 
+into the blood. Special exceptions to this reversal process 
+are the proteins in the chromosomes of the nucleus and the 
+structural proteins such as collagen and muscle contractile 
+proteins. These proteins do not participate significantly in 
+this reverse digestion and transport back out of the cells.
+Some tissues of the body participate in the storage of 
+amino acids to a greater extent than do others. For exam -
+ple, the liver, which is a large organ and has special sys -
+tems for processing amino acids, can store large quantities 
+of rapidly exchangeable proteins, which is also true of the 
+kidneys and the intestinal mucosa to a lesser extent.
+Amino Acid Release From Cells as a Means of Regulat-
+ing Plasma Amino Acid Concentration . Whenever plasma 
+amino acid concentrations fall below normal levels, the re-
+quired amino acids are transported out of the cells to re -
+plenish their supply in the plasma. In this way, the plasma 
+concentration of each type of amino acid is maintained at a 
+reasonably constant value. Some of the hormones secreted 
+by the endocrine glands are able to alter the balance between 
+tissue proteins and circulating amino acids. For example, 
+growth hormone and <span class="c-cyan">insulin</span> increase the formation of tis -
+sue proteins, whereas adrenocortical glucocorticoid hor -
+mones increase the concentration of plasma amino acids. 
+Reversible Equilibrium Between the Proteins in Differ-
+ent Parts of the Body. Because cellular proteins in the liver 
+(and, to a much less extent, in other tissues) can be synthe-
+sized rapidly from plasma amino acids, and because many 
+of these proteins can be degraded and returned to the plas-
+ma almost as rapidly, constant interchange and equilibrium 
+occurs between the plasma amino acids and labile proteins 
+in virtually all cells of the body. For example, if a particu -
+lar tissue requires proteins, it can synthesize new proteins 
+from amino acids of the blood; in turn, blood amino  acids 
+are replenished by degradation of proteins from other cells 
+of the body, especially from liver cells. These effects are 
+particularly noticeable in relation to protein synthesis in 
+cancer cells. Cancer cells are often prolific users of amino 
+acids; therefore, the proteins of the other cells can become 
+markedly depleted. 
+Upper Limit for the Storage of Proteins . Each type of 
+cell has an upper limit with regard to the amount of proteins 
+it can store. After all the cells have reached their limits, the 
+excess amino acids still in the circulation are degraded into 
+other products and used for energy, as discussed subse -
+quently, or they are converted to fat or glycogen and stored 
+in these forms. 
+Functional Roles of the Plasma Proteins
+The major types of protein present in the plasma are albu-
+min, globulin, and fibrinogen.
+A major function of albumin is to provide colloid os -
+motic pressure in the plasma, which prevents plasma loss 
+from the capillaries, as discussed in Chapter 16.
+The globulins perform several enzymatic functions in the 
+plasma, but equally important, they are principally respon-
+sible for both the natural and acquired immunity of the body 
+against invading organisms, as discussed in Chapter 35.
+Fibrinogen polymerizes into long fibrin threads during 
+blood coagulation, thereby forming blood clots that help repair 
+leaks in the circulatory system, as discussed in Chapter 37.
+Formation of the Plasma Proteins . Essentially all the 
+albumin and fibrinogen of the plasma proteins, as well as 
+50% to 80% of the globulins, are formed in the liver. The 
+remaining globulins, which are formed almost entirely in 
+lymphoid tissues, are mainly gamma globulins that consti -
+tute antibodies used in the immune system.
+The rate of plasma protein formation by the liver can 
+be extremely high—as much as 30 g/day. Certain disease 
+conditions cause rapid loss of plasma proteins; for example, 
+severe burns that denude large surface areas of the skin can 
+cause the loss of several liters of plasma through the denud-
+ed areas each day. The rapid production of plasma proteins 
+by the liver is valuable in preventing <span class="c-red">death</span> in such states. 
+Occasionally, a person with severe renal disease loses as 
+much as 20 grams of plasma protein in the urine each day 
+for months, and this plasma protein is continually replaced 
+mainly by liver production of the required proteins.
+In persons with cirrhosis of the liver , large numbers 
+of liver cells are destroyed and replaced by fibrous tis -
+sue, causing a reduction in the liver’s ability to synthesize 
+plasma proteins. As discussed in Chapter 25, liver cirrhosis 
+leads to decreased plasma colloid <span class="c-yellow">osmotic</span> pressure, which 
+causes generalized edema. 
+Plasma Proteins as a Source of Amino Acids for the Tis-
+sues. When the tissues become depleted of proteins, the 
+plasma proteins can act as a source of rapid replacement. 
+Indeed, whole plasma proteins can be imbibed in toto by 
+tissue macrophages through the process of pinocytosis; 
+once in these cells, they are split into amino acids that are 
+transported back into the blood and used throughout the 
+body to build cellular proteins wherever they are needed. 
+In this way, the plasma proteins function as a labile protein 
+storage medium and represent a readily available source of 
+amino acids whenever a particular tissue requires them. 
+
+UNIT XIII Metabolism and Temperature Regulation
+Reversible Equilibrium Between the Plasma Proteins 
+and the Tissue Proteins. As shown in Figure 70- 2, a con-
+stant state of equilibrium exists among the plasma proteins, 
+the amino acids of the plasma, and the tissue proteins. On 
+the basis of radioactive tracer studies, it has been estimated 
+that normally about 400 grams of body protein are synthe-
+sized and degraded each day as part of the continual state of 
+flux of amino acids, which demonstrates the general princi-
+ple of reversible exchange of amino acids among the differ-
+ent proteins of the body. Even during starvation or severe 
+debilitating diseases, the ratio of total tissue proteins to to-
+tal plasma proteins in the body remains relatively constant 
+at about 33:1.
+Because of this reversible equilibrium between plasma 
+proteins and the other proteins of the body, one of the most 
+effective therapies for severe, acute whole- body protein de-
+ficiency is intravenous transfusion of plasma protein. With-
+in a few days, or sometimes within hours, the amino acids 
+of administered protein are distributed throughout the cells 
+of the body to form new proteins as needed. 
+Essential and Nonessential Amino Acids . Ten of the 
+amino acids normally present in animal proteins can be 
+synthesized in the cells, whereas the other 10 either cannot 
+be synthesized or are synthesized in quantities too small to 
+supply the body’s needs. This second group of amino ac -
+ids that cannot be synthesized is called the essential amino 
+acids. Use of the word “essential” does not mean that the 
+other 10 “nonessential” amino acids are not required for the 
+formation of proteins but only that the others are not essen-
+tial in the diet because they can be synthesized in the body.
+Synthesis of the nonessential amino acids depends 
+mainly on the formation of appropriate α- keto acids, which 
+are the precursors of the respective amino acids. For ex -
+ample, pyruvic acid , which is formed in large quantities 
+during the glycolytic breakdown of glucose, is the keto acid 
+precursor of the amino acid alanine. Then, by the process 
+of transamination, an amino radical is transferred to the 
+α- keto acid, and the keto oxygen is transferred to the do -
+nor of the amino radical. This reaction is shown in Figure 
+70- 3. Note that alanine is formed after the amino radical is 
+transferred to the pyruvic acid from glutamic acid. Amino 
+radicals can be transferred from asparagine, aspartic acid,  
+and glutamine. Glutamine is present in the tissues in large 
+quantities, and one of its principal functions is to serve as 
+an amino radical storehouse.
+Note also that the reactions are reversible so that trans-
+fer of amino groups can also occur during degradation of 
+amino acids, as discussed later.
+Transamination is promoted by several enzymes, 
+among which are the aminotransferases, which are deriva-
+tives of pyridoxine, one of the B vitamins (B6). Without this 
+vitamin, the amino acids are poorly synthesized, and pro -
+tein formation cannot proceed normally. 
+Use of Proteins for Energy
+Once the cells are filled to their limits with stored protein, 
+any additional amino acids in the body fluids are degraded 
+and used for energy or are stored mainly as fat or second -
+arily as glycogen. This degradation occurs almost entirely 
+in the liver, and it begins with deamination, which is ex -
+plained in the following section.
+Deamination—Removal of Amino Groups From Amino 
+Acids. Deamination occurs mainly by transamination, 
+which means transfer of the amino group to some accep -
+tor substance. This process is the reverse of the process for 
+synthesis of amino acids, which was previously explained.
+The greatest amount of deamination occurs according 
+to the following transamination schema:
+/H9251-Ketoglutaric acid + Amino acid
+Glutamic acid + /H9251-Keto acid
++ NAD+ + H2O
+NADH + H+ + NH3
+Note from this illustration that the amino group from 
+the amino acid is transferred to α- ketoglutaric acid, which 
+then becomes glutamic acid. The glutamic acid can then 
+transfer the amino group to other substances or release 
+it in the form of ammonia (NH 3). In the process of losing 
+the amino group, the glutamic acid once again becomes 
+Tissue cellsTissue cells Liver cellsLiver cells
+Proteins
+Amino acids
+Proteins
+Amino acids
+Amino
+acids
+Amino
+acids ProteinsProteins
+Plasma proteinsPlasma proteins
+Imbibed plasma proteinImbibed plasma protein
+Reticuloendothelial cellReticuloendothelial cell
+Amino acidsAmino acids BloodBlood
+Figure 70- 2. Reversible equilibrium among the tissue proteins, plas-
+ma proteins, and plasma amino acids.
+(Glutamic acid) (Pyruvic acid)
+(/H9251-Ketoglutaric acid) (Alanine)
++
++
+O ONH2
+Aminotransferase
+(Transaminase)
+HO CH2 CH2 CHC COOH CH3 C COOH
+OO
+HO CH2 CH2 CC COOH
+NH2
+CH3 CH COOH
+Figure 70- 3. Synthesis of alanine from pyruvic acid by transamination.
+
+UNIT XIII
+ α- ketoglutaric acid, so the cycle can be repeated again and 
+again. To initiate this process, the excess amino acids in the 
+cells, especially in the liver, induce activation of large quan-
+tities of aminotransferases, the enzymes responsible for ini-
+tiating most deamination. 
+Urea Formation by the Liver . The ammonia released 
+during deamination of amino acids is removed from the 
+blood almost entirely by conversion into urea. Two mol -
+ecules of ammonia (NH 3) and one molecule of carbon di -
+oxide (CO2) combine in the following net reaction:
+2NH32 22 2CO HN CN HH O
+O
++→ −− −− +
+||
+Essentially all urea formed in the human body is synthe-
+sized in the liver. In the absence of the liver or in persons with 
+serious liver disease, ammonia accumulates in the blood. 
+This accumulation of ammonia is extremely toxic, especially 
+to the brain, and can lead to a state called hepatic <span class="c-red">coma</span>.
+The stages in the formation of urea are essentially the 
+following:
+Ornithine + CO2 + NH3
+Citrulline
+Arginine
+(Arginase)
++H2O
+−H2O
+−H2O
+NH3
+Urea
+After its formation, the urea diffuses from the liver cells 
+into the body fluids and is excreted by the kidneys. 
+Oxidation of Deaminated Amino Acids . Once amino 
+acids have been deaminated, the resulting keto acids can, 
+in most cases, be oxidized to release energy for metabolic 
+purposes. This oxidation usually involves two successive 
+processes:
+ 1.  The keto acid is changed into an appropriate chemi-
+cal substance that can enter the citric acid cycle.
+ 2.  This substance is degraded by the cycle and used for 
+energy in the same manner that acetyl coenzyme A 
+(acetyl- CoA) derived from carbohydrate and lipid me-
+tabolism is used, as explained in Chapters 68 and 69.
+In general, the amount of <span class="c-cyan">adenosine triphosphate</span> 
+formed for each gram of protein that is oxidized is slightly 
+less than that formed for each gram of glucose that is oxi -
+dized. 
+Gluconeogenesis and Ketogenesis . Certain deaminat-
+ed amino acids are similar to the substrates normally used 
+by the cells, mainly the liver cells, to synthesize glucose 
+or fatty acids. For example, deaminated alanine is pyruvic 
+acid, which can be converted into either glucose or gly -
+cogen. Alternatively, it can be converted into acetyl- CoA, 
+which can then be polymerized into fatty acids. Also, two 
+molecules of acetyl- CoA can condense to form acetoacetic 
+acid, which is one of the ketone bodies, as explained in 
+Chapter 69.
+The conversion of amino acids into glucose or glycogen 
+is called gluconeogenesis, and the conversion of amino acids 
+into keto acids or fatty acids is called ketogenesis. Of the 20 
+deaminated amino acids, 18 have chemical structures that 
+allow them to be converted into glucose, and 19 of them 
+can be converted into fatty acids. 
+Obligatory Degradation of Proteins
+When a person eats no proteins, a certain proportion of body 
+proteins is degraded into amino acids and then deaminated 
+and oxidized. This process involves 20 to 30 grams of protein 
+each day, which is called the obligatory loss of proteins. There-
+fore, to prevent net loss of protein from the body, the average 
+person must ingest a minimum of 20 to 30 grams of protein 
+each day, although this amount depends on multiple factors, 
+including muscle mass, activity, and age; to be on the safe 
+side, a minimum of 60 to 75 grams is usually recommended.
+The ratios of the different amino acids in the dietary 
+protein must be about the same as the ratios in the body 
+tissues if the entire dietary protein is to be fully usable to 
+form new tissue proteins. If one particular type of essen -
+tial amino acid is low in concentration, the others become 
+unusable because cells synthesize either whole proteins or 
+none at all, as explained in Chapter 3 in relation to protein 
+synthesis. The unusable amino acids are deaminated and 
+oxidized. A protein that has a ratio of amino acids differ -
+ent from that of the average body protein is called a partial 
+protein or an incomplete protein, and such a protein is less 
+valuable for nutrition than is a complete protein.
+Effect of Starvation on Protein Degradation. Except for 
+the 20 to 30 grams of obligatory protein degradation each 
+day, the body uses almost entirely carbohydrates or fats for 
+energy, as long as they are available. However, after several 
+weeks of starvation, when the quantities of stored carbo -
+hydrates and fats begin to run out, the amino acids of the 
+blood are rapidly deaminated and oxidized for energy. From 
+this point on, the proteins of the tissues degrade rapidly—as 
+much as 125 grams daily—and, as a result, cellular functions 
+deteriorate precipitously. Because carbohydrate and fat uti-
+lization for energy normally occurs in preference to protein 
+utilization, carbohydrates and fats are called protein sparers. 
+Hormonal Regulation of Protein Metabolism
+Growth Hormone Increases the Synthesis of Cellular 
+Proteins. Growth hormone causes the tissue proteins to 
+increase. The precise mechanism by which this increase 
+occurs is not fully understood, but it is believed to result 
+mainly from increased transport of amino acids through 
+the cell membranes, acceleration of the DNA and RNA 
+transcription and translation processes for protein synthe -
+sis, and decreased oxidation of tissue proteins. 
+<span class="c-cyan">Insulin</span> Is Necessary for Protein Synthesis. Total lack of 
+<span class="c-cyan">insulin</span> reduces protein synthesis to almost zero. <span class="c-cyan">Insulin</span> ac-
+celerates transport of some amino acids into cells, which 
+could be the stimulus for protein synthesis. Also, <span class="c-cyan">insulin</span> re-
+duces protein degradation and increases the availability of 
+glucose to the cells, so the need for amino acids for energy 
+is correspondingly reduced. 
+Glucocorticoids Increase Breakdown of Most Tissue 
+Proteins. Glucocorticoids secreted by the adrenal cor -
+tex decrease the quantity of protein in most tissues while 
+
+UNIT XIII Metabolism and Temperature Regulation
+ increasing amino acid concentration in the plasma, as well 
+as increasing liver proteins and plasma proteins.  Gluco -
+corticoids increase the rate of breakdown of extrahepatic 
+proteins, thereby making increased quantities of amino 
+acids available in the body fluids. This allows the liver to 
+synthesize increased quantities of hepatic cellular proteins 
+and plasma proteins. 
+Testosterone Increases Protein Deposition in Tis -
+sues. Testosterone, the male sex hormone, causes in -
+creased deposition of protein in tissues throughout the 
+body, especially the contractile proteins of the muscles 
+(a 30%−50% increase). The mechanism of this effect is 
+unknown, but it is definitely different from the effect of 
+growth hormone, in the following way: Growth hormone 
+causes tissues to continue growing almost indefinitely, 
+whereas testosterone causes the muscles and, to a much 
+lesser extent, some other protein tissues to enlarge for 
+only several months. Once the muscles and other pro -
+tein tissues have reached a maximum, despite continued 
+administration of testosterone, further protein deposi -
+tion ceases.  
+Estrogen. Estrogen, the principal female sex hormone, 
+also causes some deposition of protein, but the effect of 
+estrogen is much less compared with that of testosterone. 
+Thyroxine Increases Metabolism of Cells. Thyroxine in-
+directly affects protein metabolism by increasing metabo -
+lism of the cells. If insufficient carbohydrates and fats are 
+available for energy, thyroxine causes rapid degradation of 
+proteins and uses them for energy. Conversely, if adequate 
+quantities of carbohydrates and fats are available and excess 
+amino acids are also available in the extracellular fluid, thy-
+roxine can actually increase the rate of protein synthesis. In 
+growing animals or human beings, deficiency of thyroxine 
+causes growth to be greatly <span class="c-green">inhibit</span>ed because of lack of pro-
+tein synthesis. In essence, it is believed that thyroxine has 
+little specific effect on protein metabolism but does have 
+an important general effect by increasing the rates of both 
+normal anabolic and normal catabolic protein reactions.
+Bibliography
+Bröer S, Fairweather SJ: Amino acid transport across the mammalian 
+intestine. Compr Physiol 9:343, 2018.
+Bröer S, Bröer A: Amino acid <span class="c-yellow">homeostasis</span> and signalling in mamma -
+lian cells and organisms. Biochem J 474:1935, 2017.
+Finn PF, Dice JF: Proteolytic and lipolytic responses to starvation. Nu -
+trition 22:830, 2006.
+Hawley JA, Burke LM, Phillips SM, Spriet LL: Nutritional modulation 
+of training- induced skeletal muscle adaptations. J Appl Physiol 
+110:834, 2011.
+Kandasamy P, Gyimesi G, Kanai Y, Hediger MA: Amino acid trans -
+porters revisited: new views in health and disease. Trends Biochem 
+Sci 43:752, 2018.
+Kaur J, Debnath J: Autophagy at the crossroads of catabolism and 
+anabolism. Nat Rev Mol Cell Biol 16:461, 2015.
+Mann GE, Yudilevich DL, Sobrevia L: Regulation of amino acid and 
+glucose transporters in endothelial and smooth muscle cells. Phys-
+iol Rev 83:183, 2003.
+Pencharz PB, Elango R, Wolfe RR: Recent developments in under -
+standing protein needs -  how much and what kind should we eat? 
+Appl Physiol Nutr Metab 41:577, 2016.
+Rossetti ML, Steiner JL, Gordon BS: Androgen- mediated regulation 
+of skeletal muscle protein balance. Mol Cell Endocrinol 447:35, 
+2017.
+Tavernarakis N: Ageing and the regulation of protein synthesis: a bal-
+ancing act? Trends Cell Biol 18:228, 2008.
+Vandenberg RJ, Ryan RM: Mechanisms of <span class="c-cyan">glutamate</span> transport. Phys-
+iol Rev 93:1621, 2013.
+Wolfe RR: The 2017 Sir David P Cuthbertson lecture. Amino acids 
+and muscle protein metabolism in critical care. Clin Nutr 37:1093, 
+2018.
+Wolfe RR, Cifelli AM, Kostas G, Kim IY: Optimizing protein intake in 
+adults: Interpretation and application of the recommended dietary 
+allowance compared with the acceptable macronutrient distribu -
+tion range. Adv Nutr 8:266, 2017.
