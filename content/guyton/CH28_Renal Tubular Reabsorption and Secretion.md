@@ -3,208 +3,2484 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH28"
 title: "Renal Tubular Reabsorption and Secretion"
 book: "Guyton & Hall"
-summary: "This chapter details the mechanisms of tubular reabsorption and secretion, explaining how the kidneys reabsorb more than 99% of the filtered water and solutes while selectively excreting waste products. It covers primary and secondary active transport, passive diffusion, and osmosis as transport mechanisms, and describes how substances can move via transcellular or paracellular pathways across the tubular epithelium."
+summary: "Chapter 28 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
 key_points:
-  - "Primary active transport (e.g., Na+-K+ ATPase) directly uses ATP to move solutes against electrochemical gradients, while secondary active transport couples solute movement to ion gradients established by primary active transport"
-  - "Glucose is almost 100% reabsorbed in the proximal tubule via SGLT2 (low affinity, high capacity) and SGLT1 (high affinity, low capacity) sodium-glucose cotransporters, so normal urine contains no glucose"
-  - "Sodium is reabsorbed throughout the nephron via primary active transport (Na+-K+ ATPase), with proximal tubule reabsorbing ~65%, loop of Henle ~25%, and distal segments ~10% of filtered sodium"
-  - "Filtration fraction (FF) = GFR/RPF ≈ 0.19 (19%), meaning about one-fifth of plasma is filtered; this ratio is clinically important in understanding renal clearance calculations"
-  - "Clearance comparisons with inulin: if clearance < inulin clearance, net reabsorption occurred; if clearance > inulin clearance, net secretion occurred; glucose clearance is normally 0 (completely reabsorbed), while creatinine clearance exceeds GFR due to secretion"
+  - "Content extracted directly from official Guyton & Hall PDF source"
 ---
 
-## TUBULAR REABSORPTION INCLUDES PASSIVE AND ACTIVE MECHANISMS
-
-For a substance to be reabsorbed, it must first be transported across the tubular epithelial membranes into the renal interstitial fluid.
-
-Then it must be transported through the peritubular capillary membrane back into the blood.
-
-Reabsorption of water and solutes includes a series of transport steps.
-
-Reabsorption across the tubular epithelium into the interstitial fluid includes active or passive transport.
-
-These use the same basic mechanisms discussed in Chapter 4 for transport across other cell membranes of the body.
-
-Water and solutes can be transported through the cell membranes (transcellular route).
-
-Or they can be transported through the spaces between the cell junctions (paracellular route).
-
-After absorption across the tubular epithelial cells into the interstitial fluid, water and solutes are transported through the peritubular capillary walls into the blood.
-
-This occurs by ultrafiltration (bulk flow) mediated by hydrostatic and colloid osmotic forces.
-
-The peritubular capillaries behave like the venous ends of most other capillaries.
-
-This is because there is a net reabsorptive force that moves the fluid and solutes from the interstitium into the blood.
-
-## ACTIVE TRANSPORT
-
-Active transport can move a solute against an electrochemical gradient.
-
-This requires energy derived from metabolism.
-
-### Primary Active Transport
-
-Transport that is coupled directly to an energy source, such as the hydrolysis of adenosine triphosphate (ATP), is termed primary active transport.
-
-An example is the sodium-potassium adenosine triphosphatase (ATPase) pump (Na+-K+ ATPase pump).
-
-This pump functions throughout most parts of the renal tubule.
-
-### Secondary Active Transport
-
-Transport that is coupled indirectly to an energy source, such as that due to an ion gradient, is referred to as secondary active transport.
-
-Reabsorption of glucose by the renal tubule is an example of secondary active transport.
-
-Although solutes can be reabsorbed by active and/or passive mechanisms by the tubule, water is always reabsorbed passively.
-
-Water moves across the tubular epithelial membrane by the process of osmosis.
-
-### Solutes Can Be Transported Through Epithelial Cells or Between Cells
-
-Renal tubular cells, like other epithelial cells, are held together by tight junctions.
-
-Lateral intercellular spaces lie behind the tight junctions.
-
-These separate the epithelial cells of the tubule.
-
-Solutes can be reabsorbed or secreted across the cells through the transcellular pathway.
-
-Or they can move between the cells by passing through the tight junctions and intercellular spaces via the paracellular pathway.
-
-Sodium is a substance that moves through both routes.
-
-Most sodium is transported through the transcellular pathway.
-
-In some nephron segments, especially the proximal tubule, water is also reabsorbed across the paracellular pathway.
-
-Substances dissolved in the water, especially potassium, magnesium, and chloride ions, are carried with the reabsorbed fluid between the cells.
-
-### Primary Active Transport Through the Tubular Membrane Linked to Hydrolysis of Adenosine Triphosphatase
-
-The special importance of primary active transport is that it can move solutes against an electrochemical gradient.
-
-The energy for this active transport comes from the hydrolysis of ATP by way of membrane-bound ATPase.
-
-ATPase is also a component of the carrier mechanism that binds and moves solutes across the cell membranes.
-
-The primary active transporters in the kidneys that are known include:
-
-- Na+-K+ ATPase
-- Hydrogen ATPase
-- Hydrogen-potassium ATPase
-- Calcium ATPase
-
-### Example: Reabsorption of Sodium Ions Across the Proximal Tubular Membrane
-
-A good example of primary active transport is the reabsorption of sodium ions across the proximal tubular membrane.
-
-This is shown in Figure 28-2.
-
-## FILTRATION FRACTION IS CALCULATED FROM GFR DIVIDED BY RPF
-
-To calculate the filtration fraction, which is the fraction of plasma that filters through the glomerular membrane, one must first know the RPF (PAH clearance) and the GFR (inulin clearance).
-
-If the RPF is 650 ml/min and the GFR is 125 ml/min:
-
-```
-FF = GFR/RPF = 125/650 = 0.19
-```
-
-The filtration fraction (FF) is approximately 0.19 (19%).
-
-This means about one-fifth of plasma is filtered.
-
-## CALCULATION OF TUBULAR REABSORPTION OR SECRETION FROM RENAL CLEARANCES
-
-If the rates of glomerular filtration and renal excretion of a substance are known, one can calculate whether there is net reabsorption or net secretion.
-
-If the rate of excretion of the substance (Us × V) is less than the filtered load of the substance (GFR × Ps), then some of the substance must have been reabsorbed from the renal tubules.
-
-Conversely, if the excretion rate of the substance is greater than its filtered load, then the rate at which it appears in the urine represents:
-
-- The rate of glomerular filtration
-- Plus tubular secretion
-
-### Example: Calculation of Tubular Reabsorption
-
-Assume the following laboratory values for a patient were obtained:
-
-- Urine flow rate (V) = 1 ml/min
-- Urine concentration of sodium (UNa) = 70 mEq/L = 70 μEq/ml
-- Plasma sodium concentration = 140 mEq/L = 140 μEq/ml
-- GFR (inulin clearance) = 100 ml/min
-
-**Filtered sodium load** = GFR × PNa = 100 ml/min × 140 μEq/ml = 14,000 μEq/min
-
-**Urinary sodium excretion** (UNa × urine flow rate) = 70 μEq/ml × 1 ml/min = 70 μEq/min
-
-**Tubular reabsorption of sodium** = Filtered load − Urinary excretion = 14,000 − 70 = 13,930 μEq/min
-
-## CALCULATION OF TOTAL BLOOD FLOW THROUGH THE KIDNEYS
-
-One can calculate the total blood flow through the kidneys from the total RPF and hematocrit.
-
-If the hematocrit is 0.45 and the total RPF is 650 ml/min, the total blood flow through both kidneys is:
-
-```
-Total blood flow = RPF / (1 − Hematocrit) = 650 / (1 − 0.45) = 1182 ml/min
-```
-
-## COMPARISONS OF INULIN CLEARANCE WITH CLEARANCES OF DIFFERENT SOLUTES
-
-The following generalizations can be made by comparing the clearance of a substance with the clearance of inulin:
-
-1. If the clearance rate of the substance equals that of inulin, the substance is only filtered and not reabsorbed or secreted
-2. If the clearance rate of a substance is less than inulin clearance, the substance must have been reabsorbed by the nephron tubules
-3. If the clearance rate of a substance is greater than that of inulin, the substance must be secreted by the nephron tubules
-
-### Approximate Clearance Rates for Some Substances
-
-| Substance | Clearance Rate (ml/min) | Interpretation |
-|-----------|----------------------|----------------|
-| Glucose | 0 | Completely reabsorbed |
-| Sodium | 0.9 | Mostly reabsorbed |
-| Chloride | 1.3 | Mostly reabsorbed |
-| Potassium | 12.0 | Mostly reabsorbed, some secreted |
-| Phosphate | 25.0 | Mostly reabsorbed |
-| Inulin | 125.0 | Gold standard for GFR (filtered only) |
-| Creatinine | 140.0 | Filtered + secreted |
-
-### Interpretation of Clearance Values
-
-- **Clearance < Inulin clearance**: Net reabsorption occurred
-- **Clearance > Inulin clearance**: Net secretion occurred
-- **Clearance = Inulin clearance**: Only filtered, neither reabsorbed nor secreted
-
-### Special Cases
-
-- **Glucose clearance is normally 0**: Completely reabsorbed, no glucose in urine
-- **Creatinine clearance exceeds GFR**: Creatinine is secreted by the tubules in addition to being filtered
-
-## SUMMARY OF TRANSPORT MECHANISMS
-
-### Types of Tubular Transport
-
-| Type | Energy Source | Example |
-|------|-------------|---------|
-| Primary active transport | Direct ATP hydrolysis | Na+-K+ ATPase |
-| Secondary active transport | Ion gradient (established by primary active transport) | Glucose reabsorption (SGLT) |
-| Passive transport (diffusion) | Concentration or electrochemical gradient | Urea reabsorption |
-| Osmosis | Water potential gradient | Water reabsorption |
-
-### Pathways for Reabsorption
-
-| Pathway | Description | Substances |
-|---------|-------------|------------|
-| Transcellular | Through tubular epithelial cells | Most sodium, glucose, amino acids |
-| Paracellular | Between cells through tight junctions | Some sodium, water, potassium, magnesium, chloride |
-
-### Reabsorption by Nephron Segment
-
-| Segment | Primary Function |
-|---------|-----------------|
-| Proximal tubule | Reabsorbs ~65% of filtered sodium, water, and most nutrients |
-| Loop of Henle | Reabsorbs ~25% of filtered sodium; concentrates or dilutes tubular fluid |
-| Distal tubule | Fine-tuning of sodium and water reabsorption |
-| Collecting duct | Final adjustment of water and sodium balance |
+UNIT V
+basolateral sides of the tubular epithelial cell, the cell 
+membrane has an extensive Na +- K+ ATPase system that 
+hydrolyzes <span class="c-cyan">ATP</span> and uses the released energy to trans -
+port sodium ions out of the cell into the interstitium. 
+At the same time, potassium is transported from the 
+interstitium to the inside of the cell. The operation of 
+this ion pump maintains low intracellular sodium and 
+high intracellular potassium concentrations and cre -
+ates a net negative charge of about −70 millivolts within 
+the cell. This active pumping of sodium out of the cell 
+across the basolateral membrane of the cell favors pas -
+sive  diff usion of sodium across the luminal membrane 
+of the cell, from the tubular lumen into the cell, for two 
+reasons: (1) there is a concentration gradient favoring 
+sodium diffusion into the cell because the intracellular 
+sodium concentration is low (12 mEq/L) and tubular 
+fluid sodium concentration is high (140 mEq/L); and 
+(2) the negative, −70-  millivolt , intracellular poten -
+tial attracts the positive sodium ions from the tubular 
+lumen into the cell.
+Active reabsorption of sodium by Na
++- K+ ATPase 
+occurs in most parts of the tubule. In certain parts of the 
+nephron, there are also additional provisions for moving 
+large amounts of sodium into the cell. In the proximal 
+tubule, there is an extensive brush border on the lumi-
+nal side of the membrane (the side that faces the tubular 
+lumen) that multiplies the surface area by about 20-  f old. 
+There are also carrier proteins that bind sodium ions on 
+the luminal surface of the membrane and release them 
+inside the cell, providing <span class="c-yellow">facilitated diffusion</span> of sodium 
+through the membrane into the cell. These sodium carrier 
+proteins are also important for secondary <span class="c-yellow">active transport</span> 
+of other substances, such as glucose and amino acids, as 
+discussed later.
+Thus, the net reabsorption of sodium ions from the 
+tubular lumen back into the blood involves at least three 
+steps:
+ 1.   S odium diffuses across the luminal membrane (also 
+called the apical membrane) into the cell down an 
+electrochemical gradient established by the Na
++- K+ 
+ATPase pump on the basolateral side of the mem -
+brane.
+ 2.   S odium is transported across the basolateral mem -
+brane against an electrochemical gradient by the 
+Na
++- K+ ATPase pump.
+ 3 .   S odium, water, and other substances are reabsorbed 
+from the interstitial fluid into the peritubular capillar-
+ies by ultrafiltration, a passive process driven by the 
+hydrostatic and colloid <span class="c-yellow">osmotic</span> pressure gradients. 
+Secondary Active Reabsorption Through the Tubular 
+Membrane. In secondary <span class="c-yellow">active transport</span>, two or more 
+substances interact with a specific membrane protein (a 
+carrier molecule) and are transported together across the 
+membrane. As one of the substances (e.g., sodium) dif -
+fuses down its electrochemical gradient, the energy re-
+leased is used to drive another substance (e.g., glucose) 
+against its electrochemical gradient. Thus, secondary ac -
+tive transport does not require energy directly from <span class="c-cyan">ATP</span> 
+or from other high- ener gy phosphate sources. Rather, the 
+direct source of the energy is that liberated by the simul -
+taneous <span class="c-yellow">facilitated diffusion</span> of another transported sub -
+stance down its own electrochemical gradient.
+Figure 28- 3 shows secondary <span class="c-yellow">active transport</span> of glu -
+cose and amino acids in the <span class="c-pink">proximal tubule</span>. In both 
+cases, specific carrier proteins in the brush border com -
+bine with a sodium ion and an amino acid or a glucose 
+molecule at the same time. These transport mechanisms 
+are so efficient that they remove virtually all the glucose 
+and amino acids from the tubular lumen. After entry into 
+the cell, glucose and amino acids exit across the basolat -
+eral membranes by diffusion, driven by the high glucose 
+and amino acid concentrations in the cell facilitated by 
+specific transport proteins.
+Sodium glucose co- tr ansporters (SGLT2 and SGLT1) are 
+located on the brush border of proximal tubular cells and 
+carry glucose into the cell cytoplasm against a concentra-
+tion gradient, as described previously. Approximately 90% 
+of the filtered glucose is reabsorbed by SGLT2 in the early 
+part of the <span class="c-pink">proximal tubule</span> (S1 segment), and the residual 
+10% is transported by SGLT1 in the latter segments of 
+the <span class="c-pink">proximal tubule</span>. On the basolateral side of the mem -
+brane, glucose diffuses out of the cell into the interstitial 
+spaces with the help of glucose transporters—GLUT2 in 
+the S1 segment and GLUT1 in the latter part (S3 segment) 
+of the <span class="c-pink">proximal tubule</span>.
+Although transport of glucose against a chemical gradi-
+ent does not directly use <span class="c-cyan">ATP</span> , the reabsorption of glucose 
+depends on energy expended by the primary active Na
++- 
+K+ ATPase pump in the basolateral membrane. Because of 
+the activity of this pump, an electrochemical gradient for 
+Peritubular
+<span class="c-pink">capillary</span>
+Tubular
+epithelial cells
+Basement
+membrane
+Tight junction
+Intercellular spaceInterstitial
+fluid
+Tubular
+lumen
+(–3 mV)
+(–70 mV)
+Brush border
+(luminal
+membrane)
+Basal
+channels
+<span class="c-cyan">ATP</span>
+<span class="c-cyan">ATP</span> Na
++
+Na+
+Na+
+K+
+K+
+Figure 28- 2 Basic mechanism for <span class="c-yellow">active transport</span> of sodium through 
+the tubular epithelial cell. The sodium- potassium pump transports so-
+dium from the interior of the cell across the basolateral membrane, 
+creating a low intracellular sodium concentration and a negative in -
+tracellular electrical potential. The low intracellular sodium concen -
+tration and negative electrical potential cause sodium ions to diffuse 
+from the tubular lumen into the cell through the brush border.
+
+UNIT V The Body Fluids and Kidneys
+<span class="c-yellow">facilitated diffusion</span> of sodium across the luminal mem -
+brane is maintained, and it is this downhill diffusion of 
+sodium to the interior of the cell that provides the energy 
+for the simultaneous uphill transport of glucose across the 
+luminal membrane. Thus, this reabsorption of glucose is 
+referred to as secondary <span class="c-yellow">active transport</span> because glucose 
+itself is reabsorbed uphill against a chemical gradient, but 
+it is secondary to primary <span class="c-yellow">active transport</span> of sodium.
+Another important point is that a substance is said to 
+undergo <span class="c-yellow">active transport</span> when at least one of the steps 
+in the reabsorption involves primary or secondary active 
+transport, even though other steps in the reabsorption 
+process may be passive. For glucose reabsorption, sec -
+ondary <span class="c-yellow">active transport</span> occurs at the luminal membrane, 
+but passive <span class="c-yellow">facilitated diffusion</span> occurs at the basolateral 
+membrane, and passive uptake by bulk flow occurs at the 
+peritubular capillaries. 
+Secondary Active Secretion Into the Tubules. Some 
+substances are secreted into the tubules by secondary ac-
+tive transport, which often involves counter- transport of 
+the substance with sodium ions. In counter- transp ort, the 
+energy liberated from the downhill movement of one of 
+the substances (e.g., sodium ions) enables the uphill move-
+ment of a second substance in the opposite direction.
+One example of counter-  transp ort, shown in Figure 
+28- 3, is the active secretion of hydrogen ions coupled 
+to sodium reabsorption in the luminal membrane of the 
+<span class="c-pink">proximal tubule</span>. In this case, sodium entry into the cell is 
+coupled with hydrogen extrusion from the cell by sodium- 
+hydrogen counter- transp ort. This transport is mediated 
+by a specific protein (sodium- hydrogen exchanger) in the 
+brush border of the luminal membrane. As sodium is car-
+ried to the interior of the cell, hydrogen ions are forced 
+outward in the opposite direction into the tubular lumen. 
+The basic principles of primary and secondary active 
+transport are discussed in Chapter 4. 
+Pinocytosis Is an <span class="c-yellow">Active Transport</span> Mechanism for Re-
+absorption of Proteins. Some parts of the tubule, espe-
+cially the <span class="c-pink">proximal tubule</span>, reabsorb large molecules such as 
+proteins via pinocytosis, a type of endocytosis. In this pro-
+cess, the protein attaches to the brush border of the luminal 
+membrane, and this portion of the membrane then invagi-
+nates to the interior of the cell until it is completely pinched 
+off and a vesicle is formed containing the protein. Once 
+inside the cell, the protein is digested into its constituent 
+amino acids, which are reabsorbed through the basolateral 
+membrane into the interstitial fluid. Because pinocytosis 
+requires energy, it is considered a form of <span class="c-yellow">active transport</span>. 
+Transport Maximum for Substances That Are  Actively 
+Reabsorbed. For most substances that are actively reab-
+sorbed or secreted, there is a limit to the rate at which the 
+solute can be transported, which is often referred to as the 
+transport maximum. This limit is due to saturation of the 
+specific transport systems involved when the amount of 
+solute delivered to the tubule (referred to as the tubular 
+load) exceeds the capacity of the carrier proteins and spe-
+cific enzymes involved in the transport process.
+The glucose transport system in the <span class="c-pink">proximal tubule</span> is 
+a good example. Normally, measurable glucose does not 
+appear in the urine because essentially all the filtered glu-
+cose is reabsorbed in the <span class="c-pink">proximal tubule</span>. However, when 
+the filtered load exceeds the capability of the tubules to 
+reabsorb glucose, urinary excretion of glucose does occur.
+In the adult human, the transport maximum for glu -
+cose averages about 375 mg/min, whereas the filtered load  
+of glucose is only about 125 mg/min (GFR × plasma  
+glucose = 125 ml/min × 1 mg/ml). With large increases in 
+GFR and/or plasma glucose concentration that increase the 
+filtered load of glucose above 375 mg/min, the excess glu-
+cose filtered is not reabsorbed and passes into the urine.
+Figure 28-  4 shows the relationship between plasma 
+concentration of glucose, filtered load of glucose, tubular 
+transport maximum for glucose, and rate of glucose loss in 
+the urine. Note that when the plasma glucose concentra-
+tion is 100 mg/100 ml and the filtered load is at its normal 
+level (125 mg/min), there is no loss of glucose in the urine. 
+However, when the plasma concentration of glucose rises 
+above about 200 mg/100 ml, increasing the filtered load 
+to about 250 mg/min, a small amount of glucose begins to 
+appear in the urine. This point is termed the threshold for 
+Tubular
+cells
+−70 mV
+Co-transport
+Interstitial
+fluid
+Tubular
+lumen
+<span class="c-cyan">Na+</span>Na+
+<span class="c-cyan">Na+</span><span class="c-cyan">Na+</span><span class="c-cyan">ATP</span>
+GLUT SGLT
+<span class="c-cyan">Na+</span>Na+
+<span class="c-cyan">K+</span>K+
+−70 mV
+Counter-transport
+<span class="c-cyan">ATP</span> NHE
+<span class="c-cyan">Na+</span>Na+
+<span class="c-cyan">K+</span>K+
+<span class="c-cyan">Na+</span>Na+
+H+H+
+Amino acids Amino acids
+Glucose
+Glucose
+Figure 28- 3 Mechanisms of secondary <span class="c-yellow">active transport</span>. The upper 
+cell shows the co- transport of glucose and amino acids along with 
+sodium ions through the apical side of the tubular epithelial cells, 
+followed by <span class="c-yellow">facilitated diffusion</span> through the basolateral membranes. 
+The lower cell shows the 
+counter- transport of hydrogen ions from 
+the interior of the cell across the apical membrane and into the tubu-
+lar lumen; movement of sodium ions into the cell, down an electro -
+chemical gradient established by the sodium- potassium pump on the 
+basolateral membrane, provides the energy for transport of the hy -
+drogen ions from inside the cell into the tubular lumen. <span class="c-cyan">ATP</span>, Adeno-
+sine triphosphate; GLUT, glucose transporter; NHE, sodium- hydrogen 
+exchanger; SGLT, sodium- glucose co-  transporter.
+
+UNIT V
+glucose. Note that this appearance of glucose in the urine 
+(at the threshold) occurs before the transport maximum is 
+reached. One reason for the difference between the thresh-
+old and transport maximum is that not all nephrons have 
+the same transport maximum for glucose, and some of the 
+nephrons therefore begin to excrete glucose before others 
+have reached their transport maximum. The overall trans-
+port maximum for the kidneys, which is normally about 
+375 mg/min, is reached when all nephrons have reached 
+their maximal capacity to reabsorb glucose.
+The plasma glucose of a healthy person almost never 
+becomes high enough to cause glucose excretion in the 
+urine, even after eating a meal. However, in uncontrolled 
+diabetes mellitus, plasma glucose concentration may rise to 
+high levels, causing the filtered load of glucose to exceed 
+the transport maximum and resulting in urinary glucose 
+excretion. Some of the important transport maximums for 
+substances actively reabsorbed by the tubules are as follows:
+Substance Transport Maximum
+Glucose 375 mg/min
+Phosphate 0.10 mmol/min
+Sulfate 0.06 mmol/min
+Amino acids 1.5 mmol/min
+Urate 15 mg/min
+Lactate 75 mg/min
+Plasma protein 30 mg/min
+ 
+Transport Maximums for Actively Secreted Sub -
+stances. Substances that are actively secreted also exhibit 
+transport maximums, as follows:
+Substance Transport Maximum
+Creatinine 16 mg/min
+Para- aminohippuric acid 80 mg/min
+ 
+Substances That Are Actively Transported but Do Not 
+Exhibit a Transport Maximum. The reason that actively 
+transported solutes often exhibit a transport maximum is 
+that the transport carrier system becomes saturated as the 
+tubular load increases. Some substances that are actively 
+reabsorbed do not demonstrate a transport maximum be-
+cause their rate of transport is determined by other fac -
+tors, such as the following: (1) the electrochemical gradi -
+ent for diffusion of the substance across the membrane; 
+(2) the permeability of the membrane for the substance; 
+and (3) the time that the fluid containing the substance 
+remains within the tubule. Transport of this type is re-
+ferred to as 
+gradient- time transport  because the rate of 
+transport depends on the electrochemical gradient and 
+the time that the substance is in the tubule, which in turn 
+depends on the tubular flow rate.
+An example of gradient-  time transp ort is sodium 
+reabsorption in the <span class="c-pink">proximal tubule</span>, where the maxi-
+mum transport capacity of the basolateral Na
++- K+ 
+ATPase pump is usually far greater than the actual 
+rate of net sodium reabsorption because a significant 
+amount of sodium transported out of the cell leaks back 
+into the tubular lumen through junctions of the epithe -
+lial cells. The rate at which this backleak occurs depends 
+on (1) the permeability of the tight junctions; and (2) the 
+interstitial physical forces, which determine the rate of 
+bulk flow reabsorption from the interstitial fluid into the 
+peritubular capillaries. Therefore, sodium transport in 
+the proximal tubules obeys mainly gradient-  time trans-
+port principles rather than tubular maximum transport 
+characteristics. This observation means that the higher 
+the concentration of sodium in the proximal tubules, 
+the higher is its reabsorption rate. Also, the slower the 
+flow rate of tubular fluid, the greater the percentage 
+of sodium that can be reabsorbed from the proximal 
+tubules.
+In the more distal parts of the nephron, the epithelial 
+cells have much tighter junctions and transport much 
+smaller amounts of sodium. In these segments, sodium 
+reabsorption exhibits a transport maximum similar to 
+that for other actively transported substances. Further -
+more, this transport maximum can be increased by cer -
+tain hormones, such as <span class="c-cyan">aldosterone</span>. 
+PASSIVE WATER REABSORPTION BY 
+<span class="c-yellow">OSMOSIS</span> COUPLED MAINLY TO SODIUM 
+REABSORPTION
+When solutes are transported out of the tubule by pri -
+mary or secondary <span class="c-yellow">active transport</span>, their concentrations 
+tend to decrease inside the tubule while increasing in 
+the renal interstitium. This phenomenon creates a con -
+centration difference that causes <span class="c-yellow">osmosis</span> of water in the 
+Glucose filtered load, reabsorption
+or excretion (mg/min)
+Plasma glucose concentration
+(mg/100 ml)
+0 800700 600 500 400 300 200 100
+Filtered
+load
+Filtered
+load
+Normal
+Threshold
+Transport
+maximum Reabsorption
+Excretion
+Figure 28- 4 Relationships among the filtered load of glucose, rate 
+of glucose reabsorption by the renal tubules, and rate of glucose ex-
+cretion in the urine. The transport maximum is the maximum rate at 
+which glucose can be reabsorbed from the tubules. The threshold for 
+glucose refers to the filtered load of glucose at which glucose first 
+begins to be excreted in the urine.
+
+UNIT V The Body Fluids and Kidneys
+same direction that the solutes are transported, from the 
+tubular lumen to the renal interstitium. Some parts of the 
+renal tubule, especially the <span class="c-pink">proximal tubule</span>, are highly 
+permeable to water, and water reabsorption occurs so 
+rapidly that there is only a small concentration gradient 
+for solutes across the tubular membrane.
+A large part of the <span class="c-yellow">osmotic</span> flow of water in the proxi -
+mal tubules occurs through water channels (aquaporins) 
+in the cell membranes, as well as through the tight junc-
+tions between the epithelial cells. As noted previously, the 
+junctions between the cells are not as tight as their name 
+would imply and permit significant diffusion of water and 
+small ions. This condition is especially true in the proxi -
+mal tubules, which have a high permeability for water and 
+a smaller but significant permeability to most ions, such 
+as sodium, chloride, potassium, calcium, and magnesium.
+Water moving across the tight junctions by <span class="c-yellow">osmosis</span> also 
+carries with it some of the solutes, a process referred to as 
+solvent drag. In addition, because the reabsorption of water, 
+organic solutes, and ions is coupled to sodium reabsorp -
+tion, changes in sodium reabsorption significantly influ -
+ence the reabsorption of water and many other solutes.
+In the more distal parts of the nephron, beginning in 
+the loop of Henle and extending through the collecting 
+tubule, the tight junctions become far less permeable 
+to water and solutes, and the epithelial cells also have a 
+greatly decreased membrane surface area. Therefore, 
+water cannot move easily across the tight junctions of 
+the tubular membrane by <span class="c-yellow">osmosis</span>. However, antidiuretic 
+hormone (<span class="c-cyan">ADH</span>) greatly increases the water permeability 
+in the distal and collecting tubules.
+Thus, water movement across the tubular epithelium 
+can occur only if the membrane is permeable to water, no 
+matter how large the <span class="c-yellow">osmotic</span> gradient. In the proximal 
+tubule and descending loop of Henle, water permeability 
+is always high, and water is rapidly reabsorbed to reach 
+<span class="c-yellow">osmotic</span> equilibrium with the surrounding interstitial 
+fluid. This high permeability is due to abundant expres -
+sion of the water channel 
+aquaporin- 1 (AQP-  1) in the 
+luminal and basolateral membranes. In the ascending 
+loop of Henle, water permeability is always low, so almost 
+no water is reabsorbed, despite a large <span class="c-yellow">osmotic</span> gradient. 
+Water permeability in the last parts of the tubules—the 
+distal tubules, collecting tubules, and collecting ducts—
+occurs through aquaporins and can be high or low, 
+depending on the presence or absence of <span class="c-cyan">ADH</span>. 
+REABSORPTION OF CHLORIDE, UREA, 
+AND OTHER SOLUTES BY PASSIVE 
+DIFFUSION
+When sodium is reabsorbed through the tubular epithe -
+lial cell, negative ions such as chloride are transported 
+along with sodium because of electrical potentials. That 
+is, transport of positively charged sodium ions out of the 
+lumen leaves the inside of the lumen negatively charged, 
+compared with the interstitial fluid causing chloride ions 
+to diffuse passively through the paracellular pathway. 
+Additional reabsorption of chloride ions occurs because 
+of a chloride concentration gradient that develops when 
+water is reabsorbed from the tubule by <span class="c-yellow">osmosis</span>, thereby 
+concentrating the chloride ions in the tubular lumen 
+(
+Figure 28-  5). Thus, active reabsorption of sodium is 
+closely coupled to passive reabsorption of chloride by 
+way of an electrical potential and a chloride concentra -
+tion gradient.
+Chloride ions can also be reabsorbed by secondary 
+<span class="c-yellow">active transport</span>. The most important of the second -
+ary <span class="c-yellow">active transport</span> processes for chloride reabsorption 
+involves the co- transp ort of chloride with sodium across 
+the luminal membrane.
+Urea is also passively reabsorbed from the tubule, 
+but to a much lesser extent than chloride ions. As water 
+is reabsorbed from the tubules (by <span class="c-yellow">osmosis</span> coupled to 
+sodium reabsorption), urea concentration in the tubu -
+lar lumen increases (see 
+Figure 28-  5). This increase 
+creates a concentration gradient favoring reabsorption 
+of urea. However, urea does not permeate the tubule 
+as readily as water. In some parts of the nephron, espe -
+cially the inner medullary <span class="c-pink">collecting duct</span>, passive urea 
+reabsorption is facilitated by specific urea transporters. 
+Yet, only about half of the urea that is filtered by the 
+glomerular capillaries is reabsorbed from the tubules. 
+The remaining urea passes into the urine, allowing the 
+kidneys to excrete large amounts of this waste product 
+of metabolism. In mammals, more than 90% of waste 
+nitrogen, mainly generated in the liver as a product of 
+protein metabolism, is normally excreted by the kidneys 
+as urea.
+Another waste product of metabolism, creatinine, is an 
+even larger molecule than urea and is essentially imper -
+meant to the tubular membrane. Therefore, almost none 
+of the creatinine that is filtered is reabsorbed, so virtually 
+all the creatinine filtered by the <span class="c-pink">glomerulus</span> is excreted in 
+the urine. 
+Passive Cl–
+reabsorption
+Passive urea
+reabsorption
+Na+ reabsorption
+H2O reabsorption
+Lumen
+negative
+potential
+Lumen
+negative
+potential
+Luminal Cl
+–
+concentration
+Luminal Cl–
+concentration
+Luminal
+urea
+concentration
+Luminal
+urea
+concentration
+Figure 28- 5 Mechanisms whereby water, chloride, and urea reab -
+sorption are coupled with sodium reabsorption.
+
+UNIT V
+REABSORPTION AND SECRETION 
+ALONG DIFFERENT PARTS OF THE 
+NEPHRON
+In the previous sections, we discussed the basic prin-
+ciples whereby water and solutes are transported across 
+the tubular membrane. With these generalizations in 
+mind, we can now discuss the different characteristics of 
+the individual tubular segments that enable them to per -
+form their specific functions. Only the tubular transport 
+functions that are quantitatively most important will be 
+discussed, especially as they relate to the reabsorption 
+of sodium, chloride, and water. In subsequent chapters, 
+we discuss the reabsorption and secretion of other sub -
+stances in different parts of the tubular system.
+PROXIMAL TUBULAR REABSORPTION
+Normally, about 65% of the filtered load of sodium and 
+water and a slightly lower percentage of filtered chloride 
+are reabsorbed by the <span class="c-pink">proximal tubule</span> before the filtrate 
+reaches the loops of Henle. These percentages can be 
+increased or decreased in different physiological condi -
+tions, as discussed later.
+Proximal Tubules Have High Capacity for Active and 
+Passive Reabsorption. The high capacity of the proxi-
+mal tubule for reabsorption results from its special 
+cellular characteristics, as shown in Figure 28-  6. The 
+<span class="c-pink">proximal tubule</span> epithelial cells are highly metabolic and 
+have large numbers of mitochondria to support power -
+ful <span class="c-yellow">active transport</span> processes. In addition, the proximal 
+tubular cells have an extensive brush border on the lu -
+minal (apical) side of the membrane, as well as an ex -
+tensive labyrinth of intercellular and basal channels, 
+all of which together provide an extensive membrane 
+surface area on the luminal and basolateral sides of the 
+epithelium for rapid transport of sodium ions and other 
+substances.
+The extensive membrane surface of the epithelial brush 
+border is also loaded with protein carrier molecules that 
+transport a large fraction of the sodium ions across the 
+luminal membrane linked via the 
+co- transport mecha-
+nism with multiple organic nutrients such as amino acids 
+and glucose. Additional sodium is transported from the 
+tubular lumen into the cell by 
+counter- transport mecha-
+nisms that reabsorb sodium while secreting other sub -
+stances into the tubular lumen, especially hydrogen ions. 
+As discussed in Chapter 31, secretion of hydrogen ions 
+into the tubular lumen is an important step in the removal 
+of bicarbonate ions from the tubule (by combining H
++ 
+with the HCO 3− to form H 2CO3, which then dissociates 
+into H2O and CO2).
+Although the Na +- K+ ATPase pump provides the 
+major force for the reabsorption of sodium, chloride, and 
+water throughout <span class="c-pink">proximal tubule</span>, there are some differ-
+ences in the mechanisms whereby sodium and chloride 
+are transported through the luminal side of the early and 
+late portions of the proximal tubular membrane.
+In the first half of the <span class="c-pink">proximal tubule</span>, sodium is reab-
+sorbed by co-  transp ort along with glucose, amino acids, 
+and other solutes. However, in the second half of the prox-
+imal tubule, little glucose and few amino acids remain to 
+be reabsorbed. Instead, sodium is now reabsorbed, mainly 
+with chloride ions. The second half of the <span class="c-pink">proximal tubule</span> 
+has a relatively high concentration of chloride (≈140 
+mEq/L) compared with the early <span class="c-pink">proximal tubule</span> ( ≈105 
+mEq/L) because when sodium is reabsorbed, it prefer -
+entially carries with it glucose, bicarbonate, and organic 
+ions in the early <span class="c-pink">proximal tubule</span>, leaving behind a solu-
+tion that has a higher concentration of chloride. In the 
+second half of the <span class="c-pink">proximal tubule</span>, the higher chloride 
+concentration favors diffusion of this ion from the tubule 
+lumen through the intercellular junctions into the renal 
+interstitial fluid. Smaller amounts of chloride may also 
+be reabsorbed through specific chloride channels in the 
+proximal tubular cell membrane. 
+Concentrations of Solutes Along Proximal Tubules. 
+Figure 28- 7 summarizes the changes in concentration of 
+various solutes along the <span class="c-pink">proximal tubule</span>. Although the 
+amount of sodium in the tubular fluid decreases mark -
+edly along the <span class="c-pink">proximal tubule</span>, sodium concentration 
+(and total osmolarity) remains relatively constant because 
+water permeability of the proximal tubules is so great that 
+water reabsorption keeps pace with sodium reabsorption. 
+Certain organic solutes, such as glucose, amino acids, and 
+bicarbonate, are much more avidly reabsorbed than wa-
+ter, and their concentrations decrease markedly along the 
+length of the <span class="c-pink">proximal tubule</span>. Other organic solutes that 
+are less permeant and not actively reabsorbed, such as 
+creatinine, increase their concentration along the proxi -
+mal tubule. The total solute concentration, as reflected 
+by osmolarity, remains essentially the same all along the 
+<span class="c-pink">proximal tubule</span> because of the extremely high permeabil-
+ity of this part of the nephron to water. 
+<span class="c-pink">Proximal tubule</span>
+65%
+Isosmotic
+H+, organic acids, bases
+Na+, Cl–, HCO3–, K+,
+H2O, glucose, amino acids
+Figure 28- 6 Cellular ultrastructure and primary transport character -
+istics of the <span class="c-pink">proximal tubule</span>. The proximal tubules reabsorb about 
+65% of the filtered sodium, chloride, bicarbonate, and potassium 
+and essentially all the filtered glucose and amino acids. The proximal 
+tubules also secrete organic acids, bases, and hydrogen ions into the 
+tubular lumen.
+
+UNIT V The Body Fluids and Kidneys
+Secretion of Organic Acids and Bases by Proximal Tu-
+bules. The <span class="c-pink">proximal tubule</span> is also an important site for 
+secretion of organic acids and bases such as bile salts, oxa-
+late, urate, and catecholamines. Many of these substances 
+are the end products of metabolism and must be rapidly 
+removed from the body. The secretion of these substances 
+into the <span class="c-pink">proximal tubule</span> plus filtration into the proximal 
+tubule by the glomerular capillaries and almost total lack 
+of reabsorption by the tubules, all combined, contribute 
+to rapid excretion in the urine.
+In addition to the waste products of metabolism, the 
+kidneys secrete many potentially harmful drugs or toxins 
+into the tubules and rapidly clear these substances from 
+the blood. In the case of certain drugs, such as penicillin 
+and salicylates, the rapid clearance by the kidneys creates 
+a challenge in maintaining a therapeutically effective drug 
+concentration.
+Another compound that is rapidly secreted by the 
+<span class="c-pink">proximal tubule</span> is para-  aminohippur ic acid (PAH). PAH 
+is secreted so rapidly that the average person can clear 
+about 90% of the PAH from the plasma flowing through 
+the kidneys and excrete it in the urine. For this reason, the 
+rate of PAH clearance can be used to estimate the renal 
+plasma flow (RPF), as discussed later. 
+SOLUTE AND WATER TRANSPORT IN 
+LOOPS OF HENLE
+The loop of Henle consists of three functionally distinct 
+segments—the thin descending segment, thin ascend-
+ing segment, and thick ascending segment. The thin 
+descending and thin ascending segments, as their names 
+imply, have thin epithelial membranes with no brush bor-
+ders, few mitochondria, and minimal levels of metabolic 
+activity (
+Figure 28- 8).
+The descending part of the thin segment is highly 
+permeable to water and moderately permeable to most 
+solutes, including urea and sodium. The function of this 
+nephron segment is mainly to allow simple diffusion of 
+substances through its walls. About 20% of the filtered 
+water is reabsorbed in the loop of Henle, and almost all 
+of this occurs in the thin descending limb. The ascending 
+limb, including both the thin and thick portions, is virtu -
+ally impermeable to water, a characteristic that is impor -
+tant for concentrating the urine.
+The thick segment of the loop of Henle, which begins 
+about halfway up the ascending limb, has thick epithe-
+lial cells that have high metabolic activity and are capable 
+of active reabsorption of sodium, chloride, and potas -
+sium (see 
+Figure 28- 8). About 25% of the filtered loads 
+of sodium, chloride, and potassium are reabsorbed in the 
+loop of Henle, mostly in the thick ascending limb. Con -
+siderable amounts of other ions, such as calcium, bicar -
+bonate, and magnesium, are also reabsorbed in the thick 
+% Total <span class="c-pink">proximal tubule</span> length
+Tubular fluid/plasma concentration
+20 0
+Glucose
+Amino acids
+Osmolarity
+Urea
+Creatinine
+HCO3
+−
+Cl−
+Na+
+40 60 80 100
+5.0
+2.0
+1.0
+0.5
+0.05
+0.2
+0.1
+0.01
+Figure 28- 7 Changes in concentrations of different substances in tu-
+bular fluid along the proximal convoluted tubule relative to the con -
+centrations of these substances in the plasma and glomerular filtrate. 
+A value of 1.0 indicates that the concentration of the substance in the 
+tubular fluid is the same as the concentration in the plasma. Values 
+below 1.0 indicate that the substance is reabsorbed more avidly than 
+water, whereas values above 1.0 indicate that the substance is reab-
+sorbed to a lesser extent than water or is secreted into the tubules.
+Thick ascending
+loop of Henle
+25%
+Hypo-
+<span class="c-yellow">osmotic</span>
+H+
+Na+, Cl–, K+,
+Ca2+, HCO3–, <span class="c-cyan">Mg2</span>+
+Thin descending
+loop of Henle
+H2O
+Figure 28- 8 Cellular ultrastructure and transport characteristics of 
+the thin descending loop of Henle (top) and thick ascending segment 
+of the loop of Henle (bottom). The descending part of the thin seg -
+ment of the loop of Henle is highly permeable to water and moder -
+ately permeable to most solutes but has few mitochondria and little 
+or no active reabsorption. The thick ascending limb of the loop of 
+Henle reabsorbs about 25% of the filtered loads of sodium, chloride, 
+and potassium, as well as large amounts of calcium, bicarbonate, 
+and magnesium. This segment also secretes hydrogen ions into the 
+tubular lumen.
+
+UNIT V
+ascending loop of Henle. The thin segment of the ascend-
+ing limb has a much lower reabsorptive capacity than the 
+thick segment, and the thin descending limb does not 
+reabsorb significant amounts of any of these solutes.
+An important component of solute reabsorption in the 
+thick ascending limb is the Na
++- K+ ATPase pump in the 
+epithelial cell basolateral membranes. As in the proximal 
+tubule, the reabsorption of other solutes in the thick seg -
+ment of the ascending loop of Henle is closely linked to 
+the reabsorptive capability of the Na
++- K+ ATPase pump, 
+which maintains a low intracellular sodium concentra -
+tion. The low intracellular sodium concentration in turn 
+provides a favorable gradient for movement of sodium 
+from the tubular fluid into the cell. In the thick ascend-
+ing loop, movement of sodium across the luminal mem -
+brane is mediated primarily by a 1-  so dium, 2- chloride, 
+1- potassium cotransporter (NKCC2) ( Figure 28- 9). This 
+co- transp ort protein in the luminal membrane uses the 
+potential energy released by downhill diffusion of sodium 
+into the cell to drive the reabsorption of potassium into 
+the cell against a concentration gradient.
+The thick ascending limb of the loop of Henle is the 
+site of action of the powerful loop diuretics furosemide, 
+ethacrynic acid, and bumetanide, all of which <span class="c-green">inhibit</span> the 
+action of the NKCC2 co-  transp orter. These diuretics are 
+discussed in Chapter 32. The thick ascending limb also 
+has a sodium-  h ydrogen counter-  transp ort mechanism 
+in its luminal cell membrane that mediates sodium reab -
+sorption and hydrogen secretion (see Figure 28- 9).
+There is also significant paracellular reabsorption of 
+cations, such as Mg 2+, Ca 2+, Na +, and K +, in the thick 
+ascending limb as a result of the slight positive charge of 
+the tubular lumen relative to the interstitial fluid. Although 
+the NKCC2 co- transp orter moves equal amounts of cat -
+ions and anions into the cell, there is a slight backleak of 
+potassium ions into the lumen, creating a positive charge 
+of about +8 millivolts in the tubular lumen. This positive 
+charge forces cations such as Mg
+2+ and Ca 2+ to diffuse 
+from the tubular lumen through the paracellular space 
+and into the interstitial fluid.
+The thick segment of the ascending loop of Henle is vir -
+tually impermeable to water. Therefore, most of the water 
+delivered to this segment remains in the tubule, despite 
+reabsorption of large amounts of solute. The tubular fluid in 
+the ascending limb becomes very dilute as it flows toward 
+the <span class="c-pink">distal tubule</span>, a feature that is important in allowing the 
+kidneys to dilute or concentrate the urine under different 
+conditions, as discussed in more detail in Chapter 29. 
+DISTAL TUBULES
+The thick segment of the ascending limb of the loop of 
+Henle empties into the <span class="c-pink">distal tubule</span>. The first portion 
+of the <span class="c-pink">distal tubule</span> forms the macula densa, a group of 
+closely packed epithelial cells that is part of the juxtaglo-
+merular complex and provides feedback control of the 
+GFR and blood flow in this same nephron.
+The next part of the <span class="c-pink">distal tubule</span> is highly convoluted 
+and has many of the same reabsorptive characteristics 
+of the thick segment of the ascending limb of the loop of 
+Henle. That is, it avidly reabsorbs most of the ions, includ-
+ing sodium, potassium, and chloride, but is virtually imper-
+meable to water and urea. For this reason, it is referred to as 
+the diluting segment because it also dilutes the tubular fluid.
+Approximately 5% of the filtered load of sodium chlo -
+ride is reabsorbed in the early <span class="c-pink">distal tubule</span>. The 
+sodium- 
+chloride co- transporter moves sodium chloride from the 
+tubular lumen into the cell, and the Na+- K+ ATPase pump 
+transports sodium out of the cell across the basolateral 
+membrane (
+Figure 28-  10). Chloride diffuses out of cell 
+into the renal interstitial fluid through chloride channels 
+in the basolateral membrane.
+The thiazide diuretics, which are widely used to treat 
+disorders such as hypertension and heart failure, <span class="c-green">inhibit</span> 
+the sodium- chloride co- transporter. 
+LATE DISTAL TUBULES AND CORTICAL 
+COLLECTING TUBULES
+The second half of the <span class="c-pink">distal tubule</span> and subsequent 
+cortical collecting tubule have similar functional char -
+acteristics. Anatomically, they are composed of two dis -
+tinct cell types, the principal cells and intercalated cells 
+−
+Paracellular
+Renal
+interstitial
+fluid
+Tubular
+lumen
+(+8 mV)
+Tubular
+cells
+diffusion <span class="c-cyan">Mg2</span>+, <span class="c-cyan">Ca2+</span><span class="c-cyan">Mg2</span>+, Ca2+
+Na+, <span class="c-cyan">K+</span>Na+, K+
+<span class="c-cyan">ATP</span>
+<span class="c-cyan">Na+</span>Na+
+<span class="c-cyan">Cl−</span>Cl− <span class="c-cyan">K+</span>K+
+<span class="c-cyan">K+</span>K+
+<span class="c-cyan">Na+</span>Na+
+H+H+
+Loop diuretics
+• Furosemide
+• Ethacrynic acid
+• Bumetanide
+Na
++Na+
+2Cl–2Cl–
+<span class="c-cyan">K+</span>K+
+Figure 28- 9 Mechanisms of sodium, chloride, and potassium trans -
+port in the thick ascending loop of Henle. The Na +- K+ ATPase pump 
+in the basolateral cell membrane maintains a low intracellular so -
+dium concentration and a negative electrical potential in the cell. 
+The 1-  sodium, 2-  chloride, 1-  potassium co-  transporter in the lumi -
+nal membrane transports these three ions from the tubular lumen 
+into the cells, using the potential energy released by the diffusion of 
+sodium down an electrochemical gradient into the cells. Sodium is 
+also transported into the tubular cell by sodium-  hydrogen counter-  
+transport. The positive charge (+8 mV) of the tubular lumen relative 
+to the interstitial fluid forces cations such as Mg
+2+ and Ca2+ to diffuse 
+from the lumen to the interstitial fluid via the paracellular pathway.
+
+UNIT V The Body Fluids and Kidneys
+(Figure 28- 11). The principal cells reabsorb sodium and 
+water from the lumen and secrete potassium ions into the 
+lumen. The type A intercalated cells reabsorb potassium 
+ions and secrete hydrogen ions into the tubular lumen.
+Principal Cells Reabsorb Sodium and Secrete  Potassium. 
+Sodium reabsorption and potassium secretion by the princi-
+pal cells depend on the activity of a Na+- K+ ATPase pump in 
+each cell’s basolateral membrane (Figure 28- 12). This pump 
+maintains a low sodium concentration inside the cell and, 
+therefore, favors sodium diffusion into the cell through spe-
+cial channels. Secretion of potassium by these cells from the 
+blood into the tubular lumen involves two steps: (1) potas-
+sium enters the cell because of the Na
++- K+ ATPase pump, 
+which maintains a high intracellular potassium concentra-
+tion; and (2) once in the cell, potassium diffuses down its 
+concentration gradient across the luminal membrane into 
+the tubular fluid.
+The principal cells are the primary sites of action of the 
+potassium- sparing diuretics , including spironolactone, 
+eplerenone, amiloride, and triamterene. Spironolactone 
+and eplerenone are mineralocorticoid receptor antagonists 
+that compete with <span class="c-cyan">aldosterone</span> for receptor sites in the 
+principal cells and therefore <span class="c-green">inhibit</span> the stimulatory effects 
+of <span class="c-cyan">aldosterone</span> on sodium reabsorption and potassium 
+secretion. Amiloride and triamterene are sodium channel 
+<span class="c-green">block</span>ers that directly <span class="c-green">inhibit</span> the entry of sodium into the 
+sodium channels of the luminal membranes and there-
+fore reduce the amount of sodium that can be transported 
+across the basolateral membranes by the Na
++- K+ ATPase 
+pump. This, in turn, decreases transport of potassium into 
+the cells and ultimately reduces potassium secretion into 
+the tubular fluid. For this reason, sodium channel <span class="c-green">block</span> -
+ers, as well as <span class="c-cyan">aldosterone</span> antagonists, decrease  ur inary 
+excretion of potassium and act as potassium- sparing 
+diuretics. 
+Intercalated Cells Can Secrete or Reabsorb Hydrogen, 
+Bicarbonate, and Potassium Ions. Intercalated cells play 
+a major role in acid–base regulation and constitute 30% to 
+40% of the cells in the collecting tubules and collecting 
+ducts. There are two types of intercalated cells, type A and 
+type B (
+Figure 28- 13). Type A intercalated cells secrete 
+hydrogen ions by a hydrogen- A TPase transporter and by 
+a hydrogen-  p otassium-  A TPase transporter. Hydrogen is 
+generated in this cell by the action of carbonic anhydrase 
+on water and carbon dioxide to form carbonic acid, which 
+then dissociates into hydrogen ions and bicarbonate ions. 
+The hydrogen ions are then secreted into the tubular lu -
+men and, for each hydrogen ion secreted, a bicarbonate 
+ion becomes available for reabsorption across the baso -
+lateral membrane. Type A intercalated cells are especially 
+important in eliminating hydrogen ions while reabsorbing 
+bicarbonate in acidosis.
+Type B intercalated cells have functions opposite to 
+those of type A cells and secrete bicarbonate into the tubu-
+lar lumen while reabsorbing hydrogen ions in alkalosis. 
+Type B intercalated cells have hydrogen and bicarbonate 
+−
+Renal
+interstitial
+fluid
+Tubular
+lumen
+(−10 mV)
+Tubular
+cells
+<span class="c-cyan">ATP</span>
+<span class="c-cyan">Na+</span>Na+
+Cl–Cl–
+<span class="c-cyan">K+</span>K+
+Thiazide diureticsThiazide diuretics
+<span class="c-cyan">Na+</span>Na+
+Cl–Cl–
+Figure 28- 10 Mechanism of sodium chloride transport in the early 
+<span class="c-pink">distal tubule</span>. Sodium and chloride are transported from the tubular 
+lumen into the cell by a co-  transporter that is <span class="c-green">inhibit</span>ed by thiazide 
+diuretics. Sodium is pumped out of the cell by Na+- K+ ATPase adeno-
+sine triphosphatase, and chloride diffuses into the interstitial fluid via 
+chloride channels.
+Type A
+intercalated cells
+Early <span class="c-pink">distal tubule</span>
+Late <span class="c-pink">distal tubule</span>
+and cortical collecting tubule
+Principal
+cells
+Na+, Cl–, Ca2+, <span class="c-cyan">Mg2</span>+
+Na+, Cl–
+(+<span class="c-cyan">ADH</span>) H2O
+HCO3–
+H+
+K+
+K+
+Figure 28- 11 Cellular ultrastructure and transport characteristics of 
+the early <span class="c-pink">distal tubule</span> and late <span class="c-pink">distal tubule</span> and collecting tubule. The 
+early <span class="c-pink">distal tubule</span> has many of the same characteristics as the thick 
+ascending loop of Henle and reabsorbs sodium, chloride, calcium, 
+and magnesium but is virtually impermeable to water and urea. The 
+late distal tubules and cortical collecting tubules are composed of two 
+distinct cell types, the principal cells and intercalated cells. The prin-
+cipal cells reabsorb sodium from the lumen and secrete potassium 
+ions into the lumen. Type A intercalated cells reabsorb potassium and 
+bicarbonate ions from the lumen and secrete hydrogen ions into the 
+lumen. The reabsorption of water from this tubular segment is con -
+trolled by the concentration of antidiuretic hormone.
+
+UNIT V
+transporters on opposite sides of the cell membrane 
+compared with type A cells. The chloride-  bic arbonate 
+counter- transp orter on the apical membrane of type B 
+cells is called pendrin and is different than the chloride-  
+bicarbonate transporter of type A cells. Hydrogen ions are 
+actively transported out of the type B intercalated cell on 
+the basolateral side of the cell membrane by hydrogen-  
+ATPase, and bicarbonate is secreted into the lumen, thus 
+eliminating excess plasma bicarbonate in alkalosis. Induc-
+tion of chronic metabolic alkalosis increases the number 
+of type B intercalated cells, which contribute to increased 
+excretion of bicarbonate, whereas acidosis increases the 
+number of type A cells.
+A more detailed discussion of this mechanism is pre-
+sented in Chapter 31. The intercalated cells can also reab-
+sorb or secrete potassium ions, as shown in 
+Figure 28- 13.
+The functional characteristics of the late <span class="c-pink">distal tubule</span> 
+and cortical collecting tubule can be summarized as 
+follows:
+ 1.   The t ubular membranes of both segments are al -
+most completely impermeable to urea, similar to 
+the diluting segment of the early <span class="c-pink">distal tubule</span>. Thus, 
+almost all the urea that enters these segments pass-
+es on through and into the <span class="c-pink">collecting duct</span> to be ex-
+creted in the urine, although some reabsorption of 
+urea occurs in the medullary collecting ducts.
+ 2 .   B oth the late <span class="c-pink">distal tubule</span> and cortical collecting tu -
+bule segments reabsorb sodium ions, and the rate of 
+reabsorption is controlled by hormones, especially al-
+dosterone. At the same time, these segments secrete 
+potassium ions from the peritubular <span class="c-pink">capillary</span> blood 
+into the tubular lumen, a process that is also con -
+trolled by <span class="c-cyan">aldosterone</span> and other factors, such as the 
+concentration of potassium ions in the body fluids.
+ 3.   The ty pe A intercalated cells of these nephron seg -
+ments can avidly secrete hydrogen ions by an active 
+hydrogen- A TPase mechanism in acidosis. This pro -
+cess is different from the secondary active secretion 
+of hydrogen ions by the <span class="c-pink">proximal tubule</span> because it 
+is capable of secreting hydrogen ions against a large 
+concentration gradient, as much as 1000 to 1. This 
+is in contrast to the relatively small gradient (4-   t o 
+10- f old) for hydrogen ions that can be achieved by 
+secondary active secretion in the <span class="c-pink">proximal tubule</span>. 
+− −
+Renal
+interstitial
+fluid
+Tubular
+lumen
+(−50 mV)
+Tubular
+cells
+<span class="c-cyan">ATP</span>
+<span class="c-cyan">Na+</span>Na+
+<span class="c-cyan">K+</span>K+
+<span class="c-cyan">Na+</span>Na+
+<span class="c-cyan">Cl−</span>Cl−
+<span class="c-cyan">K+</span>K+
+Na+ channel <span class="c-green">block</span>ers
+• Amiloride
+• Triamterene
+Mineralocorticoid
+receptor antagonists
+• Spironolactone
+• Eplerenone
+Figure 28- 12 Mechanism of sodium-  chloride reabsorption and po -
+tassium secretion in the principal cells of the late distal tubules and 
+cortical collecting tubules. Sodium enters the cell through special 
+channels and is transported out of the cell by the Na
++- K+ ATPase 
+pump. <span class="c-cyan">Aldosterone</span> antagonists compete with <span class="c-cyan">aldosterone</span> for bind -
+ing sites in the cell and therefore <span class="c-green">inhibit</span> the effects of <span class="c-cyan">aldosterone</span> 
+to <span class="c-green">stimulate</span> sodium reabsorption and potassium secretion. Sodium 
+channel <span class="c-green">block</span>ers directly <span class="c-green">inhibit</span> the entry of sodium into the sodium 
+channels.
+Renal
+interstitial
+fluid
+Tubular
+lumenType A
+intercalated cell
+<span class="c-cyan">ATP</span>
+H+H+
+<span class="c-cyan">ATP</span>
+H+H+
+<span class="c-cyan">K+</span><span class="c-cyan">K+</span><span class="c-cyan">K+</span>K+
+Cl–Cl–
+CO2 + H2OCO2 + H2O
+H2CO3H2CO3
+HCO3– + H+HCO3– + H+
+CO2CO2
+HCO3–HCO3–
+Cl–Cl–
+Renal
+interstitial
+fluid
+Tubular
+lumen
+Pendrin
+Type B
+intercalated cell
+<span class="c-cyan">ATP</span>
+H+H+
+<span class="c-cyan">ATP</span>
+H+H+
+<span class="c-cyan">K+</span>K+
+Cl–Cl– <span class="c-cyan">K+</span>K+
+CO2 + H2OCO2 + H2O
+H2CO3H2CO3
+H+ + HCO3–H+ + HCO3–
+CO2CO2
+HCO3–HCO3–
+Cl–Cl–
+Figure 28-  13 Type A and type B intercalated cells of the collect -
+ing tubule. Type A cells contain hydrogen-  ATPase and hydrogen-  
+potassium- ATPase in the luminal membrane and secrete hydrogen 
+ions while reabsorbing bicarbonate and potassium ions in acidosis. In 
+type B cells, the hydrogen-  ATPase and hydrogen-  potassium-  ATPase 
+transporters are located in the basolateral membrane and reabsorb 
+hydrogen ions while secreting bicarbonate and potassium ions in al -
+kalosis. The chloride-  bicarbonate counter-  transporter on the apical 
+membrane of type B cells is called pendrin and is different than the 
+chloride- bicarbonate transporter of type A intercalated cells.
+
+UNIT V The Body Fluids and Kidneys
+In alkalosis, the type B intercalated cells secrete 
+bicarbonate and actively reabsorb hydrogen ions. 
+Thus, the intercalated cells play a key role in acid–
+base regulation of the body fluids.
+ 4 .   Th e permeability of the late <span class="c-pink">distal tubule</span> and cortical 
+<span class="c-pink">collecting duct</span> to water is controlled by the concen-
+tration of <span class="c-cyan">ADH</span>, which is also called <span class="c-cyan">vasopressin</span>. With 
+high levels of <span class="c-cyan">ADH</span>, these tubular segments are per-
+meable to water but, in the absence of <span class="c-cyan">ADH</span>, they are 
+virtually impermeable to water. This special character-
+istic provides an important mechanism for controlling 
+the degree of dilution or concentration of the urine. 
+MEDULLARY COLLECTING DUCTS
+Although the medullary collecting ducts usually reabsorb 
+less than 5% of the filtered water and sodium, they are the 
+final site for processing the urine and, therefore, play a 
+critical role in determining the final urine output of water 
+and solutes.
+The epithelial cells of the collecting ducts are nearly 
+cuboidal in shape, with smooth surfaces and relatively 
+few mitochondria (
+Figure 28- 14). Special characteristics 
+of this tubular segment are as follows:
+ 1 .   The permeability of the medullary <span class="c-pink">collecting duct</span> to 
+water is controlled by the level of <span class="c-cyan">ADH</span>. With high lev-
+els of <span class="c-cyan">ADH</span>, water is avidly reabsorbed into the medul-
+lary interstitium, thereby reducing the urine volume 
+and concentrating most of the solutes in the urine.
+ 2.   U nlike the cortical collecting tubule, the medullary 
+<span class="c-pink">collecting duct</span> is permeable to urea, and there are 
+special urea transporters that facilitate urea diffu -
+sion across the luminal and basolateral membranes. 
+Therefore, some of the tubular urea is reabsorbed 
+into the medullary interstitium, helping raise the 
+osmolality in this region of the kidneys and contrib-
+uting to the kidneys’ overall ability to form concen-
+trated urine. This topic is discussed in Chapter 29.
+ 3.   The me dullary <span class="c-pink">collecting duct</span> is capable of secret -
+ing hydrogen ions against a large concentration 
+ gradient, as also occurs in the cortical collecting tu-
+bule. Thus, the medullary <span class="c-pink">collecting duct</span> also plays 
+a key role in regulating acid- ba se balance. 
+SUMMARY OF CONCENTRATIONS OF 
+DIFFERENT SOLUTES IN DIFFERENT 
+TUBULAR SEGMENTS
+Whether a solute will become concentrated in the tubular 
+fluid is determined by the relative degree of reabsorption 
+of that solute versus the reabsorption of water. If a greater 
+percentage of water is reabsorbed, the substance becomes 
+more concentrated. If a greater percentage of the solute is 
+reabsorbed, the substance becomes more diluted.
+Figure 28-  15 shows the degree of concentration of 
+several substances in different tubular segments. All the 
+values in this figure represent the tubular fluid concentra-
+tion divided by the plasma concentration of a substance. 
+If plasma concentration of the substance is assumed to 
+be constant, any change in the tubular fluid/plasma 
+concentration ratio reflects changes in tubular fluid 
+concentration.
+As the filtrate moves along the tubular system, the con-
+centration rises progressively to higher than 1.0 if more 
+water is reabsorbed than solute, or if there has been a net 
+secretion of the solute into the tubular fluid. If the con -
+centration ratio becomes progressively less than 1.0, this 
+Medullary
+<span class="c-pink">collecting duct</span>
+Na
++, Cl
+–
+Urea
+HCO
+3 –
+(+<span class="c-cyan">ADH</span>) H
+2O
+H+
+Figure 28- 14 Cellular ultrastructure and transport characteristics of 
+the medullary <span class="c-pink">collecting duct</span>. The medullary collecting ducts actively 
+reabsorb sodium and secrete hydrogen ions and are permeable to 
+urea, which is reabsorbed in these tubular segments. The reabsorp -
+tion of water in medullary collecting ducts is controlled by the con-
+centration of antidiuretic hormone.
+Tubular fluid/glomerular filtrate concentration
+Proximal
+tubule
+Loop of
+Henle
+Distal
+tubule
+Collecting
+tubule
+PAHPAH
+ClCl
+ClClKK
+NaNa
+to 585to 585
+to 140to 140
+to 125to 125
+HCO3HCO3
+K
+and Na
+K
+and Na
+CreatinineCreatinine
+GlucoseGlucose
+ProteinProteinAmino acidsAmino acids
+InulinInulin
+UreaUrea
+100.0
+50.0
+20.0
+10.0
+5.0
+2.0
+1.0
+0.50
+0.20
+0.10
+0.05
+0.02
+Figure 28- 15 Changes in average concentrations of different sub -
+stances at different points in the tubular system relative to the con-
+centration of that substance in the plasma and glomerular filtrate. A 
+value of 1.0 indicates that the concentration of the substance in the 
+tubular fluid is the same as the concentration of that substance in the 
+plasma. Values below 1.0 indicate that the substance is reabsorbed 
+more avidly than water, whereas values above 1.0 indicate that the 
+substance is reabsorbed to a lesser extent than water or is secreted 
+into the tubules. PAH, Para- aminohippuric acid.
+
+UNIT V
+means that relatively more solute has been reabsorbed 
+than water.
+The substances represented at the top of Figure 28- 15, 
+such as creatinine, become highly concentrated in the urine. 
+In general, these substances are not needed by the body, 
+and the kidneys have become adapted to reabsorb them 
+only slightly or not at all or even to secrete them into the 
+tubules, thereby excreting large quantities into the urine. 
+Conversely, the substances represented at the bottom of 
+the figure, such as glucose and amino acids, are all strongly 
+reabsorbed. These are all substances that the body needs 
+to conserve, and almost none of them are lost in the urine.
+Tubular Fluid/Plasma Inulin Concentration Ratio Can 
+Be Used to Assess Water Reabsorption by Renal 
+ Tubules. Inulin, a polysaccharide used to measure the 
+GFR, is not reabsorbed or secreted by the renal tubules. 
+Changes in inulin concentration at different points along 
+the renal tubule, therefore, reflect changes in the amount 
+of water present in the tubular fluid.
+For example, the tubular fluid/plasma concentration 
+ratio for inulin rises to about 3.0 at the end of the proxi -
+mal tubules, indicating that inulin concentration in the 
+tubular fluid is three times greater than in the plasma 
+and glomerular filtrate. Because inulin is not secreted or 
+reabsorbed from the tubules, a tubular fluid/plasma con -
+centration ratio of 3.0 means that only one-third of the 
+water that was filtered remains in the renal tubule and 
+that two-thirds of the filtered water has been reabsorbed 
+as the fluid passes through the <span class="c-pink">proximal tubule</span>. At the 
+end of the collecting ducts, the tubular fluid/plasma inulin 
+concentration ratio rises to about 125 (see 
+Figure 28- 15), 
+indicating that only 1/125 of the filtered water remains in 
+the tubule and that more than 99% has been reabsorbed. 
+REGULATION OF TUBULAR 
+REABSORPTION
+Because it is essential to maintain a precise balance 
+between tubular reabsorption and glomerular filtration, 
+there are multiple nervous, hormonal, and local control 
+mechanisms that regulate tubular reabsorption, just as 
+there are for control of glomerular filtration. An impor -
+tant feature of tubular reabsorption is that reabsorption 
+of some solutes can be regulated independently of others, 
+especially through <span class="c-yellow">hormonal control</span> mechanisms.
+GLOMERULOTUBULAR BALANCE—
+REABSORPTION RATE INCREASES IN 
+RESPONSE TO INCREASED TUBULAR 
+LOAD
+One of the most basic mechanisms for controlling tubu-
+lar reabsorption is the intrinsic ability of the tubules to 
+increase their reabsorption rate in response to increased 
+tubular load (increased tubular inflow). This phenomenon 
+is referred to as glomerulotubular balance. For example, if 
+the GFR increases from 125 to 150 ml/min, the absolute 
+rate of proximal tubular reabsorption also increases from 
+about 81 ml/min (65% of GFR) to about 97.5 ml/min (65% 
+of GFR). Thus, glomerulotubular balance refers to the fact 
+that the total rate of reabsorption increases as the filtered 
+load increases, even though the percentage of GFR reab -
+sorbed in the <span class="c-pink">proximal tubule</span> remains relatively constant, 
+at about 65%.
+Some degree of glomerulotubular balance also occurs 
+in other tubular segments, especially the loop of Henle. 
+The precise mechanisms responsible for this are not fully 
+understood but may be due partly to changes in physical 
+forces in the tubule and surrounding renal interstitium, as 
+discussed later. It is clear that the mechanisms for glomer-
+ulotubular balance can occur independently of hormones 
+and can be demonstrated in completely isolated kidneys 
+or even in completely isolated proximal tubular segments.
+Glomerulotubular balance helps prevent overload -
+ing of the distal tubular segments when GFR increases. 
+ Glomerulotubular balance acts as another line of defense 
+to buffer the effects of spontaneous changes in the GFR 
+on urine output. (The other line of defense, discussed 
+earlier, includes the renal autoregulatory mechanisms, 
+especially tubuloglomerular feedback, which help prevent 
+large changes in GFR.) Working together, the autoregula-
+tory and glomerulotubular balance mechanisms prevent 
+large changes in fluid flow in the distal tubules when the 
+arterial pressure changes or when there are other distur -
+bances that would otherwise upset sodium and volume 
+<span class="c-yellow">homeostasis</span>. 
+PERITUBULAR <span class="c-pink">CAPILLARY</span> AND RENAL 
+INTERSTITIAL FLUID PHYSICAL FORCES
+Hydrostatic and colloid <span class="c-yellow">osmotic</span> forces govern the rate of 
+reabsorption across the peritubular capillaries, just as they 
+control filtration in the glomerular capillaries. Changes in 
+peritubular <span class="c-pink">capillary</span> reabsorption can in turn influence 
+the hydrostatic and colloid <span class="c-yellow">osmotic</span> pressures of the renal 
+interstitium and, ultimately, reabsorption of water and 
+solutes from the renal tubules.
+Normal Values for Physical Forces and Reabsorption 
+Rate. As the glomerular filtrate passes through the renal 
+tubules, more than 99% of the water and most of the sol -
+utes are normally reabsorbed. Fluid and electrolytes are re-
+absorbed from the tubules into the renal interstitium and 
+from there into the peritubular capillaries. The normal rate 
+of peritubular <span class="c-pink">capillary</span> reabsorption is about 124 ml/min.
+Reabsorption across the peritubular capillaries can be 
+calculated as follows:
+Reabsorption = Kf × Net reabsorptive force
+The net reabsorptive force represents the sum of 
+the hydrostatic and colloid <span class="c-yellow">osmotic</span> forces that favor or 
+oppose reabsorption across the peritubular capillar -
+ies. These forces include the following: (1) hydrostatic 
+pressure inside the peritubular capillaries (peritubular 
+hydrostatic pressure [P
+c]), which opposes reabsorption;  
+
+UNIT V The Body Fluids and Kidneys
+(2) hydrostatic pressure in the renal interstitium (Pif) out-
+side the capillaries, which favors reabsorption; (3) col -
+loid <span class="c-yellow">osmotic</span> pressure of the peritubular <span class="c-pink">capillary</span> plasma 
+proteins (πc), which favors reabsorption; and (4) colloid 
+<span class="c-yellow">osmotic</span> pressure of the proteins in the renal interstitium 
+(π
+if), which opposes reabsorption.
+Figure 28- 16 shows the approximate normal forces that 
+favor and oppose peritubular reabsorption. Because the 
+normal peritubular <span class="c-pink">capillary</span> pressure averages about 13 
+mm Hg and the renal interstitial fluid hydrostatic pressure 
+averages 6 mm Hg, there is a positive hydrostatic pressure 
+gradient from the peritubular <span class="c-pink">capillary</span> to the interstitial 
+fluid of about 7 mm Hg, which opposes fluid reabsorption. 
+This opposition to fluid reabsorption is more than coun -
+terbalanced by the colloid <span class="c-yellow">osmotic</span> pressures that favor 
+reabsorption. The plasma colloid <span class="c-yellow">osmotic</span> pressure, which 
+favors reabsorption, is about 32 mm Hg, and the colloid 
+<span class="c-yellow">osmotic</span> pressure of the interstitium, which opposes reab-
+sorption, is 15 mm Hg, causing a net colloid <span class="c-yellow">osmotic</span> force 
+of about 17 mm Hg, favoring reabsorption. Therefore, sub-
+tracting the net hydrostatic forces that oppose reabsorption 
+(7 mm Hg) from the net colloid <span class="c-yellow">osmotic</span> forces that favor 
+reabsorption (17 mm Hg) gives a net reabsorptive force of 
+about 10 mm Hg. This value is high, similar to that found 
+in the glomerular capillaries, but in the opposite direction.
+The other factor that contributes to the high rate of 
+fluid reabsorption in the peritubular capillaries is a large 
+filtration coefficient (K
+f) because of the high hydrau -
+lic conductivity and large surface area of the capillaries. 
+Because the reabsorption rate is normally about 124 ml/
+min and net reabsorption pressure is 10 mm Hg, K
+f nor-
+mally is about 12.4 ml/min per mm Hg. 
+Regulation of Peritubular <span class="c-pink">Capillary</span> Physical Forces . 
+The two determinants of peritubular <span class="c-pink">capillary</span>  r eabsorption 
+that are directly influenced by renal hemodynamic chang-
+es are the hydrostatic and colloid <span class="c-yellow">osmotic</span> pressures of the 
+peritubular capillaries. The peritubular <span class="c-pink">capillary</span> hydro-
+static pressure is influenced by the arterial pressure and 
+resistances of the afferent and efferent arterioles as follows:
+ 1.   Inc reases in arterial pressure tend to raise peritubu -
+lar <span class="c-pink">capillary</span> hydrostatic pressure and decrease the 
+reabsorption rate. This effect is buffered to some 
+extent by autoregulatory mechanisms that main -
+tain relatively constant renal blood flow, as well as 
+relatively constant hydrostatic pressures in the renal 
+blood vessels.
+ 2.   An inc rease in resistance of the afferent or efferent 
+arterioles reduces peritubular <span class="c-pink">capillary</span> hydrostatic 
+pressure and tends to increase reabsorption rate. 
+Although constriction of the efferent arterioles in -
+creases glomerular <span class="c-pink">capillary</span> hydrostatic pressure, it 
+lowers peritubular <span class="c-pink">capillary</span> hydrostatic pressure.
+The second major determinant of peritubular <span class="c-pink">capillary</span> 
+reabsorption is the colloid <span class="c-yellow">osmotic</span> pressure of the plasma 
+in these capillaries; raising the colloid <span class="c-yellow">osmotic</span> pressure 
+increases peritubular <span class="c-pink">capillary</span> reabsorption. The colloid 
+<span class="c-yellow">osmotic</span> pressure of peritubular capillaries is determined 
+by the following: (1) the systemic plasma colloid <span class="c-yellow">osmotic</span> 
+pressure (increasing the plasma protein concentration of 
+systemic blood tends to raise peritubular <span class="c-pink">capillary</span> colloid 
+<span class="c-yellow">osmotic</span> pressure, thereby increasing reabsorption); and 
+(2) the filtration fraction—the higher the filtration frac -
+tion, the greater the fraction of plasma filtered through the 
+<span class="c-pink">glomerulus</span> and, consequently, the more concentrated the 
+protein becomes in the plasma that remains behind. Thus, 
+increasing the filtration fraction also tends to increase the 
+peritubular <span class="c-pink">capillary</span> reabsorption rate. Because filtration 
+fraction is defined as the ratio of GFR/RPF, an increased 
+filtration fraction can occur as a result of increased GFR 
+or decreased RPF. Some renal vasoconstrictors, such as 
+<span class="c-cyan">angiotensin II</span>, increase peritubular <span class="c-pink">capillary</span> reabsorption 
+by decreasing RPF and increasing filtration fraction, as 
+discussed later.
+Changes in the peritubular <span class="c-pink">capillary</span> K
+f can also influ -
+ence the reabsorption rate because K f is a measure of the 
+permeability and surface area of the capillaries. Increases 
+in K
+f raise reabsorption, whereas decreases in K f lower 
+peritubular <span class="c-pink">capillary</span> reabsorption. K f remains relatively 
+constant in most physiological conditions. Table 28-  2 
+summarizes the factors that can influence the peritubular 
+<span class="c-pink">capillary</span> reabsorption rate. 
+Renal Interstitial Hydrostatic and Colloid <span class="c-yellow">Osmotic</span> 
+Pressures. Ultimately, changes in peritubular <span class="c-pink">capillary</span> 
+physical forces influence tubular reabsorption by changing 
+the physical forces in the renal interstitium surrounding 
+the tubules. For example, a decrease in the reabsorptive 
+force across the peritubular <span class="c-pink">capillary</span> membranes, caused 
+by increased peritubular <span class="c-pink">capillary</span> hydrostatic pressure 
+or decreased peritubular <span class="c-pink">capillary</span> colloid <span class="c-yellow">osmotic</span> pres -
+sure, reduces the uptake of fluid and solutes from the 
+<span class="c-cyan">ATP</span> <span class="c-cyan">Na+</span>Na+
+Tubular
+cells
+Tubular
+cells
+Tubular
+lumen
+Tubular
+lumen
+Interstitial
+fluid
+Interstitial
+fluid
+Peritubular
+<span class="c-pink">capillary</span>
+Peritubular
+<span class="c-pink">capillary</span>
+H2O
+<span class="c-cyan">Na+</span>Na+
+10 mm Hg
+Net reabsorption
+pressure
+10 mm Hg
+Net reabsorption
+pressure
+Pc
+13 mm Hg
+Pc
+13 mm Hg πif
+15 mm Hg
+πif
+15 mm Hg
+Pif
+6 mm Hg
+Pif
+6 mm Hg
+H2O
+Bulk
+flow
+Bulk
+flow
+πc
+32 mm Hg
+πc
+32 mm Hg
+Figure 28- 16 Summary of the hydrostatic and colloid <span class="c-yellow">osmotic</span> forces 
+that determine fluid reabsorption by the peritubular capillaries. The 
+numerical values shown are estimates of the normal values for hu-
+mans. The net reabsorptive pressure is normally about 10 mm Hg, 
+causing fluid and solutes to be reabsorbed into the peritubular cap-
+illaries as they are transported across the renal tubular cells. <span class="c-cyan">ATP</span>, 
+<span class="c-cyan">Adenosine triphosphate</span>; P
+c, peritubular <span class="c-pink">capillary</span> hydrostatic pressure; 
+Pif, interstitial fluid hydrostatic pressure; πc, peritubular <span class="c-pink">capillary</span> col-
+loid <span class="c-yellow">osmotic</span> pressure; πif, interstitial fluid colloid <span class="c-yellow">osmotic</span> pressure.
+
+UNIT V
+ interstitium into the peritubular capillaries. This action in 
+turn raises renal interstitial fluid hydrostatic pressure and 
+decreases interstitial fluid colloid <span class="c-yellow">osmotic</span> pressure be -
+cause of dilution of the proteins in the renal interstitium. 
+These changes then decrease the net reabsorption of fluid 
+from the renal tubules into the interstitium, especially in 
+the proximal tubules.
+The mechanisms whereby changes in interstitial fluid 
+hydrostatic and colloid <span class="c-yellow">osmotic</span> pressures influence tubu-
+lar reabsorption can be understood by examining the 
+pathways through which solute and water are reabsorbed 
+(
+Figure 28-  17). Once the solutes enter the intercellular 
+channels or renal interstitium by <span class="c-yellow">active transport</span> or pas -
+sive diffusion, water is drawn from the tubular lumen 
+into the interstitium by <span class="c-yellow">osmosis</span>. Furthermore, once the 
+water and solutes are in the interstitial spaces, they can be 
+swept up into the peritubular capillaries or diffuse back 
+through the epithelial junctions into the tubular lumen. 
+The so- c alled tight junctions between the epithelial cells 
+of the <span class="c-pink">proximal tubule</span> are actually leaky, so considerable 
+amounts of sodium can diffuse in both directions through 
+these junctions. With the normal high rate of peritubular 
+<span class="c-pink">capillary</span> reabsorption, the net movement of water and 
+solutes is into the peritubular capillaries, with little back -
+leak into the lumen of the tubule. However, when peritu-
+bular <span class="c-pink">capillary</span> reabsorption is reduced, there is increased 
+interstitial fluid hydrostatic pressure and a tendency for 
+greater amounts of solute and water to leak back into the 
+tubular lumen, thereby reducing the rate of net reabsorp-
+tion (see 
+Figure 28- 17).
+The opposite is true when peritubular <span class="c-pink">capillary</span> reab -
+sorption increases above the normal level. An initial 
+increase in reabsorption by the peritubular capillar -
+ies tends to reduce interstitial fluid hydrostatic pressure 
+and raise interstitial fluid colloid <span class="c-yellow">osmotic</span> pressure. Both 
+these forces favor movement of fluid and solutes out of 
+the tubular lumen and into the interstitium; therefore, 
+backleak of water and solutes into the tubular lumen is 
+reduced, and net tubular reabsorption is increased.
+Thus, through changes in the hydrostatic and colloid 
+<span class="c-yellow">osmotic</span> pressures of the renal interstitium, the uptake of 
+water and solutes by the peritubular capillaries is closely 
+matched to the net reabsorption of water and solutes 
+from the tubular lumen into the interstitium. In general, 
+forces that increase peritubular <span class="c-pink">capillary</span> reabsorption 
+also increase reabsorption from the renal tubules. Con-
+versely, hemodynamic changes that <span class="c-green">inhibit</span> peritubular 
+<span class="c-pink">capillary</span> reabsorption also <span class="c-green">inhibit</span> tubular reabsorption of 
+water and solutes. 
+EFFECT OF ARTERIAL PRESSURE ON URINE 
+OUTPUT—PRESSURE NATRIURESIS AND 
+PRESSURE DIURESIS
+Even small increases in arterial pressure can cause marked 
+increases in urinary excretion of sodium and water, phe -
+nomena referred to as pressure natriuresis and pressure 
+diuresis. Because of the autoregulatory mechanisms 
+described in Chapter 27, increasing the arterial pressure 
+between the limits of 75 and 160 mm Hg usually has only 
+a small effect on renal blood flow and GFR. The slight 
+increase in GFR that does occur contributes in part to 
+Table 28- 2  Factors That Can Influence Peritubular 
+<span class="c-pink">Capillary</span> Reabsorption
+↑ Pc → ↓ Reabsorption
+• ↓ RA → ↑ Pc
+• ↓ RE → ↑ Pc
+• ↑ Arterial pressure → ↑ Pc
+↑ πc → ↑ Reabsorption
+• ↑ πA → ↑ πc
+• ↑ FF → ↑ πc
+↑ Kf → ↑ Reabsorption
+FF, Filtration fraction; Kf, peritubular <span class="c-pink">capillary</span> filtration coefficient; 
+Pc, peritubular <span class="c-pink">capillary</span> hydrostatic pressure; πA, arterial plasma 
+colloid <span class="c-yellow">osmotic</span> pressure; πc, peritubular <span class="c-pink">capillary</span> colloid <span class="c-yellow">osmotic</span> 
+pressure; RA and RE, afferent and efferent arteriolar resistances, 
+respectively.
+Decreased reabsorptionDecreased reabsorption
+NormalNormal
+<span class="c-cyan">ATP</span>
+<span class="c-cyan">ATP</span>
+Tubular
+cells
+Tubular
+cells
+LumenLumen
+Backleak Backleak
+Interstitial
+fluid
+Interstitial
+fluid
+Peritubular
+<span class="c-pink">capillary</span>
+Peritubular
+<span class="c-pink">capillary</span>
+Net
+reabsorption
+Net
+reabsorption
+<span class="c-cyan">ATP</span>
+<span class="c-cyan">ATP</span>
+Increased
+backleak
+Increased
+backleak
+ Decreased net
+reabsorption
+ Decreased net
+reabsorption
+PcPc
+πcπc
+PcPc
+πcπc
+Figure 28- 17 Proximal tubular and peritubular <span class="c-pink">capillary</span> reabsorption 
+under normal conditions (top) and during decreased peritubular cap-
+illary reabsorption (bottom) caused by increasing peritubular <span class="c-pink">capillary</span> 
+hydrostatic pressure (P c) or decreasing peritubular <span class="c-pink">capillary</span> colloid 
+<span class="c-yellow">osmotic</span> pressure (π c). Reduced peritubular <span class="c-pink">capillary</span> reabsorption, in 
+turn, decreases the net reabsorption of solutes and water by increas-
+ing the amounts of solutes and water that leak back into the tubular 
+lumen through the tight junctions of the tubular epithelial cells, espe-
+cially in the <span class="c-pink">proximal tubule</span>.
+
+UNIT V The Body Fluids and Kidneys
+the effect of increased arterial pressure on urine output. 
+When GFR <span class="c-yellow">autoregulation</span> is impaired, as often occurs in 
+kidney disease, increases in arterial pressure can cause 
+much larger increases in the GFR.
+A second effect of increased renal arterial pressure that 
+raises urine output is that it decreases the percentages of 
+the filtered loads of sodium and water that are reabsorbed 
+by the tubules. Although the mechanisms responsible for 
+this effect are not fully understood, they include a cascade 
+of physical factors, as well as paracrine and hormonal 
+effects. Increased arterial pressure causes a slight increase 
+in peritubular <span class="c-pink">capillary</span> hydrostatic pressure, especially 
+in the vasa recta of the renal medulla, and a subsequent 
+increase in the renal interstitial fluid hydrostatic pressure. 
+As discussed earlier, an increase in the renal interstitial 
+fluid hydrostatic pressure enhances backleak of sodium 
+into the tubular lumen, thereby reducing the net reab -
+sorption of sodium and water and further increasing the 
+rate of urine output when renal arterial pressure rises.
+A third factor that contributes to pressure natriuresis 
+and pressure diuresis is reduced <span class="c-cyan">angiotensin II</span> formation. 
+<span class="c-cyan">Angiotensin II</span> itself increases sodium reabsorption by the 
+tubules and <span class="c-green">stimulates</span> <span class="c-cyan">aldosterone</span> secretion, which fur -
+ther increases sodium reabsorption. Therefore, decreased 
+<span class="c-cyan">angiotensin II</span> formation contributes to the decreased 
+tubular sodium reabsorption that occurs when arterial 
+pressure is increased.
+A fourth factor that may contribute to pressure natri -
+uresis is internalization of sodium transporter proteins  
+from the apical membranes to the cytoplasm of the renal 
+tubules, thereby reducing the amount of sodium that can 
+be transported across the cell membranes. This effect of 
+increased arterial pressure may be mediated, in part, by 
+decreased <span class="c-cyan">angiotensin II</span> formation and other autacoid or 
+paracrine signals. 
+<span class="c-yellow">HORMONAL CONTROL</span> OF TUBULAR 
+REABSORPTION
+Precise regulation of body fluid volumes and solute con -
+centrations requires the kidneys to excrete different sol -
+utes and water at variable rates, sometimes independently 
+of one another. For example, when potassium intake is 
+increased, the kidneys must excrete more potassium 
+while maintaining normal excretion of sodium and other 
+electrolytes. Likewise, when sodium intake is changed, 
+the kidneys must adjust urinary sodium excretion appro -
+priately without major changes in excretion of other 
+electrolytes. Several hormones in the body provide this 
+specificity of tubular reabsorption for different electro -
+lytes and water. 
+Table 28- 3 summarizes some of the most 
+important hormones for regulating tubular reabsorption, 
+their principal sites of action on the renal tubule, and their 
+effects on solute and water excretion. Some of these hor -
+mones are discussed in more detail in Chapters 29 and 
+30, but here we briefly review their renal tubular actions.
+<span class="c-cyan">Aldosterone</span> <span class="c-green">Stimulates</span> Renal Sodium Reabsorption 
+and Potassium Secretion. <span class="c-cyan">Aldosterone</span>, secreted by the 
+zona glomerulosa cells of the adrenal cortex, is an im -
+portant regulator of sodium reabsorption and secretion 
+of potassium and hydrogen ions by the renal tubules. A 
+major renal tubular site of <span class="c-cyan">aldosterone</span> action is on the 
+principal cells of the cortical collecting tubule. The mecha-
+nism whereby <span class="c-cyan">aldosterone</span> increases sodium reabsorption 
+and potassium secretion is by stimulating the Na
++- K+ 
+ATPase pump on the basolateral side of the cortical col -
+lecting tubule membrane. <span class="c-cyan">Aldosterone</span> also increases the 
+sodium permeability of the luminal side of the membrane 
+by the insertion of epithelial sodium channels. The cel -
+lular mechanisms of <span class="c-cyan">aldosterone</span> action are discussed in 
+Chapter 78.
+The most important stimuli for <span class="c-cyan">aldosterone</span> are the fol-
+lowing: (1) increased extracellular potassium concentra -
+tion; and (2) increased <span class="c-cyan">angiotensin II</span> levels, which typically 
+occur in conditions associated with sodium and volume 
+depletion or low blood pressure. Increased secretion of 
+<span class="c-cyan">aldosterone</span> associated with these conditions causes renal 
+sodium and water retention, helping restore extracellular 
+fluid volume and blood pressure toward normal.
+When there is a deficit of <span class="c-cyan">aldosterone</span>, as occurs with 
+adrenal destruction or malfunction (Addison disease), 
+there is marked sodium loss from the body and accumu -
+lation of potassium. Conversely, excess <span class="c-cyan">aldosterone</span> secre-
+tion, as occurs in patients with adrenal tumors (Conn 
+syndrome), is associated with sodium retention and 
+decreased plasma potassium concentration due, in part, 
+to excessive potassium secretion by the kidneys. Although 
+daily regulation of sodium balance can be maintained as 
+long as minimal levels of <span class="c-cyan">aldosterone</span> are present, the 
+Table 28- 3   Hormones That Regulate T ubular Reabsorption
+Hormone Site of Action Effects
+<span class="c-cyan">Aldosterone</span> Collecting tubule and duct ↑NaCl, H2O reabsorption; ↑K+ secretion; 
+↑H+ secretion
+<span class="c-cyan">Angiotensin II</span> <span class="c-pink">Proximal tubule</span>, thick ascending loop of  
+Henle, <span class="c-pink">distal tubule</span>, collecting tubule
+↑NaCl, H2O reabsorption; ↑H+ secretion
+Antidiuretic hormone <span class="c-pink">Distal tubule</span>/collecting tubule and duct ↑H2O reabsorption
+Atrial natriuretic peptide <span class="c-pink">Distal tubule</span>/collecting tubule and duct ↓NaCl reabsorption
+Parathyroid hormone <span class="c-pink">Proximal tubule</span>, thick ascending loop of  
+Henle, <span class="c-pink">distal tubule</span>
+↓PO4− reabsorption; ↑Ca2+ reabsorption
+
+UNIT V
+inability to adjust <span class="c-cyan">aldosterone</span> secretion appropriately 
+greatly impairs the regulation of renal potassium excre-
+tion and potassium concentration of the body fluids. 
+Thus, <span class="c-cyan">aldosterone</span> is even more important as a regulator 
+of potassium concentration than for sodium concentra -
+tion, as discussed in Chapter 30. 
+<span class="c-cyan">Angiotensin II</span> Increases Sodium and Water Reab-
+sorption. <span class="c-cyan">Angiotensin II</span> is perhaps the body’s most pow-
+erful sodium- r etaining hormone. As discussed in Chapter 
+19, <span class="c-cyan">angiotensin II</span> formation increases in circumstances 
+associated with low blood pressure and/or low extracel -
+lular fluid volume, such as during hemorrhage or loss of 
+salt and water from the body fluids by excessive sweating 
+or severe diarrhea. Increased formation of angiotensin 
+II helps return blood pressure and extracellular volume 
+ toward normal by increasing sodium and water reabsorp-
+tion from the renal tubules through three main effects:
+ 1.   <span class="c-cyan">Angiotensin II</span> <span class="c-green">stimulates</span> <span class="c-cyan">aldosterone</span> secretion , 
+which in turn increases sodium reabsorption.
+ 2.   <span class="c-cyan">Angiotensin II</span> constricts the efferent arterioles, which 
+has two effects on peritubular <span class="c-pink">capillary</span> dynamics 
+that increase sodium and water reabsorption. First, 
+efferent arteriolar constriction reduces peritubular 
+<span class="c-pink">capillary</span> hydrostatic pressure, which increases net 
+tubular reabsorption, especially from the proximal 
+tubules. Second, efferent arteriolar constriction, by 
+reducing renal blood flow, raises filtration fraction 
+in the <span class="c-pink">glomerulus</span> and increases the concentration of 
+proteins and colloid <span class="c-yellow">osmotic</span> pressure in the peritu-
+bular capillaries. This mechanism also increases the 
+reabsorptive force at the peritubular capillaries and 
+raises tubular reabsorption of sodium and water.
+ 3.   <span class="c-cyan">Angiotensin II</span> directly <span class="c-green">stimulates</span> sodium reabsorp -
+tion in the proximal tubules, the loops of Henle, the 
+distal tubules, and the collecting tubules. One of 
+the direct effects of <span class="c-cyan">angiotensin II</span> is to <span class="c-green">stimulate</span> 
+the Na
++- K+ ATPase pump on the tubular epithe -
+lial cell basolateral membrane. A second effect is to 
+<span class="c-green">stimulate</span> sodium- h ydrogen exchange in the lumi -
+nal membrane, especially in the <span class="c-pink">proximal tubule</span>. A 
+third effect of <span class="c-cyan">angiotensin II</span> is to <span class="c-green">stimulate</span> sodium- 
+bicarbonate co-  transp ort in the basolateral mem -
+brane (Figure 28- 18).
+Thus, <span class="c-cyan">angiotensin II</span> <span class="c-green">stimulates</span> sodium transport 
+across both the luminal and basolateral surfaces of the 
+epithelial cell membrane in most renal tubular segments. 
+These multiple actions of <span class="c-cyan">angiotensin II</span> cause marked 
+sodium and water retention by the kidneys when angio -
+tensin II levels are increased and play a critical role in per-
+mitting the body to adapt to wide variations in sodium 
+intake without large changes in extracellular fluid volume 
+and blood pressure, as discussed in Chapter 30.
+At the same time that <span class="c-cyan">angiotensin II</span> increases renal 
+tubular sodium reabsorption, its vasoconstrictor effect on 
+efferent arterioles also aids in the maintenance of normal 
+excretion of metabolic waste products such as urea and 
+creatinine that depend mainly on an adequate GFR for 
+their excretion. Thus, increased formation of angiotensin 
+II permits the kidneys to retain sodium and water without 
+causing retention of metabolic waste products. 
+Antidiuretic Hormone Increases Water Reabsorption. 
+The most important renal action of <span class="c-cyan">ADH</span> is to increase the 
+water permeability of the <span class="c-pink">distal tubule</span>, collecting tubule, 
+and <span class="c-pink">collecting duct</span> epithelia. This effect helps the body 
+conserve water in circumstances such as dehydration. In 
+the absence of <span class="c-cyan">ADH</span>, the permeability of the distal tubules 
+and collecting ducts to water is low, causing the kidneys 
+to excrete large amounts of dilute urine, a condition called 
+diabetes insipidus. Thus, the actions of <span class="c-cyan">ADH</span> play a key 
+role in controlling the degree of dilution or concentration 
+of the urine, as discussed further in Chapters 29 and 76.
+<span class="c-cyan">ADH</span> binds to specific V
+2 receptors in the late distal 
+tubules, collecting tubules, and collecting ducts, increas -
+ing the formation of cyclic adenosine monophosphate 
+and activating protein kinases (
+Figure 28- 19). This action, 
+in turn, <span class="c-green">stimulates</span> movement of an intracellular protein, 
+called 
+aquaporin- 2 (AQP- 2), t o the luminal side of the cell 
+membranes. The molecules of AQP- 2 c luster together and 
+fuse with the cell membrane by exocytosis to form water 
+channels that permit rapid diffusion of water through the 
+cells. There are other aquaporins, AQP-  3 and A QP-  4, in  
+the basolateral side of the cell membrane that provide a 
+path for water to exit the cells rapidly, although these aqua-
+porins are not regulated by <span class="c-cyan">ADH</span>. Chronic increases in 
+<span class="c-cyan">ADH</span> levels also increase the formation of AQP- 2 pr otein 
+in the renal tubular cells by stimulating AQP- 2 g ene tran-
+scription. When the concentration of <span class="c-cyan">ADH</span> decreases, the 
+molecules of AQP- 2 are shuttled back to the cell cytoplasm, 
+thereby removing the water channels from the luminal 
+membrane and reducing water permeability. These actions 
+of <span class="c-cyan">ADH</span> are discussed further in Chapters 29 and 76. 
+++
++
+Renal
+interstitial
+fluid
+Tubular
+lumenTubular
+cells
+<span class="c-cyan">ATP</span>
+<span class="c-cyan">Na+</span>Na+
+<span class="c-cyan">K+</span>K+
+<span class="c-cyan">Na+</span>Na+
+HCO3
+–HCO3
+–
+NHE
+<span class="c-cyan">Na+</span>Na+
+H+H+
+Ang II Ang IIAT1 AT1
+Figure 28- 18 Direct effects of <span class="c-cyan">angiotensin II</span> (Ang II) to increase prox-
+imal tubular sodium reabsorption. Ang II <span class="c-green">stimulates</span> sodium- hydrogen 
+exchange (NHE) on the luminal membrane and Na+- K+ ATPase trans-
+porter as well as sodium- bicarbonate co-  transport on the basolateral 
+membrane. These same effects of Ang II likely occur in several other 
+parts of the renal tubule, including the loop of Henle, <span class="c-pink">distal tubule</span>, 
+and collecting tubule. AT
+1, <span class="c-cyan">Angiotensin II</span> type I receptor.
+
+UNIT V The Body Fluids and Kidneys
+Atrial Natriuretic Peptide Decreases Sodium and Wa-
+ter Reabsorption. When specific cells of the cardiac atria 
+are stretched because of plasma volume expansion and 
+increased atrial blood pressure, they secrete a peptide 
+called atrial natriuretic peptide (ANP). Increased levels 
+of this peptide in turn directly <span class="c-green">inhibit</span> reabsorption of 
+sodium and water by the renal tubules, especially in the 
+collecting ducts. ANP also <span class="c-green">inhibits</span> <span class="c-cyan">renin</span> secretion and 
+therefore <span class="c-cyan">angiotensin II</span> formation, which in turn reduces 
+renal tubular reabsorption. This decreased sodium and 
+water reabsorption increases urinary excretion, which 
+helps return the blood volume back toward normal.
+ANP levels are greatly elevated in congestive heart fail-
+ure when the cardiac atria are stretched because of impaired 
+pumping of the ventricles. The increased ANP level helps 
+attenuate sodium and water retention in heart failure. 
+Parathyroid Hormone Increases Calcium Reabsorp-
+tion. Parathyroid hormone is one of the most important 
+calcium- r egulating hormones in the body. Its principal 
+action in the kidneys is to increase tubular reabsorption 
+of calcium, especially in the distal tubules and connecting 
+tubules, a tubular segment that connects the distal tubules 
+with the cortical <span class="c-pink">collecting duct</span>. Parathyroid hormone 
+also has other actions, including <span class="c-green">inhibit</span>ion of phosphate 
+reabsorption by the <span class="c-pink">proximal tubule</span> and stimulation of 
+magnesium reabsorption by the loop of Henle, as dis -
+cussed in Chapter 30. 
+<span class="c-yellow">SYMPATHETIC</span> NERVOUS SYSTEM 
+ACTIVATION INCREASES SODIUM 
+REABSORPTION
+Activation of the <span class="c-yellow">sympathetic</span> nervous system, if severe, 
+can decrease sodium and water excretion by constrict -
+ing the renal arterioles, thereby reducing the GFR. Even 
+low levels of <span class="c-yellow">sympathetic</span> activation, however, decrease 
+sodium and water excretion by increasing sodium reab-
+sorption in the <span class="c-pink">proximal tubule</span>, the thick ascending limb 
+of the loop of Henle, and perhaps in more distal parts of 
+the renal tubule. This occurs by activation of α
+- adrenergic 
+receptors on the renal tubular epithelial cells.
+<span class="c-yellow">Sympathetic</span> nervous system stimulation also increases 
+<span class="c-cyan">renin</span> release and <span class="c-cyan">angiotensin II</span> formation, which adds to 
+the overall effect to increase tubular reabsorption and 
+decrease renal excretion of sodium. 
+USE OF CLEARANCE METHODS TO 
+QUANTIFY KIDNEY FUNCTION
+The rates at which different substances are cleared from 
+the plasma provide a useful way of quantitating the effec-
+tiveness with which the kidneys excrete various sub-
+stances (
+Table 28- 4). By definition, the renal clearance 
+of a substance is the volume of plasma that is completely 
+cleared of the substance by the kidneys per unit of time.
+Although there is no single volume of plasma that is 
+completely cleared of a substance, renal clearance provides 
+a useful way of quantifying excretory function of the kid -
+neys. We can use renal clearance to quantify renal blood 
+flow, GFR, tubular reabsorption, and tubular secretion.
+To illustrate the clearance principle, consider the fol -
+lowing example. If the plasma passing through the kidneys 
+contains 1 milligram of a substance in each milliliter, and 
+if 1 milligram of this substance is also excreted into the 
+urine each minute, then 1 ml/min of the plasma is cleared 
+of the substance. Clearance refers to the volume of plasma 
+that would be necessary to supply the amount of substance 
+excreted in the urine per unit of time. Stated mathematically:
+Cs × Ps =U s × V
+where C s is the clearance rate of a substance s, P s is 
+the plasma concentration of the substance, U s is the 
+urine concentration of that substance, and V is the urine 
+flow rate. Rearranging this equation, clearance can be 
+expressed as:
+Cs = Us × V
+Ps
+Thus, renal clearance of a substance is calculated from 
+the urinary excretion rate (U s × V) of that substance 
+divided by its plasma concentration.
+INULIN CLEARANCE CAN BE USED TO 
+ESTIMATE GLOMERULAR FILTRATION RATE
+If a substance is freely filtered (filtered as freely as water) 
+and is not reabsorbed or secreted by the renal tubules, 
+then the rate at which that substance is excreted in the 
+Renal
+interstitial
+fluid
+Tubular
+lumenTubular
+cells
+H2OH2O
+H2OH2O
+ATPATP
+cAMPcAMP
+AC
+Protein
+Kinase
+A
+Protein
+Phosphorylation
+Aquaporin-2 (AQP-2)
+AQP-2
+AQP-3
+AQP-4
+AVP
+AVPV 2
+V2
+Gs
+Gs
+Figure 28- 19 Mechanism of action of arginine <span class="c-cyan">vasopressin</span> (AVP) on 
+the epithelial cells of the late distal tubules, collecting tubules, and 
+collecting ducts. AVP binds to its V 2 receptors, which are  coupled 
+with stimulatory G proteins (G s) that <span class="c-green">activate</span> adenylate cyclase (AC) 
+and <span class="c-green">stimulate</span> formation of cyclic adenosine monophosphate (cAMP). 
+This, in turn, <span class="c-green">activates</span> protein kinase A and phosphorylation of 
+ intracellular proteins, causing movement of aquaporin-  2 (AQP- 2) to 
+the luminal side of the cell membrane. The molecules of AQP- 2 fuse 
+together to form water channels. On the basolateral side of the cell 
+membrane are other aquaporins, 
+AQP- 3 and AQP- 4, that permit wa-
+ter to flow out of the cell, although these aquaporins do not appear 
+to be regulated by AVP.
+
+UNIT V
+urine (U s × V) is equal to the filtration rate of the sub -
+stance by the kidneys (GFR × Ps). Thus:
+GFR × Ps =U s × V
+The GFR, therefore, can be calculated as the clearance 
+of the substance as follows:
+GFR = Us × V
+PS
+= C2
+A substance that fits these criteria is inulin, a polysac-
+charide molecule with a molecular weight of about 5200. 
+Inulin, which is not produced in the body, is found in the 
+roots of certain plants and must be administered intrave-
+nously to a patient to measure GFR.
+Figure 28- 20 shows the renal handling of inulin. In this 
+example, the plasma concentration is 1 mg/ml, urine con-
+centration is 125 mg/ml, and urine flow rate is 1 ml/min. 
+Therefore, 125 mg/min of inulin passes into the urine. 
+Then, inulin clearance is calculated as the urine excre -
+tion rate of inulin divided by the plasma concentration, 
+which yields a value of 125 ml/min. Thus, 125 milliliters 
+of plasma flowing through the kidneys must be filtered to 
+deliver the inulin that appears in the urine.
+Inulin is not the only substance that can be used for 
+determining the GFR. Other substances that have been 
+used clinically to estimate the GFR include iothalamate, 
+chromium ethylenediaminetetraacetic acid (EDTA), cys -
+tatin C, and creatinine. 
+CREATININE CLEARANCE AND PLASMA 
+CREATININE CONCENTRATION CAN 
+BE USED TO ESTIMATE GLOMERULAR 
+FILTRATION RATE
+Creatinine is a by-  pr oduct of muscle metabolism and is 
+cleared from the body fluids almost entirely by glomer -
+ular filtration. Therefore, creatinine clearance can also 
+be used to assess GFR. Because measurement of cre-
+atinine clearance does not require intravenous infusion 
+into the patient, this method is much more widely used 
+than inulin clearance for estimating GFR clinically. How-
+ever, creatinine clearance is not a perfect marker of GFR 
+because a small amount of it is secreted by the tubules, 
+so the amount of creatinine excreted slightly exceeds the 
+amount filtered. There is normally a slight error in mea-
+suring plasma creatinine that leads to an overestimation 
+of the plasma creatinine concentration; fortuitously, these 
+two errors tend to cancel each other. Therefore, creatinine 
+clearance provides a reasonable estimate of GFR.
+In some cases, it may not be practical to collect urine 
+in a patient for measuring creatinine clearance (C
+Cr). 
+An approximation of changes in GFR, however, can be 
+obtained by simply measuring the plasma creatinine con-
+centration (P Cr), which is inversely proportional to the 
+GFR:
+GFR ≈ CCr = UCr × ˙V
+PCr
+Table 28- 4   Use of Clearance to Quantify Kidney Function
+Term Equation Units
+Clearance rate
+Cs = Us × ˙V
+Ps
+ml/min
+Glomerular filtration rate
+GFR = Uinulin × ˙V
+Pinulin
+Clearance ratio Clearance ratio = Cs
+Cinulin
+None
+Effective renal plasma flow
+ERPF = C PAH = UPAH × ˙V
+PPAH
+ml/min
+Renal plasma flow
+RPF = CPAH
+EPAH
+=
+(
+UPAH × ˙V/PPAH
+)
+(PPAH−VPAH) /PPAH
+= UPAH × ˙V
+PPAH−VPAH
+ml/min
+Renal blood flow RBF = RPF
+1 − Hematocrit
+ml/min
+Excretion rate Excretion rate = U s × ˙V mg/min, mmol/min, or mEq/min
+Reabsorption rate Reabsorption rate = Filtered load − Excretion rate
+= (GFR × Ps) −
+(
+˙U × V
+) mg/min, mmol/min, or mEq/min
+Secretion rate Secretion rate  =  Excretion rate − Filtered load mg/min, mmol/min, or mEq/min
+Cs, Clearance rate of substance s; EPAH, PAH extraction ratio; ERPF, effective renal plasma flow; GFR, glomerular filtration rate; P, plasma 
+concentration; PAH, para- aminohippuric acid; PPAH, renal arterial PAH concentration; RBF, renal blood flow; RPF, renal plasma flow; S, a 
+substance; U, urine concentration; V˙, urine flow rate; VPAH, renal venous PAH concentration.
+
+UNIT V The Body Fluids and Kidneys
+If GFR suddenly decreases by 50%, the kidneys will tran-
+siently filter and excrete only half as much creatinine, caus-
+ing the accumulation of creatinine in the body fluids and 
+raising plasma concentration. The plasma concentration of 
+creatinine will continue to rise until the filtered load of cre-
+atinine (P
+Cr × GFR) and creatinine excretion (UCr × V) return 
+to normal, and a balance between creatinine production 
+and creatinine excretion is re- e stablished. This response will 
+occur when the plasma creatinine level increases to approxi-
+mately twice normal, as shown in Figure 28- 21.
+If GFR falls to one- f ourth normal, plasma creatinine level 
+would increase to about four times normal, and a decrease 
+of GFR to one- eigh th normal would raise plasma creatinine 
+level to eight times normal. Thus, under steady- st ate con-
+ditions, creatinine excretion rate equals the rate of creati-
+nine production, despite reductions in GFR.  H owever, this 
+ normal rate of creatinine excretion occurs at the expense 
+of an elevated plasma creatinine concentration, as shown 
+in 
+Figure 28- 22. 
+PARA- AMINOHIPPURIC ACID CLEARANCE 
+CAN BE USED TO ESTIMATE RENAL 
+PLASMA FLOW
+Theoretically, if a substance is completely cleared from the 
+plasma, the clearance rate of that substance is equal to the 
+total RPF. In other words, the amount of the substance 
+delivered to the kidneys in the blood (RPF × P
+s) would be 
+equal to the amount excreted in the urine (U s × V˙ ). Thus, 
+RPF could be calculated as follows:
+RPF = Us × ˙V
+Ps
+= Cs
+Creatinine production and
+renal excretion (g/day)
+Days 
+01 23 4
+Positive balance Production
+Excretion    GFR × PCreatinine
+Serum creatinine
+concentration (mg/dl)
+GFR (ml/min)
+Figure 28- 21 Effect of reducing glomerular filtration rate ( GFR) by 
+50% on the serum creatinine concentration and on creatinine excre-
+tion rate when the production rate of creatinine remains constant. 
+PCreatinine, Plasma creatinine concentration.Plasma creatinine concentration
+(mg/100 ml) 
+Glomerular filtration rate
+(ml/min) 
+25 50
+Normal
+75 100 125
+Figure 28-  22 Approximate relationship between glomerular filtra -
+tion rate (GFR ) and plasma creatinine concentration under steady-  
+state conditions. Decreasing GFR by 50% will increase plasma cre-
+atinine level to twice normal if creatinine production by the body 
+remains constant.
+Uinulin = 125 mg/ml
+Pinulin = 1 mg/ml
+V = 1 ml/min
+Amount filtered = Amount excreted
+GFR × Pinulin = Uinulin × V
+Uinulin × V
+Pinulin
+GFR = 
+GFR = 125 ml/min 
+.
+.
+.
+Figure 28- 20 Measurement of glomerular filtration rate (GFR) from the 
+renal clearance of inulin. Inulin is freely filtered by the glomerular capil-
+laries but is not reabsorbed by the renal tubules. P inulin, Plasma inulin 
+concentration; Uinulin, urine inulin concentration; V˙, urine flow rate.
+
+UNIT V
+Because the GFR is only about 20% of the total plasma 
+flow, a substance that is completely cleared from the 
+plasma must be excreted by tubular secretion, as well as 
+by glomerular filtration (
+Figure 28- 23). There is no known 
+substance that is completely cleared by the kidneys. One 
+substance, PAH, is about 90% cleared from the plasma. 
+Therefore, clearance of PAH can be used to approximate 
+RPF. To be more accurate, one can correct for the percent-
+age of PAH that is still in the blood when it leaves the kid-
+neys. The percentage of PAH removed from the blood is 
+known as the extraction ratio of PAH and averages about 
+90% in normal kidneys. In diseased kidneys, this extraction 
+ratio may be reduced because of the inability of damaged 
+tubules to secrete PAH into the tubular fluid.
+The calculation of RPF can be demonstrated by the fol-
+lowing example. Assume that the plasma concentration 
+of PAH is 0.01 mg/ml, urine concentration is 5.85 mg/ml, 
+and urine flow rate is 1 ml/min. PAH clearance can be 
+calculated from the rate of urinary PAH excretion (5.85 
+[mg/ml] × 1 [ml/min]) divided by the plasma PAH con -
+centration (0.01 mg/ml). Thus, the clearance of PAH is 
+calculated to be 585 ml/min.
+If the extraction ratio for PAH is 90%, the actual RPF 
+can be calculated by dividing 585 ml/min by 0.9, yielding 
+a value of 650 ml/min. Thus, total RPF can be calculated 
+as follows:
+Total renal plasma flow = PAH clearance
+PAH extraction ratio
+The extraction ratio (E PAH) is calculated as the differ -
+ence between the renal arterial PAH (P PAH) and renal 
+venous PAH (VPAH) concentrations, divided by the renal 
+arterial PAH concentration:
+EPAH = PPAH − VPAH
+PPAH
+One can calculate the total blood flow through the 
+kidneys from the total RPF and hematocrit (the per -
+centage of red blood cells in the blood). If the hema -
+tocrit is 0.45 and the total RPF is 650 ml/min, the total 
+blood flow through both kidneys is 650/(1 − 0.45), or 
+1182 ml/min. 
+FILTRATION FRACTION IS CALCULATED 
+FROM GFR DIVIDED BY RPF
+To calculate the filtration fraction, which is the fraction 
+of plasma that filters through the glomerular membrane, 
+one must first know the RPF (PAH clearance) and the 
+GFR (inulin clearance). If the RPF is 650 ml/min and the 
+GFR is 125 ml/min, the filtration fraction (FF) is calcu-
+lated as follows:
+FF = GFR/RPF = 125/650 =  0.19 
+CALCULATION OF TUBULAR 
+REABSORPTION OR SECRETION FROM 
+RENAL CLEARANCES
+If the rates of glomerular filtration and renal excretion 
+of a substance are known, one can calculate whether 
+there is a net reabsorption or net secretion of that sub -
+stance by the renal tubules. For example, if the rate 
+of excretion of the substance (U
+s × V) is less than the 
+filtered load of the substance (GFR × P s), then some 
+of the substance must have been reabsorbed from  
+the renal tubules. Conversely, if the excretion rate of 
+the substance is greater than its filtered load, then the 
+rate at which it appears in the urine represents the sum  
+of the rate of glomerular filtration plus tubular 
+secretion.
+The following example demonstrates the calculation 
+of tubular reabsorption. Assume the following laboratory 
+values for a patient were obtained:
+	 •	 	U rine 	 flow 	 rate 	 = 	 1 	 ml/min
+	 •	 	U rine 	c oncentration 	of 	s odium 	(UNa) = 70 mEq/L = 
+70 μEq/ml
+	 •	 	P lasma 	 s odium 	 c oncentration 	 = 	 140 	 mEq/L 	 = 	 140 	
+μEq/ml
+	 •	 	GFR 	 (inulin 	 clearance) 	 = 	 100 	 ml/min
+In this example, the filtered sodium load is GFR × PNa, 
+or 100 ml/min × 140 μEq/ml = 14,000 μEq/min. Urinary 
+sodium excretion (U Na × urine flow rate) is 70 μEq/min. 
+Therefore, tubular reabsorption of sodium is the differ -
+ence between the filtered load and urinary excretion, or 
+14,000 μEq/min − 70 μEq/min = 13,930 μEq/min.
+UPAH = 5.85 mg/ml
+PPAH = 0.01 mg/ml
+V = 1 ml/min
+UPAH × V
+PPAH
+Renal plasma flow
+   = 
+Renal venous
+PAH =
+0.001 mg/ml
+.
+Figure 28-  23 Measurement of renal plasma flow from the renal 
+clearance of para- aminohippuric acid (PAH). PAH is freely filtered by 
+the glomerular capillaries and is also secreted from the peritubular 
+<span class="c-pink">capillary</span> blood into the tubular lumen. The amount of PAH in the 
+plasma of the renal artery is about equal to the amount of PAH ex -
+creted in the urine. Therefore, the renal plasma flow can be calculat-
+ed from the clearance of PAH. To be more accurate, one can correct 
+for the percentage of PAH that is still in the blood when it leaves the 
+kidneys. P
+PAH, Arterial plasma PAH concentration; U PAH, urine PAH 
+concentration; V, urine flow rate.
+
+UNIT V The Body Fluids and Kidneys
+Comparisons of Inulin Clearance with Clearances of 
+Different Solutes . The following generalizations can be 
+made by comparing the clearance of a substance with the 
+clearance of inulin, the gold standard for measuring GFR: 
+(1) if the clearance rate of the substance equals that of inu-
+lin, the substance is only filtered and not reabsorbed or se -
+creted; (2) if the clearance rate of a substance is less than 
+inulin clearance, the substance must have been reabsorbed 
+by the nephron tubules; and (3) if the clearance rate of a 
+substance is greater than that of inulin, the substance must 
+be secreted by the nephron tubules. Listed below are the 
+approximate clearance rates for some of the substances 
+normally handled by the kidneys:
+Substance Clearance Rate (ml/min)
+Glucose 0
+Sodium 0.9
+Chloride 1.3
+Potassium 12.0
+Phosphate 25.0
+Inulin 125.0
+Creatinine 140.0
+Bibliography
+Bie P: Natriuretic peptides and normal body fluid regulation. Compr 
+Physiol 8:1211, 2018.
+Delpire E, Gagnon KB: Na+ -  K+ -  2Cl-   Cotransporter (NKCC) physi -
+ological function in nonpolarized cells and transporting epithelia. 
+Compr Physiol 25;8:871, 2018.
+Féraille E, Dizin E: Coordinated control of ENaC and Na+,K+-  ATPase 
+in renal <span class="c-pink">collecting duct</span>. J Am Soc Nephrol 27:2554, 2016.
+Fromm M, Piontek J, Rosenthal R, Günzel D, Krug SM: Tight junctions 
+of the <span class="c-pink">proximal tubule</span> and their channel proteins. Pflugers Arch 
+469:877, 2018.
+Gonzalez- Vicente A, Saez F, Monzon CM, Asirwatham J, Garvin JL: 
+Thick ascending limb sodium transport in the pathogenesis of hy -
+pertension. Physiol Rev 99:235, 2019.
+Hall JE, Brands MW: The <span class="c-cyan">renin</span>- angiotensin-  <span class="c-cyan">aldosterone</span> system: renal 
+mechanisms and circulatory <span class="c-yellow">homeostasis</span>. In: Seldin DW, Giebisch 
+G (eds): The Kidney—Physiology and Pathophysiology, 3rd ed. New 
+York: Raven Press, 2000.
+Hall JE, do Carmo JM, da Silva AA, Wang Z, Hall ME: Obesity- induced 
+hypertension: interaction of neurohumoral and renal mechanisms. 
+Circ Res 116:991, 2015.
+Hall JE, Granger JP, do Carmo JM, et al: Hypertension: physiology and 
+pathophysiology. Compr Physiol 2:2393, 2012.
+Klein JD, Sands JM: Urea transport and clinical potential of urearetics. 
+Curr Opin Nephrol Hypertens 25:444, 2016.
+Knepper MA, Kwon TH, Nielsen S: Molecular physiology of water bal-
+ance. N Engl J Med 372:1349, 2015.
+Ko B: Parathyroid hormone and the regulation of renal tubular cal -
+cium transport. Curr Opin Nephrol Hypertens 26:405, 2017.
+Makrides V, Camargo SM, Verrey F: Transport of amino acids in the 
+kidney. Compr Physiol 4:367, 2014.
+McCormick JA, Ellison DH: Distal convoluted tubule. Compr Physiol 
+5:45, 2015.
+Moe SM: Calcium <span class="c-yellow">homeostasis</span> in health and in kidney disease. Com-
+pr Physiol 6:1781, 2016.
+Mount DB. Thick ascending limb of the loop of Henle. Clin J Am Soc 
+Nephrol 9:1974, 2014.
+Nielsen S, Frøkiær J, Marples D, et al: Aquaporins in the kidney: from 
+molecules to medicine. Physiol Rev 82:205, 2002.
+Palmer LG, Schnermann J: Integrated control of Na transport along 
+the nephron. Clin J Am Soc Nephrol 10:676, 2015.
+Reilly RF, Ellison DH: Mammalian <span class="c-pink">distal tubule</span>: physiology, patho-
+physiology, and molecular anatomy. Physiol Rev 80:277, 2000.
+Rieg T, Vallon V: Development of SGLT1 and SGLT2 <span class="c-green">inhibit</span>ors. Diabe-
+tologia 61:2079, 2018.
+Rossier BC, Baker ME, Studer RA: Epithelial sodium transport and its 
+control by <span class="c-cyan">aldosterone</span>: the story of our internal environment revis-
+ited. Physiol Rev 95:297, 2015.
+Roy A, Al-  bataineh MM, Pastor-  Soler NM: <span class="c-pink">Collecting duct</span> interca -
+lated cell function and regulation. Clin J Am Soc Nephrol 10:305, 
+2015.
+Seegmiller JC, Eckfeldt JH, Lieske JC: Challenges in measuring glo -
+merular filtration rate: a clinical laboratory perspective. Adv Chron-
+ic Kidney Dis 25:84, 2018.
+Staruschenko A: Beneficial effects of high potassium: contribution of 
+renal basolateral K+ channels. Hypertension 71:1015, 2018.
+Staruschenko A: Regulation of transport in the connecting tubule and 
+cortical <span class="c-pink">collecting duct</span>. Compr Physiol 2:1541, 2012.
+Thomson SC, Blantz RC: Glomerulotubular balance, tubuloglomeru -
+lar feedback, and salt <span class="c-yellow">homeostasis</span>. J Am Soc Nephrol 19:2272, 
+2008.
+Wang K, Kestenbaum B: Proximal tubular secretory clearance: a  
+neglected partner of kidney function. Clin J Am Soc Nephrol 
+13:1291, 2018.
+Wang T, Weinbaum S, Weinstein AM: Regulation of glomerulotubu-
+lar balance: flow- <span class="c-green">activate</span>d <span class="c-pink">proximal tubule</span> function. Pflugers Arch 
+469:643, 2017.
+Yamazaki O, Ishizawa K, Hirohama D, Fujita T, Shibata S: Electrolyte 
+transport in the renal <span class="c-pink">collecting duct</span> and its regulation by the <span class="c-cyan">renin</span>- 
+angiotensin- <span class="c-cyan">aldosterone</span> system. Clin Sci (Lond) 133:75, 2019.
+
+UNIT V
+For the cells of the body to function properly, they must 
+be bathed in extracellular fluid with a relatively constant 
+concentration of electrolytes. The total concentration of 
+solutes in the extracellular fluid—and therefore the osmo-
+larity—must also be precisely regulated to prevent the 
+cells from shrinking or swelling. The osmolarity is deter -
+mined by the amount of solute (mainly sodium chloride) 
+divided by the volume of the extracellular fluid. Thus, to 
+a large extent, extracellular fluid osmolarity and sodium 
+chloride concentration are regulated by the amount of 
+extracellular water. The total body water is controlled 
+by (1) fluid intake, which is regulated by factors that 
+determine thirst; and (2) renal water excretion, which is 
+controlled by multiple factors that influence glomerular 
+filtration and tubular reabsorption.
+In this chapter, we discuss the following: (1) mecha -
+nisms that cause the kidneys to eliminate excess water by 
+excreting a dilute urine; (2) mechanisms that cause the 
+kidneys to conserve water by excreting a concentrated 
+urine; (3) renal feedback mechanisms that control the 
+extracellular fluid sodium concentration and osmolarity; 
+and (4) thirst and salt appetite mechanisms that deter -
+mine the intakes of water and salt, which also help con -
+trol extracellular fluid volume, osmolarity, and sodium 
+concentration.
+KIDNEYS EXCRETE EXCESS WATER BY 
+FORMING DILUTE URINE
+Normal kidneys have a tremendous capability to vary 
+the relative proportions of solutes and water in the urine 
+in response to various challenges. When there is excess 
+water in the body, and body fluid osmolarity is reduced, 
+the kidneys can excrete urine with an osmolarity as low as 
+50 mOsm/L, a concentration that is only about one-sixth 
+the osmolarity of normal extracellular fluid. Conversely, 
+when there is a deficit of water in the body, and extra -
+cellular fluid osmolarity is high, the kidneys can excrete 
+highly concentrated urine with an osmolarity of 1200 
+to 1400 mOsm/L. Equally important, the kidneys can 
+excrete a large volume of dilute urine or a small volume 
+of concentrated urine without major changes in rates of 
+excretion of solutes such as sodium and potassium. This 
+ability to regulate water excretion independently of solute 
+excretion is necessary for survival, especially when fluid 
+intake is limited.
+ANTIDIURETIC HORMONE CONTROLS 
+URINE CONCENTRATION
+The body has a powerful feedback system for regulating 
+plasma osmolarity and sodium concentration that oper -
+ates by altering renal excretion of water independently of 
+solute excretion rate. A primary effector of this feedback 
+is antidiuretic hormone (<span class="c-cyan">ADH</span>), also called <span class="c-cyan">vasopressin</span>.
+When osmolarity of the body fluids increases above 
+normal (i.e., the solutes in the body fluids become too 
+concentrated), the posterior pituitary gland secretes 
+more <span class="c-cyan">ADH</span>, which increases the permeability of the dis -
+tal tubules and collecting ducts to water, as discussed in 
+tion and decreases urine volume but does not markedly 
+alter the rate of renal excretion of the solutes.
+When there is excess water in the body, and extracel -
+lular fluid osmolarity is reduced, secretion of <span class="c-cyan">ADH</span> by the 
+posterior pituitary decreases, thereby reducing the per -
+meability of the <span class="c-pink">distal tubule</span> and collecting ducts to water, 
+which causes increased amounts of more dilute urine to 
+be excreted. Thus, the rate of <span class="c-cyan">ADH</span> secretion determines, 
+to a large extent, whether the kidney excretes dilute or 
+concentrated urine. 
+RENAL MECHANISMS FOR EXCRETING 
+DILUTE URINE
+When there is a large excess of water in the body, the 
+kidney can excrete as much as 20 L/day of dilute urine, 
+with a concentration as low as 50 mOsm/L. The kidney 
+performs this impressive feat by continuing to reabsorb 
+solutes without reabsorbing large amounts of water in the 
+distal parts of the nephron, including the late <span class="c-pink">distal tubule</span> 
+and collecting ducts.
+Urine Concentration and Dilution; Regulation of  
+Extracellular Fluid Osmolarity and Sodium Concentration
+CHAPTER 29
+
+
+UNIT V The Body Fluids and Kidneys
+Figure 29-1 shows the approximate renal responses in 
+a human after ingestion of 1 liter of water. Note that urine 
+volume increased to about six times normal within 45 min-
+utes after the water had been ingested. However, the total 
+amount of solute excreted remained relatively constant 
+because the urine formed became dilute, and urine osmo-
+larity decreased from 600 to about 100 mOsm/L. Thus, after 
+ingestion of excess water, the kidney rids the body of the 
+excess water but does not excrete excess amounts of solutes.
+When the glomerular filtrate is initially formed, 
+its osmolarity is about the same as that of plasma (300 
+mOsm/L). To excrete excess water, the filtrate is diluted 
+as it passes along the tubule by reabsorbing solutes to a 
+greater extent than water, as shown in Figure 29-2. This 
+dilution, however, occurs only in certain segments of the 
+tubular system, as described in the following sections.
+Tubular Fluid Remains Isosmotic in Proximal Tu -
+bules. As fluid flows through the <span class="c-pink">proximal tubule</span>, solutes 
+and water are reabsorbed in equal proportions, so little 
+change in osmolarity occurs. Thus, the <span class="c-pink">proximal tubule</span> 
+fluid remains isosmotic to the plasma, with an osmolar -
+ity of about 300 mOsm/L. As fluid passes down the de -
+scending loop of Henle, water is reabsorbed by <span class="c-yellow">osmosis</span>, 
+and the tubular fluid reaches equilibrium with the sur -
+rounding interstitial fluid of the renal medulla, which is 
+very hypertonic—about two to four times the osmolarity 
+of the original glomerular filtrate. Therefore, the tubular 
+fluid becomes more concentrated as it flows into the in -
+ner medulla. 
+Tubular Fluid Is Diluted in the Ascending Loop of 
+Henle. In the ascending limb of the loop of Henle, es -
+pecially in the thick segment, sodium, potassium, and 
+chloride are avidly reabsorbed. However, this portion of 
+the tubular segment is impermeable to water, even in the 
+presence of large amounts of <span class="c-cyan">ADH</span>. Therefore, the tubular 
+fluid becomes more dilute as it flows up the ascending 
+loop of Henle into the early <span class="c-pink">distal tubule</span>, with the osmo -
+larity decreasing progressively to about 100 mOsm/L by 
+the time the fluid enters the early distal tubular segment. 
+Thus, regardless of whether <span class="c-cyan">ADH</span> is present or absent, fluid 
+leaving the early distal tubular segment is hypo-  <span class="c-yellow">osmotic</span>, 
+with an osmolarity of only about one-third the osmolarity 
+of plasma. 
+Tubular Fluid in Distal and Collecting Tubules Is  
+Further Diluted in Absence of <span class="c-cyan">ADH</span>. As the dilute fluid 
+in the early <span class="c-pink">distal tubule</span> passes into the late distal convo-
+luted tubule, cortical <span class="c-pink">collecting duct</span>, and medullary col -
+lecting duct, there is additional reabsorption of sodium 
+chloride. In the absence of <span class="c-cyan">ADH</span>, this portion of the tu -
+bule is also impermeable to water, and the additional re -
+absorption of solutes causes the tubular fluid to become 
+even more dilute, decreasing its osmolarity to as low as 50 
+mOsm/L. The failure to reabsorb water and continued re-
+absorption of solutes lead to a large volume of dilute urine.
+To summarize, the mechanism for forming dilute 
+urine is to continue reabsorbing solutes from the distal 
+segments of the tubular system while reducing water 
+reabsorption. In healthy kidneys, fluid leaving the ascend-
+ing loop of Henle and early <span class="c-pink">distal tubule</span> is always dilute, 
+regardless of the level of <span class="c-cyan">ADH</span>. In the absence of <span class="c-cyan">ADH</span>, the 
+urine is further diluted in the late <span class="c-pink">distal tubule</span> and collect-
+ing ducts, and a large volume of dilute urine is excreted. 
+Urinary solute
+excretion
+(mOsm/min)
+1.2
+0.6
+0 18012060
+Time (minutes)
+Urine flow rate
+(ml/min)
+Osmolarity
+(mOsm/L)
+Urine
+osmolarity
+Plasma
+osmolarity
+Drink 1.0 L H2O
+Figure 29-1. Water diuresis in a person after ingestion of 1 liter of 
+water. Note that after water ingestion, urine volume increases and 
+urine osmolarity decreases, causing excretion of a large volume of 
+dilute urine; however, the total amount of solute excreted by the 
+kidneys remains relatively constant. These responses of the kidneys 
+prevent plasma osmolarity from decreasing markedly during excess 
+water ingestion.
+NaCl
+NaCl
+NaCl
+NaCl
+NaCl
+300 300
+400 400
+Medulla Cortex
+H2O
+H2O
+300 1001 00
+Figure 29-2. Formation of dilute urine when antidiuretic hormone 
+(<span class="c-cyan">ADH</span>) levels are very low. Note that in the ascending loop of Henle, 
+the tubular fluid becomes very dilute. In the distal tubules and collect-
+ing tubules, the tubular fluid is further diluted by the reabsorption of 
+sodium chloride and the failure to reabsorb water when <span class="c-cyan">ADH</span> levels 
+are very low. The failure to reabsorb water and continued reabsorp -
+tion of solutes lead to a large volume of dilute urine. (Numerical val -
+ues are in milliosmoles per liter.)

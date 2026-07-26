@@ -3,654 +3,1196 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH55"
 title: "Spinal Cord Motor Functions; the Cord Reflexes"
 book: "Guyton & Hall"
-summary: "The spinal cord contains the neuronal circuitry essential for all motor control, including reflex arcs that operate independently of brain input. Sensory signals enter through dorsal roots and synapse on interneurons or directly on anterior motor neurons (alpha and gamma types), which innervate skeletal muscle fibers. Propriospinal fibers coordinate multisegmental movements, while Renshaw cells provide lateral inhibition to sharpen motor output."
+summary: "Chapter 55 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
 key_points:
-  - "Alpha motor neurons innervate extrafusal skeletal muscle fibers and determine final common output to skeletal muscle"
-  - "Gamma motor neurons innervate intrafusal fibers within muscle spindles, maintaining spindle sensitivity during muscle contraction"
-  - "Interneurons receive input from sensory fibers and descending corticospinal tracts, integrating signals before converging on anterior motor neurons"
-  - "Renshaw cells provide recurrent inhibition (lateral inhibition) to surrounding motor neurons, preventing lateral spread of motor signals"
-  - "Propriospinal fibers coordinate四肢 and躯干 movements by transmitting signals between multiple spinal cord segments"
+  - "Content extracted directly from official Guyton & Hall PDF source"
 ---
-## CORTICOSPINAL TRACT
 
-
-> **Figure 56-1 shows the functional areas of the cerebral cortex. Anterior to the central cortical sulcus, occupying approximately the posterior one third of the frontal lobes, is the motor cortex. Posterior to the central sulcus is the somatosensory cortex (an area discussed in detail in earlier**
-
-chapters), which feeds the motor cortex many of the signals that initiate motor activities. The motor cortex is divided into three subareas, each of which has its own topographical representation of muscle groups and specific motor functions: (1) the primary motor cortex; (2) the premotor area; and (3) the supplementary motor area.
-
-## PRIMARY MOTOR CORTEX
-
-
-The primary motor cortex, shown in Figure 56-1, lies in the first convolution of the frontal lobes anterior to the central sulcus. It begins laterally in the sylvian fissure, spreads superiorly to the uppermost portion of the brain, and then dips deep into the longitudinal fissure. (This area is the same as area 4 in Brodmann’s classification of the brain cortical areas, shown in Figure 48-5.)
-
-
-> **Figure 56-1 lists the approximate topographical representations of the different muscle areas of the body in the primary motor cortex, beginning with the face and mouth region near the sylvian fissure; the arm and hand area, in the midportion of the primary motor cortex; the trunk, near the apex of the brain; and the leg and foot areas, in the part of the primary motor cortex that dips into the longitudinal fissure. This topographical organization is demonstrated even more graphically in Figure 56-2, which shows the degrees of representation of the different muscle areas as mapped by Penfield and Rasmussen. This mapping was done by electrically stimulating the different**
-
-areas of the motor cortex in human beings were undergoing neurosurgery. Note that more than half of the entire
-
-primary motor cortex is concerned with controlling the muscles of the hands and the muscles of speech. Point stimulation in these hand and speech motor areas on rare occasion causes contraction of a single muscle, but most often, stimulation contracts a group of muscles. To express this in another way, excitation of a single motor cortex neuron usually excites a specific movement rather than one specific muscle.
-
-To do this, it excites a “pattern” of separate muscles, each of which contributes its own direction and strength of muscle movement. Cortical and Brain Stem Control of Motor Function Primary motor cortex Supplementary area Premotor area Face Hand Arm 4 Trunk Feet Legs 7 6 5 3, 2, 1 Mouth Somatic area 1 Motor Sensory Somatic association area
-
-
-> **Figure 56-1. Motor and somatosensory functional areas of the cerebral cortex. The numbers 4, 5, 6, and 7 are Brodmann’s cortical areas, as explained in Chapter 48. UNIT XI 	The Nervous System: C. Motor and Integrative Neurophysiology**
-
-
-## PREMOTOR AREA
-
-
-The premotor area, also shown in Figure 56-1, lies 1 to 3 centimeters anterior to the primary motor cortex. It extends inferiorly into the sylvian fissure and superiorly
-
-into the longitudinal fissure, where it abuts the supplementary motor area, which has functions similar to those
-
-of the premotor area. The topographical organization of the premotor cortex is roughly the same as that of the primary motor cortex, with the mouth and face areas located most laterally; as one moves upward, the hand, arm, trunk, and leg areas are encountered. Nerve signals generated in the premotor area cause much more complex “patterns” of movement than the discrete patterns generated in the primary motor cortex.
-
-For example, the pattern may be to position the shoulders and arms so that the hands are properly oriented
-
-to perform specific tasks. To achieve these results, the most anterior part of the premotor area first develops a “motor image” of the total muscle movement that is to be performed. Then, in the posterior premotor cortex, this image excites each successive pattern of muscle activity required to achieve the image.
-
-This posterior part of the
-
-premotor cortex sends its signals either directly to the primary motor cortex to excite specific muscles or, often, by
-
-way of the basal ganglia and thalamus back to the primary motor cortex. A special class of neurons called mirror neurons becomes active when a person performs a specific motor task or when he or she observes the same task performed by others. Thus, the activity of these neurons “mirrors” the behavior of another person as though the observer was performing the specific motor task.
-
-Brain imaging studies indicate that these neurons transform sensory representations of acts that are heard or seen into motor representations of these acts. Many neurophysiologists believe that these mirror neurons may be important for
-
-understanding the actions of other people and for learning new skills by imitation. Thus, the premotor cortex, basal ganglia, thalamus, and primary motor cortex constitute a complex overall system for the control of complex patterns of coordinated muscle activity.
-
-## SUPPLEMENTARY MOTOR AREA
-
-The supplementary motor area has yet another topographical organization for the control of motor function. It lies mainly in the longitudinal fissure but extends a few centimeters onto the superior frontal cortex. Contractions elicited by stimulating this area are often bilateral rather than unilateral.
-
-For example, stimulation frequently leads to bilateral grasping movements of both hands simultaneously; these movements are perhaps rudiments of the hand functions required for climbing. In general, this area functions in concert with the premotor area to provide body-wide attitudinal movements, fixation movements of the different segments of the
-
-body, positional movements of the head and eyes, and so forth, as background for the finer motor control of the arms and hands by the premotor area and primary motor cortex.
-
-SOME SPECIALIZED AREAS OF MOTOR CONTROL FOUND IN THE HUMAN
-
-## MOTOR CORTEX
-
-A few highly specialized motor regions of the human cerebral cortex (shown in Figure 56-3) control specific motor functions. These regions have been localized either by electrical stimulation or by noting the loss of motor function when destructive lesions occur in specific cortical
-
-areas. Some of the more important regions are described in the following sections. Trunk Shoulder Elbow Wrist Hand Little finger Ring finger Middle finger Index finger Thumb Neck Brow Face Lips Vocalization Mastication Salivation JawTongue Swallowing Eyelid and eyeball Hip Knee Ankle Toes
-
-
-> **Figure 56-2. Degree of representation of the different muscles of the body in the motor cortex. (Modified from Penfield W, Rasmussen T: The Cerebral Cortex of Man: A Clinical Study of Localization of Function. New York: Hafner, 1968.) Chewing Swallowing Tongue Jaw Vocalization Lips Neck Fingers Hips Legs Feet Thumb Trunk Arms Supplemental and premotor areas Primary motor cortex Contralateral eye movements Head rotation Choice of words Eye fixation Hand skills Word formation (Broca’s area)**
-
-
-> **Figure 56-3. Representation of the different muscles of the body in the motor cortex and location of other cortical areas responsible for specific types of motor movements. CHAPTER 56 	Cortical and Brain Stem Control of Motor Function Broca’s Area (Motor Speech Area). Figure 56-3 shows**
-
-a premotor area labeled “word formation” lying immediately anterior to the primary motor cortex and immediately above the sylvian fissure. This region is called Broca’s area. Damage to it does not prevent a person from vocalizing but makes it impossible for the person to speak whole words rather than uncoordinated utterances or an occasional simple word such as “no” or “yes.” A closely associated cortical area also causes appropriate respiratory
-
-function, so respiratory activation of the vocal cords can occur simultaneously with the movements of the mouth and tongue during speech. Thus, the premotor neuronal activities related to speech are highly complex. “Voluntary” Eye Movement Field.
-
-In the premotor area immediately above Broca’s area is a locus for controlling voluntary eye movements. Damage to this area prevents a person from voluntarily moving the eyes toward different objects. Instead, the eyes tend to lock involuntarily onto specific objects, an effect controlled by signals from the occipital visual cortex, as explained in Chapter 52.
-
-This
-
-frontal area also controls eyelid movements such as blinking. Head Rotation Area. Slightly higher in the motor association area, electrical stimulation elicits head rotation.
-
-This
-
-area is closely associated with the eye movement field; it directs the head toward different objects. Area for Hand Skills. In the premotor area immediately anterior to the primary motor cortex for the hands and
-
-fingers is a region that is important for “hand skills.” That is, when tumors or other lesions cause destruction in this area, hand movements become uncoordinated and nonpurposeful, a condition called motor apraxia. TRANSMISSION OF SIGNALS FROM THE
-
-## MOTOR CORTEX TO THE MUSCLES
-
-Motor signals are transmitted directly from the cortex to the spinal cord through the corticospinal tract and indirectly through multiple accessory pathways that involve the
-
-basal ganglia, cerebellum, and various nuclei of the brain stem. In general, the direct pathways are concerned with discrete and detailed movements, especially of the distal segments of the limbs, particularly the hands and fingers. Corticospinal (Pyramidal) Tract The most important output pathway from the motor
-
-cortex is the corticospinal tract, also called the pyramidal tract, shown in Figure 56-4. The corticospinal tract originates about 30% from the primary motor cortex, 30% from the premotor and supplementary motor areas, and 40% from the somatosensory areas posterior to the central sulcus. After leaving the cortex, it passes through the posterior limb of the internal capsule (between the caudate
-
-nucleus and the putamen of the basal ganglia) and then downward through the brain stem, forming the pyramids of the medulla. Most of the pyramidal fibers then cross in the lower medulla to the opposite side and descend into
-
-the lateral corticospinal tracts of the cord, finally terminating principally on the interneurons in the intermediate regions of the cord gray matter. A few terminate on sensory relay neurons in the dorsal horn, and a very few terminate directly on the anterior motor neurons that cause
-
-muscle contraction. A few of the fibers do not cross to the opposite side in the medulla but pass ipsilaterally down the cord in the ventral corticospinal tracts. Many, if not most, of these fibers eventually cross to the opposite side of the cord either in the neck or in the upper thoracic region.
-
-These fibers may be concerned with control of bilateral postural movements by the supplementary motor cortex. The most impressive fibers in the pyramidal tract are a
-
-population of large myelinated fibers with a mean diameter of 16 micrometers. These fibers originate from giant
-
-Posterior limb of internal capsule Corpus callosum Motor cortex Lateral corticospinal tract Ventral corticospinal tract Pyramid of medulla oblongata Longitudinal fascicles of pons Basis pedunculi of mesencephalon
-
-
-> **Figure 56-4. Corticospinal (pyramidal) tract. (Modified from Ranson SW, Clark SL: Anatomy of the Nervous System. Philadelphia: WB Saunders, 1959.) UNIT XI 	The Nervous System: C. Motor and Integrative Neurophysiology pyramidal cells, called Betz cells, that are found only in the primary motor cortex. The Betz cells are about 60 micrometers in diameter, and their fibers transmit nerve impulses to the spinal cord at a velocity of about 70 m/sec, the most rapid rate of transmission of any signals from the brain to the cord. There are about 34,000 of these large**
-
-Betz cell fibers in each corticospinal tract. The total number of fibers in each corticospinal tract is more than 1 million, so these large fibers represent only 3% of the total. The other 97% are mainly fibers smaller than 4 micrometers in diameter that conduct background tonic signals
-
-to the motor areas of the cord. Other Fiber Pathways From the Motor Cortex The motor cortex gives rise to large numbers of additional, mainly small fibers that go to deep regions in the cerebrum and brain stem, including the following:
-
-1. The axons from the giant Betz cells send short collaterals back to the cortex. These collaterals are believed
-
-to inhibit adjacent regions of the cortex when the Betz cells discharge, thereby “sharpening” the boundaries of the excitatory signal.
-2. A large number of fibers pass from the motor cortex
-
-into the caudate nucleus and putamen. From there, additional pathways extend into the brain stem and spinal
-
-cord, as discussed in the next chapter, mainly to control body postural muscle contractions.
-3. A moderate number of motor fibers pass to red nuclei of
-the midbrain. From these nuclei, additional fibers pass down the cord through the rubrospinal tract.
-
-4. A moderate number of motor fibers deviate into the reticular substance and vestibular nuclei of the brain stem;
-
-from there, signals go to the cord via reticulospinal and vestibulospinal tracts, and others go to the cerebellum via reticulocerebellar and vestibulocerebellar tracts.
-5. A tremendous number of motor fibers synapse in the
-
-pontile nuclei, which give rise to the pontocerebellar fibers, carrying signals into the cerebellar hemispheres.
-6. Collaterals also terminate in the inferior olivary nuclei,
-and from there, secondary olivocerebellar fibers transmit signals to multiple areas of the cerebellum.
-
-Thus, the basal ganglia, brain stem, and cerebellum all receive strong motor signals from the corticospinal system every time a signal is transmitted down the spinal cord to cause a motor activity. Incoming Sensory Fiber Pathways to the Motor Cortex The functions of the motor cortex are controlled mainly by nerve signals from the somatosensory system but also, to some degree, from other sensory systems such as hearing and vision. Once the sensory information is received, the motor cortex operates in association with the basal ganglia and cerebellum to excite appropriate motor actions.
-
-The
-
-more important incoming fiber pathways to the motor cortex are the following:
-
-1. Subcortical fibers from adjacent regions of the cerebral
-cortex, especially from (a) the somatosensory areas of the parietal cortex, (b) the adjacent areas of the frontal cortex anterior to the motor cortex, and (c) the visual and auditory cortices.
-
-2. Subcortical fibers that arrive through the corpus callosum from the opposite cerebral hemisphere. These fibers connect corresponding areas of the cortices in the
-two sides of the brain.
-3. Somatosensory fibers that arrive directly from the ventrobasal complex of the thalamus. These fibers relay
-
-mainly cutaneous tactile signals and joint and muscle signals from the peripheral body.
-4. Tracts from the ventrolateral and ventroanterior nuclei
-of the thalamus, which in turn receive signals from the
-
-cerebellum and basal ganglia. These tracts provide signals that are necessary for coordination among the motor control functions of the motor cortex, basal ganglia,
-
-and cerebellum.
-5. Fibers from the intralaminar nuclei of the thalamus.
-These fibers control the general level of excitability of
-
-the motor cortex in the same way they control the general level of excitability of most other regions of the cerebral cortex. THE RED NUCLEUS SERVES AS
-
-## AN ALTERNATIVE PATHWAY FOR
-
-TRANSMITTING CORTICAL SIGNALS TO
-
-## THE SPINAL CORD
-
-
-The red nucleus, located in the mesencephalon, functions in close association with the corticospinal tract. As shown in Figure 56-5, it receives a large number of direct fibers from the primary motor cortex through the corticorubral tract, as well as branching fibers from the corticospinal tract as it passes through the mesencephalon. These fibers
-
-synapse in the lower portion of the red nucleus, the magnocellular portion, which contains large neurons similar
-
-in size to the Betz cells in the motor cortex. These large neurons then give rise to the rubrospinal tract, which crosses to the opposite side in the lower brain stem and follows a course immediately adjacent and anterior to the corticospinal tract into the lateral columns of the spinal cord. Motor cortex Interpositus nucleus Dentate nucleus Cerebellum Red nucleus Reticular formation Rubrospinal tract Corticorubral tract
-
-
-> **Figure 56-5. The corticorubrospinal pathway for motor control, also showing the relation of this pathway to the cerebellum. CHAPTER 56 	Cortical and Brain Stem Control of Motor Function**
-
-The rubrospinal fibers terminate mostly on the interneurons of the intermediate areas of the cord gray matter, along with the corticospinal fibers, but some of the
-
-rubrospinal fibers terminate directly on anterior motor neurons, along with some corticospinal fibers. The red nucleus also has close connections with the cerebellum, similar to the connections between the motor cortex and the cerebellum.
-
-The Corticorubrospinal System Is an Accessory Pathway for Transmitting Relatively Discrete Signals From the Motor Cortex to the Spinal Cord. The magnocellular portion of the red nucleus has a somatographic representation of all the muscles of the body, as does the motor cortex. Therefore, stimulation of a single point in this portion of the red nucleus causes contraction of either a single muscle or a small group of muscles.
-
-However,
-
-the fineness of representation of the different muscles is far less developed than in the motor cortex, especially in human beings, who have relatively small red nuclei. The corticorubrospinal pathway serves as an accessory route for transmission of relatively discrete signals from
-
-the motor cortex to the spinal cord. When the corticospinal fibers are destroyed but the corticorubrospinal pathway is intact, discrete movements can still occur, except that the movements for fine control of the fingers and hands are considerably impaired. Wrist movements are still functional, which is not the case when the corticorubrospinal pathway is also blocked.
-
-Therefore, the pathway through the red nucleus to the spinal cord is associated with the corticospinal system. Furthermore, the rubrospinal tract lies in the lateral columns of the spinal cord, along with the corticospinal tract, and terminates on the interneurons and motor neurons that control the more distal muscles of the limbs. Therefore, the corticospinal and rubrospinal tracts together are called the lateral motor system of the cord, in contradistinction to a vestibuloreticulospinal system, which lies mainly medially in the cord and is called the medial motor system of the cord, as discussed later in this chapter.
-
-EXCITATION OF THE SPINAL CORD MOTOR CONTROL AREAS BY THE PRIMARY MOTOR CORTEX AND RED
-
-## NUCLEUS
-
-Neurons in the Motor Cortex Are Arranged in Vertical Columns. In Chapters 48 and 52, we pointed out that the cells in the somatosensory cortex and visual cortex are organized in vertical columns of cells. The cells of the motor cortex are also organized in vertical columns a fraction of a millimeter in diameter, with thousands of neurons in each column.
-
-Each column of cells functions as a unit, usually stimulating a group of synergistic muscles, but sometimes
-
-stimulating just a single muscle. Also, each column has six distinct layers of cells, as is true throughout nearly all the cerebral cortex. The pyramidal cells that give rise
-
-to the corticospinal fibers all lie in the fifth layer of cells from the cortical surface. The input signals all enter via layers 2 through 4, and the sixth layer gives rise mainly to fibers that communicate with other regions of the cerebral cortex. Each Column of Neurons Functions as an Integrative Processing System.
-
-The neurons of each column operate as an integrative processing system, using information from multiple input sources to determine the output response from the column. In addition, each column can function as an amplifying system to stimulate large numbers of pyramidal fibers to the same muscle or to synergistic muscles simultaneously. This ability is important because stimulation of a single pyramidal cell seldom excites
-
-a muscle. Usually, 50 to 100 pyramidal cells need to be excited simultaneously or in rapid succession to achieve definitive muscle contraction. Dynamic and Static Signals Are Transmitted by the
-
-Pyramidal Neurons. If a strong signal is sent to a muscle to cause initial rapid contraction, then a much weaker continuing signal can maintain the contraction for long periods thereafter. This process is the usual manner in which excitation is provided to cause muscle contractions.
-
-To provide this excitation, each column of cells excites two populations of pyramidal cell neurons, one called dynamic neurons and the other static neurons. The dynamic neurons are excited at a high rate for a short period at the beginning of a contraction, causing the initial
-
-rapid development of force. The static neurons then fire at a much slower rate, but they continue firing at this slow rate to maintain the force of contraction as long as the contraction is required. The neurons of the red nucleus have similar dynamic and static characteristics, except that a greater percentage of dynamic neurons is in the red nucleus and a greater
-
-percentage of static neurons is in the primary motor cortex. This may be related to the fact that the red nucleus is closely allied with the cerebellum, and the cerebellum plays an important role in rapid initiation of muscle contraction, as explained in the next chapter.
-
-Somatosensory Feedback to the Motor Cortex Helps Control Precision of Muscle Contraction
-
-When nerve signals from the motor cortex cause a muscle to contract, somatosensory signals return all the way
-
-from the activated region of the body to the neurons in the motor cortex that are initiating the action. Most of these somatosensory signals arise in the following: (1) the muscle spindles; (2) the muscle tendon organs; or (3) the tactile receptors of the skin overlying the muscles. These somatic signals often cause positive feedback enhancement of the muscle contraction in the following ways.
-
-In the case of the muscle spindles, if the fusimotor muscle fibers in the spindles contract more than the large skeletal muscle fibers contract, the central portions of the spindles become stretched and, therefore, excited. Signals
-
-
-from these spindles then return rapidly to the pyramidal cells in the motor cortex signal them that the large muscle fibers have not contracted enough. The pyramidal cells further excite the muscle, helping its contraction to catch up with the contraction of the muscle spindles. In the case of the tactile receptors, if the muscle contraction causes
-
-compression of the skin against an object, such as compression of the fingers around an object being grasped,
-
-the signals from the skin receptors can, if necessary, cause further excitation of the muscles and, therefore, increase the tightness of the hand grasp. Stimulation of the Spinal Motor Neurons Figure 56-6 shows a cross section of a spinal cord segment
-
-demonstrating the following: (1) multiple motor and sensorimotor control tracts entering the cord segment; and (2) a representative anterior motor neuron in the middle of the anterior horn gray matter. The corticospinal tract and the rubrospinal tract lie in the dorsal portions of the lateral white columns. Their fibers terminate mainly on interneurons in the intermediate area of the cord gray matter.
-
-In the cervical enlargement of the cord where the hands and fingers are represented, large numbers of both corticospinal and rubrospinal fibers also terminate directly on
-
-the anterior motor neurons, allowing a direct route from the brain to activate muscle contraction. This mechanism is in keeping with the fact that the primary motor cortex has an extremely high degree of representation for fine control of hand, finger, and thumb actions.
-
-Patterns of Movement Elicited by Spinal Cord Centers. From Chapter 55, recall that the spinal cord can provide certain specific reflex patterns of movement in response to sensory nerve stimulation. Many of these same patterns are also important when the cord’s anterior motor neurons are excited by signals from the brain.
-
-For example, the stretch reflex is functional at all times, helping to damp any oscillations of the motor movements initiated from the brain. This reflex probably also provides
-
-at least part of the motive power required to cause muscle contractions when the intrafusal fibers of the muscle spindles contract more than the large skeletal muscle fibers, thus eliciting reflex “servo-assist” stimulation of the muscle, in addition to the direct stimulation by the corticospinal fibers. Also, when a brain signal excites a muscle, it is usually unnecessary to transmit an inverse signal to relax
-
-the antagonist muscle at the same time; this relaxation is achieved by the reciprocal innervation circuit that is always present in the cord for coordinating the function of antagonistic pairs of muscles.
-
-Finally, other cord reflex mechanisms, such as withdrawal, stepping and walking, scratching, and postural mechanisms, can each be activated by “command” signals from the brain. Thus, simple command signals from the brain can initiate many normal motor activities, particularly for such functions as walking and attaining different postural attitudes of the body. Effect of Lesions in the Motor Cortex or in the Corticospinal Pathway Reduced Brain Blood Supply Caused by a Stroke.
-
-The motor control system can be damaged by the common abnormality called a “stroke.” A stroke is caused by either a ruptured blood vessel that hemorrhages into the brain or by thrombosis of one of the major arteries supplying blood to the brain. In either case, the result is loss of blood supply
-
-to the cortex or to the corticospinal tract where it passes through the internal capsule between the caudate nucleus and the putamen.
-
-Removal of the Primary Motor Cortex (Area Pyramidalis). Surgical removal of a portion of the primary motor cortex—the area that contains the giant Betz pyramidal cells—causes varying degrees of paralysis of the represented muscles. If the sublying caudate nucleus and adjacent premotor and supplementary motor areas are not damaged, gross postural and limb “fixation” movements can still occur, but there is loss of voluntary control of discrete
-
-movements of the distal segments of the limbs, especially of the hands and fingers. This does not mean that the hand and finger muscles cannot contract; rather, the ability to
-
-control the fine movements is gone. From these observations, one can conclude that the area pyramidalis is essential for voluntary initiation of finely controlled movements,
-
-especially of the hands and fingers. Muscle Spasticity Caused by Lesions That Damage Large Areas Adjacent to the Motor Cortex. The primary motor cortex normally exerts a continual tonic stimulatory effect
-
-on the motor neurons of the spinal cord; when this stimulatory effect is removed, hypotonia results. Most lesions of the motor cortex, especially those caused by a stroke, involve
-
-not only the primary motor cortex but also adjacent parts of the brain, such as the basal ganglia. In these cases, muscle spasm almost invariably occurs in the afflicted muscle areas
-
-on the opposite side of the body (because the motor pathways cross to the opposite side). This spasm results mainly
-
-Sensory neurons Propriospinal tract Interneurons Corticospinal tract from pyramidal cells of cortex Rubrospinal tract Reticulospinal tract Anterior motor neuron Motor nerve Tectospinal and reticulospinal tracts Vestibulospinal and reticulospinal tracts
-
-
-> **Figure 56-6. Convergence of different motor control pathways on the anterior motor neurons. CHAPTER 56 	Cortical and Brain Stem Control of Motor Function from damage to accessory pathways from the nonpyramidal**
-
-portions of the motor cortex. These pathways normally inhibit the vestibular and reticular brain stem motor nuclei. When these nuclei cease their state of inhibition (i.
-
-e., are “disinhibited”), they become spontaneously active and cause excessive spastic tone in the involved muscles, as we discuss more fully later in this chapter. This spasticity is that which normally accompanies a “stroke” in a human being. CONTROL OF MOTOR FUNCTIONS BY
-
-## THE BRAIN STEM
-
-The brain stem consists of the medulla, pons, and mesencephalon (or midbrain). In one sense, it is an extension
-
-of the spinal cord upward into the cranial cavity because it contains motor and sensory nuclei that perform motor and sensory functions for the face and head regions in the same way that the spinal cord performs these functions from the neck down. In another sense, however, the brain stem is its own master because it provides many special control functions, such as the following:
-1. Control of respiration
-2. Control of the cardiovascular system
-3. Partial control of gastrointestinal function
-4. Control of many stereotyped movements of the
-body
-5. Control of equilibrium
-6. Control of eye movements
-
-Finally, the brain stem serves as a way station for “command signals” from higher neural centers. Many of these functions are discussed in other chapters in this text. In the following sections, we discuss the role of the brain stem in controlling whole-body movement and equilibrium.
-
-Especially important for these purposes are the brain stem’s reticular nuclei and vestibular nuclei.
-
-## SUPPORT OF THE BODY AGAINST
-
-GRAVITY—ROLES OF THE RETICULAR
-
-## AND VESTIBULAR NUCLEI
-
-
-> **Figure 56-7 shows the locations of the reticular and vestibular nuclei in the brain stem. ExcitatoryInhibitory Antagonism Between Pontine and Medullary Reticular Nuclei The reticular nuclei are divided into two major groups: (1)**
-
-pontine reticular nuclei, located slightly posteriorly and laterally in the pons and extending into the mesencephalon; and (2) medullary reticular nuclei, which extend through the entire medulla, lying ventrally and medially near the midline. These two sets of nuclei function mainly antagonistically to each other, with the pontine exciting the antigravity muscles and the medullary relaxing these same muscles. Pontine Reticular System Transmits Excitatory Signals.
-
-The pontine reticular nuclei transmit excitatory signals downward into the cord through the pontine reticulospinal tract in the anterior column of the cord, as shown in Figure 56-8. The fibers of this pathway terminate on the medial anterior motor neurons that excite the axial muscles of the body, which support the body against gravity—that is, the muscles of the vertebral column and the extensor muscles of the limbs. The pontine reticular nuclei have a high degree of natural excitability.
-
-In addition, they receive strong excitatory signals from the vestibular nuclei, as well as from deep nuclei of the cerebellum. Therefore, when the pontine reticular excitatory system is unopposed by the medullary reticular system, it causes powerful excitation of
-
-antigravity muscles throughout the body, so much so that four-legged animals can be placed in a standing position, supporting the body against gravity without any signals from higher levels of the brain.
-
-Medullary Reticular System Transmit Inhibitory Signals. The medullary reticular nuclei transmit inhibitory signals to the same antigravity anterior motor neurons via a different tract, the medullary reticulospinal tract, located in the lateral column of the cord, as also shown in Figure 56-8. The medullary reticular nuclei receive strong input collaterals from the following: (1) the corticospinal tract; (2) the rubrospinal tract; and (3) other motor pathways.
-
-These tracts and pathways normally activate the medullary reticular inhibitory system to counterbalance the excitatory signals from the pontine reticular system, so under normal conditions the body muscles are not abnormally tense.
-
-Yet, some signals from higher areas of the brain can “disinhibit” the medullary system when the brain wishes to excite the pontine system to cause standing. At other times, excitation of the medullary reticular system can Pontine reticular nuclei Medullary reticular nuclei Vestibular nuclei
-
-
-> **Figure 56-7. Locations of the reticular and vestibular nuclei in the brain stem. UNIT XI 	The Nervous System: C. Motor and Integrative Neurophysiology inhibit antigravity muscles in certain portions of the body**
-
-to allow those portions to perform special motor activities. The excitatory and inhibitory reticular nuclei constitute a controllable system that is manipulated by motor signals from the cerebral cortex and elsewhere to provide necessary background muscle contractions for standing against gravity and to inhibit appropriate groups of muscles as needed so that other functions can be performed.
-
-Role of the Vestibular Nuclei to Excite the Antigravity Muscles All the vestibular nuclei, shown in Figure 56-7, function in association with the pontine reticular nuclei to control the antigravity muscles. The vestibular nuclei transmit strong excitatory signals to the antigravity muscles via
-
-the lateral and medial vestibulospinal tracts in the anterior columns of the spinal cord, as shown in Figure 56-8.
-
-Without this support of the vestibular nuclei, the pontine reticular system would lose much of its excitation of the axial antigravity muscles. The specific role of the vestibular nuclei, however, is
-
-to selectively control the excitatory signals to the different
-
-antigravity muscles to maintain equilibrium in response to signals from the vestibular apparatus. We discuss this concept more fully later in this chapter. The Decerebrate Animal Develops Spastic Rigidity.
-
-When the brain stem of an animal is sectioned below the
-
-midlevel of the mesencephalon but the pontine and medullary reticular systems, as well as the vestibular system, are left intact, a condition called decerebrate rigidity develops. This rigidity does not occur in all the muscles of
-
-the body, but it does occur in the antigravity muscles— the muscles of the neck and trunk and the extensors of the legs.
-
-The cause of decerebrate rigidity is blockage of normally strong input to the medullary reticular nuclei from
-
-the cerebral cortex, the red nuclei, and the basal ganglia. Lacking this input, the medullary reticular inhibitor system becomes nonfunctional, full overactivity of the pontine excitatory system occurs, and rigidity develops. We shall see later that other causes of rigidity occur in other neuromotor diseases, especially lesions of the basal ganglia.
-
-VESTIBULAR SENSATIONS AND MAINTENANCE OF EQUILIBRIUM
-
-## VESTIBULAR APPARATUS
-
-
-The vestibular apparatus, shown in Figure 56-9, is the sensory organ for detecting sensations of equilibrium. It is encased in a system of bony tubes and chambers located in the petrous portion of the temporal bone, called the bony labyrinth. Within this system are membranous tubes and chambers called the membranous labyrinth.
-
-The membranous labyrinth is the functional part of the vestibular apparatus. The top of Figure 56-9 shows the membranous labyrinth. It is composed mainly of the cochlea (ductus Medullary reticulospinal tract Lateral vestibulospinal tract Pontine reticulospinal tract Medial vestibulospinal tract
-
-
-> **Figure 56-8. Vestibulospinal and reticulospinal tracts descending in**
-
-the spinal cord to excite (solid lines) or inhibit (dashed lines) the anterior motor neurons that control the body’s axial musculature.
-
-Gelatinous layer Hair tufts Nerve fibers Sustentacular cells Sustentacular cells Hair cells Gelatinous mass of cupula Hair tufts Utricle Ampullae Anterior Semicircular canals Maculae and statoconia Crista ampullaris Ductus cochlearis Saccule Posterior Ductus endolymphaticus
-
-MEMBRANOUS LABYRINTH Statoconia CRISTA AMPULLARIS AND MACULA
-
-Nerve fibers Hair cells
-
-
-> **Figure 56-9. Membranous labyrinth and organization of the crista ampullaris and the macula. CHAPTER 56 	Cortical and Brain Stem Control of Motor Function**
-
-cochlearis), three semicircular canals, and two large chambers, the utricle and saccule. The cochlea is the major sensory organ for hearing (see Chapter 53) and has little to do with equilibrium. However, the semicircular canals, the utricle, and the saccule are all integral parts of the equilibrium mechanism.
-
-“Maculae”—Sensory Organs of the Utricle and Saccule for Detecting Orientation of the Head With Respect to Gravity. Located on the inside surface of each utricle and saccule, shown in the top diagram of Figure 56-9, is a small sensory area slightly greater than 2 millimeters in diameter called a macula. The macula of the utricle lies mainly in the horizontal plane on the inferior surface of the utricle and plays an important role in determining orientation of the head when the head is upright.
-
-Conversely, the macula of the saccule is located mainly in a vertical plane and signals head orientation when the person is lying down. Each macula is covered by a gelatinous layer in which many small calcium carbonate crystals called statoconia are embedded. Also in the macula are thousands of hair cells, one of which is shown in Figure 56-10; these hair cells project cilia up into the gelatinous layer.
-
-The bases and sides of the hair cells synapse with sensory endings of the vestibular nerve. The calcified statoconia have a specific gravity two to three times the specific gravity of the surrounding fluid and tissues. The weight of the statoconia bends the cilia in the direction of gravitational pull.
-
-Directional Sensitivity of the Hair Cells—Kinocilium. Each hair cell has about 100 small cilia called stereocilia, plus one large cilium, the kinocilium, as shown in Figure 56-10. The kinocilium is always located to one side, and the stereocilia become progressively shorter toward the
-
-other side of the cell. Minute filamentous attachments, almost invisible even to the electron microscope, connect the tip of each stereocilium to the next longer stereocilium and, finally, to the kinocilium.
-
-Because of these attachments, when the stereocilia bend in the direction of the kinocilium, the filamentous attachments tug in sequence on the stereocilia, pulling them outward from the cell body. This movement opens several hundred cation channels in the neuronal cell membrane around the bases of the stereocilia, and these
-
-channels are capable of conducting large numbers of positive ions. Therefore, positive ions pour into the cell from
-
-the surrounding endolymphatic fluid, causing receptor membrane depolarization. Conversely, bending the pile of stereocilia in the opposite direction (backward, away
-
-from the kinocilium) reduces the tension on the attachments; this movement closes the ion channels, thus causing receptor hyperpolarization. Under normal resting conditions, the nerve fibers leading from the hair cells transmit continuous nerve impulses
-
-at a rate of about 100 per second. When the stereocilia are bent toward the kinocilium, the impulse traffic increases, often to several hundred per second; conversely, bending the cilia away from the kinocilium decreases the impulse traffic, often turning it off completely. Therefore, as the orientation of the head in space changes and the weight of the statoconia bends the cilia, appropriate signals are transmitted to the brain to control equilibrium.
-
-In each macula, each of the hair cells is oriented in a different direction so that some of the hair cells are stimulated when the head bends forward, some are stimulated when it bends backward, others are stimulated when it bends to one side, and so forth. Therefore, a different pattern of excitation occurs in the macular nerve fibers for each orientation of the head in the gravitational field. It is this “pattern”
-
-that apprises the brain of the head’s orientation in space. Semicircular Ducts. The three semicircular ducts in each vestibular apparatus, known as the anterior, posterior, and lateral (horizontal) semicircular ducts, are arranged at right angles to one another so that they represent all three planes in space.
-
-When the head is bent forward about 30 Nerve fiber Stereocilia Kinocilium Filamentous attachments
-
-
-> **Figure 56-10. A hair cell of the equilibrium apparatus and its synapses with the vestibular nerve. UNIT XI 	The Nervous System: C. Motor and Integrative Neurophysiology degrees, the lateral semicircular ducts are approximately horizontal with respect to the surface of the Earth; the anterior ducts are in vertical planes that project forward and 45 degrees outward, whereas the posterior ducts are in vertical planes that project backward and 45 degrees outward. Each semicircular duct has an enlargement at one of its ends called the ampulla, and the ducts and ampulla are filled with a fluid called endolymph. Flow of this fluid through one of the ducts and through its ampulla excites**
-
-the sensory organ of the ampulla in the following manner: Figure 56-11 shows a small crest in each ampulla
-
-called a crista ampullaris. On top of this crista is a loose gelatinous tissue mass, the cupula. When a person’s head begins to rotate in any direction, the inertia of the fluid in one or more of the semicircular ducts causes the fluid to remain stationary while the semicircular duct rotates with the head.
-
-This process causes fluid to flow from the duct and through the ampulla, bending the cupula
-
-to one side, as demonstrated by the position of the colored cupula in Figure 56-11. Rotation of the head in the opposite direction causes the cupula to bend to the opposite side. Hundreds of cilia from hair cells located on the ampullary crest are projected into the cupula.
-
-The kinocilia of these hair cells are all oriented in the same direction in the
-
-cupula, and bending the cupula in that direction causes depolarization of the hair cells, whereas bending it in the opposite direction hyperpolarizes the cells. Then, from
-
-the hair cells, appropriate signals are sent via the vestibular nerve to apprise the central nervous system of a change in rotation of the head and the rate of change in each of the three planes of space. FUNCTION OF THE UTRICLE AND SACCULE IN THE MAINTENANCE OF STATIC
-
-## EQUILIBRIUM
-
-It is especially important that the hair cells are all oriented in different directions in the maculae of the utricles and saccules so that with different positions of the head, different hair cells become stimulated. The “patterns” of stimulation of the different hair cells apprise the brain of the position of the head with respect to the pull of gravity. In turn, the vestibular, cerebellar, and reticular motor nerve systems of the brain excite
-
-appropriate postural muscles to maintain proper equilibrium. This utricle and saccule system functions extremely effectively for maintaining equilibrium when the head is
-
-in the near-vertical position. Indeed, a person can determine as little as half a degree of disequilibrium when the body leans from the precise upright position. Detection of Linear Acceleration by the Utricle and Saccule Maculae.
-
-When the body is suddenly thrust forward— that is, when the body accelerates—the statoconia, which have greater mass inertia than the surrounding fluid, fall backward on the hair cell cilia, and information of disequilibrium is sent into the nervous centers, causing the person to feel as though he or she were falling backward. This sensation automatically causes the person to lean forward until the resulting anterior shift of the statoconia exactly equals
-
-the tendency for the statoconia to fall backward because of the acceleration. At this point, the nervous system senses a state of proper equilibrium and leans the body forward no farther. Thus, the maculae operate to maintain equilibrium
-
-during linear acceleration in exactly the same manner as they
-
-operate during static equilibrium. The maculae do not operate for the detection of linear velocity. When runners first begin to run, they must lean far forward to keep from falling backward because of initial acceleration, but once they have achieved running speed, if they were running in a vacuum, they would not have to lean forward.
-
-When running in air, they lean forward to maintain equilibrium only because of air resistance against their bodies; in this case, it is not the maculae that make them lean but air pressure acting on pressure end-organs
-
-in the skin, which initiate appropriate equilibrium adjustments to prevent falling. DETECTION OF HEAD ROTATION BY THE
-
-## SEMICIRCULAR DUCTS
-
-When the head suddenly begins to rotate in any direction (called angular acceleration), the endolymph in the semicircular ducts, because of its inertia, tends to remain stationary while the semicircular ducts turn. This mechanism causes relative fluid flow in the ducts in the direction opposite to head rotation.
-
-> **Figure 56-12 shows a typical discharge signal from a single hair cell in the crista ampullaris when an animal is rotated for 40 seconds, demonstrating the following: (1) even when the cupula is in its resting position, the hair cell emits a tonic Cupula Ampulla Cristae ampullaris Hair cells Nerve**
-
-
-> **Figure 56-11. Movement of the cupula and its embedded hairs at the onset of rotation. CHAPTER 56 	Cortical and Brain Stem Control of Motor Function discharge of about 100 impulses per second; (2) when the animal begins to rotate, the hairs bend to one side, and the rate of discharge increases greatly; and (3) with continued**
-
-rotation, the excess discharge of the hair cell gradually subsides back to the resting level during the next few seconds.
-
-The reason for this adaptation of the receptor is that within the first few seconds of rotation, back resistance to the flow of fluid in the semicircular duct and past the bent cupula causes the endolymph to begin rotating as rapidly as the semicircular canal itself. Then, in another 5 to 20 seconds, the cupula slowly returns to its resting position in the middle of the ampulla because of its own elastic recoil. When the rotation suddenly stops, exactly opposite effects take place: The endolymph continues to rotate while the semicircular duct stops.
-
-This time, the cupula bends in the opposite direction, causing the hair cell to stop discharging entirely. After another few seconds, the endolymph stops moving and the cupula gradually returns to its resting position, thus allowing hair cell discharge to return to its normal tonic level, as shown at the right in Figure 56-12. Thus, the semicircular duct transmits a signal of one polarity when the head begins to rotate and of opposite polarity when it stops rotating.
-
-“Predictive” Function of the Semicircular Duct System in the Maintenance of Equilibrium. Because the semicircular ducts do not detect that the body is off balance in the forward direction, in the side direction, or in the backward direction, one might ask, “What is the function of the semicircular ducts in the maintenance of equilibrium?” All they detect is that the person’s head is beginning or stopping to rotate in one direction or another. Therefore, the function of the semicircular
-
-ducts is not to maintain static equilibrium or to maintain equilibrium during steady directional or rotational
-
-movements. Yet, loss of function of the semicircular ducts does cause a person to have poor equilibrium when attempting to perform rapid, intricate changing body movements. The function of the semicircular ducts can be explained by the following illustration: if a person is running forward rapidly and then suddenly begins to
-
-turn to one side, he or she will fall off balance a fraction of a second later unless appropriate corrections
-
-are made ahead of time. However, the maculae of the utricle and saccule cannot detect that the person is off balance until after the loss of balance has occurred. The semicircular ducts, however, will have already detected
-
-that the person is turning, and this information can easily apprise the central nervous system of the fact that
-
-the person will fall off balance within the next fraction of a second or so unless some anticipatory correction is made.
-
-In other words, the semicircular duct mechanism predicts that disequilibrium is going to occur and thereby
-
-causes the equilibrium centers to make appropriate anticipatory preventive adjustments, which helps the person maintain balance before the situation can be corrected.
-
-Removal of the flocculonodular lobes of the cerebellum prevents normal detection of semicircular duct
-
-signals but has less effect on detecting macular signals. It is especially interesting that the cerebellum serves as a “predictive” organ for most rapid movements of the body, as well as for those involving equilibrium. These
-
-other functions of the cerebellum are discussed in Chapter 57.
-
-Vestibular Mechanisms for Stabilizing the Eyes When a person changes direction of movement rapidly or even leans the head sideways, forward, or backward, it
-
-would be impossible to maintain a stable image on the retinas unless the person had some automatic control mechanism to stabilize the direction of the eyes’ gaze. In addition, the eyes would be of little use in detecting an image unless they remained fixed on each object long enough to gain a clear image. Fortunately, each time the head is suddenly rotated, signals from the semicircular ducts cause the eyes to
-
-rotate in a direction equal and opposite to the rotation of the head. This movement results from reflexes transmitted through the vestibular nuclei and the medial longitudinal
-
-fasciculus to the oculomotor nuclei. These reflexes are described in Chapter 52.
-
-Other Factors Concerned With Equilibrium Neck Proprioceptors. The vestibular apparatus detects the orientation and movement only of the head. Therefore,
-
-it is essential that the nervous centers also receive appropriate information about the orientation of the head with respect to the body. This information is transmitted from the proprioceptors of the neck and body directly to the vestibular and reticular nuclei in the brain stem and indirectly by way of the cerebellum. Among the most important proprioceptive information needed for the maintenance of equilibrium is that transmitted by joint receptors of the neck.
-
-When the head is leaned in one direction by bending the neck, impulses from the neck proprioceptors keep the signals originating in the vesImpulses per second
-
-Seconds 0 10 20 30 40 50 60 70 80 90 0 Rotation Stop rotation Begin rotation Tonic level of discharge
-
-
-> **Figure 56-12. Response of a hair cell when a semicircular canal is stimulated first by the onset of head rotation and then by stopping rotation. UNIT XI 	The Nervous System: C. Motor and Integrative Neurophysiology**
-
-tibular apparatus from giving the person a sense of disequilibrium. They perform this function by transmitting signals that exactly oppose the signals transmitted from the vestibular apparatus. However, when the entire body leans in one direction, the impulses from the vestibular apparatus are not opposed by signals from the neck proprioceptors; therefore, in this case, the person does perceive a change in
-
-equilibrium status of the entire body. Proprioceptive and Exteroceptive Information From Other Parts of the Body. Proprioceptive information from parts of the body other than the neck is also important in the maintenance of equilibrium.
-
-For example, pressure sensations from the footpads tell one (1) whether weight is distributed equally between the two feet and (2) whether weight on the feet is more forward or backward. Exteroceptive information is especially necessary for the maintenance of equilibrium when a person is running.
-
-The air pressure against the front of the body signals that a force is opposing the body in a direction different from that caused by gravitational pull; as a result, the person leans forward to oppose this force. Importance of Visual Information for Maintaining Equilibrium. After destruction of the vestibular apparatus, and even after loss of most proprioceptive information from the body, a person can still use the visual mechanisms reasonably effectively for maintaining equilibrium.
-
-Even a slight linear or rotational movement of the body instantaneously shifts the visual images on the retina, and this information is relayed to the equilibrium centers. Some people with bilateral destruction of the vestibular apparatus have almost normal equilibrium as long as their eyes are open, and all motions are performed slowly. However, when moving rapidly or when the eyes are closed, equilibrium is immediately
-
-lost. Neuronal Connections of the Vestibular Apparatus With the Central Nervous System Figure 53-13 shows the connections in the hindbrain of the vestibular nerve. Most of the vestibular nerve fibers terminate in the brain stem in the vestibular nuclei, which are located approximately at the junction of the medulla and the pons.
-
-Some fibers pass directly to the brain stem
-
-reticular nuclei without synapsing and also to the cerebellar fastigial, uvular, and flocculonodular lobe nuclei. The fibers that end in the brain stem vestibular nuclei synapse with secondorder neurons that also send fibers into the cerebellum, the vestibulospinal tracts, the medial longitudinal fasciculus, and other areas of the brain stem, particularly the
-
-reticular nuclei. The primary pathway for the equilibrium reflexes begins in the vestibular nerves, where the nerves are excited by the vestibular apparatus. The pathway then
-
-passes to the vestibular nuclei and cerebellum. Next, signals are sent into the reticular nuclei of the brain stem,
-
-as well as down the spinal cord via the vestibulospinal and reticulospinal tracts. The signals to the cord control the interplay between facilitation and inhibition of the many antigravity muscles, thus automatically controlling equilibrium.
-
-The flocculonodular lobes of the cerebellum are especially concerned with dynamic equilibrium signals from the semicircular ducts. In fact, destruction of these lobes results in almost exactly the same clinical symptoms as destruction of the semicircular ducts. That is, severe injury to either the lobes or the ducts causes loss of dynamic equilibrium during rapid changes in direction of motion but does not seriously disturb equilibrium under static conditions.
-
-It
-
-is believed that the uvula of the cerebellum plays a similar important role in static equilibrium. Signals transmitted upward in the brain stem from both the vestibular nuclei and the cerebellum via the medial longitudinal fasciculus cause corrective movements of the eyes every time the head rotates, so the eyes remain fixed
-
-on a specific visual object. Signals also pass upward (either through this same tract or through reticular tracts) to the cerebral cortex, terminating in a primary cortical center for equilibrium located in the parietal lobe deep in the sylvian fissure on the opposite side of the fissure from the auditory area of the superior temporal gyrus. These signals apprise the psyche of the equilibrium status of the body.
-
-Functions of Brain Stem Nuclei in Controlling Subconscious, Stereotyped Movements Rarely, a baby is born without brain structures above the mesencephalic region, a condition called anencephaly. Some of these babies have been kept alive for many months. They are able to perform some stereotyped movements for feeding, such as suckling, extrusion of unpleasant food from the mouth, and moving the hands to the mouth to suck the fingers.
-
-In addition, they can yawn and stretch. They can cry and can follow objects with movements of the eyes and head. Also, placing pressure on the upper anterior parts of their legs causes them to pull to the sitting position.
-
-It is clear that many of the stereotyped
-
-motor functions of the human being are integrated in the brain stem. Reticulospinal tract Rubrospinal tract Vestibulospinal tract Fastigioreticular tract Reticular substance Red nucleus Medial longitudinal fasciculus Fastigial nucleus Dentate nucleus Vestibular nucleus Flocculonodular lobe Vestibular nerve
-
-
-> **Figure 56-13. Connections of vestibular nerves through the vestibular nuclei (large pink oval area) with other areas of the central nervous system. CHAPTER 56 	Cortical and Brain Stem Control of Motor Function Bibliography Cembrowski MS, Spruston N: Heterogeneity within classical cell types is the rule: lessons from hippocampal pyramidal neurons. Nat Rev Neurosci 20:193, 2019.**
-
-Cullen KE: Vestibular processing during natural self-motion: implications for perception and action. Nat Rev Neurosci 20:346, 2019. Cullen KE, Taube JS: Our sense of direction: progress, controversies and challenges.
-
-Nat Neurosci 20:1465, 2017. Dokka K, Park H, Jansen M, DeAngelis GC, Angelaki DE: Causal inference accounts for heading perception in the presence of object motion. Proc Natl Acad Sci U S A 116:9060, 2019.
-
-Ebbesen CL, Brecht M: Motor cortex - to act or not to act? Nat Rev Neurosci 18:694, 2017. Fetsch CR, DeAngelis GC, Angelaki DE: Bridging the gap between theories of sensory cue integration and the physiology of multisensory neurons.
-
-Nat Rev Neurosci 14:429, 2013. Harrison TC, Murphy TH: Motor maps and the cortical control of movement. Curr Opin Neurobiol 24:88, 2014.
-
-Holtmaat A, Svoboda K: Experience-dependent structural synaptic plasticity in the mammalian brain. Nat Rev Neurosci 10:647, 2009. Kim HR, Angelaki DE, DeAngelis GC: The neural basis of depth perception from motion parallax.
-
-Philos Trans R Soc Lond B Biol Sci 2016
-
-### Jun 19;371(1697). pii: 20150256. doi: 10.1098/rstb.2015.0256.
-
-Laurens J, Angelaki DE: The brain vompass: a perspective on how selfmotion updates the head direction cell attractor. Neuron 97:275, 2018. Nachev P, Kennard C, Husain M: Functional role of the supplementary and pre-supplementary motor areas.
-
-Nat Rev Neurosci 9:856, 2008. Proske U, Allen T: The neural basis of the senses of effort, force and heaviness. Exp Brain Res 237:589, 2019.
-
-Proske U, Gandevia SC: Kinesthetic senses. Compr Physiol 8:1157, 2018. Proske U, Gandevia SC: The proprioceptive senses: their roles in signaling body shape, body position and movement, and muscle force.
-
-Physiol Rev 92:1651, 2012. Rizzolatti G, Cattaneo L, Fabbri-Destro M, Rozzi S: Cortical mechanisms underlying the organization of goal-directed actions and mirror neuron-based action understanding. Physiol Rev 94:655, 2014.
-
-Rizzolatti G, Sinigaglia C: The mirror mechanism: a basic principle of brain function. Nat Rev Neurosci. 17:757, 2016.
-
-Robles L, Ruggero MA: Mechanics of the mammalian cochlea. Physiol Rev 81:1305, 2001. Roelfsema PR, Holtmaat A: Control of synaptic plasticity in deep cortical networks.
-
-Nat Rev Neurosci 19:166, 2018. Scott SK, McGettigan C, Eisner F: A little more conversation, a little less action—candidate roles for the motor cortex in speech perception. Nat Rev Neurosci 10:295, 2009.
-
-Svoboda K, Li N: Neural mechanisms of movement planning: motor
-
-cortex and beyond. Curr Opin Neurobiol 49:33, 2018. X I In addition to areas in the cerebral cortex that stimulate
-
-muscle contraction, two other brain structures are essential for normal motor function—the cerebellum and the
-
-basal ganglia. Neither of these structures can control muscle function by itself. Instead, these structures always function in association with other systems of motor control.
-
-The cerebellum plays major roles in timing of motor activities and in rapid, smooth progression from one muscle movement to the next. It also helps control the intensity of muscle contraction when the muscle load
-
-changes and controls the necessary instantaneous interplay between agonist and antagonist muscle groups. The basal ganglia help plan and control complex patterns of muscle movement. They control relative intensities of the separate movements, directions of movements, and sequencing of multiple successive and parallel movements to achieve specific complicated motor goals.
-
-This chapter explains the basic functions of the cerebellum and basal ganglia and discusses the overall brain mechanisms for achieving intricate coordination of total motor activity. THE CEREBELLUM AND ITS MOTOR
-
-## FUNCTIONS
-
-The cerebellum, illustrated in Figures 571 and 572, has long been called a silent area of the brain, principally because electrical excitation of the cerebellum does
-
-not cause any conscious sensation and rarely causes any motor movement. Removal of the cerebellum, however, causes body movements to become highly abnormal. The
-
-cerebellum is especially vital during rapid muscular activities such as running, typing, playing the piano, and even
-
-talking. Loss of this area of the brain can cause almost total lack of coordination of these activities, even though its loss does not cause paralysis of any muscles. How can the cerebellum be so important when it has no direct ability to cause muscle contraction?
-
-The answer is that it helps sequence and monitor motor activities and makes corrective adjustments while activities are being executed so that they will conform to the motor signals directed by the cerebral motor cortex and other parts of the brain.
-
-The cerebellum receives continuously updated information about the desired sequence of muscle contractions from the brain motor control areas; it also receives continuous sensory information from the peripheral parts of the body, giving sequential changes in the status of each part of the body—its position, rate of movement, forces acting on it, and so forth. The cerebellum then compares the actual movements as depicted by the peripheral sensory feedback information with the movements intended by the motor system. If the two do not
-
-compare favorably, then instantaneous subconscious corrective signals are transmitted back into the motor system to increase or decrease the levels of activation of specific muscles.
-
-The cerebellum also aids the cerebral cortex in planning the next sequential movement a fraction of a second in advance while the current movement is still being
-
-executed, thus helping the person to progress smoothly from one movement to the next. Also, it learns by its mistakes. If a movement does not occur exactly as
-
-intended, the cerebellar circuit learns to make a stronger or weaker movement the next time. To make this adjustment, changes occur in the excitability of appropriate cerebellar neurons, thus bringing subsequent
-
-muscle contractions into better correspondence with the intended movements. Anatomical and Functional Areas of the Cerebellum Anatomically, the cerebellum is divided into three lobes by two deep fissures, as shown in Figures 571 and 572: (1)
-
-the anterior lobe, (2) the posterior lobe, and (3) the flocculonodular lobe. The flocculonodular lobe is the oldest portion
-
-of the cerebellum; it developed along with (and functions with) the vestibular system in controlling body equilibrium, as discussed in Chapter 56. Longitudinal Functional Divisions of the Anterior and
-
-Posterior Lobes. From a functional point of view, the anterior and posterior lobes are organized not by lobes but along the longitudinal axis, as demonstrated in Figure 57-2, which shows a posterior view of the human cerebellum
-
-after the lower end of the posterior cerebellum has been rolled downward from its normally hidden position. Note, down the center of the cerebellum, a narrow band called Cerebellum and Basal Ganglia Contributions to Overall Motor Control
-
-
-the vermis, which is separated from the remainder of the cerebellum by shallow grooves. Most cerebellar control functions for muscle movements of the axial body, neck, shoulders, and hips are located in this area. To each side of the vermis is a large, laterally protruding cerebellar hemisphere; each of these hemispheres is divided
-
-into an intermediate zone and a lateral zone. The intermediate zone of the hemisphere is concerned with controlling
-
-muscle contractions in the distal portions of the upper and lower limbs, especially the hands, fingers, feet, and toes. The lateral zone of the hemisphere operates at a much more
-
-remote level because this area joins with the cerebral cortex in the overall planning of sequential motor movements.
-
-Without this lateral zone, most discrete motor activities of the body lose their appropriate timing and sequencing and therefore become uncoordinated, as we discuss more fully later in this chapter.
-
-Topographical Representation of the Body in the Vermis and Intermediate Zones. In the same manner that the cerebral sensory cortex, motor cortex, basal ganglia, red nuclei, and reticular formation all have topographical representations of the different parts of the body, so does the vermis and intermediate zones of the cerebellum. Figure 57-3 shows two such representations.
-
-Note that the axial portions of the body lie in the vermis part of the cerebellum, whereas the limbs and facial regions lie in the intermediate zones. These topographical representations receive
-
-afferent nerve signals from all the respective parts of the body, as well as from corresponding topographical motor areas in the cerebral cortex and brain stem. In turn, they
-
-send motor signals back to the same respective topographical areas of the cerebral motor cortex, as well as to topographical areas of the red nucleus and reticular formation
-
-in the brain stem. Note that the large lateral portions of the cerebellar hemispheres do not have topographical representations
-
-of the body. These areas of the cerebellum receive input signals almost exclusively from the cerebral cortex,
-
-especially the premotor areas of the frontal cortex, and from the somatosensory and other sensory association areas of the parietal cortex. This connectivity with the
-
-cerebral cortex allows the lateral portions of the cerebellar hemispheres to play important roles in planning
-
-and coordinating the body’s rapid sequential muscular activities that occur one after another within fractions of a second. Neuronal Circuit of the Cerebellum
-
-The human cerebellar cortex is actually a large folded sheet,
-
-about 17 centimeters wide by 120 centimeters long, with the folds lying crosswise, as shown in Figures 572 and 573. Each fold is called a folium. Lying deep beneath the folded mass of cerebellar cortex are deep cerebellar nuclei.
-
-Input Pathways to the Cerebellum Afferent Pathways From Other Parts of the Brain. The
-
-basic input pathways to the cerebellum are shown in Figure 57-4. An extensive and important afferent pathway is
-
-the corticopontocerebellar pathway, which originates in the Pons Anterior lobe Posterior lobe Medulla Flocculonodular lobe
-
-
-> **Figure 57-1 Anatomical lobes of the cerebellum as seen from the lateral side. Hemisphere 	Vermis Vermis Intermediate zone of hemisphere Anterior lobe Posterior lobe Lateral zone of hemisphere Flocculonodular lobe**
-
-
-> **Figure 57-2 Functional parts of the cerebellum as seen from the posteroinferior view, with the inferiormost portion of the cerebellum rolled outward to flatten the surface.**
-
-
-> **Figure 57-3 Somatosensory projection areas in the cerebellar cortex.**
+UNIT XI
+from each muscle to the spinal cord, indicating the func -
+tional status of each muscle at each instant. That is, what 
+is the length of the muscle, what is its instantaneous ten -
+sion, and how rapidly is its length or tension changing? 
+To provide this information, the muscles and their ten -
+dons are supplied abundantly with two special types of 
+sensory receptors: (1) muscle spindles (see Figure 55- 2), 
+which are distributed throughout the belly of the muscle 
+and send information to the nervous system about muscle 
+length or rate of change of length, and (2) Golgi tendon 
+organs (see Figures 55- 2 and 55- 8), which are located in 
+the muscle tendons and transmit information about ten -
+don tension or rate of change of tension.
+The signals from these two receptors are almost 
+entirely for the purpose of intrinsic muscle control. They 
+operate almost completely at a subconscious level. Even 
+so, they transmit tremendous amounts of information not 
+only to the spinal cord but also to the <span class="c-pink">cerebellum</span> and even 
+to the cerebral cortex, helping these portions of the ner -
+vous system function to control muscle contraction.
+RECEPTOR FUNCTION OF THE MUSCLE 
+SPINDLE
+Structure and Motor Innervation of the Muscle 
+ Spindle. The organization of the muscle spindle is shown 
+in Figure 55- 3. Each spindle is 3 to 10 millimeters long. 
+It is built around 3 to 12 tiny intrafusal muscle fibers that 
+are pointed at their ends and attached to the glycocalyx 
+of the surrounding large extrafusal skeletal muscle fibers 
+(Video 55- 1).
+Each intrafusal muscle fiber is a tiny skeletal muscle 
+fiber. However, the central region of each of these fibers—
+that is, the area midway between its two ends—has few 
+or no actin and myosin filaments. Therefore, this central 
+portion does not contract when the ends do. Instead, it 
+functions as a sensory receptor, as described later. The 
+end portions that do contract are <span class="c-green">excite</span>d by small gamma 
+motor nerve fibers that originate from small type A gamma 
+motor neurons in the anterior horns of the spinal cord, 
+as described earlier. These gamma motor nerve fibers are 
+also called gamma efferent fibers,  in contradistinction to 
+the large alpha efferent fibers  (type A α nerve fibers) that 
+innervate the extrafusal skeletal muscle. 
+Sensory Innervation of the Muscle Spindle . The re -
+ceptor portion of the muscle spindle is its central portion. 
+As shown in Figure 55- 3 and in more detail in Figure 55- 
+4, sensory fibers originate in this area and are <span class="c-green">stimulate</span>d 
+by stretching of this midportion of the spindle. One can 
+readily see that the muscle spindle receptor can be <span class="c-green">excite</span>d 
+in two ways:
+ 1.  Lengthening the whole muscle stretches the mid -
+portion of the spindle and, therefore, <span class="c-green">excites</span> the re-
+ceptor.
+ 2.  Even if the length of the entire muscle does not 
+change, contraction of the end portions of the spin-
+dle’s intrafusal fibers stretches the midportion of the 
+spindle and therefore <span class="c-green">excites</span> the receptor.
+Two types of sensory endings, the primary afferent and 
+secondary afferent endings, are found in this central recep-
+tor area of the muscle spindle. 
+Primary Ending . In the center of the receptor area, a 
+large sensory nerve fiber encircles the central portion of 
+each intrafusal fiber, forming the primary afferent ending 
+or annulospiral ending. This nerve fiber is a type Ia fiber 
+averaging 17 micrometers in diameter, and it transmits 
+sensory signals to the spinal cord at a velocity of 70 to 120 
+m/sec, as rapidly as any type of nerve fiber in the entire 
+body. 
+Secondary Ending . Usually one but sometimes two 
+smaller sensory nerve fibers—type II fibers with an av -
+erage diameter of 8 micrometers—innervate the recep -
+tor region on one or both sides of the primary ending, as 
+shown in Figures 55- 3 and 55- 4. This sensory ending is 
+called the secondary afferent ending;  sometimes it encir -
+cles the intrafusal fibers in the same way as the type Ia 
+fiber, but often it spreads like branches on a bush. 
+Division of the Intrafusal Fibers Into Nuclear Bag and 
+Nuclear Chain Fibers—Dynamic and Static Responses 
+of the Muscle Spindle. There are also two types of mus-
+cle spindle intrafusal fibers: (1) nuclear bag muscle fibers  
+(one to three in each spindle), in which several muscle 
+Alpha motor
+ending
+ Gamma motor
+ending
+Fluid
+cavity
+Sheath Primary
+ending
+1 cm
+Motor Sensory Motor
+Extrafusal
+fibers
+Secondary
+ending
+Intrafusal
+fibers
+14 /H9262m 17 /H9262m5 /H9262m
+/H9253/H9253Ia II
+8 /H9262m
+/H9251
+5 /H9262m
+Figure 55- 3. Muscle spindle, showing its relationship to the large 
+extrafusal skeletal muscle fibers. Note also both motor and sensory 
+innervation of the muscle spindle.
+Group II fibers
+(secondary
+afferent)
+Nuclear bag fiber
+(intrafusal muscle)
+Nuclear chain fiber
+(intrafusal muscle)
+Plate
+ending
+Dynamic γ fiber
+(efferent)
+Static γ fiber
+(efferent)
+Trail ending
+Group Ia fiber
+(primary afferent)
+Figure 55- 4. Details of nerve connections from the nuclear bag and 
+nuclear chain muscle spindle fibers. (Modified from Stein RB: Periph-
+eral control of movement. Physiol Rev 54:225, 1974.)
+
+UNIT XI The Nervous System: C. Motor and Integrative Neurophysiology
+fiber nuclei are congregated in expanded “bags” in the 
+central portion of the receptor area, as shown by the top 
+fiber in Figure 55- 4, and (2) nuclear chain fibers (three to 
+nine), which are about half as large in diameter and half as 
+long as the nuclear bag fibers and have nuclei aligned in a 
+chain throughout the receptor area, as shown by the bot-
+tom fiber in the figure. The primary sensory nerve ending 
+is <span class="c-green">excite</span>d by both the nuclear bag intrafusal fibers and the 
+nuclear chain fibers. Conversely, the secondary ending is 
+usually <span class="c-green">excite</span>d only by nuclear chain fibers. These rela -
+tions are shown in Figure 55- 4. 
+The Primary and the Secondary Endings Both Respond 
+to the Length of the Receptor—“Static” Response . 
+When the receptor portion of the muscle spindle is 
+stretched slowly, the number of impulses transmitted from 
+both the primary and the secondary endings increases al-
+most directly in proportion to the degree of stretching, and 
+the endings continue to transmit these impulses for several 
+minutes. This effect is called the static response of the spin-
+dle receptor, meaning that both the primary and secondary 
+endings continue to transmit their signals for at least sev-
+eral minutes if the muscle spindle remains stretched. 
+The Primary Ending (but Not the Secondary Ending) 
+Responds to Rate of Change of Receptor Length—
+“Dynamic” Response . When the length of the spindle 
+receptor increases suddenly, the primary ending (but not 
+the secondary ending) is <span class="c-green">stimulate</span>d powerfully. This stim-
+ulus of the primary ending is called the dynamic response, 
+which means that the primary ending responds extremely 
+actively to a rapid rate of change  in spindle length. Even 
+when the length of a spindle receptor increases only a 
+fraction of a micrometer for only a fraction of a second, 
+the primary receptor transmits tremendous numbers of 
+excess impulses to the large 17- micrometer sensory nerve 
+fiber, but only while the length is actually increasing.  As 
+soon as the length stops increasing, this extra rate of im -
+pulse discharge returns to the level of the much smaller 
+static response that is still present in the signal.
+Conversely, when the spindle receptor shortens, 
+exactly opposite sensory signals occur. Thus, the primary 
+ending sends extremely strong signals, either positive or 
+negative, to the spinal cord to apprise it of any change in 
+length of the spindle receptor. 
+Control of Intensity of the Static and Dynamic 
+ Responses by the Gamma Motor Nerves . The gamma 
+motor nerves to the muscle spindle can be divided into 
+two types: gamma- dynamic (gamma-  d) and gamma- 
+static (gamma- s). The first of these gamma motor nerves 
+<span class="c-green">excites</span> mainly the nuclear bag intrafusal fibers, and the 
+second <span class="c-green">excites</span> mainly the nuclear chain intrafusal fibers. 
+When the gamma- d fibers <span class="c-green">excite</span> the nuclear bag fibers, 
+the dynamic response of the muscle spindle becomes tre-
+mendously enhanced, whereas the static response is hard-
+ly affected. Conversely, stimulation of the gamma- s fibers, 
+which <span class="c-green">excite</span> the nuclear chain fibers, enhances the static 
+response while having little influence on the dynamic re -
+sponse. Subsequent paragraphs illustrate that these two 
+types of muscle spindle responses are important in differ-
+ent types of muscle control. 
+Continuous Discharge of the Muscle Spindles Under 
+Normal Conditions. Normally, when there is some de -
+gree of gamma nerve excitation, the muscle spindles emit 
+sensory nerve impulses continuously. Stretching the mus-
+cle spindles increases the rate of firing, whereas short -
+ening the spindle decreases the rate of firing. Thus, the 
+spindles can send to the spinal cord either positive signals 
+(increased numbers of impulses to indicate stretch of a 
+muscle) or negative signals (reduced numbers of impuls -
+es) to indicate that the muscle is unstretched. 
+MUSCLE STRETCH REFLEX
+The simplest manifestation of muscle spindle function is 
+the muscle stretch reflex. Whenever a muscle is stretched 
+suddenly, excitation of the spindles causes reflex contrac-
+tion of the large skeletal muscle fibers of the stretched 
+muscle and of closely allied synergistic muscles.
+Neuronal Circuitry of the Stretch Reflex . Figure 55- 
+5 demonstrates the basic circuit of the muscle spindle 
+stretch reflex, showing a type Ia proprioceptor nerve fiber 
+originating in a muscle spindle and entering a dorsal root 
+of the spinal cord. A branch of this fiber then goes directly 
+to the anterior horn of the cord gray matter and synapses 
+with anterior motor neurons that send motor nerve fibers 
+back to the same muscle from which the muscle spindle 
+fiber originated. Thus, this monosynaptic pathway allows 
+a reflex signal to return with the shortest possible time 
+delay back to the muscle after excitation of the spindle. 
+Most type II fibers from the muscle spindle terminate on 
+multiple interneurons in the cord gray matter, and these 
+transmit delayed signals to the anterior motor neurons or 
+serve other functions. 
+Sensory nerve
+Motor nerve
+Muscle spindle
+Stretch reflex
+Figure 55- 5. Neuronal circuit of the stretch reflex.
+
+UNIT XI
+Dynamic Stretch Reflex and Static Stretch Reflexes . 
+The stretch reflex can be divided into two components: 
+the dynamic stretch reflex and the static stretch reflex. 
+The dynamic stretch reflex  is elicited by potent dynamic 
+signals transmitted from the primary sensory endings 
+of the muscle spindles, caused by rapid stretch or un -
+stretch. That is, when a muscle is suddenly stretched or 
+unstretched, a strong signal is transmitted to the spinal 
+cord, which causes an instantaneous strong reflex con -
+traction (or decrease in contraction) of the same muscle 
+from which the signal originated. Thus, the reflex func -
+tions to oppose sudden changes in muscle length.
+The dynamic stretch reflex is over within a frac -
+tion of a second after the muscle has been stretched (or 
+unstretched) to its new length, but then a weaker static 
+stretch reflex continues for a prolonged period thereafter. 
+This reflex is elicited by the continuous static receptor sig-
+nals transmitted by both primary and secondary endings. 
+The importance of the static stretch reflex is that it causes 
+the degree of muscle contraction to remain reasonably 
+constant, except when the person’s nervous system spe -
+cifically wills otherwise. 
+“Damping” Function of the Dynamic and Static 
+Stretch Reflexes in Smoothing Muscle Contraction . 
+An especially important function of the stretch reflex is 
+its ability to prevent oscillation or jerkiness of body move-
+ments, which is a damping, or smoothing, function.
+Signals from the spinal cord are often transmitted to 
+a muscle in an unsmooth form, increasing in intensity 
+for a few milliseconds, then decreasing in intensity, then 
+changing to another intensity level, and so forth. When 
+the muscle spindle apparatus is not functioning satisfac -
+torily, the muscle contraction is jerky during the course of 
+such a signal. This effect is demonstrated in Figure 55- 6. 
+In part A, the muscle spindle reflex of the <span class="c-green">excite</span>d muscle 
+is intact. Note that the contraction is relatively smooth, 
+even though the motor nerve to the muscle is <span class="c-green">excite</span>d at 
+a slow frequency of only eight signals per second. Part B 
+illustrates the same experiment in an animal whose mus -
+cle spindle sensory nerves had been sectioned 3 months 
+earlier. Note the unsmooth muscle contraction. Thus, 
+Figure 55- 6 A graphically demonstrates the damping 
+mechanism’s ability to smooth muscle contractions, even 
+though the primary input signals to the muscle motor sys-
+tem may themselves be jerky. This effect can also be called 
+a signal averaging function of the muscle spindle reflex. 
+ROLE OF THE MUSCLE SPINDLE IN 
+VOLUNTARY MOTOR ACTIVITY
+To understand the importance of the gamma efferent 
+system, one should recognize that 31% of all the motor 
+nerve fibers to the muscle are the small type A gamma 
+efferent fibers rather than large type A alpha motor fibers. 
+Whenever signals are transmitted from the motor cortex 
+or from any other area of the brain to the alpha motor 
+neurons, in most instances the gamma motor neurons are 
+<span class="c-green">stimulate</span>d simultaneously, an effect called coactivation of 
+the alpha and gamma motor neurons. This effect causes 
+both the extrafusal skeletal muscle fibers and the muscle 
+spindle intrafusal muscle fibers to contract at the same 
+time.
+The purpose of contracting the muscle spindle intra -
+fusal fibers at the same time that the large skeletal mus -
+cle fibers contract is twofold: First, it keeps the length of 
+the receptor portion of the muscle spindle from chang -
+ing during the course of the whole muscle contraction. 
+Therefore, coactivation keeps the muscle spindle reflex 
+from opposing the muscle contraction. Second, it main -
+tains the proper damping function of the muscle spindle, 
+regardless of any change in muscle length. For instance, 
+if the muscle spindle did not contract and relax along 
+with the large muscle fibers, the receptor portion of the 
+spindle would sometimes be flail and sometimes be over-
+stretched, in neither instance operating under optimal 
+conditions for spindle function.
+Brain Areas for Control of the Gamma 
+Motor System
+The gamma efferent system is <span class="c-green">excite</span>d specifically by sig -
+nals from the bulboreticular facilitatory  region of the 
+brain stem and, secondarily, by impulses transmitted into 
+the bulboreticular area from the following: (1) the cerebel-
+lum; (2) the <span class="c-pink">basal ganglia</span>; and (3) the cerebral cortex.
+Because the bulboreticular facilitatory area is particu -
+larly concerned with antigravity contractions, and because 
+the antigravity muscles have an especially high density 
+of muscle spindles, the gamma efferent mechanism is 
+believed to be important for damping the movements of 
+the different body parts during walking and running.
+The Muscle Spindle System Stabilizes Body Position 
+During Tense Action. One of the most important func -
+tions of the muscle spindle system is to stabilize body posi-
+tion during tense motor action. To perform this  function, 
+Stimulus
+(8 per second)
+Seconds
+Force of contraction
+01 2
+BA
+Figure 55- 6. Muscle contraction caused by a spinal cord signal un -
+der two conditions. Depicted are curve A, in a normal muscle, and 
+curve B, in a muscle whose muscle spindles were denervated by sec -
+tion of the posterior roots of the cord 82 days previously. Note the 
+smoothing effect of the muscle spindle reflex in curve A. (Modified 
+from Creed RS, Denney- Brown D, Eccles JC, et al: Reflex Activity of 
+the Spinal Cord. New York: Oxford University Press, 1932.)
+
+UNIT XI The Nervous System: C. Motor and Integrative Neurophysiology
+the bulboreticular facilitatory region and its allied areas 
+of the brain stem transmit excitatory signals through the 
+gamma nerve fibers to the intrafusal muscle fibers of the 
+muscle spindles. This action shortens the ends of the spin-
+dles and stretches the central receptor regions, thus in -
+creasing their signal output. However, if the spindles on 
+both sides of each joint are <span class="c-green">activate</span>d at the same time, 
+reflex excitation of the skeletal muscles on both sides of 
+the joint also increases, producing tight, tense muscles 
+opposing each other at the joint. The net effect is that the 
+position of the joint becomes strongly stabilized, and any 
+force that tends to move the joint from its current posi -
+tion is opposed by highly sensitized stretch reflexes oper-
+ating on both sides of the joint.
+Any time a person must perform a muscle function 
+that requires a high degree of delicate and exact posi -
+tioning, excitation of the appropriate muscle spindles by 
+signals from the bulboreticular facilitatory region of the 
+brain stem stabilizes the positions of the major joints. This 
+stabilization aids tremendously in performing the addi -
+tional detailed voluntary movements (of fingers or other 
+body parts) required for intricate motor procedures. 
+Clinical Applications of the Stretch Reflex
+Almost every time a clinician performs a physical examina-
+tion on a patient, he or she elicits multiple stretch reflexes. 
+The purpose is to determine how much background excita-
+tion, or “tone, ” the brain is sending to the spinal cord. This 
+reflex is elicited as follows.
+Knee Jerk and Other Muscle Jerks Can Be Used to As -
+sess Sensitivity of Stretch Reflexes . Clinically, a method 
+used to determine the sensitivity of the stretch reflexes is 
+to elicit the knee jerk and other muscle jerks. The knee jerk 
+can be elicited by simply striking the patellar tendon lightly 
+with a reflex hammer; this action instantaneously stretches 
+the quadriceps muscle and <span class="c-green">excites</span> a dynamic stretch reflex 
+that causes the lower leg to “jerk” forward (Video 55- 2). 
+The upper part of Figure 55- 7 shows a myogram from the 
+quadriceps muscle recorded during a knee jerk.
+Similar reflexes can be obtained from almost any muscle 
+of the body either by striking the tendon of the muscle or by 
+striking the belly of the muscle itself. In other words, sud -
+den stretch of muscle spindles is all that is required to elicit 
+a dynamic stretch reflex.
+The muscle jerks are used by neurologists to assess the 
+degree of facilitation of spinal cord centers. When large 
+numbers of facilitatory impulses are being transmitted from 
+the upper regions of the central nervous system into the 
+cord, the muscle jerks are greatly exaggerated. Conversely, 
+if the facilitatory impulses are depressed or abrogated, the 
+muscle jerks are considerably weakened or absent. These 
+reflexes are used most frequently in determining the pres -
+ence or absence of muscle spasticity caused by lesions in 
+the motor areas of the brain or diseases that <span class="c-green">excite</span> the bul-
+boreticular facilitatory area of the brain stem. Ordinarily, 
+large lesions in the motor areas of the cerebral cortex but not 
+in the lower motor control areas (especially lesions caused 
+by strokes or brain tumors) cause greatly exaggerated mus-
+cle jerks in the muscles on the opposite side of the body. 
+Clonus—Oscillation of Muscle Jerks . Under some 
+conditions, the muscle jerks can oscillate, a phenomenon 
+called clonus (see lower myogram, Figure 55- 7). Oscilla -
+tion can be explained particularly well in relation to ankle 
+clonus, as follows.
+If a person standing on the tip ends of the feet suddenly 
+drops his or her body downward and stretches the gas -
+trocnemius muscles, stretch reflex impulses are transmit -
+ted from the muscle spindles into the spinal cord. These 
+impulses reflexively <span class="c-green">excite</span> the stretched muscle, which lifts 
+the body up again. After a fraction of a second, the reflex 
+contraction of the muscle dies out and the body falls again, 
+thus stretching the spindles a second time. Again, a dynam-
+ic stretch reflex lifts the body, but this too dies out after a 
+fraction of a second, and the body falls once more to begin 
+a new cycle. In this way, the stretch reflex of the gastrocne-
+mius muscle continues to oscillate, often for long periods, 
+which is clonus.
+Clonus ordinarily occurs only when the stretch reflex 
+is highly sensitized by facilitatory impulses from the brain. 
+For instance, in a decerebrate animal in which the stretch 
+reflexes are highly facilitated, clonus develops readily. To 
+determine the degree of facilitation of the spinal cord, neu-
+rologists test patients for clonus by suddenly stretching a 
+muscle and applying a steady stretching force to it. If clonus 
+occurs, the degree of facilitation is certain to be high. 
+GOLGI TENDON REFLEX
+Golgi Tendon Organ Helps Control Muscle Tension . 
+The Golgi tendon organ, shown in Figure 55- 8, is an en-
+capsulated sensory receptor through which muscle tendon 
+fibers pass. About 10 to 15 muscle fibers are usually con -
+nected to each Golgi tendon organ, and the organ is stimu-
+lated when this small bundle of muscle fibers is “tensed” 
+by contracting or stretching the muscle. Thus, the major 
+difference in excitation of the Golgi tendon organ versus 
+the muscle spindle is that the spindle detects muscle length 
+and changes in muscle length,  whereas the tendon organ 
+detects muscle tension as reflected by the tension in itself.
+The tendon organ, like the primary receptor of the 
+muscle spindle, has both a dynamic response and a static 
+response, reacting intensely when the muscle tension 
+Milliseconds
+Muscle length
+0 200 400
+Patellar tendon struck
+Knee jerk
+Ankle clonus
+600 800
+Figure 55- 7. Myograms recorded from the quadriceps muscle dur -
+ing elicitation of the knee jerk (above) and from the gastrocnemius 
+muscle during ankle clonus (below).
+
+UNIT XI
+suddenly increases (the dynamic response) but settling 
+down within a fraction of a second to a lower level of 
+steady- state firing that is almost directly proportional 
+to the muscle tension (the static response). Thus, Golgi 
+tendon organs provide the nervous system with instanta-
+neous information on the degree of tension in each small 
+segment of each muscle. 
+Transmission of Impulses From the Tendon Organ 
+Into the Central Nervous System . Signals from the 
+tendon organ are transmitted through large, rapidly con -
+ducting type Ib nerve fibers that average 16 micrometers 
+in diameter, only slightly smaller than those from the 
+primary endings of the muscle spindle. These fibers, like 
+those from the primary spindle endings, transmit signals 
+into local areas of the cord and, after synapsing in a dorsal 
+horn of the cord, through long fiber pathways such as the 
+spinocerebellar tracts into the <span class="c-pink">cerebellum</span> and through 
+still other tracts to the cerebral cortex. The local cord sig-
+nal <span class="c-green">excites</span> a single <span class="c-green">inhibit</span>ory interneuron that <span class="c-green">inhibits</span> the 
+anterior motor neuron. This local circuit directly <span class="c-green">inhibits</span> 
+the individual muscle without affecting adjacent muscles. 
+The relation between signals to the brain and function of 
+the <span class="c-pink">cerebellum</span> and other parts of the brain for muscle 
+control is discussed in Chapter 57. 
+The Tendon Reflex Prevents Excessive Tension on the 
+Muscle. When the Golgi tendon organs of a muscle ten -
+don are <span class="c-green">stimulate</span>d by increased tension in the connecting 
+muscle, signals are transmitted to the spinal cord to cause 
+reflex effects in the respective muscle. This reflex is entire-
+ly <span class="c-green">inhibit</span>ory. Thus, this reflex provides a <span class="c-yellow">negative feedback</span> 
+mechanism that prevents the development of too much 
+tension on the muscle.
+When tension on the muscle—and therefore on the 
+tendon—becomes extreme, the <span class="c-green">inhibit</span>ory effect from 
+the tendon organ can be so great that it leads to a sud -
+den reaction in the spinal cord that causes instantaneous 
+relaxation of the entire muscle. This effect is called the 
+lengthening reaction;  it is probably a protective mecha -
+nism to prevent tearing of the muscle or avulsion of the 
+tendon from its attachments to the bone. 
+Possible Role of the Tendon Reflex to Equalize 
+ Contractile Force Among the Muscle Fibers . Another 
+likely function of the Golgi tendon reflex is to equalize 
+contractile forces of the separate muscle fibers. That is, 
+the fibers that exert excess tension become <span class="c-green">inhibit</span>ed by 
+the reflex, whereas those that exert too little tension be -
+come more <span class="c-green">excite</span>d because of the absence of reflex inhi -
+bition. This phenomenon spreads the muscle load over all 
+the fibers and prevents damage in isolated areas of a mus-
+cle where small numbers of fibers might be overloaded. 
+Function of the Muscle Spindles and 
+Golgi Tendon Organs in Motor Control by 
+Higher Levels of the Brain
+Although we have emphasized the function of the muscle 
+spindles and Golgi tendon organs in spinal cord control of 
+motor function, these two sensory organs also apprise the 
+higher motor control centers of instantaneous changes 
+taking place in the muscles. For instance, the dorsal spi -
+nocerebellar tracts carry instantaneous information from 
+the muscle spindles and the Golgi tendon organs directly 
+to the <span class="c-pink">cerebellum</span> at conduction velocities approaching 
+120 m/sec, the most rapid conduction anywhere in the 
+brain or spinal cord. Additional pathways transmit similar 
+information into the reticular regions of the brain stem 
+and, to a lesser extent, all the way to the motor areas of the 
+cerebral cortex. As discussed in Chapters 56 and 57 , the 
+information from these receptors is crucial for feedback 
+control of motor signals that originate in all these areas. 
+FLEXOR REFLEX AND THE 
+WITHDRAWAL REFLEXES
+In the spinal or decerebrate animal, almost any type of 
+cutaneous sensory stimulus from a limb is likely to cause 
+the flexor muscles of the limb to contract, thereby with -
+drawing the limb from the stimulating object. This reflex 
+is called the flexor reflex.
+In its classic form, the flexor reflex is elicited most 
+powerfully by stimulation of pain endings, such as by 
+a pinprick, heat, or a wound, for which reason it is also 
+called a nociceptive reflex, or simply a pain reflex. Stimu-
+lation of touch receptors can also elicit a weaker and less 
+prolonged flexor reflex.
+Muscle
+Golgi tendon organ
+Excess
+tension
+Relaxation
+reponse
+Sensory nerve
+fiber (16 mm)
+Anterior motor
+neuron <span class="c-green">inhibit</span>ed
+<span class="c-green">Inhibit</span>ory
+interneuron
+Spinal
+cord
+Muscle fibers
+Figure 55- 8. Golgi tendon reflex. Excessive tension of the muscle 
+<span class="c-green">stimulates</span> sensory receptors in the Golgi tendon organ. Signals from 
+the receptors are transmitted through a sensory afferent nerve fiber 
+that <span class="c-green">excites</span> an <span class="c-green">inhibit</span>ory interneuron in the spinal cord, <span class="c-green">inhibit</span>ing 
+anterior motor neuron activity, causing muscle relaxation, and pro -
+tecting the muscle against excessive tension.
+
+UNIT XI The Nervous System: C. Motor and Integrative Neurophysiology
+If some part of the body other than one of the limbs is 
+painfully <span class="c-green">stimulate</span>d, that part will similarly be withdrawn 
+from the stimulus,  but the reflex may not be confined to 
+flexor muscles, even though it is basically the same type 
+of reflex. Therefore, the many patterns of these reflexes 
+in the different areas of the body are called withdrawal 
+reflexes.
+Neuronal Mechanism of the Flexor Reflex . The left- 
+hand portion of Figure 55- 9 shows the neuronal path -
+ways for the flexor reflex. In this instance, a painful stimu-
+lus is applied to the hand; as a result, the flexor muscles 
+of the upper arm become <span class="c-green">excite</span>d and withdraw the hand 
+from the painful stimulus.
+The pathways for eliciting the flexor reflex do not pass 
+directly to the anterior motor neurons but instead pass 
+first into the spinal cord interneuron pool of neurons and 
+only secondarily to the motor neurons. The shortest pos -
+sible circuit is a three-  or four- neuron pathway; however, 
+most of the signals of the reflex traverse many more neu-
+rons and involve the following basic types of circuits: (1) 
+diverging circuits to spread the reflex to the necessary 
+muscles for withdrawal; (2) circuits to <span class="c-green">inhibit</span> the antago-
+nist muscles, called reciprocal <span class="c-green">inhibit</span>ion circuits;  and (3) 
+circuits to cause afterdischarge that lasts many fractions 
+of a second after the stimulus is over.
+Figure 55- 10 shows a typical myogram from a flexor 
+muscle during a flexor reflex. Within a few milliseconds 
+after a pain sensory nerve begins to be <span class="c-green">stimulate</span>d, the 
+flexor response appears. Then, in the next few seconds, 
+the reflex begins to fatigue, which is characteristic of 
+essentially all complex integrative reflexes of the spinal 
+cord. Finally, after the stimulus is over, the contraction 
+of the muscle returns toward the baseline, but because 
+of afterdischarge, it takes many milliseconds for this con-
+traction to occur. The duration of afterdischarge depends 
+on the intensity of the sensory stimulus that elicited the 
+reflex; a weak tactile stimulus causes almost no afterdis -
+charge, but after a strong pain stimulus, the afterdischarge 
+may last for a second or more.
+The afterdischarge that occurs in the flexor reflex 
+almost certainly results from both types of repetitive 
+discharge circuits discussed in Chapter 47. Electrophysi-
+ological studies indicate that immediate afterdischarge, 
+lasting for about 6 to 8 milliseconds, results from repeti -
+tive firing of the <span class="c-green">excite</span>d interneurons. Also, prolonged 
+afterdischarge occurs after strong pain stimuli, almost 
+certainly resulting from recurrent pathways that initiate 
+oscillation in reverberating interneuron circuits. These, 
+in turn, transmit impulses to the anterior motor neurons, 
+sometimes for several seconds after the incoming sensory 
+signal is over.
+Thus, the flexor reflex is appropriately organized to 
+withdraw a pained or otherwise irritated part of the body 
+from a stimulus. Further, because of afterdischarge, the 
+reflex can hold the irritated part away from the stimulus 
+for 0.1 to 3 seconds after the irritation is over. During this 
+time, other reflexes and actions of the central nervous 
+system can move the entire body away from the painful 
+stimulus. 
+Pattern of Withdrawal During Flexor Reflex. The pat-
+tern of withdrawal that results when the flexor reflex 
+is elicited depends on which sensory nerve is stimu -
+lated. Thus, a pain stimulus on the inward side of the 
+arm elicits not only contraction of the flexor muscles 
+of the arm but also contraction of abductor muscles to 
+pull the arm outward. In other words, the cord inte -
+grative centers cause contraction of the muscles that 
+can most effectively remove the pained part of the body 
+away from the object causing the pain. Although this 
+principle applies to any part of the body, it is especially 
+FLEXOR
+REFLEX
+CROSSED EXTENSOR
+REFLEX
+Painful
+stimulus
+from hand
+Polysynaptic
+circuit
+<span class="c-green">Excite</span>d
+RECIPROCAL <span class="c-green">INHIBIT</span>ION
+<span class="c-green">Excite</span>d
+<span class="c-green">Inhibit</span>ed
+<span class="c-green">Inhibit</span>ed
+Figure 55- 9. Flexor reflex, crossed extensor reflex, and reciprocal 
+<span class="c-green">inhibit</span>ion.
+Seconds
+Flexor contraction
+Duration of stimulus
+Fatigue
+Afterdischarge
+Figure 55- 10. Myogram of the flexor reflex showing rapid onset of 
+the reflex, an interval of fatigue and, finally, afterdischarge after the 
+input stimulus is over.
+
+UNIT XI
+ applicable to the limbs because of their highly devel -
+oped flexor reflexes.  
+CROSSED EXTENSOR REFLEX
+About 0.2 to 0.5 second after a stimulus elicits a flexor 
+reflex in one limb, the opposite limb begins to extend. 
+This reflex is called the crossed extensor reflex.  Extension 
+of the opposite limb can push the entire body away from 
+the object that is causing the painful stimulus in the with-
+drawn limb.
+Neuronal Mechanism of the Crossed Extensor  Reflex. 
+The right- hand portion of Figure 55- 9 shows the neu -
+ronal circuit responsible for the crossed extensor reflex, 
+demonstrating that signals from sensory nerves cross to 
+the opposite side of the cord to <span class="c-green">excite</span> extensor muscles. 
+Because the crossed extensor reflex usually does not be -
+gin until 200 to 500 milliseconds after onset of the initial 
+pain stimulus, it is certain that many interneurons are 
+involved in the circuit between the incoming sensory 
+neuron and the motor neurons of the opposite side of the 
+cord responsible for the crossed extension. After the pain-
+ful stimulus is removed, the crossed extensor reflex has an 
+even longer period of afterdischarge than does the flexor 
+reflex. Again, it is presumed that this prolonged afterdis -
+charge results from reverberating circuits among the in -
+terneuronal cells.
+Figure 55- 11 shows a typical myogram recorded from 
+a muscle involved in a crossed extensor reflex. This myo -
+gram demonstrates the relatively long latency before the 
+reflex begins and the long afterdischarge at the end of the 
+stimulus. The prolonged afterdischarge is of benefit in 
+holding the pained area of the body away from the painful 
+object until other nervous reactions cause the entire body 
+to move away. 
+RECIPROCAL <span class="c-green">INHIBIT</span>ION AND 
+RECIPROCAL INNERVATION
+We previously pointed out that excitation of one group 
+of muscles is often associated with <span class="c-green">inhibit</span>ion of another 
+group. For instance, when a stretch reflex <span class="c-green">excites</span> one 
+muscle, it often simultaneously <span class="c-green">inhibits</span> the antago -
+nist muscles, which is the phenomenon of reciprocal 
+<span class="c-green">inhibit</span>ion, and the neuronal circuit that causes this recip-
+rocal relation is called reciprocal innervation.  Likewise, 
+reciprocal relations often exist between the muscles on 
+the two sides of the body, as exemplified by the flexor and 
+extensor muscle reflexes described earlier.
+Figure 55- 12 shows a typical example of reciprocal 
+<span class="c-green">inhibit</span>ion. In this instance, a moderate but prolonged 
+flexor reflex is elicited from one limb of the body; while 
+this reflex is still being elicited, a stronger flexor reflex 
+is elicited in the limb on the opposite side of the body. 
+This stronger reflex sends reciprocal <span class="c-green">inhibit</span>ory signals to 
+the first limb and depresses its degree of flexion. Finally, 
+removal of the stronger reflex allows the original reflex to 
+reassume its previous intensity. 
+REFLEXES OF POSTURE AND 
+LOCOMOTION
+POSTURAL AND LOCOMOTIVE REFLEXES 
+OF THE CORD
+Positive Supportive Reaction . Pressure on the footpad 
+of a decerebrate animal causes the limb to extend against 
+the pressure applied to the foot. Indeed, this reflex is so 
+strong that if an animal whose spinal cord has been tran -
+sected for several months—after the reflexes have be -
+come exaggerated—is placed on its feet, the reflex often 
+stiffens the limbs sufficiently to support the weight of 
+the body. This reflex is called the positive supportive re -
+action.
+The positive supportive reaction involves a complex 
+circuit in the interneurons similar to the circuits respon -
+sible for the flexor and crossed extensor reflexes. The 
+locus of the pressure on the pad of the foot determines the 
+direction in which the limb will extend; pressure on one 
+side causes extension in that direction, an effect called the 
+magnet reaction. This reaction helps keep an animal from 
+falling to that side. 
+Cord “Righting” Reflexes. When a spinal animal is laid 
+on its side, it will make uncoordinated movements to try 
+to raise itself to the standing position. This reflex is called 
+the cord righting reflex.  Such a reflex demonstrates that 
+some relatively complex reflexes associated with posture 
+are integrated in the spinal cord. Indeed, an animal with 
+Extensor contraction
+Seconds
+Duration of
+stimulus
+Afterdischarge
+12 34
+Figure 55- 11. Myogram of a crossed extensor reflex showing slow 
+onset but prolonged afterdischarge.
+Flexor contraction
+Duration of <span class="c-green">inhibit</span>ory stimulus
+Duration of flexor reflex stimulus
+Seconds
+Figure 55- 12. Myogram of a flexor reflex showing reciprocal inhibi-
+tion caused by an <span class="c-green">inhibit</span>ory stimulus from a stronger flexor reflex on 
+the opposite side of the body.
+
+UNIT XI The Nervous System: C. Motor and Integrative Neurophysiology
+a well- healed transected thoracic cord between the lev -
+els for forelimb and hindlimb innervation can right itself 
+from the lying position and even walk using its hindlimbs 
+in addition to its forelimbs. In the case of an opossum 
+with a similar transection of the thoracic cord, the walk -
+ing movements of the hindlimbs are hardly different from 
+those in a normal opossum, except that the hindlimb 
+walking movements are not synchronized with those of 
+the forelimbs. 
+STEPPING AND WALKING MOVEMENTS
+Rhythmical Stepping Movements of a Single Limb . 
+Rhythmical stepping movements are frequently observed 
+in the limbs of spinal animals. Indeed, even when the 
+lumbar portion of the spinal cord is separated from the 
+remainder of the cord and a longitudinal section is made 
+down the center of the cord to <span class="c-green">block</span> neuronal connec -
+tions between the two sides of the cord and between the 
+two limbs, each hindlimb can still perform individual 
+stepping functions. Forward flexion of the limb is fol -
+lowed a second or so later by backward extension. Then 
+flexion occurs again, and the cycle is repeated over and 
+over.
+This oscillation back and forth between flexor and 
+extensor muscles can occur even after the sensory nerves 
+have been cut, and it seems to result mainly from mutu -
+ally reciprocal <span class="c-green">inhibit</span>ion circuits within the matrix of the 
+cord, oscillating between the neurons controlling agonist 
+and antagonist muscles.
+The sensory signals from the footpads and from the 
+position sensors around the joints play a strong role in 
+controlling foot pressure and frequency of stepping when 
+the foot is allowed to walk along a surface. In fact, the 
+cord mechanism for control of stepping can be even more 
+complex. For instance, if the top of the foot encounters 
+an obstruction during forward thrust, the forward thrust 
+will stop temporarily; then, in rapid sequence, the foot 
+will be lifted higher and proceed forward to be placed 
+over the obstruction. This is the stumble reflex. Thus, the 
+cord is an intelligent walking controller. 
+Reciprocal Stepping of Opposite Limbs . If the lum -
+bar spinal cord is not split down its center, every time 
+stepping occurs in the forward direction in one limb, 
+the opposite limb ordinarily moves backward. This ef -
+fect results from reciprocal innervation between the two 
+limbs. 
+Diagonal Stepping of All Four Limbs—“Mark Time” 
+Reflex. If a well- healed spinal animal (with spinal tran -
+section in the neck above the forelimb area of the cord) 
+is held up from the floor and its legs are allowed to dan -
+gle, the stretch on the limbs occasionally elicits stepping 
+reflexes that involve all four limbs. In general, stepping 
+occurs diagonally between the forelimbs and hindlimbs. 
+This diagonal response is another manifestation of re -
+ciprocal innervation, this time occurring the entire dis -
+tance up and down the cord between the forelimbs and 
+hindlimbs. Such a walking pattern is called a mark time 
+reflex. 
+Scratch Reflex
+An especially important cord reflex in some animals is the 
+scratch reflex, which is initiated by an itch or tickle sensa-
+tion. This reflex involves two functions: (1) a position sense 
+that allows the paw to find the exact point of irritation on 
+the surface of the body; and (2) a to- and- fro scratching 
+movement.
+The position sense  of the scratch reflex is a highly de -
+veloped function. If a flea is crawling as far forward as the 
+shoulder of a spinal animal, the hind paw can still find its 
+position, even though 19 muscles in the limb must be con-
+tracted simultaneously in a precise pattern to bring the paw 
+to the position of the crawling flea. To make the reflex even 
+more complicated, when the flea crosses the midline, the 
+first paw stops scratching and the opposite paw begins the 
+to- and- fro motion and eventually finds the flea.
+The to- and- fro movement, like the stepping movements 
+of locomotion, involves reciprocal innervation circuits that 
+cause oscillation. 
+Spinal Cord Reflexes That Cause Muscle Spasm
+In human beings, local muscle spasm is often observed. In 
+many if not most instances, localized pain is the cause of 
+the local spasm.
+Muscle Spasm Resulting From a Broken Bone. One type 
+of clinically important spasm occurs in muscles that sur -
+round a broken bone. The spasm results from pain impuls-
+es initiated from the broken edges of the bone, which cause 
+the muscles that surround the area to contract tonically. 
+Pain relief obtained by injecting a local anesthetic at the 
+broken edges of the bone relieves the spasm; a deep general 
+anesthetic of the entire body, such as ether anesthesia, also 
+relieves the spasm. 
+Abdominal Muscle Spasm in Persons With Peritonitis .  
+Another type of local spasm caused by cord reflexes is 
+abdominal spasm resulting from irritation of the parietal 
+peritoneum by peritonitis. Here again, relief of the pain 
+caused by the peritonitis allows the spastic muscle to re -
+lax. The same type of spasm often occurs during surgical 
+operations; for instance, during abdominal operations, 
+pain impulses from the parietal peritoneum often cause 
+the abdominal muscles to contract extensively, sometimes 
+extruding the intestines through the surgical wound. For 
+this reason, deep anesthesia is usually required for intra- 
+abdominal operations. 
+Muscle Cramps . Another type of local spasm is the 
+typical muscle cramp. Any local irritating factor or meta -
+bolic abnormality of a muscle, such as severe cold, lack 
+of blood flow, or overexercise, can elicit pain or other 
+sensory signals transmitted from the muscle to the spinal 
+cord, which in turn cause reflex feedback muscle contrac -
+tion. The contraction is believed to <span class="c-green">stimulate</span> the same 
+sensory receptors even more, which causes the spinal 
+cord to increase the intensity of contraction. Thus, posi -
+tive feedback develops, so a small amount of initial irrita -
+tion causes more and more contraction until a full- blown 
+muscle cramp ensues.  
+
+UNIT XI
+Autonomic Reflexes in the Spinal Cord
+Many types of segmental autonomic reflexes are integrated in 
+the spinal cord, most of which are discussed in other chapters. 
+Briefly, these reflexes include (1) changes in vascular tone re-
+sulting from changes in local skin heat (see Chapter 74); (2) 
+sweating, which results from localized heat on the surface of 
+the body (see Chapter 74); (3) intestinointestinal reflexes that 
+control some motor functions of the gut (see Chapter 63); 
+(4) peritoneointestinal reflexes that <span class="c-green">inhibit</span> gastrointestinal 
+motility in response to peritoneal irritation (see Chapter 67); 
+and (5) evacuation reflexes for emptying the full bladder (see 
+Chapter 26) or the colon (see Chapter 64). In addition, all the 
+segmental reflexes can at times be elicited simultaneously in 
+the form of the so- called mass reflex, described next.
+Mass Reflex. In a spinal animal or person, sometimes 
+the spinal cord suddenly becomes excessively active, caus -
+ing massive discharge in large portions of the cord. The 
+usual stimulus that causes this excess activity is a strong 
+pain stimulus to the skin or excessive filling of a viscus, such 
+as overdistention of the bladder or the gut. Regardless of 
+the type of stimulus, the resulting reflex, called the mass 
+reflex, involves large portions or even all of the cord. The 
+effects are as follows: (1) a major portion of the body’s skel-
+etal muscles goes into strong flexor spasm; (2) the colon 
+and bladder are likely to evacuate; (3) the arterial pressure 
+often rises to maximal values, sometimes to a systolic pres-
+sure well over 200 mm Hg; and (4) large areas of the body 
+break out into profuse sweating.
+Because the mass reflex can last for minutes, it presum-
+ably results from activation of large numbers of reverber -
+ating circuits that <span class="c-green">excite</span> large areas of the cord at once. 
+This mechanism is similar to the mechanism of epileptic 
+seizures, which involve reverberating circuits that occur in 
+the brain instead of in the cord. 
+Spinal Cord Transection and Spinal Shock
+When the spinal cord is suddenly transected in the upper 
+neck, essentially all cord functions, including the cord re -
+flexes, immediately become depressed to the point of total 
+silence, a reaction called spinal shock. The reason for this re-
+action is that normal activity of the cord neurons depends to 
+a great extent on continual tonic excitation by the discharge 
+of nerve fibers entering the cord from higher centers, par -
+ticularly discharge transmitted through the reticulospinal 
+tracts, vestibulospinal tracts, and corticospinal tracts.
+After a few hours to a few weeks, the spinal neurons 
+gradually regain their excitability. This phenomenon seems 
+to be a natural characteristic of neurons everywhere in the 
+nervous system; after they lose their source of facilitatory 
+impulses, they increase their own natural degree of excitabil-
+ity to make up at least partially for the loss. In most nonpri-
+mates, excitability of the cord centers returns essentially to 
+normal within a few hours to a day or so, but in people, the 
+return is often delayed for several weeks and occasionally is 
+never complete; conversely, sometimes recovery is excessive, 
+with resultant hyperexcitability of some or all cord functions.
+Some of the spinal functions specifically affected during 
+or after spinal shock are the following:
+ 1.  At onset of spinal shock, the arterial blood pressure falls 
+almost instantly and drastically—sometimes to as low 
+as 40 mm Hg—thus demonstrating that <span class="c-yellow">sympathetic</span> 
+nervous system activity becomes <span class="c-green">block</span>ed almost to 
+extinction. The pressure ordinarily returns to normal 
+within a few days, even in humans.
+ 2.  All skeletal muscle reflexes integrated in the spinal cord 
+are <span class="c-green">block</span>ed during the initial stages of shock. In lower 
+animals, a few hours to a few days are required for these 
+reflexes to return to normal; in humans, 2 weeks to sev-
+eral months are sometimes required. In both animals 
+and humans, some reflexes may eventually become hy -
+perexcitable, particularly if a few facilitatory pathways 
+remain intact between the brain and the cord while the 
+remainder of the spinal cord is transected. The first re -
+flexes to return are the stretch reflexes, followed in or -
+der by the progressively more complex reflexes: flexor 
+reflexes, postural antigravity reflexes, and remnants of 
+stepping reflexes.
+ 3.  The sacral reflexes for control of bladder and colon evac-
+uation are <span class="c-green">suppresse</span>d in people for the first few weeks 
+after cord transection, but in most cases they eventually 
+return. These effects are discussed in Chapters 26 and 67.
+Bibliography
+Dietz V: Proprioception and locomotor disorders. Nat Rev Neurosci 
+3:781, 2002.
+Dietz V, Fouad K: Restoration of sensorimotor functions after spinal 
+cord injury. Brain 137:654, 2014.
+Duysens J, Clarac F, Cruse H: Load- regulating mechanisms in gait and 
+posture: comparative aspects. Physiol Rev 80:83, 2000.
+Ellaway PH, Taylor A, Durbaba R: Muscle spindle and fusimotor activ-
+ity in locomotion. J Anat 227:157, 2015.
+Frigon A: The neural control of interlimb coordination during mam -
+malian locomotion. J Neurophysiol 117:2224, 2017.
+Glover JC: Development of specific connectivity between premotor 
+neurons and motoneurons in the brain stem and spinal cord. Phys-
+iol Rev 80:615, 2000.
+Gosgnach S, Bikoff JB, Dougherty KJ et al: Delineating the diversity of 
+spinal interneurons in locomotor circuits. J Neurosci 37:10835, 2017.
+Grillner S: The motor infrastructure: from ion channels to neuronal 
+networks. Nat Rev Neurosci 4:573, 2003.
+Hou S, Rabchevsky AG: Autonomic consequences of spinal cord in -
+jury. Compr Physiol 4:1419, 2014.
+Jankowska E, Hammar I: Interactions between spinal interneurons and 
+ventral spinocerebellar tract neurons. J Physiol 591:5445, 2013.
+Kiehn O: Decoding the organization of spinal circuits that control lo-
+comotion. Nat Rev Neurosci 17:224, 2016.
+Kröger S: Proprioception 2.0: novel functions for muscle spindles. 
+Curr Opin Neurol 31:592, 2018.
+Marchand- Pauvert V, Iglesias C: Properties of human spinal interneu-
+rones: normal and dystonic control. J Physiol 586:1247, 2008.
+Osseward PJ 2nd, Pfaff SL: Cell type and circuit modules in the spinal 
+cord. Curr Opin Neurobiol 56:175, 2019.
+Prochazka A, Ellaway P: Sensory systems in the control of movement. 
+Compr Physiol 2:2615, 2012.
+Proske U, Gandevia SC: Kinesthetic senses. Compr Physiol 8:1157, 
+2018.
+Proske U, Gandevia SC: The proprioceptive senses: their roles in sign-
+aling body shape, body position and movement, and muscle force. 
+Physiol Rev 92:1651, 2012.
+Rekling JC, Funk GD, Bayliss DA, et al: Synaptic control of motoneu -
+ronal excitability. Physiol Rev 80:767, 2000.
+Zehr EP, Barss TS, Dragert K, et al: Neuromechanical interactions be -
+tween the limbs during human locomotion: an evolutionary per -
+spective with translation to rehabilitation. Exp Brain Res 234:3059, 
+2016.
+
+UNIT XI
+Most “voluntary” movements initiated by the cerebral 
+cortex are achieved when the cortex <span class="c-green">activates</span> “patterns” 
+of function stored in lower brain areas—the cord, brain 
+stem, <span class="c-pink">basal ganglia</span>, and <span class="c-pink">cerebellum</span>. These lower centers, 
+in turn, send specific control signals to the muscles.
+For a few types of movements, however, the cortex has 
+almost a direct pathway to the anterior motor neurons of 
+the cord, bypassing some motor centers on the way. This 
+is especially true for control of the fine dexterous move -
+ments of the fingers and hands. This chapter and Chapter 
+57 explain the interplay among the different motor areas 
+of the brain and spinal cord to provide overall synthesis of 
+voluntary motor function.
+MOTOR CORTEX AND  
+CORTICOSPINAL TRACT
+Figure 56- 1 shows the functional areas of the cerebral 
+cortex. Anterior to the central cortical sulcus, occupying 
+approximately the posterior one third of the frontal lobes, 
+is the motor cortex.  Posterior to the central sulcus is the 
+somatosensory cortex (an area discussed in detail in earlier 
+chapters), which feeds the motor cortex many of the sig -
+nals that initiate motor activities.
+The motor cortex is divided into three subareas, each 
+of which has its own topographical representation of 
+muscle groups and specific motor functions: (1) the pri-
+mary motor cortex;  (2) the premotor area;  and (3) the 
+supplementary motor area.
+PRIMARY MOTOR CORTEX
+The primary motor cortex, shown in Figure 56- 1, lies in 
+the first convolution of the frontal lobes anterior to the 
+central sulcus. It begins laterally in the sylvian fissure, 
+spreads superiorly to the uppermost portion of the brain, 
+and then dips deep into the longitudinal fissure. (This area 
+is the same as area 4 in Brodmann’s classification of the 
+brain cortical areas, shown in Figure 48- 5.)
+Figure 56- 1 lists the approximate topographical repre-
+sentations of the different muscle areas of the body in the 
+primary motor cortex, beginning with the face and mouth 
+region near the sylvian fissure; the arm and hand area, in 
+the midportion of the primary motor cortex; the trunk, 
+near the apex of the brain; and the leg and foot areas, in 
+the part of the primary motor cortex that dips into the 
+longitudinal fissure. This topographical organization is 
+demonstrated even more graphically in Figure 56- 2, 
+which shows the degrees of representation of the different 
+muscle areas as mapped by Penfield and Rasmussen. This 
+mapping was done by electrically stimulating the different 
+areas of the motor cortex in human beings were undergo-
+ing neurosurgery. Note that more than half of the entire 
+primary motor cortex is concerned with controlling the 
+muscles of the hands and the muscles of speech. Point 
+stimulation in these hand and speech motor areas on 
+rare occasion causes contraction of a single muscle, but 
+most often, stimulation contracts a group of muscles. To 
+express this in another way, excitation of a single motor 
+cortex neuron usually <span class="c-green">excites</span> a specific movement rather 
+than one specific muscle. To do this, it <span class="c-green">excites</span> a “pattern” 
+of separate muscles, each of which contributes its own 
+direction and strength of muscle movement. 
+Cortical and Brain Stem Control of Motor 
+Function
+CHAPTER 56
+Primary
+motor
+cortex
+Supplementary
+area
+Premotor
+area
+Face
+Hand
+Arm
+Trunk
+Feet
+Legs
+6 5
+3, 2, 1Mouth
+Somatic
+area 1
+Motor Sensory
+Somatic
+association
+area
+Figure 56- 1. Motor and somatosensory functional areas of the cere-
+bral cortex. The numbers 4, 5, 6, and 7 are Brodmann’s cortical areas, 
+as explained in Chapter 48.
+
+UNIT XI The Nervous System: C. Motor and Integrative Neurophysiology
+PREMOTOR AREA
+The premotor area, also shown in Figure 56- 1, lies 1 to 
+3 centimeters anterior to the primary motor cortex. It 
+extends inferiorly into the sylvian fissure and superiorly 
+into the longitudinal fissure, where it abuts the supple -
+mentary motor area, which has functions similar to those 
+of the premotor area. The topographical organization of 
+the premotor cortex is roughly the same as that of the 
+primary motor cortex, with the mouth and face areas 
+located most laterally; as one moves upward, the hand, 
+arm, trunk, and leg areas are encountered.
+Nerve signals generated in the premotor area cause 
+much more complex “patterns” of movement than the 
+discrete patterns generated in the primary motor cortex. 
+For example, the pattern may be to position the shoul -
+ders and arms so that the hands are properly oriented 
+to perform specific tasks. To achieve these results, the 
+most anterior part of the premotor area first develops a 
+“motor image” of the total muscle movement that is to be 
+performed. Then, in the posterior premotor cortex, this 
+image <span class="c-green">excites</span> each successive pattern of muscle activity 
+required to achieve the image. This posterior part of the 
+premotor cortex sends its signals either directly to the pri-
+mary motor cortex to <span class="c-green">excite</span> specific muscles or, often, by 
+way of the <span class="c-pink">basal ganglia</span> and <span class="c-pink">thalamus</span> back to the primary 
+motor cortex.
+A special class of neurons called mirror neurons  
+becomes active when a person performs a specific motor 
+task or when he or she observes the same task performed 
+by others. Thus, the activity of these neurons “mirrors” 
+the behavior of another person as though the observer 
+was performing the specific motor task. Brain imaging 
+studies indicate that these neurons transform sensory 
+representations of acts that are heard or seen into motor 
+representations of these acts. Many neurophysiologists 
+believe that these mirror neurons may be important for 
+understanding the actions of other people and for learn -
+ing new skills by imitation. Thus, the premotor cortex, 
+<span class="c-pink">basal ganglia</span>, <span class="c-pink">thalamus</span>, and primary motor cortex consti-
+tute a complex overall system for the control of complex 
+patterns of coordinated muscle activity. 
+SUPPLEMENTARY MOTOR AREA
+The supplementary motor area has yet another topographi-
+cal organization for the control of motor function. It lies 
+mainly in the longitudinal fissure but extends a few centime-
+ters onto the superior frontal cortex. Contractions elicited by 
+stimulating this area are often bilateral rather than unilateral. 
+For example, stimulation frequently leads to bilateral grasp-
+ing movements of both hands simultaneously; these move-
+ments are perhaps rudiments of the hand functions required 
+for climbing. In general, this area functions in concert with 
+the premotor area to provide body- wide attitudinal move-
+ments, fixation movements of the different segments of the 
+body, positional movements of the head and eyes, and so 
+forth, as background for the finer motor control of the arms 
+and hands by the premotor area and primary motor cortex. 
+SOME SPECIALIZED AREAS OF MOTOR 
+CONTROL FOUND IN THE HUMAN 
+MOTOR CORTEX
+A few highly specialized motor regions of the human cere-
+bral cortex (shown in Figure 56- 3) control specific motor 
+functions. These regions have been localized either by 
+electrical stimulation or by noting the loss of motor func-
+tion when destructive lesions occur in specific cortical 
+areas. Some of the more important regions are described 
+in the following sections.
+Trunk
+Shoulder
+Elbow
+Wrist
+Hand
+Little fingerRing finger
+Middle fingerInde
+x fingerThumbNec
+k
+Brow
+Face
+Lips
+Vocalization
+Mastication
+Salivation
+JawTongueSwallowing
+Eyelid and ey
+eball
+Hip
+Knee
+Ankle
+Toes
+Figure 56- 2. Degree of representation of the different muscles of 
+the body in the motor cortex. (Modified from Penfield W, Rasmussen 
+T: The Cerebral Cortex of Man: A Clinical Study of Localization of 
+Function. New York: Hafner, 1968.)
+ChewingSwallowingTongue
+Jaw
+Vocalization
+Lips
+Nec
+k Fingers
+HipsLegsFeet
+Thumb
+Trunk
+Ar
+ms
+Supplemental
+and premotor
+areas
+Primary
+motor
+cortex
+Contralateral
+eye movements
+Head rotation
+Choice
+of words
+Eye
+fixation
+Hand skills
+Word formation
+(Broca’s area)
+Figure 56- 3. Representation of the different muscles of the body in 
+the motor cortex and location of other cortical areas responsible for 
+specific types of motor movements.
