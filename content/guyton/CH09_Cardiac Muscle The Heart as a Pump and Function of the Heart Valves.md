@@ -3,535 +3,181 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH09"
 title: "Cardiac Muscle: The Heart as a Pump and Function of the Heart Valves"
 book: "Guyton & Hall"
-summary: "Chapter 9 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
----
+summary: "本章說明心肌的結構與特性，以及心臟作為幫浦的功能。心肌 action potential 具有長達0.2-0.3秒的 plateau，由L型鈣離子通道與鉀離子通透性下降共同造成。本章涵蓋心動週期的各個階段（心舒期、心收縮期、等容收縮、等容舒張），心房與心室的壓力-容積關係，房室瓣與半月瓣的功能，心音的由來，心臟輸出的調控（Frank-Starling 機制與自主神經控制），以及鉀離子、鈣離子與溫度對心臟功能的影響。"
 ---
 
-UNIT III
+## 章節導讀
 
-The presence of this plateau in the <span class="c-yellow">action potential</span> causes ventricular contraction to last as much as 15 times longer in cardiac muscle than in skeletal muscle.
+心臟是循環系統的核心幫浦，透過節律性的收縮與舒張推動血液流遍全身。本章首先說明心肌與骨骼肌在結構與生理上的重要差異：心肌細胞透過 intercalated discs 相連形成合體，action potential 拥有显著的 plateau，使收縮時間遠長於骨骼肌。接著介紹心動週期的完整過程——從心房填充、心室收縮、血液射出到心臟舒張——以及各瓣膜如何防止血液逆流。我們將詳細分析心臟的壓力-容積圖，了解心臟如何做功，並探討心輸出量的內在調控（Frank-Starling 機制）與外在神經調控（交感與副交感神經）。最後說明鉀離子、鈣離子濃度與溫度變化對心臟功能的影響。
 
-## What Causes the Long <span class="c-yellow">Action Potential</span> and Plateau in Cardiac Muscle?
+## 心肌細胞的特性
 
-At least two major differences between the membrane properties of cardiac and skeletal muscle account for the prolonged <span class="c-yellow">action potential</span> and the plateau in cardiac muscle.
+心肌細胞與骨骼肌細胞類似，也含有紀絲與肌凝蛋白絲，遵循相同的滑行絲狀收縮機制。然而，心肌在幾個重要方面與骨骼肌不同：
 
-**First**, the <span class="c-yellow">action potential</span> of skeletal muscle is caused almost entirely by the sudden opening of large numbers of fast sodium channels that allow tremendous numbers of sodium ions to enter the skeletal muscle fiber from the extracellular fluid. These channels are called fast channels because they remain open for only a few thousandths of a second and then abruptly close. At the end of this closure, <span class="c-yellow">repolarization</span> occurs, and the <span class="c-yellow">action potential</span> is over within about another thousandth of a second.
+1. **合體結構：** 心肌細胞透過 intercalated discs（含有 gap junctions）相互連接，使 action potential 可在細胞間直接傳播，讓整個心房或心室作為一個合體同步收縮
+2. **長動作電位與 Plateau：** 心室肌 action potential 持續約 0.3 秒，比骨骼肌長約 15 倍
+3. **細胞外鈣離子的重要性：** 心肌收縮所需的大量鈣離子來自細胞外液（經 T tubules 進入），不同於骨骼肌主要依賴肌漿網儲存的鈣離子
+4. **無強直收縮能力：** 由於絕對不反應期長，心肌無法產生強直（tetanic）收縮
 
-In cardiac muscle, the <span class="c-yellow">action potential</span> is caused by opening of two types of channels:
+## 心肌動作電位及其 Plateau
 
-1. The same voltage-<span class="c-green">activate</span>d fast sodium channels as those in skeletal muscle
-2. Another entirely different population of L-type calcium channels (slow calcium channels), which are also called calcium-sodium channels
+### 何謂心肌動作電位的長時程與 Plateau
 
-This second population of channels differs from the fast sodium channels in that they are slower to open and, even more importantly, remain open for several tenths of a second. During this time, a large quantity of both calcium and sodium ions flows through these channels to the interior of the cardiac muscle fiber, and this activity maintains a prolonged period of depolarization, causing the plateau in the <span class="c-yellow">action potential</span>. Furthermore, the calcium ions that enter during this plateau phase <span class="c-green">activate</span> the muscle contractile process, whereas the calcium ions that cause skeletal muscle contraction are derived from the intracellular <span class="c-yellow">sarcoplasmic reticulum</span>.
+心肌動作電位比骨骼肌長得多的原因有兩個：
 
-**Second**, the major functional difference between cardiac muscle and skeletal muscle that helps account for both the prolonged <span class="c-yellow">action potential</span> and its plateau is that immediately after the onset of the <span class="c-yellow">action potential</span>, the permeability of the cardiac muscle membrane for potassium ions decreases about fivefold, an effect that does not occur in skeletal muscle. This decreased potassium permeability may result from the excess calcium influx through the calcium channels just noted.
+**第一**，骨骼肌的 action potential 幾乎完全依賴快速鈉離子通道的突然開放，這些通道在幾千分之一秒後就關閉。相比之下，心肌動作電位涉及兩種通道：
+- 與骨骼肌相同的電壓門控快速鈉離子通道
+- L 型鈣離子通道（慢鈣通道），又稱鈣-鈉通道
 
-Regardless of the cause, the decreased potassium permeability greatly decreases the efflux of positively charged potassium ions during the <span class="c-yellow">action potential</span> plateau and thereby prevents early return of the <span class="c-yellow">action potential</span> voltage to its resting level. When the slow calcium-sodium channels do close at the end of 0.2 to 0.3 second, and the influx of calcium and sodium ions ceases, the membrane permeability for potassium ions also increases rapidly. This rapid loss of potassium from the fiber immediately returns the <span class="c-yellow">membrane potential</span> to its resting level, thus ending the <span class="c-yellow">action potential</span>.
+慢鈣通道不僅開放較慢，更重要的是保持開放約 0.2-0.3 秒，允許大量鈣、鈉離子流入心肌纖維內部，維持去極化狀態形成 plateau。此外，進入細胞的鈣離子同時啟動收縮機制。
 
-## Phases of Cardiac Muscle <span class="c-yellow">Action Potential</span>
+**第二**，心肌動作電位開始後，膜對鉀離子的通透性降低約五倍，減少了鉀離子的外流，防止膜電位過早回到 resting 水準。當慢鈣-鈉通道最終關閉時，鉀離子通透性迅速恢復，膜電位立即回到 resting 水準。
 
-Figure 9-5 summarizes the phases of the <span class="c-yellow">action potential</span> in cardiac muscle and the ion flows that occur during each phase.
+### 心肌動作電位的各相位
 
-**Phase 0 (<span class="c-yellow">Depolarization</span>): Fast Sodium Channels Open.** When the cardiac cell is <span class="c-green">stimulate</span>d and depolarizes, the <span class="c-yellow">membrane potential</span> becomes more positive. Voltage-gated sodium channels (fast sodium channels) open and permit sodium to rapidly flow into the cell and depolarize it. The <span class="c-yellow">membrane potential</span> reaches about +20 millivolts before the sodium channels close.
+Figure 9-5 總結了心室肌動作電位的各相位：
 
-**Phase 1 (Initial <span class="c-yellow">Repolarization</span>): Fast Sodium Channels Close.** The sodium channels close, the cell begins to repolarize, and potassium ions leave the cell through open potassium channels.
+**Phase 0（去極化）：** 快速鈉離子通道開放，鈉離子快速流入細胞，膜電位上升到約 +20 毫伏後鈉通道關閉。
 
-**Phase 2 (Plateau): Calcium Channels Open and Fast Potassium Channels Close.** A brief initial <span class="c-yellow">repolarization</span> occurs and the <span class="c-yellow">action potential</span> then plateaus as a result of increased calcium ion permeability and decreased potassium ion permeability. The voltage-gated calcium ion channels open slowly during phases 1 and 0, and calcium enters the cell. Potassium channels then close, and the combination of decreased potassium ion efflux and increased calcium ion influx causes the <span class="c-yellow">action potential</span> to plateau.
+**Phase 1（初始再極化）：** 鈉通道關閉，細胞開始再極化，鉀離子通過開放的鉀通道離開細胞。
 
-**Phase 3 (Rapid <span class="c-yellow">Repolarization</span>): Calcium Channels Close and Slow Potassium Channels Open.** The closure of calcium ion channels and increased potassium ion permeability, permitting potassium ions to exit the cell rapidly, ends the plateau and returns the cell membrane potential to its resting level.
+**Phase 2（Plateau）：** 钙離子通道開放而鉀離子通道關閉，導致膜電位維持 plateau 狀態。
 
-**Phase 4 (Resting <span class="c-yellow">Membrane Potential</span>):** This averages about −80 to −90 millivolts.
+**Phase 3（快速再極化）：** 鈣離子通道關閉，鉀離子通透性增加，鉀離子快速流出細胞，結束 plateau，膜電位回到 resting 水準。
 
-<figure>
-![Phases of action potential](placeholder)
-<span class="c-yellow">Membrane potential</span> (millivolts)
-Time (milliseconds)
-Outward iK+
-iCa2+
-iNa+
-Inward
-Ionic currents
-**Figure 9-5.** Phases of <span class="c-yellow">action potential</span> of cardiac ventricular muscle cell and associated ionic currents for sodium (iNa+), calcium (iCa2+), and potassium (iK+).
-</figure>
+**Phase 4（靜止膜電位）：** 心室肌細胞的 resting membrane potential 約 −80 至 −90 毫伏。
 
-## Velocity of Signal Conduction in Cardiac Muscle
+## 心肌的訊號傳導速度與不反應期
 
-The velocity of conduction of the excitatory <span class="c-yellow">action potential</span> signal along both atrial and ventricular muscle fibers is about 0.3 to 0.5 m/sec, or about 1/250 the velocity in very large nerve fibers and about 1/10 the velocity in skeletal muscle fibers. The velocity of conduction in the specialized heart conductive system—in the Purkinje fibers—is as high as 4 m/sec in most parts of the system, allowing rapid conduction of the excitatory signal to the different parts of the heart, as explained in Chapter 10.
+心房與心室肌纖維的傳導速度約 0.3-0.5 m/sec，約為大神經纖維的 1/250、骨骼肌的 1/10。心室的絕對不反應期約 0.25-0.30 秒，與動作電位的 plateau 時間相當。這個長不反應期確保心室有足夠時間在下次收縮前完成射血與舒張，防止強直收縮。
 
-## Refractory Period of Cardiac Muscle
+## 興奮-收縮耦合——鈣離子與橫管的功能
 
-Cardiac muscle, like all excitable tissue, is refractory to restimulation during the <span class="c-yellow">action potential</span>. Therefore, the refractory period of the heart is the interval of time, as shown to the left in Figure 9-6, during which a normal cardiac impulse cannot re-<span class="c-green">excite</span> an already <span class="c-green">excite</span>d area of cardiac muscle.
+心肌的 excitation-contraction coupling 與骨骼肌相似，但有一個關鍵差異。Action potential 沿著 T tubules 傳播時，不僅促使肌漿網釋放鈣離子，T tubules 本身也通過電壓依賴性鈣通道讓細胞外鈣離子直接流入細胞內（Figure 9-7）。這些鈣離子進一步活化肌漿網的 ryanodine 受體通道，觸發大量鈣離子釋放到肌漿中。
 
-The normal refractory period of the ventricle is 0.25 to 0.30 second, which is about the duration of the prolonged plateau <span class="c-yellow">action potential</span>. There is an additional relative refractory period of about 0.05 second during which the muscle is more difficult to <span class="c-green">excite</span> than normal but can be <span class="c-green">excite</span>d by a very strong excitatory signal, as demonstrated by the early premature contraction in the second example of Figure 9-6.
+**心肌收縮高度依賴細胞外鈣離子。** 如果將心臟置於無鈣溶液中，會迅速停止跳動。相比之下，改變細胞外液鈣離子濃度對骨骼肌收縮力量的影響很小。這是因為骨骼肌收縮幾乎完全由肌漿網釋放的鈣離子引發。
 
-The refractory period of atrial muscle is much shorter than that for the ventricles (about 0.15 second for the atria compared with 0.25 to 0.30 second for the ventricles).
+舒張時，鈣離子通過 SERCA 幫浦（肌漿網鈣 ATP 酶）被泵回肌漿網，也可通過鈉-鈣交換器排出細胞。
 
-<figure>
-Seconds
-12 30
-Relative refractory period
-Refractory period
-Early premature contraction
-Later premature contraction
-Force of contraction
-**Figure 9-6.** Force of ventricular heart muscle contraction, showing also the duration of the refractory period and relative refractory period, plus the effect of premature contraction. Note that premature contractions do not cause wave summation, as occurs in skeletal muscle.
-</figure>
+## 心動週期
 
-## Excitation-Contraction Coupling—Function of Calcium Ions and the Transverse Tubules
+從一次心跳開始到下一次心跳開始之間發生的事件稱為心動週期（cardiac cycle）。每次週期由竇房結（sinus node）自發產生 action potential 啟動。竇房結產生的電訊號首先使兩側心房收縮，約 0.1 秒後通過 AV bundle 傳到心室，使心室在心房收縮之後收縮。這使心房能先泵血填充心室，之後心室才以更強的力量將血液射入肺循環與體循環。
 
-The term excitation-contraction coupling refers to the mechanism whereby the <span class="c-yellow">action potential</span> causes the myofibrils of muscle to contract. This mechanism was discussed for skeletal muscle in Chapter 7. Again, there are differences in this mechanism in cardiac muscle that have important effects on the characteristics of heart muscle contraction.
+### 心舒期與心收縮期
 
-As is true for skeletal muscle, when an action potential passes over the cardiac muscle membrane, the action potential spreads to the interior of the cardiac muscle fiber along the membranes of the transverse (T) tubules. The T tubule action potentials then act on the membranes of the longitudinal sarcoplasmic tubules to cause release of calcium ions into the muscle sarcoplasm from the sarcoplasmic reticulum. In another few thousandths of a second, these calcium ions diffuse into the myofibrils and catalyze the chemical reactions that promote sliding of the actin and myosin filaments along one another, which produces the muscle contraction.
+心率 72 次/分時，每個心動週期約 0.833 秒。心舒期（diastole）約佔 0.533 秒，心收縮期（systole）約佔 0.3 秒。當心率加快時， diastole 縮短的比例大於 systole。
 
-Thus far, this mechanism of excitation-contraction coupling is the same as that for skeletal muscle, but there is a second effect that is quite different. In addition to the calcium ions that are released into the sarcoplasm from the cisternae of the <span class="c-yellow">sarcoplasmic reticulum</span>, calcium ions also diffuse into the sarcoplasm from the T tubules at the time of the <span class="c-yellow">action potential</span>, which opens voltage-dependent calcium channels in the membrane of the T tubule (Figure 9-7). Calcium entering the cell then <span class="c-green">activates</span> calcium release channels, also called ryanodine receptor channels, in the <span class="c-yellow">sarcoplasmic reticulum</span> membrane, triggering the release of calcium into the sarcoplasm. Calcium ions in the sarcoplasm then interact with troponin to initiate cross-bridge formation and contraction by the same basic mechanism as that described for skeletal muscle in Chapter 6.
+### 心房作為心室的 primer pump
 
-**Without the calcium from the T tubules, the strength of cardiac muscle contraction would be reduced considerably** because the sarcoplasmic reticulum of cardiac muscle is less well developed than that of skeletal muscle and does not store enough calcium to provide full contraction. The T tubules of cardiac muscle, however, have a diameter five times as great as that of the skeletal muscle tubules, which means a volume 25 times as great. Also, inside the T tubules is a large quantity of mucopolysaccharides that are electronegatively charged and bind an abundant store of calcium ions, keeping them available for diffusion to the interior of the cardiac muscle fiber when a T tubule <span class="c-yellow">action potential</span> appears.
+約 80% 的血液從靜脈直接流經心房進入心室，在心房收縮前就已完成。其餘 20% 由心房收縮時額外泵入。因此心房作為心室的 primer pump，增加心室泵血效率約 20%。心臟有廣泛的儲備能力，即使失去這額外 20% 的效率，休息時通常不會表現出症狀。
 
-The strength of contraction of cardiac muscle depends to a great extent on the concentration of calcium ions in the extracellular fluids. In fact, a heart placed in a calcium-free solution will quickly stop beating. The reason for this response is that the openings of the T tubules pass directly through the cardiac muscle cell membrane into the extracellular spaces surrounding the cells, allowing the same extracellular fluid that is in the cardiac muscle interstitium to percolate through the T tubules. Consequently, the quantity of calcium ions in the T tubule system (i.e., the availability of calcium ions to cause cardiac muscle contraction) depends to a great extent on the extracellular fluid calcium ion concentration.
+### 心房壓力波——a、c、v 波
 
-In contrast, the strength of skeletal muscle contraction is hardly affected by moderate changes in extracellular fluid calcium concentration. This is because skeletal muscle contraction is caused almost entirely by calcium ions released from the <span class="c-yellow">sarcoplasmic reticulum</span> inside the skeletal muscle fiber.
+Figure 9-8 的心房壓力曲線顯示三個小的壓力升高：
 
-At the end of the plateau of the cardiac action potential, the influx of calcium ions to the interior of the muscle fiber is suddenly cut off, and calcium ions in the sarcoplasm are rapidly pumped back out of the muscle fibers into the <span class="c-yellow">sarcoplasmic reticulum</span> and T tubule–extracellular fluid space. Transport of calcium back into the <span class="c-yellow">sarcoplasmic reticulum</span> is achieved with the help of a calcium–adenosine triphosphatase (ATPase) pump (the sarcoplasmic endoplasmic reticulum calcium ATPase, SERCA2; see Figure 9-7). Calcium ions are also removed from the cell by a sodium-calcium exchanger. The sodium that enters the cell during this exchange is then transported out of the cell by the sodium-potassium ATPase pump. As a result, the contraction ceases until a new <span class="c-yellow">action potential</span> comes along.
+- **a 波：** 由心房收縮引起，右心房壓力在心房收縮時升高 4-6 mm Hg，左心房約 7-8 mm Hg
+- **c 波：** 心室開始收縮時發生，部分由血液輕微逆流入心房，主要由 AV 瓣膜在心室壓力上升時向心房方向膨出引起
+- **v 波：** 心室收縮末期出現，由血液緩慢流入關閉了 AV 瓣膜的心房所致；心室收縮結束、AV 瓣膜打開後，血液快速流入心室，v 波消失
 
-## Duration of Contraction
+## 心室的泵血功能
 
-Cardiac muscle begins to contract a few milliseconds after the <span class="c-yellow">action potential</span> begins and continues to contract until a few milliseconds after the <span class="c-yellow">action potential</span> ends. Therefore, the duration of contraction of cardiac muscle is mainly a function of the duration of the <span class="c-yellow">action potential</span>, including the plateau—about 0.2 second in atrial muscle and 0.3 second in ventricular muscle.
+### 心室填充（Diastole）
 
-## Cardiac Cycle
+心室在 diastole 期間填充。在快速填充期（約佔 diastole 的前三分之一），血液因心房在 systole 期間累積的壓力而快速流入心室。Diastole 中間三分之一期間，只有少量血液從靜脈持續流入心房並直接通過心房進入心室。最後三分之一期間，心房收縮將額外血液推入心室，約佔每次心動週期心室填充量的 20%。
 
-The cardiac events that occur from the beginning of one heartbeat to the beginning of the next are called the cardiac cycle. Each cycle is initiated by the spontaneous generation of an <span class="c-yellow">action potential</span> in the sinus node, as explained in Chapter 10. This node is located in the superior lateral wall of the right atrium near the opening of the superior vena cava, and the <span class="c-yellow">action potential</span> travels from here rapidly through both atria and then through the A-V bundle into the ventricles. Because of this special arrangement of the conducting system from the atria into the ventricles, there is a delay of more than 0.1 second during passage of the cardiac impulse from the atria into the ventricles. This delay allows the atria to contract ahead of ventricular contraction, thereby pumping blood into the ventricles before the strong ventricular contraction begins. Thus, the atria act as primer pumps for the ventricles, and the ventricles in turn provide the major source of power for moving blood through the body's vascular system.
+### 心室射血（Systole）
 
-## Diastole and Systole
+**等容（等張）收縮期：** 心室收縮開始後，室內壓力迅速上升，導致 AV 瓣膜關閉。此後約 0.02-0.03 秒，心室需建立足夠壓力以克服主動脈與肺動脈壓力、打開半月瓣。在這個時期，心肌纖維張力增加但長度不變，稱為等容收縮期。
 
-The total duration of the cardiac cycle, including systole and diastole, is the reciprocal of the heart rate. For example, if the heart rate is 72 beats/min, the duration of the cardiac cycle is 1/72 min/beat—about 0.0139 min/beat, or 0.833 sec/beat.
+**射出期：** 當左心室壓力超過約 80 mm Hg（右心室超過約 8 mm Hg）時，半月瓣打開，血液被射入主動脈與肺動脈。約 60% 的心室血液在心室收縮結束時被射出，其中 70% 流出於射出期的前三分之一（快速射出期），其餘 30% 在後三分之二（慢速射出期）流出。
 
-Figure 9-8 shows the different events during the cardiac cycle for the left side of the heart. The top three curves show the pressure changes in the aorta, left ventricle, and left atrium, respectively. The fourth curve depicts the changes in left ventricular volume, the fifth depicts the electrocardiogram, and the sixth depicts a phonocardiogram, which is a recording of the sounds produced by the heart—mainly by the heart valves—as it pumps. It is especially important that the reader study this figure in detail and understand the causes of all the events shown.
+**等容舒張期：** 心室收縮結束時，心室開始舒張，室內壓力迅速下降。大動脈中已填充的血液將血液推回心室，使半月瓣關閉。此後 0.03-0.06 秒，心室肌繼續舒張但心室容量不變，稱為等容舒張期。隨後 AV 瓣膜打開，開始新的心室泵血循環。
 
-## Increasing Heart Rate Decreases Duration of Cardiac Cycle
-
-When heart rate increases, the duration of each cardiac cycle decreases, including the contraction and relaxation phases. The duration of the <span class="c-yellow">action potential</span> and systole also decrease, but not by as great a percentage as diastole. At a normal heart rate of 72 beats/min, systole comprises about 0.4 of the entire cardiac cycle. At three times the normal heart rate, systole is about 0.65 of the entire cardiac cycle. This means that the heart beating very rapidly does not remain relaxed long enough to allow complete filling of the cardiac chambers before the next contraction.
-
-## Relationship of the Electrocardiogram to the Cardiac Cycle
-
-The electrocardiogram in Figure 9-8 shows the P, Q, R, S, and T waves, discussed in Chapters 11 and 12. These are electrical voltages generated by the heart and recorded by the electrocardiogram from the surface of the body.
-
-The P wave is caused by the spread of <span class="c-yellow">depolarization</span> through the atria and is followed by atrial contraction, which causes a slight rise in the atrial pressure curve immediately after the electrocardiographic P wave.
-
-About 0.16 second after the onset of the P wave, the QRS waves appear as a result of electrical <span class="c-yellow">depolarization</span> of the ventricles, which initiates contraction of the ventricles and causes the ventricular pressure to begin rising. Therefore, the QRS complex begins slightly before the onset of ventricular systole.
-
-Finally, the ventricular T wave represents the stage of <span class="c-yellow">repolarization</span> of the ventricles when the ventricular muscle fibers begin to relax. Therefore, the T wave occurs slightly before the end of ventricular contraction.
-
-## The Atria Function as Primer Pumps for the Ventricles
-
-Blood normally flows continually from the great veins into the atria; about 80% of the blood flows directly through the atria into the ventricles, even before the atria contract. Then, atrial contraction usually causes an additional 20% filling of the ventricles. Therefore, the atria function as primer pumps that increase the ventricular pumping effectiveness as much as 20%. However, the heart can continue to operate under most conditions even without this extra 20% effectiveness because the heart has extensive reserve capacity.
-
-<figure>
-**Figure 9-8.** Events of the cardiac cycle for left ventricular function, showing changes in left atrial pressure, left ventricular pressure, aortic pressure, ventricular volume, the electrocardiogram, and the phonocardiogram. A-V, Atrioventricular.
-</figure>
-
-<figure>
-Pressure (mm Hg)
-Volume (ml) 50
-Systole
-1st 2nd 3rd
-Systole Diastole
-Q S
-T
-R
-P
-a c v
-Phonocardiogram
-Electrocardiogram
-Ventricular volume
-Ventricular pressure
-Atrial pressure
-Aortic pressure
-A-V valve opens
-A-V valve closes
-Aortic valve closes
-Aortic valve opens
-Isovolumic contraction
-Ejection
-Isovolumic relaxation
-Rapid inflow
-Diastasis
-Atrial systole
-</figure>
+### 末期舒張容積、末期收縮容積與心搏出量
 
-<figure>
-<span class="c-cyan">ATP</span>
-<span class="c-cyan">ATP</span>
-<span class="c-cyan">Na+</span> Na+
-<span class="c-cyan">Na+</span> Na+
-<span class="c-cyan">K+</span> K+
-Contraction
-Extracellular fluid
-Extracellular fluid
-Sarcolemma
-Sarcolemma
-Cytoplasm
-Cytoplasm
-<span class="c-cyan">Ca2+</span> Ca2+
-<span class="c-cyan">Ca2+</span> Ca2+
-<span class="c-cyan">Ca2+</span> Ca2+
-<span class="c-cyan">Ca2+</span> Ca2+
-Ca2+ relaxation
-Ca2+ relaxation
-<span class="c-cyan">Ca2+</span> Ca2+
-Ca2+ spark
-Ca2+ spark
-Ca2+ signal
-Ca2+ signal
-Ca2+ stores
-Ca2+ stores
-Sarcoplasmic reticulum
-Sarcoplasmic reticulum
-Sarcoplasmic reticulum
-Sarcoplasmic reticulum
-T Tubule
-T Tubule
-RyR
-RyR
-SERCA2
-SERCA2
-L-type Ca2+ channel
-L-type Ca2+ channel
-**Figure 9-7.** Mechanisms of excitation-contraction coupling and relaxation in cardiac muscle. <span class="c-cyan">ATP</span>, <span class="c-cyan">Adenosine triphosphate</span>. RyR, ryanodine receptor Ca2+ release channel; SERCA, <span class="c-yellow">sarcoplasmic reticulum</span> Ca2+-ATPase.
-</figure>
+Diastole 結束時，每側心室容積約 110-120 ml（末期舒張容積，end-diastolic volume）。收縮期間約減少 70 ml，這就是心搏出量（stroke volume）。收縮結束後留在心室的血液約 40-50 ml（末期收縮容積，end-systolic volume）。射出分率（ejection fraction）是射出的容積佔末期舒張容積的比例，通常約 0.6（60%）。
 
----
-title: "UNIT III"
----
+## 心臟瓣膜防止收縮期血液逆流
 
-# The Heart
+### 房室瓣
 
-It normally has the capability of pumping 300% to 400% more blood than is required by the resting body. Therefore, when the atria fail to function, the difference is unlikely to be noticed unless a person exercises; then, symptoms of heart failure occasionally develop, especially shortness of breath.
+AV 瓣膜（即三尖瓣與二尖瓣）防止收縮期血液從心室逆流回心房。半月瓣（即主動脈瓣與肺动脉瓣）防止舒張期血液從主動脈與肺動脈逆流回心室。瓣膜是被動關閉的——當逆向壓力梯度推動血液時關閉，當順向壓力梯度推動血液時打開。
 
-## Pressure Changes in the Atria—a, c, and v Waves
+### 乳頭肌的功能
 
-In the atrial pressure curve of Figure 9-8, three minor pressure elevations, called a, c, and v atrial pressure waves, are shown.
+Figure 9-9 顯示乳頭肌通過腱索（chordae tendineae）附著於 AV 瓣膜的瓣葉。乳頭肌在心室壁收縮時收縮，但並非幫助瓣膜關閉，而是將瓣葉向心室側拉向內，防止在心室收縮時過度向心房方向突出。如果腱索斷裂或乳頭肌因心肌梗塞血流不足而麻痹，瓣膜在心室收縮時會嚴重向後突出，導致嚴重逆流甚至致命的心臟功能障礙。
 
-The **a wave** is caused by atrial contraction. Ordinarily, the right atrial pressure increases 4 to 6 mm Hg during atrial contraction, and the left atrial pressure increases about 7 to 8 mm Hg.
+### 主動脈瓣與肺动脉瓣
 
-The **c wave** occurs when the ventricles begin to contract; it is caused partly by slight backflow of blood into the atria at the onset of ventricular contraction, but mainly by bulging of the A-V valves backward toward the atria because of increasing pressure in the ventricles.
+半月瓣的結構必須非常堅固且具有彈性，以承受額外的物理應力。關閉時，高壓力使半月瓣啪地關閉，比柔軟的 AV 瓣膜關閉產生更清脆的聲音。
 
-The **v wave** occurs toward the end of ventricular contraction; it results from slow flow of blood into the atria from the veins while the A-V valves are closed during ventricular contraction. Then, when ventricular contraction is over, the A-V valves open, allowing this stored atrial blood to flow rapidly into the ventricles, causing the v wave to disappear.
+## 主動脈壓力曲線
 
-## FUNCTION OF THE VENTRICLES AS PUMPS
+Figure 9-8 顯示主動脈壓力曲線。當左心室收縮時，室內壓力迅速上升直到主動脈瓣打開，血液立即流入主動脈與體循環動脈，使這些血管壁伸展並使壓力上升到約 120 mm Hg。收縮結束、主動脈瓣關閉後，富有彈性的血管壁在 diastole 期間維持較高壓力。主動脈瓣關閉時出現一個 incisura（切跡），由關閉前短暫的血液逆流引起。
 
-### The Ventricles Fill with Blood During Diastole
+Dlastole 期間，主動脈壓力因血液從擴張的彈性血管持續流向周邊血管並回到靜脈而緩慢下降。在下次心室收縮前，主動脈壓力通常已降至約 80 mm Hg（舒張壓），約為峰值 120 mm Hg（收縮壓）的三分之二。
 
-During ventricular systole, large amounts of blood accumulate in the right and left atria because of the closed A-V valves. Therefore, as soon as systole is over, and the ventricular pressures fall again to their low diastolic values, the moderately increased pressures that have developed in the atria during ventricular systole immediately push the A-V valves open and allow blood to flow rapidly into the ventricles, as shown by the rise of the left ventricular volume curve in Figure 9-8. This period is called the period of rapid filling of the ventricles.
+## 心音與心臟泵血的關係
 
-In a healthy heart, the period of rapid filling lasts for about the first third of diastole. During the middle third of diastole, only a small amount of blood normally flows into the ventricles. This is blood that continues to empty into the atria from the veins and passes through the atria directly into the ventricles. During the last third of diastole, the atria contract and give an additional thrust to the inflow of blood into the ventricles. This mechanism accounts for about 20% of the filling of the ventricles during each heart cycle.
+用聽診器聽心臟時，聽不到瓣膜開放的聲音，因為這是一個相對緩慢的過程。當瓣膜關閉時，瓣葉與周圍液體在壓力突然變化下振動，產生可傳播到整個胸腔的聲音。
 
-The ventricles stiffen with aging or diseases that cause cardiac fibrosis such as high blood pressure or diabetes mellitus. This causes less blood to fill the ventricles in the early portion of diastole and requires more volume (preload; discussed later) or more filling from the later atrial contraction to maintain adequate cardiac output.
+心室收縮時首先聽到由 AV 瓣膜關閉引起的聲音，振動頻率低且持續時間較長，稱為第一心音（S1）。主動脈瓣與肺动脉瓣在收縮末期關閉時，聽到清脆的聲音，稱為第二心音（S2）。
 
-### Outflow of Blood from the Ventricles During Systole
+## 心臟的功輸出
 
-**Period of Isovolumic (Isometric) Contraction.** Immediately after ventricular contraction begins, the ventricular pressure rises abruptly, as shown in Figure 9-8, causing the A-V valves to close. Then, an additional 0.02 to 0.03 second is required for the ventricle to build up sufficient pressure to push the semilunar (aortic and pulmonary) valves open against the pressures in the aorta and pulmonary artery. Therefore, during this period, contraction is occurring in the ventricles, but no emptying occurs. This period is called the period of isovolumic or isometric contraction, meaning that cardiac muscle tension is increasing but little or no shortening of the muscle fibers is occurring.
+心臟每次心跳做功輸出能量，主要以兩種形式表現：
 
-**Period of Ejection.** When the left ventricular pressure rises slightly above 80 mm Hg (and the right ventricular pressure rises slightly above 8 mm Hg), the ventricular pressures push the semilunar valves open. Immediately, blood is ejected out of the ventricles into the aorta and pulmonary artery. Approximately 60% of the blood in the ventricles at the end of diastole is ejected during systole; about 70% of this portion flows out during the first third of the ejection period, with the remaining 30% emptying during the next two thirds. Therefore, the first third is called the period of rapid ejection, and the last two thirds is called the period of slow ejection.
+- **容積-壓力功（外功）：** 主要部分用於將血液從低壓靜脈移動到高壓動脈
+- **血流的動能：** 較小部分用於加速血液通過半月瓣的流出速度
 
-**Period of Isovolumic (Isometric) Relaxation.** At the end of systole, ventricular relaxation begins suddenly, allowing both the right and left intraventricular pressures to decrease rapidly. The elevated pressures in the distended large arteries that have just been filled with blood from the contracted ventricles immediately push blood back toward the ventricles, which snaps the aortic and pulmonary valves closed. For another 0.03 to 0.06 second, the ventricular muscle continues to relax, even though the ventricular volume does not change, giving rise to the period of isovolumic or isometric relaxation. During this period, the intraventricular pressures rapidly decrease back to their low diastolic levels. Then, the A-V valves open to begin a new cycle of ventricular pumping.
+左心室外功輸出約為右心室的六倍，因為左心室泵出的收縮壓約為右心室的六倍。正常情況下，動能約佔左心室總功輸出的 1%，可以忽略。但在某些異常情況如主動脈瓣狹窄時，通過狹窄瓣膜的高速血流可能需要總功輸出的 50% 以上來產生動能。
 
-### End-Diastolic Volume, End-Systolic Volume, and Stroke Volume Output
+### 心室的壓力-容積圖
 
-During diastole, normal filling of the ventricles increases the volume of each ventricle to about 110 to 120 ml. This volume is called the **end-diastolic volume**. Then, as the ventricles empty during systole, the volume decreases by about 70 ml, which is called the **stroke volume output**. The remaining volume in each ventricle, about 40 to 50 ml, is called the **end-systolic volume**. The fraction of the end-diastolic volume that is ejected is called the ejection fraction, usually equal to about 0.6 (or 60%). The ejection fraction percentage is often used clinically to assess cardiac systolic (pumping) capability.
+Figure 9-10 顯示左心室的壓力-容積圖。紅線形成的環（EW）是心動週期的壓力-容積圖，面積代表心室的淨外功輸出。
 
-When the heart contracts strongly, the end-systolic volume may decrease to as little as 10 to 20 ml. Conversely, when large amounts of blood flow into the ventricles during diastole, the ventricular end-diastolic volumes can become as much as 150 to 180 ml in the healthy heart. By both increasing the end-diastolic volume and decreasing the end-systolic volume, the stroke volume output can be increased to more than double that which is normal.
+- **Phase I（填充期）：** 心室容積從 50 ml（末期收縮容積）增加到約 120 ml（末期舒張容積），增加 70 ml
+- **Phase II（等容收縮期）：** 心室容量不變（所有瓣膜關閉），壓力上升到與主動脈壓相等（約 80 mm Hg）
+- **Phase III（射出期）：** 隨著血液流出，容積減少同時壓力進一步升高
+- **Phase IV（等容舒張期）：** 主動脈瓣關閉，壓力下降到 diastole 水準，容積不變
 
-## THE HEART VALVES PREVENT BACKFLOW OF BLOOD DURING SYSTOLE
+### 前負荷與後負荷的概念
 
-### Atrioventricular Valves
+**前負荷（preload）** 是肌肉開始收縮時的張力程度，對心臟而言通常是指心室填充結束時的壓力。**後負荷（afterload）** 是肌肉收縮時需對抗的負荷，對心室而言是從心室射出血液的主動脈壓力。
 
-The A-V valves (i.e., the tricuspid and mitral valves) prevent backflow of blood from the ventricles to the atria during systole, and the semilunar valves (i.e., the aortic and pulmonary artery valves) prevent backflow from the aorta and pulmonary arteries into the ventricles during diastole. These valves, shown in Figure 9-9 for the left ventricle, close and open passively. That is:
+## 心臟泵血的調控
 
-- They close when a backward pressure gradient pushes blood backward
-- They open when a forward pressure gradient forces blood in the forward direction
+休息時心臟每分鐘泵出 4-6 升血液。劇烈運動時可泵出四到七倍。基本的調控機制有：
 
-For anatomical reasons, the thin A-V valves require almost no backflow to cause closure, whereas the much heavier semilunar valves require rather rapid backflow for a few milliseconds.
+1. 心臟對靜脈回流量的內在調控
+2. 自主神經系統對心率與心臟收縮力的控制
 
-### Function of the Papillary Muscles
+## 心臟的內在調控——Frank-Starling 機制
 
-Figure 9-9 also shows papillary muscles that attach to the vanes of the A-V valves by the chordae tendineae. The papillary muscles contract when the ventricular walls contract but, contrary to what might be expected, they do not help the valves to close. Instead, they pull the vanes of the valves inward toward the ventricles to prevent their bulging too far backward toward the atria during ventricular contraction. If a chorda tendina becomes ruptured, or if one of the papillary muscles becomes paralyzed due to low blood flow from a myocardial infarction, the valve bulges far backward during ventricular contraction, sometimes so far that it leaks severely and results in severe or even lethal cardiac incapacity.
+在大多数情况下，心臟每分鐘泵出的血量幾乎完全由從靜脈回流到心臟的血量決定（靜脈回流，venous return）。每個周邊組織控制自身的局部血流量，所有局部血流量匯集後經靜脈回到右心房。心臟則自動將這些回流血液泵入动脉，使其能再次流經循環。
 
-### Aortic and Pulmonary Artery Valves
+心臟適應增加回流量的內在能力稱為心臟的 Frank-Starling 機制（以 Otto Frank 與 Ernest Starling 命名）。基本原理是：心室肌在填充時被拉長越多，收縮力量越大，泵入主動脈的血液量越多。也就是說，在生理限度內，心臟會將所有從靜脈回流來的血液泵出。
 
-The aortic and pulmonary artery semilunar valves function quite differently from the A-V valves:
+### Frank-Starling 機制的解釋
 
-- **High-pressure closure:** The high pressures in the arteries at the end of systole cause the semilunar valves to snap closed, in contrast to the much softer closure of the A-V valves.
-- **Greater ejection velocity:** Because of smaller openings, the velocity of blood ejection through the aortic and pulmonary valves is much greater than that through the much larger A-V valves.
-- **Increased mechanical stress:** Because of the rapid closure and rapid ejection, the edges of the aortic and pulmonary valves are subjected to much greater mechanical abrasion than the A-V valves.
-- **No chordae tendineae support:** The A-V valves are supported by the chordae tendineae, which is not true for the semilunar valves.
+當額外血液流入心室時，心肌被拉長到更大長度。這使肌動蛋白與肌凝蛋白絲達到更有利於產生力量的相對位置，從而收縮力量增加。此外，右心房壁的牽拉會直接使心率增加 10-20%（Bainbridge 反射）。
 
-It is obvious from the anatomy of the aortic and pulmonary valves (as shown for the aortic valve at the bottom of Figure 9-9) that they must be constructed with an especially strong, yet very pliable, fibrous tissue to withstand the extra physical stresses.
+### 心室功能曲線
 
-## AORTIC PRESSURE CURVE
+心室功能曲線是表達心室泵血能力的最佳方式之一。Figure 9-12 顯示心搏功輸出曲線：隨著心房壓力增加，心室功輸出也增加直到達到心室泵血能力的極限。Figure 9-13 顯示心室容積輸出曲線：隨著左、右心房壓力增加，相應的心室每分鐘容積輸出也增加。
 
-When the left ventricle contracts, the ventricular pressure increases rapidly until the aortic valve opens. Then, after the valve opens, the pressure in the ventricle rises much less rapidly, as shown in Figure 9-7, because blood immediately flows out of the ventricle into the aorta and then into the systemic distribution arteries.
+## 交感與副交感神經對心臟的控制
 
-The entry of blood into the arteries during systole causes the walls of these arteries to stretch and the pressure to increase to about 120 mm Hg. Next, at the end of systole, after the left ventricle stops ejecting blood and the aortic valve closes, the elastic walls of the arteries maintain a high pressure in the arteries, even during diastole.
+**交感神經刺激**可使心率從正常的 70 次/分增加到 180-200 次/分（偶爾可達 250 次/分），並可使收縮力加倍，從而將最大心輸出量增加兩到三倍。
 
-An **incisura** occurs in the aortic pressure curve when the aortic valve closes. This is caused by a short period of backward flow of blood immediately before closure of the valve, followed by the sudden cessation of backflow.
+**副交感（迷走）神經刺激**可使心率減慢甚至停止心跳數秒，但心臟通常會「逃脫」並以 20-40 次/分的速率恢復跳動。迷走神經主要分布於心房而非心室，因此主要影響心率而非收縮力量。
 
-After the aortic valve closes, pressure in the aorta decreases slowly throughout diastole because the blood stored in the distended elastic arteries flows continually through the peripheral vessels back to the veins. Before the ventricle contracts again, the aortic pressure usually has fallen to about 80 mm Hg (diastolic pressure), which is two thirds the maximal pressure of 120 mm Hg (systolic pressure) that occurs in the aorta during ventricular contraction.
+## 鉀離子與鈣離子對心臟功能的影響
 
-The pressure curves in the right ventricle and pulmonary artery are similar to those in the aorta, except that the pressures are only about one-sixth as great, as discussed in Chapter 14.
+**鉀離子的影響：** 細胞外液中鉀離子過多會導致心臟擴張並變得鬆軟無力，心率減慢，並可阻斷心房到心室的傳導（通過 AV bundle）。鉀離子濃度升高到 8-12 mEq/L（正常的 2-3 倍）即可引起嚴重心臟無力、心律不整甚至死亡。這是因為高鉀血症使心肌纖維的 resting membrane potential 降低（部分去極化），導致 action potential 強度減弱。
 
-**Cusp**
-**Cusp**
+**鈣離子的影響：** 鈣離子過多引起的效應與鉀離子幾乎相反，導致心臟趨向於痙攣性收縮（因為鈣離子直接啟動心臟收縮過程）。鈣離子缺乏則引起心臟無力。正常血鈣濃度維持在非常狹窄的範圍內，因此異常血鈣濃度的臨床影響較少見。
 
-**MITRAL VALVE**
-**AORTIC VALVE**
+## 溫度對心臟功能的影響
 
-- Papillary muscles
-- Chordae tendineae
-
-*Figure 9-9. Mitral and aortic valves (the left ventricular valves).*
-
-## Relationship of the Heart Sounds to Heart Pumping
-
-When listening to the heart with a stethoscope, one does not hear the opening of the valves because this is a relatively slow process that normally makes no noise. However, when the valves close, the vanes of the valves and the surrounding fluids vibrate under the influence of sudden pressure changes, giving off sound that travels in all directions through the chest.
-
-When the ventricles contract, one first hears a sound caused by closure of the A-V valves. The vibration pitch is low and relatively long-lasting and is known as the first heart sound (S1). When the aortic and pulmonary valves close at the end of systole, one hears a rapid snap because these valves close rapidly, and the surroundings vibrate for a short period. This sound is called the second heart sound (S2). The precise causes of the heart sounds are discussed more fully in Chapter 23 in relation to listening to the sounds with the stethoscope.
-
-## Work Output of the Heart
-
-The stroke work output of the heart is the amount of energy that the heart converts to work during each heartbeat while pumping blood into the arteries. Work output of the heart is in two forms:
-
-- **Volume-pressure work (external work):** The major proportion is used to move the blood from the low-pressure veins to the high-pressure arteries.
-- **Kinetic energy of blood flow:** A minor proportion of the energy is used to accelerate the blood to its velocity of ejection through the aortic and pulmonary valves.
-
-Right ventricular external work output is normally about one-sixth the work output of the left ventricle because of the sixfold difference in systolic pressures pumped by the two ventricles. The additional work output of each ventricle required to create kinetic energy of blood flow is proportional to the mass of blood ejected times the square of velocity of ejection.
-
-Ordinarily, the work output of the left ventricle required to create kinetic energy of blood flow is only about 1% of the total work output of the ventricle and therefore is ignored in the calculation of the total stroke work output. In certain abnormal conditions, however, such as aortic stenosis, in which blood flows with great velocity through the stenosed valve, more than 50% of the total work output may be required to create kinetic energy of blood flow.
-
-## GRAPHIC ANALYSIS OF VENTRICULAR PUMPING
-
-Figure 9-10 shows a diagram that is especially useful in explaining the pumping mechanics of the left ventricle. The most important components of the diagram are the two curves labeled "diastolic pressure" and "systolic pressure." These curves are volume-pressure curves.
-
-The **diastolic pressure curve** is determined by filling the heart with progressively greater volumes of blood and then measuring the diastolic pressure immediately before ventricular contraction occurs, which is the end-diastolic pressure of the ventricle.
-
-The **systolic pressure curve** is determined by recording the systolic pressure achieved during ventricular contraction at each volume of filling.
-
-Until the volume of the noncontracting ventricle rises above about 150 ml, the diastolic pressure does not increase much. Therefore, up to this volume, blood can flow easily into the ventricle from the atrium. Above 150 ml, the ventricular diastolic pressure increases rapidly, partly because of fibrous tissue in the heart that will stretch no more, and partly because the pericardium that surrounds the heart becomes filled nearly to its limit.
-
-During ventricular contraction, the systolic pressure increases, even at low ventricular volumes, and reaches a maximum at a ventricular volume of 150 to 170 ml. Then, as the volume increases further, the systolic pressure actually decreases under some conditions, as demonstrated by the falling systolic pressure curve in Figure 9-10. This occurs because at these great volumes, the actin and myosin filaments of the cardiac muscle fibers are pulled apart far enough that the strength of each cardiac fiber contraction becomes less than optimal.
-
-Note especially in the figure that the maximum systolic pressure for the normal left ventricle is between 250 and 300 mm Hg, but this varies widely with each person's heart strength and degree of heart stimulation by cardiac nerves. For the normal right ventricle, the maximum systolic pressure is between 60 and 80 mm Hg.
-
-### Volume-Pressure Diagram During the Cardiac Cycle; Cardiac Work Output
-
-The red lines in Figure 9-10 form a loop called the volume-pressure diagram of the cardiac cycle for normal function of the left ventricle. A more detailed version of this loop is shown in Figure 9-11. It is divided into four phases:
-
-**Phase I: Period of Filling.** Phase I in the volume-pressure diagram begins at a ventricular volume of about 50 ml and a diastolic pressure of 2 to 3 mm Hg. The amount of blood that remains in the ventricle after the previous heartbeat, 50 ml, is called the end-systolic volume. As venous blood flows into the ventricle from the left atrium, the ventricular volume normally increases to about 120 ml, called the end-diastolic volume, an increase of 70 ml. Therefore, the volume-pressure diagram during phase I extends along the line in Figure 9-10 labeled "I" and from point A to point B in Figure 9-11, with the volume increasing to 120 ml and the diastolic pressure rising to about 5 to 7 mm Hg.
-
-**Phase II: Period of Isovolumic Contraction.** During isovolumic contraction, the volume of the ventricle does not change because all valves are closed. However, the pressure inside the ventricle increases to equal the pressure in the aorta, at a pressure value of about 80 mm Hg, as depicted by point C (see Figure 9-11).
-
-**Phase III: Period of Ejection.** During ejection, the systolic pressure rises even higher because of still more contraction of the ventricle. At the same time, the volume of the ventricle decreases because the aortic valve has now opened, and blood flows out of the ventricle into the aorta. Therefore, in Figure 9-10, the curve labeled "III," or "period of ejection," traces the changes in volume and systolic pressure during this period of ejection.
-
-**Phase IV: Period of Isovolumic Relaxation.** At the end of the period of ejection (point D, Figure 9-11), the aortic valve closes, and the ventricular pressure falls back to the diastolic pressure level. The line labeled "IV" (Figure 9-10) traces this decrease in intraventricular pressure without any change in volume. Thus, the ventricle returns to its starting point, with about 50 ml of blood left in the ventricle at an atrial pressure of 2 to 3 mm Hg.
-
-The area subtended by this functional volume-pressure diagram (the shaded area, labeled "EW") represents the net external work output of the ventricle during its contraction cycle. In experimental studies of cardiac contraction, this diagram is used for calculating cardiac work output.
-
-When the heart pumps large quantities of blood, the area of the work diagram becomes much larger. That is:
-
-- It extends far to the right because the ventricle fills with more blood during diastole
-- It rises much higher because the ventricle contracts with greater pressure
-- It usually extends farther to the left because the ventricle contracts to a smaller volume—especially if the ventricle is <span class="c-green">stimulate</span>d to increased activity by the <span class="c-yellow">sympathetic</span> nervous system.
-
-### Concepts of Preload and Afterload
-
-In assessing the contractile properties of muscle, it is important to specify:
-
-- The degree of tension on the muscle when it begins to contract, called the **preload**
-- The load against which the muscle exerts its contractile force, called the **afterload**
-
-For cardiac contraction, the preload is usually considered to be the end-diastolic pressure when the ventricle has become filled. The afterload of the ventricle is the pressure in the aorta leading from the ventricle. In Figure 9-10, this corresponds to the systolic pressure described by the phase III curve of the volume-pressure diagram. (Sometimes the afterload is loosely considered to be the resistance in the circulation rather than the pressure.)
-
-The importance of the concepts of preload and afterload is that in many abnormal functional states of the heart or circulation, the pressure during filling of the ventricle (the preload), the arterial pressure against which the ventricle must contract (the afterload), or both are altered from normal to a severe degree.
-
-*Figure 9-10. Relationship between left ventricular volume and intraventricular pressure during diastole and systole. Also shown by the red lines is the "volume-pressure diagram," demonstrating changes in intraventricular volume and pressure during the normal cardiac cycle. EW, Net external work; PE, potential energy.*
-
-*Figure 9-11. The volume-pressure diagram demonstrating changes in intraventricular volume and pressure during a single cardiac cycle (red line). The shaded area represents the net external work (EW) output by the left ventricle during the cardiac cycle.*
-
----
-
-UNIT III
-Chemical Energy Required for Cardiac Contraction: Oxygen Utilization by the Heart
-
-Heart muscle, like skeletal muscle, uses chemical energy to provide the work of contraction. Approximately 70% to 90% of this energy is normally derived from oxidative metabolism of fatty acids, with about 10% to 30% coming from other nutrients, especially glucose and lactate. Therefore, the rate of oxygen consumption by the heart is an excellent measure of the chemical energy liberated while the heart performs its work. The different chemical reactions that liberate this energy are discussed in Chapters 68 and 69.
-
-Experimental studies have shown that oxygen consumption of the heart and the chemical energy expended during contraction are directly related to the total shaded area in Figure 9-10. This shaded portion consists of the external work (EW), as explained earlier, and an additional portion called the potential energy, labeled "PE." The potential energy represents additional work that could be accomplished by contraction of the ventricle if the ventricle could completely empty all the blood in its chamber with each contraction.
-
-Oxygen consumption has also been shown to be nearly proportional to the tension that occurs in the heart muscle during contraction multiplied by the duration of time that the contraction persists; this is called the tension-time index. According to the law of Laplace, ventricular wall tension (T) is related to the left ventricular pressure (P) and the radius (r): T = P × r.
-
-Because tension is high when systolic pressure (and therefore left ventricular pressure) is high, correspondingly more oxygen is used. When systolic pressure is chronically elevated, wall stress and cardiac workload are also increased, inducing thickening of the left ventricular walls, which can reduce the ventricular chamber radius (concentric hypertrophy) and at least partially relieve the increased wall tension. Also, much more chemical energy is expended, even at normal systolic pressures, when the ventricle is abnormally dilated (eccentric hypertrophy) because the heart muscle tension during contraction is proportional to pressure times the radius of the ventricle. This becomes especially important in heart failure when the heart ventricle is dilated and, paradoxically, the amount of chemical energy required for a given amount of work output is greater than normal, even though the heart is already failing.
-
-**Cardiac Efficiency.** During heart muscle contraction, most of the expended chemical energy is converted into heat, and a much smaller portion is converted into work output. Cardiac efficiency is the ratio of work output to total chemical energy used to perform the work. Maximum efficiency of the normal heart is between 20% and 25%. In persons with heart failure, this efficiency can decrease to as low as 5%.
-
-## REGULATION OF HEART PUMPING
-
-When a person is at rest, the heart pumps only 4 to 6 liters of blood each minute. During strenuous exercise, the heart may pump four to seven times this amount. The basic mechanisms for regulating heart pumping are as follows:
-
-1. Intrinsic cardiac pumping regulation in response to changes in volume of blood flowing into the heart
-2. Control of heart rate and heart strength by the autonomic nervous system
-
-## INTRINSIC REGULATION OF HEART PUMPING—THE FRANK-STARLING MECHANISM
-
-In Chapter 20, we will learn that under most conditions, the amount of blood pumped by the heart each minute is normally determined almost entirely by the rate of blood flow into the heart from the veins, which is called venous return. That is, each peripheral tissue of the body controls its own local blood flow, and all the local tissue flows combine and return by way of the veins to the right atrium. The heart, in turn, automatically pumps this incoming blood into the arteries so that it can flow around the circuit again.
-
-This intrinsic ability of the heart to adapt to increasing volumes of inflowing blood is called the Frank-Starling mechanism of the heart, named in honor of Otto Frank and Ernest Starling, two great physiologists. Basically, the Frank-Starling mechanism means that the more the heart muscle is stretched during filling, the greater is the force of contraction, and the greater is the quantity of blood pumped into the aorta. Or, stated another way—within physiological limits, the heart pumps all the blood that returns to it by way of the veins.
-
-### What Is the Explanation of the Frank-Starling Mechanism?
-
-When an extra amount of blood flows into the ventricles, the cardiac muscle is stretched to a greater length. This stretching causes the muscle to contract with increased force because the actin and myosin filaments are brought to a more nearly optimal degree of overlap for force generation. Therefore, the ventricle, because of its increased pumping, automatically pumps the extra blood into the arteries. This ability of stretched muscle, up to an optimal length, to contract with increased work output is characteristic of all striated muscle, as explained in Chapter 6, and is not simply a characteristic of cardiac muscle.
-
-In addition to the important effect of lengthening the heart muscle, another factor increases heart pumping when its volume is increased. Stretch of the right atrial wall directly increases the heart rate by 10% to 20%, which also helps increase the amount of blood pumped each minute, although its contribution is much less than that of the Frank-Starling mechanism. As discussed in Chapter 18, stretch of the atrium also <span class="c-green">activates</span> stretch receptors and a nervous reflex, the Bainbridge reflex, that is transmitted by the vagus nerve and may increase heart rate an additional 40% to 60%.
-
-### Ventricular Function Curves
-
-One of the best ways to express the functional ability of the ventricles to pump blood is by ventricular function curves. Figure 9-12 shows a type of ventricular function curve called the stroke work output curve. Note that as atrial pressure for each side of the heart increases, stroke work output for that side increases until it reaches the limit of the ventricle's pumping ability.
-
-Figure 9-13 shows another type of ventricular function curve called the ventricular volume output curve. The two curves of this figure represent function of the two ventricles of the human heart based on data extrapolated from experimental animal studies. As the right and left atrial pressures increase, the respective ventricular volume outputs per minute also increase.
-
-Thus, ventricular function curves are another way of expressing the Frank-Starling mechanism of the heart. That is, as the ventricles fill in response to higher atrial pressures, each ventricular volume and strength of cardiac muscle contraction increase, causing the heart to pump increased quantities of blood into the arteries.
-
-### Control of the Heart by the <span class="c-yellow">Sympathetic</span> and <span class="c-yellow">Parasympathetic</span> Nerves
-
-The pumping effectiveness of the heart also is controlled by the <span class="c-yellow">sympathetic</span> and <span class="c-yellow">parasympathetic</span> (vagus) nerves, which abundantly supply the heart, as shown in Figure 9-14. For given levels of atrial pressure, the amount of blood pumped each minute (cardiac output) often can be increased more than 100% by <span class="c-yellow">sympathetic</span> stimulation. By contrast, the output can be decreased to almost zero by vagal (<span class="c-yellow">parasympathetic</span>) stimulation.
-
-**Mechanisms of Excitation of the Heart by the Sympathetic Nerves.** Strong <span class="c-yellow">sympathetic</span> stimulation can increase the heart rate in young adult humans from the normal rate of 70 beats/min up to 180 to 200 beats/min and, rarely, even 250 beats/min. Also, <span class="c-yellow">sympathetic</span> stimulation may double the force of heart contraction, thereby increasing the volume of blood pumped and increasing the ejection pressure. Thus, <span class="c-yellow">sympathetic</span> stimulation often can increase the maximum cardiac output as much as twofold to threefold, in addition to the increased output caused by the Frank-Starling mechanism already discussed.
-
-Conversely, <span class="c-green">inhibit</span>ion of the <span class="c-yellow">sympathetic</span> nerves to the heart can decrease cardiac pumping to a moderate extent. Under normal conditions, the <span class="c-yellow">sympathetic</span> nerve fibers to the heart discharge continuously at a slow rate that maintains pumping at about 30% above that with no sympathetic stimulation. Therefore, when <span class="c-yellow">sympathetic</span> nervous system activity is depressed below normal, both the heart rate and strength of ventricular muscle contraction decrease, thereby decreasing the level of cardiac pumping by as much as 30% below normal.
-
-**<span class="c-yellow">Parasympathetic</span> (Vagal) Stimulation Reduces Heart Rate and Strength of Contraction.** Strong stimulation of the <span class="c-yellow">parasympathetic</span> nerve fibers in the vagus nerves to the heart can stop the heartbeat for a few seconds, but then the heart usually "escapes" and beats at a rate of 20 to 40 beats/min as long as the <span class="c-yellow">parasympathetic</span> stimulation continues. In addition, strong vagal stimulation can decrease the strength of heart muscle contraction by 20% to 30%.
-
-The vagal fibers are distributed mainly to the atria and not much to the ventricles, where the power contraction of the heart occurs. This distribution explains why the effect of vagal stimulation is mainly to decrease the heart rate rather than to decrease greatly the strength of heart contraction. Nevertheless, the great decrease in heart rate, combined with a slight decrease in heart contraction strength, can decrease ventricular pumping by 50% or more.
-
-**Effect of <span class="c-yellow">Sympathetic</span> or <span class="c-yellow">Parasympathetic</span> Stimulation on the Cardiac Function Curve.** Figure 9-15 shows four cardiac function curves. These curves are similar to the ventricular function curves of Figure 9-13. However, they represent function of the entire heart rather than that of a single ventricle. They show the relationship between right atrial pressure at the input of the right heart and cardiac output from the left ventricle into the aorta.
-
-The curves of Figure 9-15 demonstrate that at any given right atrial pressure, the cardiac output increases during increased <span class="c-yellow">sympathetic</span> stimulation and decreases during increased <span class="c-yellow">parasympathetic</span> stimulation. These changes in output caused by autonomic nervous system stimulation result from changes in heart rate and from changes in contractile strength of the heart.
-
-## EFFECT OF POTASSIUM AND CALCIUM IONS ON HEART FUNCTION
-
-In our discussion of membrane potentials in Chapter 5, we pointed out that potassium ions have a marked effect on membrane potentials, and in Chapter 6 we noted that calcium ions play an especially important role in activating the muscle contractile process. Therefore, it is not surprising that the concentrations of each of these two ions in the extracellular fluids have important effects on cardiac pumping.
-
-**Effect of Potassium Ions.** Excess potassium in the extracellular fluids causes the heart to become dilated and flaccid and also slows the heart rate. Large quantities of potassium also can <span class="c-green">block</span> conduction of the cardiac impulse from the atria to the ventricles through the A-V bundle. Elevation of potassium concentration to only 8 to 12 mEq/L—two to three times the normal value—can cause severe weakness of the heart, abnormal rhythm, and <span class="c-red">death</span>.
-
-These effects result partially from the fact that a high potassium concentration in the extracellular fluids decreases the resting <span class="c-yellow">membrane potential</span> in the cardiac muscle fibers, as explained in Chapter 5. That is, a high extracellular fluid potassium concentration partially depolarizes the cell membrane, causing the membrane potential to be less negative. As the membrane potential decreases, the intensity of the <span class="c-yellow">action potential</span> also decreases, which makes contraction of the heart progressively weaker.
-
-**Effect of Calcium Ions.** Excess calcium ions cause effects almost exactly opposite to those of potassium ions, causing the heart to move toward spastic contraction. This effect is caused by a direct effect of calcium ions to initiate the cardiac contractile process, as explained earlier in this chapter.
-
-Conversely, deficiency of calcium ions causes cardiac weakness, similar to the effect of high potassium. Fortunately, calcium ion levels in the blood normally are regulated within a very narrow range. Therefore, cardiac effects of abnormal calcium concentrations are seldom of clinical concern.
-
-## EFFECT OF TEMPERATURE ON HEART FUNCTION
-
-Increased body temperature, such as that which occurs during fever, greatly increases the heart rate, sometimes to double the normal rate. Decreased temperature greatly decreases the heart rate, which may fall to as low as a few beats per minute when a person is near <span class="c-red">death</span> from hypothermia in the body temperature range of 60° to 70°F (15.5°–21°C). These effects presumably result from the fact that heat increases the permeability of the cardiac muscle membrane to ions that control heart rate, resulting in acceleration of the self-excitation process.
-
-Contractile strength of the heart often is enhanced temporarily by a moderate increase in temperature, such as that which occurs during body exercise, but prolonged temperature elevation exhausts the metabolic systems of the heart and eventually causes weakness. Therefore, optimal heart function depends greatly on proper control of body temperature by the control mechanisms explained in Chapter 74.
-
-## INCREASING THE ARTERIAL PRESSURE LOAD (UP TO A LIMIT) DOES NOT DECREASE CARDIAC OUTPUT
-
-Note in Figure 9-16 that increasing the arterial pressure in the aorta does not decrease cardiac output until the mean arterial pressure rises above about 160 mm Hg. In other words, during normal heart function at normal systolic arterial pressures (80–140 mm Hg), cardiac output is determined almost entirely by the ease of blood flow through the body's tissues, which in turn controls venous return of blood to the heart. This mechanism is the principal subject of Chapter 20.
-
-## Bibliography
-
-- Bell V, Mitchell GF: Influence of vascular function and pulsatile hemodynamics on cardiac function. Curr Hypertens Rep 17:580, 2015.
-- Bertero E, Maack C: Calcium signaling and reactive oxygen species in mitochondria. Circ Res 122:1460, 2018.
-- Cingolani HE, Pérez NG, Cingolani OH, Ennis IL: The Anrep effect: 100 years later. Am J Physiol Heart Circ Physiol 304:H175, 2013.
-- Dewenter M, von der Lieth A, Katus HA, Backs J: Calcium signaling and transcriptional regulation in cardiomyocytes. Circ Res 121:1000, 2017.
-- Doenst T, Nguyen TD, Abel ED: Cardiac metabolism in heart failure: implications beyond <span class="c-cyan">ATP</span> production. Circ Res 113:709, 2013.
-- Eisner DA, Caldwell JL, Kistamás K, Trafford AW: Calcium and excitation-contraction coupling in the heart. Circ Res 121:181, 2017.
-- Finkel T, Menazza S, Holmström KM, et al: The ins and outs of mitochondrial calcium. Circ Res 116:1810, 2015.
-- Guyton AC, Jones CE, Coleman TG: Circulatory Physiology: Cardiac Output and Its Regulation, 2nd ed. Philadelphia: WB Saunders, 1973.
-- Kho C, Lee A, Hajjar RJ: Altered <span class="c-yellow">sarcoplasmic reticulum</span> calcium cycling—targets for heart failure therapy. Nat Rev Cardiol 9:717, 2012.
-- Lewis GA, Schelbert EB, Williams SG, et al: Biological phenotypes of heart failure with preserved ejection fraction. J Am Coll Cardiol 70:2186, 2017.
-- Luo M, Anderson ME: Mechanisms of altered Ca2+ handling in heart failure. Circ Res 113:690, 2013.
-- Mangoni ME, Nargeot J: Genesis and regulation of the heart automatacity. Physiol Rev 88:919, 2008.
-- Marks AR: Calcium cycling proteins and heart failure: mechanisms and therapeutics. J Clin Invest 123:46, 2013.
-- Mayourian J, Ceholski DK, Gonzalez DM, et al: Physiologic, pathologic, and therapeutic paracrine modulation of cardiac excitation-contraction coupling. Circ Res 122:167, 2018.
-- Omar AM, Vallabhajosyula S, Sengupta PP: Left ventricular twist and torsion: research observations and clinical applications. Circ Cardiovasc Imaging 8:74, 2015.
-- Puglisi JL, Negroni JA, Chen-Izu Y, Bers DM: The force-frequency relationship: insights from mathematical modeling. Adv Physiol Educ 37:28, 2013.
-- Sarnoff SJ: Myocardial contractility as described by ventricular function curves. Physiol Rev 35:107, 1955.
-- Starling EH: The Linacre Lecture on the Law of the Heart. London: Longmans Green, 1918.
-- ter Keurs HE: The interaction of Ca2+ with sarcomeric proteins: role in function and dysfunction of the heart. Am J Physiol Heart Circ Physiol 302:H38, 2012.
-- Triposkiadis F, Pieske B, Butler J, et al: Global left atrial failure in heart failure. Eur J Heart Fail 18:1307, 2016.
-- Vega RB, Kelly DP: Cardiac nuclear receptors: architects of mitochondrial structure and function. J Clin Invest 127:1155, 2017.
-
----
-
-UNIT III The Heart
-
-The human heart has a special system for rhythmic self-excitation and repetitive contraction approximately 100,000 times each day or 3 billion times in the average human lifetime. This impressive feat is performed by a system that does the following:
-
-1. Generates electrical impulses to initiate rhythmical contraction of the heart muscle
-2. Conducts these impulses rapidly through the heart
-
-When this system functions normally, the atria contract about one-sixth of a second ahead of ventricular contraction, which allows filling of the ventricles before they pump blood through the lungs and peripheral circulation. Another especially important feature of the system is that it allows all portions of the ventricles to contract almost simultaneously, which is essential for the most effective pressure generation in the ventricular chambers.
-
-This rhythmical and conductive system of the heart is susceptible to damage by heart disease, especially by ischemia resulting from inadequate coronary blood flow. The effect is often a bizarre heart rhythm or an abnormal sequence of contraction of the heart chambers, and the pumping effectiveness of the heart can be affected severely, even to the extent of causing <span class="c-red">death</span>.
-
-## SPECIALIZED EXCITATORY AND CONDUCTIVE SYSTEM OF THE HEART
-
-Figure 10-1 shows the specialized excitatory and conductive system of the heart that controls cardiac contractions. The figure shows:
-
-- The sinus node (also called sinoatrial [S-A] node), in which the normal rhythmical impulses are generated
-- The internodal pathways that conduct impulses from the sinus node to the atrioventricular (A-V) node
-- The A-V node in which impulses from the atria are delayed before passing into the ventricles
-- The A-V bundle, which conducts impulses from the atria into the ventricles
-- The left and right bundle branches of Purkinje fibers, which conduct the cardiac impulses to all parts of the ventricles
-
-## SINUS (SINOATRIAL) NODE
-
-The sinus node is a small, flattened, ellipsoid strip of specialized cardiac muscle about 3 mm wide, 15 mm long, and 1 mm thick. It is located in the superior posterolateral wall of the right atrium immediately below and slightly lateral to the opening of the superior vena cava. The fibers of this node have almost no contractile muscle filaments and are each only 3 to 5 micrometers (μm) in diameter, in contrast to a diameter of 10 to 15 μm for the surrounding atrial muscle fibers. However, the sinus nodal fibers connect directly with the atrial muscle fibers, so that any <span class="c-yellow">action potential</span> that begins in the sinus node spreads immediately into the atrial muscle wall.
-
-## AUTOMATIC ELECTRICAL RHYTHMICITY OF THE SINUS FIBERS
-
-Some cardiac fibers have the capability of self-excitation, a process that can cause automatic rhythmical discharge and contraction. This capability is especially true of the heart's specialized conducting system, including fibers of the sinus node. For this reason, the sinus node ordinarily controls the beat rate of the entire heart, as discussed in detail later in this chapter. First, let us describe this automatic rhythmicity.
-
-### Mechanism of Sinus Nodal Rhythmicity
-
-Figure 10-2 shows action potentials recorded from inside a sinus nodal fiber for three heartbeats and, by comparison, a single ventricular muscle fiber <span class="c-yellow">action potential</span>. Note that the resting <span class="c-yellow">membrane potential</span> of the sinus nodal fiber between discharges is about –55 to –60 millivolts, in comparison with –85 to –90 millivolts for the ventricular muscle fiber. The cause of this lower negativity is that the cell membranes of the sinus fibers are naturally leaky to sodium and calcium ions, and positive charges of the entering sodium and calcium ions neutralize some of the intracellular negativity.
-
-Before we explain the rhythmicality of the sinus nodal fibers, first recall from the discussions of Chapters 5 and 9 that cardiac muscle has three main types of membrane ion channels that play important roles in causing the voltage changes of the <span class="c-yellow">action potential</span>. They are:
-
-1. Fast sodium channels
-2. Calcium channels (particularly L-type or "slow" calcium channels)
-3. Potassium channels (see Figure 9-5)
-
-## Rhythmical Excitation of the Heart
-
-CHAPTER 10
-
----
-UNIT III The Heart
----
-
-Opening of the fast sodium channels for a few 10,000ths of a second is responsible for the rapid upstroke spike of the <span class="c-yellow">action potential</span> observed in ventricular muscle because of rapid influx of positive sodium ions to the interior of the fiber. Then, the plateau of the ventricular <span class="c-yellow">action potential</span> is caused primarily by slower opening of the slow sodium-calcium channels, which lasts for about 0.3 second. Finally, opening of potassium channels allows for the diffusion of large amounts of positive potassium ions in the outward direction through the fiber membrane and returns the <span class="c-yellow">membrane potential</span> to its resting level.
-
-However, there is a difference in the function of these channels in the sinus nodal fiber because the resting potential is much less negative—only –55 millivolts in the nodal fiber instead of the –90 millivolts in the ventricular muscle fiber. At this level of –55 millivolts, the fast sodium channels mainly have already become inactivated, or <span class="c-green">block</span>ed. This is because any time the membrane potential remains less negative than about –55 millivolts for more than a few milliseconds, the inactivation gates on the inside of the cell membrane that close the fast sodium channels become closed and remain so. Therefore, only the slow sodium-calcium channels can open (i.e., can become <span class="c-green">activate</span>d) and thereby cause the action potential. As a result, the atrial nodal <span class="c-yellow">action potential</span> is slower to develop than the <span class="c-yellow">action potential</span> of the ventricular muscle. Also, after the <span class="c-yellow">action potential</span> does occur, return of the potential to its negative state occurs slowly as well, rather than the abrupt return that occurs for the ventricular fiber.
-
-Leakiness of Sinus Nodal Fibers to Sodium and Calcium Causes Self-Excitation. Because of the high sodium ion concentration in the extracellular fluid outside the nodal fiber, as well as a moderate number of already open sodium channels, positive sodium ions from outside the fibers normally tend to leak to the inside through inward, "funny" currents. Therefore, between heartbeats, the influx of positively charged sodium ions causes a slow rise in the resting <span class="c-yellow">membrane potential</span> in the positive direction. Thus, as shown in Figure 10-2, the <span class="c-yellow">resting potential</span> gradually rises and becomes less negative between each two heartbeats. When the potential reaches a threshold voltage of about –40 millivolts, the L-type calcium channels become <span class="c-green">activate</span>d, thus causing the <span class="c-yellow">action potential</span>. Therefore, basically, the inherent leakiness of the sinus nodal fibers to sodium and calcium ions causes their self-excitation.
-
-Why does this leakiness to sodium and calcium ions not cause the sinus nodal fibers to remain depolarized all the time? Two events occur during the course of the <span class="c-yellow">action potential</span> to prevent such a constant state of depolarization:
-
-- First, the L-type calcium channels become inactivated (i.e., they close) within about 100 to 150 milliseconds after opening
-- Second, at about the same time, greatly increased numbers of potassium channels open
-
-Therefore, influx of positive calcium and sodium ions through the L-type calcium channels ceases, while at the same time large quantities of positive potassium ions diffuse out of the fiber. Both these effects reduce the intracellular potential back to its negative resting level and therefore terminate the <span class="c-yellow">action potential</span>. Furthermore, the potassium channels remain open for another few tenths of a second, temporarily continuing movement of positive charges out of the cell, with resultant excess negativity inside the fiber; this process is called hyperpolarization. The hyperpolarization state initially carries the resting <span class="c-yellow">membrane potential</span> down to about –55 to –60 millivolts at the termination of the <span class="c-yellow">action potential</span>.
-
-Why is this new state of hyperpolarization not maintained forever? The reason is that during the next few tenths of a second after the <span class="c-yellow">action potential</span> is over, progressively more and more potassium channels close. The inward-leaking sodium ("funny" current) and calcium ions once again overbalance the outward flux of potassium ions, which causes the <span class="c-yellow">resting potential</span> to drift back toward the –55-millivolt level, thus allowing the system to fire again and repeat the process continuously.
-
-<figure>
-<img src="images/heart_conduction_system.jpg" alt="Heart conduction system diagram">
-<figcaption>Figure 10-1 Sinus node and the Purkinje system of the heart, showing also the atrioventricular (A-V) node, atrial internodal pathways, and ventricular bundle branches.</figcaption>
-</figure>
-
-<figure>
-<img src="images/sinus_nodal_potential.jpg" alt="Sinus nodal fiber action potential">
-<figcaption>Figure 10-2 Rhythmical discharge of a sinus nodal fiber. Also, the sinus nodal <span class="c-yellow">action potential</span> is compared with that of a ventricular muscle fiber.</figcaption>
-</figure>
+體溫升高（如發燒）會大大加快心率，有時可達正常心率的兩倍。體溫降低則大大減慢心率。適度的體溫升高可短暫增強心臟收縮力量，但長時間體溫升高會耗盡心臟的代謝系統最終導致無力。

@@ -1,231 +1,153 @@
-```yaml
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH03"
 title: "Genetic Control of Protein Synthesis, Cell Function, and Cell Reproduction"
 book: "Guyton & Hall"
-summary: "Chapter 3 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "Chapter 3 addresses how genetic information stored in DNA controls cellular activities. It covers the structure of DNA and how it stores genetic information through base pairing, the process of transcription where DNA code is copied into RNA, the various types of RNA including mRNA, tRNA, and rRNA, and the process of translation where proteins are synthesized on ribosomes. The chapter also discusses gene regulation mechanisms, enzyme regulation, DNA replication, cell mitosis, and the controls that determine cell growth, differentiation, and death. Understanding genetic control is essential for comprehending how cells function and how they reproduce."
 ---
-```
 
-UNIT I
+## 章節導讀
 
-## Nucleotides Are Organized to Form Two Strands of DNA Loosely Bound to Each Other
+每一個人類細胞的細胞核中都藏著一套完整的遺傳指令，決定了細胞將合成哪些蛋白質、執行什麼功能，以及何時分裂增殖。本章從 DNA 的分子結構談起，說明腺嘌呤（A）、胸腺嘧啶（T）、鳥糞嘌呤（G）與胞嘧啶（C）四種鹼基如何透過互補配對構成雙股螺旋，並以三聯密碼子的形式儲存遺傳資訊。我們將詳細討論基因表現的過程：DNA 的遺傳訊息如何透過轉錄作用複製到 messenger RNA（mRNA），再由 mRNA 攜帶至細胞質，在核糖體上由 transfer RNA（tRNA）將對應的胺基酸依序連接，最終合成出具有特定功能的蛋白質。本章也介紹基因表現的調控機制、DNA 複製與細胞有絲分裂的過程，以及細胞如何控制生長、分化與死亡（細胞凋亡）。這些知識是理解細胞如何成為一個有功能、能自我更新的生命單位的基础。
 
-Figure 3-2 shows the manner in which multiple nucleotides are bound together to form two strands of DNA. The two strands are, in turn, loosely bonded with each other by weak cross-linkages, as illustrated in Figure 3-6 by the central dashed lines. Note that the backbone of each DNA strand is composed of alternating phosphoric acid and deoxyribose molecules. In turn, purine and pyrimidine bases are attached to the sides of the deoxyribose molecules. Then, by means of loose hydrogen bonds (dashed lines) between the purine and pyrimidine bases, the two respective DNA strands are held together. Note the following caveats, however:
+## DNA 的核苷酸組織成兩條鬆散結合的 DNA 鏈
 
-1. Each purine base adenine of one strand always bonds with a pyrimidine base thymine of the other strand.
-2. Each purine base guanine always bonds with a pyrimidine base cytosine.
+Figure 3-2 顯示多個核苷酸如何結合在一起形成兩條 DNA 鏈。兩條鏈透過弱的橫向鍵連在一起（如 Figure 3-6 中間虛線所示）。注意每條 DNA 鏈的主鏈由交替的磷酸和去氧核糖分子組成。接著，purine 與 pyrimidine 鹼基附著在去氧核糖分子的兩側。透過鹼基之間的弱氫鍵（虛線），兩條 DNA 鏈被固定在一起。然而需注意以下要點：
 
-Thus, in Figure 3-6, the sequence of complementary pairs of bases is CG, CG, GC, TA, CG, TA, GC, AT, and AT. Because of the looseness of the hydrogen bonds, the two strands can pull apart with ease, and they do so many times during the course of their function in the cell.
+1. 一條鏈上的每個 purine 鹼基 adenine 總是與另一條鏈上的 pyrimidine 鹼基 thymine 鍵合。
+2. 每個 purine 鹼基 guanine 總是與 pyrimidine 鹼基 cytosine 鍵合。
 
-To put the DNA of Figure 3-6 into its proper physical perspective, one could merely pick up the two ends and twist them into a helix. Ten pairs of nucleotides are present in each full turn of the helix in the DNA molecule.
+因此，在 Figure 3-6 中，互補鹼基對的序列為 CG、CG、GC、TA、CG、TA、GC、AT 和 AT。由於氫鍵的弱性，兩條鏈可以輕易分開，在細胞功能過程中會多次分開。
 
-<figure>
-<img src="placeholder.jpg" alt="Deoxyadenylic acid structure">
-<figcaption>Figure 3-4. Deoxyadenylic acid, one of the nucleotides that make up DNA.</figcaption>
-</figure>
+若要將 Figure 3-6 的 DNA 置於正確的物理角度，只需抓住兩端並扭轉成螺旋。DNA 分子每一完整螺旋圈含有 10 對核苷酸。
 
-<figure>
-<img src="placeholder.jpg" alt="DNA nucleotides symbols">
-<figcaption>Figure 3-5. Symbols for the four nucleotides that combine to form DNA. Each nucleotide contains phosphoric acid (P), deoxyribose (D), and one of the four nucleotide bases: adenine (A); thymine (T); guanine (G); or cytosine (C).</figcaption>
-</figure>
+## 遺傳密碼
 
-<figure>
-<img src="placeholder.jpg" alt="DNA double strand arrangement">
-<figcaption>Figure 3-6. Arrangement of deoxyribose nucleotides in a double strand of DNA.</figcaption>
-</figure>
+DNA 的重要性在於其能夠透過遺傳密碼控制細胞中蛋白質的合成。當 DNA 分子的兩條鏈分開時，每條 DNA 鏈側面露出的 purine 與 pyrimidine 鹼基如 Figure 3-7 頂部所示。正是這些突出的鹼基形成了遺傳密碼。
 
-## Genetic Code
+遺傳密碼由連續的鹼基「三聯體」組成——即每三個連續鹼基是一個密碼子。連續的三聯體最終控制細胞合成之蛋白質分子中胺基酸的序列。注意 Figure 3-6 中，DNA 頂部鏈從左到右讀取，遺傳密碼為 GGC、AGA、CTT，三聯體之間以箭頭分隔。隨著我們追蹤這個遺傳密碼穿過 Figure 3-7 和 Figure 3-8，可見這三個相應的三聯體負責在新型蛋白質分子的連續位置放置三個胺基酸：proline、serine 和 glutamic acid。
 
-The importance of DNA lies in its ability to control the formation of proteins in the cell, which it achieves by means of a genetic code. That is, when the two strands of a DNA molecule are split apart, the purine and pyrimidine bases projecting to the side of each DNA strand are exposed, as shown by the top strand in Figure 3-7. It is these projecting bases that form the genetic code.
+## 轉錄——將細胞核 DNA 密碼轉移至細胞質 RNA 密碼
 
-The genetic code consists of successive "triplets" of bases—that is, each three successive bases is a code word. The successive triplets eventually control the sequence of amino acids in a protein molecule that is to be synthesized in the cell. Note in Figure 3-6 that the top strand of DNA, reading from left to right, has the genetic code GGC, AGA, CTT, with the triplets being separated from one another by the arrows. As we follow this genetic code through Figure 3-7 and Figure 3-8, we see that these three respective triplets are responsible for successive placement of the three amino acids, proline, serine, and glutamic acid, in a newly formed molecule of protein.
+由於 DNA 位於細胞核，而大多數細胞功能在細胞質中進行，細胞核的 DNA 基因必定有某種方式控制細胞質的化學反應。這種控制是透過另一種核酸——RNA——作為媒介來實現的，其形成受細胞核 DNA 的控制。因此，如 Figure 3-7 所示，密碼透過一個稱為轉錄的過程被轉移到 RNA。RNA 隨即從細胞核通過核孔擴散到細胞質區室，在那裡控制蛋白質合成。
 
-## Transcription—Transfer of Cell Nucleus DNA Code to Cytoplasm RNA Code
+## RNA 在細胞核中以 DNA 作為模板被合成
 
-Because DNA is located in the cell nucleus, yet most of the cell functions are carried out in the cytoplasm, there must be some means for DNA genes of the nucleus to control chemical reactions of the cytoplasm. This control is achieved through the intermediary of another type of nucleic acid, RNA, the formation of which is controlled by DNA of the nucleus. Thus, as shown in Figure 3-7, the code is transferred to RNA in a process called transcription. The RNA, in turn, diffuses from the nucleus through nuclear pores into the cytoplasmic compartment, where it controls protein synthesis.
+在 RNA 合成過程中，DNA 的兩條鏈暫時分開；其中一條鏈作為模板用於合成 RNA 分子。DNA 中的密碼子三聯體導致在 RNA 中形成互補的密碼子（稱為密碼子）。這些密碼子進而控制要在細胞質中合成的蛋白質的胺基酸序列。
 
-## RNA Is Synthesized in the Nucleus From a DNA Template
+### RNA 的構築單元
 
-During RNA synthesis, the two strands of DNA separate temporarily; one of these strands is used as a template for synthesis of an RNA molecule. The code triplets in the DNA result in the formation of complementary code triplets (called codons) in the RNA. These codons, in turn, will control the sequence of amino acids in a protein to be synthesized in the cell cytoplasm.
+RNA 的基本構築單元與 DNA 幾乎相同，但有兩個差異。首先，糖分子去氧核糖在 RNA 中不使用，取而代之的是略有不同的糖——核糖，含有附加在核糖環結構上的額外氫氧根。其次，thymine 被另一個 pyrimidine——uracil——取代。
 
-### Building Blocks of RNA
+### RNA 核苷酸的形成
 
-The basic building blocks of RNA are almost the same as those of DNA, except for two differences. First, the sugar deoxyribose is not used in RNA formation. In its place is another sugar of slightly different composition, ribose, which contains an extra hydroxyl ion appended to the ribose ring structure. Second, thymine is replaced by another pyrimidine, uracil.
+RNA 的基本構築單元形成 RNA 核苷酸，與前述 DNA 合成描述的方式完全相同。這裡再次使用四種不同的核苷酸來形成 RNA。這些核苷酸含有鹼基 adenine、guanine、cytosine 和 uracil。注意，這些鹼基與 DNA 中的相同，只是 RNA 中用 uracil 替代了 DNA 中的 thymine。
 
-### Formation of RNA Nucleotides
+### RNA 核苷酸的「活化」
 
-The basic building blocks of RNA form RNA nucleotides, exactly as described previously for DNA synthesis. Here again, four separate nucleotides are used to form RNA. These nucleotides contain the bases adenine, guanine, cytosine, and uracil. Note that these bases are the same as in DNA, except that uracil in RNA replaces thymine in DNA.
+合成 RNA 的下一步是透過一種酶——RNA 聚合酶——對 RNA 核苷酸進行「活化」。這種活化是透過給每個核苷酸添加兩個額外的磷酸根形成三磷酸來實現的（在 Figure 3-7 中，RNA 鏈形成時最右側的兩個 RNA 核苷酸顯示）。最後兩個磷酸通過高能磷酸鍵與核苷酸結合，這些高能磷酸鍵來自細胞中的 ATP。
 
-### "Activation" of RNA Nucleotides
+這種活化過程的結果是為每個核苷酸提供了大量的 ATP 能量。這些能量用於促進化學反應，在成長中的 RNA 鏈末端添加每個新的 RNA 核苷酸。
 
-The next step in the synthesis of RNA is "activation" of RNA nucleotides by an enzyme, RNA polymerase. This activation occurs by adding two extra phosphate radicals to each nucleotide to form triphosphates (shown in Figure 3-7 by the two RNA nucleotides to the far right during RNA chain formation). These last two phosphates are combined with the nucleotide by high-energy phosphate bonds derived from ATP in the cell.
+## 使用活化的核苷酸從 DNA 鏈模板組裝 RNA 鏈
 
-The result of this activation process is that large quantities of ATP energy are made available to each of the nucleotides. This energy is used to promote chemical reactions that add each new RNA nucleotide at the end of the developing RNA chain.
+如 Figure 3-7 所示，RNA 的組裝是在一種酶——RNA 聚合酶——的影響下完成的。這個大型蛋白質酶具有形成 RNA 所需的多種功能特性，具體如下：
 
-## RNA Chain Assembly From Activated Nucleotides Using the DNA Strand as a Template
+1. 在要被轉錄的基因之前的 DNA 鏈上，有一序列核苷酸稱為啟動子。RNA 聚合酶具有識別該啟動子的互補結構並與其附著，這是開始形成 RNA 的關鍵步驟。
+2. RNA 聚合酶附著到啟動子後，使 DNA 螺旋約兩圈展開並分開。
+3. 聚合酶隨即沿著 DNA 鏈移動，在其移動的每個階段暫時展開並分開兩條 DNA 鏈。在移動過程中，每個階段它在新型 RNA 鏈末端添加一個新的活化 RNA 核苷酸，步驟如下：
+   - 首先，它使 DNA 鏈末端的鹼基與核質中 RNA 核苷酸的鹼基之間形成氫鍵。
+   - 然後，一次一個，RNA 聚合酶將每個 RNA 核苷酸的三個磷酸根中的兩個切斷，釋放大量能量。這些能量用於使核苷酸上剩餘的磷酸與成長中 RNA 鏈末端的核糖形成共價鍵。
+   - 當 RNA 聚合酶到達 DNA 基因末端時，遇到一個稱為鏈終止序列的新 DNA 核苷酸序列，導致聚合酶和新形成的 RNA 鏈從 DNA 鏈上脫離。聚合酶然後可被一次又一次地使用，形成更多新的 RNA 鏈。
+   - 當新的 RNA 鏈形成時，由於 DNA 與其互補 DNA 鏈有很高的重新鍵合親和力，它與 DNA 模板的弱氫鍵會斷開。因此，RNA 鏈被迫離開 DNA 並釋放到核質中。
 
-As shown in Figure 3-7, assembly of RNA is accomplished under the influence of an enzyme, RNA polymerase. This large protein enzyme has many functional properties necessary for formation of RNA, as follows:
+因此，DNA 鏈中存在的密碼最終以互補形式傳遞到 RNA 鏈。核糖核苷酸鹼基總是與去氧核糖鹼基以下列組合結合：
 
-1. In the DNA strand immediately ahead of the gene to be transcribed is a sequence of nucleotides called the promoter. The RNA polymerase has an appropriate complementary structure that recognizes this promoter and becomes attached to it, which is the essential step for initiating the formation of RNA.
-2. After the RNA polymerase attaches to the promoter, the polymerase causes unwinding of about two turns of the DNA helix and separation of the unwound portions of the two strands.
-3. The polymerase then moves along the DNA strand, temporarily unwinding and separating the two DNA strands at each stage of its movement. As it moves along, at each stage it adds a new activated RNA nucleotide to the end of the newly forming RNA chain through the following steps:
-   - First, it causes a hydrogen bond to form between the end base of the DNA strand and the base of an RNA nucleotide in the nucleoplasm.
-   - Then, one at a time, the RNA polymerase breaks two of the three phosphate radicals away from each of these RNA nucleotides, liberating large amounts of energy from the broken high-energy phosphate bonds. This energy is used to cause covalent linkage of the remaining phosphate on the nucleotide with the ribose on the end of the growing RNA chain.
-   - When the RNA polymerase reaches the end of the DNA gene, it encounters a new sequence of DNA nucleotides called the chain-terminating sequence, which causes the polymerase and the newly formed RNA chain to break away from the DNA strand. The polymerase then can be used again and again to form more new RNA chains.
-   - As the new RNA strand is formed, its weak hydrogen bonds with the DNA template break away because the DNA has a high affinity for rebonding with its own complementary DNA strand. Thus, the RNA chain is forced away from the DNA and is released into the nucleoplasm.
-
-Therefore, the code that is present in the DNA strand is eventually transmitted in complementary form to the RNA chain. The ribose nucleotide bases always combine with the deoxyribose bases in the following combinations:
-
-| DNA Base | RNA Base |
+| DNA 鹼基 | RNA 鹼基 |
 |----------|----------|
 | Guanine  | Cytosine |
 | Cytosine | Guanine  |
 | Adenine  | Uracil   |
 | Thymine  | Adenine  |
 
-<figure>
-<img src="placeholder.jpg" alt="RNA synthesis from DNA">
-<figcaption>Figure 3-7. Combination of ribose nucleotides with a strand of DNA to form a molecule of RNA that carries the genetic code from the gene to the cytoplasm. The RNA polymerase enzyme moves along the DNA strand and builds the RNA molecule.</figcaption>
-</figure>
+## 有幾種不同類型的 RNA
 
-## There Are Several Different Types of RNA
+隨著 RNA 研究的不斷進展，發現了許多不同類型的 RNA。有些類型的 RNA 參與蛋白質合成，有些則具有基因調控功能或參與 RNA 的轉錄後修飾。某些類型 RNA（尤其是似乎不編碼蛋白質的 RNA）的功能仍然神秘。以下六種 RNA 在蛋白質合成中扮演獨立且不同的角色：
 
-As research on RNA has continued to advance, many different types of RNA have been discovered. Some types of RNA are involved in protein synthesis, whereas other types serve gene regulatory functions or are involved in posttranscriptional modification of RNA. The functions of some types of RNA, especially those that do not appear to code for proteins, are still mysterious. The following six types of RNA play independent and different roles in protein synthesis:
+1. **前體 messenger RNA（pre-mRNA）** 是一個大型、未成熟、單股 RNA，在細胞核中加工形成成熟的 messenger RNA（mRNA）。前 RNA 包含兩種不同類型的片段，稱為內含子（introns），透過剪接過程被移除，以及外顯子（exons），保留在最終的 mRNA 中。
+2. **小型核 RNA（snRNA）** 指導 pre-mRNA 的剪接，形成 mRNA。
+3. **Messenger RNA（mRNA）** 攜帶遺傳密碼到細胞質，控制所形成蛋白質的類型。
+4. **Transfer RNA（tRNA）** 將活化的胺基酸運輸到核糖體，用於組裝蛋白質分子。
+5. **核糖體 RNA**，與約 75 種不同蛋白質一起形成核糖體——蛋白質分子實際上在這些物理和化學結構上被組裝。
+6. **MicroRNAs（miRNAs）** 是 21 至 23 個核苷酸的單股 RNA 分子，能夠調節基因轉錄和翻譯。
 
-1. **Precursor messenger RNA (pre-mRNA)** is a large, immature, single strand of RNA that is processed in the nucleus to form mature messenger RNA (mRNA). The pre-RNA includes two different types of segments, called introns, which are removed by a process called splicing, and exons, which are retained in the final mRNA.
-2. **Small nuclear RNA (snRNA)** directs the splicing of pre-mRNA to form mRNA.
-3. **Messenger RNA (mRNA)** carries the genetic code to the cytoplasm for controlling the type of protein formed.
-4. **Transfer RNA (tRNA)** transports activated amino acids to the ribosomes to be used in assembling the protein molecule.
-5. **Ribosomal RNA**, along with about 75 different proteins, forms ribosomes, the physical and chemical structures on which protein molecules are actually assembled.
-6. **MicroRNAs (miRNAs)** are single-stranded RNA molecules of 21 to 23 nucleotides that can regulate gene transcription and translation.
+## Messenger RNA——密碼子
 
-## Messenger RNA—The Codons
+Messenger RNA 分子是懸浮在細胞質中的長單股 RNA 鏈。這些分子由數百到數千個未配對的 RNA 核苷酸組成，包含與 DNA 基因密碼子三聯體完全互補的密碼子。Figure 3-8 顯示了一段 mRNA 的小片段。其密碼子為 CCG、UCU 和 GAA，分別是胺基酸 proline、serine 和 glutamic acid 的密碼子。從 DNA 分子到 RNA 分子的這些密碼子轉錄如 Figure 3-7 所示。
 
-Messenger RNA molecules are long single RNA strands that are suspended in the cytoplasm. These molecules are composed of several hundred to several thousand RNA nucleotides in unpaired strands, and they contain codons that are exactly complementary to the code triplets of the DNA genes. Figure 3-8 shows a small segment of mRNA. Its codons are CCG, UCU, and GAA, which are the codons for the amino acids proline, serine, and glutamic acid. The transcription of these codons from the DNA molecule to the RNA molecule is shown in Figure 3-7.
+### 不同胺基酸的 RNA 密碼子
 
-### RNA Codons for the Different Amino Acids
+Table 3-1 列出了蛋白質分子中 20 種常見胺基酸的 RNA 密碼子。注意，大多數胺基酸由多個密碼子表示；另外，一個密碼子表示「開始製造蛋白質分子」的信號，三個密碼子表示「停止製造蛋白質分子」。在 Table 3-1 中，這兩種類型的密碼子分別標記為 CI（鏈起始密碼子）和 CT（鏈終止密碼子）。
 
-Table 3-1 lists the RNA codons for the 20 common amino acids found in protein molecules. Note that most of the amino acids are represented by more than one codon; also, one codon represents the signal "start manufacturing the protein molecule," and three codons represent "stop manufacturing the protein molecule." In Table 3-1, these two types of codons are designated CI for "chain-initiating" or "start" codon and CT for "chain-terminating" or "stop" codon.
+## Transfer RNA——反密碼子
 
-<figure>
-<img src="placeholder.jpg" alt="RNA codons and amino acids">
-<figcaption>Figure 3-8. A portion of an RNA molecule showing three RNA codons—CCG, UCU, and GAA—that control attachment of the three amino acids, proline, serine, and glutamic acid, respectively, to the growing RNA chain.</figcaption>
-</figure>
+蛋白質合成所必需的另一種 RNA 稱為 transfer RNA（tRNA），因為它在蛋白質合成過程中將胺基酸轉移到蛋白質分子。每種 tRNA 特異性地與 20 種胺基酸中的一種結合，這些胺基酸是要摻入蛋白質的。tRNA 隨即作為載體將其特定類型的胺基酸運送到正在形成蛋白質分子的核糖體。在核糖體中，每種特異性 tRNA 識別 mRNA 上的特定密碼子（如後所述），從而將適當的胺基酸送到新型蛋白質鏈的適當位置。
 
-<figure>
-<figcaption>Table 3-1. RNA Codons for Amino Acids and for Start and Stop</figcaption>
+Transfer RNA 只含有約 80 個核苷酸，與 mRNA 相比是相對較小的分子。它是一個折疊的核苷酸鏈，呈現類似 Figure 3-9 所示的三葉草外觀。在分子的一端總是有一個腺苷酸，胺基酸透過核糖上羥基連接到腺苷酸。
 
-| Amino Acid    | RNA Codons                    |
-|---------------|-------------------------------|
-| Alanine       | GCU GCC GCA GCG               |
-| Arginine      | CGU CGC CGA CGG AGA AGG       |
-| Asparagine    | AAU AAC                       |
-| Aspartic acid | GAU GAC                       |
-| Cysteine      | UGU UGC                       |
-| Glutamic acid | GAA GAG                       |
-| Glutamine     | CAA CAG                       |
-| Glycine       | GGU GGC GGA GGG               |
-| Histidine     | CAU CAC                       |
-| Isoleucine    | AUU AUC AUA                   |
-| Leucine       | CUU CUC CUA CUG UUA UUG       |
-| Lysine        | AAA AAG                       |
-| Methionine    | AUG                           |
-| Phenylalanine | UUU UUC                       |
-| Proline       | CCU CCC CCA CCG               |
-| Serine        | UCU UCC UCA UCG AGC AGU       |
-| Threonine     | ACU ACC ACA ACG               |
-| Tryptophan    | UGG                           |
-| Tyrosine      | UAU UAC                       |
-| Valine        | GUU GUC GUA GUG               |
-| Start (CI)    | AUG                           |
-| Stop (CT)     | UAA UAG UGA                   |
+由於 tRNA 的功能是導致特定胺基酸連接到正在形成的蛋白質鏈上，因此每種 tRNA 也必須對 mRNA 上的特定密碼子具有特異性。tRNA 中允許其識別特定密碼子的特定密碼是另一個三聯體核苷酸鹼基，稱為反密碼子。這個反密碼子位於分子的中間位置（見 Figure 3-9 三葉草構型的底部）。在蛋白質分子形成期間，反密碼子鹼基透過氫鍵與 mRNA 的密碼子鹼基鬆散結合。這樣，相應的胺基酸就沿著 mRNA 鏈一一排列，從而建立了新型蛋白質分子中胺基酸的適當序列。
 
-CI, Chain-initiating; CT, chain-terminating.
-</figure>
+## 核糖體 RNA
 
-## Transfer RNA—The Anticodons
+細胞中第三種 RNA 是核糖體 RNA，約占核糖體的 60%。核糖體的其餘部分是蛋白質，包括約 75 種蛋白質，既有結構蛋白，也有製造蛋白質所需的酶。
 
-Another type of RNA that is essential for protein synthesis is called transfer RNA (tRNA) because it transfers amino acids to protein molecules as the protein is being synthesized. Each type of tRNA combines specifically with 1 of the 20 amino acids that are to be incorporated into proteins. The tRNA then acts as a carrier to transport its specific type of amino acid to the ribosomes, where protein molecules are forming. In the ribosomes, each specific type of tRNA recognizes a particular codon on the mRNA (described later) and thereby delivers the appropriate amino acid to the appropriate place in the chain of the newly forming protein molecule.
+核糖體是細胞質中實際合成蛋白質的物理結構。然而，它總是與其他兩種 RNA 共同發揮作用；tRNA 將胺基酸運送到核糖體摻入正在發育的蛋白質，而 mRNA 提供按適當順序排列胺基酸所需的信息，以製造每種特定類型的蛋白質。因此，核糖體充當製造工廠，蛋白質分子在此形成。
 
-Transfer RNA, which contains only about 80 nucleotides, is a relatively small molecule in comparison with mRNA. It is a folded chain of nucleotides with a cloverleaf appearance similar to that shown in Figure 3-9. At one end of the molecule there is always an adenylic acid to which the transported amino acid attaches at a hydroxyl group of the ribose in the adenylic acid.
+### 在核仁中形成核糖體
 
-Because the function of tRNA is to cause attachment of a specific amino acid to a forming protein chain, it is essential that each type of tRNA also have specificity for a particular codon in the mRNA. The specific code in the tRNA that allows it to recognize a specific codon is again a triplet of nucleotide bases and is called an anticodon. This anticodon is located approximately in the middle of the tRNA molecule (at the bottom of the cloverleaf configuration shown in Figure 3-9). During formation of the protein molecule, the anticodon bases combine loosely by hydrogen bonding with the codon bases of the mRNA. In this way, the respective amino acids are lined up one after another along the mRNA chain, thus establishing the appropriate sequence of amino acids in the newly forming protein molecule.
+核糖體 RNA 形成的 DNA 基因位於細胞核中五對染色體上。每條染色體由於需要大量核糖體 RNA 進行細胞功能，都含有這些特定基因的多個拷貝。
 
-<figure>
-<img src="placeholder.jpg" alt="Transfer RNA and ribosomes">
-<figcaption>Figure 3-9. A messenger RNA strand is moving through two ribosomes. As each codon passes through, an amino acid is added to the growing protein chain, which is shown in the right-hand ribosome. The transfer RNA molecule transports each specific amino acid to the newly forming protein.</figcaption>
-</figure>
+當核糖體 RNA 形成時，它們聚集在核仁中——一個位於染色體附近的專門結構。當大量核糖體 RNA 被合成時（如大量蛋白質製造細胞中那樣），核仁是一個大型結構；而在合成少量蛋白質的細胞中，核仁可能根本看不到。核糖體 RNA 在核仁中特異性加工，與核糖體蛋白質結合形成顆粒狀凝縮產物，這是核糖體的原始亞基。然後這些亞基從核仁釋放，通過核膜的大孔運輸到細胞質幾乎所有部位。亞基進入細胞質後，組裝成成熟的功能性核糖體。因此，蛋白質在細胞的細胞質中形成，而非在細胞核中，因為細胞核不含有成熟核糖體。
 
-## Ribosomal RNA
+## miRNA 與小型干擾 RNA
 
-The third type of RNA in the cell is ribosomal RNA, which constitutes about 60% of the ribosome. The remainder of the ribosome is protein, including about 75 types of proteins that are both structural proteins and enzymes needed to manufacture proteins.
+細胞中第四種 RNA 是 microRNA（miRNA）；miRNA 是短的（21 至 23 個核苷酸）單股 RNA 片段，調節基因表達（Figure 3-10）。miRNA 由基因的轉錄 DNA 編碼，但們不被翻譯成蛋白質，因此常被稱為非編碼 RNA。miRNA 被細胞加工成與 mRNA 互補的分子，作用是降低基因表達。miRNA 的生成涉及稱為 pri-miRNA 的較長前體 RNA 的特殊加工，pri-miRNA 是基因的初始轉錄物。pri-miRNA 然後在細胞核中由微加工複合體處理形成 pre-miRNA，這是 70 個核苷酸的髮夾環結構。這些 pre-miRNA 然後在細胞質中由特定的 dicer 酶進一步加工，幫助組裝 RNA 誘導的沉默複合體（RISC）並產生 miRNA。
 
-The ribosome is the physical structure in the cytoplasm on which proteins are actually synthesized. However, it always functions in association with the other two types of RNA; tRNA transports amino acids to the ribosome for incorporation into the developing protein, whereas mRNA provides the information necessary for sequencing the amino acids in proper order for each specific type of protein to be manufactured. Thus, the ribosome acts as a manufacturing plant in which the protein molecules are formed.
+miRNA 透過與 RNA 的互補區域結合來調節基因表達，促進翻譯抑制或在 mRNA 被核糖體翻譯之前促進其降解。miRNA 被認為在正常細胞功能調節中起重要作用，miRNA 功能的改變與癌症和心臟病等疾病相關。
 
-### Formation of Ribosomes in the Nucleolus
+另一種 miRNA 是小型干擾 RNA（siRNA），也稱為沉默 RNA 或短干擾 RNA。siRNA 是短的雙股 RNA 分子，由 20 至 25 個核苷酸組成，干擾特定基因的表達。siRNA 通常指合成的 miRNA，可以施用於沉默特定基因的表達。它們被設計為避免被微加工複合體在細胞核中加工，當 siRNA 進入細胞質後，激活 RISC 沉默複合體，阻斷 mRNA 的翻譯。因為 siRNA 可以為基因中任何特定序列量身定制，它們可用於阻斷任何 mRNA 的翻譯，因此只要已知核苷酸序列，就能阻斷任何基因的表達。研究人員提出 siRNA 可能成為有用的治療工具，來沉默導致疾病病理生理學的基因。
 
-The DNA genes for the formation of ribosomal RNA are located in five pairs of chromosomes in the nucleus. Each of these chromosomes contains many duplicates of these particular genes because of the large amounts of ribosomal RNA required for cellular function.
+## 翻譯——在核糖體上形成蛋白質
 
-As the ribosomal RNA forms, it collects in the nucleolus, a specialized structure lying adjacent to the chromosomes. When large amounts of ribosomal RNA are being synthesized, as occurs in cells that manufacture large amounts of protein, the nucleolus is a large structure, whereas in cells that synthesize little protein, the nucleolus may not even be seen. Ribosomal RNA is specially processed in the nucleolus, where it binds with ribosomal proteins to form granular condensation products that are primordial subunits of ribosomes. These subunits are then released from the nucleolus and transported through the large pores of the nuclear envelope to almost all parts of the cytoplasm. After the subunits enter the cytoplasm, they are assembled to form mature functional ribosomes. Therefore, proteins are formed in the cytoplasm of the cell, but not in the cell nucleus, because the nucleus does not contain mature ribosomes.
+當一個 mRNA 分子與核糖體接觸時，它穿過核糖體，從由適當的 RNA 鹼基序列（稱為鏈起始密碼子）指定的 RNA 分子預定末端開始。然後，如 Figure 3-9 所示，當 mRNA 穿過核糖體時，蛋白質分子正在形成，這個過程稱為翻譯。因此，核糖體閱讀 mRNA 的密碼子，與錄音機播放頭閱讀磁帶的方式大致相同。當「停止」（或「鏈終止」）密碼子滑過核糖體時，蛋白質分子的末端被信號告知，蛋白質分子被釋放到細胞質中。
 
-## miRNA and Small Interfering RNA
+### 多核糖體
 
-A fourth type of RNA in the cell is microRNA (miRNA); miRNAs are short (21 to 23 nucleotides) single-stranded RNA fragments that regulate gene expression (Figure 3-10). The miRNAs are encoded from the transcribed DNA of genes, but they are not translated into proteins and are therefore often called noncoding RNA. The miRNAs are processed by the cell into molecules that are complementary to mRNA and act to decrease gene expression. The generation of miRNAs involves special processing of longer primary precursor RNAs called pri-miRNAs, which are the primary transcripts of the gene. The pri-miRNAs are then processed in the cell nucleus by the microprocessor complex to pre-miRNAs, which are 70-nucleotide, stem-loop structures. These pre-miRNAs are then further processed in the cytoplasm by a specific dicer enzyme that helps assemble an RNA-induced silencing complex (RISC) and generates miRNAs.
+一個 mRNA 分子可以同時在多個核糖體上形成蛋白質分子，因為 RNA 鏈的初始端可以在離開第一個核糖體時傳到下一個核糖體，如 Figure 3-9 左下方和 Figure 3-11 所示。每個核糖體中的蛋白質分子處於不同發育階段。因此，核糖體經常成簇出現，3 至 10 個核糖體同時附著在一個 mRNA 上。這些簇稱為多核糖體（polyribosomes）。
 
-The miRNAs regulate gene expression by binding to the complementary region of the RNA and promoting repression of translation or degradation of the mRNA before it can be translated by the ribosome. miRNAs are believed to play an important role in normal regulation of cell function, and alterations in miRNA function have been associated with diseases such as cancer and heart disease.
+mRNA 可以在任何核糖體中引起蛋白質分子的形成；核糖體對特定類型的蛋白質沒有特異性。核糖體只是發生化學反應的物理製造工廠。
 
-Another type of miRNA is small interfering RNA (siRNA), also called silencing RNA or short interfering RNA. The siRNAs are short, double-stranded RNA molecules, comprised of 20 to 25 nucleotides, that interfere with expression of specific genes. siRNAs generally refer to synthetic miRNAs and can be administered to silence expression of specific genes. They are designed to avoid nuclear processing by the microprocessor complex and, after the siRNA enters the cytoplasm, it activates the RISC silencing complex, blocking the translation of mRNA. Because siRNAs can be tailored for any specific sequence in the gene, they can be used to block translation of any mRNA and therefore expression by any gene for which the nucleotide sequence is known. Researchers have proposed that siRNAs may become useful therapeutic tools to silence genes that contribute to the pathophysiology of diseases.
+### 許多核糖體附著在內質網上
 
-<figure>
-<img src="placeholder.jpg" alt="miRNA regulation">
-<figcaption>Figure 3-10. Regulation of gene expression by microRNA (miRNA). Primary miRNA (pri-miRNA), the primary transcripts of a gene processed in the cell nucleus by the microprocessor complex, are converted to pre-miRNAs. These pre-miRNAs are then further processed in the cytoplasm by dicer, an enzyme that helps assemble an RNA-induced silencing complex (RISC) and generates miRNAs. The miRNAs regulate gene expression by binding to the complementary region of the RNA and repressing translation or promoting degradation of the messenger RNA (mRNA) before it can be translated by the ribosome.</figcaption>
-</figure>
+在第 2 章中，我們注意到許多核糖體附著在內質網上。這種附著發生是因為許多正在形成的蛋白質分子的初始端具有立即附著到內質網上特定受體位點的胺基酸序列，導致這些分子穿透內質網壁進入內質網基質。這個過程使正在形成蛋白質並進入內質網基質的內質網部分呈現顆粒狀外觀。
 
-## Translation—Formation of Proteins on the Ribosomes
+Figure 3-11 顯示了 mRNA 與核糖體的功能關係，以及核糖體附著到內質網膜上的方式。請注意在多個核糖體中同時發生的翻譯過程，回應同一條 mRNA 鏈。還要注意正在形成的多肽（蛋白質）鏈穿過內質網膜進入內質網基質。
 
-When a molecule of mRNA comes in contact with a ribosome, it travels through the ribosome, beginning at a predetermined end of the RNA molecule specified by an appropriate sequence of RNA bases called the chain-initiating codon. Then, as shown in Figure 3-9, while the mRNA travels through the ribosome, a protein molecule is formed, a process called translation. Thus, the ribosome reads the codons of the mRNA in much the same way that a tape is read as it passes through the playback head of a tape recorder. Then, when a "stop" (or "chain-terminating") codon slips past the ribosome, the end of a protein molecule is signaled, and the protein molecule is freed into the cytoplasm.
+應該注意的是，除了形成大量含蛋白質分泌囊泡的腺細胞外，由核糖體合成的大多數蛋白質直接釋放到細胞質基質中，而非進入內質網。這些蛋白質是酶和細胞的內部結構蛋白。
 
-### Polyribosomes
+### 蛋白質合成中的化學步驟
 
-A single mRNA molecule can form protein molecules in several ribosomes at the same time because the initial end of the RNA strand can pass to a successive ribosome as it leaves the first, as shown at the bottom left in Figure 3-9 and Figure 3-11. The protein molecules are in different stages of development in each ribosome. As a result, clusters of ribosomes frequently occur, with 3 to 10 ribosomes being attached to a single mRNA at the same time. These clusters are called polyribosomes.
+Figure 3-12 顯示蛋白質分子合成中發生的一些化學事件。該圖顯示了三個不同胺基酸 AA1、AA2 和 AA20 的代表性反應。反應的階段如下：
 
-An mRNA can cause formation of a protein molecule in any ribosome; there is no specificity of ribosomes for given types of protein. The ribosome is simply the physical manufacturing plant in which the chemical reactions take place.
+1. 每個胺基酸透過 ATP 與胺基酸結合形成腺苷單磷酸-胺基酸複合物而被活化，過程中失去兩個高能磷酸鍵。
+2. 具有過量能量的活化胺基酸，然後與其特定 tRNA 結合形成胺基酸-tRNA 複合物，同時釋放腺苷單磷酸。
+3. 攜帶胺基酸複合物的 tRNA 然後與核糖體中的 mRNA 分子接觸，tRNA 的反密碼子暫時附著到其特定的 mRNA 密碼子上，從而將胺基酸排列成適當的序列，形成蛋白質分子。
 
-### Many Ribosomes Attach to the Endoplasmic Reticulum
+然後，在 peptidyl transferase（核糖體中的一種蛋白質）的作用下，相繼胺基酸之間形成肽鍵，從而逐步添加到蛋白質鏈上。這些化學事件需要另外兩個高能磷酸鍵的能量，使每個添加到蛋白質鏈的胺基酸消耗的總高能鍵達到四個。因此，蛋白質合成是細胞中最耗能的過程之一。
 
-In Chapter 2, we noted that many ribosomes become attached to the endoplasmic reticulum. This attachment occurs because the initial ends of many forming protein molecules have amino acid sequences that immediately attach to specific receptor sites on the endoplasmic reticulum, causing these molecules to penetrate the reticulum wall and enter the endoplasmic reticulum matrix. This process gives a granular appearance to the portions of the reticulum where proteins are being formed and are entering the matrix of the reticulum.
+### 肽鍵——胺基酸的結合
 
-Figure 3-11 shows the functional relationship of mRNA to the ribosomes and the manner in which the ribosomes attach to the membrane of the endoplasmic reticulum. Note the process of translation occurring in several ribosomes at the same time in response to the same strand of mRNA. Note also the newly forming polypeptide (protein) chains passing through the endoplasmic reticulum membrane into the endoplasmic matrix.
-
-It should be noted that except in glandular cells, in which large amounts of protein-containing secretory vesicles are formed, most proteins synthesized by the ribosomes are released directly into the cytosol instead of into the endoplasmic reticulum. These proteins are enzymes and internal structural proteins of the cell.
-
-<figure>
-<img src="placeholder.jpg" alt="Ribosome structure and function">
-<figcaption>Figure 3-11. The physical structure of the ribosomes, as well as their functional relationship to messenger RNA, transfer RNA, and the endoplasmic reticulum during the formation of protein molecules.</figcaption>
-</figure>
-
-### Chemical Steps in Protein Synthesis
-
-Some of the chemical events that occur in the synthesis of a protein molecule are shown in Figure 3-12. This figure shows representative reactions for three separate amino acids, AA1, AA2, and AA20. The stages of the reactions are as follows:
-
-1. Each amino acid is activated by a chemical process in which ATP combines with the amino acid to form an adenosine monophosphate complex with the amino acid, giving up two high-energy phosphate bonds in the process.
-2. The activated amino acid, having an excess of energy, then combines with its specific tRNA to form an amino acid–tRNA complex and, at the same time, releases the adenosine monophosphate.
-3. The tRNA carrying the amino acid complex then comes in contact with the mRNA molecule in the ribosome, where the anticodon of the tRNA attaches temporarily to its specific codon of the mRNA, thus lining up the amino acid in the appropriate sequence to form a protein molecule.
-
-Then, under the influence of the enzyme peptidyl transferase (one of the proteins in the ribosome), peptide bonds are formed between the successive amino acids, thus adding progressively to the protein chain. These chemical events require energy from two additional high-energy phosphate bonds, making a total of four high-energy bonds used for each amino acid added to the protein chain. Thus, the synthesis of proteins is one of the most energy-consuming processes of the cell.
-
-<figure>
-<img src="placeholder.jpg" alt="Chemical events in protein synthesis">
-<figcaption>Figure 3-12. Chemical events in the formation of a protein molecule. AMP, Adenosine monophosphate; ATP, adenosine triphosphate; GTP, guanosine triphosphate; tRNA, transfer RNA.</figcaption>
-</figure>
-
-### Peptide Linkage—Combination of Amino Acids
-
-The successive amino acids in the protein chain combine with one another according to the typical reaction:
+蛋白質鏈中相繼的胺基酸根據典型反應相互結合：
 
 ```
 O          O
@@ -237,378 +159,193 @@ NH₂         C-R
             COOH
 ```
 
-In this chemical reaction, a hydroxyl radical (OH⁻) is removed from the COOH portion of the first amino acid, and a hydrogen (H⁺) of the NH₂ portion of the other amino acid is removed. These combine to form water, and the two reactive sites left on the two successive amino acids bond with each other, resulting in a single molecule. This process is called peptide linkage. As each additional amino acid is added, an additional peptide linkage is formed.
+在這個化學反應中，羥基（OH⁻）從第一個胺基酸的 COOH 部分被移除，第二個胺基酸 NH₂ 部分的氫（H⁺）被移除。它們結合形成水，兩個相繼胺基酸上的兩個反應位點相互鍵合，產生一個分子。這個過程稱為肽鍵。每添加一個額外的胺基酸，就形成一個額外的肽鍵。
 
-## Synthesis of Other Substances in the Cell
+## 細胞中其他物質的合成
 
-Many thousand protein enzymes formed in the manner just described control essentially all the other chemical reactions that take place in cells. These enzymes promote synthesis of lipids, glycogen, purines, pyrimidines, and hundreds of other substances. We discuss many of these synthetic processes in relation to carbohydrate, lipid, and protein metabolism in Chapters 68 through 70. These substances each contribute to the various functions of the cells.
+如前所述方式形成的數千種蛋白質酶控制著細胞中進行的幾乎所有其他化學反應。這些酶促進脂肪、糖原、purines、pyrimidines 和數百種其他物質的合成。我們在第 68 至 70 章中討論了許多與碳水化合物、脂肪和蛋白質代謝相關的這些合成過程。這些物質各自對細胞的各種功能都有貢獻。
 
-## Control of Gene Function and Biochemical Activity in Cells
+## 基因功能與細胞生化活性的控制
 
-From our discussion thus far, it is clear that the genes control both the physical and chemical functions of the cells. However, the degree of activation of respective genes must also be controlled; otherwise, some parts of the cell might overgrow or some chemical reactions might overact until they kill the cell. Each cell has powerful internal feedback control mechanisms that keep the various functional operations of the cell in step with one another. For each gene (≈20,000–25,000 genes in all), at least one such feedback mechanism exists.
+從目前的討論可以清楚地看到，基因控制著細胞的物理和化學功能。然而，相應基因的活化程度也必須被控制；否則，細胞某些部分可能過度生長或某些化學反應過度活躍，以至於殺死細胞。每個細胞都有強大的內部反饋控制機制，使細胞的各種功能運作保持協調。對於每個基因（約占人類基因總數的 20,000–25,000 個），至少存在一種這樣的反饋機制。
 
-There are basically two methods whereby the biochemical activities in the cell are controlled:
+細胞中生化活性的控制基本有兩種方法：
 
-1. **Genetic regulation**, in which the degree of activation of the genes and the formation of gene products are themselves controlled.
-2. **Enzyme regulation**, in which the activity levels of already formed enzymes in the cell are controlled.
+1. **基因調控**：基因的活化程度和基因產物的形成本身受到控制。
+2. **酶調控**：細胞中已形成酶的活性水平受到控制。
 
-## Genetic Regulation
+## 基因調控
 
-Genetic regulation, or regulation of gene expression, covers the entire process from transcription of the genetic code in the nucleus to the formation of proteins in the cytoplasm. Regulation of gene expression provides all living organisms with the ability to respond to changes in their environment. In animals that have many different types of cells, tissues, and organs, differential regulation of gene expression also permits the different cell types in the body to each perform their specialized functions. Although a cardiac myocyte contains the same genetic code as a renal tubular epithelial cell, many genes are expressed in cardiac cells that are not expressed in renal tubular cells. The ultimate measure of gene "expression" is whether (and how much) of the gene products (proteins) are produced because proteins carry out cell functions specified by the genes. Regulation of gene expression can occur at any point in the pathways of transcription, RNA processing, and translation.
+基因調控涵蓋了從細胞核中遺傳密碼的轉錄到細胞質中蛋白質形成的整個過程。基因表達的調控為所有生物提供了對環境變化做出反應的能力。在具有許多不同細胞類型、組織和器官的動物中，基因表達的差異化調控也使體內不同細胞類型能夠各自執行其專門功能。雖然心肌細胞含有與腎小管上皮細胞相同的遺傳密碼，但心臟細胞中表達的許多基因在腎小管細胞中不表達。基因「表達」的最終衡量標準是是否（以及多少）基因產物（蛋白質）被產生，因為蛋白質執行由基因指定的細胞功能。基因表達的調控可以在轉錄、RNA 加工和翻譯的任何環節發生。
 
-### The Promoter Controls Gene Expression
+### 啟動子控制基因表達
 
-Synthesis of cellular proteins is a complex process that starts with transcription of DNA into RNA. Transcription of DNA is controlled by regulatory elements found in the promoter of a gene (Figure 3-13). In eukaryotes, which includes all mammals, the basal promoter consists of a sequence of bases (TATAAA) called the TATA box, the binding site for the TATA-binding protein and several other important transcription factors that are collectively referred to as the transcription factor IID complex. In addition to the transcription factor IID complex, this region is where transcription factor IIB binds to both the DNA and RNA polymerase 2 to facilitate transcription of the DNA into RNA. This basal promoter is found in all protein-coding genes, and the polymerase must bind with this basal promoter before it can begin traveling along the DNA strand to synthesize RNA.
+細胞蛋白質的合成是一個複雜的過程，從 DNA 轉錄為 RNA 開始。DNA 的轉錄受存在於基因啟動子中的調控元件控制（Figure 3-13）。在真核生物（包括所有哺乳動物）中，基本啟動子由一組鹼基序列（TATAAA）組成，稱為 TATA 盒，是 TATA 結合蛋白和幾種其他重要轉錄因子的結合位點，統稱為轉錄因子 IID 複合體。除轉錄因子 IID 複合體外，轉錄因子 IIB 也在此區域結合到 DNA 和 RNA 聚合酶 2 上，促進 DNA 轉錄為 RNA。這個基本啟動子存在於所有蛋白質編碼基因中，聚合酶必須先與這個基本啟動子結合，才能開始沿著 DNA 鏈移動合成 RNA。
 
-The upstream promoter is located farther upstream from the transcription start site and contains several binding sites for positive or negative transcription factors that can affect transcription through interactions with proteins bound to the basal promoter. The structure and transcription factor binding sites in the upstream promoter vary from gene to gene to give rise to the different expression patterns of genes in different tissues.
+上游啟動子位於轉錄起始點更遠的上游，包含多個正性或負性轉錄因子的結合位點，這些轉錄因子透過與結合到基本啟動子的蛋白質相互作用來影響轉錄。上游啟動子的結構和轉錄因子結合位點因基因而異，導致不同組織中基因的不同表達模式。
 
-Transcription of genes in eukaryotes is also influenced by enhancers, which are regions of DNA that can bind transcription factors. Enhancers can be located a great distance from the gene they act on or even on a different chromosome. They can also be located upstream or downstream of the gene that they regulate. Although enhancers may be located far from their target gene, they may be relatively close when DNA is coiled in the nucleus. It is estimated that there are more than 100,000 gene enhancer sequences in the human genome.
+真核生物中基因的轉錄也受增強子影響，增強子是能夠結合轉錄因子的 DNA 區域。增強子可以位於它們作用的基因很遠的地方，甚至位於不同的染色體上。它們也可以位於它們調節基因的上游或下游。雖然增強子可能遠離其目標基因，但當 DNA 在細胞核中盤繞時可能相對較近。估計人類基因組中有超過 100,000 個基因增強子序列。
 
-In the organization of the chromosome, it is important to separate active genes that are being transcribed from genes that are repressed. This separation can be challenging because multiple genes may be located close together on the chromosome. The separation is achieved by chromosomal insulators. These insulators are gene sequences that provide a barrier so that a specific gene is isolated against transcriptional influences from surrounding genes. Insulators can vary greatly in their DNA sequence and the proteins that bind to them. One way an insulator activity can be modulated is by DNA methylation, which is the case for the mammalian insulin-like growth factor 2 (IGF-2) gene. The mother's allele has an insulator between the enhancer and promoter of the gene that allows for the binding of a transcriptional repressor. However, the paternal DNA sequence is methylated such that the transcriptional repressor cannot bind to the insulator, and the IGF-2 gene is expressed from the paternal copy of the gene.
+在染色體的組織中，將正在轉錄的活性基因與被抑制的基因分開是很重要的。由於多個基因可能位於染色體上彼此靠近的位置，這種分離具有挑戰性。這種分離是透過染色體絕緣子實現的。這些絕緣子是基因序列，提供屏障，使特定基因免受周圍基因的轉錄影響。絕緣子在其 DNA 序列和與它們結合的蛋白質方面可能有很大差異。一種可以調節絕緣子活性的方式是 DNA 甲基化，哺乳動物胰島素樣生長因子 2（IGF-2）基因就是這種情況。母親的等位基因在增強子和基因啟動子之間有一個絕緣子，允許轉錄抑制因子的結合。然而，父本 DNA 序列是甲基化的，使轉錄抑制因子無法與絕緣子結合，IGF-2 基因從父本拷貝的基因中表達。
 
-<figure>
-<img src="placeholder.jpg" alt="Gene transcription in eukaryotes">
-<figcaption>Figure 3-13. Gene transcription in eukaryotic cells. A complex arrangement of multiple clustered enhancer modules is interspersed with insulator elements, which can be located upstream or downstream of a basal promoter containing TATA box (TATA), proximal promoter elements (response elements, RE), and initiator sequences (INR).</figcaption>
-</figure>
+### 啟動子轉錄控制的其他機制
 
-### Other Mechanisms for Control of Transcription by the Promoter
+在過去三十年中發現了啟動子控制基本機制的變化。在此不作詳細說明，只列出一些：
 
-Variations in the basic mechanism for control of the promoter have been discovered in the past three decades. Without giving details, let us list some of them:
+1. 啟動子常受位於基因組其他地方的轉錄因子控制。即，調節基因導致調節蛋白的形成，然後調節蛋白依次作為轉錄的活化劑或抑制劑。
+2. 有時多個不同的啟動子同時由同一種調節蛋白控制。在某些情況下，同一調節蛋白對一個啟動子作為活化劑，對另一個啟動子作為抑制劑。
+3. 有些蛋白質的控制不在 DNA 鏈上的轉錄起始點，而是在沿鏈更遠的地方。有時控制甚至不在 DNA 鏈本身，而是在 RNA 分子在細胞核中加工並釋放到細胞質之前的過程中。控制也可能發生在核糖體翻譯過程中細胞質中蛋白質形成的水平。
+4. 在有核細胞中，核 DNA 包裝在特定的結構單位——染色體中。在每條染色體內，DNA 圍繞稱為組織蛋白的小蛋白質纏繞，這些組織蛋白又被其他蛋白質緊密壓縮在一起。只要 DNA 處於這種壓縮狀態，它就不能作為形成 RNA 或複製新 DNA 的模板。然而，發現了多種控制機制，可以使染色體的選定區域一次一個地解壓縮，使部分 RNA 轉錄可以發生。即使那樣，特定的轉錄因子也控制啟動子在染色體中的實際轉錄速率。因此，更高層次的控制被用來建立適當的細胞功能。此外，來自細胞外部的信號（如本書討論的一些激素）也可以透過活化或抑制一個或多個細胞內控制系統來控制細胞的化學機械功能。
 
-1. A promoter is frequently controlled by transcription factors located elsewhere in the genome. That is, the regulatory gene causes the formation of a regulatory protein that in turn acts as an activator or repressor of transcription.
-2. Occasionally, many different promoters are controlled at the same time by the same regulatory protein. In some cases, the same regulatory protein functions as an activator for one promoter and as a repressor for another promoter.
-3. Some proteins are controlled not at the starting point of transcription on the DNA strand but farther along the strand. Sometimes, the control is not even at the DNA strand itself but occurs during the processing of the RNA molecules in the nucleus before they are released into the cytoplasm. Control may also occur at the level of protein formation in the cytoplasm during RNA translation by the ribosomes.
-4. In nucleated cells, the nuclear DNA is packaged in specific structural units, the chromosomes. Within each chromosome, the DNA is wound around small proteins called histones, which in turn are held tightly together in a compacted state by still other proteins. As long as the DNA is in this compacted state, it cannot function to form RNA. However, multiple control mechanisms are being discovered that can cause selected areas of chromosomes to become decompacted one part at a time, so that partial RNA transcription can occur. Even then, specific transcription factors control the actual rate of transcription by the promoter in the chromosome. Thus, still higher orders of control are used to establish proper cell function. In addition, signals from outside the cell, such as some of the body's hormones, can activate specific chromosomal areas and specific transcription factors, therefore controlling the chemical machinery for function of the cell.
+由於每個人類細胞中有數千個不同的基因，基因活性可以控制的方式數量眾多並不令人驚訝。基因控制系統對於控制細胞內胺基酸、胺基酸衍生物以及碳水化合物、脂肪和蛋白質代謝的中間體和產物的濃度特別重要。
 
-Because there are many thousands of different genes in each human cell, the large number of ways in which genetic activity can be controlled is not surprising. The gene control systems are especially important for controlling intracellular concentrations of amino acids, amino acid derivatives, and intermediate substrates and products of carbohydrate, lipid, and protein metabolism.
+## 透過酶調控控制細胞功能
 
-## Control of Intracellular Function by Enzyme Regulation
+除了透過基因調控控制細胞功能外，細胞活動也受直接作用於特定細胞內酶的細胞內抑制劑或活化劑控制。因此，酶調控代表著控制細胞生化功能的第二類機制。
 
-In addition to control of cell function by genetic regulation, cell activities are also controlled by intracellular inhibitors or activators that act directly on specific intracellular enzymes. Thus, enzyme regulation represents a second category of mechanisms whereby cellular biochemical functions can be controlled.
+### 酶抑制
 
-### Enzyme Inhibition
+細胞中形成的一些化學物質具有直接反饋作用，抑制合成它們的特定酶系統。幾乎總是合成的產物作用於序列中的第一個酶，而非後續的酶，通常直接與酶結合並引起使其失活的變構構象變化。可以很容易地識別失活第一個酶的重要性，因為這防止了未被使用的中間產物的積累。
 
-Some chemical substances formed in the cell have direct feedback effects to inhibit the specific enzyme systems that synthesize them. Almost always, the synthesized product acts on the first enzyme in a sequence, rather than on the subsequent enzymes, usually binding directly with the enzyme and causing an allosteric conformational change that inactivates it. One can readily recognize the importance of inactivating the first enzyme because this prevents buildup of intermediary products that are not used.
+酶抑制是負反饋控制的另一個例子。它負責控制多種胺基酸、purines、pyrimidines、維生素和其他物質的細胞內濃度。
 
-Enzyme inhibition is another example of negative feedback control. It is responsible for controlling intracellular concentrations of multiple amino acids, purines, pyrimidines, vitamins, and other substances.
+### 酶活化
 
-### Enzyme Activation
+通常處於非活性狀態的酶在需要時可以被活化。一個例子是當細胞中大部分 ATP 被耗盡時。在這種情況下，大量 cyclic adenosine monophosphate（cAMP）開始作為 ATP 的分解產物形成。cAMP 的存在進而立即活化糖原分解酶——phosphorylase，釋放葡萄糖分子，這些分子迅速被代謝，其能量用於補充 ATP 儲存。因此，cAMP 作為 phosphorylase 的酶活化劑，幫助控制細胞內 ATP 濃度。
 
-Enzymes that are normally inactive often can be activated when needed. An example of this phenomenon occurs when most of the ATP has been depleted in a cell. In this case, a considerable amount of cyclic adenosine monophosphate (cAMP) begins to be formed as a breakdown product of ATP. The presence of this cAMP, in turn, immediately activates the glycogen-splitting enzyme phosphorylase, liberating glucose molecules that are rapidly metabolized, with their energy used for replenishment of the ATP stores. Thus, cAMP acts as an enzyme activator for the enzyme phosphorylase and thereby helps control intracellular ATP concentration.
+另一個酶抑制和酶活化都涉及的有趣例子發生在 purines 和 pyrimidines 的形成中。這些物質是細胞合成 DNA 和 RNA 所需的大致等量的物質。當 purines 形成時，它們抑制形成額外 purines 所需的酶。然而，它們活化形成 pyrimidines 的酶。相反，pyrimidines 抑制它們自己的酶，但活化 purine 酶。這樣，這兩種物質的合成系統之間持續有交叉對話，結果幾乎在所有時刻細胞中兩種物質的數量都完全相等。
 
-Another interesting example of both enzyme inhibition and enzyme activation occurs in the formation of the purines and pyrimidines. These substances are needed by the cell in approximately equal quantities for the formation of DNA and RNA. When purines are formed, they inhibit the enzymes that are required for formation of additional purines. However, they activate the enzymes for formation of pyrimidines. Conversely, the pyrimidines inhibit their own enzymes but activate the purine enzymes. In this way, there is continual cross-talk between the synthesizing systems for these two substances, resulting in almost exactly equal amounts of the two substances in the cells at all times.
+### 總結
 
-### Summary
+細胞控制不同細胞成分的適當比例和數量有兩個主要機制：
 
-There are two principal mechanisms whereby cells control proper proportions and quantities of different cellular constituents:
+1. 基因調控
+2. 酶調控
 
-1. Genetic regulation
-2. Enzyme regulation
+基因可以被活化或抑制，同樣，酶系統也可以被活化或抑制。這些調控機制通常作為反饋控制系統功能，不斷監測細胞的生化組成並根據需要進行修正。然而，偶爾來自細胞外部的物質（尤其是本書討論的一些激素）也可以透過活化或抑制一個或多個細胞內控制系統來控制細胞內的生化反應。
 
-The genes can be activated or inhibited, and likewise, the enzyme systems can be activated or inhibited. These regulatory mechanisms usually function as feedback control systems that continually monitor the cell's biochemical composition and make corrections as needed. However, on occasion, substances from outside the cell (especially some of the hormones discussed in this text) also control the intracellular biochemical reactions by activating or inhibiting one or more of the intracellular control systems.
+## DNA——遺傳系統控制細胞增殖
 
-## The DNA–Genetic System Controls Cell Reproduction
+細胞增殖是 DNA——遺傳系統在所有生命過程中普遍作用的另一個例子。基因及其調控機制決定細胞的生長特徵以及細胞是否或何時分裂形成新細胞。這樣，這個至關重要的遺傳系統控制著人類發育的每個階段，從單細胞受精卵到整個機能體。因此，如果說生命有一個核心主題，那就是 DNA——遺傳系統。
 
-Cell reproduction is another example of the ubiquitous role that the DNA–genetic system plays in all life processes. The genes and their regulatory mechanisms determine cell growth characteristics and when or whether cells will divide to form new cells. In this way, the all-important genetic system controls each stage in the development of the human, from the single-cell fertilized ovum to the whole functioning body. Thus, if there is any central theme to life, it is the DNA–genetic system.
+### 細胞的生命週期
 
-### Life Cycle of the Cell
+細胞的生命週期是從細胞增殖到下一次細胞增殖的時期。當哺乳動物細胞不受抑制且尽可能快地增殖時，這個生命週期可能短至 10 至 30 小時。它以一系列稱為有絲分裂的明確物理事件終止，導致細胞分裂成兩個新的子細胞。有絲分裂的事件如 Figure 3-14 所示，後文將予描述。然而，有絲分裂的實際階段只持續約 30 分鐘，因此即使快速增殖的細胞，其生命週期中有超過 95% 的時間是有絲分裂之間的時期——間期。
 
-The life cycle of a cell is the period from cell reproduction to the next cell reproduction. When mammalian cells are not inhibited and are reproducing as rapidly as they can, this life cycle may be as little as 10 to 30 hours. It is terminated by a series of distinct physical events called mitosis that cause division of the cell into two new daughter cells. The events of mitosis are shown in Figure 3-14 and described later. The actual stage of mitosis, however, lasts for only about 30 minutes, and thus more than 95% of the life cycle of even rapidly reproducing cells is represented by the interval between mitosis, called interphase.
+除了快速細胞增殖的特殊條件外，抑制因素幾乎總是減慢或停止細胞的不受抑制的生命週期。因此，身體不同細胞的實際生命週期差異很大，從高度刺激的骨髓細胞的短至 10 小時到許多神經細胞的整個人體壽命。
 
-Except in special conditions of rapid cellular reproduction, inhibitory factors almost always slow or stop the uninhibited life cycle of the cell. Therefore, different cells of the body actually have life cycle periods that vary from as little as 10 hours for highly stimulated bone marrow cells to an entire lifetime of the human body for many nerve cells.
+### 細胞增殖從 DNA 複製開始
 
-### Cell Reproduction Begins with Replication of DNA
+細胞增殖的第一步是染色體中所有 DNA 的複製（複製）。只有在這種複製發生後，有絲分裂才能進行。
 
-The first step of cell reproduction is replication (duplication) of all DNA in the chromosomes. It is only after this replication has occurred that mitosis can take place.
+DNA 在有絲分裂前 5 至 10 小時開始複製，複製在 4 至 8 小時內完成。最終結果是所有 DNA 的兩個精確拷貝。這些拷貝成為將在有絲分裂中形成的兩個新子細胞中的 DNA。DNA 複製完成後，在有絲分裂突然開始之前還有 1 至 2 小時的另一段時期。即使在這段時期，導致有絲分裂的初步變化也開始發生。
 
-The DNA begins to be duplicated 5 to 10 hours before mitosis, and the duplication is completed in 4 to 8 hours. The net result is two exact replicas of all DNA. These replicas become the DNA in the two new daughter cells that will be formed at mitosis. After replication of the DNA, there is another period of 1 to 2 hours before mitosis begins abruptly. Even during this period, preliminary changes that will lead to the mitotic process are beginning to take place.
+### DNA 複製
 
-### DNA Replication
+DNA 複製的方式與 RNA 從 DNA 轉錄的方式大致相同，但有幾個重要差異：
 
-DNA is replicated in much the same way that RNA is transcribed from DNA, except for a few important differences:
+1. 每條染色體中的 DNA 兩條鏈都被複製，而非僅一條。
+2. 兩條 DNA 螺旋的整條鏈都是從頭到尾複製，而非像 RNA 轉錄那樣只複製小片段。
+3. 複製 DNA 需要多種稱為 DNA 聚合酶的酶，這與 RNA 聚合酶相當。DNA 聚合酶附著在 DNA 模板鏈上並沿其移動，以 5' 到 3' 的方向添加核苷酸。另一種酶——DNA 連接酶——使用高能磷酸鍵能量，使相繼的 DNA 核苷酸相互連接。
+4. **複製叉形成。** 在 DNA 可以被複製之前，雙股分子必須被「解開」成兩條單鏈（Figure 3-15）。因為每條染色體中的 DNA 螺旋約長 6 厘米，有數百萬個螺旋圈，如果沒有一些特殊機制，兩個新形成的 DNA 螺旋將無法彼此解開。這種解開是由 DNA 解旋酶實現的，它們打破鹼基對之間的氫鍵，使兩條鏈分離成 Y 形，稱為複製叉，這是複製開始的模板區域。DNA 在兩條鏈上都有方向性，由 5' 和 3' 端表示（見 Figure 3-15）。複製只沿 5' 到 3' 方向進行。在複製叉處，一條鏈——前導鏈——以 3' 到 5' 的方向指向複製叉，而落後鏈以 5' 到 3' 的方向遠離複製叉。由於方向不同，兩條鏈的複製方式也不同。
+5. **引子結合。** 一旦 DNA 鏈分開，一段稱為 RNA 引子的短 RNA 片段結合到前導鏈的 3' 端。引子由 DNA 引子酶產生。引子總是作為 DNA 複製的起點。
+6. **延伸。** DNA 聚合酶負責透過稱為延伸的過程創建新鏈。因為複製在前導鏈上沿 5' 到 3' 方向進行，新形成的鏈是連續的。落後鏈透過結合多個引子來開始複製，這些引子僅相隔幾個鹼基。DNA 聚合酶然後在引子之間的鏈上添加稱為岡崎片段的 DNA 片段。這種複製過程是不連續的，因為新形成的岡崎片段尚未連接。一種酶——DNA 連接酶——將岡崎片段連接成一條統一的鏈。
+7. **終止。** 連續鏈和非連續鏈都形成後，外切酶去除原始鏈上的 RNA 引子，並用適當的鹼基替換。另一種外切酶「校對」新形成的 DNA，檢查並剪掉任何不匹配或未配對的鹼基。
 
-1. Both strands of the DNA in each chromosome are replicated, not just one of them.
-2. Both entire strands of the DNA helix are replicated from end to end, rather than small portions of them, as occurs in the transcription of RNA.
-3. Multiple enzymes called DNA polymerase, which is comparable to RNA polymerase, are essential for replicating DNA. DNA polymerase attaches to and moves along the DNA template strand, adding nucleotides in the 5' to 3' direction. Another enzyme, DNA ligase, causes bonding of successive DNA nucleotides to one another, using high-energy phosphate bonds to energize these attachments.
-4. **Replication fork formation.** Before DNA can be replicated, the double-stranded molecule must be "unzipped" into two single strands (Figure 3-15). Because the DNA helixes in each chromosome are approximately 6 centimeters in length and have millions of helical turns, it would be impossible for the two newly formed DNA helixes to uncoil from each other were it not for some special mechanism. This uncoiling is achieved by DNA helicase enzymes that break the hydrogen bonding between the base pairs of the DNA, permitting the two strands to separate into a Y shape known as the replication fork, the area that will be the template for replication to begin. DNA is directional in both strands, signified by a 5' and 3' end (see Figure 3-15). Replication progresses only in the 5' to 3' direction. At the replication fork one strand, the leading strand, is oriented in the 3' to 5' direction, toward the replication fork, while the lagging strand is oriented 5' to 3', away from the replication fork. Because of their different orientations, the two strands are replicated differently.
-5. **Primer binding.** Once the DNA strands have been separated, a short piece of RNA called an RNA primer binds to the 3' end of the leading strand. Primers are generated by the enzyme DNA primase. Primers always bind as the starting point for DNA replication.
-6. **Elongation.** DNA polymerases are responsible for creating the new strand by a process called elongation. Because replication proceeds in the 5' to 3' direction on the leading strand, the newly formed strand is continuous. The lagging strand begins replication by binding with multiple primers that are only several bases apart. DNA polymerase then adds pieces of DNA, called Okazaki fragments, to the strand between primers. This process of replication is discontinuous because the newly created Okazaki fragments are not yet connected. An enzyme, DNA ligase, joins the Okazaki fragments to form a single unified strand.
-7. **Termination.** After the continuous and discontinuous strands are both formed, the enzyme exonuclease removes the RNA primers from the original strands, and the primers are replaced with appropriate bases. Another exonuclease "proofreads" the newly formed DNA, checking and clipping off any mismatched or unpaired residues.
+另一種酶——拓撲異構酶——可以暫時切斷 DNA 鏈骨架中的磷酸二酯鍵，防止複製叉前方的 DNA 過度纏繞。這個反應是可逆的，當拓撲異構酶離開時，磷酸二酯鍵重新形成。
 
-Another enzyme, topoisomerase, can transiently break the phosphodiester bond in the backbone of the DNA strand to prevent the DNA in front of the replication fork from being overwound. This reaction is reversible, and the phosphodiester bond reforms as the topoisomerase leaves.
+一旦完成，父本鏈及其互補 DNA 鏈纏繞成雙螺旋形狀。因此，複製過程產生兩個 DNA 分子，每個都有一條來自父本 DNA 的鏈和一條全新的鏈。因此，DNA 複製常被描述為半保留複製；一半的鏈是原始 DNA 分子的一部分，一半是全新的。
 
-Once completed, the parent strand and its complementary DNA strand coils into the double helix shape. The process of replication therefore produces two DNA molecules, each with one strand from the parent DNA and one new strand. For this reason, DNA replication is often described as semiconservative; half of the chain is part of the original DNA molecule and half is brand new.
+### DNA 修復、DNA「校對」和「突變」
 
-<figure>
-<img src="placeholder.jpg" alt="Stages of cell reproduction">
-<figcaption>Figure 3-14. Stages of cell reproduction. A, B, C, Prophase. D, Prometaphase. E, Metaphase. F, Anaphase. G, H, Telophase.</figcaption>
-</figure>
+在 DNA 複製結束到有絲分裂開始之間的大約一小時或更長時間內，是 DNA 鏈主動修復和「校對」的時期。只要不適當的 DNA 核苷酸與原始模板鏈的核苷酸匹配的地方，特殊酶就會切除缺陷區域並用適當的互補核苷酸替換。這個修復過程，透過與複製中使用的相同的 DNA 聚合酶和 DNA 連接酶實現，稱為 DNA 校對。
 
-<figure>
-<img src="placeholder.jpg" alt="DNA replication">
-<figcaption>Figure 3-15. DNA replication, showing the replication fork and leading and lagging strands of DNA.</figcaption>
-</figure>
+由於修復和校對，在 DNA 複製過程中很少犯錯。當犯錯時，稱為突變。突變可能導致細胞形成一些異常蛋白質而非所需的蛋白質，這可能導致細胞功能異常，有時甚至細胞死亡。考慮到人類基因組中存在數千個基因，以及從人類一代到下一代的時期約為 30 年，在基因組從父母傳遞給後代的過程中，人們預期會有 10 個或更多突變。然而，作為進一步的保護，每個人類基因組由兩套分離的染色體代表，一套來自父親，一套來自母親，基因幾乎完全相同。因此，儘管有突變，每對中的一個功能基因幾乎總是可供孩子使用。
 
-### DNA Repair, DNA "Proofreading," and "Mutation"
+## 染色體及其複製
 
-During the hour or so between DNA replication and the beginning of mitosis, there is a period of active repair and "proofreading" of the DNA strands. Wherever inappropriate DNA nucleotides have been matched up with the nucleotides of the original template strand, special enzymes cut out the defective areas and replace them with appropriate complementary nucleotides. This repair process, which is achieved by the same DNA polymerases and DNA ligases that are used in replication, is referred to as DNA proofreading.
+細胞核中的 DNA 螺旋包裝在染色體中。人類細胞含有 46 條染色體，排列成 23 對。大多數每對兩條染色體中的基因彼此相同或幾乎相同，因此通常說不同的基因也成對存在，儘管偶爾並非如此。
 
-Because of repair and proofreading, mistakes are rarely made in the DNA replication process. When a mistake is made, it is called a mutation. The mutation may cause formation of some abnormal protein in the cell rather than a needed protein, which may lead to abnormal cellular function and sometimes even cell death. Given that many thousands of genes exist in the human genome, and that the period from one human generation to another is about 30 years, one would expect as many as 10 or many more mutations in the passage of the genome from parent to offspring. As a further protection, however, each human genome is represented by two separate sets of chromosomes, one derived from each parent, with almost identical genes. Therefore, one functional gene of each pair is almost always available to the child, despite mutations.
+除 DNA 外，染色體中還有大量蛋白質，主要由帶正電荷的組織蛋白的許多小分子組成。組織蛋白被組織成大量的小線軸狀核心。每條 DNA 螺旋的片段連續纏繞在一個又一個核心上。
 
-## Chromosomes and Their Replication
+組織蛋白核心在 DNA 活性調控中起重要作用，因為只要 DNA 被緊密包裝，它就不能作為形成 RNA 或複製新 DNA 的模板。此外，一些調節蛋白使 DNA 的組織蛋白包裝解壓縮，一次允許一小段形成 RNA。
 
-The DNA helixes of the nucleus are packaged in chromosomes. The human cell contains 46 chromosomes arranged in 23 pairs. Most of the genes in the two chromosomes of each pair are identical or almost identical to each other, so it is usually stated that the different genes also exist in pairs, although occasionally this is not the case.
+幾種非組織蛋白也是染色體的主要成分，作為染色體結構蛋白，以及與遺傳調節機制相關的活化劑、抑制劑和酶。
 
-In addition to DNA, there is a large amount of protein in the chromosome, composed mainly of many small molecules of electropositively charged histones. The histones are organized into vast numbers of small, bobbin-like cores. Small segments of each DNA helix are coiled sequentially around one core after another.
+染色體的完整複製在 DNA 螺旋複製完成後的幾分鐘內進行；新形成的 DNA 螺旋根據需要收集新的蛋白質分子。兩條新形成的染色體在稱為著絲粒的中心點附近保持連接（直到有絲分裂時）。這些複製但仍連接的染色體稱為染色分體。
 
-The histone cores play an important role in regulation of DNA activity because as long as the DNA is packaged tightly, it cannot function as a template for formation of RNA or replication of new DNA. Furthermore, some of the regulatory proteins decondense the histone packaging of the DNA and allow small segments at a time to form RNA.
+## 細胞有絲分裂
 
-Several nonhistone proteins are also major components of chromosomes, functioning as chromosomal structural proteins and, in connection with the genetic regulatory machinery, as activators, inhibitors, and enzymes.
+細胞分裂成兩個新細胞的實際過程稱為有絲分裂。一旦每條染色體被複製形成兩個染色分體，有絲分裂在許多細胞中就會在 1 或 2 小時內自動進行。
 
-Replication of the chromosomes in their entirety occurs during the next few minutes after replication of the DNA helixes has been completed; the new DNA helixes collect new protein molecules as needed. The two newly formed chromosomes remain attached to each other (until time for mitosis) at a point called the centromere located near their center. These duplicated but still attached chromosomes are called chromatids.
+### 有絲分裂器：中心粒的功能
 
-## Cell Mitosis
+有絲分裂最早的事件之一發生在細胞質中，位於間期後期的小結構——中心粒——內或其附近。如 Figure 3-14 所示，兩對中心粒位於細胞核一極附近彼此靠近的地方。這些中心粒與 DNA 和染色體一樣，也在間期複製，通常在 DNA 複製後不久。每個中心粒是一個約 0.4 微米長、直徑約 0.15 微米的小圓柱體，主要由九個平行管狀結構組成，排列成圓柱形。每對的兩個中心粒彼此成直角排列。每對中心粒與周圍中心粒物質一起稱為中心體。
 
-The actual process whereby the cell splits into two new cells is called mitosis. Once each chromosome has been replicated to form the two chromatids, mitosis follows automatically within 1 or 2 hours in many cells.
+有絲分裂前不久，兩對中心粒開始彼此分開。這種運動是由在相應中心粒對之間生長並實際推動它們分開的蛋白質微管聚合引起的。同時，其他微管從每對中心粒徑向生長，形成稱為星狀體的刺狀星，在細胞兩端。星狀體的一些刺穿透核膜，幫助有絲分裂期間分離兩套染色分體。在兩個新中心粒對之間延伸的微管複合體稱為紡錘體，整套微管加上兩對中心粒稱為有絲分裂器。
 
-### Mitotic Apparatus: Function of the Centrioles
+### 前期
 
-One of the first events of mitosis takes place in the cytoplasm in or around the small structures called centrioles during the latter part of interphase. As shown in Figure 3-14, two pairs of centrioles lie close to each other near one pole of the nucleus. These centrioles, like the DNA and chromosomes, are also replicated during interphase, usually shortly before replication of the DNA. Each centriole is a small cylindrical body about 0.4 micrometer long and about 0.15 micrometer in diameter, consisting mainly of nine parallel tubular structures arranged in the form of a cylinder. The two centrioles of each pair lie at right angles to each other. Each pair of centrioles, along with attached pericentriolar material, is called a centrosome.
+有絲分裂的第一階段，稱為前期，如 Figure 3-14 A、B 和 C 所示。當紡錘體形成時，細胞核的染色體（在間期由鬆散纏繞的鏈組成）濃縮成定義明確的染色體。
 
-Shortly before mitosis takes place, the two pairs of centrioles begin to move apart from each other. This movement is caused by polymerization of protein microtubules growing between the respective centriole pairs and actually pushing them apart. At the same time, other microtubules grow radially away from each of the centriole pairs, forming a spiny star called the aster, in each end of the cell. Some of the spines of the aster penetrate the nuclear membrane and help separate the two sets of chromatids during mitosis. The complex of microtubules extending between the two new centriole pairs is called the spindle, and the entire set of microtubules plus the two pairs of centrioles is called the mitotic apparatus.
+### 前期中期
 
-### Prophase
+在前期中期階段（見 Figure 3-14D），正在生長的星狀體微管刺使核膜碎片。同時，來自星狀體的多個微管附著到仍相互連接的染色分體的著絲粒上。然後微管將每對中的一個染色分體拉向一個細胞極，其配對物拉向另一個極。
 
-The first stage of mitosis, called prophase, is shown in Figure 3-14 A, B, and C. While the spindle is forming, the chromosomes of the nucleus (which in interphase consist of loosely coiled strands) become condensed into well-defined chromosomes.
+### 中期
 
-### Prometaphase
+在中期階段（見 Figure 3-14E），有絲分裂器的兩個星狀體被進一步推開。這種推動被認為是因為來自兩個星狀體的微管刺在它們交織在一起形成有絲分裂紡錘體的地方相互推開。同時，染色分體被它們附著的微管緊緊拉向細胞正中心，排列成有絲分裂紡錘體的赤道板。
 
-During the prometaphase stage (see Figure 3-14D), the growing microtubular spines of the aster fragment the nuclear envelope. At the same time, multiple microtubules from the aster attach to the chromatids at the centromeres, where the paired chromatids are still bound to each other. The tubules then pull one chromatid of each pair toward one cellular pole and its partner toward the opposite pole.
+### 後期
 
-### Metaphase
+在後期階段（見 Figure 3-14F），每條染色體的兩個染色分體在著絲粒處被分開。所有 46 對染色分體被分開，形成兩套獨立的 46 條子代染色體。一套被拉向一個有絲分裂星狀體，另一套被拉向另一個極，同時分裂細胞的兩個相應極被進一步推開。
 
-During the metaphase stage (see Figure 3-14E), the two asters of the mitotic apparatus are pushed farther apart. This pushing is believed to occur because the microtubular spines from the two asters, where they interdigitate with each other to form the mitotic spindle, push each other away. Minute contractile protein molecules called "molecular motors," which may be composed of the muscle protein actin, extend between the respective spines and, using a stepping action as in muscle, actively slide the spines in a reverse direction along each other. Simultaneously, the chromatids are pulled tightly by their attached microtubules to the very center of the cell, lining up to form the equatorial plate of the mitotic spindle.
+### 末期
 
-### Anaphase
+在末期階段（見 Figure 3-14G 和 H），兩套子代染色體被完全推開。然後有絲分裂器消散，每套染色體周圍形成新的核膜。這個膜由細胞質中已存在的內質網部分形成。隨後，細胞在兩個新形成的細胞核之間的中間點收縮。這種收縮是由在正在發育的新細胞交界處形成的由肌動蛋白和可能是肌球蛋白（肌肉的兩種收縮蛋白）組成的收縮微絲環引起的，將它們彼此掐開。
 
-During the anaphase stage (see Figure 3-14F), the two chromatids of each chromosome are pulled apart at the centromere. All 46 pairs of chromatids are separated, forming two separate sets of 46 daughter chromosomes. One of these sets is pulled toward one mitotic aster, and the other is pulled toward the other aster, as the two respective poles of the dividing cell are pushed still farther apart.
+## 細胞生長和細胞增殖的控制
 
-### Telophase
+有些細胞一直在生長和增殖，如骨髓的造血細胞、皮膚的生殖層和腸道上皮。然而，其他許多細胞（如平滑肌細胞）可能在許多年內都不增殖。少數細胞，如神經元和大多數骨骼肌細胞，在人的整個生命過程中都不增殖，除了胎兒期的原始時期。
 
-In the telophase stage (see Figure 3-14G and H), the two sets of daughter chromosomes are pushed completely apart. Then, the mitotic apparatus dissipates, and a new nuclear membrane develops around each set of chromosomes. This membrane is formed from portions of the endoplasmic reticulum that are already present in the cytoplasm. Shortly thereafter, the cell pinches in two, midway between the two nuclei. This pinching is caused by the formation of a contractile ring of microfilaments composed of actin and probably myosin (the two contractile proteins of muscle) at the juncture of the newly developing cells that pinches them off from each other.
+在某些組織中，某些類型細胞的不足會導致它們快速生長和增殖，直到這些細胞的適當數量再次出現。例如，在某些年輕動物中，四分之三的肝臟可以通過手術切除，剩下的八分之一細胞將生長和分裂，直到肝臟質量恢復到幾乎正常。在許多腺細胞、骨髓細胞、子宮組織、腸道上皮和除高度分化細胞（如神經和肌肉細胞）外的幾乎任何其他組織中都會發生同樣的現象。
 
-## Control of Cell Growth and Cell Reproduction
+維持身體中不同類型細胞適當數量的機制仍然知之甚少。然而，實驗表明至少有三種生長控制方式。首先，生長常受來自身體其他部位的生長因子控制。其中一些生長因子在血液中循環，但其他起源於相鄰組織。例如，某些腺體（如胰腺）的上皮細胞如果沒有來自腺體下層結締組織的生長因子就不會生長。其次，大多數正常細胞在生長空間耗盡時停止生長。當細胞在組織培養中生長時會出現這種現象；細胞生長直到接觸固體物體，然後生長停止。第三，在組織培養中生長的細胞當允許它們自己的分泌物少量積累在培養基中時經常停止生長。這種機制也可以提供負反饋控制生長的一種手段。
 
-Some cells grow and reproduce all the time, such as the blood-forming cells of the bone marrow, the germinal layers of the skin, and the epithelium of the gut. Many other cells, however, such as smooth muscle cells, may not reproduce for many years. A few cells, such as the neurons and most striated muscle cells, do not reproduce during the entire life of a person, except during the original period of fetal life.
+### 端粒防止染色體降解
 
-In certain tissues, an insufficiency of some types of cells causes them to grow and reproduce rapidly until appropriate numbers of these cells are again available. For example, in some young animals, seven-eighths of the liver can be removed surgically, and the cells of the remaining one-eighth will grow and divide until the liver mass returns to almost normal. The same phenomenon occurs for many glandular cells and most cells of the bone marrow, subcutaneous tissue, intestinal epithelium, and almost any other tissue except highly differentiated cells such as nerve and muscle cells.
+端粒是位於每條染色分體末端的重複核苷酸序列區域（Figure 3-16）。端粒作為保護性帽，防止染色體在細胞分裂過程中惡化。在細胞分裂期間，一段短「引子」RNA 附著到 DNA 鏈上開始複製。然而，因為引子不是附著在 DNA 鏈的最末端，拷貝缺少一小段 DNA。每當細胞分裂，拷貝的 DNA 從端粒區域丟失額外的核苷酸。因此，端粒提供的核苷酸序列可防止基因組在每次細胞分裂時逐漸丟失信息並被截斷。因此，端粒可以被視為一次性染色體緩衝器，幫助維持基因穩定性，但在重複細胞分裂過程中逐漸消耗。
 
-The mechanisms that maintain proper numbers of the different types of cells in the body are still poorly understood. However, experiments have shown at least three ways in which growth can be controlled. First, growth often is controlled by growth factors that come from other parts of the body. Some of these growth factors circulate in the blood, but others originate in adjacent tissues. For example, the epithelial cells of some glands, such as the pancreas, fail to grow without a growth factor from the underlying connective tissue of the gland. Second, most normal cells stop growing when they have run out of space for growth. This phenomenon occurs when cells are grown in tissue culture; the cells grow until they contact a solid object, and then growth stops. Third, cells grown in tissue culture often stop growing when minute amounts of their own secretions are allowed to collect in the culture medium. This mechanism, too, could provide a means for negative feedback control of growth.
+每次細胞分裂，平均每人損失其細胞端粒末端的 30 至 200 個鹼基。在人類血細胞中，端粒長度從出生時的 8000 個鹼基對到老年人的低至 1500 不等。最終，當端粒縮短到臨界長度時，染色體變得不穩定，細胞死亡。這種端粒縮短的過程被認為是與衰老相關的一些生理變化的重要原因。端粒侵蝕也可能作為疾病的結果發生，尤其是與氧化應激和炎症相關的疾病。
 
-### Telomeres Prevent the Degradation of Chromosomes
+在一些細胞中，如必須終生補充的骨髓或皮膚的幹細胞，或卵巢和睪丸中的生殖細胞，端粒酶在端粒末端添加鹼基，使更多代細胞得以產生。然而，端粒酶活性在大多數身體細胞中通常較低，許多代後，子代細胞將遺傳有缺陷的染色體，變得衰老並停止分裂。這種端粒縮短的過程在調節細胞增殖和維持基因穩定性方面很重要。在癌細胞中，端粒酶活性異常活化，使端粒長度得以維持，使細胞能夠一遍又一遍地不受控制地複製（見 Figure 3-16）。因此，一些科學家提出端粒縮短保護我們免受癌症和其他增殖性疾病的侵害。
 
-A telomere is a region of repetitive nucleotide sequences located at each end of a chromatid (Figure 3-16). Telomeres serve as protective caps that prevent the chromosome from deterioration during cell division. During cell division, a short piece of "primer" RNA attaches to the DNA strand to start the replication. However, because the primer does not attach at the very end of the DNA strand, the copy is missing a small section of the DNA. With each cell division, the copied DNA loses additional nucleotides from the telomere region. The nucleotide sequences provided by the telomeres therefore prevent the degradation of genes near the ends of chromosomes. Without telomeres, the genomes would progressively lose information and be truncated after each cell division. Thus, the telomeres can be considered to be disposable chromosomal buffers that help maintain stability of the genes but are gradually consumed during repeated cell divisions.
+### 細胞大小的調節
 
-<figure>
-<img src="placeholder.jpg" alt="Telomeres and telomerase">
-<figcaption>Figure 3-16. Control of cell replication by telomeres and telomerase. The cells' chromosomes are capped by telomeres, which, in the absence of telomerase activity, shorten with each cell division until the cell stops replicating. Therefore, most cells of the body cannot replicate indefinitely. In cancer cells, telomerase is activated, and telomere length is maintained so that the cells continue to replicate themselves uncontrollably.</figcaption>
-</figure>
+細胞大小幾乎完全由細胞核中起作用 DNA 的量決定。如果 DNA 複製不發生，細胞生長到一定大小後就保持該大小。相反，秋水仙素的使用可以阻止有絲分裂紡錘體的形成，從而阻止有絲分裂，即使 DNA 複製繼續進行。在這種情況下，細胞核含有的 DNA 量遠超正常量，細胞按比例變得更大。這種細胞生長被認為是由增加的 RNA 和細胞蛋白質產生引起的，進而導致細胞變大。
 
-Each time a cell divides, an average person loses 30 to 200 base pairs from the ends of that cell's telomeres. In human blood cells, the length of telomeres ranges from 8000 base pairs at birth to as low as 1500 in older people. Eventually, when the telomeres shorten to a critical length, the chromosomes become unstable, and the cells die. This process of telomere shortening is believed to be an important reason for some of the physiological changes associated with aging. Telomere erosion can also occur as a result of diseases, especially those associated with oxidative stress and inflammation.
+## 細胞分化
 
-In some cells, such as stem cells of the bone marrow or skin that must be replenished throughout life, or germ cells in the ovaries and testes, the enzyme telomerase adds bases to the ends of the telomeres so that many more generations of cells can be produced. However, telomerase activity is usually low in most cells of the body, and after many generations the descendent cells will inherit defective chromosomes, become senescent, and cease dividing. This process of telomere shortening is important in regulating cell proliferation and maintaining gene stability. In cancer cells, telomerase activity is abnormally activated so that telomere length is maintained, making it possible for the cells to replicate over and over again uncontrollably (see Figure 3-16). Some scientists have therefore proposed that telomere shortening protects us from cancer and other proliferative diseases.
+細胞生長和細胞分裂的一個特殊特徵是細胞分化，指的是當細胞在胚胎中增殖形成不同身體結構和器官時，細胞的物理和功能特性的變化。以下描述的一個特別有趣的實驗有助於解釋這些過程。
 
-### Regulation of Cell Size
+當青蛙腸黏膜細胞的細胞核被手術移植到去除了原始卵核的青蛙卵中時，結果通常是形成一隻正常青蛙。這個實驗表明，即使是完全分化的腸黏膜細胞，也攜帶著發育青蛙身體所需的所有結構的所有必要的遺傳信息。
 
-Cell size is determined almost entirely by the amount of functioning DNA in the nucleus. If replication of the DNA does not occur, the cell grows to a certain size and thereafter remains at that size. Conversely, use of the chemical colchicine makes it possible to prevent formation of the mitotic spindle and therefore prevent mitosis, even though replication of the DNA continues. In this event, the nucleus contains far greater quantities of DNA than it normally does, and the cell grows proportionately larger. It is assumed that this cell growth results from increased production of RNA and cell proteins, which, in turn, cause the cell to grow larger.
+因此，已經明確的是，分化不是基因丟失的結果，而是不同基因啟動子選擇性抑制的結果。實際上，電子顯微鏡照片表明，纏繞在組織蛋白核心上的某些 DNA 螺旋片段變得如此緊密，以至於它們不再展開形成 RNA 分子。一種解釋如下：已經假定細胞基因組在細胞分化的一定階段開始產生一種調節蛋白，從那時起永久抑制一組選定的基因。因此，被抑制的基因再也無法運作。無論機制如何，成熟的人類細胞每個最多產生約 8000 至 10,000 種蛋白質，而非如果所有基因都有活性會產生的潛在 20,000 至 25,000 或更多種蛋白質。
 
-## Cell Differentiation
+胚胎學實驗表明，胚胎中的某些細胞控制相鄰細胞的分化。例如，原始脊索中胚層被稱為胚胎的主要組織者，因為它形成了一個焦點，胚胎的其餘部分在此焦點周圍發育。它分化成包含節段排列的體節的中胚層軸，並作為對周圍組織誘導的結果，導致身體幾乎所有器官的形成。
 
-A special characteristic of cell growth and cell division is cell differentiation, which refers to changes in the physical and functional properties of cells as they proliferate in the embryo to form the different body structures and organs. The following description of an especially interesting experiment helps explain these processes.
+另一個誘導的例子是當發育中的眼囊與頭部外胚層接觸時，導致外胚層變厚成晶狀體板，晶狀體板向內折疊形成眼睛的晶狀體。因此，胚胎的大部分發育是作為此類誘導的結果，身體的一部分影響另一部分，這一部分又影響其他部分。
 
-When the nucleus from an intestinal mucosal cell of a frog is surgically implanted into a frog ovum from which the original ovum nucleus was removed, the result is often the formation of a normal frog. This experiment demonstrates that even the intestinal mucosal cell, which is a well-differentiated cell, carries all the necessary genetic information for development of all structures required in the frog's body.
+因此，儘管我們對細胞分化的理解仍然模糊，但我們意識到分化可能發生的許多控制機制。
 
-Therefore, it has become clear that differentiation results not from loss of genes but from selective repression of different gene promoters. In fact, electron micrographs suggest that some segments of DNA helixes that are wound around histone cores become so condensed that they no longer uncoil to form RNA molecules. One explanation for this is as follows. It has been supposed that the cellular genome begins at a certain stage of cell differentiation to produce a regulatory protein that forever after represses a select group of genes. Therefore, the repressed genes never function again. Regardless of the mechanism, mature human cells each produce a maximum of about 8000 to 10,000 proteins rather than the potential 20,000 to 25,000 or more that would be produced if all genes were active.
+## 細胞凋亡——程序性細胞死亡
 
-Embryological experiments have shown that certain cells in an embryo control differentiation of adjacent cells. For example, the primordial chordamesoderm is called the primary organizer of the embryo because it forms a focus around which the remainder of the embryo develops. It differentiates into a mesodermal axis that contains segmentally arranged somites and, as a result of inductions in the surrounding tissues, causes the formation of essentially all the organs of the body.
+ programmed cell death，是維持組織中細胞數量平衡的受控過程。與細胞因創傷或疾病而發生的被動性壞死不同，細胞凋亡是細胞主動破壞自己的過程。這個術語源自希臘語，表示「從樹上落下」，就像秋葉凋落一般。
 
-Another instance of induction occurs when the developing eye vesicles come into contact with the ectoderm of the head and cause the ectoderm to thicken into a lens plate that folds inward to form the lens of the eye. Therefore, a large share of the embryo develops as a result of such inductions, with one part of the body affecting another part, and this part affecting still other parts.
+在正常組織中，細胞凋亡與細胞增殖保持動態平衡。例如，在胚胎發育期間，手指和腳趾之間的細胞透過細胞凋亡被消除，形成分开的附肢。成年人的腸道上皮也不斷更新，衰老和受損的細胞透過細胞凋亡被清除，同時由幹細胞增殖補充。
 
-Thus, although our understanding of cell differentiation is still hazy, we are aware of many control mechanisms whereby differentiation could occur.
+細胞凋亡的特徵包括：細胞收縮、染色質濃縮、DNA 片段化，以及最終形成膜包圍的凋亡小體，被相鄰細胞或巨噬細胞迅速吞噬。由於凋亡小體在被吞噬前不會釋放其內容物，因此這種死亡形式不會引起周圍組織的炎症反應——這是與壞死的主要區別之一。
 
-## Apoptosis—Programmed Cell Death
+分子層面上，細胞凋亡可透過兩條主要途徑啟動：外在途徑（由死亡受體如 Fas 觸發）和內在途徑（由細胞內壓力信號如 DNA 損傷、氧化應激或去除生長因子觸發）。兩條途徑最終都會激活 caspase 級聯反應，一系列 caspase 蛋白酶連續激活，最終導致細胞結構和遺傳物質的受控降解。
 
-The many trillions of the body's cells are members of a highly organized community in which the total number of cells is regulated not only by controlling the rate of cell division, but also by controlling the rate of cell death. When cells are no longer needed or become a threat to the organism, they undergo a suicidal programmed cell death, or apoptosis. This process involves a specific proteolytic cascade that causes the cell to shrink and condense, disassemble its cytoskeleton, and alter its cell surface so that a neighboring phagocytic cell, such as a macrophage, can attach to the cell membrane and digest the cell.
-
-In contrast to programmed death, cells that die as a result of an acute injury usually swell and burst due to loss of cell membrane integrity, a process called cell necrosis. Necrotic cells may spill their contents, causing inflammation and injury to neighboring cells. Apoptosis, however, is an orderly cell death that results in disassembly and phagocytosis of the cell before any leakage of its contents occurs, and neighboring cells usually remain healthy.
-
-Apoptosis is initiated by activation of a family of proteases called caspases, which are enzymes that are synthesized and stored in the cell as inactive procaspases. The mechanisms of activation of caspases are complex but, once activated, the enzymes cleave and activate other procaspases, triggering a cascade that rapidly breaks down proteins within the cell. The cell thus dismantles itself, and its remains are rapidly digested by neighboring phagocytic cells.
-
-A tremendous amount of apoptosis occurs in tissues that are being remodeled during development. Even in adult humans, billions of cells die each hour in tissues such as the intestine and bone marrow and are replaced by new cells. Programmed cell death, however, is normally balanced by formation of new cells in healthy adults. Otherwise, the body's tissues would shrink or grow excessively. Abnormalities of apoptosis may play a key role in neurodegenerative diseases such as Alzheimer disease, as well as in cancer and autoimmune disorders. Some drugs that have been used successfully for chemotherapy appear to induce apoptosis in cancer cells.
-
-## Cancer
-
-Cancer may be caused by mutation or by some other abnormal activation of cellular genes that control cell growth and cell mitosis. Proto-oncogenes are normal genes that code for various proteins that control cell adhesion, growth and division. If mutated or excessively activated, proto-oncogenes can become abnormally functioning oncogenes capable of causing cancer. As many as 100 different oncogenes have been discovered in human cancers.
-
-Also present in all cells are antioncogenes, also called tumor suppressor genes, which suppress the activation of specific oncogenes. Therefore, loss or inactivation of antioncogenes can allow activation of oncogenes that lead to cancer.
-
-For several reasons, only a minute fraction of the cells that mutate in the body ever lead to cancer:
-
-- **First**, most mutated cells have less survival capability than normal cells, and they simply die.
-- **Second**, only a few of the mutated cells that survive become cancerous because most mutated cells still have normal feedback controls that prevent excessive growth.
-- **Third**, cells that are potentially cancerous are often destroyed by the body's immune system before they grow into a cancer. Most mutated cells form abnormal proteins within their cell bodies because of their altered genes, and these proteins activate the body's immune system, causing it to form antibodies or sensitized lymphocytes that react against the cancerous cells, destroying them. In people whose immune systems have been suppressed, such as in persons taking immunosuppressant drugs after kidney or heart transplantation, the probability that a cancer will develop is multiplied as much as fivefold.
-- **Fourth**, the simultaneous presence of several different activated oncogenes is usually required to cause a cancer. For example, one such gene might promote rapid reproduction of a cell line, but no cancer occurs because another mutant gene is not present simultaneously to form the needed blood vessels.
-
-What is it that causes the altered genes? Considering that many trillions of new cells are formed each year in humans, a better question might be to ask why all of us do not develop millions or billions of mutant cancerous cells. The answer is the incredible precision with which DNA chromosomal strands are replicated in each cell before mitosis can take place, along with the proofreading process that cuts and repairs any abnormal DNA strand before the mitotic process is allowed to proceed. Yet, despite these inherited cellular precautions, probably one newly formed cell in every few million still has significant mutant characteristics.
-
-Thus, chance alone is all that is required for mutations to take place, so we can suppose that a large number of cancers are merely the result of an unlucky occurrence. However, the probability of mutations can be greatly increased when a person is exposed to certain chemical, physical, or biological factors, including the following:
-
-1. **Ionizing radiation**, such as x-rays, gamma rays, particle radiation from radioactive substances, and even ultraviolet light, can predispose individuals to cancer. Ions formed in tissue cells under the influence of such radiation are highly reactive and can rupture DNA strands, causing many mutations.
-2. **Chemical substances** of certain types may also cause mutations. It was discovered long ago that various aniline dye derivatives are likely to cause cancer, and thus workers in chemical plants producing such substances, if unprotected, have a special predisposition to cancer. Chemical substances that can cause mutation are called carcinogens. The carcinogens that currently cause the greatest number of deaths are those in cigarette smoke. These carcinogens cause over 30% of all cancer deaths and at least 85% of lung cancer deaths.
-3. **Physical irritants** can also lead to cancer, such as continued abrasion of the linings of the intestinal tract by some types of food. The damage to the tissues leads to rapid mitotic replacement of the cells; the more rapid the mitosis, the greater the chance for mutation.
-4. **Hereditary tendency to cancer** occurs in some families. This hereditary tendency results from the fact that most cancers require not one mutation but two or more mutations before cancer occurs. In families that are particularly predisposed to cancer, it is presumed that one or more cancerous genes are already mutated in the inherited genome. Therefore, far fewer additional mutations must take place in such family members before a cancer begins to grow.
-5. **Certain types of oncoviruses** can cause various types of cancer. Some examples of viruses associated with cancers in humans include human papilloma virus (HPV), hepatitis B and hepatitis C virus, Epstein-Barr virus, human immunodeficiency virus (HIV), human T-cell leukemia virus, Kaposi sarcoma–associated herpes virus (KSHV), and Merkel cell polyomavirus. Although the mechanisms whereby oncoviruses cause cancer are not fully understood, there are at least two potential ways. In the case of DNA viruses, the DNA strand of the virus can insert itself directly into one of the chromosomes, thereby causing a mutation that leads to cancer. In the case of RNA viruses, some of these viruses carry with them an enzyme called reverse transcriptase that causes DNA to be transcribed from the RNA. The transcribed DNA then inserts itself into the animal cell genome, leading to cancer.
-
-### Invasive Characteristic of the Cancer Cell
-
-The major differences between a cancer cell and a normal cell are as follows:
-
-1. The cancer cell does not respect usual cellular growth limits because these cells presumably do not require all the same growth factors that are necessary to cause growth of normal cells.
-2. Cancer cells are often far less adhesive to one another than are normal cells. Therefore, they tend to wander through the tissues, enter the blood stream, and be transported all through the body, where they form nidi for numerous new cancerous growths.
-3. Some cancers also produce angiogenic factors that cause many new blood vessels to grow into the cancer, thus supplying the nutrients required for cancer growth.
-
-### Why Do Cancer Cells Kill?
-
-Cancer tissue competes with normal tissues for nutrients. Because cancer cells continue to proliferate indefinitely, with their numbers multiplying every day, cancer cells soon demand essentially all the nutrition available to the body or to an essential part of the body. As a result, normal tissues gradually sustain nutritive death.
-
-Some cancers cause disruption of vital organ functions. For example, a lung cancer might replace healthy tissue to the extent that the lungs cannot absorb enough oxygen to maintain tissues in the rest of the body.
-
-## Bibliography
-
-Alberts B, Johnson A, Lewis J, et al: Molecular Biology of the Cell, 6th ed. New York: Garland Science 2014.
-
-Armanios M: Telomeres and age-related disease: how telomere biology informs clinical paradigms. J Clin Invest 123:996, 2013.
-
-Bickmore WA, van Steensel B: Genome architecture: domain organization of interphase chromosomes. Cell 152:1270, 2013.
-
-Calcinotto A, Kohli J, Zagato E, Pellegrini L, Demaria M, Alimonti A: Cellular senescence: aging, cancer, and injury. Physiol Rev 99:1047-1078, 2019.
-
-Clift D, Schuh M: Restarting life: fertilization and the transition from meiosis to mitosis. Nat Rev Mol Cell Biol 14:549, 2013.
-
-Coppola CJ, C Ramaker R, Mendenhall EM: Identification and function of enhancers in the human genome. Hum Mol Genet 25(R2):R190-R197, 2016.
-
-Feinberg AP: The key role of epigenetics in human disease prevention and mitigation. N Engl J Med 378:1323-1334, 2018.
-
-Fyodorov DV, Zhou BR, Skoultchi AI, Bai Y: Emerging roles of linker histones in regulating chromatin structure and function. Nat Rev Mol Cell Biol 19:192-206, 2018.
-
-Haberle V, Stark A: Eukaryotic core promoters and the functional basis of transcription initiation. Nat Rev Mol Cell Biol 19:621-637, 2018.
-
-Kaushik S, Cuervo AM: The coming of age of chaperone-mediated autophagy. Nat Rev Mol Cell Biol 19:365-381, 2018.
-
-Krump NA, You J: Molecular mechanisms of viral oncogenesis in humans. Nat Rev Microbiol 16:684-698, 2018.
-
-Leidal AM, Levine B, Debnath J: Autophagy and the cell biology of age-related disease. Nat Cell Biol 20:1338-1348, 2018.
-
-Maciejowski J, de Lange T: Telomeres in cancer: tumour suppression and genome instability. Nat Rev Mol Cell Biol 18:175-186, 2017.
-
-McKinley KL, Cheeseman IM: The molecular basis for centromere identity and function. Nat Rev Mol Cell Biol 17:16-29, 2016.
-
-Monk D, Mackay DJG, Eggermann T, Maher ER, Riccio A: Genomic imprinting disorders: lessons on how genome, epigenome and environment interact. Nat Rev Genet 10:235, 2019.
-
-Müller S, Almouzni G: Chromatin dynamics during the cell cycle at centromeres. Nat Rev Genet 18:192-208, 2017.
-
-Nigg EA, Holland AJ: Once and only once: mechanisms of centriole duplication and their deregulation in disease. Nat Rev Mol Cell Biol 19:297-312, 2018.
-
-Palozola KC, Lerner J, Zaret KS: A changing paradigm of transcriptional memory propagation through mitosis. Nat Rev Mol Cell Biol 20:55-64, 2019.
-
-Perez MF, Lehner B: Intergenerational and transgenerational epigenetic inheritance in animals. Nat Cell Biol 21:143, 2019.
-
-Prosser SL, Pelletier L: Mitotic spindle assembly in animal cells: a fine balancing act. Nat Rev Mol Cell Biol 18:187-201, 2017.
-
-Schmid M, Jensen TH. Controlling nuclear RNA levels. Nat Rev Genet 19:518-529, 2018.
-
-Treiber T, Treiber N, Meister G: Regulation of microRNA biogenesis and its crosstalk with other cellular pathways. Nat Rev Mol Cell Biol 20:5-20, 2019.
-
----
-
-UNIT II
-
-Figure 4-1 lists the approximate concentrations of important electrolytes and other substances in the extracellular fluid and intracellular fluid. Note that the extracellular fluid contains a large amount of sodium but only a small amount of potassium. The opposite is true of the intracellular fluid. Also, the extracellular fluid contains a large amount of chloride ions, whereas the intracellular fluid contains very little of these ions. However, the concentrations of phosphates and proteins in the intracellular fluid are considerably greater than those in the extracellular fluid. These differences are extremely important to the life of the cell. The purpose of this chapter is to explain how the differences are brought about by the cell membrane transport mechanisms.
-
-## The Cell Membrane Is a Lipid Bilayer With Cell Membrane Transport Proteins
-
-The structure of the membrane covering the outside of every cell of the body is discussed in Chapter 2 and illustrated in Figure 2-3 and Figure 4-2. This membrane consists almost entirely of a lipid bilayer with large numbers of protein molecules in the lipid, many of which penetrate all the way through the membrane.
-
-The lipid bilayer is not miscible with the extracellular fluid or the intracellular fluid. Therefore, it constitutes a barrier against movement of water molecules and water-soluble substances between the extracellular and intracellular fluid compartments. However, as shown in Figure 4-2 by the leftmost arrow, lipid-soluble substances can diffuse directly through the lipid substance.
-
-The membrane protein molecules interrupt the continuity of the lipid bilayer, constituting an alternative pathway through the cell membrane. Many of these penetrating proteins can function as transport proteins. Some proteins have watery spaces all the way through the molecule and allow free movement of water, as well as selected ions or molecules; these proteins are called channel proteins. Other proteins, called carrier proteins, bind with molecules or ions that are to be transported, and conformational changes in the protein molecules then move the substances through the interstices of the protein to the other side of the membrane. Channel proteins and carrier proteins are usually selective for the types of molecules or ions that are allowed to cross the membrane.
-
-<figure>
-<figcaption>Figure 4-1. Chemical compositions of extracellular and intracellular fluids. The question marks indicate that the precise values for intracellular fluid are unknown. The red line indicates the cell membrane.</figcaption>
-
-| Substance | Extracellular Fluid | Intracellular Fluid |
-|-----------|---------------------|---------------------|
-| Na⁺ | 142 mEq/L | 10 mEq/L |
-| K⁺ | 4 mEq/L | 140 mEq/L |
-| Ca²⁺ | 2.4 mEq/L | 0.0001 mEq/L |
-| Mg²⁺ | 1.2 mEq/L | 58 mEq/L |
-| Cl⁻ | 103 mEq/L | 4 mEq/L |
-| HCO₃⁻ | 24 mEq/L | 10 mEq/L |
-| Phosphates | 4 mEq/L | 75 mEq/L |
-| SO₄²⁻ | 1 mEq/L | 2 mEq/L |
-| Glucose | 90 mg/dl | 0-20 mg/dl |
-| Amino acids | 30 mg/dl | 200 mg/dl (?) |
-| Cholesterol | 0.5 g/dl | 2-95 g/dl |
-| Phospholipids | — | — |
-| Neutral fat | — | — |
-| PO₂ | 35 mm Hg | 20 mm Hg (?) |
-| PCO₂ | 46 mm Hg | 50 mm Hg (?) |
-| pH | 7.4 | 7.0 |
-| Proteins | 2 g/dl | 16 g/dl (40 mEq/L) |
-
-</figure>
-
-<figure>
-<img src="placeholder.jpg" alt="Transport pathways">
-<figcaption>Figure 4-2. Transport pathways through the cell membrane and the basic mechanisms of transport.</figcaption>
-</figure>
-
-### "Diffusion" Versus "Active Transport"
-
-Transport through the cell membrane, either directly through the lipid bilayer or through the proteins, occurs via one of two basic processes, diffusion or active transport.
-
-Although many variations of these basic mechanisms exist, diffusion means random molecular movement of substances molecule by molecule, either through intermolecular spaces in the membrane or in combination with a carrier protein. The energy that causes diffusion is the energy of the normal kinetic motion of matter.
-
-In contrast, active transport means movement of ions or other substances across the membrane in combination with a carrier protein in such a way that the carrier protein causes the substance to move against an energy gradient, such as from a low-concentration state to a high-concentration state. This movement requires an additional source of energy besides kinetic energy. A more detailed explanation of the basic physics and physical chemistry of these two processes is provided later in this chapter.
-
-## Diffusion
-
-All molecules and ions in the body fluids, including water molecules and dissolved substances, are in constant motion, with each particle moving in its separate way. The motion of these particles is what physicists call "heat"—the greater the motion, the higher the temperature—and the motion never ceases, except at absolute zero temperature. When a moving molecule, A, approaches a stationary molecule, B, the electrostatic and other nuclear forces of molecule A repel molecule B, transferring some of the energy of motion of molecule A to molecule B. Consequently, molecule B gains kinetic energy of motion, whereas molecule A slows down, losing some of its kinetic energy. As shown in Figure 4-3, a single molecule in a solution bounces among the other molecules—first in one direction, then another, then another, and so forth—randomly bouncing thousands of times each second. This continual movement of molecules among one another in liquids or gases is called diffusion.
-
-Ions diffuse in the same manner as whole molecules, and even suspended colloid particles diffuse in a similar manner, except that the colloids diffuse far less rapidly than molecular substances because of their large size.
-
-## Diffusion Through the Cell Membrane
-
-Diffusion through the cell membrane is divided into two subtypes, called simple diffusion and facilitated diffusion. Simple diffusion means that kinetic movement of molecules or ions occurs through a membrane opening or through intermolecular spaces without interaction with carrier proteins in the membrane. The rate of diffusion is determined by the amount of substance available, the velocity of kinetic motion, and the number and sizes of openings in the membrane through which the molecules or ions can move.
-
-Facilitated diffusion requires interaction of a carrier protein. The carrier protein aids passage of molecules or ions through the membrane by binding chemically with them and shuttling them through the membrane in this form.
-
-Simple diffusion can occur through the cell membrane by two pathways:
-
-1. Through the interstices of the lipid bilayer if the diffusing substance is lipid-soluble.
-2. Through watery channels that penetrate all the way through some of the large transport proteins, as shown to the left in Figure 4-2.
-
-### Diffusion of Lipid-Soluble Substances Through the Lipid Bilayer
-
-The lipid solubility of a substance is an important factor for determining how rapidly it diffuses through the lipid bilayer. For example, the lipid solubilities of oxygen, nitrogen, carbon dioxide, and alcohols are high, and all these substances can dissolve directly in the lipid bilayer and diffuse through the cell membrane in the same manner that diffusion of water solutes occurs in a watery solution. The rate of diffusion of each of these substances through the membrane is directly proportional to its lipid solubility. Especially large amounts of oxygen can be transported in this way; therefore, oxygen can be delivered to the interior of the cell almost as though the cell membrane did not exist.
-
-### Diffusion of Water and Other Lipid-Insoluble Molecules Through Protein Channels
-
-Even though water is highly insoluble in the membrane lipids, it readily passes through channels in protein molecules that penetrate all the way through the membrane. Many of the body's cell membranes contain protein "pores" called aquaporins that selectively permit rapid passage of water through the membrane. The aquaporins are highly specialized, and there are at least 13 different types in various cells of mammals.
-
-The rapidity with which water molecules can diffuse through most cell membranes is astounding. For example, the total amount of water that diffuses in each direction through the red blood cell membrane during each second is about 100 times the volume of the cell itself.
-
-<figure>
-<img src="placeholder.jpg" alt="Diffusion of fluid molecule">
-<figcaption>Figure 4-3. Diffusion of a fluid molecule during one thousandth of a second.</figcaption>
-</figure>
+在生理條件下，細胞凋亡對於發育、免疫系統的正常功能（消除自我反應性淋巴細胞）以及維持組織恆態至關重要。當細胞凋亡機制失調時，會導致疾病。例如，細胞凋亡不足可能導致癌症（異常細胞無法被清除）或自體免疫疾病（自我反應性免疫細胞無法被消除）。相反，過度細胞凋亡與神經退化性疾病（如阿茲海默症和帕金森氏症）和心肌梗塞後的心肌細胞死亡有關。

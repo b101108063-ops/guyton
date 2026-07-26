@@ -3,511 +3,225 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH06"
 title: "Contraction of Skeletal Muscle"
 book: "Guyton & Hall"
-summary: "Chapter 6 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
----
+summary: "本章說明骨骼肌的收縮機制。肌絲滑行理論描述了肌動蛋白與肌凝蛋白相互作用產生力量的基本原理。肌凝蛋白 head 透過 ATP 水解產生的能量進行來回擺動，逐步拖曳肌動蛋白絲向 M 線方向滑行。收縮的起始與執行涉及神經衝動到達肌肉、神經末梢釋放乙醯膽鹼、引發肌肉 action potential、以及鈣離子從肌漿網釋放等一系列步驟。本章也探討肌肉長度與張力的關係、收縮的速度與負載關係、肌肉的能量供應來源，以及肌肉顫搐、強直收縮、肌肉肥大與萎縮等現象。"
 ---
 
-UNIT II
+## 章節導讀
 
-The sarcomere will work. One end of the titin molecule is elastic and is attached to the Z disk, acting as a spring and changing length as the sarcomere contracts and relaxes. The other part of the titin molecule tethers it to the myosin thick filament. The titin molecule may also act as a template for the initial formation of portions of the contractile filaments of the sarcomere, especially the myosin filaments.
+骨骼肌是人體中最豐富的組織，佔體重約 40%。本章探討骨骼肌收縮的分子機制與整體特性。肌肉收縮的核心是肌絲滑行理論——肌動蛋白絲與肌凝蛋白絲相互滑動而非縮短本身。當神經衝動抵達肌肉，經由神經肌肉接合處傳遞，引發肌肉 action potential，接著觸發肌漿網釋放鈣離子，啟動橫橋循環。本章詳細說明收縮的化學過程、ATP 的角色、肌肉長度與張力的關係、肌肉收縮的速度特性，以及快肌纖維與慢肌纖維的差異。我們也將討論肌肉如何因應功能需求進行重塑，包括肥大、萎縮與去神經後的變化。
 
-**Sarcoplasm Is the Intracellular Fluid Between Myofibrils.** Many myofibrils are suspended side by side in each muscle fiber. The spaces between the myofibrils are filled with intracellular fluid called sarcoplasm, containing large quantities of:
+## 骨骼肌的顯微結構
 
-- Potassium
-- Magnesium
-- Phosphate
+骨骼肌由多層結構組成：肌肉外覆蓋著緻密膠原纖維鞘（肌外膜），內部包含許多肌束（fasciculi），每個肌束由數十至數百條肌纖維組成。每條肌纖維（muscle fiber）是一個細胞，內含大量平行排列的肌原纖維（myofibrils），而肌原纖維則由重複排列的收縮單位——肌節（sarcomere）——所構成。
 
-plus multiple protein enzymes. Also present are tremendous numbers of mitochondria that lie parallel to the myofibrils. These mitochondria supply the contracting myofibrils with large amounts of energy in the form of adenosine triphosphate (ATP) formed by the mitochondria.
+### 肌節的結構
 
-**Sarcoplasmic Reticulum Is a Specialized Endoplasmic Reticulum of Skeletal Muscle.** Also, in the sarcoplasm surrounding the myofibrils of each muscle fiber, is an extensive reticulum (Figure 6-4), called the sarcoplasmic reticulum. This reticulum has a special organization that is extremely important in regulating calcium storage, release, reuptake and therefore muscle contraction, as discussed in Chapter 7. The rapidly contracting types of muscle fibers have especially extensive sarcoplasmic reticula.
+肌節是骨骼肌收縮的基本功能單位，兩側以 Z 盤（Z disk）為界（Figure 6-1）。肌節內主要包含兩種絲狀結構：
 
-GENERAL MECHANISM OF MUSCLE CONTRACTION
+- **粗絲（myosin filament）：** 位於肌節中央，主要由肌凝蛋白組成，兩端有橫橋（cross-bridge）突出
+- **細絲（actin filament）：** 從 Z 盤向中央延伸，插入粗絲之間
 
-The initiation and execution of muscle contraction occur in the following sequential steps.
+肌節中還有 M 線（M line）位於粗絲中央，以及串聯彈性蛋白 titin 從 Z 盤延伸至 M 線，扮演著維持肌絲對齊與彈性支撐的角色。肌節在收縮狀態時，Z 盤距離縮短，肌動蛋白絲與肌凝蛋白絲的重疊程度增加，但絲狀結構本身的長度不變。
 
-1. An action potential travels along a motor nerve to its endings on muscle fibers.
+### 肌漿與肌漿網
 
-2. At each ending, the nerve secretes a small amount of the neurotransmitter acetylcholine.
+肌原纖維之間的細胞內液稱為肌漿（sarcoplasm），含有豐富的鉀離子、鎂離子、磷酸鹽與多種蛋白質酶，並有大量粒線體平行排列於肌原纖維旁，供應收縮所需的大量 ATP。
 
-3. Acetylcholine acts on a local area of the muscle fiber membrane to open acetylcholine-gated cation channels through protein molecules floating in the membrane.
+肌漿網（sarcoplasmic reticulum）是骨骼肌特有的滑面內質網（Figure 6-4），圍繞在肌原纖維周圍，具有調節鈣離子儲存、釋放與回收的功能，對肌肉收縮的調控至關重要。快速收縮的肌肉纖維具有特別發達的肌漿網。
 
-4. The opening of acetylcholine-gated channels allows large quantities of sodium ions to diffuse to the interior of the muscle fiber membrane. This action causes a local depolarization that in turn leads to the opening of voltage-gated sodium channels, which initiates an action potential at the membrane.
+## 肌肉收縮的一般機制
 
-5. The action potential travels along the muscle fiber membrane in the same way that action potentials travel along nerve fiber membranes.
+肌肉收縮的起始與執行依序經過以下步驟：
 
-6. The action potential depolarizes the muscle membrane, and much of the action potential electricity flows through the center of the muscle fiber. Here it causes the sarcoplasmic reticulum to release large quantities of calcium ions that have been stored within this reticulum.
+1. 一個 action potential 沿著運動神經傳到肌肉纖維的終板
+2. 在每個神經末梢，神經末梢釋放少量神經傳遞物質 acetylcholine
+3. Acetylcholine 作用於肌肉纖維膜的局部區域，打開乙醯膽鹼門控陽離子通道
+4. 大量鈉離子擴散進入肌肉纖維膜內部，引起局部去極化，進而觸發電壓門控鈉離子通道，產生肌肉 action potential
+5. 這個 action potential 沿著肌肉纖維膜傳播（與神經纖維膜傳播的方式相同）
+6. Action potential 使肌肉膜去極化，大部分電位變化流向纖維中央，引起肌漿網釋放大量儲存的鈣離子
+7. 鈣離子引發肌動蛋白與肌凝蛋白絲之間的吸引力，使兩者相互滑動——這就是收縮過程
+8. 短暫時間後，鈣離子經 Ca²⁺幫浦幫浦被抽回肌漿網儲存，直到下一個肌肉 action potential 到來；鈣離子從肌原纖維中被移除後，肌肉收縮隨即停止
 
-<figure>
-Figure 6-2 Electron micrograph of muscle myofibrils showing the detailed organization of actin and myosin filaments. Note the mitochondria lying between the myofibrils. (From Fawcett DW: The Cell. Philadelphia: WB Saunders, 1981.)
-</figure>
+## 肌肉收縮的分子機制
 
-<figure>
-Myosin (thick filament)
-Actin (thin filament)
-Titin
-Z disk
-M line
-</figure>
+### 肌肉收縮由肌絲滑行機制完成
 
-<figure>
-Figure 6-3 Organization of proteins in a sarcomere. Each titin molecule extends from the Z disk to the M line. Part of the titin molecule is closely associated with the myosin thick filament, whereas the rest of the molecule is springy and changes length as the sarcomere contracts and relaxes.
-</figure>
+Figure 6-5 展示肌肉收縮的基本機制：放鬆狀態下，來自兩個連續 Z 盤的肌動蛋白絲几乎不重疊；收縮狀態下，肌動蛋白絲被拉入肌凝蛋白絲之間，重疊達到最大程度，Z 盤也被拉向肌凝蛋白絲的末端。由此可見，收縮是肌絲相互滑動的結果，而非肌絲本身的縮短。
 
-<figure>
-Figure 6-4 Sarcoplasmic reticulum in the spaces between the myofibrils, showing a longitudinal system paralleling the myofibrils. Also shown in cross section are T tubules (arrows) that lead to the exterior of the fiber membrane and are important for conducting the electrical signal into the center of the muscle fiber. (From Fawcett DW: The Cell. Philadelphia: WB Saunders, 1981.)
-</figure>
+是什麼機制導致肌動蛋白絲向內滑動？這是由肌凝蛋白絲的橫橋與肌動蛋白絲相互作用所產生的力量。在靜止狀態下這些力量是失活的；當 action potential 到來、鈉離子觸發肌漿網釋放鈣離子後，力量才被激活。收縮過程需要能量，這些能量來自 ATP 分子中的高能鍵，水解為 ADP 並釋放能量。
 
-7. The calcium ions initiate attractive forces between the actin and myosin filaments, causing them to slide alongside each other, which is the contractile process.
+### 收縮絲狀結構的分子特性
 
-8. After a fraction of a second, the calcium ions are pumped back into the sarcoplasmic reticulum by a Ca²⁺ membrane pump and remain stored in the reticulum until a new muscle action potential comes along; this removal of calcium ions from the myofibrils causes the muscle contraction to cease.
+**肌凝蛋白絲由多個肌凝蛋白分子組成。** 每個肌凝蛋白分子的分子量約為 480,000（Figure 6-6）。肌凝蛋白分子由六條多肽鏈組成：兩條重鏈（各約 200,000）與四條輕鏈（各約 20,000）。兩條重鏈螺旋纏繞形成雙螺旋，構成肌凝蛋白分子的「尾巴」；分子的一端折疊成兩個球狀的「頭部」。輕鏈位於頭部，每個頭部有兩條，協助控制頭部在收縮過程中的功能。
 
-We now describe the molecular machinery of the muscle contractile process.
+200 個以上的肌凝蛋白分子組成一條肌凝蛋白絲。絲的中央是分子尾巴聚集形成的本體，許多頭部從本體兩側伸出。每個頭部都是一個 ATPase，能水解 ATP 並利用釋放的能量來驅動收縮過程。
 
-MOLECULAR MECHANISM OF MUSCLE CONTRACTION
+**肌動蛋白絲由肌動蛋白、原肌球蛋白與肌鈣蛋白組成。** 肌動蛋白絲的主幹是雙股 F-actin 蛋白分子（Figure 6-7）。每股由聚合的 G-actin 分子（分子量約 42,000）組成，每個 G-actin 分子上附著一個 ADP，這些 ADP 是肌動蛋白絲上與肌凝蛋白橫橋相互作用產生收縮的活性位點。
 
-**Muscle Contraction Occurs by a Sliding Filament Mechanism.** Figure 6-5 demonstrates the basic mechanism of muscle contraction. It shows the relaxed state of a sarcomere (top) and the contracted state (bottom). In the relaxed state, the ends of the actin filaments extending from two successive Z disks barely overlap one another. Conversely, in the contracted state, these actin filaments have been pulled inward among the myosin filaments, so their ends overlap one another to their maximum extent. Also, the Z disks have been pulled by the actin filaments up to the ends of the myosin filaments. Thus, muscle contraction occurs by a sliding filament mechanism.
+原肌球蛋白（tropomyosin）分子（分子量 70,000，長度 40 奈米）螺旋纏繞在 F-actin 雙螺旋的側面。在靜止狀態下，原肌球蛋白分子遮蓋了肌動蛋白鏈上的活性位點，阻止肌動蛋白與肌凝蛋白之間的相互作用與收縮。
 
-But what causes the actin filaments to slide inward among the myosin filaments? This action is caused by forces generated by interaction of the cross-bridges from the myosin filaments with the actin filaments. Under resting conditions, these forces are inactive, but when an action potential travels along the muscle fiber, this causes the sarcoplasmic reticulum to release large quantities of calcium ions that rapidly surround the myofibrils. The calcium ions, in turn, activate the forces between the myosin and actin filaments, and contraction begins. However, energy is needed for the contractile process to proceed. This energy comes from high-energy bonds in the ATP molecule, which is degraded to adenosine diphosphate (ADP) to liberate the energy. In the next few sections, we describe these molecular processes of contraction.
+肌鈣蛋白（troponin）是間歇性附著在原肌球蛋白分子上的蛋白質複合物，由三個鬆散結合的蛋白質亞基組成：
+- 肌鈣蛋白 I（troponin I）：對肌動蛋白有強親和力
+- 肌鈣蛋白 T（troponin T）：對原肌球蛋白有親和力
+- 肌鈣蛋白 C（troponin C）：對鈣離子有強親和力
 
-Molecular Characteristics of the Contractile Filaments
+### 肌動蛋白絲的抑制與激活
 
-**Myosin Filaments Are Composed of Multiple Myosin Molecules.** Each of the myosin molecules, shown in Figure 6-6A, has a molecular weight of about 480,000. Figure 6-6B shows the organization of many molecules to form a myosin filament, as well as interaction of this filament on one side with the ends of two actin filaments.
+在沒有肌鈣蛋白-原肌球蛋白複合物的情況下，純肌動蛋白絲會立即與肌凝蛋白分子頭部強烈結合。肌鈣蛋白-原肌球蛋白複合物的存在抑制了這種結合。
 
-The myosin molecule (see Figure 6-6A) is composed of six polypeptide chains—two heavy chains, each with a molecular weight of about 200,000; and four light chains, with molecular weights of about 20,000 each. The two heavy chains wrap spirally around each other to form a double helix, which is called the tail of the myosin molecule. One end of each of these chains is folded bilaterally into a globular polypeptide structure called a myosin head. Thus, there are two free heads at one end of the double-helix myosin molecule. The four light chains are also part of the myosin head, two to each head. These light chains help control the function of the head during muscle contraction.
+當大量鈣離子存在時，肌鈣蛋白-原肌球蛋白對肌動蛋白絲的抑制作用會被解除。當鈣離子與肌鈣蛋白 C 結合後，肌鈣蛋白複合體發生構象變化，某種程度上拉動原肌球蛋白分子，將其移入兩條肌動蛋白鏈之間的溝槽中，暴露了肌動蛋白的活性位點，使橫橋得以結合並產生收縮。
 
-The myosin filament is made up of 200 or more individual myosin molecules. The central portion of one of these filaments is shown in Figure 6-6B, displaying the tails of the myosin molecules bundled together to form the body of the filament, while many heads of the molecules hang outward to the sides of the body. Also, part of the body of each myosin molecule hangs to the side along with the head, thus providing an arm that extends the head outward from the body, as shown in the figure. The protruding arms and heads together are called cross-bridges. Each cross-bridge is flexible at two points called hinges—one where the arm leaves the body of the myosin filament and the other where the head attaches to the arm. The hinged arms allow the heads either to be extended far outward from the body of the myosin filament or brought close to the body. The hinged heads, in turn, participate in the contraction process, as discussed in the following sections.
+### 步行理論——收縮的分子機制
 
-The total length of each myosin filament is uniform, almost exactly 1.6 micrometers. Note, however, that there are no cross-bridge heads in the center of the myosin filament for a distance of about 0.2 micrometer because the hinged arms extend away from the center.
+Figure 6-8 展示這個被稱為「步行理論」（walk-along 或 ratchet theory）的假設機制。當肌動蛋白絲被鈣離子激活後，來自肌凝蛋白絲的橫橋頭部被吸引到肌動蛋白絲的活性位點並開始收縮。
 
-Now, to complete the picture, the myosin filament is twisted so that each successive pair of cross-bridges is axially displaced from the previous pair by 120 degrees. This twisting ensures that the cross-bridges extend in all directions around the filament.
+具體步驟如下：
+1. 頭部附著到活性位點後，引起頭部與臂之間分子內力的深刻變化
+2. 新的力量排列使頭部傾向臂部傾斜，將肌動蛋白絲拖曳隨之移動——這個傾斜稱為 power stroke
+3. 頭部隨即自動脫離活性位點，回復延伸方向，與下一個更遠處的活性位點結合
+4. 頭部再次傾斜，產生另一次 power stroke，肌動蛋白絲又移動一步
 
-**Adenosine Triphosphatase Activity of the Myosin Head.** Another feature of the myosin head that is essential for muscle contraction is that it functions as an adenosine triphosphatase (ATPase) enzyme. As explained later, this property allows the head to cleave ATP and use the energy derived from the ATP's high-energy phosphate bond to energize the contraction process.
+如此反覆，每個橫橋獨立運作，頭部來回彎曲，一步一步沿著肌動蛋白絲行走，將兩側的肌動蛋白絲拉向肌凝蛋白絲的中央。任何時刻與肌動蛋白絲接觸的橫橋數量越多，收縮力量越大。
 
-**Actin Filaments Are Composed of Actin, Tropomyosin, and Troponin.** The backbone of the actin filament is a double-stranded F-actin protein molecule, represented by the two lighter-colored strands in Figure 6-7. The two strands are wound in a helix in the same manner as the myosin molecule.
+### ATP 是收縮的能量來源——肌凝蛋白頭部運動的化學事件
 
-Each strand of the double F-actin helix is composed of polymerized G-actin molecules, each having a molecular weight of about 42,000. Attached to each one of the G-actin molecules is one molecule of ADP. These ADP molecules are believed to be the active sites on the actin filaments with which the cross-bridges of the myosin filaments interact to cause muscle contraction. The active sites on the two F-actin strands of the double helix are staggered, giving one active site on the overall actin filament about every 2.7 nanometers.
+肌肉收縮時需要做功並消耗能量。ATP 在收縮過程中被水解為 ADP，肌肉做功越多，ATP 水解越多，這現象稱為 Fenn 效應。具體的化學順序如下：
 
-Each actin filament is about 1 micrometer long. The bases of the actin filaments are inserted strongly into the Z disks; the ends of the filaments protrude in both directions to lie in the spaces between the myosin molecules, as shown in Figure 6-5.
+1. **收縮開始前：** 橫橋頭部與 ATP 結合，頭部的 ATPase 活性立即水解 ATP，但水解產物 ADP 與磷酸離子仍留在頭部上。此時頭部垂直於肌動蛋白絲但尚未附著
+2. **鈣離子結合：** 當肌鈣蛋白-原肌球蛋白複合體與鈣離子結合，肌動蛋白絲的活性位點暴露出來，肌凝蛋白頭部隨即與這些位點結合
+3. **Power stroke：** 頭部與肌動蛋白活性位點之間的鍵合引發頭部的構象變化，使頭部傾向臂部，產生拖曳肌動蛋白絲的 power stroke。啟動 power stroke 的能量來自 ATP 水解時已儲存的能量，如同上緊的彈簧
+4. **釋放與重新結合：** Power stroke 後，原本附著在頭部的 ADP 與磷酸離子被釋放，一個新的 ATP 分子結合到釋放的位置。這個新 ATP 的結合導致頭部從肌動蛋白上脫離
+5. **下一個循環：** 脫離後，新 ATP 被水解，頭部再次挺直，準備開始下一個 power stroke 循環
 
-**Tropomyosin Molecules.** The actin filament also contains another protein, tropomyosin. Each molecule of tropomyosin has a molecular weight of 70,000 and a length of 40 nanometers. These molecules are wrapped spirally around the sides of the F-actin helix. In the resting state, the tropomyosin molecules lie on top of the active sites of the actin strands so that attraction cannot occur between the actin and myosin filaments to cause contraction. Contraction occurs only when an appropriate signal causes a conformation change in tropomyosin that "uncovers" active sites on the actin molecule and initiates contraction, as explained later.
+這個過程反覆進行，直到肌動蛋白絲將 Z 膜拉至肌凝蛋白絲末端，或負載過重而無法繼續拉動為止。
 
-**Troponin and Its Role in Muscle Contraction.** Attached intermittently along the sides of the tropomyosin molecules are additional protein molecules called troponin. These protein molecules are actually complexes of three loosely bound protein subunits, each of which plays a specific role in controlling muscle contraction. One of the subunits (troponin I) has a strong affinity for actin, another (troponin T) for tropomyosin, and a third (troponin C) for calcium ions. This complex is believed to attach the tropomyosin to the actin. The strong affinity of the troponin for calcium ions is believed to initiate the contraction process, as explained in the next section.
+## 肌節長度與張力的關係
 
-Interaction of One Myosin Filament, Two Actin Filaments, and Calcium Ions to Cause Contraction
+Figure 6-9 顯示肌節長度與收縮張力之間的關係。隨著肌節縮短，肌動蛋白絲開始與肌凝蛋白絲重疊，張力逐漸增加，直到肌節長度約為 2.2 微米時達到最大。當肌節長度進一步縮短至約 2 微米時，兩條肌動蛋白絲的末端開始彼此重疊，張力維持穩定。當肌節長度繼續縮短至 1.65 微米（Z 盤碰到肌凝蛋白絲末端），張力迅速下降至零。
 
-**Inhibition of the Actin Filament by the Troponin-Tropomyosin Complex.** A pure actin filament without the presence of the troponin-tropomyosin complex (but in the presence of magnesium ions and ATP) binds instantly and strongly with the heads of the myosin molecules. Then, if the troponin-tropomyosin complex is added to the actin filament, the binding between myosin and actin does not take place. Therefore, it is believed that the active sites on the normal actin filament of the relaxed muscle are inhibited or physically covered by the troponin-tropomyosin complex. Consequently, the sites cannot attach to the heads of the myosin filaments to cause contraction. Before contraction can take place, the inhibitory effect of the troponin-tropomyosin complex must itself be inhibited.
+Figure 6-10 顯示完整肌肉的張力與長度關係。當肌肉在正常靜止長度（肌節長度約 2 微米）時， activation 後的張力約為最大。當肌肉被拉長超過正常長度（肌節長度大於約 2.2 微米）時，主動張力下降，因為肌絲重疊減少，能形成的橫橋數目降低。
 
-**Activation of the Actin Filament by Calcium Ions.** In the presence of large amounts of calcium ions, the inhibitory effect of the troponin-tropomyosin on the actin filaments is itself inhibited. The mechanism of this inhibition is not known, but one suggestion has been presented. When calcium ions combine with troponin C, each molecule of which can bind strongly with up to four calcium ions, the troponin complex then undergoes a conformational change that in some way tugs on the tropomyosin molecule and moves it deeper into the groove between the two actin strands. This action uncovers the active sites of the actin, thus allowing these active sites to attract the myosin cross-bridge heads and allow contraction to proceed. Although this mechanism is hypothetical, it emphasizes that the normal relationship between the troponin-tropomyosin complex and actin is altered by calcium ions, producing a new condition that leads to contraction.
+## 收縮速度與負載的關係
 
-**Interaction of the Activated Actin Filament and the Myosin Cross-Bridges—The Walk-Along Theory of Contraction.** As soon as the actin filament is activated by the calcium ions, the heads of the cross-bridges from the myosin filaments become attracted to the active sites of the actin filament and initiate contraction. Although the precise manner in which this interaction between the cross-bridges and the actin causes contraction is still partly theoretical, one hypothesis for which considerable evidence exists is the walk-along (or ratchet) theory of contraction.
+骨骼肌在無負載時可在約 0.1 秒內完成收縮。隨著負載增加，收縮速度逐漸下降（Figure 6-11）。當負載增加到等於肌肉所能施出的最大力量時，收縮速度降至零，不再有收縮發生。這是因為負載對收縮產生的力量產生反向推力，可用於縮短的淨力相應減少。
 
-Figure 6-8 demonstrates this postulated walk-along mechanism for contraction. The figure shows the heads of two cross-bridges attaching to and disengaging from active sites of an actin filament. When a head attaches to an active site, this attachment simultaneously causes profound changes in the intramolecular forces between the head and arm of its cross-bridge. The new alignment of forces causes the head to tilt toward the arm and to drag the actin filament along with it. This tilt of the head is called the power stroke. Immediately after tilting, the head then automatically breaks away from the active site. Next, the head returns to its extended direction. In this position, it combines with a new active site farther down along the actin filament; the head then tilts again to cause a new power stroke, and the actin filament moves another step. Thus, the heads of the cross-bridges bend back and forth and, step by step, walk along the actin filament, pulling the ends of two successive actin filaments toward the center of the myosin filament.
+## 肌肉收縮的能量學
 
-Each of the cross-bridges is believed to operate independently of all the others, with each attaching and pulling in a continuous repeated cycle. Therefore, the greater the number of cross-bridges in contact with the actin filament at any given time, the greater the force of contraction.
+### 肌肉收縮時的功輸出
 
-**ATP Is the Energy Source for Contraction—Chemical Events in the Motion of the Myosin Heads.** When a muscle contracts, work is performed, and energy is required. Large amounts of ATP are cleaved to form ADP during the contraction process, and the more work performed by the muscle, the more ATP that is cleaved; this phenomenon is called the Fenn effect. The following sequence of events is believed to be the means whereby this effect occurs:
+當肌肉在負載下收縮時，它做功。功的大小等於負載乘以移動距離：
 
-1. Before contraction begins, the heads of the cross-bridges bind with ATP. The ATPase activity of the myosin head immediately cleaves the ATP but leaves the cleavage products, ADP plus phosphate ion, bound to the head. In this state, the conformation of the head is such that it extends perpendicularly toward the actin filament but is not yet attached to the actin.
+**W = D × L**
 
-2. When the troponin-tropomyosin complex binds with calcium ions, active sites on the actin filament are uncovered, and the myosin heads then bind with these sites, as shown in Figure 6-8.
+能量來自肌肉細胞收縮過程中的化學反應。
 
-3. The bond between the head of the cross-bridge and the active site of the actin filament causes a conformational change in the head, prompting the head to tilt toward the arm of the cross-bridge and providing the power stroke for pulling the actin filament. The energy that activates the power stroke is the energy already stored, like a cocked spring, by the conformational change that occurred in the head when the ATP molecule was cleaved earlier.
+### 肌肉收縮的三種能量來源
 
-4. Once the head of the cross-bridge tilts, release of the ADP and phosphate ion that were previously attached to the head is allowed. At the site of release of the ADP, a new molecule of ATP binds. This binding of new ATP causes detachment of the head from the actin.
+肌肉纖維中 ATP 的濃度約 4 millimolar，僅能維持 1-2 秒的最大收縮。ATP 水解為 ADP 後，ADP 會在瞬間被重新磷酸化為 ATP。重新磷酸化的能量來自三個來源：
 
-5. After the head has detached from the actin, the new molecule of ATP is cleaved to begin the next cycle, leading to a new power stroke. That is, the energy again cocks the head back to its perpendicular condition, ready to begin the new power stroke cycle.
+**第一個來源是磷酸肌酸（phosphocreatine）。** 磷酸肌酸攜帶的高能磷酸鍵能量略高於 ATP 的鍵。當需要時，磷酸肌酸被立即水解，釋放的能量使 ADP 與磷酸離子重新結合形成 ATP。然而，肌肉中磷酸肌酸的儲量也只有 ATP 的約 5 倍。因此，ATP 加上磷酸肌酸的總能量只能維持最大收縮 5-8 秒。
 
-6. When the cocked head (with its stored energy derived from the cleaved ATP) binds with a new active site on the actin filament, it becomes uncocked and once again provides a new power stroke.
+**第二個重要來源是糖解作用（glycolysis）。** 肌肉中儲存的肝糖被快速酶解為丙酮酸與乳酸，釋放的能量用於將 ADP 轉化為 ATP。糖解作用可在無氧條件下進行，使肌肉能持續收縮數秒甚至超過一分鐘。此外，糖解作用的 ATP 形成速率約為有氧代謝的 2.5 倍。但糖解作用會累積大量終產物，約 1 分鐘後就無法維持最大收縮。
 
-Thus, the process proceeds again and again until the actin filaments pull the Z membrane up against the ends of the myosin filaments or until the load on the muscle becomes too great for further pulling to occur.
+**第三個也是最終的能量來源是有氧氧化（oxidative metabolism）。** 這是指氧氣與糖解終產物及細胞營養物質結合來釋放 ATP。超過 95% 的持續長期肌肉收縮能量來自有氧氧化。使用的營養物質包括碳水化合物、脂肪與蛋白質。長時間最大肌肉活動時，大部分能量來自脂肪；但在 2-4 小時的活動中，多達一半的能量可來自儲存的碳水化合物。
 
-<figure>
-Actin filament
-Active sites
-Myosin filament
-Hinges
-Power stroke
-Movement
-</figure>
+### 肌肉收縮的效率
 
-<figure>
-Figure 6-8 The walk-along mechanism for contraction of the muscle.
-</figure>
+引擎或馬達的效率是輸入能量中轉化為功而非熱量的百分比。肌肉在最佳條件下將輸入能量（營養物中的化學能）轉化為功的效率低於 25%，其餘都變成熱量。這是因為約一半的能量在 ATP 形成過程中就損失了，而 ATP 本身的能量也只有 40-45% 能最終轉化為功。
 
-```markdown
----
----
+最大效率只在肌肉以中等速度收縮時才能實現。如果肌肉收縮過慢或無移動，會釋放少量維持熱，效率降至零；反之，收縮過快會大量能量用於克服肌肉內部的黏滯摩擦，也降低效率。通常最大效率約在收縮速度為最大速度 30% 時出現。
 
-UNIT II
+## 整體肌肉收縮的特性
 
-# Amount of Actin and <span class="c-pink">Myosin Filament</span> Overlap Determines Tension Developed by the Contracting Muscle
+### 等長收縮與等張收縮
 
-Figure 6-9 shows the effect of <span class="c-pink">sarcomere</span> length and the amount of myosin-<span class="c-pink">actin filament</span> overlap on the active tension developed by a contracting muscle fiber. To the right are different degrees of overlap of the myosin and actin filaments at different <span class="c-pink">sarcomere</span> lengths. At point D on the diagram, the <span class="c-pink">actin filament</span> has pulled all the way out to the end of the <span class="c-pink">myosin filament</span>, with no actin-myosin overlap. At this point, the tension developed by the <span class="c-green">activated</span> muscle is zero.
+肌肉收縮時若長度不縮短稱為等長收縮（isometric），若張力不變而長度縮短則稱為等張收縮（isotonic）。等長系統記錄的張力變化與負載慣性無關，常用於比較不同肌肉的功能特性。
 
-Then, as the <span class="c-pink">sarcomere</span> shortens and the <span class="c-pink">actin filament</span> begins to overlap the <span class="c-pink">myosin filament</span>, the tension increases progressively until the <span class="c-pink">sarcomere</span> length decreases to about 2.2 micrometers. At this point, the actin filament has already overlapped all the cross-bridges of the <span class="c-pink">myosin filament</span> but has not yet reached the center of the <span class="c-pink">myosin filament</span>. With further shortening, the <span class="c-pink">sarcomere</span> maintains full tension until point B is reached, at a sarcomere length of about 2 micrometers. At this point, the ends of the two actin filaments begin to overlap each other in addition to overlapping the myosin filaments.
+### 不同肌肉的等長顫搐特性
 
-As the <span class="c-pink">sarcomere</span> length decreases from 2 micrometers to about 1.65 micrometers at point A, the strength of contraction decreases rapidly. At this point, the two Z disks of the sarcomere abut the ends of the myosin filaments. Then, as contraction proceeds to still shorter <span class="c-pink">sarcomere</span> lengths, the ends of the myosin filaments are crumpled and, as shown in the figure, the strength of contraction approaches zero, but the <span class="c-pink">sarcomere</span> has now contracted to its shortest length.
+人體骨骼肌的大小差異極大，從中耳極小的鐙骨肌（長度僅數毫米）到大型股四頭肌（體積相差可達五十萬倍）。Figure 6-13 顯示三種骨骼肌的等長顫搐記錄：眼肌的等長收縮時間不到 1/50 秒；腓腸肌約 1/15 秒；比目魚肌約 1/5 秒。這些收縮時間的差異反映了各肌肉的功能適應：眼肌必須極度快速以維持眼球對物體的精確注視；腓腸肌需中等速度以提供奔跑與跳躍所需的肢體移動速度；比目魚肌主要與慢速收縮有關，持續支撐身體對抗重力。
 
-## Effect of Muscle Length on Force of Contraction in the Whole Intact Muscle
+### 快肌纖維與慢肌纖維
 
-The top curve of Figure 6-10 is similar to that in Figure 6-9, but the curve in Figure 6-10 depicts tension of the intact whole muscle rather than of a single muscle fiber. The whole muscle has a large amount of connective tissue in it; in addition, the sarcomeres in different parts of the muscle do not always contract the same amount. Therefore, the curve has somewhat different dimensions from those shown for the individual muscle fiber, but it exhibits the same general form for the slope in the normal range of contraction, as shown in Figure 6-10.
+**慢肌纖維（Type I，紅肌）特性：**
+- 纖維較小
+- 由較細的神經纖維支配
+- 血液供應與毛細血管更豐富
+- 粒線體數量多，支持高水平有氧代謝
+- 含有大量肌紅蛋白（myoglobin），能儲存與快速釋放氧氣，使肌肉呈現紅色
 
-Note in Figure 6-10 that when the muscle is at its normal resting length, which is at a <span class="c-pink">sarcomere</span> length of about 2 micrometers, it contracts on activation with the approximate maximum force of contraction. However, the increase in tension that occurs during contraction, called active tension, decreases as the muscle is stretched beyond its normal length—that is, to a <span class="c-pink">sarcomere</span> length greater than about 2.2 micrometers. This phenomenon is demonstrated by the decreased length of the arrow in the figure at greater than normal muscle length.
+**快肌纖維（Type II，白肌）特性：**
+- 纖維較大，力量更強
+- 肌漿網發達，能快速釋放鈣離子引發收縮
+- 含大量糖解酶，糖解作用快速
+- 血液供應較少
+- 粒線體較少，因為有氧氧化並非主要能量來源
+- 缺乏紅色肌紅蛋白，故呈白色
 
-## Relation of Velocity of Contraction to Load
+## 骨骼肌收縮的力學
 
-A skeletal muscle contracts rapidly when it contracts against no load to a state of full contraction in about 0.1 second for the average muscle. When loads are applied, the velocity of contraction decreases progressively as the load increases, as shown in Figure 6-11. When the load has been increased to equal the maximum force that the muscle can exert, the velocity of contraction becomes zero, and no contraction results, despite activation of the muscle fiber.
+### 運動單位
 
-This decreasing velocity of contraction with load occurs because a load on a contracting muscle is a reverse force that opposes the contractile force caused by muscle contraction. Therefore, the net force that is available to cause the velocity of shortening is correspondingly reduced.
+每個離開脊髓的運動神經元支配多條肌肉纖維，這些纖維稱為一個運動單位（motor unit，Figure 6-14）。需要精確控制的肌肉（如喉部肌肉）每個運動單位僅含 2-3 條纖維；而不需精細控制的肌肉（如比目魚肌）每個運動單位可含數百條纖維。全身肌肉平均每個運動單位約含 80-100 條纖維。
 
-# ENERGETICS OF MUSCLE CONTRACTION
+每個運動單位的纖維並非聚集在一起，而是與其他運動單位的纖維以 3-15 條為一組的方式交錯排列。這種交錯使各運動單位能相互支援收縮，而非各自為政。
 
-## Work Output During Muscle Contraction
+### 張力總和——力量調控
 
-When a muscle contracts against a load, it performs work. To perform work means that energy is transferred from the muscle to the external load to lift an object to a greater height or to overcome resistance to movement.
+**多纖維總和：** 中樞神經系統發送微弱訊號時，較小的運動單位優先被興奮；訊號增強時，愈來愈大的運動單位被興奮。這稱為大小原則（size principle），使得微弱收縮時力量以小階梯增加，而需要大力時階梯變大。原因是較小的運動單位由較細的神經纖維支配，而脊髓中較小的運動神經元天然較易興奮，所以首先被激活。
 
-In mathematical terms, work is defined by the following equation:
+**頻率總和與強直收縮：** Figure 6-15 顯示頻率總和與強直（tetanization）的原理。當刺激頻率增加時，每個新收縮在前一個尚未結束时就開始加入，總張力隨頻率增加而逐步上升。當頻率達到臨界值，收縮融合成一條平滑連續的曲線，稱為完全強直（complete tetanus）。這是因為肌漿中持續維持高濃度鈣離子，即使在 action potential 之間也不允許放鬆。
 
-$$W_L = D \times L$$
+### 最大收縮力量
 
-in which W is the work output, L is the load, and D is the distance of movement against the load. The energy required to perform the work is derived from the chemical reactions in the muscle cells during contraction, as described in the following sections.
+正常肌肉長度下，肌肉的最大強直收縮張力平均約為 3-4 kg/cm²（約 50 磅/平方吋）。股四頭肌的肌腹可達 16 平方吋，因此可對髕腱施加高達 800 磅的張力。
 
-## Three Sources of Energy for Muscle Contraction
+### 樓梯效應（Treppe）
 
-Most of the energy required for muscle contraction is used to trigger the walk-along mechanism whereby the cross-bridges pull the actin filaments, but small amounts are required for the following:
+肌肉在長時間休息後開始收縮時，最初的張力可能只有 10-50 次顫搐後的一半，然後才上升到高原期。這種收縮力量逐漸增加的現象稱為樓梯效應（staircase effect）或顫搐增強效應（treppe）。原因可能是每次相繼的肌肉 action potential 從肌漿網釋放愈來愈多鈣離子，而肌漿來不及將離子重新攝回，導致細胞質中鈣離子濃度累積性增加。
 
-1. Pumping calcium ions from the sarcoplasm into the <span class="c-yellow">sarcoplasmic reticulum</span> after the contraction is over
-2. Pumping sodium and potassium ions through the muscle fiber membrane to maintain an appropriate ionic environment for the propagation of muscle fiber action potentials
+### 肌肉張力
 
-The concentration of <span class="c-cyan">ATP</span> in the muscle fiber, about 4 millimolar, is sufficient to maintain full contraction for only 1 to 2 seconds at most. The <span class="c-cyan">ATP</span> is split to form ADP, which transfers energy from the <span class="c-cyan">ATP</span> molecule to the contracting machinery of the muscle fiber. Then, as described in Chapter 2, the ADP is rephosphorylated to form new <span class="c-cyan">ATP</span> within another fraction of a second, which allows the muscle to continue its contraction. There are three sources of the energy for this rephosphorylation.
+即使在休息時，肌肉仍維持一定的緊張度，稱為肌肉張力（muscle tone）。這是因為骨骼肌纖維沒有 action potential 刺激就不會收縮，所以肌肉張力完全來自脊髓傳出的低頻率神經衝動。
 
-**The first source** of energy that is used to reconstitute the <span class="c-cyan">ATP</span> is the substance phosphocreatine, which carries a high-energy phosphate bond similar to the bonds of <span class="c-cyan">ATP</span>. The high-energy phosphate bond of phosphocreatine has a slightly higher amount of free energy than that of each <span class="c-cyan">ATP</span> bond, as discussed in more detail in Chapters 68 and 73. Therefore, phosphocreatine is instantly cleaved, and its released energy causes bonding of a new phosphate ion to ADP to reconstitute the <span class="c-cyan">ATP</span>. However, the total amount of phosphocreatine in the muscle fiber is also small, only about 5 times as great as the <span class="c-cyan">ATP</span>. Therefore, the combined energy of both the stored <span class="c-cyan">ATP</span> and the phosphocreatine in the muscle is capable of causing maximal muscle contraction for only 5 to 8 seconds.
+### 肌肉疲勞
 
-**The second important source** of energy, which is used to reconstitute both <span class="c-cyan">ATP</span> and phosphocreatine, is a process called <span class="c-orange">glycolysis</span>—the breakdown of glycogen previously stored in the muscle cells. Rapid enzymatic breakdown of the glycogen to pyruvic acid and lactic acid liberates energy that is used to convert ADP to <span class="c-cyan">ATP</span>; the <span class="c-cyan">ATP</span> can then be used directly to energize additional muscle contraction and also to re-form the stores of phosphocreatine.
+長時間強收縮導致肌肉疲勞。研究顯示肌肉疲勞與肌肉肝糖耗竭幾乎成正比增加。此外，神經肌肉接合處的傳遞在長期強烈肌肉活動後也會減弱。阻斷收縮肌肉的血流會在 1-2 分鐘內導致幾乎完全的肌肉疲勞，因為失去了營養供應特別是氧氣供應。
 
-The importance of this <span class="c-orange">glycolysis</span> mechanism is twofold. First, glycolytic reactions can occur even in the absence of oxygen, so muscle contraction can be sustained for many seconds and sometimes up to more than 1 minute, even when oxygen delivery from the blood is not available. Second, the rate of <span class="c-cyan">ATP</span> formation by <span class="c-orange">glycolysis</span> is about 2.5 times as rapid as <span class="c-cyan">ATP</span> formation in response to cellular foodstuffs reacting with oxygen. However, so many end products of <span class="c-orange">glycolysis</span> accumulate in the muscle cells that <span class="c-orange">glycolysis</span> also loses its capability to sustain maximum muscle contraction after about 1 minute.
+## 槓桿系統
 
-**The third and final source** of energy is oxidative metabolism, which means combining oxygen with the end products of <span class="c-orange">glycolysis</span> and with various other cellular foodstuffs to liberate <span class="c-cyan">ATP</span>. More than 95% of all energy used by the muscles for sustained long-term contraction is derived from oxidative metabolism. The foodstuffs that are consumed are carbohydrates, fats, and protein. For extremely long-term maximal muscle activity—over a period of many hours—the greatest proportion of energy comes from fats but, for periods of 2 to 4 hours, as much as one half of the energy can come from stored carbohydrates.
+肌肉通過施加張力於骨頭上的附著點來做功，骨頭則形成各種類型的槓桿系統。Figure 6-16 顯示二頭肌收縮抬起前臂的槓桿系統。假設二頭肌横切面積為 6 平方吋，最大收縮力量約 300 磅。當前臂與上臂成直角時，二頭肌腱附著點在肘部支點前方約 2 吋，前臂槓桿長度約 14 吋，因此二頭肌在手上的提起力量只有肌肉力量的 1/7，約 43 磅。
 
-The detailed mechanisms of these energetic processes are discussed in Chapters 68 through 73. In addition, the importance of the different mechanisms of energy release during performance of different sports is discussed in Chapter 85.
+身體需要不同類型的運動，有些需要大力量，有些需要大移動距離。因此有許多不同類型的肌肉：有些很長，能收縮很長的距離；有些較短但横切面積大，能在短距離內提供極大的收縮力量。研究這些肌肉類型、槓桿系統及其運動的學問稱為運動學（kinesiology）。
 
-## Efficiency of Muscle Contraction
+### 拮抗肌的共同激活
 
-The efficiency of an engine or a motor is calculated as the percentage of energy input that is converted into work instead of heat. The percentage of the input energy to muscle (the chemical energy in nutrients) that can be converted into work, even under the best conditions, is less than 25%, with the remainder becoming heat. The reason for this low efficiency is that about one-half of the energy in foodstuffs is lost during the formation of <span class="c-cyan">ATP</span> and, even then, only 40% to 45% of the energy in <span class="c-cyan">ATP</span> itself can later be converted into work.
+幾乎所有身體運動都是由關節兩側的拮抗肌同時收縮實現的，稱為拮抗肌的共同激活（coactivation）。身體各部位的位置由拮抗肌收縮程度的相對比例決定。
 
-Maximum efficiency can be realized only when the muscle contracts at a moderate velocity. If the muscle contracts slowly or without any movement, small amounts of maintenance heat are released during contraction, even though little or no work is performed, thereby decreasing the conversion efficiency to as little as zero. Conversely, if contraction is too rapid, much of the energy is used to overcome viscous friction within the muscle itself, and this too reduces the efficiency of contraction. Ordinarily, maximum efficiency occurs when the velocity of contraction is about 30% of maximum.
+## 肌肉的重新塑造以適應功能
 
-# CHARACTERISTICS OF WHOLE MUSCLE CONTRACTION
+肌肉持續重新塑造以適應所需功能，包括直徑、長度、力量、血液供應的改變，甚至肌肉纖維類型的改變。這個過程往往相當快速，數週內即可完成。
 
-Many features of muscle contraction can be demonstrated by eliciting single muscle twitches. This can be accomplished by electrical excitation of the nerve to a muscle or by passing a short electrical stimulus through the muscle itself, giving rise to a single sudden contraction lasting a fraction of a second.
+### 肌肉肥大與萎縮
 
-## Isometric Contractions Do Not Shorten Muscle, Whereas Isotonic Contractions Shorten Muscle at a Constant Tension
+肌肉總質量增加稱為肌肉肥大（muscle hypertrophy），減少則為肌肉萎縮（muscle atrophy）。幾乎所有肌肉肥大都是由於每條肌肉纖維內肌動蛋白與肌凝蛋白絲數量增加導致的纖維肥大。在收縮過程中受到負載時，肥大程度更大。即使每天只做幾次強收縮，在 6-10 週內也能產生明顯的肥大。
 
-Muscle contraction is said to be isometric when the muscle does not shorten during contraction and isotonic when it shortens but the tension on the muscle remains constant throughout the contraction. Systems for recording the two types of muscle contraction are shown in Figure 6-12.
+當肌肉長期不使用時，收縮蛋白的降解速度快於替換速度，導致肌肉萎縮。這個過程涉及 ATP 依賴的泛素-蛋白酶體途徑。
 
-In the isometric system, the muscle contracts against a force transducer without decreasing the muscle length, as shown in the bottom panel of Figure 6-12. In the isotonic system, the muscle shortens against a fixed load, which is illustrated in the top panel of the figure, showing a muscle lifting a weight. The characteristics of isotonic contraction depend on the load against which the muscle contracts, as well as the inertia of the load. However, the isometric system records changes in force of muscle contraction independently of load inertia. Therefore, the isometric system is often used when comparing the functional characteristics of different muscle types.
+### 肌肉長度的調整
 
-## Characteristics of Isometric Twitches Recorded from Different Muscles
+當肌肉被拉長超過正常長度時，會在肌肉纖維與肌腱連接處新增肌節；當肌肉持續處於縮短狀態時，末端的肌節會消失。這些過程使肌肉能持續重新塑造，保持適當的長度。
 
-The human body has many sizes of skeletal muscles—from the small stapedius muscle in the middle ear, measuring only a few millimeters long and 1 millimeter or so in diameter, up to the large quadriceps muscle, a half-million times as large as the stapedius. Furthermore, the fibers may be as small as 10 micrometers in diameter or as large as 80 micrometers. Finally, the energetics of muscle contraction vary considerably from one muscle to another. Therefore, it is no wonder that the mechanical characteristics of muscle contraction differ among muscles.
+### 去神經支配導致快速萎縮
 
-Figure 6-13 shows records of isometric contractions of three types of skeletal muscle—an ocular muscle, which has a duration of isometric contraction of less than 1/50 second; the gastrocnemius muscle, which has a duration of contraction of about 1/15 second; and the soleus muscle, which has a duration of contraction of about 1/5 second. These durations of contraction are highly adapted to the functions of the respective muscles. Ocular movements must be extremely rapid to maintain fixation of the eyes on specific objects to provide accuracy of vision. The gastrocnemius muscle must contract moderately rapidly to provide sufficient velocity of limb movement for running and jumping, and the soleus muscle is concerned principally with slow contraction for continual, long-term support of the body against gravity.
+當肌肉失去神經支配後，幾乎立即開始萎縮。約 2 個月後出現變性變化。如果神經供應能迅速恢復，功能可在 3 個月內完全恢復；但超過 1-2 年後就無法再恢復。在去神經萎縮的最後階段，大部分肌肉纖維被破壞，由纖維與脂肪組織取代。
 
-## Fast Versus Slow Muscle Fibers
+### 僵硬後遺（Rigor Mortis）
 
-As will be discussed more fully in Chapter 85 on sports physiology, every muscle of the body is composed of a mixture of so-called fast and slow muscle fibers, with still other fibers gradated between these two extremes. Muscles that react rapidly, including the anterior tibialis, are composed mainly of fast fibers, with only small numbers of the slow variety. Conversely, muscles such as soleus that respond slowly but with prolonged contraction are composed mainly of slow fibers. The differences between these two types of fibers are described in the following sections.
+死亡後數小時，全身肌肉進入稱為死後僵硬（rigor mortis）的收縮狀態——肌肉收縮並變得僵硬，即使沒有 action potential。這是因為 ATP 耗竭，導致橫橋無法從肌動蛋白絲上分離。肌肉在約 15-25 小時後隨蛋白質分解而緩解。
 
-## Slow Fibers (Type 1, Red Muscle)
+### 肌肉營養不良
 
-The following are characteristics of slow fibers:
+肌肉營養不良（muscular dystrophy）包括數種遺傳性疾病，導致肌肉纖維進行性虛弱與退化，最後被脂肪組織與膠原蛋白取代。
 
-1. Slow fibers are smaller than fast fibers.
-2. Slow fibers are also innervated by smaller nerve fibers.
-3. Slow fibers have a more extensive blood vessel system and more capillaries to supply extra amounts of oxygen compared with fast fibers.
-4. Slow fibers have greatly increased numbers of mitochondria to support high levels of oxidative metabolism.
-5. Slow fibers contain large amounts of myoglobin, an iron-containing protein similar to hemoglobin in red blood cells. Myoglobin combines with oxygen and stores it until needed, which also greatly speeds oxygen transport to the mitochondria. The myoglobin gives the slow muscle a reddish appearance—hence, the name red muscle.
-
-## Fast Fibers (Type II, White Muscle)
-
-The following are characteristics of fast fibers:
-
-1. Fast fibers are large for great strength of contraction.
-2. Fast fibers have an extensive sarcoplasmic reticulum for rapid release of calcium ions to initiate contraction.
-3. Large amounts of glycolytic enzymes are present in fast fibers for rapid release of energy by the glycolytic process.
-4. Fast fibers have a less extensive blood supply than slow fibers because oxidative metabolism is of secondary importance.
-5. Fast fibers have fewer mitochondria than slow fibers, also because oxidative metabolism is secondary. A deficit of red myoglobin in fast muscle gives it the name white muscle.
-
-# MECHANICS OF SKELETAL MUSCLE CONTRACTION
-
-## Motor Unit—All the Muscle Fibers Innervated by a Single Nerve Fiber
-
-Each motoneuron that leaves the spinal cord innervates multiple muscle fibers, with the number of fibers innervated depending on the type of muscle. All the muscle fibers innervated by a single nerve fiber are called a motor unit (Figure 6-14). In general, small muscles that react rapidly and whose control must be exact have more nerve fibers for fewer muscle fibers (e.g., as few as two or three muscle fibers per motor unit in some of the laryngeal muscles). Conversely, large muscles that do not require fine control, such as the soleus muscle, may have several hundred muscle fibers in a motor unit. An average figure for all the muscles of the body is questionable, but a reasonable guess would be about 80 to 100 muscle fibers to a motor unit.
-
-The muscle fibers in each motor unit are not all bunched together in the muscle but overlap other motor units in microbundles of 3 to 15 fibers. This interdigitation allows the separate motor units to contract in support of one another rather than entirely as individual segments.
-
-## Muscle Contractions of Different Force—Force Summation
-
-Summation means the adding together of individual twitch contractions to increase the intensity of overall muscle contraction.
-```
-
----
-UNIT II
----
-
-## Summation
-
-Summation is the combination of multiple muscle twitch contractions into a single, stronger muscle contraction. Summation occurs in two ways: (1) by increasing the number of motor units contracting simultaneously, which is called **multiple fiber summation**; and (2) by increasing the frequency of contraction, which is called **frequency summation** and can lead to tetanization.
-
-### Multiple Fiber Summation
-
-When the central nervous system sends a weak signal to contract a muscle, the smaller motor units of the muscle may be stimulated in preference to the larger motor units. Then, as the strength of the signal increases, larger and larger motor units begin to be excited, with the largest motor units often having as much as 50 times the contractile force of the smallest units.
-
-This phenomenon, called the **size principle**, is important because it allows the gradations of muscle force during weak contraction to occur in small steps, whereas the steps become progressively greater when large amounts of force are required. This size principle occurs because the smaller motor units are driven by small motor nerve fibers, and the small motoneurons in the spinal cord are more excitable than the larger ones, so naturally they are excited first.
-
-Another important feature of multiple fiber summation is that the different motor units are driven asynchronously by the spinal cord; as a result, contraction alternates among motor units one after the other, thus providing smooth contraction, even at low frequencies of nerve signals.
-
-### Frequency Summation and Tetanization
-
-Figure 6-15 shows the principles of frequency summation and tetanization. Individual twitch contractions occurring one after another at low frequency of stimulation are displayed on the left. Then, as the frequency increases, there comes a point when each new contraction occurs before the preceding one is over. As a result, the second contraction is added partially to the first, and thus the total strength of contraction rises progressively with increasing frequency.
-
-When the frequency reaches a critical level, the successive contractions eventually become so rapid that they fuse together, and the whole muscle contraction appears to be completely smooth and continuous, as shown in the figure. This process is called **tetanization**. At a slightly higher frequency, the strength of contraction reaches its maximum, so any additional increase in frequency beyond that point has no further effect in increasing contractile force. Tetany occurs because enough calcium ions are maintained in the muscle sarcoplasm, even between action potentials, so that a full contractile state is sustained without allowing any relaxation between the action potentials.
-
-### Maximum Strength of Contraction
-
-The maximum strength of tetanic contraction of a muscle operating at a normal muscle length averages between 3 and 4 kg/cm² of muscle, or 50 pounds/inch². Because a quadriceps muscle can have up to 16 square inches of muscle belly, as much as 800 pounds of tension may be applied to the patellar tendon. Thus, one can readily understand how it is possible for muscles to pull their tendons out of their insertions in bone.
-
-### Changes in Muscle Strength at the Onset of Contraction—the Staircase Effect (Treppe)
-
-When a muscle begins to contract after a long period of rest, its initial strength of contraction may be as little as one-half its strength 10 to 50 muscle twitches later. That is, the strength of contraction increases to a plateau, a phenomenon called the **staircase effect**, or **treppe**.
-
-Although all the possible causes of the staircase effect are not known, it is believed to be caused primarily by increasing calcium ions in the cytosol because of the release of more and more ions from the sarcoplasmic reticulum with each successive muscle action potential and failure of the sarcoplasm to recapture the ions immediately.
-
-### Skeletal Muscle Tone
-
-Even when muscles are at rest, a certain amount of tautness usually remains, called **muscle tone**. Because normal skeletal muscle fibers do not contract without an <span class="c-yellow">action potential</span> to <span class="c-green">stimulate</span> the fibers, skeletal muscle tone results entirely from a low rate of nerve impulses coming from the spinal cord. These nerve impulses, in turn, are controlled partly by signals transmitted from the brain to the appropriate spinal cord anterior motoneurons and partly by signals that originate in muscle spindles located in the muscle. Both these signals are discussed in relationship to muscle spindle and spinal cord function in Chapter 55.
-
-### Muscle Fatigue
-
-Prolonged strong contraction of a muscle leads to the well-known state of **muscle fatigue**. Studies in athletes have shown that muscle fatigue increases in almost direct proportion to the rate of depletion of muscle glycogen. Therefore, fatigue results mainly from the inability of the contractile and metabolic processes of the muscle fibers to continue supplying the same work output.
-
-However, experiments have also shown that transmission of the nerve signal through the neuromuscular junction, discussed in Chapter 7, can diminish at least a small amount after intense prolonged muscle activity, thus further diminishing muscle contraction. Interruption of blood flow through a contracting muscle leads to almost complete muscle fatigue within 1 or 2 minutes because of the loss of nutrient supply, especially the loss of oxygen.
-
-| Rate of stimulation (times per second) | 5 | 10 | 20 | 30 | 40 | 50 |
-|---|---|---|---|---|---|---|
-| **Strength of muscle contraction** | | | | | | **Tetanization** |
-
-*Figure 6-15 Frequency summation and tetanization.*
-
----
-
-## Lever Systems of the Body
-
-Muscles operate by applying tension to their points of insertion into bones, and the bones in turn form various types of lever systems. Figure 6-16 shows the lever system activated by the biceps muscle to lift the forearm against a load. If we assume that a large biceps muscle has a cross-sectional area of 6 square inches, the maximum force of contraction would be about 300 pounds. When the forearm is at right angles with the upper arm, the tendon attachment of the biceps is about 2 inches anterior to the fulcrum at the elbow, and the total length of the forearm lever is about 14 inches. Therefore, the amount of lifting power of the biceps at the hand would be only one-seventh of the 300 pounds of muscle force, or about 43 pounds. When the arm is fully extended, the attachment of the biceps is much less than 2 inches anterior to the fulcrum, and the force with which the hand can be brought forward is also much less than 43 pounds.
-
-In short, an analysis of the lever systems of the body depends on knowledge of the following:
-
-1. The point of muscle insertion
-2. Its distance from the fulcrum of the lever
-3. The length of the lever arm
-4. The position of the lever
-
-Many types of movement are required in the body, some of which need great strength and others that need large distances of movement. For this reason, there are many different types of muscle; some are long and contract a long distance, and some are short but have large cross-sectional areas and can provide extreme strength of contraction over short distances. The study of different types of muscles, lever systems, and their movements is called **kinesiology** and is an important scientific component of human physiology.
-
-### Positioning of a Body Part by Contraction of Agonist and Antagonist Muscles on Opposite Sides of a Joint
-
-Virtually all body movements are caused by simultaneous contraction of agonist and antagonist muscles on opposite sides of joints. This process is called **coactivation of the agonist and antagonist muscles**, and it is controlled by the motor control centers of the brain and spinal cord.
-
-The position of each separate part of the body, such as an arm or a leg, is determined by the relative degrees of contraction of the agonist and antagonist sets of muscles. For example, let us assume that an arm or a leg is to be placed in a midrange position. To achieve this position, agonist and antagonist muscles are excited to about an equal degree. Remember that an elongated muscle contracts with more force than does a shortened muscle, which was illustrated in Figure 6-10, showing maximum strength of contraction at full functional muscle length and almost no strength of contraction at half-normal length. Therefore, the elongated muscle on one side of a joint can contract with far greater force than the shorter muscle on the opposite side. As an arm or leg moves toward its midposition, the strength of the longer muscle decreases, but the strength of the shorter muscle increases until the two strengths equal each other. At this point, movement of the arm or leg stops. Thus, by varying the ratios of the degree of activation of the agonist and antagonist muscles, the nervous system directs the positioning of the arm or leg.
-
-We discuss in Chapter 55 that the motor nervous system has additional important mechanisms to compensate for different muscle loads when directing this positioning process.
-
----
-
-## REMODELING OF MUSCLE TO MATCH FUNCTION
-
-The muscles of the body continually remodel to match the functions required of them. Their diameters, lengths, strengths, and vascular supplies are altered, and even the types of muscle fibers are altered, at least slightly. This remodeling process is often quite rapid, occurring within a few weeks. Experiments in animals have shown that muscle contractile proteins in some smaller, more active muscles can be replaced in as little as 2 weeks.
-
-### Muscle Hypertrophy and Muscle Atrophy
-
-The increase of the total mass of a muscle is called **muscle hypertrophy**. When the total mass decreases, the process is called **muscle atrophy**.
-
-Virtually all muscle hypertrophy results from an increase in the number of actin and myosin filaments in each muscle fiber, causing enlargement of the individual muscle fibers; this condition is called simply **fiber hypertrophy**. Hypertrophy occurs to a much greater extent when the muscle is loaded during the contractile process. Only a few strong contractions each day are required to cause significant hypertrophy within 6 to 10 weeks.
-
-The manner in which forceful contraction leads to hypertrophy is poorly understood. It is known, however, that the rate of synthesis of muscle contractile proteins is far greater when hypertrophy is developing, leading also to progressively greater numbers of both actin and myosin filaments in the myofibrils, often increasing as much as 50%. Some of the myofibrils have been observed to split within hypertrophying muscle to form new myofibrils, but the importance of this process in the usual enlargement of skeletal muscle is still unknown.
-
-Along with the increasing size of myofibrils, the enzyme systems that provide energy also increase, especially the enzymes for <span class="c-orange">glycolysis</span>, allowing for a rapid supply of energy during short-term forceful muscle contraction.
-
-When a muscle remains unused for many weeks, the rate of degradation of the contractile proteins is more rapid than the rate of replacement. Therefore, muscle atrophy occurs. The pathway that appears to account for much of the protein degradation in a muscle undergoing atrophy is the <span class="c-cyan">ATP</span>-dependent ubiquitin-proteasome pathway. Proteasomes are large protein complexes that degrade damaged or unneeded proteins by proteolysis, a chemical reaction that breaks peptide bonds. Ubiquitin is a regulatory protein that basically labels which cells will be targeted for proteosomal degradation.
-
-### Adjustment of Muscle Length
-
-Another type of hypertrophy occurs when muscles are stretched to greater than normal length. This stretching causes new sarcomeres to be added at the ends of the muscle fibers, where they attach to the tendons. In fact, new sarcomeres can be added as rapidly as several per minute in newly developing muscle, illustrating the rapidity of this type of hypertrophy.
-
-Conversely, when a muscle continually remains shortened to less than its normal length, sarcomeres at the ends of the muscle fibers can actually disappear. It is by these processes that muscles are continually remodeled so they have the appropriate length for proper muscle contraction.
-
-### Hyperplasia of Muscle Fibers
-
-Under rare conditions of extreme muscle force generation, the actual number of muscle fibers has been observed to increase (but only by a few percent), in addition to the fiber hypertrophy process. This increase in fiber number is called **fiber hyperplasia**. When it does occur, the mechanism is linear splitting of previously enlarged fibers.
-
-### Muscle Denervation Causes Rapid Atrophy
-
-When a muscle loses its nerve supply, it no longer receives the contractile signals that are required to maintain normal muscle size. Therefore, atrophy begins almost immediately. After about 2 months, degenerative changes also begin to appear in the muscle fibers. If the nerve supply to the muscle grows back rapidly, full return of function can occur in as little as 3 months but, from then onward, the capability of functional return becomes less and less, with no further return of function after 1 to 2 years.
-
-In the final stage of denervation atrophy, most of the muscle fibers are destroyed and replaced by fibrous and fatty tissue. The fibers that do remain are composed of a long cell membrane with a lineup of muscle cell nuclei but with few or no contractile properties and little or no capability of regenerating myofibrils if a nerve does regrow.
-
-The fibrous tissue that replaces the muscle fibers during denervation atrophy also has a tendency to continue shortening for many months, a process called **contracture**. Therefore, one of the most important problems in the practice of physical therapy is to keep atrophying muscles from developing debilitating and disfiguring contractures. This goal is achieved by daily stretching of the muscles or use of appliances that keep the muscles stretched during the atrophying process.
-
-### Recovery of Muscle Contraction in Poliomyelitis: Development of Macromotor Units
-
-When some but not all nerve fibers to a muscle are destroyed, as occurs in poliomyelitis, the remaining nerve fibers branch off to form new axons that then innervate many of the paralyzed muscle fibers. This process results in large motor units called **macromotor units**, which can contain as many as five times the normal number of muscle fibers for each motoneuron coming from the spinal cord. The formation of large motor units decreases the fineness of control one has over the muscles but allows the muscles to regain varying degrees of strength.
-
-### Rigor Mortis
-
-Several hours after <span class="c-red">death</span>, all the muscles of the body go into a state of contracture called **rigor mortis**; that is, the muscles contract and become rigid, even without action potentials. This rigidity results from loss of all the <span class="c-cyan">ATP</span>, which is required to cause separation of the cross-bridges from the actin filaments during the relaxation process. The muscles remain in rigor until the muscle proteins deteriorate about 15 to 25 hours later, which presumably results from autolysis caused by enzymes released from lysosomes. All these events occur more rapidly at higher temperatures.
-
-### Muscular Dystrophy
-
-The muscular dystrophies include several inherited disorders that cause progressive weakness and degeneration of muscle fibers, which are replaced by fatty tissue and collagen.
-
-One of the most common forms of muscular dystrophy is **Duchenne muscular dystrophy (DMD)**. This disease affects only males because it is transmitted as an X-linked recessive trait and is caused by mutation of the gene that encodes for a protein called **dystrophin**, which links actins to proteins in the muscle cell membrane. Dystrophin and associated proteins form an interface between the intracellular contractile apparatus and extracellular connective matrix.
-
-Although the precise functions of dystrophin are not completely understood, lack of dystrophin or mutated forms of the protein cause muscle cell membrane destabilization and activation of multiple pathophysiological processes, including altered intracellular calcium handling and impaired membrane repair after injury. One important effect of abnormal dystrophin is an increase in membrane permeability to calcium, thus allowing extracellular calcium ions to enter the muscle fiber and initiate changes in intracellular enzymes that ultimately lead to proteolysis and muscle fiber breakdown.
-
-Symptoms of DMD include muscle weakness that begins in early childhood and rapidly progresses, so that the patient is usually in wheelchairs by age 12 years and often dies of respiratory failure before age 30 years. A milder form of this disease, called **Becker muscular dystrophy (BMD)**, is also caused by mutations of the gene that encodes for dystrophin but has a later onset and longer survival. It is estimated that DMD and BMD affect 1 of every 5,600 to 7,700 males between the ages of 5 through 24 years. Currently, no effective treatment exists for DMD or BMD, although characterization of the genetic basis for these diseases has provided the potential for gene therapy in the future.
-
-| Biceps muscle | |
-|---|---|
-| | **Lever** |
-| **Load** | **Fulcrum** |
-
-*Figure 6-16 Lever system activated by the biceps muscle.*
-
----
-
-## Bibliography
-
-1. Adams GR, Bamman MM: Characterization and regulation of mechanical loading-induced compensatory muscle hypertrophy. Compr Physiol 2:2829, 2012.
-
-2. Allen DG, Lamb GD, Westerblad H: Skeletal muscle fatigue: cellular mechanisms. Physiol Rev 88:287, 2008.
-
-3. Blake DJ, Weir A, Newey SE, Davies KE: Function and genetics of dystrophin and dystrophin-related proteins in muscle. Physiol Rev 82:291, 2002.
-
-4. Damas F, Libardi CA, Ugrinowitsch C: The development of skeletal muscle hypertrophy through resistance training: the role of muscle damage and muscle protein synthesis. Eur J Appl Physiol 118:485-500, 2019.
-
-5. Fitts RH: The cross-bridge cycle and skeletal muscle fatigue. J Appl Physiol 104:551, 2008.
-
-6. Francaux M, Deldicque L: Exercise and the control of muscle mass in human. Pflugers Arch 471:397-411, 2019.
-
-7. Glass DJ: Signaling pathways that mediate skeletal muscle hypertrophy and atrophy. Nat Cell Biol 5:87, 2003.
-
-8. Gorgey AS, Witt O, O'Brien L, Cardozo C, Chen Q, Lesnefsky EJ, Graham ZA: Mitochondrial health and muscle plasticity after spinal cord injury. Eur J Appl Physiol 119:315-331, 2019.
-
-9. Gunning P, O'Neill G, Hardeman E: Tropomyosin-based regulation of the actin cytoskeleton in time and space. Physiol Rev 88:1, 2008.
-
-10. Heckman CJ, Enoka RM: Motor unit. Compr Physiol 2:2629, 2012.
-
-11. Henderson CA, Gomez CG, Novak SM, Mi-Mi L, Gregorio CC: Overview of the muscle cytoskeleton. Compr Physiol 7:891-944, 2017.
-
-12. Jungbluth H, Treves S, Zorzato F, Sarkozy A, Ochala J, Sewry C, Phadke R, Gautel M, Muntoni F: Congenital myopathies: disorders of excitation-contraction coupling and muscle contraction. Nat Rev Neurol 14:151-167, 2018.
-
-13. Larsson L, Degens H, Li M, Salviati L, Lee YI, Thompson W, Kirkland JL, Sandri M: Sarcopenia: Aging-related loss of muscle mass and function. Physiol Rev 99:427-511, 2019.
-
-14. Lin BL, Song T, Sadayappan S: Myofilaments: Movers and rulers of the <span class="c-pink">sarcomere</span>. Compr Physiol 7:675-692, 2017.
-
-15. Mercuri E, Muntoni F: Muscular dystrophies. Lancet 381:845, 2013.
-
-16. Murach KA, Fry CS, Kirby TJ, Jackson JR, Lee JD, White SH, Dupont-Versteegden EE, McCarthy JJ, Peterson CA: Starring or supporting role? Satellite cells and skeletal muscle fiber size regulation. Physiology (Bethesda) 33:26-38, 2018.
-
-17. Olsen LA, Nicoll JX, Fry AC: The skeletal muscle fiber: a mechanically sensitive cell. Eur J Appl Physiol 119:333-349, 2019.
-
-18. Patikas DA, Williams CA, Ratel S: Exercise-induced fatigue in young people: advances and future perspectives. Eur J Appl Physiol 118:899-910, 2018.
-
-19. Schaeffer PJ, Lindstedt SL: How animals move: comparative lessons on animal locomotion. Compr Physiol 3:289, 2013.
-
-20. Schiaffino S, Reggiani C: Fiber types in mammalian skeletal muscles. Physiol Rev 91:1447, 2011.
-
-21. Tsianos GA, Loeb GE: Muscle and limb mechanics. Compr Physiol 7:429-462, 2017.
-
-22. van Breemen C, Fameli N, Evans AM: Pan-junctional sarcoplasmic reticulum in vascular smooth muscle: nanospace Ca²⁺ transport for site- and function-specific Ca²⁺ signalling. J Physiol 591:2043, 2013.
-
-23. Vandenboom R: Modulation of skeletal muscle contraction by myosin phosphorylation. Compr Physiol 7:171-212, 2016.
-
-UNIT II
-<span class="c-pink">NEUROMUSCULAR JUNCTION</span> AND
-TRANSMISSION OF IMPULSES FROM
-NERVE ENDINGS TO SKELETAL MUSCLE
-FIBERS
-
-Skeletal muscle fibers are innervated by large myelinated nerve fibers that originate from large motoneurons in the anterior horns of the spinal cord. As discussed in Chapter 6, each nerve fiber, after entering the muscle belly, normally branches and <span class="c-green">stimulates</span> from three to several hundred skeletal muscle fibers. Each nerve ending makes a junction, called the <span class="c-pink">neuromuscular junction</span>, with the muscle fiber near its midpoint. The <span class="c-yellow">action potential</span> initiated in the muscle fiber by the nerve signal travels in both directions toward the muscle fiber ends. With the exception of about 2% of the muscle fibers, there is only one such junction per muscle fiber.
-
-PHYSIOLOGIC ANATOMY OF THE
-<span class="c-pink">NEUROMUSCULAR JUNCTION</span>—THE
-<span class="c-pink">MOTOR END PLATE</span>
-
-Figure 7-1 A and B shows the <span class="c-pink">neuromuscular junction</span> from a large myelinated nerve fiber to a skeletal muscle fiber. The nerve fiber forms a complex of branching nerve terminals that invaginate into the surface of the muscle fiber but lie outside the muscle fiber plasma membrane. The entire structure is called the <span class="c-pink">motor end plate</span>. It is covered by one or more Schwann cells that insulate it from the surrounding fluids.
-
-Figure 7-1C shows the junction between a single axon terminal and the muscle fiber membrane. The invaginated membrane is called the synaptic gutter or synaptic trough, and the space between the terminal and the fiber membrane is called the synaptic space or <span class="c-pink">synaptic cleft</span>, which is 20 to 30 nanometers wide. At the bottom of the gutter are numerous smaller folds of the muscle membrane called subneural clefts, which greatly increase the surface area at which the synaptic transmitter can act.
-
-In the axon terminal are many mitochondria that supply <span class="c-cyan">adenosine triphosphate</span> (<span class="c-cyan">ATP</span>), the energy source used for synthesis of a transmitter, <span class="c-cyan">acetylcholine</span>, which <span class="c-green">excites</span> the muscle fiber membrane. <span class="c-cyan">Acetylcholine</span> is synthesized in the cytoplasm of the terminal but is absorbed rapidly into many small synaptic vesicles, about 300,000 of which are normally in the terminals of a single end plate. In the synaptic space are large quantities of the enzyme <span class="c-orange">acetylcholinesterase</span>, which destroys <span class="c-cyan">acetylcholine</span> a few milliseconds after it has been released from the synaptic vesicles.
-
-SECRETION OF <span class="c-cyan">ACETYLCHOLINE</span> BY THE
-NERVE TERMINALS
-
-When a nerve impulse reaches the neuromuscular junction, about 125 vesicles of <span class="c-cyan">acetylcholine</span> are released from the terminals into the synaptic space. Some of the details of this mechanism can be seen in Figure 7-2, which shows an expanded view of a synaptic space with the neural membrane above and the muscle membrane and its subneural clefts below.
-
-On the inside surface of the neural membrane are linear dense bars, shown in cross section in Figure 7-2. To each side of each dense bar are protein particles that penetrate the neural membrane; these are voltage-gated calcium channels. When an <span class="c-yellow">action potential</span> spreads over the terminal, these channels open and allow calcium ions to diffuse from the synaptic space to the interior of the nerve terminal. The calcium ions, in turn, are believed to activate Ca2+-calmodulin–dependent protein kinase, which, in turn, phosphorylates synapsin proteins that anchor the <span class="c-cyan">acetylcholine</span> vesicles to the cytoskeleton of the presynaptic terminal. This process frees the <span class="c-cyan">acetylcholine</span> vesicles from the cytoskeleton and allows them to move to the active zone of the presynaptic neural membrane adjacent to the dense bars. The vesicles then dock at the release sites, fuse with the neural membrane, and empty their <span class="c-cyan">acetylcholine</span> into the synaptic space by the process of exocytosis.
-
-Although some of the aforementioned details are speculative, it is known that the effective stimulus for causing <span class="c-cyan">acetylcholine</span> release from the vesicles is entry of calcium ions and that <span class="c-cyan">acetylcholine</span> from the vesicles is then emptied through the neural membrane adjacent to the dense bars.
-
-<span class="c-cyan">Acetylcholine</span> Opens Ion Channels on Postsynaptic Membranes. Figure 7-2 also shows many small acetylcholine receptors and voltage-gated sodium channels in the muscle fiber membrane. The <span class="c-cyan">acetylcholine</span>-gated ion channels are located almost entirely near the mouths of the subneural clefts lying immediately below the dense bar areas, where the <span class="c-cyan">acetylcholine</span> is emptied into the synaptic space. The voltage-gated sodium channels also line the subneural clefts.
-
-Each <span class="c-cyan">acetylcholine</span> receptor is a protein complex that has a total molecular weight of approximately 275,000. The fetal <span class="c-cyan">acetylcholine</span> receptor complex is composed of five subunit proteins, two alpha proteins and one each of beta, delta, and gamma proteins. In the adult, an epsilon protein substitutes for the gamma protein in this receptor complex. These protein molecules penetrate all the way through the membrane, lying side by side in a circle to form a tubular channel, illustrated in Figure 7-3. The channel remains constricted, as shown in part A of the figure, until two <span class="c-cyan">acetylcholine</span> molecules attach respectively to the two alpha subunit proteins. This attachment causes a conformational change that opens the channel, as shown in part B of the figure.
-
-The <span class="c-cyan">acetylcholine</span>-gated channel has a diameter of about 0.65 nanometer, which is large enough to allow the important positive ions—sodium (Na+), potassium (K+), and calcium (Ca2+)—to move easily through the opening. Patch clamp studies have shown that one of these channels, when opened by <span class="c-cyan">acetylcholine</span>, can transmit 15,000 to 30,000 sodium ions in 1 millisecond. Conversely, negative ions, such as chloride ions, do not pass through because of strong negative charges in the mouth of the channel that repel these negative ions.
-
-Excitation of Skeletal Muscle: Neuromuscular Transmission and Excitation-Contraction Coupling
-
-CHAPTER 7
-
-Axon
-Myofibrils
-A
-C
-B
-Teloglial cell
-Terminal nerve
-branches
-Muscle
-nuclei
-Myelin
-sheath
-Synaptic vesicles
-Axon terminal in
-synaptic trough
-Subneural clefts
-
-**Figure 7-1.** Different views of the <span class="c-pink">motor end plate</span>. A, Longitudinal section through the end plate. B, Surface view of the end plate. C, Electron micrographic appearance of the contact point between a single axon terminal and the muscle fiber membrane.
-
-Calcium
-channels
-Neural
-membrane
-Muscle
-membrane
-Release
-sites
-Vesicles
-Dense bar
-Basal lamina
-and
-<span class="c-orange">acetylcholinesterase</span>
-<span class="c-cyan">Acetylcholine</span>
-receptors
-Voltage-<span class="c-green">activate</span>d
-Na+ channels
-Subneural
-cleft
-
-**Figure 7-2.** Release of <span class="c-cyan">acetylcholine</span> from synaptic vesicles at the neural membrane of the <span class="c-pink">neuromuscular junction</span>. Note the proximity of the release sites in the neural membrane to the <span class="c-cyan">acetylcholine</span> receptors in the muscle membrane at the mouths of the subneural clefts.
+最常見的形式是裘馨氏肌肉營養不良（DMD），僅影響男性，為 X 染色體隱性遺傳。由於編碼肌營養不良蛋白（dystrophin）的基因突變引起。肌營養不良蛋白是連接肌動蛋白與肌肉細胞膜蛋白質的結構，缺乏會導致細胞膜不穩定、細胞內鈣離子處理改變，以及膜修復能力受損。DMD 症狀在兒童早期出現並迅速進展，患者通常在 12 歲時需坐輪椅，常在 30 歲前死於呼吸衰竭。

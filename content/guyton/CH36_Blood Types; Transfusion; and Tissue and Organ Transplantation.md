@@ -3,16 +3,22 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH36"
 title: "Blood Types; Transfusion; and Tissue and Organ Transplantation"
 book: "Guyton & Hall"
-summary: "Chapter CH36 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
+summary: "本章說明ABO血型系統與Rh血型系統的分型依據及其臨床意義，探討血型不合導致的輸血反應機制與腎衰竭等併發症，並介紹Rh阴性母親因Rh陽性胎兒而產生同種免疫反應的胎兒溶血病（erythroblastosis fetalis）及其預防與治療方式。此外，本章亦討論組織與器官移植中的人類白血球抗原（HLA）配對原則，以及免疫抑制療法在防止移植排斥反應中的應用。"
 key_points:
   - "Content extracted directly from official Guyton & Hall PDF source"
 ---
 
-# BLOOD TYPES AND TRANSFUSION
+# Chapter 36 血型、輸血與組織器官移植
 
-## BLOOD TYPING AND AGGLUTINATION
+## 章節導讀
 
-Blood types are determined by first separating the RBCs from plasma and diluting them with saline solution. One portion is then mixed with anti-A agglutinin and another portion with anti-B agglutinin. After several minutes, the mixtures are observed under a microscope. If the RBCs have become clumped—agglutinated—then an antibody-antigen reaction has occurred.
+血型系統是輸血醫學的基礎，其中 ABO 與 Rh 兩大系統最為重要。ABO 系統的特點在於血漿中自然存在 anti-A 與 anti-B 凝集素，当血型不合時會引起快速的輸血反應。Rh 系統則不同，除非曾經接觸過 Rh 抗原（如 Rh 陽性血液或胎兒），否則不會自然產生 anti-Rh 凝集素。對於 Rh 陰性的母親而言，若胎兒為 Rh 陽性，其所產生的 anti-D 抗體可穿过胎盤，導致胎兒紅血球溶解，形成胎兒溶血病（erythroblastosis fetalis）。 современной медицине для предотвращения этого состояния применяется Rh 免疫球蛋白。本章亦探討組織相容性抗原（HLA）在器官移植中的配對原則，以及各類免疫抑制藥物（如 cyclosporine、tacrolimus）在防止移植排斥反應中的角色。
+
+---
+
+## 血型分型與凝集反應
+
+血型的判定方法是先將紅血球（Red Blood Cell, RBC）與血漿分離，再用生理食鹽水稀釋紅血球。取一份與 anti-A 凝集素混合，另一份與 anti-B 凝集素混合。數分鐘後在顯微鏡下觀察，若紅血球出現團塊——即凝集——則表示發生了抗體-抗原反應。
 
 **Table 36-2.** Blood Typing: Agglutination of Cells of Different Blood Types With Anti-A or Anti-B Agglutinins
 
@@ -23,162 +29,146 @@ Blood types are determined by first separating the RBCs from plasma and diluting
 | B                   | −           | +           |
 | AB                  | +           | +           |
 
-The presence or absence of agglutinogens determines blood type:
+紅血球上是否存在凝集原（agglutinogen）決定了血型：
 
-- **Type O** RBCs have no agglutinogens and therefore do not react with anti-A or anti-B agglutinins.
-- **Type A** blood has A agglutinogens and therefore agglutinates with anti-A agglutinins.
-- **Type B** blood has B agglutinogens and agglutinates with anti-B agglutinins.
-- **Type AB** blood has both A and B agglutinogens and agglutinates with both types of agglutinins.
+- **O 型**紅血球沒有凝集原，因此不會與 anti-A 或 anti-B 凝集素產生反應。
+- **A 型**血液具有 A 凝集原，因此會與 anti-A 凝集素產生凝集。
+- **B 型**血液具有 B 凝集原，會與 anti-B 凝集素產生凝集。
+- **AB 型**血液同時具有 A 和 B 凝集原，會與兩種凝集素都產生凝集。
 
-## Rh BLOOD TYPES
+---
 
-Along with the ABO blood type system, the Rh blood type system is also important when transfusing blood. The major difference between the systems is that in the ABO system, plasma agglutinins responsible for causing transfusion reactions develop spontaneously, whereas in the Rh system, spontaneous agglutinins almost never occur. Instead, the person must first be massively exposed to an Rh antigen—such as by transfusion of blood containing the Rh antigen—before enough agglutinins to cause a significant transfusion reaction will develop.
+## Rh 血型系統
 
-### Rh Antigens—Rh-Positive and Rh-Negative
+除了 ABO 血型系統外，Rh 血型系統在輸血時同樣重要。兩個系統的主要差異在於：在 ABO 系統中，造成輸血反應的血漿凝集素是自然產生的；而在 Rh 系統中，自然形成的凝集素幾乎不存在。也就是說，Rh 陰性者必須先大量接觸 Rh 抗原——例如輸入含有 Rh 抗原的血液——才會產生足以引起顯著輸血反應的凝集素。
 
-There are six common types of Rh antigens, each called an Rh factor. These types are designated C, D, E, c, d, and e. A person who has the C antigen does not have the c antigen, but a person missing the C antigen always has the c antigen. The same is true for the D-d and E-e antigens. Also, because of the manner of inheritance of these factors, each person has one of each of the three pairs of antigens.
+### Rh 抗原——Rh 陽性與 Rh 陰性
 
-The D antigen is widely prevalent in the population and is considerably more antigenic than the other Rh antigens. Anyone who has this type of antigen is said to be **Rh positive**, whereas a person who does not have type D antigen is said to be **Rh negative**. However, even in Rh-negative people, some of the other Rh antigens can still cause transfusion reactions, although the reactions are usually much milder.
+Rh 抗原有六種常見類型，各自稱為 Rh 因子，分別命名為 C、D、E、c、d 和 e。具有 C 抗原的人沒有 c 抗原，但缺乏 C 抗原的人一定有 c 抗原。D-d 與 E-e 抗原的情況亦然。此外，由於這些因子的遺傳方式，每個人都有三對抗原各一個。
 
-### Population Distribution
+D 抗原在人群中最為常見，且比其他 Rh 抗原具有更強的抗原性。具有這種抗原的人稱為 **Rh 陽性**，而不具有 D 型抗原的人則稱為 **Rh 陰性**。然而，即使在 Rh 陰性者中，其他 Rh 抗原仍可能引起輸血反應，只是通常輕微得多。
 
-- Approximately **85%** of all white individuals are Rh positive, and **15%** are Rh negative.
-- In American Blacks, the percentage of Rh-positive individuals is approximately **95%**, whereas in African Blacks, it is nearly **100%**.
-- Over **95%** of Native Americans and Asians living in China, Japan, and Korea are also Rh positive.
-- Estimated worldwide frequencies are **95%** Rh-positive and **6%** Rh-negative.
+### 族群分布
 
-## Rh IMMUNE RESPONSE
+- 約 **85%** 的白人為 Rh 陽性，**15%** 為 Rh 陰性。
+- 在美國黑人中，Rh 陽性者約 **95%**，而在非洲黑人中則接近 **100%**。
+- 超過 **95%** 的美洲原住民以及居住於中國、日本、韓國的亞洲人也是 Rh 陽性。
+- 全球估計頻率為 **95%** Rh 陽性和 **6%** Rh 陰性。
 
-### Formation of Anti-Rh Agglutinins
+---
 
-When RBCs containing Rh factor are injected into a person whose blood does not contain the Rh factor—that is, into an Rh-negative person—anti-Rh agglutinins develop slowly, reaching maximum concentration about 2 to 4 months later. This immune response occurs to a much greater extent in some people than in others. With multiple exposures to the Rh factor, an Rh-negative person eventually becomes strongly sensitized to Rh factor.
+## Rh 免疫反應
 
-### Characteristics of Rh Transfusion Reactions
+### Anti-Rh 凝集素的生成
 
-If an Rh-negative person has never been exposed to Rh-positive blood, transfusion of Rh-positive blood into that person will likely cause no immediate reaction. However, anti-Rh antibodies can develop in sufficient quantities during the next 2 to 4 weeks to cause agglutination of the transfused cells that are still circulating in the blood. These cells are then hemolyzed by the tissue macrophage system. Thus, a delayed transfusion reaction occurs, although it is usually mild.
+當含有 Rh 因子的紅血球被輸注到不具備 Rh 因子的受血者——即 Rh 陰性者——體內時，anti-Rh 凝集素的產生較為緩慢，大約在 2 至 4 個月後才達到最高濃度。這種免疫反應在不同個體間的強度差異很大。Rh 陰性者經過多次接觸 Rh 因子後，最終會對 Rh 因子產生強烈的敏感性。
 
-On subsequent transfusion of Rh-positive blood into the same person, who is now already immunized against the Rh factor, the transfusion reaction is greatly enhanced and can be immediate and as severe as a transfusion reaction caused by mismatched type A or B blood.
+### Rh 輸血反應的特點
 
-## ERYTHROBLASTOSIS FETALIS (Hemolytic Disease of the Newborn)
+若 Rh 陰性者從未接觸過 Rh 陽性血液，則第一次輸入 Rh 陽性血液後通常不會立即引起反應。然而，在接下來的 2 至 4 週內，anti-Rh 抗體可能累積到足夠的量，進而凝集仍在受血者血液中循環的輸入紅血球。這些細胞隨後被組織巨噬細胞系統溶血。因此，會發生延遲性輸血反應，不過通常輕微。
 
-Erythroblastosis fetalis is a disease of the fetus and newborn child characterized by agglutination and phagocytosis of the fetus's RBCs. In most cases, the mother is Rh negative and the father is Rh positive. The baby has inherited the Rh-positive antigen from the father, and the mother develops anti-Rh agglutinins from exposure to the fetus's Rh antigen. The mother's agglutinins diffuse through the placenta into the fetus and cause RBC agglutination.
+然而，在同一 Rh 陰性者日後再次接受 Rh 陽性血液輸入時（此時已對 Rh 因子產生免疫），輸血反應會大幅增強，可能立即發生且嚴重程度不亞於 ABO 血型不合所引起的輸血反應。
 
-### Incidence of Erythroblastosis Fetalis
+---
 
-An Rh-negative mother having her first Rh-positive child usually does not develop sufficient anti-Rh agglutinins to cause any harm. However:
+## 胎兒溶血病（Erythroblastosis Fetalis；新生兒溶血性疾病）
 
-- About **3%** of second Rh-positive babies exhibit some signs of erythroblastosis fetalis.
-- About **10%** of third babies exhibit the disease.
-- The incidence rises progressively with subsequent pregnancies.
+胎兒溶血病是一種發生於胎兒及新生兒的疾病，其特徵是胎兒紅血球的凝集與被吞噬。在大多數案例中，母親為 Rh 陰性，父親為 Rh 陽性。胎兒從父親那裡遺傳了 Rh 陽性抗原，母親則因接觸胎兒的 Rh 抗原而產生 anti-Rh 凝集素。母親的凝集素穿過胎盤擴散到胎兒血液中，引起紅血球凝集。
 
-### Effect of Mother's Antibodies on the Fetus
+### 胎兒溶血病的發生率
 
-After anti-Rh antibodies have formed in the mother, they diffuse slowly through the placental membrane into the fetus's blood. There they cause agglutination of the fetus's blood. The agglutinated RBCs subsequently hemolyze, releasing hemoglobin into the blood. The fetus's macrophages convert the hemoglobin into bilirubin, which causes the baby's skin to become yellow (jaundiced). The antibodies can also attack and damage other cells of the body.
+Rh 陰性母親懷有第一個 Rh 陽性孩子時，通常不會產生足以造成傷害的大量 anti-Rh 凝集素。然而：
 
-### Clinical Picture of Erythroblastosis
+- 約 **3%** 的第二個 Rh 陽性新生兒會呈現胎兒溶血病的某些徵兆。
+- 約 **10%** 的第三個新生兒會發病。
+- 此後每次懷孕的發生率會持續上升。
 
-The jaundiced, erythroblastotic newborn baby is usually anemic at birth, and the anti-Rh agglutinins from the mother usually circulate in the infant's blood for another 1 to 2 months after birth, destroying more and more RBCs. The hematopoietic tissues of the infant attempt to replace the hemolyzed RBCs. The liver and spleen become greatly enlarged and produce RBCs in the same manner that they normally do during the middle of gestation.
+### 母親抗體對胎兒的影響
 
-Because of the rapid production of RBCs, many early forms of RBCs, including many nucleated blastic forms, are passed from the baby's bone marrow into the circulatory system. It is because of the presence of these nucleated blastic RBCs that the disease is called erythroblastosis fetalis.
+母親體內形成 anti-Rh 抗體後，會緩慢擴散穿過胎盤膜進入胎兒血液。在那裡，它們會引起胎兒血液的凝集。凝集的紅血球隨後被溶血，釋放血紅素到血液中。胎兒的巨噬細胞將血紅素轉化為膽紅素，使嬰兒的皮膚變黃（黃疸）。這些抗體也可能攻擊並損害體內其他細胞。
 
-Although the severe anemia of erythroblastosis fetalis is usually the cause of death, many children who barely survive the anemia exhibit permanent mental impairment or damage to motor areas of the brain because of precipitation of bilirubin in the neuronal cells, causing the destruction of many of these cells—a condition called **kernicterus**.
+### 胎兒溶血病的臨床表徵
 
-### Treatment of Neonates With Erythroblastosis Fetalis
+患有黃疸和溶血症的新生兒在出生時通常有貧血，來自母親的 anti-Rh 凝集素在出生後的 1 至 2 個月內通常仍會在嬰兒血液中循環，持續破壞越來越多的紅血球。嬰兒的造血組織嘗試補充被溶血的紅血球。肝臟和脾臟會明顯腫大，並像在妊娠中期那樣產生紅血球。
 
-One treatment for erythroblastosis fetalis is to replace the neonate's blood with Rh-negative blood. The Rh-negative blood is infused over a period of 1.5 or more hours while the neonate's own Rh-positive blood is being removed. This procedure may be repeated several times during the first few weeks of life, mainly to keep the bilirubin level low and thereby prevent kernicterus.
+由於紅血球的快速生成，許多早期的紅血球形式（包括許多有核的胚芽形式）會從嬰兒骨髓進入循環系統。正是因為這些有核胚芽紅血球的存在，此疾病被命名為 erythroblastosis fetalis（胎兒有核紅血球增多症）。
 
-By the time these transfused Rh-negative cells are replaced with the infant's own Rh-positive cells—a process that requires 6 weeks or more—the anti-Rh agglutinins that had come from the mother will have been destroyed.
+雖然胎兒溶血病的嚴重貧血通常是死亡的原因，但許多勉强存活下來的兒童會因膽紅素沉積於神經細胞中而導致永久性的智能障礙或大腦運動區域損傷——這稱為 **核黃疸（kernicterus）**。
 
-### Prevention of Erythroblastosis Fetalis
+### 新生兒胎兒溶血病的治療
 
-The D antigen of the Rh blood group system is the primary culprit in causing immunization of an Rh-negative mother to an Rh-positive fetus. In the 1970s, a dramatic reduction in the incidence of erythroblastosis fetalis was achieved with the development of **Rh immunoglobulin globin**, an anti-D antibody that is administered to the expectant mother starting at 28 to 30 weeks of gestation. The anti-D antibody is also administered to Rh-negative women who deliver Rh-positive babies to prevent sensitization of the mothers to the D antigen. This step greatly reduces the risk of developing large amounts of D antibodies during subsequent pregnancies.
+胎兒溶血病的治療方法之一是以 Rh 陰性血液置換新生兒的血液。Rh 陰性血液在 1.5 小時或更長時間內輸入，同時移除新生兒自身的 Rh 陽性血液。在出生後的頭幾週內可重複進行數次此程序，主要目的是維持膽紅素在低水平，從而預防核黃疸。
 
-The mechanism whereby Rh immunoglobulin globin prevents sensitization to the D antigen is not completely understood, but one effect of the anti-D antibody is to inhibit antigen-induced B lymphocyte antibody production in the expectant mother. The administered anti-D antibody also attaches to D antigen sites on Rh-positive fetal RBCs that may cross the placenta and enter the circulation of the expectant mother, thereby interfering with the immune response to the D antigen.
+當這些輸入的 Rh 陰性細胞被嬰兒自身的 Rh 陽性細胞替換時——這個過程需要 6 週或更長時間——來自母親的 anti-Rh 凝集素將已被破壞。
 
-## TRANSFUSION REACTIONS RESULTING FROM MISMATCHED BLOOD TYPES
+### 胎兒溶血病的預防
 
-If donor blood of one blood type is transfused into a recipient who has another blood type, a transfusion reaction is likely to occur in which the RBCs of the donor blood are agglutinated. It is rare that the transfused blood causes agglutination of the recipient's cells for the following reason: the plasma portion of the donor blood immediately becomes diluted by all the plasma of the recipient, thereby decreasing the titer of the infused agglutinins to a level usually too low to cause agglutination. However, the small amount of infused blood does not significantly dilute the agglutinins in the recipient's plasma. Therefore, the recipient's agglutinins can still agglutinate the mismatched donor cells.
+Rh 血型系統的 D 抗原是導致 Rh 陰性母親對 Rh 陽性胎兒產生免疫反應的主要元兇。在 1970 年代，隨著 **Rh 免疫球蛋白（Rh immunoglobulin globin）** 的開發，胎兒溶血病的發生率顯著下降。這是一種 anti-D 抗體，在懷孕第 28 至 30 週開始給 Rh 陰性孕婦施用。Anti-D 抗體也用於分娩 Rh 陽性嬰兒的 Rh 陰性女性，以防止母親對 D 抗原的敏感化。此步驟大幅降低了後續懷孕期間產生大量 D 抗體的風險。
 
-As explained earlier, all transfusion reactions eventually cause immediate hemolysis resulting from hemolysins or later hemolysis resulting from phagocytosis of agglutinated cells. Hemoglobin released from the RBCs is then converted by the phagocytes into bilirubin and later excreted in the bile by the liver, as discussed in Chapter 71. The concentration of bilirubin in the body fluids often rises high enough to cause jaundice—that is, the person's internal tissues and skin become colored with yellow bile pigment. However, if liver function is normal, the bile pigment will be excreted into the intestines by way of the liver bile, so jaundice usually does not appear in an adult unless more than 400 milliliters of blood are hemolyzed in less than a day.
+Rh 免疫球蛋白預防對 D 抗原敏感化的機制尚未完全闡明，但 anti-D 抗體的作用之一是抑制抗原誘導的 B 淋巴細胞抗體產生。施用的 anti-D 抗體也會附著在可能穿過胎盤進入孕婦血液循環的 Rh 陽性胎兒紅血球的 D 抗原位點上，從而干擾對 D 抗原的免疫反應。
 
-### Acute Kidney Failure After Transfusion Reactions
+---
 
-One of the most lethal effects of transfusion reactions is kidney failure, which can begin within a few minutes to a few hours and continue until the person dies of acute renal failure. The kidney shutdown seems to have three causes:
+## 血型不合所致的輸血反應
 
-1. The antigen-antibody reaction of the transfusion reaction releases toxic substances from the hemolyzing blood that cause powerful renal vasoconstriction.
-2. Loss of circulating RBCs in the recipient, along with production of toxic substances from the hemolyzed cells and the immune reaction, often causes circulatory shock. The arterial blood pressure falls very low, and renal blood flow and urine output decrease.
-3. If the total amount of free hemoglobin released into the circulating blood is greater than the quantity that can bind with haptoglobin (a plasma protein that binds small amounts of hemoglobin), much of the excess leaks through the glomerular membranes into the kidney tubules. If this amount is still slight, it can be reabsorbed through the tubular epithelium into the blood and will cause no harm; if large, then only a small percentage is reabsorbed. Yet, water continues to be reabsorbed, causing the tubular hemoglobin concentration to rise so high that the hemoglobin precipitates and blocks many of the kidney tubules.
+若將某一血型的捐贈者血液輸給不同血型的受血者，很可能發生輸血反應，導致捐贈者血液的紅血球被凝集。輸入的血液通常不會凝集受血者的細胞，原因如下：捐贈者血液的血漿部分一經輸入就會被受血者的全部血漿稀釋，使輸入的凝集素效價稀釋到通常不足以引起凝集的程度。然而，少量輸入的血液並不能顯著稀釋受血者血漿中的凝集素。因此，受血者的凝集素仍能凝集不合的捐贈者細胞。
 
-Thus, renal vasoconstriction, circulatory shock, and renal tubular blockage together cause acute renal shutdown. If the shutdown is complete and fails to resolve, the patient dies within 7 to 12 days, as explained in Chapter 32, unless treated with an artificial kidney.
+如前所述，所有輸血反應最終都會因溶血素的作用而導致即時溶血，或因被凝集細胞的吞噬而延遲溶血。紅血球釋放的血紅素隨後被吞噬細胞轉化為膽紅素，最後經肝臟分泌至膽汁中（如第 71 章所述）。體液中的膽紅素濃度往往升高到足以引起黃疸的程度——即人體內部組織和皮膚被黃色的膽汁色素著色。然而，如果肝功能正常，膽汁色素會經肝臟膽汁排泄到腸道，因此除非在一天內溶血超過 400 毫升，否則成人通常不會出現黃疸。
 
-## TRANSPLANTATION OF TISSUES AND ORGANS
+### 輸血反應後的急性腎衰竭
 
-Most of the different antigens of RBCs that cause transfusion reactions are also widely present in other cells of the body, and each bodily tissue has its own additional complement of antigens. Consequently, foreign cells transplanted anywhere into the body of a recipient can produce an immune reaction. In other words, most recipients are just as able to resist invasion by foreign tissue cells as to resist invasion by foreign bacteria or RBCs.
+輸血反應最致命的後果之一是腎衰竭，可能在數分鐘至數小時內開始發生，並持續到患者死於急性腎衰竭為止。腎臟衰竭的原因主要有三：
 
-### Types of Grafts
+1. 輸血反應中抗原-抗體反應釋放的有毒物質會引起強烈的腎血管收縮。
+2. 受血者循環紅血球的丟失，加上溶血細胞和免疫反應產生的有毒物質，往往會引起循環性休克。血壓大幅下降，腎血流量和尿量減少。
+3. 如果釋放到血液中的游離血紅素總量超過能與觸珠蛋白（haptoglobin，一種結合少量血紅素的血漿蛋白）結合的量，過剩的部分會透過腎小球膜漏出進入腎小管。如果量輕微，可以被腎小管上皮細胞重新吸收而不造成傷害；但如果量過大，則只有少量被重新吸收。然而，水分持續被重新吸收，導致腎小管中的血紅素濃度升高到足以沉澱並阻塞許多腎小管。
 
-- **Autograft:** A transplant of a tissue or whole organ from one part of the same animal to another part.
-- **Isograft:** From one identical twin to another.
-- **Allograft:** From one person to another, or from an animal to another animal of the same species.
-- **Xenograft:** From a nonhuman animal to a human, or from an animal of one species to one of another species.
+因此，腎血管收縮、循環性休克和腎小管阻塞共同導致急性腎功能衰竭。如果腎功能完全衰竭且無法恢復，患者會在 7 至 12 天內死亡（如第 32 章所述），除非接受人工腎臟治療。
 
-### Transplantation of Cellular Tissues
+---
 
-In the case of autografts and isografts, cells in the transplant contain virtually the same types of antigens as in the tissues of the recipient and will almost always continue to live normally and indefinitely if an adequate blood supply is provided. At the other extreme, immune reactions almost always occur in xenografts, causing death of the cells in the graft within 1 day to 5 weeks after transplantation unless some specific therapy is used to prevent the immune reactions.
+## 組織與器官移植
 
-Some of the different cellular tissues and organs that have been transplanted from one person to another as allografts, either experimentally or for therapeutic purposes, are skin, kidney, heart, liver, glandular tissue, bone marrow, and lung. With proper matching of tissues between persons, many kidney allografts have been successful for at least 5 to 15 years and allograft liver and heart transplants for 1 to 15 years.
+紅血球上大多數引起輸血反應的抗原也廣泛存在於體內其他細胞中，而且每種組織都有其額外的抗原組合。因此，移植到受體任何部位的異體細胞都可能引起免疫反應。換言之，大多數受體抵禦異體組織細胞入侵的能力，與抵禦異體細菌或紅血球入侵的能力相同。
 
-## ATTEMPTS TO OVERCOME IMMUNE REACTIONS IN TRANSPLANTED TISSUE
+### 移植的類型
 
-Because of the extreme potential importance of transplanting certain tissues and organs, serious attempts have been made to prevent antigen-antibody reactions associated with transplantation. The following specific procedures have met with some degrees of clinical or experimental success.
+- **自體移植（Autograft）**：將同一動物的組織或整個器官從一個部位移植到另一個部位。
+- **同系移植（Isograft）**：從一對同卵雙胞胎的一方移植到另一方。
+- **同種移植（Allograft）**：從一個人移植到另一個人，或從一隻動物移植到同種的另一隻動物。
+- **異種移植（Xenograft）**：從非人類動物移植到人類，或從一種動物移植到另一種動物。
 
-### Tissue Typing—Human Leukocyte Antigen Complex of Antigens
+### 細胞組織的移植
 
-The most important antigens for causing graft rejection are a complex called **human leukocyte antigen (HLA)** antigens. Six of these antigens are present on the tissue cell membranes of each person, but there are about 150 different HLA antigens to choose from, representing more than 1 trillion possible combinations. Consequently, it is virtually impossible for two persons—except in the case of identical twins—to have the same six HLA antigens. Development of significant immunity against any of these antigens can cause graft rejection.
+對於自體移植和同系移植，移植組織中的細胞與受體組織具有幾乎相同的抗原類型，只要提供充足的血液供應，幾乎都能正常存活並永久存活。在另一個極端，異種移植幾乎都會發生免疫反應，導致移植細胞在移植後 1 天至 5 週內死亡——除非採用特定療法來防止免疫反應。
 
-The HLA antigens are on the white blood cells, as well as on the tissue cells. Therefore, tissue typing for these antigens is done on the membranes of lymphocytes that have been separated from the person's blood. The lymphocytes are mixed with appropriate antisera and complement; after incubation, the cells are tested for membrane damage, usually by determining the rate of transmembrane uptake by the lymphocytic cells of a special dye.
+臨床上或實驗中已成功進行同種移植的細胞組織和器官包括：皮膚、腎臟、心臟、肝臟、腺體組織、骨髓和肺臟。只要人與人之間的組織配對恰當，許多腎臟同種移植已成功維持 5 至 15 年以上，肝臟和心臟同種移植也可成功維持 1 至 15 年。
 
-Some of the HLA antigens are not severely antigenic. Therefore, a precise match of some antigens between donor and recipient is not always essential to allow allograft acceptance. By using a more advanced method of genetic testing and obtaining the best possible match between donor and recipient, the grafting procedure has become far less hazardous. The best success has been with tissue type matches between siblings and between parent and child. The match in identical twins is exact, so transplants between identical twins are almost never rejected because of an immune reaction.
+---
 
-### Prevention of Graft Rejection by Suppressing the Immune System
+## 克服移植組織免疫反應的嘗試
 
-If the immune system were completely suppressed, graft rejection would not occur. In fact, in a person who has serious depression of the immune system, grafts can be successful without the use of significant therapy to prevent rejection. However, in the person with a healthy immune system, even with the best possible tissue typing, allografts seldom resist rejection for more than a few days or weeks without the use of specific therapy to suppress the immune system. Furthermore, because the T cells are mainly the portion of the immune system important for killing grafted cells, their suppression is much more important than suppression of plasma antibodies.
+由於移植特定組織和器官具有極大的潛在重要性，醫學界已認真嘗試防止與移植相關的抗原-抗體反應。以下幾種特定方法在臨床或實驗上都取得了一定程度的成功。
 
-Some of the therapeutic agents that have been used for this purpose include the following:
+### 組織分型——人類白血球抗原複合體
 
-1. **Glucocorticoid hormones** from adrenal cortex glands (or drugs with glucocorticoid-like activity). These drugs inhibit genes that code for several cytokines, especially interleukin-2 (IL-2). IL-2 is an essential factor that induces T-cell proliferation and antibody formation.
-2. **Various drugs that have a toxic effect on the lymphoid system** and therefore block formation of antibodies and T cells, especially the drug azathioprine.
-3. **Cyclosporine and tacrolimus**, which inhibit formation of T-helper cells and, therefore, are especially efficacious in blocking the T-cell rejection reaction. These agents have proven to be highly valuable drugs because they do not depress some other portions of the immune system.
-4. **Immunosuppressive antibody therapy**, including specific antilymphocyte or IL-2 receptor antibodies.
+引起移植排斥反應的最重要抗原是一個稱為 **人類白血球抗原（Human Leukocyte Antigen, HLA）** 的複合體。每個人的組織細胞膜上都有六種這類抗原，但大約有 150 種不同的 HLA 抗原可供選擇，代表超過 1 兆種可能的組合。因此，除了同卵雙胞胎外，幾乎不可能有兩個人具有完全相同的六種 HLA 抗原。對任何一種這些抗原產生顯著免疫，都可能導致移植排斥。
 
-Use of these agents often leaves the person unprotected from infectious disease; therefore, sometimes bacterial and viral infections become rampant. In addition, the incidence of cancer is several times greater in an immunosuppressed person, presumably because the immune system is important in destroying many early cancer cells before they can begin to proliferate.
+HLA 抗原不僅存在於組織細胞上，也存在於白血球上。因此，這些抗原的組織分型是從分離出的淋巴細胞膜上進行的。將淋巴細胞與適當的抗血清和補體混合，孵育後測試細胞膜損傷程度，通常是透過測定淋巴細胞對特殊染料的跨膜攝取率來判斷。
 
-Transplantation of living tissues in people has been successful mainly because of the development of drugs that suppress the responses of the immune system. With the introduction of improved immunosuppressive agents, successful organ transplantation has become much more common. The current approach to immunosuppressive therapy attempts to balance acceptable rates of rejection with moderation of the adverse effects of immunosuppressive drugs.
+部分 HLA 抗原的抗原性並不強烈。因此，捐贈者與受贈者之間某些抗原的精確匹配並非同種移植成功的必要條件。透過使用更先進的基因檢測方法，並在捐贈者與受贈者之間盡可能最佳匹配，移植程序的風險已大為降低。同類兄弟姐妹之間以及父母與子女之間的組織配對最為成功。同卵雙胞胎之間的匹配是精確的，因此同卵雙胞胎之間的移植幾乎不會因免疫反應而被排斥。
 
-## BIBLIOGRAPHY
+### 透過抑制免疫系統防止移植排斥
 
-Branch DR: Anti-A and anti-B: what are they and where do they come from? Transfusion 55 Suppl 2:S74, 2015.
+如果免疫系統被完全抑制，移植排斥就不會發生。事實上，對於免疫系統嚴重抑制的人，即使不採用特定的抗排斥治療，移植也能成功。然而，對於免疫系統健康的人來說，即使有最理想的組織配對，如果不使用特定的免疫抑制治療，同種移植也很少能抵抗排斥反應超過數天或數週。此外，由於 T 細胞是免疫系統中殺死移植細胞的主要部分，因此抑制 T 細胞比抑制漿細胞抗體更為重要。
 
-Burton NM, Anstee DJ: Structure, function and significance of Rh proteins in red cells. Curr Opin Hematol 15:625, 2008.
+臨床上用於此目的的治療藥物包括：
 
-Dierickx D, Habermann TM: Post-transplantation lymphoproliferative disorders in adults. N Engl J Med 378:549, 2018.
+1. **腎上腺皮質糖皮質激素**（或具有糖皮質激素樣活性的藥物）。這些藥物抑制編碼多種細胞激素的基因，特別是介白素-2（interleukin-2, IL-2）。IL-2 是誘導 T 細胞增殖和抗體形成的必要因子。
+2. **對淋巴系統有毒性作用的各類藥物**，因此能阻斷抗體和 T 細胞的形成，特別是 azathioprine。
+3. **Cyclosporine 和 tacrolimus**，抑制 T 輔助細胞的形成，因此特別能有效阻斷 T 細胞排斥反應。由於這些藥物不會抑制免疫系統的其他部分，因此被證明非常有價值。
+4. **免疫抑制抗體療法**，包括特定的抗淋巴細胞抗體或 IL-2 受體抗體。
 
-Ezekian B, Schroder PM, Freischlag K, et al: Contemporary strategies and barriers to transplantation tolerance. Transplantation 102:1213, 2018.
+使用這些藥物常使患者失去對傳染病的保護能力，因此有時細菌和病毒感染會失控。此外，免疫抑制者的癌症發病率也高出數倍，推測是因為免疫系統在摧毀許多早期癌細胞方面具有重要作用。
 
-Flegel WA: Pathogenesis and mechanisms of antibody-mediated hemolysis. Transfusion 55 Suppl 2:S47, 2015.
-
-Kramer CSM, Israeli M, Mulder A, et al: The long and winding road towards epitope matching in clinical transplantation. Transpl Int 32:16, 2019.
-
-Loupy A, Lefaucheur C: Antibody-mediated rejection of solid-organ allografts. N Engl J Med 379:1150, 2018.
-
-MacDonald KP, Blazar BR, Hill GR: Cytokine mediators of chronic graft-versus-host disease. J Clin Invest 127:2452, 2017.
-
-Montgomery RA, Tatapudi VS, Leffell MS, Zachary AA: HLA in transplantation. Nat Rev Nephrol 14:558, 2018.
-
-Watchko JF, Tiribelli C: Bilirubin-induced neurologic damage—mechanisms and management approaches. N Engl J Med 369:2021, 2013.
-
-Webb J, Delaney M: Red blood cell alloimmunization in the pregnant patient. Transfus Med Rev 32:213, 2018.
-
-Westhoff CM: Blood group genotyping. Blood 133:1814, 2019.
-
-Westhoff CM: The structure
+組織活體移植在人類中取得成功，主要歸功於免疫抑制反應藥物的發展。隨著免疫抑制藥物的改進，成功器官移植已變得更加普遍。目前免疫抑制治療的方法是在可接受的排斥率和免疫抑制藥物不良反應之間取得平衡。

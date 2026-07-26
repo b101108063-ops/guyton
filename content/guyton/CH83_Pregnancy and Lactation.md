@@ -8,81 +8,110 @@ key_points:
   - "Content extracted directly from official Guyton & Hall PDF source"
 ---
 
+## 章節導讀
 
-UNIT XIV
-Endocrinology and Reproduction
+妊娠與泌乳涵蓋從受精到新生兒餵養的完整生理過程。受精卵在輸卵管的壺腹部與精子結合後，經桑葚胚與囊胚階段，於排卵後 7–9 天著床於子宫内膜蛻膜（decidua）。早期胚胎營養來自蛻膜細胞儲存的物質；約第 16 天後胎盤（placenta）開始承擔營養功能。胎盤是由胎兒絨毛（chorionic villi）與母體血液竇（maternal blood sinuses）交織形成的器官，執行氣體交換（O₂、CO₂）、營養物質擴散（glucose、fatty acids）與廢物排泄（urea、creatinine）。胎兒血紅蛋白（fetal hemoglobin）對 O₂ 的親和力高於成人血紅蛋白，加上胎兒血紅蛋白濃度較高與雙 Bohr 效應，使胎兒即使在胎盤血 P_O₂僅 30 mm Hg 的情況下仍能獲得足夠氧氣。妊娠期重要的胎盤激素包括：hCG（維持黃體功能防止月經並刺激男性胎兒睪固酮分泌）、estrogen（促進子宫增大與乳腺發育）、progesterone（維持子宫内膜並抑制子宫收縮）與 human placental lactogen/human chorionic somatomammotropin（促進乳腺發育並調整母體代謝）。胎兒甲狀腺、腎上腺皮質與腦下垂體相對獨立發育。分娩的啟動涉及機械性擴張與激素變化（estrogen ↑、progesterone ↓、oxytocin ↑、前列腺素 ↑）。泌乳則由 prolactin（促進乳汁合成）與 oxytocin（促進乳汁射出）共同調控。
 
-# CHAPTER 83
-# Parturition and Lactation
+---
 
-## Early Nutrition of the Embryo
+## 胚胎早期營養
 
-In Chapter 82, we pointed out that the progesterone secreted by the ovarian corpus luteum during the latter half of each monthly sexual cycle has an effect on the uterine endometrium, converting the endometrial stromal cells into large swollen cells containing extra quantities of glycogen, proteins, lipids, and even some minerals necessary for development of the conceptus (the embryo and its adjacent parts or associated membranes). Then, when the conceptus implants in the endometrium, continued secretion of progesterone causes the endometrial cells to swell further and to store even more nutrients. These cells are now called decidual cells, and the total mass of cells is called the decidua.
+受精卵著床後，蛻膜細胞（decidual cells）儲存大量糖原、蛋白質、脂類與礦物質，供胚胎生長發育所需。著床後第一週這是胚胎唯一的營養來源；約第十六天起，胎盤開始分擔營養功能（Figure 83-4）。
 
-As the trophoblast cells invade the decidua, digesting and imbibing it, the stored nutrients in the decidua are used by the embryo for growth and development. During the first week after implantation, this is the only means by which the embryo can obtain nutrients; the embryo continues to obtain at least some of its nutrition in this way for up to 8 weeks, although the placenta also begins to provide nutrition after about the 16th day beyond fertilization (a little more than 1 week after implantation). Figure 83-4 shows this trophoblastic period of nutrition, which gradually gives way to placental nutrition.
+---
 
-## Anatomy and Function of the Placenta
+## 胎盤的解剖與功能
 
-While the trophoblastic cords from the blastocyst are attaching to the uterus, blood capillaries grow into the cords from the vascular system of the newly forming embryo. About 21 days after fertilization, blood also begins to be pumped by the heart of the human embryo. Simultaneously, blood sinuses supplied with blood from the mother develop around the outsides of the trophoblastic cords. The trophoblast cells send out more and more projections, which become placental villi into which fetal capillaries grow. Thus, the villi, carrying fetal blood, are surrounded by sinuses that contain maternal blood.
+### 胎盤結構
 
-The final structure of the placenta is shown in Figure 83-5. Note that the blood of the fetus flows through two umbilical arteries, then into the capillaries of the villi, and finally back through a single umbilical vein into the fetus. At the same time, the mother's blood flows from her uterine arteries into large maternal sinuses that surround the villi and then back into the uterine veins of the mother. The lower part of Figure 83-5 shows the relationship between the fetal blood of each fetal placental villus and the blood of the mother surrounding the outsides of the villus in the fully developed placenta.
+胎兒血液經兩條臍帶动脉進入絨毛毛細血管，再經臍靜脈回到胎兒。母體血液由子宫动脉進入環繞絨毛的大型母體血液竇，再回流至子宫靜脈（Figure 83-5）。胎兒血與母體血在絨毛處僅由一層薄薄的胎盤膜（placental membrane）分隔。
 
-The total surface area of all the villi of the mature placenta is only a few square meters—many times less than the area of the pulmonary membrane in the lungs. Nevertheless, nutrients and other substances pass through this placental membrane mainly by diffusion in much the same manner that diffusion occurs through the alveolar membranes of the lungs and the <span class="c-pink">capillary</span> membranes elsewhere in the body.
+### 胎盤的物質交換
 
-## Placental Permeability and Membrane Diffusion Conductance
+胎盤膜的功能類似肺泡膜，物質主要經擴散通過。
 
-The major function of the placenta is to provide for diffusion of foodstuffs and oxygen from the mother's blood into the fetus's blood and diffusion of excretory products from the fetus back into the mother.
+**氧氣交換**：妊娠晚期，母體胎盤竇的 P_O₂ 約 50 mm Hg，胎兒血在胎盤氧合後 P_O₂ 約 30 mm Hg，壓差約 20 mm Hg。胎兒仍能獲得充足氧氣的原因：
 
-In the early months of pregnancy, the placental membrane is still thick because it is not fully developed. Therefore, its permeability is low. Further, the surface area is small because the placenta has not grown significantly. Therefore, the total diffusion conductance is minuscule at first. In later pregnancy, the permeability increases because of thinning of the membrane diffusion layers and because the surface area expands many times over, thus giving the tremendous increase in placental diffusion shown in Figure 83-4.
+1. **胎兒血紅蛋白（HbF）**：與 O₂ 的親和力高於成人血紅蛋白（HbA），在相同 P_O₂ 下可攜帶多 20%–50% 的氧（氧解離曲線左移）
+2. **胎兒血紅蛋白濃度較高**：約比母體高 50%
+3. **雙 Bohr 效應（Double Bohr effect）**：胎兒血攜帶較多 CO₂，CO₂ 擴散至母體血後使母體血變酸（ Bohr效應使血紅蛋白釋放 O₂），同時胎兒血失去 CO₂ 後變鹼（增加 O₂ 結合）。此雙向效應使 Bohr 效應的重要性加倍。
 
-Rarely, "breaks" occur in the placental membrane, which allows fetal blood cells to pass into the mother or, even less commonly, the mother's cells to pass into the fetus. Fortunately, it is rare for the fetus to bleed severely into the mother's circulation because of a ruptured placental membrane.
+**二氧化碳交換**：胎兒血 P_CO₂ 比母體高約 2–3 mm Hg，足以維持 CO₂ 的擴散；CO₂ 在胎盤膜中的溶解度約為 O₂ 的 20 倍。
 
-### Diffusion of Oxygen Through the Placental Membrane
+**營養物質擴散**：葡萄糖以促進性擴散（facilitated diffusion，經 trophoblast 細胞膜上的載體）通過胎盤，胎兒血葡萄糖濃度約為母體血的 70%–80%。游離脂肪酸、胺基酸與電解質也以不同速率擴散進入胎兒血。
 
-Almost the same principles for diffusion of oxygen through the pulmonary membrane (discussed in detail in Chapter 40) are applicable for diffusion of oxygen through the placental membrane. The dissolved oxygen in the blood of the large maternal sinuses passes into the fetal blood by simple diffusion, driven by an oxygen pressure gradient from the mother's blood to the fetus's blood. Near the end of pregnancy, the mean partial pressure of oxygen (Po₂) of the mother's blood in the placental sinuses is about 50 mm Hg, and the mean Po₂ in the fetal blood after it becomes oxygenated in the placenta is about 30 mm Hg. Therefore, the mean pressure gradient for diffusion of oxygen through the placental membrane is about 20 mm Hg.
+**廢物排泄**：尿素、肌酸酐與尿酸擴散回母體血，再由母體腎臟排出。
 
-One might wonder how it is possible for a fetus to obtain sufficient oxygen when the fetal blood leaving the placenta has a Po₂ of only 30 mm Hg. There are three reasons why even this low Po₂ is capable of allowing the fetal blood to transport almost as much oxygen to the fetal tissues as is transported by the mother's blood to her tissues:
+---
 
-- First, the hemoglobin of the fetus is mainly fetal hemoglobin, which is a type of hemoglobin synthesized in the fetus before birth. Figure 83-6 shows the comparative oxygen dissociation curves for maternal hemoglobin and fetal hemoglobin, demonstrating that the curve for fetal hemoglobin is shifted to the left of that for maternal hemoglobin. This means that at the low Po₂ levels in fetal blood, the fetal hemoglobin can carry 20% to 50% more oxygen than can maternal hemoglobin.
-- Second, the hemoglobin concentration of fetal blood is about 50% greater than that of the mother, which is an even more important factor in enhancing the amount of oxygen transported to the fetal tissues.
-- Third, the Bohr effect, which is explained in relation to the exchange of carbon dioxide and oxygen in the lung in Chapter 41, provides another mechanism to enhance the transport of oxygen by fetal blood. That is, hemoglobin can carry more oxygen at a low Pco₂ than it can at a high Pco₂. The fetal blood entering the placenta carries large amounts of carbon dioxide, but much of this carbon dioxide diffuses from the fetal blood into the maternal blood. Loss of the carbon dioxide makes the fetal blood more alkaline, whereas the increased carbon dioxide in the maternal blood makes it more acidic. These changes increase the capacity of fetal blood to combine with oxygen and decrease oxygen binding of maternal blood, which forces still more oxygen from the maternal blood while enhancing oxygen uptake by the fetal blood. Thus, the Bohr shift operates in one direction in the maternal blood and in the other direction in the fetal blood. These two effects make the Bohr shift twice as important here as it is for oxygen exchange in the lungs; therefore, it is called the double Bohr effect.
+## 妊娠期的內分泌因子
 
-By these three means, the fetus is capable of receiving more than adequate oxygen through the placental membrane, despite the fact that the fetal blood leaving the placenta has a Po₂ of only 30 mm Hg.
+### Human Chorionic Gonadotropin（hCG）
 
-The total diffusing capacity of the entire placenta for oxygen at term is about 1.2 ml of oxygen per minute per mm Hg oxygen pressure difference across the membrane, which compares favorably with that of the lungs of the newborn baby.
+由合胞體滋養層細胞分泌，受精後 8–9 天即可在母體血液中測得，約 10–12 週達峰值，之後下降並持續至分娩。
 
-### Diffusion of Carbon Dioxide Through the Placental Membrane
+**功能**：
+1. **維持黃體功能**：hCG 作用類似 LH，防止黃體退化並促進其分泌 progesterone 與 estrogen，維持子宫内膜並防止月經來潮
+2. **刺激男性胎兒睪固酮分泌**：促使胎兒 Leydig cells 分泌睪固酮，驅動男性外生殖器發育；臨近分娩時使睪丸下降至陰囊
 
-Carbon dioxide is continually formed in the fetal tissues in the same way that it is formed in maternal tissues, and the only means for excreting the carbon dioxide from the fetus is through the placenta into the mother's blood. The partial pressure of carbon dioxide (Pco₂) of the fetal blood is 2 to 3 mm Hg higher than that of the maternal blood. This small pressure gradient for carbon dioxide across the membrane is more than sufficient to allow adequate diffusion of carbon dioxide because the extreme solubility of carbon dioxide in the placental membrane allows carbon dioxide to diffuse about 20 times as rapidly as oxygen.
+若在妊娠第七週前切除黃體，幾乎必然導致流產；第七週後胎盤已能分泌足夠的 progesterone 與 estrogen 維持妊娠。
 
-### Diffusion of Foodstuffs Through the Placental Membrane
+### Human Placental Lactogen（HPL）/Human Chorionic Somatomammotropin
 
-Other metabolic substrates needed by the fetus diffuse into the fetal blood in the same manner as oxygen. For example, in the late stages of pregnancy, the fetus often uses as much glucose as is used by the entire body of the mother. To provide this much glucose, the trophoblast cells lining the placental villi provide for facilitated diffusion of glucose through the placental membrane—that is, the glucose is transported by carrier molecules in the trophoblast cells of the membrane. Even so, the glucose level in fetal blood is 20% to 30% lower than that in maternal blood.
+由胎盤分泌，促進乳腺發育並調整母體胰島素敏感性，使更多的葡萄糖與脂肪酸供應胎兒。
 
-Because of the high solubility of fatty acids in cell membranes, these fatty acids also diffuse from the maternal blood into the fetal blood, but more slowly than glucose, so glucose is used more easily by the fetus for nutrition. Also, such substances as ketone bodies and potassium, sodium, and chloride ions diffuse with relative ease from the maternal blood into the fetal blood.
+### Estrogen 與 Progesterone
 
-### Excretion of Waste Products Through the Placental Membrane
+兩者皆由胎盤大量分泌（黃體也早期貢獻）。Progesterone 維持子宫内膜的分泌期變化並抑制子宫收縮（防止早產）；Estrogen 促進子宫平滑肌增大、子宮血液供應增加與乳腺導管發育。
 
-In the same manner that carbon dioxide diffuses from the fetal blood into the maternal blood, other excretory products formed in the fetus also diffuse through the placental membrane into the maternal blood and are then excreted along with the excretory products of the mother. These products include especially the nonprotein nitrogens such as urea, uric acid, and creatinine. The level of urea in fetal blood is only slightly greater than that in maternal blood because urea diffuses through the placental membrane with great ease. However, creatinine, which does not diffuse as easily, has a fetal blood concentration considerably higher than that in the mother's blood. Therefore, excretion from the fetus depends mainly, if not entirely, on the diffusion gradients across the placental membrane and its permeability and surface area. Because there are higher concentrations of the excretory products in the fetal blood than in the maternal blood, there is continual diffusion of these substances from the fetal blood to the maternal blood.
+---
 
-## Hormonal Factors in Pregnancy
+## 胎兒的內分泌腺發育
 
-In pregnancy, the placenta forms especially large quantities of human chorionic gonadotropin, estrogens, progesterone, and human chorionic somatomammotropin, the first three of which, and probably the fourth as well, are all essential to a normal pregnancy.
+胎兒甲狀腺於第十二週已能攝取碘並合成甲狀腺激素；腎上腺皮質於第六個月時已完全形成；腦下垂體前葉於第二個月已能分泌 ACTH、甲狀腺刺激素與 FSH。
 
-### Human Chorionic Gonadotropin Causes Persistence of the Corpus Luteum and Prevents Menstruation
+胎兒甲狀腺機能對腦部發育尤其關鍵（Chapter 77）。
 
-Menstruation normally occurs in a nonpregnant woman about 14 days after ovulation, at which time most of the endometrium of the uterus sloughs away from the uterine wall and is expelled to the exterior. If this happens after an ovum has implanted, the pregnancy will terminate. However, this sloughing is prevented by secretion of human chorionic gonadotropin by the newly developing embryonic tissues.
+---
 
-Coincidental with the development of the trophoblast cells from the early fertilized ovum, human chorionic gonadotropin is secreted by the syncytial trophoblast cells into the fluids of the mother, as shown in Figure 83-7. Secretion of this hormone can first be measured in the blood 8 to 9 days after ovulation, shortly after the blastocyst implants in the endometrium. Then, the secretion rate rises rapidly to reach a maximum at about 10 to 12 weeks of pregnancy and decreases back to a lower value by 16 to 20 weeks. It continues at this level for the remainder of the pregnancy.
+## 分娩（Parturition）
 
-**Function of Human Chorionic Gonadotropin.** Human chorionic gonadotropin is a glycoprotein having a molecular weight of about 39,000 and much the same molecular structure and function as luteinizing hormone secreted by the pituitary gland. The most important function of human chorionic gonadotropin is to prevent involution of the corpus luteum at the end of the monthly female sexual cycle. Instead, it causes the corpus luteum to secrete even larger quantities of its sex hormones—progesterone and estrogens—for the next few months. These sex hormones prevent menstruation and cause the endometrium to continue to grow and store large amounts of nutrients rather than being shed in the menstruum. As a result, the decidua-like cells that develop in the endometrium during the normal female sexual cycle become actual decidual cells—greatly swollen and nutritious—at about the time that the blastocyst implants.
+### 觸發分娩的激素變化
 
-Under the influence of human chorionic gonadotropin, the corpus luteum in the mother's ovary grows to about twice its initial size by a month or so after pregnancy begins. Its continued secretion of estrogens and progesterone maintains the decidual nature of the uterine endometrium, which is necessary for early development of the fetus.
+分娩的啟動涉及多重因素：
 
-If the corpus luteum is removed before approximately the seventh week of pregnancy, spontaneous abortion almost always occurs, sometimes even up to the 12th week. After that time, the placenta secretes sufficient quantities of progesterone and estrogens to maintain pregnancy for the remainder of the gestation period. The corpus luteum involutes slowly after the 13th to 17th week of gestation.
+- **Progesterone/Estrogen 比值下降**：Progesterone 抑制子宫收縮；分娩前 progesterone 下降使子宫對收縮刺激的敏感性增加
+- **Oxytocin 增加**：胎兒下丘腦-垂體分泌 oxytocin，子宮內壓力感受器激活使母體 oxytocin 分泌進一步增加
+- **前列腺素（Prostaglandins）增加**：胎兒、子宮內膜與胎盤釋放前列腺素（F₂α 與 E₂），強力刺激子宫平滑肌收縮
+- **機械性因素**：胎兒頭部對子宫下段的擴張刺激
 
-**Human Chorionic Gonadotropin <span class="c-green">Stimulates</span> the Male Fetal Testes to Produce Testosterone.** Human chorionic gonadotropin also exerts an interstitial cell–stimulating effect on the testes of the male fetus, resulting in production of testosterone in male fetuses until the time of birth. This small secretion of testosterone during gestation is what causes the fetus to grow male sex organs instead of female organs. Near the end of pregnancy, testosterone secreted by the fetal testes also causes the testes to descend into the scrotum.
+### 分娩的過程
 
-### Secretion of Estrogens by the Placenta
+分娩可分為三個階段：
+1. **第一產程（宮頸擴張期）**：規律性子宮收縮使子宫頸從閉合狀態擴張至完全開張（10 cm）
+2. **第二產程（胎兒娩出期）**：胎兒在子宫收縮與產婦用力下通過陰道娩出
+3. **第三產程（胎盤娩出期）**：胎盤從子宫壁剝離並排出
 
-The placenta, like the corpus luteum, secretes estrogens and progesterone. Histochemical and physiological studies show
+---
+
+## 泌乳（Lactation）
+
+### 乳腺的結構
+
+乳腺由 15–25 個葉（lobes）構成，每葉含無數腺泡（alveoli），腺泡細胞在 prolactin 與其他激素作用下合成乳汁。乳汁經導管系統收集，通過輸乳竇（lactiferous sinuses，在乳頭下方擴張的導管區域）後由乳頭排出。
+
+### 乳汁分泌的激素調控
+
+**懷孕期間**：高濃度雌激素與 progesterone 促進乳腺導管與腺泡的發育，但高濃度的雌激素與 progesterone 也抑制 prolactin 對乳腺的泌乳效應。因此懷孕期間乳腺已發育完成但不分泌乳汁。
+
+**產後**：胎盤娩出後，雌激素與 progesterone 血漿濃度急劇下降，對乳腺的抑制解除，prolactin 開始促進乳汁分泌。
+
+**乳汁射出（Milk ejection）**：催產素（oxytocin）刺激乳腺腺泡周圍的肌上皮細胞（myoepithelial cells）收縮，將乳汁從腺泡擠入導管並通過乳頭射出。吸吮本身刺激乳頭感覺受器，經脊髓上傳至下丘腦，促進 oxytocin 的神經垂體分泌——這是一個典型的神經內分泌反射（neuroendocrine reflex）。
+
+### 乳汁的成分
+
+初乳（colostrum）：產後最初數天分泌，富含免疫球蛋白（IgA）、電解質與蛋白質，脂肪與乳糖含量較少。成熟乳汁（mature milk）：含蛋白質（主要為乳清蛋白）、乳糖、脂肪、維生素與礦物質。
+
+### 乳汁分泌的維持
+
+持續哺乳（吸吮）是維持乳汁分泌的關鍵：吸吮刺激乳頭感覺受器，通過視上核與副視核促進 oxytocin 與 prolactin 的分泌。若哺乳停止，乳汁分泌在數天內減少並停止（退奶）。

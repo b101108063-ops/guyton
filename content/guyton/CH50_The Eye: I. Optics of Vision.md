@@ -3,171 +3,136 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH50"
 title: "The Eye: I. Optics of Vision"
 book: "Guyton & Hall"
-summary: "Chapter CH50 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章介紹視覺光學的基本原理。眼球可模擬為單一折射面（reduced eye），總折光力約 59 diopters，其中約三分之二由角膜提供（因其折射率與空氣差異最大）。水晶體的靜態折光力僅 20 diopters，但其可變形狀的特性使眼睛能夠 Accommodate（調節）。睫狀肌收縮放鬆懸韌帶，使水晶體因囊袋彈性而變厚、屈光度增加。隨年齡增長，水晶體蛋白變性、彈性下降，導致 Presbyopia（老花眼）。瞳孔大小控制光量（1.5–8 mm 直徑，約 30 倍光量變化）並影響 depth of focus。常見屈光異常包括近視（眼球過長，影像聚焦於視網膜前）、遠視（眼球過短或折光力不足）與散光（角膜在不同軸向上的曲率不一致）。
 ---
 
-# THE OPTICS OF VISION
+# CHAPTER 50
+視覺光學
 
-## OPTICS OF THE EYE
+## 章節導讀
 
-The lens system of the eye (Figure 50-9) is composed of four refractive interfaces:
+眼睛是一部精密的光學儀器，其功能是將外界的光線聚焦於視網膜上，形成倒立且左右反轉的影像。本章從物理光學的角度解析眼睛的成像機制：首先說明眼球的四個折射界面與 Reduced eye 模型，接著介紹屈光度（diopter）的測量原理，並深入探討眼睛如何透過改變水晶體形狀來進行 **accommodation（調節）**。
 
-1. The interface between air and the anterior surface of the cornea
-2. The interface between the posterior surface of the cornea and the aqueous humor
-3. The interface between the aqueous humor and the anterior surface of the lens of the eye
-4. The interface between the posterior surface of the lens and the vitreous humor
+睫狀肌的收縮與放鬆控制著水晶體的形狀：副交感神經刺激使睫狀肌收縮，懸韌帶放鬆，水晶體因囊袋彈性而變厚、屈光度增加，得以對近物聚焦；交感神經刺激則協助放鬆水晶體。隨年齡增長，水晶體蛋白變性、彈性下降，調節能力逐步喪失，這就是 **presbyopia（老花眼）** 的成因。本章也將說明近視、圓錐角膜與散光等常見屈光異常的形成機制與光學矫正原理。
 
-The refractive indices are as follows: air, 1.00; cornea, 1.38; aqueous humor, 1.33; crystalline lens (on average), 1.40; and vitreous humor, 1.34.
+## 眼球的光學系統
 
-### The "Reduced" Eye
+### 四個折射界面
 
-If all the refractive surfaces of the eye are added together algebraically and then considered to be one single lens, the optics of the normal eye may be simplified and represented schematically as a "reduced eye." This representation is useful in simple calculations. In the reduced eye, a single refractive surface is considered to exist, with its central point 17 millimeters in front of the retina and a total refractive power of 59 diopters when the lens is accommodated for distant vision.
+眼球的折射系統由四個界面組成（圖 50-9）：
 
-About two-thirds of the 59 diopters of refractive power of the eye is provided by the anterior surface of the cornea (not by the eye lens). The principal reason for this phenomenon is that the refractive index of the cornea is markedly different from that of air, whereas the refractive index of the eye lens is not greatly different from the indices of the aqueous humor and vitreous humor.
+1. 空氣 ↔ 角膜前面
+2. 角膜後面 ↔ 前房液
+3. 前房液 ↔ 水晶體前面
+4. 水晶體後面 ↔ 玻璃體
 
-The total refractive power of the internal lens of the eye, as it normally lies in the eye surrounded by fluid on each side, is only 20 diopters—about one-third the total refractive power of the eye. However, the importance of the internal lens is that in response to nervous signals from the brain, its curvature can be increased markedly to provide "accommodation," which is discussed later in this chapter.
+**Table: 眼內結構的折射率**
 
-### Formation of an Image on the Retina
+| 結構 | 折射率 |
+|------|--------|
+| 空氣 | 1.00 |
+| 角膜 | 1.38 |
+| 前房液 | 1.33 |
+| 水晶體（平均） | 1.40 |
+| 玻璃體 | 1.34 |
 
-In the same manner that a glass lens can focus an image on a sheet of paper, the lens system of the eye can focus an image on the retina. The image is inverted and reversed with respect to the object. However, the mind perceives objects in the upright position despite the upside-down orientation on the retina because the brain is trained to consider an inverted image as normal.
+### Reduced Eye 模型
 
----
+為簡化計算，可將眼球所有折射面代數相加，視為一個位於視網膜前方 17 mm 處的單一折射面，總折光力在休息狀態（遠距視力）下約 **59 diopters**。
 
-## FORMATION OF IMAGES BY CONVEX LENSES
+有趣的是：折光力的三分之二來自**角膜**（約 40 diopters），而非水晶體（僅約 20 diopters）。這是因為角膜的折射率與空氣差異極大（1.38 vs. 1.00），而水晶體周圍的房水與玻璃體折射率差異較小，使水晶體的「有效」折光力受到限制。水晶體的真正重要性在於其**可變形**的特性——透過形狀改變提供 **accommodation（調節）** 功能。
 
-A convex lens has the property of focusing parallel light rays to a point on the opposite side of the lens, known as the focal point. The distance from the lens to the focal point is called the focal length.
+### 視網膜上的成像
 
-When light rays enter a convex lens, those rays passing through the center of the lens are not refracted in either direction. Light rays from each point source of light on an object come to a separate point focus on the opposite side of the lens in line with the lens center. If a white sheet of paper is placed at the focal distance from the lens, one can see an image of the object. However, this image is upside down with respect to the original object, and the two lateral sides of the image are reversed. The lens of a camera focuses images on film via this method.
+眼球的光學系統如同相機鏡頭，將外界物體的倒立實像投射於視網膜上。大腦皮質經驗會將這個倒立的影像自動解讀為正立，因此主觀知覺不受影響。
 
----
+## 凸透鏡成像與屈光度
 
-## MEASUREMENT OF REFRACTIVE POWER—THE DIOPTER
+### 屈光度（Diopter）的定義
 
-The more a lens bends light rays, the greater is its refractive power. This refractive power is measured in terms of diopters. The refractive power in diopters of a convex lens is equal to 1 meter divided by its focal length. Thus:
+屈光力（折光力）以 diopters（D）為單位，計算公式為：
 
-- A spherical lens that converges parallel light rays to a focal point 1 meter beyond the lens has a refractive power of +1 diopter.
-- If the lens is capable of bending parallel light rays twice as much as a lens with a power of +1 diopter, it has a strength of +2 diopters, and the light rays come to a focal point 0.5 meter beyond the lens.
-- A lens capable of converging parallel light rays to a focal point only 10 centimeters (0.10 meter) beyond the lens has a refractive power of +10 diopters.
+$$\text{屈光力（D）} = \frac{1 \text{ meter}}{\text{焦距（米）}}$$
 
-The refractive power of concave lenses cannot be stated in terms of the focal distance beyond the lens because the light rays diverge rather than focus to a point. However, if a concave lens diverges light rays at the same rate that a 1-diopter convex lens converges them, the concave lens is said to have a dioptric strength of −1. Likewise, if the concave lens diverges light rays as much as a +10-diopter lens converges them, this lens has a strength of −10 diopters.
+- 焦距 1 m → **+1 D**
+- 焦距 0.5 m → **+2 D**
+- 焦距 0.1 m（10 cm）→ **+10 D**
 
-Concave lenses "neutralize" the refractive power of convex lenses. Thus, placing a 1-diopter concave lens immediately in front of a 1-diopter convex lens results in a lens system with zero refractive power.
+凹透鏡的屈光力為負值：若凹透鏡發散光線的程度相當於 +1 D 凸透鏡會聚的程度，則其屈光力為 **−1 D**。
 
-### Cylindrical Lenses
+凹透鏡與凸透鏡的屈光力可以相互抵消（如 −1 D 配合 +1 D = 0）。
 
-The strengths of cylindrical lenses are computed in the same manner as the strengths of spherical lenses, except that the axis of the cylindrical lens must be stated in addition to its strength. If a cylindrical lens focuses parallel light rays to a line focus 1 meter beyond the lens, it has a strength of +1 diopter. Conversely, if a cylindrical lens of a concave type diverges light rays as much as a +1-diopter cylindrical lens converges them, it has a strength of −1 diopter. If the focused line is horizontal, its axis is said to be 0 degrees. If it is vertical, its axis is 90 degrees.
+### 圓柱形鏡片
 
----
+圓柱形鏡片在單一軸向上有折光力，計算方式與球面鏡片相同，但須標明**軸向（axis）**：0° 為水平聚焦線，90° 為垂直聚焦線。
 
-## MECHANISM OF ACCOMMODATION
+## 調節機制（Accommodation）
 
-In children, the refractive power of the lens of the eye can be increased voluntarily from 20 diopters to about 34 diopters, which is an "accommodation" of 14 diopters. To make this accommodation, the shape of the lens is changed from that of a moderately convex lens to that of a very convex lens.
+### 水晶體與懸韌帶的結構
 
-In a young person, the lens is composed of a strong elastic capsule filled with viscous, proteinaceous, but transparent fluid. When the lens is in a relaxed state, with no tension on its capsule, it assumes an almost spherical shape, owing mainly to the elastic retraction of the lens capsule.
+水晶體被一個富有彈性的囊袋包裹，約 70 條**懸韌帶（suspensory ligaments）** 從睫狀體徑向附著於囊袋邊緣，將水晶體持續拉向眼球外圈，使其維持在相對扁平的自然形狀。
 
-As shown in Figure 50-10, about 70 suspensory ligaments attach radially around the lens, pulling the lens edges toward the outer circle of the eyeball. These ligaments are constantly tensed by their attachments at the anterior border of the choroid and retina. The tension on the ligaments causes the lens to remain relatively flat under normal eye conditions.
+睫狀肌包含兩組平滑肌纖維：
 
-Also located at the lateral attachments of the lens ligaments to the eyeball is the ciliary muscle, which has two separate sets of smooth muscle fibers—meridional fibers and circular fibers:
+| 纖維類型 | 收縮效應 |
+|---------|---------|
+| **經線纖維（Meridional fibers）** | 將懸韌帶附著處向內側拉向角膜邊緣 → 放鬆韌帶張力 |
+| **環狀纖維（Circular fibers）** | 收縮時如括約肌般縮小韌帶附著環的直徑 → 同樣放鬆張力 |
 
-- **Meridional fibers** extend from the peripheral ends of the suspensory ligaments to the corneoscleral junction. When these muscle fibers contract, the peripheral insertions of the lens ligaments are pulled medially toward the edges of the cornea, thereby releasing the ligaments' tension on the lens.
-- **Circular fibers** are arranged circularly all the way around the ligament attachments so that when they contract, a sphincter-like action occurs, decreasing the diameter of the circle of ligament attachments; this action also allows the ligaments to pull less on the lens capsule.
+任一組纖維收縮皆使懸韌帶張力減弱，水晶體囊袋因其彈性而回復球形（如同氣球），厚度與屈光度隨之增加。
 
-Thus, contraction of either set of smooth muscle fibers in the ciliary muscle relaxes the ligaments to the lens capsule, and the lens assumes a more spherical shape—like that of a balloon—because of the natural elasticity of the lens capsule.
+### 神經控制
 
-### Neural Control of Accommodation
+睫狀肌幾乎完全由**副交感神經**控制（第三對腦神經，動眼神經）。副交感刺激使睫狀肌收縮 → 懸韌帶放鬆 → 水晶體變厚 → 屈光度增加 → 近物得以聚焦。
 
-Ciliary muscle is controlled almost entirely by parasympathetic nerve signals transmitted to the eye through the third cranial nerve from the third nerve nucleus in the brain stem. Stimulation of parasympathetic nerves contracts both sets of ciliary muscle fibers, which relaxes the lens ligaments, thus allowing the lens to become thicker and increase its refractive power. With this increased refractive power, the eye focuses on objects nearer than when the eye has less refractive power. Consequently, as a distant object moves toward the eye, the number of parasympathetic impulses impinging on the ciliary muscle must be progressively increased for the eye to keep the object constantly in focus.
+交感神經刺激也可放鬆睫狀肌，但效應太弱，正常 accommodation 機制中幾乎不具功能。
 
-Sympathetic stimulation has an additional effect in relaxing the ciliary muscle, but this effect is so weak that it plays almost no role in the normal accommodation mechanism.
+### Presbyopia（老花眼）
 
-### Presbyopia—Loss of Accommodation by the Lens
+隨年齡增長，水晶體持續增大、變厚，且因蛋白質逐漸變性而失去彈性：
 
-As a person grows older, the lens grows larger and thicker and becomes far less elastic, partly because of progressive denaturation of the lens proteins. The ability of the lens to change shape decreases with age. The power of accommodation decreases from about 14 diopters in a child to less than 2 diopters by the time a person reaches 45 to 50 years, and to essentially 0 diopters at age 70 years. Thereafter, the lens remains almost totally nonaccommodating—a condition known as presbyopia.
+| 年齡 | 調節能力 |
+|------|---------|
+| 兒童 | 約 14 D |
+| 45–50 歲 | < 2 D |
+| 70 歲 | 0 D（完全喪失）|
 
-Once a person has reached the state of presbyopia, each eye remains focused permanently at an almost constant distance; this distance depends on the physical characteristics of each person's eyes. The eyes can no longer accommodate for both near and far vision. To see clearly both in the distance and nearby, an older person must wear bifocal glasses, with the upper segment focused for far-seeing and the lower segment focused for near-seeing (e.g., for reading).
+老花眼發生後，雙眼永久聚焦於固定距離（取決於個人眼軸長度與水晶體特性），近物與遠物無法同時清晰看見，須配戴**漸進多焦眼鏡**（上方看遠、下方看近）。
 
----
+## 瞳孔
 
-## PUPILLARY DIAMETER
+### 瞳孔的功能
 
-The major function of the iris is to increase the amount of light that enters the eye during darkness and to decrease the amount of light that enters the eye in daylight.
-
-The amount of light that enters the eye through the pupil is proportional to the area of the pupil or to the square of the diameter of the pupil. The pupil of the human eye can become as small as about 1.5 millimeters and as large as 8 millimeters in diameter. The quantity of light entering the eye can change about 30-fold as a result of changes in pupillary aperture.
+虹膜控制進入眼球的光量：暗環境下瞳孔放大（最大直徑約 8 mm），強光下收縮（最小約 1.5 mm）。光量與瞳孔**面積**（即直徑的平方）成正比，最大與最小光量差距可達約 **30 倍**。
 
 ### Depth of Focus
 
-The "depth of focus" of the lens system increases with decreasing pupillary diameter. When a lens system has great depth of focus, the retina can be displaced considerably from the focal plane, or the lens strength can change considerably from normal, and the image will still remain nearly in sharp focus. When a lens system has a "shallow" depth of focus, moving the retina only slightly away from the focal plane causes extreme blurring.
+瞳孔直徑越小，**depth of focus（焦深）**越大——這是因為光線主要從水晶體中心通過，光錐角度極小，即使視網膜稍微偏離焦平面，成像仍大致清晰。臨床上，白內障手術後植入人工水晶體時，保留小瞳孔有助減少屈光誤差的影響。
 
-The greatest possible depth of focus occurs when the pupil is extremely small. The reason for this is that with a very small aperture, almost all the rays pass through the center of the lens, and the central-most rays are always in focus.
+## 屈光異常
 
----
+### Emmetropia（正視）
 
-## ERRORS OF REFRACTION
+放鬆狀態下，遠方平行光線精確聚焦於視網膜，無需任何 accommodation 即可看清遠物。
 
-### Emmetropia (Normal Vision)
+### Hyperopia（遠視）
 
-As shown in Figure 50-12, the eye is considered to be normal, or emmetropic, if parallel light rays from distant objects are in sharp focus on the retina when the ciliary muscle is completely relaxed. This means that the emmetropic eye can see all distant objects clearly with its ciliary muscle relaxed. However, to focus objects at close range, the eye must contract its ciliary muscle and thereby provide an appropriate degree of accommodation.
+眼球過短（或較少見的：水晶體折光力不足）導致放鬆時，平行光線在抵達視網膜前尚未完全聚焦（圖 50-12）。需靠睫狀肌收縮增加水晶體屈光度來补偿。老年水晶體喪失調節能力後，遠視者甚至無法看清遠物。
 
-### Hyperopia (Farsightedness)
+### Myopia（近視）
 
-Hyperopia, also known as "farsightedness," is usually due to either an eyeball that is too short or, occasionally, to a lens system that is too weak. In this condition, as seen in the middle panel of Figure 50-12, parallel light rays are not bent sufficiently by the relaxed lens system to come to focus by the time they reach the retina. To overcome this abnormality, the ciliary muscle must contract to increase the strength of the lens. By using the mechanism of accommodation, a farsighted person is capable of focusing distant objects on the retina. If the person has used only a small amount of strength in the ciliary muscle to accommodate for the distant objects, he or she still has much accommodative power left, and objects closer and closer to the eye can also be focused sharply until the ciliary muscle has contracted to its limit. In old age, when the lens becomes "presbyopic," a farsighted person is often unable to accommodate the lens sufficiently to focus even on distant objects, much less on near objects.
+眼球過長（或水晶體折光力過強）使放鬆時，平行光線在視網膜**之前**就形成焦點（圖 50-12）。眼睛無法主動「減少」水晶體屈光度，因此近視者有一個確定的**最遠清晰點（far point）**——物體超過此距離即無法清晰成像。
 
-### Myopia (Nearsightedness)
+### 屈光異常的光學矫正
 
-In myopia, or "nearsightedness," when the ciliary muscle is completely relaxed, the light rays coming from distant objects are focused in front of the retina, as shown in the bottom panel of Figure 50-12. This condition is usually due to too long an eyeball but also can result from too much refractive power in the lens system of the eye.
+| 異常 | 矫正鏡片 | 原理 |
+|------|---------|------|
+| 近視 | **凹透鏡（negative lens）** | 發散光線，補償過長的眼軸或過強折光力 |
+| 遠視 | **凸透鏡（positive lens）** | 增加總折光力 |
+| 散光 | **圓柱透鏡** | 補償角膜在不同軸向上的不同曲率 |
 
-No mechanism exists whereby the eye can decrease the strength of its lens to less than that which exists when the ciliary muscle is completely relaxed. A myopic person has no mechanism to focus distant objects sharply on the retina. However, as an object moves nearer to the person's eye, it finally gets close enough that its image can be focused. Then, when the object comes still closer to the eye, the person can use the mechanism of accommodation to keep the image focused clearly. A myopic person has a definite limiting "far point" for clear vision.
+### 散光（Astigmatism）
 
-### Correction of Myopia and Hyperopia
+角膜在同一軸向上的曲率不一致，相當於一個方向為強屈光力（短焦距）、垂直方向為弱屈光力（長焦距）的複合系統。光線經過兩個軸向的焦距不同，無法同時在視網膜上形成單一清晰像點。
 
-If the refractive surfaces of the eye have too much refractive power, as in myopia, this excessive refractive power can be neutralized by placing a concave spherical lens in front of the eye, which will diverge rays. Conversely, in a person who has hyperopia—that is, someone who has too weak a lens system—the abnormal vision can be corrected by adding refractive power using a convex lens in front of the eye. One usually determines the strength of the concave or convex lens needed for clear vision by "trial and error"—that is, by first trying a strong lens and then a stronger or weaker lens until the one that gives the best visual acuity is found.
-
-### Astigmatism
-
-Astigmatism is a refractive error of the eye that causes the visual image in one plane to focus at a different distance from that of the plane at right angles. Astigmatism usually results from too great a curvature of the cornea in one plane of the eye. An example of an astigmatic lens would be a lens surface like that of an egg lying sidewise to the incoming light. The degree of curvature in the plane through the long axis of the egg is not nearly as great as the degree of curvature in the plane through the short axis.
-
-Because the curvature of the astigmatic lens along one plane is less than the curvature along the other plane, light rays striking the peripheral portions of the lens in one plane are not bent nearly as much as the rays striking the peripheral portions of the other plane. Therefore, light rays passing through an astigmatic lens do not all come to a common focal point because the light rays passing through one plane focus far in front of those passing through the other plane.
-
-The accommodative power of the eye can never compensate for astigmatism because, during accommodation, the curvature of the eye lens changes approximately equally in both planes; therefore, in astigmatism, each of the two planes requires a different degree of accommodation. Thus, without the aid of glasses, a person with astigmatism never sees in sharp focus.
-
-### Correction of Astigmatism with a Cylindrical Lens
-
-One may consider an astigmatic eye as having a lens system made up of two cylindrical lenses of different strengths placed at right angles to each other. To correct for astigmatism, the usual procedure is to find a spherical lens by trial and error that corrects the focus in one of the two planes of the astigmatic lens. Then, an additional cylindrical lens is used to correct the remaining error in the remaining plane. To do this, both the axis and the strength of the required cylindrical lens must be determined.
-
----
-
-## FIGURE CAPTIONS
-
-**Figure 50-5.** A, Focusing of light from a point source to a line focus by a cylindrical lens. B, Two cylindrical convex lenses at right angles to each other, demonstrating that one lens converges light rays in one plane, and the other lens converges light rays in the plane at a right angle. The two lenses combined give the same point focus as that obtained with a single spherical convex lens.
-
-**Figure 50-6.** The two upper lenses of this figure have the same focal length, but the light rays entering the top lens are parallel, whereas those entering the middle lens are diverging. The effect of parallel versus diverging rays on the focal distance is shown. The bottom lens has far more refractive power than either of the other two lenses (i.e., it has a much shorter focal length), demonstrating that the stronger the lens, the nearer to the lens is the focal point.
-
-**Figure 50-7.** A, Two point sources of light focused at two separate points on opposite sides of the lens. B, Formation of an image by a convex spherical lens.
-
-**Figure 50-8.** Effect of lens strength on the focal distance.
-
-**Figure 50-9.** The eye as a camera. The numbers are the refractive indices.
-
-**Figure 50-10.** Mechanism of accommodation (focusing).
-
-**Figure 50-11.** Effect of small (top) and large (bottom) pupillary apertures on depth of focus.
-
-**Figure 50-12.** Parallel light rays focus on the retina in emmetropia, behind the retina in hyperopia, and in front of the retina in myopia.
-
-**Figure 50-13.** Correction of myopia and hyperopia through use of lenses.
-
-**Figure 50-14.** Astigmatism demonstrating how light rays in different planes focus at different distances.
-
----
-
-## REFRACTIVE INDICES OF OCULAR STRUCTURES
-
-| Structure | Refractive Index |
-|-----------|------------------|
-| Air | 1.00 |
-| Cornea | 1.38 |
-| Aqueous humor | 1.33 |
-| Crystalline lens | 1.40 (average) |
-| Vitreous humor | 1.34 |
+調節機制**無法补偿**散光：因為 accommodation 使水晶體在兩個軸向上的曲率等量改變，但散光眼的兩個軸向本身就需要不同程度的屈光修正。臨床上以**試錯法**先用球面鏡片矫正一個軸向，再以圓柱鏡片矫正剩餘的軸向誤差。

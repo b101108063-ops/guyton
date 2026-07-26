@@ -3,121 +3,125 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH51"
 title: "The Eye: II. Receptor and Neural Function of the Retina"
 book: "Guyton & Hall"
-summary: "Chapter CH51 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章深入視網膜的感光與神經功能。視網膜的感光細胞分為 rods（桿狀細胞，負責暗光覺，含 rhodopsin）與 cones（錐狀細胞，負責色彩視覺，含三種對藍、綠、紅敏感的光色素）。Rods 的感光機制極為靈敏：單一光子即可引發約 1 mV 的 receptor potential，此過程涉及 cGMP cascade 的百萬倍放大效應。感光細胞的獨特之處在於：光照時不是去極化而是**超極化（hyperpolarization）**——這是因為光照觸發 cGMP  phosphodiesterase 活化，降低 cGMP，使 Na⁺ 通道關閉，Na⁺ 持續被泵出，細胞內變得更負。視網膜也會透過 light/dark adaptation 調整感光色素的濃度，以適應不同光強度環境。
 ---
 
-# THE NERVOUS SYSTEM: B. THE SPECIAL SENSES
+# CHAPTER 51
+視覺的視網膜受器與神經功能
 
-## PIGMENT LAYER OF THE RETINA
+## 章節導讀
 
-The black pigment melanin in the pigment layer prevents light reflection throughout the globe of the eyeball, which is extremely important for clear vision. This pigment performs the same function in the eye as the black coloring inside the bellows of a camera. Without it, light rays would be reflected in all directions in the eyeball and would cause diffuse lighting of the retina rather than the normal contrast between dark and light spots required to form precise images.
+視網膜是眼球最重要的感光組織，其結構之精密與功能之複雜程度堪比大腦皮質。本章首先介紹視網膜的分層結構，說明感光細胞（Rods 與 Cones）如何將光子能量轉換為電訊號，以及 pigment layer 的 melanin 如何防止光線反射確保成像清晰。
 
-The importance of melanin in the pigment layer is well illustrated by its absence in people with albinism (congenital absence of melanin pigment in all parts of their bodies). When a person with albinism enters a bright room, light that impinges on the retina is reflected in all directions inside the eyeball by the unpigmented surfaces of the retina and by the underlying sclera, so a single discrete spot of light that would normally excite only a few rods or cones is reflected everywhere and excites many receptors. Therefore, the visual acuity of people with albinism, even with the best optical correction, is seldom better than 20/100 to 20/200 rather than the normal 20/20 values.
+視網膜感光細胞的 signal transduction 機制極為獨特：**光子觸發 rhodopsin 分解，啟動 G 蛋白（transducin），活化 phosphodiesterase，水解 cGMP，關閉 Na⁺ 通道，最終導致超極化**——這與幾乎所有其他感覺受器在刺激時去極化的方向相反。這套 cascade 極為放大：一個光子可關閉數百萬個 Na⁺ 離子的流動，使 rods 在極暗環境下仍能偵測單一光子。Cones 的機制類似但敏感度較低（為 rods 的 1/30–1/300），且具有三種對不同波長敏感的色素，構成色彩視覺的基礎。
 
-The pigment layer also stores large quantities of vitamin A. This vitamin A is exchanged back and forth through the cell membranes of the outer segments of the rods and cones, which are embedded in the pigment. We discuss later that vitamin A is an important precursor of the photosensitive chemicals of the rods and cones.
+## 視網膜的結構
 
-## BLOOD SUPPLY OF THE RETINA
+### 感光細胞的分布
 
-The nutrient blood supply for the internal layers of the retina is derived from the central retinal artery, which enters the eyeball through the center of the optic nerve and then divides to supply the entire inside retinal surface. Thus, the inner layers of the retina have their own blood supply, independent of the other structures of the eye.
+視網膜含約 1.2 億個 **rods（桿狀細胞）** 與約 600 萬個 **cones（錐狀細胞）**。Rods 分布於視網膜周邊，負責暗光覺與周邊視力；Cones 密集分布於 **fovea centralis（中央凹）**，負責精細視力與色彩視覺。
 
-However, the outermost layer of the retina is adherent to the choroid, which is also a highly vascular tissue lying between the retina and the sclera. The outer layers of the retina, especially the outer segments of the rods and cones, depend mainly on diffusion from the choroid blood vessels for their nutrition, especially for their oxygen.
+### 視網膜的血液供應
 
-## RETINAL DETACHMENT
+視網膜的血液供應分為兩層：**視網膜中央动脉** 滋養視網膜的內層神經細胞；**脈絡膜（choroid）** 的豐富血管則滋養視網膜外層（特別是感光細胞外段的營養與氧氣供應）。兩層血液供應相互獨立但又密切配合。
 
-The neural retina occasionally detaches from the pigment epithelium. In some cases, the cause of such detachment is injury to the eyeball that allows fluid or blood to collect between the neural retina and the pigment epithelium. Detachment is occasionally caused by contracture of fine collagenous fibrils in the vitreous humor, which pull areas of the retina toward the interior of the globe.
+### 視網膜色素層的功能
 
-Partly because of diffusion across the detachment gap, and partly because of the independent blood supply to the neural retina through the retinal artery, the detached retina can resist degeneration for days and can become functional again if it is surgically replaced in its normal relation with the pigment epithelium. If it is not replaced soon, however, the retina will be destroyed and will be unable to function, even after surgical repair.
+Pigment layer 含 **melanin（黑色素）**，吸收多餘光線，防止光線在眼球內來回反射——如同相機內側的黑色植絨。缺乏黑色素的**白化症患者**，光線在視網膜與鞏膜之間反覆反射，單一光點可興奮大量感光細胞，導致視力嚴重受損（通常為 20/100–20/200，而非正常的 20/20）。
 
-## PHOTOCHEMISTRY OF VISION
+Pigment layer 另一重要功能是**儲存大量維生素 A**，作為 rhodopsin 合成的前驅物。
 
-Both rods and cones contain chemicals that decompose on exposure to light and, in the process, excite the nerve fibers leading from the eye. The light-sensitive chemical in the rods is called rhodopsin; the light-sensitive chemicals in the cones, called cone pigments or color pigments, have compositions only slightly different from that of rhodopsin. In this section, we discuss principally the photochemistry of rhodopsin, but the same principles can be applied to the cone pigments.
+### 視網膜剝離
 
-## RHODOPSIN-RETINAL VISUAL CYCLE AND EXCITATION OF THE RODS
+神經視網膜可能從色素上皮剝離，原因包括創傷後液體或血液堆積於兩層之間，或玻璃體的細微膠原纖維收縮將視網膜向內拉。剝離後的視網膜因兩層的擴散作用與視網膜中央动脉的獨立血流，可存活數天，手術復位後可恢復功能；但若延遲過久，視網膜將永久退化。
 
-### Rhodopsin and Its Decomposition by Light Energy
+## 視覺的光化學
 
-The outer segment of the rod that projects into the pigment layer of the retina has a concentration of about 40% of the light-sensitive pigment called rhodopsin, or visual purple. This substance is a combination of the protein scotopsin and the carotenoid pigment retinal (also called "retinene"). Furthermore, the retinal is a particular type called 11-cis retinal. This cis form of retinal is important because only this form can bind with scotopsin to synthesize rhodopsin.
+### Rhodopsin 與其光分解
 
-When light energy is absorbed by rhodopsin, the rhodopsin begins to decompose within a very small fraction of a second. The cause of this rapid decomposition is photoactivation of electrons in the retinal portion of the rhodopsin, which leads to instantaneous change of the cis form of retinal into an all-trans form that has the same chemical structure as the cis form but a different physical structure—it is a straight molecule rather than an angulated molecule.
+Rods 外段含濃度約 40% 的光敏色素 **rhodopsin（視紫質，又稱 visual purple）**，由蛋白質 **scotopsin** 與類胡蘿蔔素 **11-cis retinal** 組成。只有 **11-cis retinal** 才能與 scotopsin 結合成 rhodopsin。
 
-Because the three-dimensional orientation of the reactive sites of the all-trans retinal no longer fits with the orientation of the reactive sites on the protein scotopsin, the all-trans retinal begins to pull away from the scotopsin. The immediate product is bathorhodopsin, which is a partially split combination of the all-trans retinal and scotopsin. Bathorhodopsin is extremely unstable and decays in nanoseconds to lumirhodopsin. This product then decays in microseconds to metarhodopsin I, then in about a millisecond to metarhodopsin II, and finally, much more slowly (in seconds), into the completely split products scotopsin and all-trans retinal. It is the metarhodopsin II, also called activated rhodopsin, that excites electrical changes in the rods, and the rods then transmit the visual image into the central nervous system in the form of optic nerve action potentials.
+光照時，rhodopsin 內的電子被光能激活， retinal 結構由 **11-cis 型** 瞬間轉變為 **all-trans 型**（直鏈而非彎曲）。這個結構變化使 all-trans retinal 與 scotopsin 分離，引發 cascade：
 
-**Figure 51-4.** Membranous structures of the outer segments of a rod (left) and a cone (right).
+**Bathorhodopsin**（極不穩定，奈秒級衰減）→ **Lumirhodopsin**（微秒級）→ **Metarhodopsin I**（毫秒級）→ **Metarhodopsin II**（約 1 秒）→ **Scotopsin + all-trans retinal**
 
-**Figure 51-5.** The rhodopsin-retinal visual cycle in the rod, showing decomposition of rhodopsin during exposure to light and subsequent slow re-formation of rhodopsin by the chemical processes.
+真正激發 rods 電氣變化的是 **Metarhodopsin II**（又稱活化 rhodopsin）。
 
-### Re-Formation of Rhodopsin
+### Rhodopsin 的重新合成
 
-The first stage in re-formation of rhodopsin is to reconvert the all-trans retinal into 11-cis retinal. This process requires metabolic energy and is catalyzed by the enzyme retinal isomerase. Once the 11-cis retinal is formed, it automatically recombines with the scotopsin to re-form rhodopsin, which then remains stable until its decomposition is again triggered by absorption of light energy.
+All-trans retinal 在酶 **retinal isomerase** 的催化下，需要代謝能量才能轉回 11-cis retinal，後者自動與 scotopsin 重新結合成 rhodopsin。
 
-### Role of Vitamin A for Formation of Rhodopsin
+### 維生素 A 的角色
 
-Note in Figure 51-5 that there is a second chemical route whereby all-trans retinal can be converted into 11-cis retinal. This second route is by conversion of the all-trans retinal first into all-trans retinol, which is one form of vitamin A. Then, the all-trans retinol is converted into 11-cis retinol under the influence of the enzyme isomerase. Finally, the 11-cis retinol is converted into 11-cis retinal, which combines with scotopsin to form new rhodopsin.
+圖 51-5 顯示另有一條化學途徑：all-trans retinal → all-trans retinol（維生素 A 的一種形式）→ 11-cis retinol → 11-cis retinal → rhodopsin。維生素 A 儲存於感光細胞與色素上皮中，可在維生素 A 缺乏時動員以補充 rhodopsin 的合成原料。
 
-Vitamin A is present both in the cytoplasm of the rods and in the pigment layer of the retina. Therefore, vitamin A is normally always available to form new retinal when needed. Conversely, when there is excess retinal in the retina, it is converted back into vitamin A, thus reducing the amount of light-sensitive pigment in the retina. We shall see later that this interconversion between retinal and vitamin A is especially important in long-term adaptation of the retina to different light intensities.
+**夜盲症與維生素 A 缺乏**：維生素 A 嚴重缺乏時，rhodopsin 合成不足，導致夜盲（暗環境下視力極差）。飲食缺乏維生素 A 通常需數月才會出現夜盲（因為肝臟儲存量充足）。靜脈注射維生素 A 有時可在 1 小時內逆轉症狀。
 
-### Night Blindness Due to Vitamin A Deficiency
+## 感光細胞的電氣訊號——Hyperpolarization
 
-Night blindness occurs in persons with severe vitamin A deficiency because, without vitamin A, the amounts of retinal and rhodopsin that can be formed are severely depressed. This condition is called night blindness because the amount of light available at night is too little to permit adequate vision in vitamin A–deficient persons. For night blindness to occur, a person usually must remain on a vitamin A–deficient diet for months, because large quantities of vitamin A are normally stored in the liver and can be made available to the eyes. Once night blindness develops, it can sometimes be reversed in less than 1 hour by intravenous injection of vitamin A.
+### 感光細胞光照時不是去極化，而是超極化
 
-## EXCITATION OF THE ROD WHEN RHODOPSIN IS ACTIVATED BY LIGHT
+幾乎所有其他感覺受器在受刺激時都會去極化，但 rods 與 cones 接受光照時，膜電位變得更負（**hyperpolarization**），這是一個極不尋常的現象。
 
-### The Rod Receptor Hyperpolarizes in Response to Light
+### 離子機制
 
-Exposure of the rod to light causes increased negativity of the intra-rod membrane potential, which is a state of hyperpolarization. This is exactly opposite to the decreased negativity (the process of "depolarization") that occurs in almost all other sensory receptors. How does activation of rhodopsin cause hyperpolarization? The answer is that when rhodopsin decomposes, it decreases the rod membrane conductance for sodium ions in the outer segment of the rod, causing hyperpolarization.
+圖 51-6 說明完整離子迴路：
 
-Figure 51-6 shows movement of sodium and potassium ions in a complete electrical circuit through the inner and outer segments of the rod. The inner segment continually pumps sodium from inside the rod to the outside, and potassium ions are pumped to the inside of the cell. Potassium ions leak out of the cell through nongated potassium channels that are confined to the inner segment of the rod. As in other cells, this sodium-potassium pump creates a negative potential on the inside of the entire cell.
+**暗環境（未受刺激）時：**
 
-However, the outer segment of the rod, where the photoreceptor discs are located, is entirely different. Here, the rod membrane, in the dark state, is leaky to sodium ions that flow through cyclic guanosine monophosphate (cGMP)–gated channels. In the dark state, cGMP levels are high, permitting positively charged sodium ions to continually leak back to the inside of the rod and thereby neutralize much of the negativity on the inside of the entire cell. Thus, under normal dark conditions, when the rod is not excited, there is reduced electronegativity inside the membrane of the rod, measuring about −40 millivolts rather than the usual −70 to −80 millivolts found in most sensory receptors.
+- 內段：持續透過 **Na⁺/K⁺-ATPase** 將 Na⁺ 泵出、將 K⁺ 泵入
+- 外段：cGMP 含量高，cGMP-gated Na⁺ 通道持續開放，Na⁺ 持續內流（所謂「暗電流」），中和大部分細胞內的負電，使膜電位維持在約 **−40 mV**（比多數神經元的 −70 至 −80 mV 更正）
 
-**Figure 51-6.** A, Sodium flows into a photoreceptor (e.g., a rod) through cyclic guanosine monophosphate (cGMP)–gated channels. Potassium flows out of the cell through nongated potassium channels. A sodium-potassium pump maintains steady levels of sodium and potassium inside the cell. B, In the dark, cGMP levels are high, and the sodium channels are open. In the light, cGMP levels are reduced and the sodium channels close, causing the cell to hyperpolarize.
+**光照時：**
 
-When the rhodopsin in the outer segment of the rod is exposed to light, it is activated and begins to decompose. The cGMP-gated sodium channels are then closed, and the outer segment membrane conductance of sodium to the interior of the rod is reduced by a three-step process:
+1. Rhodopsin 活化 → 啟動 G 蛋白 **transducin**
+2. Transducin 活化 **cGMP phosphodiesterase**
+3. Phosphodiesterase 水解 cGMP → cGMP 濃度下降
+4. cGMP-gated Na⁺ 通道關閉
+5. Na⁺ 內流停止，但內段 Na⁺/K⁺-ATPase 仍持續泵出 Na⁺ → 細胞內淨失正電荷 → 膜電位趨負（最大可達 −70 至 −80 mV，接近 K⁺ 的平衡電位）
 
-1. Light is absorbed by the rhodopsin, causing photoactivation of the electrons in the retinal portion, as previously described.
-2. The activated rhodopsin stimulates a G protein called transducin, which then activates cGMP phosphodiesterase, an enzyme that catalyzes the breakdown of cGMP to 5'-GMP.
-3. The reduction in cGMP closes the cGMP-gated sodium channels and reduces the inward sodium current.
+圖 51-7 完整呈現這套 **phototransduction cascade**。
 
-Sodium ions continue to be pumped outward through the membrane of the inner segment. Thus, more sodium ions now leave the rod than leak back in. Because they are positive ions, their loss from inside the rod creates increased negativity inside the membrane, and the greater the amount of light energy striking the rod, the greater the electronegativity becomes—that is, the greater is the degree of hyperpolarization. At maximum light intensity, the membrane potential approaches −70 to −80 millivolts, which is near the equilibrium potential for potassium ions across the membrane.
+### 受器電位的特性
 
-**Figure 51-7.** Phototransduction in the outer segment of the photoreceptor (rod or cone) membrane. When light hits the photoreceptor (e.g., a rod cell), the light-absorbing retinal portion of rhodopsin is activated. This activation stimulates transducin, a G protein, which then activates cyclic guanosine monophosphate (cGMP) phosphodiesterase. This enzyme catalyzes the degradation of cGMP into 5'-GMP. The reduction in cGMP then causes closure of the sodium channels, which, in turn, causes hyperpolarization of the photoreceptor.
+- **潛伏期**：光照後約 0.3 秒達峰值，持續超過 1 秒
+- **Cone 的反應速度約為 rods 的 4 倍**
+- **對數關係**：受器電位約與光強度的**對數**成正比——這使眼睛能應對從極暗到極亮的巨大光強度範圍
 
-### Duration of the Receptor Potential, and Logarithmic Relation of the Receptor Potential to Light Intensity
+### 光學訊號的百萬倍放大
 
-When a sudden pulse of light strikes the retina, the transient hyperpolarization (receptor potential) that occurs in the rods reaches a peak in about 0.3 second and lasts for more than 1 second. In cones, the change occurs four times as fast as in the rods. A visual image impinged on the rods of the retina for only one-millionth of a second can sometimes cause the sensation of seeing the image for longer than 1 second.
+一個光子的能量即可引起約 1 mV 的 receptor potential；僅需 30 個光子就能使 rods 達到半飽和。這種超高靈敏度來自以下放大級聯（圖 51-7）：
 
-Another characteristic of the receptor potential is that it is approximately proportional to the logarithm of the light intensity. This characteristic is exceedingly important because it allows the eye to discriminate light intensities through a range many thousand times as great as would be possible otherwise.
+1. **1 個 photon** → 激活 1 分子 rhodopsin
+2. 活化 rhodopsin（作為酶）激活大量 **transducin** 分子
+3. 每個 transducin 激活更多 **phosphodiesterase** 分子
+4. 每個 phosphodiesterase 水解大量 **cGMP** 分子
+5. cGMP 減少使數百個 **Na⁺ 通道關閉**；在通道關閉前，每個通道已通過超過 100 萬個 Na⁺
+6. 因此單一光子實際上阻斷了**數百萬個 Na⁺ 離子**的內流——放大倍數約為百萬倍
 
-### Mechanism Whereby Rhodopsin Decomposition Decreases Membrane Sodium Conductance—The Excitation "Cascade"
+約 1 秒後，**rhodopsin kinase** 將活化 rhodopsin（metarhodopsin II）磷酸化而使之失活，整個 cascade 逆轉回復靜止狀態。
 
-Under optimal conditions, a single photon of light, the smallest possible quantal unit of light energy, can cause a receptor potential of about 1 millivolt in a rod. Only 30 photons of light will cause half-saturation of the rod. How can such a small amount of light cause such great excitation? The answer is that the photoreceptors have an extremely sensitive chemical cascade that amplifies the stimulatory effects about a millionfold, as follows:
+## 色彩視覺的光化學
 
-1. The photon activates an electron in the 11-cis retinal portion of the rhodopsin; this activation leads to the formation of metarhodopsin II, which is the active form of rhodopsin.
-2. The activated rhodopsin functions as an enzyme to activate many molecules of transducin, a protein present in an inactive form in the membranes of the discs and cell membrane of the rod.
-3. The activated transducin activates many more molecules of phosphodiesterase.
-4. Activated phosphodiesterase immediately hydrolyzes many molecules of cGMP, thus destroying it. Before being destroyed, the cGMP had been bound with the sodium channel protein of the rod's outer membrane in a way that "splints" it in the open state. However, in light, hydrolysis of the cGMP by phosphodiesterase removes the splinting and allows the sodium channels to close. Several hundred channels close for each originally activated molecule of rhodopsin. Because the sodium flux through each of these channels has been extremely rapid, flow of more than 1 million sodium ions is blocked by the channel closure before the channel opens again. This diminution of sodium ion flow is what excites the rod.
-5. Within about 1 second, another enzyme, rhodopsin kinase, which is always present in the rod, inactivates the activated rhodopsin (metarhodopsin II), and the entire cascade reverses back to the normal state with open sodium channels.
+### Cones 的光色素
 
-Thus, the rods have developed an important chemical cascade that amplifies the effect of a single photon of light to cause movement of millions of sodium ions. This mechanism explains the extreme sensitivity of the rods under dark conditions. The cones are about 30 to 300 times less sensitive than the rods, but even this degree of sensitivity allows color vision at any intensity of light greater than extremely dim twilight.
+Cones 的光色素與 rhodopsin 化學組成幾乎相同——差異僅在於 opsin 蛋白部分（Cones 稱為 **photopsin**）。Cones 含三種不同光色素，分別對 **藍（445 nm）、綠（535 nm）、紅（570 nm）** 波長的光最敏感（圖 51-8）。
 
-## PHOTOCHEMISTRY OF COLOR VISION BY THE CONES
+三種 Cones 的相對比例與分布決定了色彩知覺與色彩敏感度：某些人可能因基因變異導致某一型 Cones 功能失常，導致**色盲**。
 
-We previously pointed out that the photochemicals in the cones have almost exactly the same chemical composition as that of rhodopsin in the rods. The only difference is that the protein portions, or the opsins—called photopsins in the cones—are slightly different from the scotopsin of the rods. The retinal portion of all the visual pigments is exactly the same in the cones and rods.
+## 視網膜感光度的自動調節：Light 與 Dark Adaptation
 
-The color-sensitive pigments of the cones, therefore, are combinations of retinal and photopsins. Only one of three types of color pigments is present in each of the different cones, thus making the cones selectively sensitive to different colors—blue, green, or red. These color pigments are called, respectively, blue-sensitive pigment, green-sensitive pigment, and red-sensitive pigment.
+### Light Adaptation（光適應）
 
-The absorption characteristics of the pigments in the three types of cones show peak absorbencies at light wavelengths of 445, 535, and 570 nanometers, respectively. These wavelengths are also the wavelengths for peak light sensitivity for each type of cone, which begins to explain how the retina differentiates the colors.
+長時間處於強光環境後，Rods 與 Cones 中的光色素大量被分解為 retinal 與 opsins，且 retinal 被進一步轉化為維生素 A，使光敏感化學物質濃度大幅下降，視網膜敏感度隨之降低。
 
-**Figure 51-8.** Light absorption by the pigment of the rods and by the pigments of the three color-receptive cones of the human retina.
+### Dark Adaptation（暗適應）
 
-## AUTOMATIC REGULATION OF RETINAL SENSITIVITY—LIGHT AND DARK ADAPTATION
+圖 51-9 說明暗適應曲線：進入黑暗後，視網膜敏感度在 1 分鐘內提升 10 倍；20 分鐘後提升約 6,000 倍；40 分鐘後提升約 25,000 倍。
 
-If a person has been in bright light for hours, large portions of the photochemicals in both the rods and the cones will have been reduced to retinal and opsins. Furthermore, much of the retinal of both the rods and the cones will have been converted into vitamin A. Because of these two effects, the concentrations of the photosensitive chemicals remaining in the rods and cones are considerably reduced, and the sensitivity of the eye to light is correspondingly reduced. This process is called light adaptation.
+暗適應曲線的**拐點**反映了兩種感光細胞的不同適應速率：
 
-Conversely, if a person remains in darkness for a long time, the retinal and opsins in the rods and cones are converted back into the light-sensitive pigments. Furthermore, vitamin A is converted back into retinal to increase light-sensitive pigments, the final limit being determined by the amount of opsins in the rods and cones to combine with the retinal. This process is called dark adaptation.
+- **早期快速相**（前數分鐘）：Cones 先行完全適應（其化學反應速度約為 rods 的 4 倍）
+- **晚期慢速相**（30–40 分鐘）：Rods 完成全部適應，敏感度達到最高
 
-**Figure 51-9.** Dark adaptation curve showing the sensitivity of the retina when a person is exposed to total darkness after having been exposed to bright light.
-
-Figure 51-9 shows the course of dark adaptation when a person is exposed to total darkness after having been exposed to bright light for several hours. Note that the sensitivity of the retina is very low on first entering the darkness, but within 1 minute, the sensitivity has already increased 10-fold—that is, the retina can respond to light of one-tenth that of the previously required intensity. At the end of 20 minutes, the sensitivity has increased about 6000-fold and, at the end of 40 minutes, it has increased about 25,000-fold. The resulting curve is called the dark adaptation curve. Note the inflection in the curve. The early portion of the curve is caused by adaptation of the cones because all the chemical events of vision, including adaptation, occur about four times as rapidly in the cones as in the rods. However, the cones themselves become completely adapted within the first few minutes, whereas the rods require 30 to 40 minutes for full adaptation. Consequently, the curve has an early rapid phase and a late slow phase that correspond roughly to the known characteristics of the cones and rods, respectively.
+這就是為何在進入暗室後數分鐘內，仍難以看清物體；但隨著時間延長，視力逐步恢復——特別是在非常暗的環境（如星空下），視覺幾乎完全依賴 rods。

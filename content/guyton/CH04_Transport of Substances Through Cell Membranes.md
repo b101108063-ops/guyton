@@ -3,505 +3,201 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH04"
 title: "Transport of Substances Through Cell Membranes"
 book: "Guyton & Hall"
-summary: "Chapter 4 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章探討物質通過細胞膜的機制，分為擴散與主動運輸兩大類。擴散包括簡單擴散（透過脂質雙層或蛋白質通道）與促進擴散（經由載體蛋白）。主動運輸則分為原發性（直接消耗 ATP）與繼發性（利用離子梯度儲存的能量）。本章詳細說明各種離子通道的結構與選擇性、水通道蛋白的運作、滲透壓與滲透原理，以及鈉鉀幫浦如何維持細胞體積與膜電位。這些知識是理解神經、肌肉、腎臟與消化系統生理的基礎。"
 ---
 
-UNIT II
+## 章節導讀
 
-The amount of water that diffuses through the red blood cell membrane during each second is about 100 times as great as the volume of the red blood cell.
+細胞膜是細胞與外界環境之間的界面，如同細胞的「守門人」，選擇性地控制著各種物質的進出口。本章系統地介紹了物質通過細胞膜的兩大基本機制：擴散與主動運輸。擴散是物質因濃度梯度或電荷梯度而發生的自發性移動，包括直接穿過磷脂雙層的簡單擴散，以及透過膜蛋白質通道或載體的促進擴散。主動運輸則需要能量，能逆著濃度梯度將物質進行跨膜運輸，其中又分為直接消耗 ATP 的原發性主動運輸，以及利用鈉離子梯度儲存能量的繼發性主動運輸。本章將詳細說明各種離子通道（如鉀離子通道、鈉離子通道）的結構與選擇性、水通道蛋白（aquaporins）的運作機制、滲透壓與滲透的原理，以及鈉鉀幫浦如何維持細胞體積與膜電位。這些知識不僅是理解後續神經與肌肉生理的基礎，也是了解腎臟功能、消化吸收與許多疾病機轉的關鍵。
 
-Other lipid-insoluble molecules can pass through the protein pore channels in the same way as water molecules if they are water-soluble and small enough. However, as they become larger, their penetration falls off rapidly. For example, the diameter of the urea molecule is only 20% greater than that of water, yet its penetration through the cell membrane pores is about 1000 times less than that of water. Even so, given the astonishing rate of water penetration, this amount of urea penetration still allows rapid transport of urea through the membrane within minutes.
+## 擴散的基本概念
 
-DIFFUSION THROUGH PROTEIN PORES AND CHANNELS—SELECTIVE PERMEABILITY AND "GATING" OF CHANNELS
+體液中的水分子和溶解的物質處於持續運動中，每個粒子各自運動。物理學家稱這種粒子運動為「熱」——運動越劇烈，溫度越高——而且這種運動永不停止（除非在絕對零度）。當一個運動中的分子 A 接近靜止的分子 B 時，A 的靜電和核力排斥 B，將部分運動能量轉移給 B。Figure 4-3 顯示，溶液中的單一分子每秒鐘內會隨機地向各方向彈跳數千次。這種液體或氣體中分子彼此之間持續運動的過程稱為擴散。
 
-Computerized three-dimensional reconstructions of protein pores and channels have demonstrated tubular pathways all the way from the extracellular to the intracellular fluid. Therefore, substances can move by simple diffusion directly along these pores and channels from one side of the membrane to the other.
+離子以與分子相同的方式擴散，懸浮的膠體粒子也以類似方式擴散，只不過膠體因粒徑較大而擴散速度遠低於分子物質。
 
-Pores are composed of integral cell membrane proteins that form open tubes through the membrane and are always open. However, the diameter of a pore and its electrical charges provide selectivity that permits only certain molecules to pass through. For example, aquaporins permit rapid passage of water through cell membranes but exclude other molecules. Aquaporins have a narrow pore that permits water molecules to diffuse through the membrane in single file. The pore is too narrow to permit passage of any hydrated ions. As discussed in Chapters 28 and 76, the density of some aquaporins (e.g., aquaporin-2) in cell membranes is not static but is altered in different physiological conditions.
+## 通過細胞膜的擴散
 
-The protein channels are distinguished by two important characteristics:
+通過細胞膜的擴散分為兩種類型：簡單擴散與促進擴散。簡單擴散是指分子或離子透過膜孔或分子間隙進行的動能驅動移動，不需與膜中的載體蛋白質互動，其擴散速率取決於可用物質的數量、運動速度，以及膜孔的數目和大小。促進擴散則需要載體蛋白質的協助，透過與物質的化學結合，將分子或離子攜帶穿過膜。
 
-1. They are often selectively permeable to certain substances.
-2. Many of the channels can be opened or closed by gates that are regulated by electrical signals (voltage-gated channels) or chemicals that bind to the channel proteins (ligand-gated channels).
+### 透過脂質雙層擴散的脂溶性物質
 
-Thus, ion channels are flexible dynamic structures, and subtle conformational changes influence gating and ion selectivity.
+物質的脂溶性是決定其通過磷脂雙層擴散速度的重要因素。氧氣、氮氣、二氧化碳和酒精的脂溶性都很高，能直接溶解在雙層膜中，擴散通過細胞膜，方式類似於水溶液中的水溶性溶質擴散。每種物質的膜擴散速率與其脂溶性成正比。
 
-Selective Permeability of Protein Channels
+### 水和其他脂不溶性分子透過蛋白質通道擴散
 
-Many protein channels are highly selective for transport of one or more specific ions or molecules. This selectivity results from specific characteristics of the channel, such as its diameter, shape, and the nature of the electrical charges and chemical bonds along its inside surfaces.
+水雖然在膜脂質中高度不溶，但能迅速通過貫穿膜的蛋白質通道。許多細胞膜含有稱為水通道蛋白（aquaporins）的蛋白質「孔」，選擇性地允許水分子快速通過。水通道蛋白是高度專門化的，哺乳動物細胞中至少有 13 種不同類型。
 
-Potassium channels permit passage of potassium ions across the cell membrane about 1000 times more readily than they permit passage of sodium ions. This high degree of selectivity cannot be explained entirely by the molecular diameters of the ions because potassium ions are slightly larger than sodium ions. Using x-ray crystallography, potassium channels were found to have a tetrameric structure consisting of four identical protein subunits surrounding a central pore (Figure 4-4). At the top of the channel pore are pore loops that form a narrow selectivity filter. Lining the selectivity filter are carbonyl oxygens. When hydrated potassium ions enter the selectivity filter, they interact with the carbonyl oxygens and shed most of their bound water molecules, permitting the dehydrated potassium ions to pass through the channel. The carbonyl oxygens are too far apart, however, to enable them to interact closely with the smaller sodium ions, which are therefore effectively excluded by the selectivity filter from passing through the pore.
+水分子通過大多數細胞膜的速度令人驚嘆。例如，紅細胞膜每秒每個方向擴散的水量約為細胞本身體積的 100 倍。
 
-Different selectivity filters for the various ion channels are believed to determine, in large part, the specificity of various channels for cations or anions or for particular ions, such as sodium (Na⁺), potassium (K⁺), and calcium (Ca²⁺), that gain access to the channels.
+其他脂不溶性分子如果水溶性且足夠小，也可以像水分子一樣通過蛋白質孔通道。然而，當它們變得更大時，穿透能力迅速下降。例如，尿素的分子直徑僅比水大約 20%，但其通過細胞膜孔的穿透率約比水低 1000 倍。
 
-One of the most important of the protein channels, the sodium channel, is only 0.3 to 0.5 nanometer in diameter, but the ability of sodium channels to discriminate sodium ions among other competing ions in the surrounding fluids is crucial for proper cellular function. The narrowest part of the sodium channel's open pore, the selectivity filter, is lined with strongly negatively charged amino acid residues, as shown in the top panel of Figure 4-5. These strong negative charges can pull small dehydrated sodium ions away from their hydrating water molecules into these channels, although the ions do not need to be fully dehydrated to pass through the channels. Once in the channel, the sodium ions diffuse in either direction according to the usual laws of diffusion. Thus, the sodium channel is highly selective for passage of sodium ions.
+## 蛋白質通道與離子通道——選擇性通透與通道的門控
 
-<span class="c-yellow">Figure 4-4.</span> The structure of a potassium channel. The channel is composed of four subunits (only two of which are shown), each with two transmembrane helices. A narrow selectivity filter is formed from the pore loops, and carbonyl oxygens line the walls of the selectivity filter, forming sites for transiently binding dehydrated potassium ions. The interaction of the potassium ions with carbonyl oxygens causes the potassium ions to shed their bound water molecules, permitting the dehydrated potassium ions to pass through the pore.
+蛋白質孔和通道的電腦三維重建顯示，從細胞外液到細胞內液有著貫穿的管狀路徑。孔由形成膜中開放管道的整合細胞膜蛋白組成，且通常是開放的。然而，孔的直徑及其電荷特性提供了選擇性，只允許某些分子通過。
 
-UNIT II
-Membrane Physiology, Nerve, and Muscle
+蛋白質通道有兩個重要特性：
+1. 它們通常對某些物質具有選擇性通透
+2. 許多通道可以透過受電信號（電壓門控通道）或化學物質（配體門控通道）控制的門來打開或關閉
 
-<span class="c-yellow">Figure 4-5.</span> Transport of sodium and potassium ions through protein channels. Also shown are conformational changes in the protein molecules to open or close the "gates" guarding the channels.
+### 蛋白質通道的選擇性通透
 
-Gating of Protein Channels
+許多蛋白質通道對一種或多種特定離子或分子的運輸具有高度選擇性。這種選擇性來自通道的特定特徵，如直徑、形狀以及沿其內表面的電荷和化學鍵特性。
 
-Gating of protein channels provides a means of controlling ion permeability of the channels. This mechanism is shown in both panels of Figure 4-5 for selective gating of sodium and potassium ions. Some of the gates are thought to be gatelike extensions of the transport protein molecule, which can close the opening of the channel or can be lifted away from the opening by a conformational change in the shape of the protein molecule.
+鉀離子通道允許鉀離子通過細胞膜的容易程度約是鈉離子的 1000 倍。這種高度選擇性不能完全用離子的分子直徑來解釋，因為鉀離子實際上比鈉離子略大。X 射線晶體學顯示，鉀離子通道具有四聚體結構，由四個相同的蛋白質亞基圍繞中央孔道組成（Figure 4-4）。在通道孔的頂部有形成狹窄選擇性過濾器的孔環。選擇性過濾器的內壁襯有羰基氧。當水合鉀離子進入選擇性過濾器時，它們與羰基氧相互作用，脫去大部分結合的水分子，使脫水的鉀離子能夠通過通道。然而，羰基氧之間的距離太遠，無法與較小的鈉離子緊密相互作用，因此鈉離子被有效地排除在通過孔道之外。
 
-The opening and closing of gates are controlled in two principal ways:
+鈉離子通道直徑僅 0.3 至 0.5 奈米。鈉通道選擇性過濾器排列有強負電荷的胺基酸殘基（Figure 4-5 頂部）。這些強負電荷可以將小的脫水鈉離子從其水合水分子中拉入通道。進入通道後，鈉離子根據一般擴散定律向任一方向擴散。
 
-1. **Voltage gating.** In the case of voltage gating, the molecular conformation of the gate or its chemical bonds responds to the electrical potential across the cell membrane. For example, in the top panel of Figure 4-5, a strong negative charge on the inside of the cell membrane may cause the outside sodium gates to remain tightly closed. Conversely, when the inside of the membrane loses its negative charge, these gates open suddenly and allow sodium to pass inward through the sodium pores. This process is the basic mechanism for eliciting action potentials in nerves that are responsible for nerve signals. In the bottom panel of Figure 4-5, the potassium gates are on the intracellular ends of the potassium channels, and they open when the inside of the cell membrane becomes positively charged. The opening of these gates is partly responsible for terminating the <span class="c-yellow">action potential</span>, a process discussed in Chapter 5.
+### 通道的門控
 
-2. **Chemical (ligand) gating.** Some protein channel gates are opened by the binding of a chemical substance (a ligand) with the protein, which causes a conformational or chemical bonding change in the protein molecule that opens or closes the gate. One of the most important instances of chemical gating is the effect of the neurotransmitter acetylcholine on the <span class="c-cyan">acetylcholine</span> receptor which serves as a ligand-gated ion channel. <span class="c-cyan">Acetylcholine</span> opens the gate of this channel, providing a negatively charged pore about 0.65 nanometer in diameter that allows uncharged molecules or positive ions smaller than this diameter to pass through. This gate is exceedingly important for the transmission of nerve signals from one nerve cell to another (see Chapter 46) and from nerve cells to muscle cells to cause muscle contraction (see Chapter 7).
+蛋白質通道的門控提供了控制通道離子通透性的手段（Figure 4-5）。門的打開和關閉主要有兩種控制方式：
 
-Open-State Versus Closed-State of Gated Channels
+1. **電壓門控。** 在電壓門控的情況下，門或其化學鍵的分子構象會回應跨膜的電位。例如，當細胞膜內側有強負電荷時，可能會使外側的鈉離子門保持緊閉；當膜內側失去負電荷時，這些門突然打開，允許鈉離子通過鈉孔道向內流動。這是神經中產生 action potential 的基本機制。
 
-Figure 4-6A shows two recordings of electrical current flowing through a single sodium channel when there was an approximately 25-millivolt potential gradient across the membrane. Note that the channel conducts current in an all-or-none fashion. That is, the gate of the channel snaps open and then snaps closed, with each open state lasting for only a fraction of a millisecond, up to several milliseconds, demonstrating the rapidity with which changes can occur during the opening and closing of the protein gates. At one voltage potential, the channel may remain closed all the time or almost all the time, whereas at another voltage, it may remain open either all or most of the time. At in-between voltages, as shown in the figure, the gates tend to snap open and closed intermittently, resulting in an average current flow somewhere between the minimum and maximum.
+2. **化學（配體）門控。** 有些蛋白質通道的門透過化學物質（配體）與蛋白質結合而打開，引起使門打開或關閉的蛋白質分子構象變化。化學門控最重要的例子之一是神經傳遞物質乙醯膽鹼對乙醯膽鹼受體的作用，乙醯膽鹼受體是配體門控離子通道。乙醯膽鹼打開這個通道的門，允許未帶電分子或小於 0.65 奈米的正離子通過。這個門對神經細胞之間以及神經細胞到肌肉細胞的神經信號傳遞極為重要（見第 46 章），也是導致肌肉收縮的原因（見第 7 章）。
 
-Patch Clamp Method for Recording Ion Current Flow Through Single Channels
+### 門控通道的開放態與關閉態
 
-The patch clamp method for recording ion current flow through single protein channels is illustrated in Figure 4-6B. A micropipette with a tip diameter of only 1 or 2 micrometers is abutted against the outside of a cell membrane. Suction is then applied inside the pipette to pull the membrane against the tip of the pipette, which creates a seal where the edges of the pipette touch the cell membrane. The result is a minute membrane "patch" at the tip of the pipette through which electrical current flow can be recorded.
+Figure 4-6A 顯示當跨膜電位梯度約為 25 毫伏時，流經單一鈉離子通道的電流記錄。通道以全有或全無的方式傳導電流，每次開放態持續不到一毫秒到幾毫秒。在一種電位下，通道可能一直關閉；在另一種電位下，可能一直保持開放。在中間電位時，門傾向於間歇性地快速打開和關閉。
 
-Alternatively, as shown at the bottom right in Figure 4-6B, the small cell membrane patch at the end of the pipette can be torn away from the cell. The pipette with its sealed patch is then inserted into a free solution, which allows the concentrations of ions both inside the micropipette and in the outside solution to be altered as desired. Also, the voltage between the two sides of the membrane can be set, or "clamped," to a given voltage.
+### 記錄單一通道離子電流的膜片鉗方法
 
-It has been possible to make such patches small enough so that only a single channel protein is found in the membrane patch being studied. By varying the concentrations of different ions, as well as the voltage across the membrane, one can determine the transport characteristics of the single channel, along with its gating properties.
+Figure 4-6B 說明了記錄通過單一蛋白質通道離子電流的膜片鉗方法。將一個尖端直徑僅 1 或 2 微米的微吸管抵在細胞膜外側，在吸管內施加抽吸，使膜被拉到吸管尖端，形成密封。結果是在吸管尖端形成一個微小的膜「片」，可以記錄通過它的電流。可以使這些片小到在所研究的膜片中只有一個通道蛋白質。
 
-<span class="c-yellow">Figure 4-6.</span> A, Recording of current flow through a single voltage-gated sodium channel, demonstrating the all-or-none principle for opening and closing of the channel. B, Patch clamp method for recording current flow through a single protein channel. To the left, the recording is performed from a "patch" of a living cell membrane. To the right, the recording is from a membrane patch that has been torn away from the cell.
+## 促進擴散需要膜載體蛋白質
 
-<span class="c-yellow">FACILITATED DIFFUSION</span> REQUIRES MEMBRANE CARRIER PROTEINS
+促進擴散也稱為載體介導擴散，因為以這種方式運輸的物質在特定載體蛋白的幫助下擴散通過膜。
 
-<span class="c-yellow">Facilitated diffusion</span> is also called carrier-mediated diffusion because a substance transported in this manner diffuses through the membrane with the help of a specific carrier protein. That is, the carrier facilitates diffusion of the substance to the other side.
+促進擴散與簡單擴散的重要區別如下：雖然簡單擴散通過開放通道的速率與擴散物質的濃度成正比，但在促進擴散中，擴散速率隨濃度增加而接近一個最大值，稱為 Vmax（Figure 4-7）。這是因為載體蛋白的數量有限。
 
-<span class="c-yellow">Facilitated diffusion</span> differs from simple diffusion in the following important way. Although the rate of simple diffusion through an open channel increases proportionately with the concentration of the diffusing substance, in facilitated diffusion the rate of diffusion approaches a maximum, called Vmax, as the concentration of the diffusing substance increases. This difference between simple diffusion and facilitated diffusion is demonstrated in Figure 4-7. The figure shows that as the concentration of the diffusing substance increases, the rate of simple diffusion continues to increase proportionately but, in the case of <span class="c-yellow">facilitated diffusion</span>, the rate of diffusion cannot rise higher than the Vmax level.
+載體蛋白的運作機制（Figure 4-8）：要運輸的分子進入孔並與受體結合，然後在不到一秒的時間內，載體蛋白發生構象變化，使孔向膜的另一側打開，結合分子脫離並釋放到膜的另一側。這種機制運輸分子的速率永遠無法超過載體蛋白在其兩種狀態之間來回變化的速率。
 
-What is it that limits the rate of <span class="c-yellow">facilitated diffusion</span>? A probable answer is the mechanism illustrated in Figure 4-8. This figure shows a carrier protein with a pore large enough to transport a specific molecule partway through. It also shows a binding receptor on the inside of the protein carrier. The molecule to be transported enters the pore and becomes bound. Then, in a fraction of a second, a conformational or chemical change occurs in the carrier protein, so that the pore now opens to the opposite side of the membrane. Because the binding force of the receptor is weak, the thermal motion of the attached molecule causes it to break away and be released on the opposite side of the membrane. The rate at which molecules can be transported by this mechanism can never be greater than the rate at which the carrier protein molecule can undergo change back and forth between its two states. Note specifically, though, that this mechanism allows the transported molecule to move—that is, diffuse—in either direction through the membrane.
+透過促進擴散通過細胞膜的物質包括葡萄糖和大多數胺基酸。就葡萄糖而言，已發現至少 14 種轉運葡萄糖分子的膜蛋白家族（GLUT）。其中葡萄糖轉運蛋白 4（GLUT4）被胰島素活化，可將葡萄糖的促進擴散速率增加多達 10 至 20 倍。這是胰島素控制身體葡萄糖使用的主要機制（見第 79 章）。
 
-<span class="c-yellow">Figure 4-7.</span> Effect of concentration of a substance on the rate of diffusion through a membrane by simple diffusion and facilitated diffusion. This graph shows that <span class="c-yellow">facilitated diffusion</span> approaches a maximum rate, called the Vmax.
+## 影響淨擴散速率的因素
 
-<span class="c-yellow">Figure 4-8.</span> Postulated mechanism for <span class="c-yellow">facilitated diffusion</span>.
+### 淨擴散速率與跨膜濃度差成正比
 
-UNIT II
-Membrane Physiology, Nerve, and Muscle
+細胞內的淨擴散速率與外面的濃度減去裡面的濃度成正比：
 
-Among the many substances that cross cell membranes by <span class="c-yellow">facilitated diffusion</span> are glucose and most of the amino acids. In the case of glucose, at least 14 members of a family of membrane proteins (called GLUT) that transport glucose molecules have been discovered in various tissues. Some of these GLUT proteins transport other monosaccharides that have structures similar to that of glucose, including galactose and fructose. One of these, glucose transporter 4 (GLUT4), is <span class="c-green">activated</span> by <span class="c-cyan">insulin</span>, which can increase the rate of <span class="c-yellow">facilitated diffusion</span> of glucose as much as 10- to 20-fold in <span class="c-cyan">insulin</span>-sensitive tissues. This is the principal mechanism whereby <span class="c-cyan">insulin</span> controls glucose use in the body, as discussed in Chapter 79.
+**淨擴散 ∝ (Co − Ci)**
 
-FACTORS THAT AFFECT NET RATE OF DIFFUSION
+其中 Co 是外面的濃度，Ci 是細胞內的濃度。
 
-By now, it is evident that many substances can diffuse through the cell membrane. What is usually important is the net rate of diffusion of a substance in the desired direction. This net rate is determined by several factors.
+### 膜電位與離子擴散——能斯特電位
 
-**Net Diffusion Rate Is Proportional to the Concentration Difference Across a Membrane**
+如果在膜上施加電位，離子的電荷即使沒有濃度差異也會導致它們通過膜移動。當濃度差異產生的移動力量與電位差產生的移動力量相互平衡時，達到平衡。此時的電位差稱為能斯特電位，可由以下公式計算：
 
-Figure 4-9A shows a cell membrane with a high concentration of a substance on the outside and a low concentration of a substance on the inside. The rate at which the substance diffuses inward is proportional to the concentration of molecules on the outside because this concentration determines how many molecules strike the outside of the membrane each second. Conversely, the rate at which molecules diffuse outward is proportional to their concentration inside the membrane. Therefore, the rate of net diffusion into the cell is proportional to the concentration on the outside minus the concentration on the inside:
+**EMF（毫伏）= ±61 × log(C₁/C₂)**
 
-**Net diffusion ∝ (Co − Ci)**
+在正常體溫（37°C）下，對於 Na⁺ 等一價離子，这个公式用於計算平衡時的電位差。
 
-in which Co is the concentration outside and Ci is the concentration inside the cell.
+### 跨膜壓力差異的影響
 
-**Membrane Electrical Potential and Diffusion of Ions—The "Nernst Potential"**
+有時在擴散膜的兩側之間會形成相當大的壓力差異，例如血液毛細血管膜。毛細血管內部的壓力比外部高約 20 mm Hg。壓力高的一側撞擊膜通道的分子每秒數量更多，因此水分子從高壓側向低壓側淨移動。
 
-If an electrical potential is applied across the membrane, as shown in Figure 4-9B, the electrical charges of the ions cause them to move through the membrane even though no concentration difference exists to cause movement. Thus, in the left panel of Figure 4-9B, the concentration of negative ions is the same on both sides of the membrane, but a positive charge has been applied to the right side of the membrane, and a negative charge has been applied to the left, creating an electrical gradient across the membrane. The positive charge attracts the negative ions, whereas the negative charge repels them. Therefore, net diffusion occurs from left to right. After some time, large quantities of negative ions have moved to the right, creating the condition shown in the right panel of Figure 4-9B, in which a concentration difference of the ions has developed in the direction opposite to the electrical potential difference. The concentration difference now tends to move the ions to the left, whereas the electrical difference tends to move them to the right. When the concentration difference rises high enough, the two effects balance each other. At normal body temperature (98.6°F; 37°C), the electrical difference that will balance a given concentration difference of univalent ions—such as Na⁺ ions—can be determined from the following formula, called the Nernst equation:
+## 滲透——水通過選擇性通透膜的淨擴散
 
-**EMF (in millivolts) = ±61 × log(C₁/C₂)**
+通過細胞膜擴散最豐富的物質是水。紅細胞膜每秒每個方向擴散的水量通常等於細胞本身體積的約 100 倍。然而，當膜兩側形成水的濃度差異時，水的淨移動確實會發生，導致細胞腫脹或收縮。這種由水的濃度差引起的淨移動過程稱為滲透。
 
-in which EMF is the electromotive force (voltage) between side 1 and side 2 of the membrane, C₁ is the concentration on side 1, and C₂ is the concentration on side 2. This equation is extremely important in understanding the transmission of nerve impulses and is discussed in Chapter 5.
+以 Figure 4-10 為例：一側是純水，另一側是細胞膜，氯化鈉溶液在膜的一側。水分子容易通過細胞膜，而鈉離子和氯離子只能困難地通過。鈉和氯離子的存在取代了膜一側的一些水分子，因此將該側的水分子濃度降低到低於純水。結果，水的淨移動從純水側進入氯化鈉溶液。
 
-**Effect of a Pressure Difference Across the Membrane**
+### 滲透壓
 
-At times, a considerable pressure difference develops between the two sides of a diffusible membrane. This pressure difference occurs, for example, at the blood <span class="c-pink">capillary</span> membranes in all tissues of the body. The pressure in many capillaries is about 20 mm Hg greater inside than outside.
+如果在上述情況中對氯化鈉溶液施加壓力，滲透會被減慢、停止甚至逆轉。阻止滲透所需的壓力稱為該溶液的滲透壓（Figure 4-11）。
 
-Pressure actually means the sum of all the forces of the different molecules striking a unit surface area at a given instant. Therefore, having a higher pressure on one side of a membrane than on the other side means that the sum of all the forces of the molecules striking the channels on that side of the membrane is greater than on the other side. In most cases, this situation is caused by greater numbers of molecules striking the membrane per second on one side than on the other side. The result is that increased amounts of energy are available to cause a net movement of molecules from the high-pressure side toward the low-pressure side. This effect is demonstrated in Figure 4-9C, which shows a piston developing high pressure on one side of a pore, thereby causing more molecules to strike the pore on this side and, therefore, more molecules to diffuse to the other side.
+### 決定滲透壓的滲透粒子數量
 
-<span class="c-yellow">Figure 4-9.</span> Effect of concentration difference (A), electrical potential difference affecting negative ions (B), and pressure difference (C) to cause diffusion of molecules and ions through a cell membrane. Co, concentration outside the cell; Ci, concentration inside the cell; P₁, pressure 1; P₂, pressure 2.
+溶液中粒子（無論是分子還是離子）施加的滲透壓由每單位體積流體中的粒子數量決定，而非粒子的質量。這是因為每個粒子，無論其質量如何，平均對膜施加相同量的壓力。
 
-UNIT II
+大粒子比小粒子質量更大，但移動速度更慢。小粒子以更高的速度移動，使每個粒子的平均動能相同。因此，決定溶液滲透壓的因素是溶液中以粒子數量表示的濃度，而非以溶質質量表示。
 
-<span class="c-yellow">OSMOSIS</span> ACROSS SELECTIVELY PERMEABLE MEMBRANES—"NET DIFFUSION" OF WATER
+### 滲透性與滲透摩爾
 
-By far, the most abundant substance that diffuses through the cell membrane is water. Enough water ordinarily diffuses in each direction through the red blood cell membrane per second to equal about 100 times the volume of the cell itself. Yet, the amount that normally diffuses in the two directions is balanced so precisely that zero net movement of water occurs. Therefore, the volume of the cell remains constant. However, under certain conditions, a concentration difference for water can develop across a membrane. When this concentration difference for water develops, net movement of water does occur across the cell membrane, causing the cell to swell or shrink, depending on the direction of the water movement. This process of net movement of water caused by a concentration difference of water is called <span class="c-yellow">osmosis</span>.
+1 滲透摩爾是 1 克分子量的滲透活性溶質。180 克葡萄糖（1 克分子量）等於 1 滲透摩爾的葡萄糖，因為葡萄糖不解離成離子。如果溶質解離成兩個離子，1 克分子量的溶質將變成 2 滲透摩爾。58.5 克氯化鈉（1 克分子量）當完全解離時等於 2 滲透摩爾。
 
-To illustrate <span class="c-yellow">osmosis</span>, let us assume the conditions shown in Figure 4-10, with pure water on one side of the cell membrane and a solution of sodium chloride on the other side. Water molecules pass through the cell membrane with ease, whereas sodium and chloride ions pass through only with difficulty. Therefore, sodium chloride solution is actually a mixture of permeant water molecules and nonpermeant sodium and chloride ions, and the membrane is said to be selectively permeable to water but much less so to sodium and chloride ions. Yet, the presence of the sodium and chloride has displaced some of the water molecules on the side of the membrane where these ions are present and, therefore, has reduced the concentration of water molecules to less than that of pure water. As a result, in the example shown in Figure 4-10, more water molecules strike the channels on the left side, where there is pure water, than on the right side, where the water concentration has been reduced. Thus, net movement of water occurs from left to right—that is, <span class="c-yellow">osmosis</span> occurs from the pure water into the sodium chloride solution.
+每千克水中含有 1 滲透摩爾溶質的溶液具有 1 滲透摩爾/千克的滲透性；每千克水中含有 1/1000 滲透摩爾的溶液具有 1 毫滲透摩爾/千克的滲透性。細胞外液和細胞內液的正常滲透性約為每千克水 300 毫滲透摩爾。
 
-**Osmotic Pressure**
+### 滲透摩爾濃度與滲透摩爾的術語區別
 
-If in Figure 4-10 pressure were applied to the sodium chloride solution, <span class="c-yellow">osmosis</span> of water into this solution would be slowed, stopped, or even reversed. The amount of pressure required to stop <span class="c-yellow">osmosis</span> is called the <span class="c-yellow">osmotic pressure</span> of the sodium chloride solution.
+滲透摩爾濃度是以每升溶液的滲透摩爾數表示，而非每千克水的滲透摩爾數。雖然嚴格來說，決定滲透壓的是每千克水的滲透摩爾數（滲透性），但對於像體液這樣的稀溶液，兩者差異不到 1%。因為測量滲透摩爾濃度比測量滲透摩爾更實際，所以在生理學研究中測量滲透摩爾濃度是通常的做法。
 
-The principle of a pressure difference opposing osmosis is demonstrated in Figure 4-11, which shows a selectively permeable membrane separating two columns of fluid, one containing pure water and the other containing a solution of water and any solute that will not penetrate the membrane. <span class="c-yellow">Osmosis</span> of water from chamber B into chamber A causes the levels of the fluid columns to become farther and farther apart, until eventually a pressure difference develops between the two sides of the membrane that is great enough to oppose the <span class="c-yellow">osmotic</span> effect. The pressure difference across the membrane at this point is equal to the <span class="c-yellow">osmotic pressure</span> of the solution that contains the nondiffusible solute.
+## 物質通過膜的主動運輸
 
-<span class="c-yellow">Figure 4-10.</span> <span class="c-yellow">Osmosis</span> at a cell membrane when a sodium chloride solution is placed on one side of the membrane and water is placed on the other side.
+有時細胞內液中需要高濃度的物質，即使細胞外液中只含有低濃度，例如鉀離子。相反，將其他離子在細胞內保持在非常低的濃度也很重要，即使它們在細胞外液中的濃度很高，例如鈉離子。這兩種效果都不能透過簡單擴散實現，因為簡單擴散最終會使膜兩側的濃度平衡。當細胞膜將分子或離子逆著濃度梯度向上移動時，這個過程稱為主動運輸。
 
----
-UNIT II Membrane Physiology, Nerve, and Muscle
+通過主動運輸的物質例子包括：鈉離子、鉀離子、鈣離子、鐵離子、氫離子、氯離子、碘離子、尿酸離子、多種不同的糖、大多數胺基酸。
 
-Importance of Number of <span class="c-yellow">Osmotic</span> Particles (Molar Concentration) in Determining <span class="c-yellow">Osmotic</span> Pressure
+### 原發性主動運輸與繼發性主動運輸
 
-The <span class="c-yellow">osmotic</span> pressure exerted by particles in a solution, whether they are molecules or ions, is determined by the number of particles per unit volume of fluid, not by the mass of the particles. The reason for this is that each particle in a solution, regardless of its mass, exerts, on average, the same amount of pressure against the membrane.
+在原發性主動運輸中，能量直接來自 ATP 或其他高能磷酸鍵化合物的分解。在繼發性主動運輸中，能量間接來自最初由原發性主動運輸在膜兩側建立的離子濃度差異中所儲存的能量。在兩種情況下，轉運都取決於穿透細胞膜的載體蛋白，但在主動運輸中，載體蛋白能夠向被運輸的物質提供能量，使其克服電化學梯度。
 
-That is, large particles, which have greater mass (m) than small particles, move at a slower velocity (v). The small particles move at higher velocities in such a way that their average kinetic energies (k), as determined by the following equation:
+## 原發性主動運輸
 
-**k = ½mv²**
+### 鈉鉀幫浦將鈉離子運出細胞、鉀離子運入細胞
 
-are the same for each small particle as for each large particle. Consequently, the factor that determines the <span class="c-yellow">osmotic</span> pressure of a solution is the concentration of the solution in terms of the number of particles (which is the same as its molar concentration if it is a nondissociated molecule), not in terms of mass of the solute.
+研究最詳細的原發性主動運輸機制是鈉鉀（Na⁺-K⁺）幫浦——一種轉運蛋白，將鈉離子泵出細胞，同時將鉀離子從外面泵入細胞內。這個幫浦負責維持細胞膜兩側的鈉和鉀濃度差異，以及在細胞內建立負電位。
 
-Osmolality—The Osmole
+Figure 4-12 顯示 Na⁺-K⁺ 幫浦的基本組成。載體蛋白是兩個分離的球狀蛋白的複合物：一個較大的 α 亞基（分子量約 100,000）和一個較小的 β 亞基（分子量約 55,000）。α 亞基有三個對著細胞內側突出的鈉離子結合位點，外側有兩個鉀離子結合位點，且在鈉離子結合位點附近具有 ATP 酶活性。
 
-To express the concentration of a solution in terms of numbers of particles, a unit called the osmole is used in place of grams.
+當兩個鉀離子在外側結合，三個鈉離子在內側結合時，蛋白質的 ATP 酶功能被活化，切割 ATP 分子為 ADP 並釋放高能磷酸鍵能量。這個能量導致蛋白質載體分子的構象變化，將三個鈉離子泵出到外側，兩個鉀離子泵入到內側。
 
-One osmole is 1 gram molecular weight of osmotically active solute. Thus, 180 grams of glucose, which is 1 gram molecular weight of glucose, is equal to 1 osmole of glucose because glucose does not dissociate into ions. If a solute dissociates into two ions, 1 gram molecular weight of the solute will become 2 osmoles because the number of osmotically active particles is now twice as great as for the nondissociated solute. Therefore, when fully dissociated, 1 gram molecular weight of sodium chloride, 58.5 grams, is equal to 2 osmoles.
+與其他酶一樣，Na⁺-K⁺ ATP 酶幫浦可以反向運行。如果 Na⁺ 和 K⁺ 的電化學梯度大於 ATP 水解的化學能，這些離子將沿著它們的濃度梯度移動，幫浦將從 ADP 和磷酸鹽合成 ATP。對於某些細胞（如電活性神經細胞），高達 60% 至 70% 的細胞能量需求可能用於將 Na⁺ 泵出細胞和 K⁺ 泵入細胞。
 
-Thus, a solution that has 1 osmole of solute dissolved in each kilogram of water is said to have an osmolality of 1 osmole per kilogram, and a solution that has 1/1000 osmole dissolved per kilogram has an osmolality of 1 milliosmole per kilogram. The normal osmolality of the extracellular and intracellular fluids is about 300 milliosmoles per kilogram of water.
+### Na⁺-K⁺ 幫浦對細胞體積控制的重要性
 
-Relationship of Osmolality to <span class="c-yellow">Osmotic</span> Pressure
+Na⁺-K⁺ 幫浦最重要的功能之一是控制細胞體積。如果沒有這個幫浦的功能，身體大多數細胞會腫脹直到破裂。
 
-At normal body temperature, 37°C (98.6°F), a concentration of 1 osmole per liter will cause 19,300 mm Hg <span class="c-yellow">osmotic</span> pressure in the solution. Likewise, 1 milliosmole per liter concentration is equivalent to 19.3 mm Hg <span class="c-yellow">osmotic</span> pressure. Multiplying this value by the 300 milliosmolar concentration of the body fluids gives a total calculated <span class="c-yellow">osmotic</span> pressure of the body fluids of 5790 mm Hg. The measured value for this, however, averages only about 5500 mm Hg.
+控制體積的機制如下。細胞內有大量不能離開細胞的蛋白質和其他有機分子。這些分子大多帶負電荷，吸引大量鉀、鈉和其他正離子。所有這些分子和離子導致水滲透到細胞內部。防止這種結果的正常機制是 Na⁺-K⁺ 幫浦。這個幫浦每泵入兩個 K⁺ 離子到細胞內部，就泵出三個 Na⁺ 離子到細胞外。膜對鈉離子的通透性遠低於對鉀離子的通透性，一旦鈉離子在外面，它們有很強的傾向留在那裡。這個過程代表離子從細胞中淨損失，這也引導水從細胞滲透出來。如果細胞因任何原因開始腫脹，Na⁺-K⁺ 幫浦會自動被活化，將更多離子移動到外面並攜帶水一起離開。
 
-The reason for this difference is that many ions in the body fluids, such as sodium and chloride ions, are highly attracted to one another; consequently, they cannot move entirely unrestrained in the fluids and create their full <span class="c-yellow">osmotic</span> pressure potential. Therefore, on average, the actual <span class="c-yellow">osmotic</span> pressure of the body fluids is about 0.93 times the calculated value.
+### Na⁺-K⁺ 幫浦的生電特性
 
-The Term Osmolarity
+Na⁺-K⁺ 幫浦每個週期將三個 Na⁺ 離子從細胞內部移動到外部，而每將兩個 K⁺ 離子移動到內部。這意味著每個週期都有一個凈正電荷從細胞內部移動到細胞外部。這種動作在細胞外產生正電性，在細胞內部導致正離子缺失（負電性）。因此，Na⁺-K⁺ 幫浦是生電的，它在細胞膜兩側建立了電位。
 
-Osmolarity is the osmolar concentration expressed as osmoles per liter of solution rather than osmoles per kilogram of water. Although, strictly speaking, it is osmoles per kilogram of water (osmolality) that determines <span class="c-yellow">osmotic</span> pressure, the quantitative differences between osmolarity and osmolality are less than 1% for dilute solutions such as those in the body. Because it is far more practical to measure osmolarity than osmolality, measuring osmolarity is the usual practice in physiological studies.
+### 鈣離子的原發性主動運輸
 
-<span class="c-yellow">ACTIVE TRANSPORT</span> OF SUBSTANCES THROUGH MEMBRANES
+鈣離子在體內幾乎所有細胞的細胞質中通常保持在極低濃度——約為細胞外液中濃度的萬分之一。這種維持主要透過兩種原發性主動運輸鈣幫浦實現：一種在細胞膜上，將鈣泵出細胞；另一種將鈣離子泵入細胞內囊泡，如肌肉細胞的肌漿網和所有細胞的粒線體。
 
-At times, a large concentration of a substance is required in the intracellular fluid, even though the extracellular fluid contains only a small concentration. This situation is true, for example, for potassium ions. Conversely, it is important to keep the concentrations of other ions very low inside the cell, even though their concentrations in the extracellular fluid are high. This situation is especially true for sodium ions.
+### 氫離子的原發性主動運輸
 
-Neither of these two effects could occur by simple diffusion because simple diffusion eventually equilibrates concentrations on the two sides of the membrane. Instead, some energy source must cause excess movement of potassium ions to the inside of cells and excess movement of sodium ions to the outside of cells. When a cell membrane moves molecules or ions uphill against a concentration gradient (or uphill against an electrical or pressure gradient), the process is called <span class="c-yellow">active transport</span>.
+氫離子的原發性主動運輸在身體的兩個部位特別重要：胃的胃腺和腎臟的遠端小管和皮質集合管。
 
-Some examples of substances that are actively transported through at least some cell membranes include:
+在胃腺中，深層的壁細胞具有身體任何部位運輸氫離子最有力的原發性主動機制。這是分泌胃消化分泌物中鹽酸鹽的基礎。在腎小管中，特殊插入細胞也透過原發性主動運輸運輸氫離子，目的是從體液中清除多餘的氫離子。氫離子可以逆著約 900 倍的濃度梯度分泌到腎小管液中。
 
-- sodium ions
-- potassium ions
-- calcium ions
-- iron ions
-- hydrogen ions
-- chloride ions
-- iodide ions
-- urate ions
-- several different sugars
-- most of the amino acids
+### 主動運輸的能量學
 
-Primary <span class="c-yellow">Active Transport</span> and Secondary Active Transport
+透過膜主動運輸物質所需的能量由運輸過程中物質被濃縮的程度決定。濃縮 10 倍所需的能量約為 1400 卡路里每滲透摩爾，而濃縮 100 倍需要 2800 卡路里。也就是說，所需的能量與物質被濃縮程度的對數成正比：
 
-<span class="c-yellow">Active transport</span> is divided into two types according to the source of the energy used to facilitate the transport: primary <span class="c-yellow">active transport</span> and secondary active transport.
+**能量（每滲透摩爾卡路里）= 1400 × log(C₂/C₁)**
 
-In primary <span class="c-yellow">active transport</span>, the energy is derived directly from the breakdown of adenosine triphosphate (<span class="c-cyan">ATP</span>) or some other high-energy phosphate compound.
+有些細胞，如腎小管和許多腺細胞，高達 90% 的能量專門用於主動運輸目的。
 
-In secondary <span class="c-yellow">active transport</span>, the energy is derived secondarily from energy that has been stored in the form of ionic concentration differences of secondary molecular or ionic substances between the two sides of a cell membrane, created originally by primary <span class="c-yellow">active transport</span>.
+## 繼發性主動運輸——共轉運與對向運輸
 
-In both cases, transport depends on carrier proteins that penetrate through the cell membrane, as is true for facilitated diffusion. However, in <span class="c-yellow">active transport</span>, the carrier protein functions differently from the carrier in <span class="c-yellow">facilitated diffusion</span> because it is capable of imparting energy to the transported substance to move it against the electrochemical gradient.
+當鈉離子透過原發性主動運輸被泵出細胞時，通常會在細胞膜兩側形成大的鈉離子濃度梯度：細胞外高，細胞內低。這個梯度代表了一個能量儲存庫，因為細胞膜外多餘的鈉離子總是試圖向內擴散。在適當條件下，鈉離子的這種擴散能量可以拉動其他物質隨鈉離子一起穿過細胞膜。這種現象稱為共轉運，是繼發性主動運輸的一種形式。
 
-The following sections provide some examples of primary <span class="c-yellow">active transport</span> and secondary <span class="c-yellow">active transport</span>, with more detailed explanations of their principles of function.
+在共轉運中，鈉離子和要共轉運的物質結合到同一個載體蛋白上，一旦兩者都結合，鈉離子的濃度梯度導致兩者被一起運輸到細胞內部。在對向運輸中，鈉離子結合到載體蛋白的外側，而要運輸的物質結合到內側突出部分，鈉離子向內側移動釋放的能量導致另一種物質向外側移動。
 
-PRIMARY <span class="c-yellow">ACTIVE TRANSPORT</span>
+### 葡萄糖和胺基酸與鈉離子的共轉運
 
-Sodium-Potassium Pump Transports Sodium Ions Out of Cells and Potassium Ions into Cells
+葡萄糖和許多胺基酸在進入大多數細胞時是逆著大的濃度梯度的；這個作用的機制完全是共轉運（Figure 4-13）。轉運載體蛋白在外側有兩個結合位點：一個用於鈉，一個用於葡萄糖。鈉離子在外面濃度高，在裡面濃度低，這提供了運輸的能量。當兩者都結合後，構象變化發生，鈉和葡萄糖同時被運輸到細胞內側。這是鈉-葡萄糖共轉運蛋白，對穿過腎臟和腸道上皮細胞運輸葡萄糖尤其重要（見第 28 和 66 章）。
 
-Among the substances that are transported by primary <span class="c-yellow">active transport</span> are sodium, potassium, calcium, hydrogen, chloride, and a few other ions. The <span class="c-yellow">active transport</span> mechanism that has been studied in greatest detail is the sodium-potassium (Na⁺-K⁺) pump, a transporter that pumps sodium ions outward through the cell membrane of all cells and, at the same time, pumps potassium ions from the outside to the inside. This pump is responsible for maintaining the sodium and potassium concentration differences across the cell membrane, as well as for establishing a negative electrical voltage inside the cells. Indeed, Chapter 5 shows that this pump is also the basis of nerve function, transmitting nerve signals throughout the nervous system.
+### 鈉和氫離子的對向運輸
 
-Figure 4-12 shows the basic physical components of the Na⁺-K⁺ pump. The carrier protein is a complex of two separate globular proteins—a larger one called the α subunit, with a molecular weight of about 100,000, and a smaller one called the β subunit, with a molecular weight of about 55,000. Although the function of the smaller protein is not known (except that it might anchor the protein complex in the lipid membrane), the larger protein has three specific features that are important for the functioning of the pump:
+兩個特別重要的對向轉運蛋白是鈉-鈣對向轉運和鈉-氫對向轉運（Figure 4-14）。
 
-1. It has three binding sites for sodium ions on the portion of the protein that protrudes to the inside of the cell.
-2. It has two binding sites for potassium ions on the outside.
-3. The inside portion of this protein near the sodium binding sites has adenosine triphosphatase (<span class="c-cyan">ATPase</span>) activity.
+鈉-鈣對向轉運發生在所有或幾乎所有細胞膜上，鈉離子向內移動，鈣離子向外移動；這是除了原發性主動運輸之外的一種額外機制。
 
-When two potassium ions bind on the outside of the carrier protein and three sodium ions bind on the inside, the <span class="c-cyan">ATPase</span> function of the protein becomes <span class="c-green">activated</span>. Activation of the <span class="c-cyan">ATPase</span> function leads to cleavage of one molecule of <span class="c-cyan">ATP</span>, splitting it to adenosine diphosphate (<span class="c-cyan">ADP</span>) and liberating a high-energy phosphate bond of energy. This liberated energy is believed to cause a chemical and conformational change in the protein carrier molecule, extruding three sodium ions to the outside and two potassium ions to the inside.
+鈉-氫對向轉運發生在腎臟的近端小管中，鈉離子從小管腔移動到小管細胞內部，氫離子被對向轉運進入小管腔。這個機制可以運輸極大量的氫離子，是體液氫離子控制的關鍵（見第 31 章）。
 
-As with other enzymes, the Na⁺-K⁺ <span class="c-cyan">ATPase</span> pump can run in reverse. If the electrochemical gradients for Na⁺ and K⁺ are experimentally increased to the degree that the energy stored in their gradients is greater than the chemical energy of <span class="c-cyan">ATP</span> hydrolysis, these ions will move down their concentration gradients, and the Na⁺-K⁺ pump will synthesize <span class="c-cyan">ATP</span> from <span class="c-cyan">ADP</span> and phosphate. The phosphorylated form of the Na⁺-K⁺ pump, therefore, can either donate its phosphate to <span class="c-cyan">ADP</span> to produce <span class="c-cyan">ATP</span> or use the energy to change its conformation and pump Na⁺ out of the cell and K⁺ into the cell. The relative concentrations of <span class="c-cyan">ATP</span>, <span class="c-cyan">ADP</span>, and phosphate, as well as the electrochemical gradients for Na⁺ and K⁺, determine the direction of the enzyme reaction. For some cells, such as electrically active nerve cells, 60% to 70% of the cell's energy requirement may be devoted to pumping Na⁺ out of the cell and K⁺ into the cell.
+## 通過細胞層的主動運輸
 
-The Na⁺-K⁺ Pump Is Important for Controlling Cell Volume
+在身體的許多部位，物質必須通過整個細胞層，而不僅僅是通過細胞膜。這種類型的運輸發生在：腸道上皮、腎小管上皮、所有外分泌腺上皮、膽囊上皮、腦脈絡叢的膜及其他膜。
 
-One of the most important functions of the Na⁺-K⁺ pump is to control the cell volume. Without function of this pump, most cells of the body would swell until they burst.
+通過細胞層運輸物質的基本機制如下（Figure 4-15）：
+1. 透過細胞層一側細胞膜上的主動運輸
+2. 透過細胞另一側膜的簡單擴散或促進擴散
 
-The mechanism for controlling the volume is as follows. Inside the cell are large numbers of proteins and other organic molecules that cannot escape from the cell. Most of these proteins and other organic molecules are negatively charged and, therefore, attract large numbers of potassium, sodium, and other positive ions. All these molecules and ions then cause <span class="c-yellow">osmosis</span> of water to the interior of the cell. Unless this process is checked, the cell will swell indefinitely until it bursts.
+圖中顯示上皮細胞在管腔極通過連接處緊密連接。細胞管腔表面的刷狀緣對鈉離子和水都可以滲透，因此鈉和水從管腔輕鬆擴散到細胞內部。然後在細胞的基底和外側膜上，鈉離子被主動運輸到周圍結締組織和血管的細胞外液中。這種作用造成大的鈉離子濃度梯度，進而導致滲透。因此，上皮細胞基底外側對鈉離子的主動運輸不僅導致鈉離子的運輸，也導致水的運輸。
 
-The normal mechanism for preventing this outcome is the Na⁺-K⁺ pump. Note again that this mechanism pumps three Na⁺ ions to the outside of the cell for every two K⁺ ions pumped to the interior. Also, the membrane is far less permeable to sodium ions than to potassium ions, and once the sodium ions are on the outside, they have a strong tendency to stay there. This process thus represents a net loss of ions from the cell, which also initiates <span class="c-yellow">osmosis</span> of water out of the cell.
-
-If a cell begins to swell for any reason, the Na⁺-K⁺ pump is automatically <span class="c-green">activated</span>, moving still more ions to the exterior and carrying water with them. Therefore, the Na⁺-K⁺ pump performs a continual surveillance role in maintaining normal cell volume.
-
-Electrogenic Nature of the Na⁺-K⁺ Pump
-
-The fact that the Na⁺-K⁺ pump moves three Na⁺ ions to the exterior for every two K⁺ ions that are moved to the interior means that a net of one positive charge is moved from the interior of the cell to the exterior of the cell for each cycle of the pump. This action creates positivity outside the cell but results in a deficit of positive ions inside the cell; that is, it causes negativity on the inside. Therefore, the Na⁺-K⁺ pump is said to be electrogenic because it creates an electrical potential across the cell membrane. As discussed in Chapter 5, this electrical potential is a basic requirement in nerve and muscle fibers for transmitting nerve and muscle signals.
-
-Primary <span class="c-yellow">Active Transport</span> of Calcium Ions
-
-Another important primary <span class="c-yellow">active transport</span> mechanism is the calcium pump. Calcium ions are normally maintained at an extremely low concentration in the intracellular cytosol of virtually all cells in the body—at a concentration about 10,000 times less than that in the extracellular fluid. This level of maintenance is achieved mainly by two primary <span class="c-yellow">active transport</span> calcium pumps:
-
-- One, which is in the cell membrane, pumps calcium to the outside of the cell.
-- The other pumps calcium ions into one or more of the intracellular vesicular organelles of the cell, such as the sarcoplasmic reticulum of muscle cells and the mitochondria in all cells.
-
-In each of these cases, the carrier protein penetrates the membrane and functions as an enzyme <span class="c-cyan">ATPase</span>, with the same capability to cleave <span class="c-cyan">ATP</span> as the <span class="c-cyan">ATPase</span> of the sodium carrier protein. The difference is that this protein has a highly specific binding site for calcium instead of for sodium.
-
-Primary <span class="c-yellow">Active Transport</span> of Hydrogen Ions
-
-Primary <span class="c-yellow">active transport</span> of hydrogen ions is especially important at two places in the body:
-
-1. In the gastric glands of the stomach
-2. In the late distal tubules and cortical collecting ducts of the kidneys
-
-In the gastric glands, the deeply lying parietal cells have the most potent primary active mechanism for transporting hydrogen ions of any part of the body. This mechanism is the basis for secreting hydrochloric acid in stomach digestive secretions. At the secretory ends of the gastric gland parietal cells, the hydrogen ion concentration is increased as much as a million-fold and then is released into the stomach, along with chloride ions, to form hydrochloric acid.
-
-In the renal tubules, special intercalated cells found in the late distal tubules and cortical collecting ducts also transport hydrogen ions by primary <span class="c-yellow">active transport</span>. In this case, large amounts of hydrogen ions are secreted from the blood into the renal tubular fluid for the purpose of eliminating excess hydrogen ions from the body fluids. The hydrogen ions can be secreted into the renal tubular fluid against a concentration gradient of about 900-fold. Yet, as discussed in Chapter 31, most of these hydrogen ions combine with tubular fluid buffers before they are eliminated in the urine.
-
-Energetics of Primary <span class="c-yellow">Active Transport</span>
-
-The amount of energy required to transport a substance actively through a membrane is determined by how much the substance is concentrated during transport. Compared with the energy required to concentrate a substance 10-fold, concentrating it 100-fold requires twice as much energy, and concentrating it 1000-fold requires three times as much energy. In other words, the energy required is proportional to the logarithm of the degree that the substance is concentrated, as expressed by the following formula:
-
-**Energy (in calories per osmole) = 1400 × log(C₂/C₁)**
-
-Thus, in terms of calories, the amount of energy required to concentrate 1 osmole of a substance 10-fold is about 1400 calories, whereas to concentrate it 100-fold, 2800 calories are required. One can see that the energy expenditure for concentrating substances in cells or for removing substances from cells against a concentration gradient can be tremendous. Some cells, such as those lining the renal tubules and many glandular cells, expend as much as 90% of their energy for this purpose alone.
-
-SECONDARY <span class="c-yellow">ACTIVE TRANSPORT</span>—CO-TRANSPORT AND COUNTER-TRANSPORT
-
-When sodium ions are transported out of cells by primary <span class="c-yellow">active transport</span>, a large concentration gradient of sodium ions across the cell membrane usually develops, with a high concentration outside the cell and a low concentration inside. This gradient represents a storehouse of energy, because the excess sodium outside the cell membrane is always attempting to diffuse to the interior. Under appropriate conditions, this diffusion energy of sodium can pull other substances along with the sodium through the cell membrane. This phenomenon, called co-transport, is one form of secondary <span class="c-yellow">active transport</span>.
-
-For sodium to pull another substance along with it, a coupling mechanism is required; this is achieved by means of still another carrier protein in the cell membrane. The carrier in this case serves as an attachment point for both the sodium ion and the substance to be co-transported. Once they are both attached, the energy gradient of the sodium ion causes the sodium ion and the other substance to be transported together to the interior of the cell.
-
-In counter-transport, sodium ions again attempt to diffuse to the interior of the cell because of their large concentration gradient. However, this time, the substance to be transported is on the inside of the cell and is transported to the outside. Therefore, the sodium ion binds to the carrier protein, where it projects to the exterior surface of the membrane, and the substance to be counter-transported binds to the interior projection of the carrier protein. Once both have become bound, a conformational change occurs, and energy released by the action of the sodium ion moving to the interior causes the other substance to move to the exterior.
-
-Co-Transport of Glucose and Amino Acids Along with Sodium Ions
-
-Glucose and many amino acids are transported into most cells against large concentration gradients; the mechanism of this action is entirely by co-transport, as shown in Figure 4-13. Note that the transport carrier protein has two binding sites on its exterior side, one for sodium and one for glucose. Also, the concentration of sodium ions is high on the outside and low on the inside, which provides energy for the transport. A special property of the transport protein is that a conformational change to allow sodium movement to the interior will not occur until a glucose molecule also attaches. When they both become attached, the conformational change takes place, and the sodium and glucose are transported to the inside of the cell at the same time. Hence, this is a sodium-glucose co-transporter. Sodium-glucose co-transporters are especially important for transporting glucose across renal and intestinal epithelial cells, as discussed in Chapters 28 and 66.
-
-Sodium co-transport of amino acids occurs in the same manner as for glucose, except that it uses a different set of transport proteins. At least five amino acid transport proteins have been identified, each of which is responsible for transporting one subset of amino acids with specific molecular characteristics.
-
-Sodium co-transport of glucose and amino acids occurs especially through the epithelial cells of the intestinal tract and the renal tubules of the kidneys to promote absorption of these substances into the blood. This process will be discussed in later chapters.
-
-Other important co-transport mechanisms in at least some cells include co-transport of:
-
-- potassium ions
-- chloride ions
-- bicarbonate ions
-- phosphate ions
-- iodide ions
-- iron ions
-- urate ions
-
-Sodium Counter-Transport of Calcium and Hydrogen Ions
-
-Two especially important counter-transporters (i.e., transport in a direction opposite to the primary ion) are sodium-calcium counter-transport and sodium-hydrogen counter-transport (Figure 4-14).
-
-Sodium-calcium counter-transport occurs through all or almost all cell membranes, with sodium ions moving to the interior and calcium ions to the exterior; both are bound to the same transport protein in a counter-transport mode. This mechanism is in addition to the primary <span class="c-yellow">active transport</span> of calcium that occurs in some cells.
-
-Sodium-hydrogen counter-transport occurs in several tissues. An especially important example is in the proximal tubules of the kidneys, where sodium ions move from the lumen of the tubule to the interior of the tubular cell and hydrogen ions are counter-transported into the tubule lumen. As a mechanism for concentrating hydrogen ions, counter-transport is not nearly as powerful as the primary <span class="c-yellow">active transport</span> of hydrogen ions that occurs in the more distal renal tubules, but it can transport extremely large numbers of hydrogen ions, thus making it a key to hydrogen ion control in the body fluids, as discussed in detail in Chapter 31.
-
----
-
-<figure>
-<figcaption>Figure 4-11. Demonstration of <span class="c-yellow">osmotic</span> pressure caused by <span class="c-yellow">osmosis</span> at a semipermeable membrane.</figcaption>
-</figure>
-
-<figure>
-<figcaption>Figure 4-12. Postulated mechanism of the sodium-potassium pump. <span class="c-cyan">ADP</span>, Adenosine diphosphate; <span class="c-cyan">ATP</span>, <span class="c-cyan">adenosine triphosphate</span>; Pi, phosphate ion.</figcaption>
-</figure>
-
-<figure>
-<figcaption>Figure 4-13. Postulated mechanism for sodium co-transport of glucose.</figcaption>
-</figure>
-
-<figure>
-<figcaption>Figure 4-14. Sodium counter-transport of calcium and hydrogen ions.</figcaption>
-</figure>
-
-UNIT II Membrane Physiology, Nerve, and Muscle
-
-<span class="c-yellow">ACTIVE TRANSPORT</span> THROUGH CELLULAR SHEETS
-
-At many places in the body, substances must be transported all the way through a cellular sheet instead of simply through the cell membrane. Transport of this type occurs through the following:
-
-- Intestinal epithelium
-- Epithelium of the renal tubules
-- Epithelium of all exocrine glands
-- Epithelium of the gallbladder
-- Membrane of the choroid plexus of the brain, along with other membranes
-
-The basic mechanism for transport of a substance through a cellular sheet is as follows:
-
-1. <span class="c-yellow">Active transport</span> through the cell membrane on one side of the transporting cells in the sheet
-2. Either simple diffusion or <span class="c-yellow">facilitated diffusion</span> through the membrane on the opposite side of the cell
-
-Figure 4-15 shows a mechanism for the transport of sodium ions through the epithelial sheet of the intestines, gallbladder, and renal tubules. This figure shows that the epithelial cells are connected together tightly at the luminal pole by means of junctions. The brush border on the luminal surfaces of the cells is permeable to both sodium ions and water. Therefore, sodium and water diffuse readily from the lumen into the interior of the cell. Then, at the basal and lateral membranes of the cells, sodium ions are actively transported into the extracellular fluid of the surrounding connective tissue and blood vessels. This action creates a high sodium ion concentration gradient across these membranes, which in turn causes <span class="c-yellow">osmosis</span> of water. Thus, <span class="c-yellow">active transport</span> of sodium ions at the basolateral sides of the epithelial cells results in the transport not only of sodium ions but also of water.
-
-It is through these mechanisms that almost all nutrients, ions, and other substances are absorbed into the blood from the intestine. These mechanisms are also how the same substances are reabsorbed from the glomerular filtrate by the renal tubules.
-
-Numerous examples of the different types of transport discussed in this chapter are provided throughout this text.
-
-Bibliography
-
-Agre P, Kozono D: Aquaporin water channels: molecular mechanisms for human diseases. FEBS Lett 555:72, 2003.
-
-Bröer S: Amino acid transport across mammalian intestinal and renal epithelia. Physiol Rev 88:249, 2008.
-
-DeCoursey TE: Voltage-gated proton channels: molecular biology, physiology, and pathophysiology of the H(V) family. Physiol Rev 93:599, 2013.
-
-DiPolo R, Beaugé L: Sodium/calcium exchanger: influence of metabolic regulation on ion carrier interactions. Physiol Rev 86:155, 2006.
-
-Drummond HA, Jernigan NL, Grifoni SC: Sensing tension: epithelial sodium channel/acid-sensing ion channel proteins in cardiovascular <span class="c-yellow">homeostasis</span>. Hypertension 51:1265, 2008.
-
-Eastwood AL, Goodman MB: Insight into DEG/ENaC channel gating from genetics and structure. Physiology (Bethesda) 27:282, 2012.
-
-Fischbarg J: Fluid transport across leaky epithelia: central role of the tight junction and supporting role of aquaporins. Physiol Rev 90:1271, 2010.
-
-Gadsby DC: Ion channels versus ion pumps: the principal difference, in principle. Nat Rev Mol Cell Biol 10:344, 2009.
-
-Ghezzi C, Loo DDF, Wright EM. Physiology of renal glucose handling via SGLT1, SGLT2 and GLUT2. Diabetologia 61:2087-2097, 2018.
-
-Hilge M: Ca2+ regulation of ion transport in the Na+/Ca2+ exchanger. J Biol Chem 287:31641, 2012.
-
-Jentsch TJ, Pusch M. CLC Chloride channels and transporters: structure, function, physiology, and disease. Physiol Rev 2018 98:1493-1590, 2018.
-
-Kaksonen M, Roux A. Mechanisms of clathrin-mediated endocytosis. Nat Rev Mol Cell Biol 19:313-326, 2018.
-
-Kandasamy P, Gyimesi G, Kanai Y, Hediger MA. Amino acid transporters revisited: new views in health and disease. Trends Biochem Sci 43:752-789, 2018.
-
-Papadopoulos MC, Verkman AS: Aquaporin water channels in the nervous system. Nat Rev Neurosci 14:265, 2013.
-
-Rieg T, Vallon V. Development of SGLT1 and SGLT2 <span class="c-green">inhibit</span>ors. Diabetologia 61:2079-2086, 2018.
-
-Sachs F: Stretch-<span class="c-green">activate</span>d ion channels: what are they? Physiology 25:50, 2010.
-
-Schwab A, Fabian A, Hanley PJ, Stock C: Role of ion channels and transporters in cell migration. Physiol Rev 92:1865, 2012.
-
-Stransky L, Cotter K, Forgac M. The function of V-ATPases in cancer. Physiol Rev 96:1071-1091, 2016.
-
-Tian J, Xie ZJ: The Na-K-ATPase and calcium-signaling microdomains. Physiology (Bethesda) 23:205, 2008.
-
-Verkman AS, Anderson MO, Papadopoulos MC. Aquaporins: important but elusive drug targets. Nat Rev Drug Discov 13:259-277, 2014.
-
-Wright EM, Loo DD, Hirayama BA: Biology of human sodium glucose transporters. Physiol Rev 91:733, 2011.
-
-Active
-transport
-Brush
-border
-Basement
-membrane
-Connective tissue
-<span class="c-yellow">Osmosis</span>
-<span class="c-yellow">Osmosis</span>
-Lumen Active
-transport Active
-transport
-<span class="c-yellow">Osmosis</span>
-Diffusion
-Na+
-Na+
-and
-H2O
-Na+
-Na+
-Na+
-Figure 4-15. Basic mechanism of <span class="c-yellow">active transport</span> across a layer of cells.
-
-UNIT II
-
-Electrical potentials exist across the membranes of virtually all cells of the body. Some cells, such as nerve and muscle cells, generate rapidly changing electrochemical impulses at their membranes, and these impulses are used to transmit signals along the nerve or muscle membranes. In other types of cells, such as glandular cells, macrophages, and ciliated cells, local changes in membrane potentials also <span class="c-green">activate</span> many of the cell's functions. This chapter reviews the basic mechanisms whereby membrane potentials are generated at rest and during action by nerve and muscle cells. See Video 5-1.
-
-MEMBRANE POTENTIALS AND ACTION POTENTIALS
-
-CHAPTER 5
-
-BASIC PHYSICS OF MEMBRANE POTENTIALS
-
-Membrane Potentials Caused by Ion Concentration Differences Across a Selectively Permeable Membrane
-
-In Figure 5-1A, the potassium concentration is great inside a nerve fiber membrane but very low outside the membrane. Let us assume that the membrane in this case is permeable to the potassium ions but not to any other ions. Because of the large potassium concentration gradient from the inside toward the outside, there is a strong tendency for potassium ions to diffuse outward through the membrane. As they do so, they carry positive electrical charges to the outside, thus creating electropositivity outside the membrane and electronegativity inside the membrane because of negative anions that remain behind and do not diffuse outward with the potassium. Within about 1 millisecond, the potential difference between the inside and outside, called the diffusion potential, becomes great enough to <span class="c-green">block</span> further net potassium diffusion to the exterior, despite the high potassium ion concentration gradient. In the normal mammalian nerve fiber, the potential difference is about 94 millivolts, with negativity inside the fiber membrane.
-
-Figure 5-1B shows the same phenomenon as in Figure 5-1A, but this time with a high concentration of sodium ions outside the membrane and a low concentration of sodium ions inside. These ions are also positively charged. This time, the membrane is highly permeable to the sodium ions but is impermeable to all other ions. Diffusion of the positively charged sodium ions to the inside creates a <span class="c-yellow">membrane potential</span> of opposite polarity to that in Figure 5-1A, with negativity outside and positivity inside. Again, the <span class="c-yellow">membrane potential</span> rises high enough within milliseconds to <span class="c-green">block</span> further net diffusion of sodium ions to the inside; however, this time, in the mammalian nerve fiber, the potential is about 61 millivolts positive inside the fiber.
-
-Thus, in both parts of Figure 5-1, we see that a concentration difference of ions across a selectively permeable membrane can, under appropriate conditions, create a <span class="c-yellow">membrane potential</span>. Later in this chapter, we show that many of the rapid changes in membrane potentials observed during nerve and muscle impulse transmission result from such rapidly changing diffusion potentials.
-
-The Nernst Equation Describes the Relationship of Diffusion Potential to the Ion Concentration Difference Across a Membrane. The diffusion potential across a membrane that exactly opposes the net diffusion of a particular ion through the membrane is called the Nernst potential for that ion, a term that was introduced in Chapter 4. The magnitude of the Nernst potential is determined by the ratio of the concentrations of that specific ion on the two sides of the membrane. The greater this ratio, the greater the tendency for the ion to diffuse in one direction and therefore the greater the Nernst potential required to prevent additional net diffusion. The following equation, called the Nernst equation, can be used to calculate the Nernst potential for any univalent ion at the normal body temperature of 98.6°F (37°C):
-
-EMF (millivolts) = ± z × 61 log (Concentration inside / Concentration outside)
-
-where EMF is the electromotive force and z is the electrical charge of the ion (e.g., +1 for K+).
-
-When using this formula, it is usually assumed that the potential in the extracellular fluid outside the membrane remains at zero potential, and the Nernst potential is the potential inside the membrane. Also, the sign of the potential is positive (+) if the ion diffusing from inside to outside is a negative ion, and it is negative (−) if the ion is positive. Thus, when the concentration of positive potassium ions on the inside is 10 times that on the outside, the log of 10 is 1, so the Nernst potential calculates to be −61 millivolts inside the membrane.
-
-The Goldman Equation Is Used to Calculate the Diffusion Potential When the Membrane Is Permeable to Several Different Ions. When a membrane is permeable to several different ions, the diffusion potential that develops depends on three factors:
-
-1. The polarity of the electrical charge of each ion
-2. The permeability of the membrane (P) to each ion
-3. The concentration (C) of the respective ions on the inside (i) and outside (o) of the membrane
-
-Thus, the following formula, called the Goldman equation or the Goldman-Hodgkin-Katz equation, gives the calculated <span class="c-yellow">membrane potential</span> on the inside of the membrane when two univalent positive ions, sodium (Na+) and potassium (K+), and one univalent negative ion, chloride (Cl−), are involved:
-
-EMF (millivolts) = −61 log (CPNa+i + CPK+i + CPCl−o) / (CPNa+o + CPK+o + CPCl−i)
-
-Several key points become evident from the Goldman equation.
-
-First, sodium, potassium, and chloride ions are the most important ions involved in the development of membrane potentials in nerve and muscle fibers, as well as in the neuronal cells. The concentration gradient of each of these ions across the membrane helps determine the voltage of the <span class="c-yellow">membrane potential</span>.
-
-Second, the quantitative importance of each of the ions in determining the voltage is proportional to the membrane permeability for that particular ion. If the membrane has zero permeability to sodium and chloride ions, the membrane potential becomes entirely dominated by the concentration gradient of potassium ions alone, and the resulting potential will be equal to the Nernst potential for potassium. The same holds true for each of the other two ions if the membrane should become selectively permeable for either one of them alone.
-
-Third, a positive ion concentration gradient from inside the membrane to the outside causes electronegativity inside the membrane. The reason for this phenomenon is that excess positive ions diffuse to the outside when their concentration is higher inside than outside the membrane. This diffusion carries positive charges to the outside but leaves the nondiffusible negative anions on the inside, thus creating electronegativity on the inside. The opposite effect occurs when there is a gradient for a negative ion. That is, a chloride ion gradient from the outside to the inside causes negativity inside the cell because excess negatively charged chloride ions diffuse to the inside while leaving the nondiffusible positive ions on the outside.
-
-Fourth, as explained later, the permeability of the sodium and potassium channels undergoes rapid changes during transmission of a nerve impulse, whereas the permeability of the chloride channels does not change greatly during this process. Therefore, rapid changes in sodium and potassium permeability are primarily responsible for signal transmission in neurons, which is the subject of most of the remainder of this chapter.
-
-Resting <span class="c-yellow">Membrane Potential</span> of Different Cell Types. In some cells, such as the cardiac pacemaker cells discussed in Chapter 10, the <span class="c-yellow">membrane potential</span> is continuously changing, and the cells are never "resting." In many other cells, even excitable cells, there is a quiescent period in which a resting <span class="c-yellow">membrane potential</span> can be measured. Table 5-1 shows the approximate resting membrane potentials of some different types of cells. The <span class="c-yellow">membrane potential</span> is obviously very dynamic in excitable cells such as neurons, in which action potentials occur. However, even in nonexcitable cells, the <span class="c-yellow">membrane potential</span> (voltage) also changes in response to various stimuli, which alter activities for the various ion transporters, ion channels, and membrane permeability for sodium, potassium, calcium, and chloride ions. The resting <span class="c-yellow">membrane potential</span> is, therefore, only a brief transient state for many cells.
-
-Electrochemical Driving Force. When multiple ions contribute to the <span class="c-yellow">membrane potential</span>, the equilibrium potential for any of the contributing ions will differ from the <span class="c-yellow">membrane potential</span>, and there will be an electrochemical driving force (Vdf) for each ion that tends to cause net diffusion of that ion.
-
-Table 5-1 Resting <span class="c-yellow">Membrane Potential</span> in Different Cell Types
-
-| Cell Type | <span class="c-yellow">Resting Potential</span> (mV) |
-|-----------|-------------------------------------|
-| Neurons | −60 to −70 |
-| Skeletal muscle | −85 to −95 |
-| Smooth muscle | −50 to −60 |
-| Cardiac muscle | −80 to −90 |
-| Hair (cochlea) | −15 to −40 |
-| Astrocyte | −80 to −90 |
-| Erythrocyte | −8 to −12 |
-| Photoreceptor | −40 (dark) to −70 (light) |
-
-+ –
-+ –
-+ –
-+ –
-+ –
-+ –
-+ –
-+ –
-– +
-– +
-– +
-– +
-– +
-– +
-– +
-– +
-– +
-+ – – +
-Nerve fiber
-(Anions)–
-(Anions)–
-(−94 mV)
-<span class="c-cyan">K+</span> K+
-– +
-– +
-– +
-– +
-– +
-– +
-– +
-– +
-+ –
-– +
-– +
-– +
-– +
-– +
-– +
-– +
-– +
-– +
-– + + –
-Nerve fiber (Anions)–
-(Anions)–
-(+61 mV)
-<span class="c-cyan">Na+</span> Na+
-
-DIFFUSION POTENTIALS
-A B
-
-Figure 5-1 A, Establishment of a diffusion potential across a nerve fiber membrane, caused by diffusion of potassium ions from inside the cell to outside the cell through a membrane that is selectively permeable only to potassium. B, Establishment of a diffusion potential when the nerve fiber membrane is permeable only to sodium ions. Note that the internal <span class="c-yellow">membrane potential</span> is negative when potassium ions diffuse and positive when sodium ions diffuse because of opposite concentration gradients of these two ions.
+透過這些機制，幾乎所有營養物質、離子和其他物質從腸道被吸收到血液中。這些機制也是腎小管從腎小球濾過液中重新吸收相同物質的方式。

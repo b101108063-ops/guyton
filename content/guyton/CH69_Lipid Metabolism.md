@@ -8,230 +8,229 @@ key_points:
   - "Content extracted directly from official Guyton & Hall PDF source"
 ---
 
-UNIT XIII
-Lipoproteins—Their Special Function in Transporting Cholesterol and Phospholipids
+## 章節導讀
 
-In the postabsorptive state, after all the chylomicrons have been removed from the blood, more than 95% of all the lipids in the plasma are in the form of lipoprotein. These lipids are small particles—much smaller than chylomicrons, but qualitatively similar in composition—containing triglycerides, cholesterol, phospholipids, and protein. The total concentration of lipoproteins in the plasma averages about 700 mg per 100 ml of plasma—that is, 700 mg/dl—and can be broken down into the following individual lipoprotein constituents:
+本章探討人體內脂肪的代謝途徑與調控機制。首先說明血中脂肪如何以 lipoprotein 的形式被運輸，包括 chylomicron、VLDL、IDL、LDL、HDL 等不同顆粒的組成與功能差異。接著討論脂肪如何儲存於 adipose tissue 以及動員脂肪時如何進行 beta-oxidation 產生 ATP。肝臟在脂肪代謝中扮演樞紐角色，既能氧化脂肪酸供能，也可合成 triglyceride 並將其包裝成 VLDL 輸出。當體內缺乏 carbohydrate（例如飢餓或糖尿病）時，肝細胞會將過量的 acetyl-CoA 轉化為酮體（ketone bodies）——acetoacetic acid、β-hydroxybutyric acid、acetone——供其他組織使用，臨床上稱為 ketosis。脂肪的合成（主要是從 carbohydrate 轉化而來）與分解兩條路徑皆受荷爾蒙精密調控，insulin、glucagon、epinephrine、growth hormone 等皆參與其中。最後，本章也介紹 phospholipid 與 cholesterol 的結構、功能與代謝調控。
 
-- Cholesterol: 180 mg/dl of plasma
-- Phospholipids: 160 mg/dl of plasma
-- Triglycerides: 160 mg/dl of plasma
-- Protein: 200 mg/dl of plasma
+---
 
-**Types of Lipoproteins.** Aside from the chylomicrons, which are very large lipoproteins, there are four major types of lipoproteins, classified by their densities as measured in the ultracentrifuge:
+## Lipoprotein 的結構與分類
 
-- Very low density lipoproteins (VLDLs), which contain high concentrations of triglycerides and moderate concentrations of both cholesterol and phospholipids
-- Intermediate-density lipoproteins (IDLs), which are VLDLs from which a share of the triglycerides has been removed, so the concentrations of cholesterol and phospholipids are increased
-- Low-density lipoproteins (LDLs), which are derived from IDLs by the removal of almost all the triglycerides, leaving an especially high concentration of cholesterol and a moderately high concentration of phospholipids
-- High-density lipoproteins (HDLs), which contain a high concentration of protein (≈50%) but much smaller concentrations of cholesterol and phospholipids
+在餐後吸收期結束、血中 chylomicron 已被清除之後，血漿中超過 95% 的脂肪都是以 lipoprotein 的形式存在。這些顆粒比 chylomicron 小，但組成類似，內含 triglyceride、cholesterol、phospholipid 與 protein。血漿中 lipoprotein 的總濃度平均約 700 mg/dl，可細分為以下成分：
 
-**Formation and Function of Lipoproteins.** Almost all the lipoproteins are formed in the liver, which is also where most of the plasma cholesterol, phospholipids, and triglycerides are synthesized. In addition, small quantities of HDLs are synthesized in the intestinal epithelium during absorption of fatty acids from the intestines.
+- Cholesterol：180 mg/dl
+- Phospholipids：160 mg/dl
+- Triglycerides：160 mg/dl
+- Protein：200 mg/dl
 
-The primary function of the lipoproteins is to transport their lipid components in the blood. The VLDLs transport triglycerides synthesized in the liver mainly to the adipose tissue. The other lipoproteins are especially important in different stages of phospholipid and cholesterol transport from the liver to the peripheral tissues or from the periphery back to the liver. Later in the chapter, we discuss in more detail special problems of cholesterol transport in relation to the disease atherosclerosis, which is associated with the development of fatty lesions on the insides of arterial walls.
+### 四種主要的 Lipoprotein
 
-**Figure 69-2.** Summary of major pathways for metabolism of chylomicrons synthesized in the intestine and very low density lipoprotein (VLDL) synthesized in the liver. Apo B, Apolipoprotein B; Apo E, apolipoprotein E; FFA, free fatty acids; IDL, intermediate-density lipoprotein; LDL, low-density lipoprotein; LPL, lipoprotein lipase.
+除了極大的 chylomicron 之外，依超高速離心機測得的密度可分為四類：
 
-**Fat Deposits**
+- **VLDL（Very Low Density Lipoprotein）**：triglyceride 含量高，cholesterol 與 phospholipid 含量適中
+- **IDL（Intermediate-Density Lipoprotein）**：由 VLDL 移除部分 triglyceride 而來，cholesterol 與 phospholipid 濃度相對提高
+- **LDL（Low-Density Lipoprotein）**：幾乎所有 triglyceride 已被移除，cholesterol 濃度特別高，phospholipid 含量也較高
+- **HDL（High-Density Lipoprotein）**：protein 含量高（約 50%），cholesterol 與 phospholipid 含量相對較少
 
-Large quantities of fat are stored in two major tissues of the body, the adipose tissue and the liver. The adipose tissue is usually called fat deposits, or simply tissue fat.
+### Lipoprotein 的形成與功能
 
-**Adipose Tissue**
+幾乎所有 lipoprotein 都由肝臟合成，這也是血漿 cholesterol、phospholipid 與 triglyceride 的主要產地。HDL 有少量由腸道上皮細胞在吸收脂肪酸時同步合成。Lipoprotein 的主要功能是將脂肪運輸到全身各組織：VLDL 將肝臟合成的 triglyceride 送往 adipose tissue；其餘 lipoprotein 則負責將 phospholipid 與 cholesterol 在肝臟與週邊組織之間做雙向運輸。膽固醇的運輸異常與 atherosclerosis 的發生密切相關。
 
-A major function of adipose tissue is storage of triglycerides until they are needed to provide energy elsewhere in the body. Additional functions are to provide heat insulation for the body, as discussed in Chapter 74, and secretion of hormones, such as leptin and adiponectin, which affect multiple body functions, including appetite and energy expenditure, as discussed in Chapter 72.
+<figure>
+Chylomicron（腸道）→ VLDL（肝臟）→ IDL → LDL
+Apo B、Apo E、FFA、IDL、LPL 等路徑節點
+</figure>
 
-**Fat Cells (Adipocytes) Store Triglycerides.** The fat cells (adipocytes) of adipose tissue are modified fibroblasts that store almost pure triglycerides in quantities as great as 80% to 95% of the entire cell volume. Triglycerides inside the fat cells are generally in a liquid form. When the tissues are exposed to prolonged cold, the fatty acid chains of the cell triglycerides, over a period of weeks, become either shorter or more unsaturated to decrease their melting point, thereby always allowing the fat to remain in a liquid state. This characteristic is particularly important because only liquid fat can be hydrolyzed and transported from the cells.
+**Figure 69-2.** Chylomicron（腸道合成）與 VLDL（肝臟合成）的主要代謝途徑總覽。Apo B、Apo E、FFA（游離脂肪酸）、IDL、LDL、LPL（lipoprotein lipase）等標示說明各步驟的角色。
 
-Fat cells can synthesize very small amounts of fatty acids and triglycerides from carbohydrates; this function supplements the synthesis of fat in the liver, as discussed later in the chapter.
+---
 
-**Tissue Lipases Permit Exchange of Fat Between Adipose Tissue and the Blood.** As discussed earlier, large quantities of lipases are present in adipose tissue. Some of these enzymes catalyze the deposition of cell triglycerides from the chylomicrons and lipoproteins. Others, when activated by hormones, cause splitting of the triglycerides of the fat cells to release free fatty acids. Because of the rapid exchange of fatty acids, the triglycerides in fat cells are renewed about once every 2 to 3 weeks, which means that the fat stored in the tissues today is not the same fat that was stored last month, thus emphasizing the dynamic state of storage fat.
+## 脂肪的儲存：Adipose Tissue
 
-**Liver Lipids**
+人體脂肪主要儲存於兩大組織：adipose tissue（俗稱脂肪組織）與肝臟。Adipose tissue 的主要功能是儲存 triglyceride，需要時再分解释放 energy；另有保溫（Chapter 74）與分泌 hormone（leptin、adiponectin）等次要功能（Chapter 72）。
 
-The principal functions of the liver in lipid metabolism are to (1) degrade fatty acids into small compounds that can be used for energy; (2) synthesize triglycerides, mainly from carbohydrates, but to a lesser extent from proteins as well; and (3) synthesize other lipids from fatty acids, especially cholesterol and phospholipids.
+### 脂肪細胞如何儲存 Triglyceride
 
-Large quantities of triglycerides appear in the liver during (1) the early stages of starvation, (2) in diabetes mellitus, and (3) in any other condition in which fat instead of carbohydrates is being used for energy. In these conditions, large quantities of triglycerides are mobilized from the adipose tissue, transported as free fatty acids in the blood, and redeposited as triglycerides in the liver, where the initial stages of much of fat degradation begin. Thus, under normal physiological conditions, the total amount of triglycerides in the liver is determined to a great extent by the overall rate at which lipids are being used for energy.
+Adipocyte（脂肪細胞）是由 fibroblasts 演變而來，細胞內容物中 80%–95% 為純 Triglyceride，呈液態。長期暴露於低溫時，細胞內 triglyceride 的脂肪酸鏈會變短或增加不飽和度，使熔點降低，確保脂肪始终保持液態——只有液態脂肪才能被水解並輸出細胞。脂肪細胞本身能以 carbohydrate 為原料少量合成脂肪酸與 triglyceride。
 
-The liver may also store large amounts of lipids in people who are obese or have lipodystrophy, a condition characterized by atrophy or genetic deficiency of adipocytes. In both of these conditions, excess fat that cannot be stored in adipose tissue accumulates in the liver and, to a lesser extent, in other tissues that normally store minimal amounts of lipids.
+### 組織 Lipase 調控脂肪的進出
 
-The liver cells, in addition to containing triglycerides, contain large quantities of phospholipids and cholesterol, which are continually synthesized by the liver. Also, the liver cells are much more capable of desaturating fatty acids than are other tissues, and thus liver triglycerides normally are much more unsaturated than the triglycerides of adipose tissue. This capability of the liver to desaturate fatty acids is functionally important to all tissues of the body because many structural elements of all cells contain reasonable quantities of unsaturated fats, and their principal source is the liver. This desaturation is accomplished by a dehydrogenase in the liver cells.
+Adipose tissue 含有多種 lipase，有些負責將 chylomicron 與 lipoprotein 中的 triglyceride 水解並攝入細胞；有些則在 hormone 刺激下將細胞內的 triglyceride 水解為游離脂肪酸（free fatty acid, FFA）釋放入血。由於脂肪酸的交換速度很快，脂肪細胞內的 triglyceride 大約每 2–3 週就會完全更新一次，這說明了儲存脂肪是一個高度動態的過程。
 
-**Use of Triglycerides for Energy: Formation of Adenosine Triphosphate**
+---
 
-The dietary intake of fat varies considerably in persons of different cultures, averaging as little as 10% to 15% of caloric intake in some Asian populations to as much as 35% to 50% of the calories in many Western populations. For many persons the use of fats for energy is therefore as important as the use of carbohydrates. In addition, many of the carbohydrates ingested with each meal are converted into triglycerides, stored, and used later in the form of fatty acids released from the triglycerides for energy.
+## 肝臟的脂肪代謝
 
-**Hydrolysis of Triglycerides Into Fatty Acids and Glycerol.** The first stage in using triglycerides for energy is their hydrolysis into fatty acids and glycerol. Then, both the fatty acids and the glycerol are transported in the blood to the active tissues, where they will be oxidized to give energy. Almost all cells—with some exceptions, such as brain tissue and red blood cells—can use fatty acids for energy.
+肝臟在脂肪代謝中執行三大功能：
 
-Glycerol, upon entering the active tissue, is immediately changed by intracellular enzymes into glycerol-3-phosphate, which enters the glycolytic pathway for glucose breakdown and is thus used for energy. Before the fatty acids can be used for energy, they must be processed further in the mitochondria.
+1. 將脂肪酸降解為可供能的的小分子化合物
+2. 以 carbohydrate（以及少量 protein）為原料合成 triglyceride
+3. 以脂肪酸為原料合成其他 lipid，尤其是 cholesterol 與 phospholipid
 
-**Entry of Fatty Acids Into the Mitochondria.** Degradation and oxidation of fatty acids occur only in the mitochondria. Therefore, the first step for the use of fatty acids is their transport into the mitochondria using carnitine as a carrier. Once inside the mitochondria, fatty acids split away from carnitine and are degraded and oxidized.
+在飢餓早期、糖尿病或其他脂肪替代 carbohydrate 作為能源的狀況下，大量 triglyceride 會從 adipose tissue 動員出來，以 FFA 形式進入血液並再度沉積為肝臟的 triglyceride。因此，肝臟 triglyceride 的總量主要取決於整體脂肪被用作能源的速率。肥胖或 lipodystrophy（脂肪細胞萎縮或基因缺陷）患者也會出現脂肪在肝臟過度堆積的現象。
 
-**Degradation of Fatty Acids to Acetyl Coenzyme A by Beta-Oxidation.** Fatty acids are degraded in the mitochondria by progressive release of two-carbon segments in the form of acetyl coenzyme A (acetyl-CoA). This degradation process, which is shown in Figure 69-3, is called beta-oxidation of fatty acids.
+肝細胞還能將脂肪酸去飽和（desaturate），使肝臟 triglyceride 的不飽和度比 adipose tissue 更高。這對所有細胞都很重要，因為許多細胞結構需要一定量的不飽和脂肪，而其主要來源正是肝臟。
 
-To understand the essential steps in the beta-oxidation process, note that in Equation 1 in Figure 69-3, the first step is combination of the fatty acid molecule with coenzyme A (CoA) to form fatty acyl-CoA. In Equations 2, 3, and 4, the beta carbon (the second carbon from the right) of the fatty acyl-CoA binds with an oxygen molecule—that is, the beta carbon becomes oxidized.
+---
 
-Then, in Equation 5, the right-hand two-carbon portion of the molecule is split off to release acetyl-CoA into the cell fluid. At the same time, another CoA molecule binds at the end of the remaining portion of the fatty acid molecule, and thus a new fatty acyl-CoA molecule is formed; this time, however, the molecule is two carbon atoms shorter because of the loss of the first acetyl-CoA from its terminal end.
+## 脂肪酸的 β-Oxidation 與 ATP 生成
 
-Next, this shorter fatty acyl-CoA enters into Equation 2 and progresses through Equations 3, 4, and 5 to release another acetyl-CoA molecule, thus shortening the original fatty acid molecule by another two carbons. In addition to the released acetyl-CoA molecules, four atoms of hydrogen are released from the fatty acid molecule at the same time, entirely separate from the acetyl-CoA.
+### 水解與粒線體攝入
 
-**Oxidation of Acetyl-CoA.** The acetyl-CoA molecules formed by beta-oxidation of fatty acids in the mitochondria enter immediately into the citric acid cycle (see Chapter 68), combining first with oxaloacetic acid to form citric acid, which then is degraded into carbon dioxide and hydrogen atoms. The hydrogen is subsequently oxidized by the chemiosmotic oxidative system of the mitochondria, which was also explained in Chapter 68. The net reaction in the citric acid cycle for each molecule of acetyl-CoA is the following:
+使用 triglyceride 供能的第一步是將其水解為脂肪酸與 glycerol。Glycerol 進入細胞後轉化為 glycerol-3-phosphate，進入 glycolytic pathway 進一步代謝。脂肪酸則必須送入粒線體才能被氧化，這個步驟需要 carnitine 作為載體。
 
-CH₃CO-CoA + Oxaloacetic acid + H₂O + ADP + Pi → Citric acid cycle → Citrate + CoA + H₂O + CO₂ + ATP
+### β-Oxidation 產生 Acetyl-CoA
 
-Thus, after initial degradation of fatty acids to acetyl-CoA, their final breakdown is precisely the same as that of the acetyl-CoA formed from pyruvic acid during the metabolism of glucose. The extra hydrogen atoms are also oxidized by the same chemiosmotic oxidative system of the mitochondria that is used in carbohydrate oxidation, liberating large amounts of adenosine triphosphate (ATP).
+粒線體內的 β-oxidation 以兩個碳為單位逐步將脂肪酸切斷，形成 acetyl-CoA（Figure 69-3）。具體流程如下：
 
-**Large Amounts of ATP Are Formed by Oxidation of Fatty Acids.** Note in Figure 69-3 that the four separate hydrogen atoms released each time a molecule of acetyl-CoA is split from the fatty acid chain are released in the forms reduced flavin adenine dinucleotide (FADH₂), reduced nicotinamide adenine dinucleotide (NADH), and H⁺. Therefore, for every stearic fatty acid molecule that is split to form 9 acetyl-CoA molecules, 32 extra hydrogen atoms are removed. In addition, for each of the 9 molecules of acetyl-CoA that are subsequently degraded by the citric acid cycle, 8 more hydrogen atoms are removed, making another 72 hydrogen atoms. Thus a total of 104 hydrogen atoms are eventually released by the degradation of each stearic acid molecule. Of this group, 34 are removed from the degrading fatty acids by flavoproteins and 70 are removed by nicotinamide adenine dinucleotide (NAD⁺) as NADH and H⁺.
+1. Fatty acid + CoA + ATP → Fatty acyl-CoA（由 thiokinase 催化）
+2. Fatty acyl-CoA + FAD → Fatty acyl-CoA（去除兩個氫，形成雙鍵）+ FADH₂（Acyl dehydrogenase）
+3. 加入 H₂O，形成 β-hydroxyacyl-CoA（Enoyl hydrase）
+4. β-hydroxyacyl-CoA + NAD⁺ → β-ketoacyl-CoA + NADH + H⁺（β-Hydroxyacyl dehydrogenase）
+5. β-ketoacyl-CoA + CoA → Fatty acyl-CoA（縮短兩個碳）+ Acetyl-CoA（Thiolase）
 
-These two groups of hydrogen atoms are oxidized in the mitochondria, as discussed in Chapter 68, but they enter the oxidative system at different points. Therefore, 1 molecule of ATP is synthesized for each of the 34 flavoprotein hydrogens, and 1.5 molecules of ATP are synthesized for each of the 70 NADH and H⁺ hydrogens. This makes 34 plus 105, or a total of 139 molecules of ATP formed by the oxidation of hydrogen derived from each molecule of stearic acid. Another 9 molecules of ATP are formed in the citric acid cycle itself (separate from the ATP released by the oxidation of hydrogen), 1 for each of the nine acetyl-CoA molecules metabolized. Thus, a total of 148 molecules of ATP are formed during the complete oxidation of 1 molecule of stearic acid. However, 2 high-energy bonds are consumed in the initial combination of CoA with the stearic acid molecule, making a net gain of 146 molecules of ATP.
+每剪下兩個碳就會產生一分子 FADH₂、一分子 NADH 與一分子 H⁺。
 
-**Formation of Acetoacetic Acid in the Liver and Its Transport in the Blood**
+### Acetyl-CoA 進入檸檬酸循環
 
-A large share of the initial degradation of fatty acids occurs in the liver, especially when large amounts of lipids are being used for energy. However, the liver uses only a small proportion of the fatty acids for its own intrinsic metabolic processes. Instead, when the fatty acid chains have been split into acetyl-CoA, two molecules of acetyl-CoA condense to form one molecule of acetoacetic acid, which is then transported in the blood to the other cells throughout the body, where it is used for energy. The following chemical processes occur:
+β-oxidation 產生的 acetyl-CoA 進入粒線體的檸檬酸循環（Chapter 68），最終被氧化為 CO₂ 與氫原子。氫原子再經由粒線體的化學滲透氧化系統（chemiosmotic oxidative system）產生大量 ATP。
 
-Liver cells: 2 Acetyl-CoA + H₂O → Acetoacetic acid + CoA
+### 脂肪酸氧化的 ATP 產量
 
-Other cells: Acetoacetic acid → 2 Acetyl-CoA + H₂O
+以 stearic acid（18 碳）為例：最終產生 9 分子 acetyl-CoA。
 
-The sequence of reactions is:
+- 每分子 stearic acid 的 β-oxidation 產生 32 個額外氫原子（形成 NADH 與 FADH₂）
+- 9 分子 acetyl-CoA 各自進入檸檬酸循環後還會釋出 72 個氫原子
+- 總共 104 個氫原子：34 個由 flavoprotein 攜帶（每個產生 1 ATP），70 個由 NAD⁺ 攜帶（每個產生 1.5 ATP）
+- 檸檬酸循環本身每分子 acetyl-CoA 產生 1 ATP
 
-- RCH₂CH₂CH₂COOH (Fatty acid) + CoA + ATP → RCH₂CH₂CH₂CO-CoA (Fatty acyl-CoA) + AMP + Pyrophosphate (Thiokinase)
-- RCH₂CH₂CH₂CO-CoA + FAD → RCH₂CH=CHCO-CoA + FADH₂ (Acyl dehydrogenase)
-- RCH₂CH=CHCO-CoA + H₂O → RCH₂CHOHCH₂CO-CoA (Enoyl hydrase)
-- RCH₂CHOHCH₂CO-CoA + NAD⁺ → RCH₂COCH₂CO-CoA + NADH + H⁺ (β-Hydroxyacyl dehydrogenase)
-- RCH₂COCH₂CO-CoA + CoA → RCH₂CO-CoA + CH₃CO-CoA (Thiolase)
+因此，1 分子 stearic acid 完全氧化可得到約 148 分子 ATP，扣除最初與 CoA 結合消耗的 2 個 high-energy bond，淨得 146 分子 ATP。
 
-**Figure 69-3.** Beta oxidation of fatty acids to yield acetyl coenzyme A.
+---
 
-Part of the acetoacetic acid is also converted into β-hydroxybutyric acid, and minute quantities are converted into acetone in accord with the following reactions:
+## 肝臟產生的酮體及其運輸
+
+在大量脂肪被用作能源時，肝臟會將脂肪酸 β-oxidation 產生的 acetyl-CoA 轉化為酮體：
+
+2 Acetyl-CoA + H₂O → Acetoacetic acid + CoA
+
+部分 acetoacetic acid 再被還原為 β-hydroxybutyric acid，少量進一步轉化為 acetone：
 
 Acetoacetic acid + 2H → β-Hydroxybutyric acid
-
 β-Hydroxybutyric acid → Acetone + CO₂
 
-The acetoacetic acid, β-hydroxybutyric acid, and acetone diffuse freely through the liver cell membranes and are transported by the blood to the peripheral tissues. Here they again diffuse into the cells, where reverse reactions occur, and acetyl-CoA molecules are formed. These molecules in turn enter the citric acid cycle and are oxidized for energy, as already explained.
+這三種物質（合稱 ketone bodies）可自由通過肝細胞膜，由血液運往週邊組織，再逆轉反應變回 acetyl-CoA 進入檸檬酸循環氧化。
 
-Normally, the acetoacetic acid and β-hydroxybutyric acid that enter the blood are transported so rapidly to the tissues that their combined concentration in the plasma seldom rises above 3 mg/dl. Yet, despite this small concentration in the blood, large quantities are actually transported, as is also true for free fatty acid transport. The rapid transport of both these substances results from their high solubility in the membranes of the target cells, which allows almost instantaneous diffusion into the cells.
+生理狀態下，血漿中 acetoacetic acid 與 β-hydroxybutyric acid 的濃度很少超過 3 mg/dl，因為它們被迅速運輸到組織中。
 
-**Ketosis in Starvation, Diabetes, and Other Diseases.** The concentrations of acetoacetic acid, β-hydroxybutyric acid, and acetone occasionally rise to levels many times normal in the blood and interstitial fluids; this condition is called ketosis because acetoacetic acid is a keto acid. The three compounds are called ketone bodies. Ketosis occurs especially as a consequence of starvation, in persons with diabetes mellitus, and sometimes even when a person's diet is composed almost entirely of fat. In all these states, essentially no carbohydrates are metabolized—in starvation and with a high-fat diet because carbohydrates are not available, and in diabetes because insulin is not available to cause glucose transport into the cells.
+### Ketosis（酮症）
 
-When carbohydrates are not used for energy, almost all the energy of the body must come from fat metabolism. We shall see later in the chapter that the unavailability of carbohydrates automatically increases the rate of removal of fatty acids from adipose tissues. In addition, several hormonal factors—such as increased secretion of glucocorticoids by the adrenal cortex, increased secretion of glucagon by the pancreas, and decreased secretion of insulin by the pancreas—further enhance removal of fatty acids from the fat tissues. As a result, large quantities of fatty acids become available (1) to the peripheral tissue cells to be used for energy and (2) to the liver cells, where much of the fatty acid is converted to ketone bodies.
+在飢餓、糖尿病或高脂肪飲食時，body 幾乎無法使用 carbohydrate，於是脂肪成為主要能源。這會造成：
 
-The ketone bodies pour out of the liver to be carried to the cells. For several reasons, the cells are limited in the amount of ketone bodies that can be oxidized. The most important reason for this limitation is that one of the products of carbohydrate metabolism is the oxaloacetate that is required to bind with acetyl-CoA before it can be processed in the citric acid cycle. Therefore, deficiency of oxaloacetate derived from carbohydrates limits the entry of acetyl-CoA into the citric acid cycle, and when a simultaneous outpouring of large quantities of acetoacetic acid and other ketone bodies from the liver occurs, the blood concentrations of acetoacetic acid and β-hydroxybutyric acid sometimes rise to as high as 20 times normal, thus leading to extreme acidosis, as explained in Chapter 31.
+- 血漿 FFA 濃度急劇上升
+- 肝臟產生大量 ketone bodies
+- 細胞缺乏 carbohydrate 代謝產物的 oxaloacetate，限制了 acetyl-CoA 進入檸檬酸循環的能力
+- 結果是血漿 ketone bodies 濃度可升至正常的 20 倍，造成嚴重 metabolic acidosis（Chapter 31）
 
-The acetone that is formed during ketosis is a volatile substance, some of which is blown off in small quantities in the expired air of the lungs, thus giving the breath an acetone smell that is frequently used to diagnose ketosis.
+臨床上可從患者呼氣中的 acetone 氣味診斷 ketosis。
 
-**Adaptation to a High-Fat Diet.** When changing slowly from a carbohydrate diet to a diet almost entirely of fat, a person's body adapts to use far more acetoacetic acid than usual, and in this case, ketosis normally does not occur. For instance, in the Inuit (Eskimos), who sometimes live mainly on a fat diet, ketosis does not develop. Undoubtedly, several factors, none of which is clear, enhance the rate of acetoacetic acid metabolism by the cells. After a few weeks, even the brain cells, which normally derive almost all their energy from glucose, can derive 50% to 75% of their energy from fats.
+### 適應高脂肪飲食
 
-**Synthesis of Triglycerides From Carbohydrates**
+慢慢地從 carbohydrate 飲食轉變為幾乎全脂肪飲食時，身體會適應並大幅增加 ketone bodies 的利用，ketosis 通常不會發生。Inuit（因紐特人）即為例證。適應後，腦細胞甚至能以 fat 衍生之 ketone bodies 供應 50%–75% 的能量需求。
 
-Whenever a greater quantity of carbohydrates enters the body than can be used immediately for energy or can be stored in the form of glycogen, the excess is rapidly converted into triglycerides and stored in this form in the adipose tissue.
+---
 
-In humans, most triglyceride synthesis occurs in the liver, but minute quantities are also synthesized in the adipose tissue. The triglycerides formed in the liver are transported mainly in VLDLs to the adipose tissue, where they are stored.
+## 脂肪酸與 Triglyceride 的合成
 
-**Conversion of Acetyl-CoA Into Fatty Acids.** The first step in the synthesis of triglycerides is conversion of carbohydrates into acetyl-CoA. As explained in Chapter 68, this conversion occurs during the normal degradation of glucose by the glycolytic system. Because fatty acids are actually large polymers of acetic acid, it is easy to understand how acetyl-CoA can be converted into fatty acids. However, the synthesis of fatty acids from acetyl-CoA is not achieved by simply reversing the oxidative degradation described earlier. Instead, this occurs by the two-step process shown in Figure 69-4, using malonyl-CoA and reduced nicotinamide adenine dinucleotide phosphate (NADPH) as the principal intermediates in the polymerization process.
+當攝入的 carbohydrate 超過即時能量需求與 glycogen 儲存容量時，剩餘部分會迅速轉化為 triglyceride 儲存於 adipose tissue。
 
-**Combination of Fatty Acids With α-Glycerophosphate to Form Triglycerides**
+### 從 Acetyl-CoA 合成脂肪酸
 
-Once the synthesized fatty acid chains have grown to contain 14 to 18 carbon atoms, they bind with glycerol to form triglycerides. The enzymes that cause this conversion are highly specific for fatty acids, with chain lengths of 14 carbon atoms or greater, a factor that controls the physical quality of the triglycerides stored in the body.
+脂肪酸的骨架其實就是數個 acetic acid 的聚合物。合成路徑如 Figure 69-4 所示，分兩大步驟：
 
-As shown in Figure 69-5, the glycerol portion of triglycerides is furnished by α-glycerophosphate, which is another product derived from the glycolytic scheme of glucose degradation. This mechanism is discussed in Chapter 68.
-
-**Figure 69-4.** Synthesis of fatty acids.
-
-**Figure 69-5.** Overall schema for synthesis of triglycerides from glucose.
-
-Step 1: Acetyl-CoA carboxylase
-
+**步驟一：Acetyl-CoA → Malonyl-CoA**
 CH₃CO-CoA + CO₂ + ATP → Malonyl-CoA + ADP + PO₄³⁻
+（由 acetyl-CoA carboxylase 催化，這是脂肪酸合成的 rate-limiting step）
 
-Step 2:
+**步驟二：脂肪酸鏈的聚合**
+1 Acetyl-CoA + 7 Malonyl-CoA + 14 NADPH + 14 H⁺ → 1 Stearic acid（C18）+ 8 CO₂ + 8 CoA + 14 NADP⁺ + 6 H₂O
 
-1 Acetyl-CoA + Malonyl-CoA + 16 NADPH + 16 H⁺ → 1 Stearic acid + 8 CO₂ + 9 CoA + 16 NADP⁺ + 7 H₂O
+### 與 α-Glycerophosphate 形成 Triglyceride
 
-**Efficiency of Carbohydrate Conversion Into Fat.** During triglyceride synthesis, only about 15% of the original energy in the glucose is lost in the form of heat; the remaining 85% is transferred to the stored triglycerides.
+合成好的脂肪酸鏈（14–18 碳）與 α-glycerophosphate（glycolysis 的中間產物）結合，形成 triglyceride（Figure 69-5）。α-glycerophosphate 的供給決定了脂肪酸是否能被妥善包裝成 triglyceride 儲存。
 
-**Importance of Fat Synthesis and Storage.** Fat synthesis from carbohydrates is especially important for two reasons:
+### 合成效率與生理意義
 
-- The ability of the different cells of the body to store carbohydrates in the form of glycogen is generally slight; a maximum of only a few hundred grams of glycogen can be stored in the liver, the skeletal muscles, and all other tissues of the body put together. In contrast, many kilograms of fat can be stored in adipose tissue. Therefore, fat synthesis provides a means by which the energy of excess ingested carbohydrates (and proteins) can be stored for later use. Indeed, the average person has almost 150 times as much energy stored in the form of fat as stored in the form of carbohydrate.
-- Each gram of fat contains almost two and a half times the calories of energy contained by each gram of glycogen. Therefore, for a given weight gain, a person can store several times as much energy in the form of fat as in the form of carbohydrate, which is exceedingly important when an animal must be highly motile to survive.
+Carbohydrate 轉化為脂肪時，僅約 15% 的能量以熱的形式散失，其餘 85% 儲存於 triglyceride 中。
 
-**Failure to Synthesize Fats From Carbohydrates in the Absence of Insulin.** When insufficient insulin is available, as occurs in persons with serious cases of diabetes mellitus, fats are poorly synthesized, if at all, for the following reasons. First, when insulin is not available, glucose does not enter the fat and liver cells satisfactorily, so little of the acetyl-CoA and NADPH needed for fat synthesis can be derived from glucose. Second, lack of glucose in the fat cells greatly reduces the availability of α-glycerophosphate, which also makes it difficult for the tissues to form triglycerides.
+脂肪儲存對人體有兩大關鍵意義：
+- **Energy reservoir**：人體可儲存的 glycogen 上限僅約數百克，而脂肪可儲存數十公斤，儲能密度約為 glycogen 的 2.5 倍。平均而言，人體以脂肪形式儲存的能量約為 carbohydrate 的 150 倍。
+- **減輕體重**：同等重量下，脂肪儲存的能量遠高於 glycogen，對必須高度移動的生物而言至關重要。
 
-**Synthesis of Triglycerides From Proteins**
+### 無 Insulin 時脂肪合成受阻
 
-Many amino acids can be converted into acetyl-CoA, as discussed in Chapter 70. The acetyl-CoA can then be synthesized into triglycerides. Therefore, when people have more proteins in their diets than their tissues can use as proteins, a large share of the excess is stored as fat.
+在胰島素嚴重不足的糖尿病患者身上，脂肪合成幾乎停滯。原因在於：葡萄糖無法進入脂肪細胞與肝細胞，導致 acetyl-CoA 與 NADPH 的來源不足；同時脂肪細胞內 α-glycerophosphate 匱乏，使 triglyceride 無法形成。
 
-**Regulation of Energy Release From Triglycerides**
+---
 
-**Carbohydrates Are Preferred Over Fats for Energy When Excess Carbohydrates Are Available.** When excess carbohydrates are available in the body, carbohydrates are used preferentially over triglycerides for energy. Several reasons exist for this "fat-sparing" effect of carbohydrates.
+## 脂肪動員的調控
 
-First, fats in adipose tissue cells are present in two forms: stored triglycerides and small quantities of free fatty acids. They are in constant equilibrium with each other. When excess α-glycerophosphate is present (which occurs when excess carbohydrates are available), the excess α-glycerophosphate binds the free fatty acids in the form of stored triglycerides. As a result, the equilibrium between free fatty acids and triglycerides shifts toward the stored triglycerides; consequently, only minute quantities of fatty acids are available to be used for energy. Because α-glycerophosphate is an important product of glucose metabolism, the availability of large amounts of glucose automatically inhibits the use of fatty acids for energy.
+### 碳水化合物優先於脂肪作為能源
 
-Second, when carbohydrates are available in excess, fatty acids are synthesized more rapidly than they are degraded. This effect is caused partially by the large quantities of acetyl-CoA formed from the carbohydrates and by the low concentration of free fatty acids in the adipose tissue, thus creating conditions appropriate for the conversion of acetyl-CoA into fatty acids.
+當體內有過量 carbohydrate 時，身體會優先燃燒 carbohydrate 而非 triglyceride，這稱為脂肪的「fat-sparing」效應，機制如下：
 
-An even more important effect that promotes conversion of carbohydrates to fats is the following: The first step, which is the rate-limiting step, in the synthesis of fatty acids is carboxylation of acetyl-CoA to form malonyl-CoA. The rate of this reaction is controlled primarily by the enzyme acetyl-CoA carboxylase, the activity of which is accelerated in the presence of intermediates of the citric acid cycle. When excess carbohydrates are being used, these intermediates increase, automatically causing increased synthesis of fatty acids.
+1. 過量的 α-glycerophosphate（來自葡萄糖代謝）與脂肪細胞內的游離脂肪酸結合，將其固定為儲存型 triglyceride，使可用於供能的 FFA 大幅減少。
+2. Glucose 充裕時，脂肪酸的合成速率高於降解速率。
+3. Insulin 刺激 acetyl-CoA carboxylase 活性，促進脂肪酸合成。
 
-Thus, an excess of carbohydrates in the diet not only acts as a fat-sparer but also increases fat stores. In fact, all the excess carbohydrates not used for energy or stored in the small glycogen deposits of the body are converted to fat for storage.
+### 缺乏碳水化合物時脂肪的動員
 
-**Acceleration of Fat Utilization for Energy in the Absence of Carbohydrates.** All the fat-sparing effects of carbohydrates are lost and actually reversed when carbohydrates are not available. The equilibrium shifts in the opposite direction, and fat is mobilized from adipose cells and used for energy in place of carbohydrates.
+當 carbohydrate 匱乏時，上述效應全部逆轉：脂肪從 adipose cell 被大量動員出來作為主要能源。此時 insulin 分泌減少是關鍵變化，它同時減少了脂肪儲存與葡萄糖的利用。
 
-Also important are several hormonal changes that take place to promote rapid fatty acid mobilization from adipose tissue. Among the most important of these hormonal changes is a marked decrease in pancreatic secretion of insulin caused by the absence of carbohydrates. This decrease in insulin not only reduces the rate of glucose utilization by the tissues but also decreases fat storage, which further shifts the equilibrium in favor of fat metabolism in place of carbohydrates.
+### 荷爾蒙對脂肪動員的影響
 
-**Hormonal Regulation of Fat Utilization.** At least seven of the hormones secreted by the endocrine glands have significant effects on fat utilization. Some important hormonal effects on fat metabolism, in addition to lack of insulin, are noted here.
+**Epinephrine 與 Norepinephrine**（交感神經系統/腎上腺髓質）：直接激活 hormone-sensitive triglyceride lipase，是運動時脂肪動員的主要推手。運動時血漿 FFA 濃度可升高達 8 倍。
 
-Probably the most dramatic increase that occurs in fat utilization is that observed during heavy exercise. This increase results almost entirely from release of epinephrine and norepinephrine by the adrenal medullae during exercise, as a result of sympathetic stimulation. These two hormones directly activate hormone-sensitive triglyceride lipase, which is present in abundance in the fat cells, and this activation causes rapid breakdown of triglycerides and mobilization of fatty acids. Sometimes the free fatty acid concentration in the blood of an exercising person rises as much as eightfold, and the use of these fatty acids by the muscles for energy is correspondingly increased. Other types of stress that activate the sympathetic nervous system can also increase fatty acid mobilization and utilization in a similar manner.
+**ACTH 與 Glucocorticoids**：透過相同的 hormone-sensitive lipase 促進脂肪動員，過量時可導致 ketosis（Cushing 症候群常見）。
 
-Stress also causes large quantities of adrenocorticotropic hormone (ACTH) to be released by the anterior pituitary gland, which causes the adrenal cortex to secrete extra quantities of glucocorticoids. Both ACTH and glucocorticoids activate either the same hormone-sensitive triglyceride lipase as that activated by epinephrine and norepinephrine or a similar lipase. When ACTH and glucocorticoids are secreted in excessive amounts for long periods, as occurs in the endocrine condition called Cushing's syndrome, fats are frequently mobilized to such a great extent that ketosis results. ACTH and glucocorticoids are then said to have a ketogenic effect. Growth hormone has an effect similar to but weaker than that of ACTH and glucocorticoids in activating hormone-sensitive lipase. Therefore, growth hormone can also have a mild ketogenic effect.
+**Growth Hormone**：作用與 ACTH/ glucocorticoids 相似但較弱，也有輕度 ketogenic effect。
 
-Thyroid hormone indirectly causes rapid mobilization of fat by increasing overall rate of energy metabolism in all cells of the body under the influence of this hormone. The resulting reduction in acetyl-CoA and other intermediates of both fat and carbohydrate metabolism in the cells is a stimulus to fat mobilization.
+**Thyroid Hormone**：提高整體細胞代謝率，間接促使脂肪動員。
 
-The effects of the different hormones on metabolism are discussed further in the chapters dealing with each hormone.
+---
 
-**Obesity—Excess Deposition of Fat**
+## 肥胖——脂肪的過度堆積
 
-Obesity is discussed in Chapter 72 in relation to dietary balances, but briefly, it is caused by the ingestion of greater amounts of food than can be used by the body for energy. The excess food, whether fats, carbohydrates, or proteins, is then stored almost entirely as fat in the adipose tissue, to be used later for energy. The ability of humans to store excess energy in adipose tissue is tremendous, with some people achieving body weights in excess of 500 kilograms (1100 pounds), mainly as a result of fat accumulation.
+肥胖的定義是體內脂肪過量。常用判斷指標為 BMI（Body Mass Index）：
 
-Several strains of rodents have been found in which hereditary obesity occurs. In at least one of these strains, the obesity is caused by ineffective mobilization of fat from the adipose tissue by tissue lipase, while synthesis and storage of fat continue normally. Such a one-way process causes progressive enhancement of the fat stores, resulting in severe obesity. Multiple genetic factors that influence brain feeding centers or pathways that control energy expenditure or that alter energy storage can also cause hereditary obesity in humans. However, monogenic (single gene) causes of human obesity are rare, as discussed in Chapter 72.
+BMI = 體重（kg）÷ 身高（m）²
 
-**Phospholipids and Cholesterol**
+臨床上 BMI ≥ 30 kg/m² 定為肥胖。肥胖的根本原因是攝入的能量大於消耗，多餘的能量（無論來自 fat、carbohydrate 或 protein）最終都會以 triglyceride 的形式儲存於 adipose tissue。遺傳基因、生活型態與環境因素皆會影響肥胖的發生。
 
-**Phospholipids**
+---
 
-The major types of body phospholipids are lecithins, cephalins, and sphingomyelin; their typical chemical formulas are shown in Figure 69-6. Phospholipids always contain one or more fatty acid molecules and one phosphoric acid radical, and they usually contain a nitrogenous base. Although the chemical structures of phospholipids are somewhat variant, their physical properties are similar because they are all lipid soluble, transported in lipoproteins, and used throughout the body for various structural purposes, such as in cell membranes and intracellular membranes.
+## Phospholipid 與 Cholesterol
 
-**Figure 69-6.** Typical phospholipids.
+### Phospholipid
 
-**Formation of Phospholipids.** Phospholipids are synthesized in essentially all cells of the body, although certain cells have a special ability to form great quantities of them. Probably 90% of phospholipids are formed in liver cells; substantial quantities are also formed by the intestinal epithelial cells during lipid absorption from the gut.
+體內主要的 phospholipid 包括 lecithin、cephalin 與 sphingomyelin（Figure 69-6）。其結構特色是含有一或多個脂肪酸分子、一個磷酸基團，以及一個含氮鹼基。磷脂是所有細胞膜的基本結構，也是血漿 lipoprotein 的重要成分。神經系統中大量的 sphingomyelin 構成髓鞘（myelin sheath）的電氣絕緣層。
 
-The rate of phospholipid formation is governed to some extent by the usual factors that control the overall rate of fat metabolism because, when triglycerides are deposited in the liver, the rate of phospholipid formation increases. Also, specific chemical substances are needed for the formation of some phospholipids. For instance, choline, either obtained in the diet or synthesized in the body, is necessary for formation of lecithin, because choline is the nitrogenous base of the lecithin molecule. In addition, inositol is necessary for formation of some cephalins.
+90% 的磷脂在肝細胞中合成，部分由腸道上皮細胞在脂肪吸收時製造。合成速率受整體脂肪代謝狀況調節，某些磷脂的合成還需要特定原料，例如 choline（用於合成 lecithin）與 inositol（用於部分 cephalin）。
 
-**Specific Uses of Phospholipids.** Phospholipids have several functions, including the following:
+### Cholesterol
 
-- Phospholipids are an important constituent of lipoproteins in the blood and are essential for formation and function of most of these lipoproteins; in the absence of phospholipids, serious abnormalities of transport of cholesterol and other lipids can occur.
-- Thromboplastin, which is necessary to initiate the clotting process, is composed mainly of one of the cephalins.
-- Large quantities of sphingomyelin are present in the nervous system; this substance acts as an electrical insulator in the myelin sheath around nerve fibers.
-- Phospholipids are donors of phosphate radicals when these radicals are necessary for different chemical reactions in the tissues.
-- One of the most important functions of phospholipids is participation in formation of structural elements—mainly membranes—in cells throughout the body, as discussed in the next section of this chapter in connection with a similar function for cholesterol.
+Cholesterol（Figure 69-7）的 sterol nucleus 由多分子 acetyl-CoA 構成，可經側鏈修飾後轉變為 cholesterol 本體、膽汁酸（cholic acid）或腎上腺皮質/卵巢/睪丸的 steroid hormone（Chapter 78、82、83）。
 
-**Cholesterol**
+膽固醇可與脂肪酸結合形成 cholesterol ester，血漿 lipoprotein 中約 70% 的膽固醇以此形式存在。
 
-Cholesterol, the formula of which is shown in Figure 69-7, is present in the normal diet, and it can be absorbed slowly from the gastrointestinal tract into the intestinal lymph. It is highly fat soluble but only slightly soluble in water. It is specifically capable of forming esters with fatty acids. Indeed, about 70% of the cholesterol in the lipoproteins of the plasma is in the form of cholesterol esters.
+#### 影響血漿膽固醇濃度的因素
 
-**Figure 69-7.** Cholesterol.
+- **膳食膽固醇**：攝入過多時會反饋抑制 3-hydroxy-3-methylglutaryl CoA reductase（膽固醇合成的限速酶），使血漿膽固醇濃度的變化不超過 ±15%。
+- **飽和脂肪**：會使血膽固醇升高 15%–25%，且效果比直接限制膳食膽固醇更重要。
+- **不飽和脂肪酸**：通常可適度降低血膽固醇。
+- **胰島素、甲狀腺素缺乏**：會升高血膽固醇；甲狀腺機能亢進則降低之。
+- **遺傳因素**：LDL receptor 基因突變可阻止肝臟有效清除血漿 LDL，導致家族性高膽固醇血症。
 
-**Formation of Cholesterol.** Besides the cholesterol absorbed each day from the gastrointestinal tract, which is called exogenous cholesterol, an even greater quantity is formed in the cells of the body, called endogenous cholesterol. Essentially all the endogenous cholesterol that circulates in the lipoproteins of the plasma is formed by the liver, but all other cells of the body form at least some cholesterol, which is consistent with the fact that many of the membranous structures of all cells are partially composed of this substance.
+#### 膽固醇的用途
 
-The basic structure of cholesterol is a sterol nucleus, which is synthesized entirely from multiple molecules of acetyl-CoA. In turn, the sterol nucleus can be modified by various side chains to form (1) cholesterol; (2) cholic acid, which is the basis of the bile acids formed in the liver; and (3) many important steroid hormones secreted by the adrenal cortex, the ovaries, and the testes (these hormones are discussed in later chapters).
-
-**Factors That Affect Plasma Cholesterol Concentration—Feedback Control of Body Cholesterol.** Among the important factors that affect plasma cholesterol concentration are the following:
-
-- An increase in the amount of cholesterol ingested each day may increase the plasma concentration slightly. However, when cholesterol is ingested, the rising concentration of cholesterol inhibits the most essential enzyme for endogenous synthesis of cholesterol, 3-hydroxy-3-methylglutaryl CoA reductase, thus providing an intrinsic feedback control system to prevent an excessive increase in plasma cholesterol concentration. As a result, plasma cholesterol concentration usually is not changed upward or downward more than ±15% by altering the amount of cholesterol in the diet, although the response of individuals differs markedly.
-- A diet high in saturated fat increases blood cholesterol concentration 15% to 25%, especially when this diet is associated with excess weight gain and obesity. This increase in blood cholesterol results from increased fat deposition in the liver, which then provides increased quantities of acetyl-CoA in the liver cells for the production of cholesterol. Therefore, to decrease the blood cholesterol concentration, maintaining a normal body weight and a diet low in saturated fat are even more important than maintaining a diet low in cholesterol.
-- Ingestion of fat containing highly unsaturated fatty acids usually depresses the blood cholesterol concentration a slight to moderate amount. The mechanism of this effect is unknown, despite the fact that this observation is the basis of much present-day dietary strategy.
-- Lack of insulin or thyroid hormone increases the blood cholesterol concentration, whereas excess thyroid hormone decreases the concentration. These effects are probably caused mainly by changes in the degree of activation of specific enzymes responsible for the metabolism of lipids and overall metabolic rate.
-- Genetic disorders of cholesterol metabolism may greatly increase plasma cholesterol levels. For example, mutations of the LDL receptor gene prevent the liver from adequately removing the cholesterol-rich LDLs from the plasma. As discussed later, this phenomenon causes the liver to produce excessive amounts of cholesterol. Mutations of the gene that encodes apolipoprotein B, the part of the LDL that binds to the receptor, also cause excessive cholesterol production by the liver.
-
-**Specific Uses of Cholesterol in the Body.** By far the most abundant non-membranous use of cholesterol in the body is to form cholic acid in the liver. As much as 80% of cholesterol is converted into cholic acid. As explained in Chapter 71, cholic acid is conjugated with other substances to form bile salts, which promote digestion and absorption of fats.
-
-A small quantity of cholesterol is used by (1) the adrenal glands to form adrenocortical hormones, (2) the ovaries to form progesterone and estrogen, and (3) the testes to form testosterone. These glands can also synthesize their own sterols and then form hormones from them, as discussed in the chapters on endocrinology.
-
-A large amount of cholesterol is precipitated in the corneum of the skin. This cholesterol, along with other lipids, makes the skin highly
+約 80% 的膽固醇在肝臟轉化為膽汁酸（bile acid），其餘用於腎上腺皮質激素、性激素的合成，以及構成細胞膜結構。

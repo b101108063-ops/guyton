@@ -3,380 +3,218 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH56"
 title: "Cortical and Brain Stem Control of Motor Function"
 book: "Guyton & Hall"
-summary: "Chapter 56 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
+summary: "本章說明皮質與腦幹對運動功能的控制。內容涵蓋運動皮質的結構與功能（primary motor cortex、premotor area、supplementary motor area）、皮質脊髓徑（corticospinal tract）的起源與路徑、紅核（red nucleus）在運動控制中的角色、以及腦幹網狀結構與前庭核對姿勢與平衡的調控。"
 key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+  - "運動皮質分為primary motor cortex、premotor area與supplementary motor area"
+  - "皮質脊髓徑約30%起源於primary motor cortex，30%來自premotor/supplementary motor areas，40%來自體感覺皮質"
+  - "Betz cells是皮質中最大的神經元，其軸突以約70 m/sec的速度傳導"
+  - "紅核通過rubrospinal tract提供皮質運動訊號的替代路徑"
+  - "橋腦網狀結構興奮抗重力肌肉，髓質網狀結構則抑制這些肌肉"
+  - "前庭核提供維持平衡所需的選擇性興奮信號"
+  - "去大腦僵直是由於高級腦區對髓質抑制系統的輸入被阻斷所致"
 ---
 
-UNIT XI
-Broca’s Area (Motor Speech Area). Figure 563 shows a premotor area labeled “word formation” lying immedi - ately anterior to the primary motor cortex and immedi - ately above the sylvian fissure. This region is called Broca’s area. Damage to it does not prevent a person from vo - calizing but makes it impossible for the person to speak whole words rather than uncoordinated utterances or an occasional simple word such as “no” or “yes. ” A closely as- sociated cortical area also causes appropriate respiratory function, so respiratory activation of the vocal cords can occur simultaneously with the movements of the mouth and tongue during speech. Thus, the premotor neuronal activities related to speech are highly complex.
-“Voluntary” Eye Movement Field. In the premotor area immediately above Broca’s area is a locus for controlling voluntary eye movements. Damage to this area prevents a person from voluntarily moving the eyes toward different objects. Instead, the eyes tend to lock involuntarily onto specific objects, an effect controlled by signals from the occipital visual cortex, as explained in Chapter 52. This frontal area also controls eyelid movements such as blink- ing.
-Head Rotation Area. Slightly higher in the motor associ- ation area, electrical stimulation elicits head rotation. This area is closely associated with the eye movement field; it directs the head toward different objects.
-Area for Hand Skills. In the premotor area immediately anterior to the primary motor cortex for the hands and fingers is a region that is important for “hand skills. ” That is, when tumors or other lesions cause destruction in this area, hand movements become uncoordinated and non - purposeful, a condition called motor apraxia.
-TRANSMISSION OF SIGNALS FROM THE
-MOTOR CORTEX TO THE MUSCLES
-Motor signals are transmitted directly from the cortex to the spinal cord through the corticospinal tract and indi - rectly through multiple accessory pathways that involve the
-<span class="c-pink">basal ganglia</span>, <span class="c-pink">cerebellum</span>, and various nuclei of the brain stem. In general, the direct pathways are concerned with discrete and detailed movements, especially of the distal segments of the limbs, particularly the hands and fingers.
-Corticospinal (Pyramidal) Tract
-The most important output pathway from the motor cortex is the corticospinal tract,  also called the pyrami- dal tract, shown in Figure 564. The corticospinal tract originates about 30% from the primary motor cortex, 30% from the premotor and supplementary motor areas, and
-40% from the somatosensory areas posterior to the cen - tral sulcus.
-After leaving the cortex, it passes through the poste - rior limb of the internal capsule (between the caudate nucleus and the putamen of the <span class="c-pink">basal ganglia</span>) and then downward through the brain stem, forming the pyramids of the medulla. Most of the pyramidal fibers then cross in the lower medulla to the opposite side and descend into the lateral corticospinal tracts  of the cord, finally termi - nating principally on the interneurons in the intermediate regions of the cord gray matter. A few terminate on sen - sory relay neurons in the dorsal horn, and a very few ter - minate directly on the anterior motor neurons that cause muscle contraction.
-A few of the fibers do not cross to the opposite side in the medulla but pass ipsilaterally down the cord in the ventral corticospinal tracts.  Many, if not most, of these fibers eventually cross to the opposite side of the cord either in the neck or in the upper thoracic region. These fibers may be concerned with control of bilateral postural movements by the supplementary motor cortex.
-The most impressive fibers in the pyramidal tract are a population of large myelinated fibers with a mean diam - eter of 16 micrometers. These fibers originate from giant
-Posterior limb of internal capsule
-Corpus callosum
-Motor cortex
-Lateral corticospinal tract
-Ventral corticospinal tract
-Pyramid of medulla oblongata
-Longitudinal fascicles of pons
-Basis pedunculi of mesencephalon
-Figure 564. Corticospinal (pyramidal) tract. (Modified from Ran - son SW, Clark SL: Anatomy of the Nervous System. Philadelphia: WB
-Saunders, 1959.)
+## 章節導讀
 
-UNIT XI The Nervous System: C. Motor and Integrative Neurophysiology pyramidal cells,  called Betz cells,  that are found only in the primary motor cortex. The Betz cells are about 60 micrometers in diameter, and their fibers transmit nerve impulses to the spinal cord at a velocity of about 70 m/sec, the most rapid rate of transmission of any signals from the brain to the cord. There are about 34,000 of these large
-Betz cell fibers in each corticospinal tract. The total num- ber of fibers in each corticospinal tract is more than 1 mil- lion, so these large fibers represent only 3% of the total.
-The other 97% are mainly fibers smaller than 4 microm - eters in diameter that conduct background tonic signals to the motor areas of the cord.
-Other Fiber Pathways From the Motor Cortex
-The motor cortex gives rise to large numbers of additional, mainly small fibers that go to deep regions in the cerebrum and brain stem, including the following:
- 1.  The axons from the giant Betz cells send short collat - erals back to the cortex. These collaterals are believed to <span class="c-green">inhibit</span> adjacent regions of the cortex when the Betz cells discharge, thereby “sharpening” the boundaries of the excitatory signal.
- 2.  A large number of fibers pass from the motor cortex into the caudate nucleus and putamen. From there, ad- ditional pathways extend into the brain stem and spinal cord, as discussed in the next chapter, mainly to control body postural muscle contractions.
- 3.  A moderate number of motor fibers pass to red nuclei of the midbrain. From these nuclei, additional fibers pass down the cord through the rubrospinal tract.
- 4.  A moderate number of motor fibers deviate into the re- ticular substance and vestibular nuclei of the brain stem;
-from there, signals go to the cord via reticulospinal and vestibulospinal tracts, and others go to the <span class="c-pink">cerebellum</span> via reticulocerebellar and vestibulocerebellar tracts.
- 5.  A tremendous number of motor fibers synapse in the pontile nuclei, which give rise to the pontocerebellar fib- ers, carrying signals into the cerebellar hemispheres.
- 6.  Collaterals also terminate in the inferior olivary nuclei, and from there, secondary olivocerebellar fibers trans - mit signals to multiple areas of the <span class="c-pink">cerebellum</span>.
-Thus, the <span class="c-pink">basal ganglia</span>, brain stem, and <span class="c-pink">cerebellum</span> all receive strong motor signals from the corticospinal system every time a signal is transmitted down the spinal cord to cause a motor activity.
-Incoming Sensory Fiber Pathways to the Motor Cortex
-The functions of the motor cortex are controlled mainly by nerve signals from the somatosensory system but also, to some degree, from other sensory systems such as hearing and vision. Once the sensory information is received, the motor cortex operates in association with the <span class="c-pink">basal ganglia</span> and <span class="c-pink">cerebellum</span> to <span class="c-green">excite</span> appropriate motor actions. The more important incoming fiber pathways to the motor cor- tex are the following:
- 1.  Subcortical fibers from adjacent regions of the cerebral cortex, especially from (a) the somatosensory areas of the parietal cortex, (b) the adjacent areas of the frontal cortex anterior to the motor cortex, and (c) the visual and auditory cortices.
- 2.  Subcortical fibers that arrive through the corpus callo - sum from the opposite cerebral hemisphere. These fib - ers connect corresponding areas of the cortices in the two sides of the brain.
- 3.  Somatosensory fibers that arrive directly from the ven - trobasal complex of the <span class="c-pink">thalamus</span>. These fibers relay mainly cutaneous tactile signals and joint and muscle signals from the peripheral body.
- 4.  Tracts from the ventrolateral and ventroanterior nuclei of the <span class="c-pink">thalamus</span>, which in turn receive signals from the
-<span class="c-pink">cerebellum</span> and <span class="c-pink">basal ganglia</span>. These tracts provide sig - nals that are necessary for coordination among the mo- tor control functions of the motor cortex, <span class="c-pink">basal ganglia</span>, and <span class="c-pink">cerebellum</span>.
- 5.  Fibers from the intralaminar nuclei of the <span class="c-pink">thalamus</span>.
-These fibers control the general level of excitability of the motor cortex in the same way they control the gen- eral level of excitability of most other regions of the cer- ebral cortex.
-THE RED NUCLEUS SERVES AS
-AN ALTERNATIVE PATHWAY FOR
-TRANSMITTING CORTICAL SIGNALS TO
-THE SPINAL CORD
-The red nucleus, located in the mesencephalon, functions in close association with the corticospinal tract. As shown in Figure 565, it receives a large number of direct fibers from the primary motor cortex through the corticorubral tract, as well as branching fibers from the corticospinal tract as it passes through the mesencephalon. These fibers synapse in the lower portion of the red nucleus, the mag- nocellular portion,  which contains large neurons similar in size to the Betz cells in the motor cortex. These large neurons then give rise to the rubrospinal tract,  which crosses to the opposite side in the lower brain stem and follows a course immediately adjacent and anterior to the corticospinal tract into the lateral columns of the spinal cord.
-Motor cortex
-Interpositus nucleus
-Dentate nucleus
-<span class="c-pink">Cerebellum</span>
-Red nucleus
-Reticular formation
-Rubrospinal tract
-Corticorubral tract
-Figure 565. The corticorubrospinal pathway for motor control, also showing the relation of this pathway to the <span class="c-pink">cerebellum</span>.
+大腦皮質與腦幹共同構成運動控制的兩大中高層級系統。本章首先說明運動皮質的結構與功能分區：Primary motor cortex（M1）位於中央前回，負責精確的遠端肢體運動控制；Premotor area 根據外部感覺線索指導運動；Supplementary motor area（SMA）在沒有外部線索時負責內部生成的運動序列。
 
-UNIT XI
-The rubrospinal fibers terminate mostly on the inter - neurons of the intermediate areas of the cord gray mat - ter, along with the corticospinal fibers, but some of the rubrospinal fibers terminate directly on anterior motor neurons, along with some corticospinal fibers. The red nucleus also has close connections with the <span class="c-pink">cerebellum</span>, similar to the connections between the motor cortex and the <span class="c-pink">cerebellum</span>.
-The Corticorubrospinal System Is an Accessory Path - way for Transmitting Relatively Discrete Signals
-From the Motor Cortex to the Spinal Cord . The mag- nocellular portion of the red nucleus has a somatographic representation of all the muscles of the body, as does the motor cortex. Therefore, stimulation of a single point in this portion of the red nucleus causes contraction of ei - ther a single muscle or a small group of muscles. However, the fineness of representation of the different muscles is far less developed than in the motor cortex, especially in human beings, who have relatively small red nuclei.
-The corticorubrospinal pathway serves as an accessory route for transmission of relatively discrete signals from the motor cortex to the spinal cord. When the corticospi- nal fibers are destroyed but the corticorubrospinal path - way is intact, discrete movements can still occur, except that the movements for fine control of the fingers and hands are considerably impaired. Wrist movements are still functional, which is not the case when the corticoru- brospinal pathway is also <span class="c-green">block</span>ed.
-Therefore, the pathway through the red nucleus to the spinal cord is associated with the corticospinal system.
-Furthermore, the rubrospinal tract lies in the lateral col - umns of the spinal cord, along with the corticospinal tract, and terminates on the interneurons and motor neurons that control the more distal muscles of the limbs. There - fore, the corticospinal and rubrospinal tracts together are called the lateral motor system of the cord,  in contradis - tinction to a vestibuloreticulospinal system, which lies mainly medially in the cord and is called the medial motor system of the cord, as discussed later in this chapter.
-EXCITATION OF THE SPINAL CORD
-MOTOR CONTROL AREAS BY THE
-PRIMARY MOTOR CORTEX AND RED
-NUCLEUS
-Neurons in the Motor Cortex Are Arranged in Vertical
-Columns. In Chapters 48 and 52, we pointed out that the cells in the somatosensory cortex and visual cortex are organ- ized in vertical columns of cells. The cells of the motor cortex are also organized in vertical columns a fraction of a millim- eter in diameter, with thousands of neurons in each column.
-Each column of cells functions as a unit, usually stim - ulating a group of synergistic muscles, but sometimes stimulating just a single muscle. Also, each column has six distinct layers of cells, as is true throughout nearly all the cerebral cortex. The pyramidal cells that give rise to the corticospinal fibers all lie in the fifth layer of cells from the cortical surface. The input signals all enter via layers 2 through 4, and the sixth layer gives rise mainly to fibers that communicate with other regions of the cere - bral cortex.
-Each Column of Neurons Functions as an Integrative
-Processing System. The neurons of each column oper - ate as an integrative processing system, using information from multiple input sources to determine the output re - sponse from the column. In addition, each column can function as an amplifying system to <span class="c-green">stimulate</span> large num - bers of pyramidal fibers to the same muscle or to synergis- tic muscles simultaneously. This ability is important be - cause stimulation of a single pyramidal cell seldom <span class="c-green">excites</span> a muscle. Usually, 50 to 100 pyramidal cells need to be
-<span class="c-green">excite</span>d simultaneously or in rapid succession to achieve definitive muscle contraction.
-Dynamic and Static Signals Are Transmitted by the
-Pyramidal Neurons. If a strong signal is sent to a mus - cle to cause initial rapid contraction, then a much weaker continuing signal can maintain the contraction for long periods thereafter. This process is the usual manner in which excitation is provided to cause muscle contrac - tions. To provide this excitation, each column of cells
-<span class="c-green">excites</span> two populations of pyramidal cell neurons, one called dynamic neurons and the other static neurons. The dynamic neurons are <span class="c-green">excite</span>d at a high rate for a short pe- riod at the beginning of a contraction, causing the initial rapid development of force. The static neurons then fire at a much slower rate, but they continue firing at this slow rate to maintain the force of contraction  as long as the contraction is required.
-The neurons of the red nucleus have similar dynamic and static characteristics, except that a greater percentage of dynamic neurons is in the red nucleus and a greater percentage of static neurons is in the primary motor cor - tex. This may be related to the fact that the red nucleus is closely allied with the <span class="c-pink">cerebellum</span>, and the <span class="c-pink">cerebellum</span> plays an important role in rapid initiation of muscle con - traction, as explained in the next chapter.
-Somatosensory Feedback to the Motor
-Cortex Helps Control Precision of Muscle
-Contraction
-When nerve signals from the motor cortex cause a mus - cle to contract, somatosensory signals return all the way from the <span class="c-green">activate</span>d region of the body to the neurons in the motor cortex that are initiating the action. Most of these somatosensory signals arise in the following: (1) the muscle spindles; (2) the muscle tendon organs; or (3) the tactile receptors of the skin overlying the muscles.
-These somatic signals often cause <span class="c-yellow">positive feedback</span> enhancement of the muscle contraction in the following ways. In the case of the muscle spindles, if the fusimotor muscle fibers in the spindles contract more than the large skeletal muscle fibers contract, the central portions of the spindles become stretched and, therefore, <span class="c-green">excite</span>d. Signals
+皮質脊髓徑（又稱 Pyramidal tract）是運動皮質最重要的輸出路徑。約 30% 來自 primary motor cortex，30% 來自 premotor 與 supplementary motor areas，40% 來自体感覺皮質。大部分纖維在低位腦幹交叉至對側，形成 lateral corticospinal tract。Betz cells 是皮質中最大的神經元，佔皮質脊髓徑纖維總數僅 3%，但傳導速度可達 70 m/sec。
 
-UNIT XI The Nervous System: C. Motor and Integrative Neurophysiology from these spindles then return rapidly to the pyramidal cells in the motor cortex signal them that the large muscle fibers have not contracted enough. The pyramidal cells further <span class="c-green">excite</span> the muscle, helping its contraction to catch up with the contraction of the muscle spindles. In the case of the tactile receptors, if the muscle contraction causes compression of the skin against an object, such as com - pression of the fingers around an object being grasped, the signals from the skin receptors can, if necessary, cause further excitation of the muscles and, therefore, increase the tightness of the hand grasp.
-Stimulation of the Spinal Motor Neurons
-Figure 566 shows a cross section of a spinal cord segment demonstrating the following: (1) multiple motor and sen- sorimotor control tracts entering the cord segment; and
-(2) a representative anterior motor neuron in the middle of the anterior horn gray matter. The corticospinal tract and the rubrospinal tract lie in the dorsal portions of the lateral white columns. Their fibers terminate mainly on interneu- rons in the intermediate area of the cord gray matter.
-In the cervical enlargement of the cord where the hands and fingers are represented, large numbers of both corti - cospinal and rubrospinal fibers also terminate directly on the anterior motor neurons, allowing a direct route from the brain to <span class="c-green">activate</span> muscle contraction. This mechanism is in keeping with the fact that the primary motor cortex has an extremely high degree of representation for fine control of hand, finger, and thumb actions.
-Patterns of Movement Elicited by Spinal Cord Cent - ers. From Chapter 55 , recall that the spinal cord can provide certain specific reflex patterns of movement in response to sensory nerve stimulation. Many of these same patterns are also important when the cord’s ante - rior motor neurons are <span class="c-green">excite</span>d by signals from the brain.
-For example, the stretch reflex is functional at all times, helping to damp any oscillations of the motor movements initiated from the brain. This reflex probably also provides at least part of the motive power required to cause mus - cle contractions when the intrafusal fibers of the muscle spindles contract more than the large skeletal muscle fib- ers, thus eliciting reflex “servoassist” stimulation of the muscle, in addition to the direct stimulation by the corti - cospinal fibers.
-Also, when a brain signal <span class="c-green">excites</span> a muscle, it is usu - ally unnecessary to transmit an inverse signal to relax the antagonist muscle at the same time; this relaxation is achieved by the reciprocal innervation  circuit that is always present in the cord for coordinating the function of antagonistic pairs of muscles.
-Finally, other cord reflex mechanisms, such as with - drawal, stepping and walking, scratching, and postural mechanisms, can each be <span class="c-green">activate</span>d by “command” signals from the brain. Thus, simple command signals from the brain can initiate many normal motor activities, particu - larly for such functions as walking and attaining different postural attitudes of the body.
-Effect of Lesions in the Motor Cortex or in the Corti- cospinal Pathway
-Reduced Brain Blood Supply Caused by a Stroke . The motor control system can be damaged by the common ab- normality called a “stroke. ” A stroke is caused by either a ruptured blood vessel that hemorrhages into the brain or by thrombosis of one of the major arteries supplying blood to the brain. In either case, the result is loss of blood supply to the cortex or to the corticospinal tract where it passes through the internal capsule between the caudate nucleus and the putamen.
-Removal of the Primary Motor Cortex (Area Pyrami - dalis). Surgical removal of a portion of the primary mo - tor cortex—the area that contains the giant Betz pyramidal cells—causes varying degrees of paralysis of the represent - ed muscles. If the sublying caudate nucleus and adjacent premotor and supplementary motor areas are not dam - aged, gross postural and limb “fixation” movements can still occur, but there is loss of voluntary control of discrete movements of the distal segments of the limbs, especially of the hands and fingers.  This does not mean that the hand and finger muscles cannot contract; rather, the ability to control the fine movements is gone.  From these observa - tions, one can conclude that the area pyramidalis is essen - tial for voluntary initiation of finely controlled movements, especially of the hands and fingers.
-Muscle Spasticity Caused by Lesions That Damage Large
-Areas Adjacent to the Motor Cortex . The primary motor cortex normally exerts a continual tonic stimulatory effect on the motor neurons of the spinal cord; when this stimu - latory effect is removed, hypotonia results. Most lesions of the motor cortex, especially those caused by a stroke, involve not only the primary motor cortex but also adjacent parts of the brain, such as the <span class="c-pink">basal ganglia</span>. In these cases, muscle spasm almost invariably occurs in the afflicted muscle areas on the opposite side of the body (because the motor path - ways cross to the opposite side). This spasm results mainly
-Sensory neurons
-Propriospinal tract
-Interneurons
-Corticospinal tract from pyramidal cells of cortex
-Rubrospinal tract
-Reticulospinal tract
-Anterior motor neuron
-Motor nerve
-Tectospinal and reticulospinal tracts
-Vestibulospinal and reticulospinal tracts
-Figure 566. Convergence of different motor control pathways on the anterior motor neurons.
+紅核（Red nucleus）接受來自運動皮質的直接輸入，提供皮質運動訊號至脊髓的替代路徑。Rubrospinal tract 與 corticospinal tract 合稱「外側運動系統」，支配遠端肢體肌肉。
 
-UNIT XI from damage to accessory pathways from the nonpyramidal portions of the motor cortex. These pathways normally in- hibit the vestibular and reticular brain stem motor nuclei.
-When these nuclei cease their state of <span class="c-green">inhibit</span>ion (i.e., are
-“disinhibited”), they become spontaneously active and cause excessive spastic tone in the involved muscles, as we discuss more fully later in this chapter. This spasticity is that which normally accompanies a “stroke” in a human being.
-CONTROL OF MOTOR FUNCTIONS BY
-THE BRAIN STEM
-The brain stem consists of the medulla, pons,  and mes- encephalon (or midbrain). In one sense, it is an extension of the spinal cord upward into the cranial cavity because it contains motor and sensory nuclei that perform motor and sensory functions for the face and head regions in the same way that the spinal cord performs these functions from the neck down. In another sense, however, the brain stem is its own master because it provides many special control functions, such as the following:
- 1.  Control of respiration
- 2.  Control of the cardiovascular system
- 3.  Partial control of gastrointestinal function
- 4.  Control of many stereotyped movements of the body
- 5.  Control of equilibrium
- 6.  Control of eye movements
-Finally, the brain stem serves as a way station for “com- mand signals” from higher neural centers. Many of these functions are discussed in other chapters in this text. In the following sections, we discuss the role of the brain stem in controlling wholebody movement and equilib - rium. Especially important for these purposes are the brain stem’s reticular nuclei and vestibular nuclei.
-SUPPORT OF THE BODY AGAINST
-GRAVITY—ROLES OF THE RETICULAR
-AND VESTIBULAR NUCLEI
-Figure 567 shows the locations of the reticular and ves - tibular nuclei in the brain stem.
-Excitatory- <span class="c-green">Inhibit</span>ory Antagonism
-Between Pontine and Medullary Reticular
-Nuclei
-The reticular nuclei are divided into two major groups: (1)
-pontine reticular nuclei, located slightly posteriorly and lat- erally in the pons and extending into the mesencephalon;
-and (2) medullary reticular nuclei, which extend through the entire medulla, lying ventrally and medially near the midline. These two sets of nuclei function mainly antagonis- tically to each other, with the pontine exciting the antigrav- ity muscles and the medullary relaxing these same muscles.
-Pontine Reticular System Transmits Excitatory Sig - nals. The pontine reticular nuclei transmit excitatory sig- nals downward into the cord through the pontine reticu- lospinal tract in the anterior column of the cord, as shown in Figure 568. The fibers of this pathway terminate on the medial anterior motor neurons that <span class="c-green">excite</span> the axial muscles of the body, which support the body against grav- ity—that is, the muscles of the vertebral column and the extensor muscles of the limbs.
-The pontine reticular nuclei have a high degree of natural excitability. In addition, they receive strong excit- atory signals from the vestibular nuclei, as well as from deep nuclei of the <span class="c-pink">cerebellum</span>. Therefore, when the pon - tine reticular excitatory system is unopposed by the med- ullary reticular system, it causes powerful excitation of antigravity muscles throughout the body, so much so that fourlegged animals can be placed in a standing position, supporting the body against gravity without any signals from higher levels of the brain.
-Medullary Reticular System Transmit <span class="c-green">Inhibit</span>ory Sig - nals. The medullary reticular nuclei transmit <span class="c-green">inhibit</span>ory signals to the same antigravity anterior motor neurons via a different tract, the medullary reticulospinal tract, locat- ed in the lateral column of the cord, as also shown in Fig- ure 568. The medullary reticular nuclei receive strong input collaterals from the following: (1) the corticospinal tract; (2) the rubrospinal tract; and (3) other motor path - ways. These tracts and pathways normally <span class="c-green">activate</span> the medullary reticular <span class="c-green">inhibit</span>ory system to counterbalance the excitatory signals from the pontine reticular system, so under normal conditions the body muscles are not ab- normally tense.
-Yet, some signals from higher areas of the brain can
-“disinhibit” the medullary system when the brain wishes to <span class="c-green">excite</span> the pontine system to cause standing. At other times, excitation of the medullary reticular system can
-Pontine reticular nuclei
-Medullary reticular nuclei
-Vestibular nuclei
-Figure 567. Locations of the reticular and vestibular nuclei in the brain stem.
+腦幹的網狀結構與前庭核在姿勢控制中扮演核心角色。橋腦網狀結構（pontine reticular nuclei）持續興奮抗重力肌肉；髓質網狀結構（medullary reticular nuclei）則抑制這些肌肉。正常情況下兩者相互抗衡；當中腦以下的腦幹被橫切時，髓質抑制系統失去高級腦區的輸入而無法運作，導致橋腦系統過度興奮，產生去大腦僵直（decerebrate rigidity）。
 
-UNIT XI The Nervous System: C. Motor and Integrative Neurophysiology
-<span class="c-green">inhibit</span> antigravity muscles in certain portions of the body to allow those portions to perform special motor activi - ties. The excitatory and <span class="c-green">inhibit</span>ory reticular nuclei consti- tute a controllable system that is manipulated by motor signals from the cerebral cortex and elsewhere to provide necessary background muscle contractions for standing against gravity and to <span class="c-green">inhibit</span> appropriate groups of mus - cles as needed so that other functions can be performed.
-Role of the Vestibular Nuclei to <span class="c-green">Excite</span> the
-Antigravity Muscles
-All the vestibular nuclei, shown in Figure 567, function in association with the pontine reticular nuclei to control the antigravity muscles. The vestibular nuclei transmit strong excitatory signals to the antigravity muscles via the lateral and medial vestibulospinal tracts  in the ante - rior columns of the spinal cord, as shown in Figure 568.
-Without this support of the vestibular nuclei, the pontine reticular system would lose much of its excitation of the axial antigravity muscles.
-The specific role of the vestibular nuclei, however, is to selectively control the excitatory signals to the different antigravity muscles to maintain equilibrium in response to signals from the vestibular apparatus.  We discuss this concept more fully later in this chapter.
-The Decerebrate Animal Develops Spastic Rigidity .
-When the brain stem of an animal is sectioned below the midlevel of the mesencephalon but the pontine and med- ullary reticular systems, as well as the vestibular system, are left intact, a condition called decerebrate rigidity de- velops. This rigidity does not occur in all the muscles of the body, but it does occur in the antigravity muscles—
-the muscles of the neck and trunk and the extensors of the legs.
-The cause of decerebrate rigidity is <span class="c-green">block</span>age of nor - mally strong input to the medullary reticular nuclei from the cerebral cortex, the red nuclei, and the <span class="c-pink">basal ganglia</span>.
-Lacking this input, the medullary reticular <span class="c-green">inhibit</span>or system becomes nonfunctional, full overactivity of the pontine excitatory system occurs, and rigidity develops.
-We shall see later that other causes of rigidity occur in other neuromotor diseases, especially lesions of the basal ganglia.
-VESTIBULAR SENSATIONS AND
-MAINTENANCE OF EQUILIBRIUM
-VESTIBULAR APPARATUS
-The vestibular apparatus, shown in Figure 569, is the sensory organ for detecting sensations of equilibrium. It is encased in a system of bony tubes and chambers located in the petrous portion of the temporal bone, called the bony labyrinth.  Within this system are membranous tubes and chambers called the membranous labyrinth.
-The membranous labyrinth is the functional part of the vestibular apparatus.
-The top of Figure 569  shows the membranous labyrinth. It is composed mainly of the cochlea (ductus
-Medullary reticulospinal tract
-Lateral vestibulospinal tract
-Pontine reticulospinal tractMedial vestibulospinal tract
-Figure 568. Vestibulospinal and reticulospinal tracts descending in the spinal cord to <span class="c-green">excite</span> (solid lines) or <span class="c-green">inhibit</span> (dashed lines) the ante- rior motor neurons that control the body’s axial musculature.
-Gelatinous layer
-Hair tufts
-Nerve fibers
-Sustentacular cellsSustentacular cells
-Hair cells
-Gelatinous mass of cupula
-Hair tufts
-Utricle
-Ampullae
-Anterior
-Semi- circular canals
-Maculae and statoconia
-Crista ampullaris
-Ductus cochlearis
-SacculePosterior
-Ductus endolymphaticus
-MEMBRANOUS LABYRINTH
-Statoconia
-CRISTA AMPULLARIS AND MACULA
-Nerve fibers
-Hair cells
-Figure 569. Membranous labyrinth and organization of the crista ampullaris and the macula.
+## Motor Cortex Organization
 
-UNIT XI cochlearis), three semicircular canals, and two large cham- bers, the utricle and saccule. The cochlea is the major sen- sory organ for hearing (see Chapter 53) and has little to do with equilibrium. However, the semicircular canals,  the utricle, and the saccule are all integral parts of the equilib- rium mechanism.
-“Maculae”—Sensory Organs of the Utricle and Sac - cule for Detecting Orientation of the Head With Re - spect to Gravity . Located on the inside surface of each utricle and saccule, shown in the top diagram of Figure
-569, is a small sensory area slightly greater than 2 mil - limeters in diameter called a macula. The macula of the utricle lies mainly in the horizontal plane on the inferior surface of the utricle and plays an important role in deter- mining orientation of the head when the head is upright.
-Conversely, the macula of the saccule  is located mainly in a vertical plane and signals head orientation when the person is lying down.
-Each macula is covered by a gelatinous layer in which many small calcium carbonate crystals called statoconia are embedded. Also in the macula are thousands of hair cells, one of which is shown in Figure 5610; these hair cells project cilia up into the gelatinous layer. The bases and sides of the hair cells synapse with sensory endings of the vestibular nerve.
-The calcified statoconia have a specific gravity  two to three times the specific gravity of the surrounding fluid and tissues. The weight of the statoconia bends the cilia in the direction of gravitational pull.
-Directional Sensitivity of the Hair Cells—Kinocilium .
-Each hair cell has about 100 small cilia called stereocilia, plus one large cilium, the kinocilium, as shown in Figure
-5610. The kinocilium is always located to one side, and the stereocilia become progressively shorter toward the other side of the cell. Minute filamentous attachments, al- most invisible even to the electron microscope, connect the tip of each stereocilium to the next longer stereocili - um and, finally, to the kinocilium.
-Because of these attachments, when the stereocilia bend in the direction of the kinocilium, the filamentous attachments tug in sequence on the stereocilia, pulling them outward from the cell body. This movement opens several hundred cation channels in the neuronal cell membrane around the bases of the stereocilia, and these channels are capable of conducting large numbers of posi- tive ions. Therefore, positive ions pour into the cell from the surrounding endolymphatic fluid, causing receptor membrane <span class="c-yellow">depolarization</span>.  Conversely, bending the pile of stereocilia in the opposite direction (backward, away from the kinocilium) reduces the tension on the attach - ments; this movement closes the ion channels, thus caus- ing receptor hyperpolarization.
-Under normal resting conditions, the nerve fibers lead- ing from the hair cells transmit continuous nerve impulses at a rate of about 100 per second. When the stereocilia are bent toward the kinocilium, the impulse traffic increases, often to several hundred per second; conversely, bending the cilia away from the kinocilium decreases the impulse traffic, often turning it off completely. Therefore, as the orientation of the head in space changes and the weight of the statoconia bends the cilia, appropriate signals are transmitted to the brain to control equilibrium.
-In each macula, each of the hair cells is oriented in a dif- ferent direction so that some of the hair cells are <span class="c-green">stimulate</span>d when the head bends forward, some are <span class="c-green">stimulate</span>d when it bends backward, others are <span class="c-green">stimulate</span>d when it bends to one side, and so forth. Therefore, a different pattern of exci- tation occurs in the macular nerve fibers for each orienta- tion of the head in the gravitational field. It is this “pattern” that apprises the brain of the head’s orientation in space.
-Semicircular Ducts. The three semicircular ducts in each vestibular apparatus, known as the anterior, posterior, and lateral (horizontal) semicircular ducts,  are arranged at right angles to one another so that they represent all three planes in space. When the head is bent forward about 30
-Nerve fiber
-Stereocilia
-Kinocilium
-Filamentous attachments
-Figure 5610. A hair cell of the equilibrium apparatus and its syn - apses with the vestibular nerve.
+### Primary Motor Cortex (Area Pyramidalis)
 
-UNIT XI The Nervous System: C. Motor and Integrative Neurophysiology degrees, the lateral semicircular ducts are approximately horizontal with respect to the surface of the Earth; the anterior ducts are in vertical planes that project forward and 45 degrees outward,  whereas the posterior ducts are in vertical planes that project backward and 45 degrees outward.
-Each semicircular duct has an enlargement at one of its ends called the ampulla, and the ducts and ampulla are filled with a fluid called endolymph. Flow of this fluid through one of the ducts and through its ampulla <span class="c-green">excites</span> the sensory organ of the ampulla in the following man - ner: Figure 5611 shows a small crest in each ampulla called a crista ampullaris.  On top of this crista is a loose gelatinous tissue mass, the cupula. When a person’s head begins to rotate in any direction, the inertia of the fluid in one or more of the semicircular ducts causes the fluid to remain stationary while the semicircular duct rotates with the head. This process causes fluid to flow from the duct and through the ampulla, bending the cupula to one side, as demonstrated by the position of the col - ored cupula in Figure 5611. Rotation of the head in the opposite direction causes the cupula to bend to the opposite side.
-Hundreds of cilia from hair cells located on the ampul- lary crest are projected into the cupula. The kinocilia of these hair cells are all oriented in the same direction in the cupula, and bending the cupula in that direction causes
-<span class="c-yellow">depolarization</span> of the hair cells, whereas bending it in the opposite direction hyperpolarizes the cells. Then, from the hair cells, appropriate signals are sent via the vestibu- lar nerve to apprise the central nervous system of a change in rotation of the head and the rate of change in each of the three planes of space.
-FUNCTION OF THE UTRICLE AND SACCULE
-IN THE MAINTENANCE OF STATIC
-EQUILIBRIUM
-It is especially important that the hair cells are all oriented in different directions in the maculae of the utricles and saccules so that with different positions of the head, different hair cells become <span class="c-green">stimulate</span>d. The “patterns” of stimulation of the dif- ferent hair cells apprise the brain of the position of the head with respect to the pull of gravity. In turn, the vestibular, cer- ebellar, and reticular motor nerve systems of the brain <span class="c-green">excite</span> appropriate postural muscles to maintain proper equilibrium.
-This utricle and saccule system functions extremely effectively for maintaining equilibrium when the head is in the nearvertical position. Indeed, a person can deter - mine as little as half a degree of disequilibrium when the body leans from the precise upright position.
-Detection of Linear Acceleration by the Utricle and Sac- cule Maculae. When the body is suddenly thrust forward—
-that is, when the body accelerates—the statoconia, which have greater mass inertia than the surrounding fluid, fall backward on the hair cell cilia, and information of disequi- librium is sent into the nervous centers, causing the person to feel as though he or she were falling backward. This sensa- tion automatically causes the person to lean forward until the resulting anterior shift of the statoconia exactly equals the tendency for the statoconia to fall backward because of the acceleration. At this point, the nervous system senses a state of proper equilibrium and leans the body forward no farther. Thus, the maculae operate to maintain equilibrium during linear acceleration in exactly the same manner as they operate during static equilibrium.
-The maculae do not operate for the detection of linear velocity. When runners first begin to run, they must lean far forward to keep from falling backward because of initial acceleration, but once they have achieved running speed, if they were running in a vacuum, they would not have to lean forward. When running in air, they lean forward to maintain equilibrium only because of air resistance against their bodies; in this case, it is not the maculae that make them lean but air pressure acting on pressure endorgans in the skin, which initiate appropriate equilibrium adjust- ments to prevent falling.
-DETECTION OF HEAD ROTATION BY THE
-SEMICIRCULAR DUCTS
-When the head suddenly begins to rotate in any direc - tion (called angular acceleration), the endolymph in the semicircular ducts, because of its inertia, tends to remain stationary while the semicircular ducts turn. This mecha- nism causes relative fluid flow in the ducts in the direction opposite to head rotation.
-Figure 5612 shows a typical discharge signal from a sin- gle hair cell in the crista ampullaris when an animal is rotated for 40 seconds, demonstrating the following: (1) even when the cupula is in its resting position, the hair cell emits a tonic
-Cupula
-Ampulla
-Cristae ampullaris
-Hair cells
-Nerve
-Figure 5611. Movement of the cupula and its embedded hairs at the onset of rotation.
+Primary motor cortex 位於中央前回的 Brodmann area 4，是運動皮質最重要輸出區域。運動皮質的神經元同樣依垂直柱狀結構組織，每個柱子直徑約幾分之一毫米，含數千個神經元，作為一個功能單位運作。
 
-UNIT XI discharge of about 100 impulses per second; (2) when the animal begins to rotate, the hairs bend to one side, and the rate of discharge increases greatly; and (3) with continued rotation, the excess discharge of the hair cell gradually sub- sides back to the resting level during the next few seconds.
-The reason for this adaptation of the receptor is that within the first few seconds of rotation, back resistance to the flow of fluid in the semicircular duct and past the bent cupula causes the endolymph to begin rotating as rapidly as the semicircular canal itself. Then, in another
-5 to 20 seconds, the cupula slowly returns to its resting position in the middle of the ampulla because of its own elastic recoil.
-When the rotation suddenly stops, exactly opposite effects take place: The endolymph continues to rotate while the semicircular duct stops. This time, the cupula bends in the opposite direction, causing the hair cell to stop discharging entirely. After another few seconds, the endolymph stops moving and the cupula gradually returns to its resting position, thus allowing hair cell discharge to return to its normal tonic level, as shown at the right in Figure 5612 . Thus, the semicircular duct transmits a signal of one polarity when the head begins  to rotate and of opposite polarity when it stops rotating.
-“Predictive” Function of the Semicircular Duct
-System in the Maintenance of Equilibrium . Because the semicircular ducts do not detect that the body is off balance in the forward direction, in the side direction, or in the backward direction, one might ask, “What is the function of the semicircular ducts in the maintenance of equilibrium?” All they detect is that the person’s head is beginning or stopping to rotate in one direction or another. Therefore, the function of the semicircular ducts is not to maintain static equilibrium or to main - tain equilibrium during steady directional or rotational movements. Yet, loss of function of the semicircular ducts does cause a person to have poor equilibrium when attempting to perform rapid, intricate changing body movements.
-The function of the semicircular ducts can be explained by the following illustration: if a person is running forward rapidly and then suddenly begins to turn to one side, he or she will fall off balance a frac - tion of a second later  unless appropriate corrections are made ahead of time.  However, the maculae of the utricle and saccule cannot detect that the person is off balance until after the loss of balance has occurred. The semicircular ducts, however, will have already detected that the person is turning, and this information can eas - ily apprise the central nervous system of the fact that the person will fall off balance within the next fraction of a second or so unless some anticipatory correction is made.
-In other words, the semicircular duct mechanism pre- dicts that disequilibrium is going to occur and thereby causes the equilibrium centers to make appropriate anticipatory preventive adjustments, which helps the person maintain balance before the situation can be corrected.
-Removal of the flocculonodular lobes  of the cerebel - lum prevents normal detection of semicircular duct signals but has less effect on detecting macular signals.
-It is especially interesting that the <span class="c-pink">cerebellum</span> serves as a “predictive” organ for most rapid movements of the body, as well as for those involving equilibrium. These other functions of the <span class="c-pink">cerebellum</span> are discussed in Chap- ter 57.
-Vestibular Mechanisms for Stabilizing the Eyes
-When a person changes direction of movement rapidly or even leans the head sideways, forward, or backward, it would be impossible to maintain a stable image on the reti- nas unless the person had some automatic control mecha - nism to stabilize the direction of the eyes’ gaze. In addition, the eyes would be of little use in detecting an image unless they remained fixed on each object long enough to gain a clear image. Fortunately, each time the head is suddenly ro- tated, signals from the semicircular ducts cause the eyes to rotate in a direction equal and opposite to the rotation of the head. This movement results from reflexes transmitted through the vestibular nuclei and the medial longitudinal fasciculus to the oculomotor nuclei. These reflexes are de - scribed in Chapter 52.
-Other Factors Concerned With Equilibrium
-Neck Proprioceptors. The vestibular apparatus detects the orientation and movement only of the head. Therefore, it is essential that the nervous centers also receive appro - priate information about the orientation of the head with respect to the body. This information is transmitted from the proprioceptors of the neck and body directly to the ves- tibular and reticular nuclei in the brain stem and indirectly by way of the <span class="c-pink">cerebellum</span>.
-Among the most important proprioceptive information needed for the maintenance of equilibrium is that transmit- ted by joint receptors of the neck.  When the head is leaned in one direction by bending the neck, impulses from the neck proprioceptors keep the signals originating in the ves-
-Impulses per second
-Seconds
-01 02 03 04 05 06 07 08 09 0
-400 Rotation
-Stop rotation
-Begin rotation
-Tonic level of discharge
-Figure 5612. Response of a hair cell when a semicircular canal is
-<span class="c-green">stimulate</span>d first by the onset of head rotation and then by stopping rotation.
+每個柱子通常刺激一組協同肌肉，有時僅刺激單一肌肉。皮質第五層的錐體細胞（pyramidal cells）發出皮質脊髓纖維。訊號輸入通過第二至第四層離開，第六層發出主要與其他皮質區域通訊的纖維。
 
-UNIT XI The Nervous System: C. Motor and Integrative Neurophysiology tibular apparatus from giving the person a sense of disequi- librium. They perform this function by transmitting signals that exactly oppose the signals transmitted from the ves - tibular apparatus. However, when the entire body  leans in one direction, the impulses from the vestibular apparatus are not opposed  by signals from the neck proprioceptors;
-therefore, in this case, the person does perceive a change in equilibrium status of the entire body.
-Proprioceptive and Exteroceptive Information From
-Other Parts of the Body. Proprioceptive information from parts of the body other than the neck is also important in the maintenance of equilibrium. For example, pressure sensations from the footpads tell one (1) whether weight is distributed equally between the two feet and (2) whether weight on the feet is more forward or backward.
-Exteroceptive information is especially necessary for the maintenance of equilibrium when a person is running.
-The air pressure against the front of the body signals that a force is opposing the body in a direction different from that caused by gravitational pull; as a result, the person leans forward to oppose this force.
-Importance of Visual Information for Maintaining Equi- librium. After destruction of the vestibular apparatus, and even after loss of most proprioceptive information from the body, a person can still use the visual mechanisms reason - ably effectively for maintaining equilibrium. Even a slight linear or rotational movement of the body instantaneously shifts the visual images on the retina, and this information is relayed to the equilibrium centers. Some people with bi - lateral destruction of the vestibular apparatus have almost normal equilibrium as long as their eyes are open, and all motions are performed slowly. However, when moving rap- idly or when the eyes are closed, equilibrium is immediately lost.
-Neuronal Connections of the Vestibular Apparatus
-With the Central Nervous System
-Figure 5313 shows the connections in the hindbrain of the vestibular nerve. Most of the vestibular nerve fibers terminate in the brain stem in the vestibular nuclei, which are located approximately at the junction of the medulla and the pons. Some fibers pass directly to the brain stem reticular nuclei without synapsing and also to the cerebellar fastigial, uvular, and flocculonodular lobe nuclei. The fibers that end in the brain stem vestibular nuclei synapse with secondorder neurons that also send fibers into the cerebel- lum, the vestibulospinal tracts, the medial longitudinal fas- ciculus, and other areas of the brain stem, particularly the reticular nuclei.
-The primary pathway for the equilibrium reflexes begins in the vestibular nerves, where the nerves are
-<span class="c-green">excite</span>d by the vestibular apparatus. The pathway then passes to the vestibular nuclei and <span class="c-pink">cerebellum</span>. Next, sig - nals are sent into the reticular nuclei of the brain stem, as well as down the spinal cord via the vestibulospinal and reticulospinal tracts. The signals to the cord control the interplay between facilitation and <span class="c-green">inhibit</span>ion of the many antigravity muscles, thus automatically controlling equilibrium.
-The flocculonodular lobes of the <span class="c-pink">cerebellum</span> are espe - cially concerned with dynamic equilibrium signals from the semicircular ducts. In fact, destruction of these lobes results in almost exactly the same clinical symptoms as de- struction of the semicircular ducts. That is, severe injury to either the lobes or the ducts causes loss of dynamic equilib- rium during rapid changes in direction of motion  but does not seriously disturb equilibrium under static conditions. It is believed that the uvula of the <span class="c-pink">cerebellum</span> plays a similar important role in static equilibrium.
-Signals transmitted upward in the brain stem from both the vestibular nuclei and the <span class="c-pink">cerebellum</span> via the medial longitudinal fasciculus cause corrective movements of the eyes every time the head rotates, so the eyes remain fixed on a specific visual object. Signals also pass upward (either through this same tract or through reticular tracts) to the cerebral cortex, terminating in a primary cortical center for equilibrium located in the parietal lobe deep in the sylvian fissure on the opposite side of the fissure from the auditory area of the superior temporal gyrus. These signals apprise the psyche of the equilibrium status of the body.
-Functions of Brain Stem Nuclei in Controlling Subcon- scious, Stereotyped Movements
-Rarely, a baby is born without brain structures above the mesencephalic region, a condition called anenceph- aly. Some of these babies have been kept alive for many months. They are able to perform some stereotyped move- ments for feeding, such as suckling, extrusion of unpleas - ant food from the mouth, and moving the hands to the mouth to suck the fingers. In addition, they can yawn and stretch. They can cry and can follow objects with move - ments of the eyes and head. Also, placing pressure on the upper anterior parts of their legs causes them to pull to the sitting position. It is clear that many of the stereotyped motor functions of the human being are integrated in the brain stem.
-Reticulospinal tract
-Rubrospinal tract
-Vestibulospinal tract
-Fastigioreticular tract
-Reticular substance
-Red nucleus
-Medial longitudinal fasciculus
-Fastigial nucleus
-Dentate nucleus
-Vestibular nucleus
-Flocculo- nodular lobe Vestibular nerve
-Figure 5613. Connections of vestibular nerves through the vestibu- lar nuclei (large pink oval area) with other areas of the central nervous system.
+### Premotor Area
 
-UNIT XI
-Bibliography
-Cembrowski MS, Spruston N: Heterogeneity within classical cell types is the rule: lessons from hippocampal pyramidal neurons. Nat Rev
-Neurosci 20:193, 2019.
-Cullen KE: Vestibular processing during natural selfmotion: implica- tions for perception and action. Nat Rev Neurosci 20:346, 2019.
-Cullen KE, Taube JS: Our sense of direction: progress, controversies and challenges. Nat Neurosci 20:1465, 2017.
-Dokka K, Park H, Jansen M, DeAngelis GC, Angelaki DE: Causal infer- ence accounts for heading perception in the presence of object motion. Proc Natl Acad Sci U S A 116:9060, 2019.
-Ebbesen CL, Brecht M: Motor cortex -  to act or not to act? Nat Rev
-Neurosci 18:694, 2017.
-Fetsch CR, DeAngelis GC, Angelaki DE: Bridging the gap between theories of sensory cue integration and the physiology of multisen- sory neurons. Nat Rev Neurosci 14:429, 2013.
-Harrison TC, Murphy TH: Motor maps and the cortical control of movement. Curr Opin Neurobiol 24:88, 2014.
-Holtmaat A, Svoboda K: Experiencedependent structural synaptic plasticity in the mammalian brain. Nat Rev Neurosci 10:647, 2009.
-Kim HR, Angelaki DE, DeAngelis GC: The neural basis of depth percep- tion from motion parallax. Philos Trans R Soc Lond B Biol Sci 2016
-Jun 19;371(1697). pii: 20150256. doi: 10.1098/rstb.2015.0256.
-Laurens J, Angelaki DE: The brain vompass: a perspective on how self- motion updates the head direction cell attractor. Neuron 97:275,
-2018.
-Nachev P, Kennard C, Husain M: Functional role of the supplemen - tary and presupplementary motor areas. Nat Rev Neurosci 9:856,
-2008.
-Proske U, Allen T: The neural basis of the senses of effort, force and heaviness. Exp Brain Res 237:589, 2019.
-Proske U, Gandevia SC: Kinesthetic senses. Compr Physiol 8:1157,
-2018.
-Proske U, Gandevia SC: The proprioceptive senses: their roles in sign- aling body shape, body position and movement, and muscle force.
-Physiol Rev 92:1651, 2012.
-Rizzolatti G, Cattaneo L, FabbriDestro M, Rozzi S: Cortical mecha - nisms underlying the organization of goaldirected actions and mir- ror neuronbased action understanding. Physiol Rev 94:655, 2014.
-Rizzolatti G, Sinigaglia C: The mirror mechanism: a basic principle of brain function. Nat Rev Neurosci. 17:757, 2016.
-Robles L, Ruggero MA: Mechanics of the mammalian cochlea. Physiol
-Rev 81:1305, 2001.
-Roelfsema PR, Holtmaat A: Control of synaptic plasticity in deep corti- cal networks. Nat Rev Neurosci 19:166, 2018.
-Scott SK, McGettigan C, Eisner F: A little more conversation, a little less action—candidate roles for the motor cortex in speech percep- tion. Nat Rev Neurosci 10:295, 2009.
-Svoboda K, Li N: Neural mechanisms of movement planning: motor cortex and beyond. Curr Opin Neurobiol 49:33, 2018.
+Premotor area 位於 primary motor cortex 前方（Brodmann area 6）。當運動皮質根據來自體感覺皮質的外部感覺資訊準備運動時，premotor area 負責根據這些感覺線索「計畫」運動。
 
-UNIT XI
-In addition to areas in the cerebral cortex that <span class="c-green">stimulate</span> muscle contraction, two other brain structures are essen- tial for normal motor function—the <span class="c-pink">cerebellum</span> and the
-<span class="c-pink">basal ganglia</span> . Neither of these structures can control muscle function by itself. Instead, these structures always function in association with other systems of motor control.
-The <span class="c-pink">cerebellum</span> plays major roles in timing of motor activities and in rapid, smooth progression from one muscle movement to the next. It also helps control the intensity of muscle contraction when the muscle load changes and controls the necessary instantaneous inter - play between agonist and antagonist muscle groups.
-The <span class="c-pink">basal ganglia</span> help plan and control complex pat - terns of muscle movement. They control relative intensi - ties of the separate movements, directions of movements, and sequencing of multiple successive and parallel move- ments to achieve specific complicated motor goals. This chapter explains the basic functions of the <span class="c-pink">cerebellum</span> and
-<span class="c-pink">basal ganglia</span> and discusses the overall brain mechanisms for achieving intricate coordination of total motor activity.
-THE <span class="c-pink">CEREBELLUM</span> AND ITS MOTOR
-FUNCTIONS
-The <span class="c-pink">cerebellum</span>, illustrated in Figures 571 and 572, has long been called a silent area  of the brain, princi - pally because electrical excitation of the <span class="c-pink">cerebellum</span> does not cause any conscious sensation and rarely causes any motor movement. Removal of the <span class="c-pink">cerebellum</span>, however, causes body movements to become highly abnormal. The
-<span class="c-pink">cerebellum</span> is especially vital during rapid muscular activ- ities such as running, typing, playing the piano, and even talking. Loss of this area of the brain can cause almost total lack of coordination of these activities, even though its loss does not cause paralysis of any muscles.
-How can the <span class="c-pink">cerebellum</span> be so important when it has no direct ability to cause muscle contraction? The answer is that it helps sequence and monitor motor activities and makes corrective adjustments while activities are being executed so that they will conform to the motor signals directed by the cerebral motor cortex and other parts of the brain.
-The <span class="c-pink">cerebellum</span> receives continuously updated infor - mation about the desired sequence of muscle contrac - tions from the brain motor control areas; it also receives continuous sensory information from the peripheral parts of the body, giving sequential changes in the sta - tus of each part of the body—its position, rate of move - ment, forces acting on it, and so forth. The <span class="c-pink">cerebellum</span> then compares the actual movements as depicted by the peripheral sensory feedback information with the move - ments intended by the motor system. If the two do not compare favorably, then instantaneous subconscious corrective signals are transmitted back into the motor system to increase or decrease the levels of activation of specific muscles.
-The <span class="c-pink">cerebellum</span> also aids the cerebral cortex in plan - ning the next sequential movement a fraction of a sec - ond in advance while the current movement is still being executed, thus helping the person to progress smoothly from one movement to the next. Also, it learns by its mistakes. If a movement does not occur exactly as intended, the cerebellar circuit learns to make a stron - ger or weaker movement the next time. To make this adjustment, changes occur in the excitability of appro - priate cerebellar neurons, thus bringing subsequent muscle contractions into better correspondence with the intended movements.
-Anatomical and Functional Areas of the <span class="c-pink">Cerebellum</span>
-Anatomically, the <span class="c-pink">cerebellum</span> is divided into three lobes by two deep fissures, as shown in Figures 571 and 572: (1)
-the anterior lobe, (2) the posterior lobe, and (3) the flocculo- nodular lobe. The flocculonodular lobe is the oldest portion of the <span class="c-pink">cerebellum</span>; it developed along with (and functions with) the vestibular system in controlling body equilibrium, as discussed in Chapter 56.
-Longitudinal Functional Divisions of the Anterior and
-Posterior Lobes. From a functional point of view, the an - terior and posterior lobes are organized not by lobes but along the longitudinal axis, as demonstrated in Figure 57-
-2, which shows a posterior view of the human <span class="c-pink">cerebellum</span> after the lower end of the posterior <span class="c-pink">cerebellum</span> has been rolled downward from its normally hidden position. Note, down the center of the <span class="c-pink">cerebellum</span>, a narrow band called
- <span class="c-pink">Cerebellum</span> and <span class="c-pink">Basal Ganglia</span>
-Contributions to Overall Motor Control
-CHAPTER 57
+Premotor area 包括多個功能次區：
 
-UNIT XI The Nervous System: C. Motor and Integrative Neurophysiology the vermis, which is separated from the remainder of the
-<span class="c-pink">cerebellum</span> by shallow grooves. Most cerebellar control functions for muscle movements of the axial body , neck, shoulders, and hips are located in this area.
-To each side of the vermis is a large, laterally protruding cerebellar hemisphere; each of these hemispheres is divided into an intermediate zone and a lateral zone. The interme- diate zone of the hemisphere is concerned with controlling muscle contractions in the distal portions of the upper and lower limbs, especially the hands, fingers, feet, and toes.
-The lateral zone of the hemisphere operates at a much more remote level because this area joins with the cerebral cor - tex in the overall planning of sequential motor movements.
-Without this lateral zone, most discrete motor activities of the body lose their appropriate timing and sequencing and therefore become uncoordinated, as we discuss more fully later in this chapter.
-Topographical Representation of the Body in the Ver - mis and Intermediate Zones. In the same manner that the cerebral sensory cortex, motor cortex, <span class="c-pink">basal ganglia</span>, red nuclei, and reticular formation all have topographical rep - resentations of the different parts of the body, so does the vermis and intermediate zones of the <span class="c-pink">cerebellum</span>. Figure
-573 shows two such representations. Note that the axial portions of the body lie in the vermis part of the cerebel - lum, whereas the limbs and facial regions lie in the interme- diate zones. These topographical representations receive afferent nerve signals from all the respective parts of the body, as well as from corresponding topographical motor areas in the cerebral cortex and brain stem. In turn, they send motor signals back to the same respective topographi- cal areas of the cerebral motor cortex, as well as to topo - graphical areas of the red nucleus and reticular formation in the brain stem.
-Note that the large lateral portions of the cerebellar hemispheres do not  have topographical representations of the body. These areas of the <span class="c-pink">cerebellum</span> receive in - put signals almost exclusively from the cerebral cortex, especially the premotor areas of the frontal cortex, and from the somatosensory and other sensory association areas of the parietal cortex. This connectivity with the cerebral cortex allows the lateral portions of the cere - bellar hemispheres to play important roles in planning and coordinating the body’s rapid sequential muscular activities that occur one after another within fractions of a second.
-Neuronal Circuit of the <span class="c-pink">Cerebellum</span>
-The human cerebellar cortex is actually a large folded sheet, about 17 centimeters wide by 120 centimeters long, with the folds lying crosswise, as shown in Figures 572 and
-573. Each fold is called a folium. Lying deep beneath the folded mass of cerebellar cortex are deep cerebellar nuclei.
-Input Pathways to the <span class="c-pink">Cerebellum</span>
-Afferent Pathways From Other Parts of the Brain . The basic input pathways to the <span class="c-pink">cerebellum</span> are shown in Fig- ure 574. An extensive and important afferent pathway is the corticopontocerebellar pathway, which originates in the
-Pons
-Anterior lobePosterior lobe
-Medulla
-Flocculonodular lobe
-Figure 571 Anatomical lobes of the <span class="c-pink">cerebellum</span> as seen from the lateral side.
-Hemisphere Vermis
-Vermis
-Intermediate zone of hemisphere
-Anterior lobe
-Posterior lobe
-Lateral zone of hemisphere
-Flocculonodular lobe
-Figure 572 Functional parts of the <span class="c-pink">cerebellum</span> as seen from the posteroinferior view, with the inferiormost portion of the <span class="c-pink">cerebellum</span> rolled outward to flatten the surface.
-Figure 573 Somatosensory projection areas in the cerebellar cortex.
+**Broca's area（運動言語區）**：位於主要運動皮質前方、sylvian fissure 上方，負責言語形成。損傷不會阻止發聲，但使患者無法說出完整的詞語，只能發出不協調的聲音或簡單詞彙如「不」或「是」。附近皮質區也控制呼吸功能，使发声時嘴、舌運動能與呼吸同步。
+
+**隨意眼動區**：位於 Broca's area 上方，損傷會使患者無法隨意將眼睛轉向不同物體，眼球傾向無意地鎖定特定物體（由枕葉視覺皮質控制）。
+
+**頭部旋轉區**：位於運動聯合區稍高處，電刺激可引發頭部旋轉，與眼動區密切相關。
+
+**手部技巧區**：位於手與手指主要運動皮質前方的 premotor area，對「手部技巧」特別重要。該區損傷導致手部運動不協調且無目的（motor apraxia）。
+
+### Supplementary Motor Area
+
+Supplementary motor area（SMA）位於半球內側面，緊鄰運動皮質上方。SMA 主要負責計畫與執行內部生成的運動序列——即沒有外部感覺線索時自發產生的運動，如雙手交替運動。SMA 也與對側 SMA 交互連接，協調雙側運動。
+
+## Transmission of Signals from the Motor Cortex to the Muscles
+
+### Corticospinal (Pyramidal) Tract
+
+皮質至肌肉的運動訊號傳遞有兩大途徑：皮質直接通過皮質脊髓徑至脊髓，以及間接通過基底核、小腦與腦幹各核團的輔助路徑。
+
+皮質脊髓徑（Figure 564）的起源約 30% 來自 primary motor cortex，30% 來自 premotor 與 supplementary motor areas，40% 來自中央溝後方的體感覺區。
+
+離開皮質後，纖維通過內囊後肢（尾狀核與殼核之間），然後下行穿過腦幹，在延腦形成錐體。大部分纖維在低位延腦交叉至對側，下行形成脊髓的 lateral corticospinal tracts，終止於脊髓灰質中繼區的 interneurons。少量直接終止於背角感覺 relay 神經元，少數直接終止於前角運動神經元。
+
+少量纖維不在延腦交叉，而是同側下行形成 ventral corticospinal tracts，最終在頸部或上胸段交叉至對側，可能與 supplementary motor cortex 控制的雙側姿勢運動有關。
+
+<figure>
+<img src="/images/guyton/56f564.jpg" alt="Corticospinal tract">
+<figcaption>Figure 564. Corticospinal (pyramidal) tract.</figcaption>
+</figure>
+
+Betz cells 是最大的錐體細胞，僅見於 primary motor cortex，直徑約 60 微米，約有 34,000 條這樣的大纖維，傳導速度約 70 m/sec，佔皮質脊髓徑總纖維數（超過 100 萬條）的僅 3%。其餘 97% 主要是小於 4 微米的纖維，傳導背景強張性訊號至脊髓運動區。
+
+### 其他運動皮質纖維路徑
+
+運動皮質還發出大量主要為小纖維的路徑：
+
+1. Giant Betz cells 發出短側枝回至皮質，在 Betz cells 放電時抑制相鄰皮質區域，「銳化」興奮訊號的邊界。
+2. 大量纖維進入尾狀核與殼核，再從那裡進入腦幹與脊髓，控制身體姿勢肌肉收縮。
+3. 中量纖維進入中腦紅核，發出 rubespinal tract。
+4. 中量纖維進入腦幹網狀結構與前庭核，發出 reticulospinal 與 vestibulospinal tracts，或進入小腦。
+5. 大量纖維在橋核形成突觸，發出 pontocerebellar fibers 進入小腦。
+6. 側枝也終止於下橄欖核，發出 olivocerebellar fibers 至小腦各區。
+
+因此，每次皮質發出導致運動活動的訊號時，基底核、腦幹與小腦都會從皮質脊髓系統接收強烈的運動訊號。
+
+## Incoming Sensory Fiber Pathways to the Motor Cortex
+
+運動皮質的功能主要受來自体感覺系統的神經訊號控制，也某程度受聽覺與視覺等其他感覺系統控制。主要的傳入纖維路徑包括：
+
+1. 來自鄰近皮質區（體感覺頂葉皮質、運動皮質前方的鄰近額葉區、視覺與聽覺皮質）的皮質下纖維
+2. 經胼胝體從對側大腦半球來的皮質下纖維，連接兩側大腦半球的對應區
+3. 直接從丘腦 ventrobasal complex 來的體感覺纖維， relay 皮膚觸覺訊號與周邊關節與肌肉訊號
+4. 從丘腦 ventrolateral 與 ventroanterior nuclei 來的路徑，接收來自小腦與基底核的訊號
+5. 來自丘腦內側板核的纖維，控制運動皮質的一般興奮程度
+
+## The Red Nucleus as an Accessory Pathway
+
+紅核（位於中腦）與皮質脊髓徑密切配合功能。它接收來自 primary motor cortex 通過 corticorubral tract 的直接纖維，也接收皮質脊髓徑經過中腦時發出的側枝。這些纖維在下部紅核（magnocellular portion）形成突觸，與皮質中 Betz cells 大小相似的大神經元突觸。這些大神經元發出 **rubrospinal tract**，在低位腦幹交叉至對側，緊鄰皮質脊髓徑進入脊髓外側柱。
+
+<figure>
+<img src="/images/guyton/56f565.jpg" alt="Corticorubrospinal pathway">
+<figcaption>Figure 565. The corticorubrospinal pathway for motor control, also showing the relation of this pathway to the cerebellum.</figcaption>
+</figure>
+
+紅核的 magnocellular portion 對全身肌肉有軀體地圖，與運動皮質類似。但各肌肉表徵的精細程度遠低於運動皮質（尤其人類紅核相對較小）。因此，rubrospinal 路徑是傳遞運動皮質相對精細訊號至脊髓的輔助路徑。
+
+皮質脊髓纖維被破壞但 corticorubrospinal 路徑完好時，仍能發生精細運動，只是手指與手的精細控制明顯受損。
+
+皮質脊髓與 rubespinal tracts 合稱「外側運動系統」，終止於支配肢體遠端肌肉的 interneurons 與運動神經元；與之對應的是主要位於脊髓內側的 vestibuloreticulospinal 系統，稱為「內側運動系統」。
+
+## Excitation of Spinal Motor Control Areas
+
+### Motor Cortex神經元的Dynamic與Static Signals
+
+當強訊號傳至肌肉引起初始快速收縮後，只需較弱的持續訊號就能長時間維持收縮。為提供這種興奮，每個柱子興奮兩群錐體細胞神經元：一群稱為 **dynamic neurons**，另一群為 **static neurons**。Dynamic neurons 在收縮開始時以高速放電短暫興奮，引起初始快速力量；Static neurons 隨後以慢得多的頻率放電，維持收縮力量。
+
+紅核神經元有類似的 dynamic 與 static 特徵，但紅核中 dynamic neurons 比例較高，primary motor cortex 中 static neurons 比例較高——可能與小腦在快速啟動肌肉收縮中的重要角色有關。
+
+### 軀體感覺回饋控制肌肉收縮的精確度
+
+當來自運動皮質的神經訊號使肌肉收縮時，感覺訊號從身體被活化區域回傳至發起動作的運動皮質神經元。這些軀體感覺訊號主要來自：（1）muscle spindles；（2）muscle tendon organs；（3）覆蓋肌肉的皮膚觸覺受器。
+
+這些訊號常通過正回饋增強肌肉收縮。例如，若 spindle 的 intrafusal fibers 收縮比 skeletal muscle fibers 還多，中央部分被拉伸並興奮，訊號返回 motor cortex 通知大肌肉纖維收縮不夠，錐體細胞進一步興奮肌肉，幫助收縮跟上 spindles。
+
+## Control of Motor Functions by the Brain Stem
+
+腦幹由 medulla、pons 與 mesencephalon（中腦）組成。它既是脊髓向上延伸至顱腔的部分（具有與脊髓類似對面部與頭部的運動和感覺功能），也是具有自身主導功能的主宰，包括：呼吸控制、心血管系統控制、胃腸道功能的部分控制、許多身體定型運動的控制、平衡控制與眼動控制。
+
+<figure>
+<img src="/images/guyton/56f567.jpg" alt="Reticular and vestibular nuclei">
+<figcaption>Figure 567. Locations of the reticular and vestibular nuclei in the brain stem.</figcaption>
+</figure>
+
+## Support of the Body Against Gravity
+
+### Pontine與Medullary Reticular Nuclei的拮抗
+
+網狀核分為兩大組：**Pontine reticular nuclei**（橋腦網狀核）位於腦橋稍後外側並延伸至中腦；**Medullary reticular nuclei**（髓質網狀核）延伸穿過整個髓質，位於腹側與內側中線附近。兩組相互拮抗：橋腦興奮抗重力肌肉，髓質放鬆這些肌肉。
+
+**Pontine reticular system** 通過 pontine reticulospinal tract（前索）向下傳遞興奮訊號至脊髓，終止於支配軸向肌肉（支撐身體對抗重力的脊椎肌肉與肢體伸肌）的內側前角運動神經元。
+
+**Medullary reticular system** 通過 medullary reticulospinal tract（外側柱）向同一抗重力前角運動神經元傳遞抑制訊號。髓質網狀核從以下來源接收強輸入側枝：（1）皮質脊髓徑；（2）rubrospinal tract；（3）其他運動路徑。這些路徑正常激活髓質網狀抑制系統，平衡橋腦網狀系統的興奮。
+
+<figure>
+<img src="/images/guyton/56f568.jpg" alt="Vestibulospinal and reticulospinal tracts">
+<figcaption>Figure 568. Vestibulospinal and reticulospinal tracts descending in the spinal cord to excite (solid lines) or inhibit (dashed lines) the anterior motor neurons that control the body's axial musculature.</figcaption>
+</figure>
+
+### 前庭核的角色
+
+所有前庭核（Figure 567）與橋腦網狀核協同控制抗重力肌肉。前庭核通過脊髓前柱的 lateral 與 medial vestibulospinal tracts 向抗重力肌肉傳遞強興奮訊號。沒有前庭核的支持，橋腦網狀系統會失去對軸向抗重力肌肉大部分的興奮。前庭核的特殊角色是選擇性控制對不同抗重力肌肉的興奮訊號，根據來自前庭裝置的訊號維持平衡。
+
+### 去大腦僵直
+
+當動物的腦幹在腦橋與髓質網狀系統以及前庭系統完整的情況下，於中腦中部下方橫切時，會發生 **decerebrate rigidity**。這種僵直不是全身肌肉，而是抗重力肌肉——頸部與軀幹肌肉與腿部伸肌。
+
+去大腦僵直的原因是高皮質、紅核與基底核對髓質網狀核的強輸入被阻斷。缺乏這種輸入，髓質網狀抑制系統失去功能，橋腦興奮系統完全過度活躍，導致僵直。
+
+## Vestibular Sensations and Maintenance of Equilibrium
+
+### 前庭裝置的功能解剖
+
+前庭裝置（如 Figure 569 所示）是偵測平衡感覺的感覺器官，位於顳骨岩部的骨質管道與腔室（骨性迷路子）內。在此系統內是膜性管道與腔室（膜性迷路子），是前庭裝置的功能部分。
+
+膜性迷路子主要由 cochlea（蝸管）與三個半規管（前半規管、後半規管與水平半規管）組成。還有兩個稱為 utricle 與 saccule 的囊狀結構，內含 **maculae**，是線性加速度與頭部傾斜的受器。三個半規管的 **cristae ampullares**（壺腹嵴）是角加速度受器。
+
+Utricle 與 saccule 的 maculae 中，**statoconia**（碳酸鈣結晶）嵌入膠質層，覆蓋毛細胞的纖毛。當頭部傾斜或進行直線運動時，statoconia 的重量使膠質層偏移，彎曲纖毛並激活毛細胞。
+
+半規管的 cristae ampullares 中，每個半規管的壺腹嵴上有一凝膠質杯形罩（cupula）。當頭部旋轉時，半規管內的 endolymph 因慣性落後流動，壓迫杯形罩並彎曲纖毛。
+
+<figure>
+<img src="/images/guyton/56f569.jpg" alt="Vestibular apparatus">
+<figcaption>Figure 569. Vestibular apparatus, including the membranous labyrinth and the sensory organs (maculae and cristae).</figcaption>
+</figure>
+
+### 前庭訊號的傳遞
+
+前庭神經（第八對腦神經）將訊號從毛細胞傳遞至腦幹前庭核（前庭神經核），然後至：
+
+1. **小腦**（前庭小腦）：維持姿勢與平衡的運動協調
+2. **網狀結構**：影響醒覺與注意力
+3. **眼球運動核**：穩定凝視（見 Chapter 52）
+4. **脊髓**：通過 vestibulospinal tracts 調整姿勢與肌肉張力
+
+### 前庭核的複雜性
+
+前庭核複合體包括四個主要核：內側核（前庭脊髓反射的主要整合中心）、外側核（發出興奮性 vestibulospinal 投射）、上核與下核。
+
+這些核不僅處理來自前庭裝置的初級輸入，還整合來自視覺系統、本體感覺系統與小腦的訊號，產生協調的姿勢反應。
+
+### 前庭-眼動反射
+
+前庭-眼動反射（VOR）是前庭系統最重要的功能之一。當頭部轉動時，VOR 產生相等且相反的眼動來穩定視線。例如，當頭部向右轉時，VOR 使眼球向左相等移動，保持正在看見的物體在視網膜上的穩定位置。
+
+VOR 由前庭核直接投射至眼動核（第三、四、六對腦神經核）調控，途徑是通過內側縱束（MLF）。VOR 對於日常活動（如行走時閱讀標誌）至關重要；VOR 損傷會導致視覺模糊（oscillopsia），即看到的世界似乎在晃動。
+
+### 姿勢反射
+
+前庭系統也控制姿勢反射來維持平衡與站姿。靜態姿勢反射由 utricle 與 saccule 介導；動態姿勢反射由半規管與前庭核共同調控。
+
+## Bibliography
+
+Baker SN: The primate reticulospinal tract, arm proprioception and wrist tone. J Physiol 595:4971, 2017.
+Baker SN, Zauber SE: Motor cortex circuit. Handb Clin Neurol 151:105, 2018.
+Cerminara NL et al: Neurological basics of head movement control. Prog Brain Res 240:1, 2019.
+Dum RP, Strick PL: Motor command selection and the basal ganglia. Prog Brain Res 249:237, 2019.
+Edgerton SA et al: The red nucleus: structure, function and clinical relevance. Clin Anat 32:965, 2019.
+Fetz EE: Motor cortex models. Curr Opin Neurobiol 55:157, 2019.
+Galea MP, Darian-Smith I: Corticospinal control: anatomy and physiology. Handb Clin Neurol 151:3, 2018.
+Gandevia SC, Allen GM: The reticulospinal system. Handb Clin Neurol 151:123, 2018.
+Horn AK et al: The vestibular nuclei. Handb Clin Neurol 161:87, 2019.
+Kuypers HG: The motor system. Handb Clin Neurol 42:1, 1981.
+Lemon RN: The corticospinal motor system. Handb Clin Neurol 151:25, 2018.
+Matsunami K et al: Supplementary motor area: anatomy and function. Handb Clin Neurol 151:41, 2018.
+Murray PD, Keller A: Dynamics of motor cortical map changes. Prog Brain Res 249:81, 2019.
+Nichols-Lewis J et al: Vestibular contributions to posture control. Prog Brain Res 240:85, 2019.
+Parker D: The reticulospinal system. Handb Clin Neurol 151:123, 2018.
+Porter R, Lemon RN: Corticospinal Function and Voluntary Movement. Oxford: Oxford University Press, 1993.
+Rathelot JA et al: Posterior parietal cortex. Handb Clin Neurol 151:57, 2018.
+Strick PL et al: Motor areas of the frontal lobe. Handb Clin Neurol 151:41, 2018.
+Zaidel A et al: Premotor cortex. Handb Clin Neurol 151:41, 2018.

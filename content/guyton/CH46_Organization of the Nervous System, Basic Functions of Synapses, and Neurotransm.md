@@ -3,195 +3,134 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH46"
 title: "Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters"
 book: "Guyton & Hall"
-summary: "Chapter CH46 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章介紹神經系統的整體結構與功能層級，以及 synaptic transmission 的基本原理。神經系統分為三個主要功能層級：脊髓層級（負責行走、撤退反射等）、下位腦層級（負責血壓、呼吸、情緒等自主功能）與皮質層級（負責記憶、思考）。Synapse 是神經信號傳遞的樞紐，分為化學性與電性兩大類；化學性 synapse 具有單向傳導特性，這是神經系統得以精確控制信號流向的關鍵。神經傳導物質超過 50 種，包括 acetylcholine、norepinephrine、GABA、glutamate 等，分別執行興奮性或抑制性功能。Postsynaptic 的效應可分為快速離子通道效應（ionotropic 受體）與慢速第二信使效應（metabotropic 受體）。
 ---
 
-UNIT IX STORAGE OF INFORMATION—MEMORY
+# CHAPTER 46
+神經系統的組織、基本 Synaptic 功能與神經傳導物質
 
-Only a small fraction of even the most important sensory information usually causes an immediate motor response. However, much of the information is stored for future control of motor activities and for use in thinking processes. Most storage occurs in the cerebral cortex, but even the basal regions of the brain and the spinal cord can store small amounts of information.
+## 章節導讀
 
-The storage of information is the process we call memory, which is also a function of the synapses. Each time certain types of sensory signals pass through sequences of synapses, these synapses become more capable of transmitting the same type of signal the next time—a process called facilitation. After the sensory signals have passed through the synapses a large number of times, the synapses become so facilitated that signals generated within the brain itself can also cause transmission of impulses through the same sequences of synapses, even when the sensory input is not excited. This process gives the person a perception of experiencing the original sensations, although the perceptions are only memories of the sensations.
+神經系統是人體最複雜的系統，約含 800–1000 億個神經元，每個神經元可與數百至數十萬個其他神經元形成突觸連結。本章首先說明神經系統的三個主要功能層級：脊髓層級、下位腦層級與皮質層級——這三個層級在人類演化過程中逐步形成，各司其職又相互整合。
 
-The precise mechanisms whereby long-term facilitation of synapses occurs in the memory process are still uncertain, but what is known about this and other details of the sensory memory process are discussed in Chapter 58.
+神經元之間的溝通依賴 **synapse**，而 synapse 可分為**化學性**與**電性**兩大類。化學性 synapse 透過神經傳導物質的釋放與受體結合來傳遞信號，具有**單向傳導**的特性——這是神經系統得以精確控制信號流向的關鍵基礎。電性 synapse 則透過 gap junctions 讓離子直接流動，具雙向傳導能力，常見於平滑肌與心肌的同步調控。
 
-Once memories have been stored in the nervous system, they become part of the brain processing mechanism for future "thinking." That is, the thinking processes of the brain compare new sensory experiences with stored memories; the memories then help select the important new sensory information and channel this into appropriate memory storage areas for future use or into motor areas to cause immediate bodily responses.
+化學性 synaptic transmission 的核心過程：動作電位抵達 presynaptic terminal → 電壓門控 Ca²⁺ 通道打開 → Ca²⁺ 內流 → 突觸囊泡釋放神經傳導物質 → 物質穿越 synaptic cleft → 與 postsynaptic 受體結合。Postsynaptic 的效應分為兩類：離子通道的直接開關（快速效應，數毫秒）與第二信使系統的活化（慢速效應，可持續數秒至數月，與記憶機制密切相關）。
 
-MAJOR LEVELS OF CENTRAL NERVOUS SYSTEM FUNCTION
+## 神經系統的功能層級
 
-The human nervous system has inherited special functional capabilities from each stage of human evolutionary development. From this heritage, three major levels of the central nervous system have specific functional characteristics:
+### 脊髓層級
 
-1. The spinal cord level
-2. The lower brain or subcortical level
-3. The higher brain or cortical level
+脊髓不僅是信號的傳導管道。即使高位頸脊髓已切斷，脊髓內的神經迴路仍能執行多項高度組織化的功能：行走運動、撤離反射（遠離疼痛刺激）、伸肌反射（對抗重力支撐身體）、局部血管與胃腸運動控制，以及排尿反射。上位神經系統常透過向脊髓中樞發出「指令」來間接控制週邊，而非直接下達運動命令。
 
-SPINAL CORD LEVEL
+### 下位腦（皮質下）層級
 
-We often think of the spinal cord as being only a conduit for signals from the periphery of the body to the brain, or in the opposite direction from the brain back to the body. This supposition is far from the truth. Even after the spinal cord has been cut in the high neck region, many highly organized spinal cord functions still occur. For example, neuronal circuits in the cord can cause:
+許多所謂的自主神經活動實由低位腦區控制，包括延腦、橋腦、中腦、視丘、下視丘、基底神經節與小腦：
 
-- Walking movements
-- Reflexes that withdraw portions of the body away from painful objects
-- Reflexes that stiffen the legs to support the body against gravity
-- Reflexes that control local blood vessels, gastrointestinal movements, or urinary excretion
+- **血壓與呼吸**：主要由延腦與橋腦調控
+- **平衡**：小腦古老部分與延腦、橋腦、中腦的網狀結構共同負責
+- **進食反射**：延腦、橋腦、中腦、杏仁核與下視丘相關區域
+- **情緒模式**（憤怒、興奮、性反應等）：即使皮質大部分破壞後仍可發生
 
-In fact, the upper levels of the nervous system often operate not by sending signals directly to the periphery of the body, but by sending signals to the control centers of the cord, simply "commanding" the cord centers to perform their functions.
+### 皮質層級
 
-LOWER BRAIN OR SUBCORTICAL LEVEL
+大腦皮質是龐大的資訊儲存庫，但從不單獨運作——它必須與低位腦中樞共同運作。沒有皮質，下位腦的功能往往缺乏精確性；有了皮質，這些功能被轉化為確定且精確的運作。此外，皮質是意識思維的基礎，但 wakefulness 本身是由下位腦中樞啟動的——這打開了皮質的記憶庫，使其為思維機器所用。
 
-Many, if not most, of what we call subconscious activities of the body are controlled in the lower areas of the brain—that is, in the medulla, pons, mesencephalon, hypothalamus, thalamus, cerebellum, and basal ganglia.
+### 神經系統與電腦的類比
 
-For example, subconscious control of arterial pressure and respiration is achieved mainly in the medulla and pons. Control of equilibrium is a combined function of the older portions of the cerebellum and the reticular substance of the medulla, pons, and mesencephalon. Feeding reflexes, such as salivation and licking the lips in response to the taste of food, are controlled by areas in the medulla, pons, mesencephalon, amygdala, and hypothalamus.
+電腦的輸入電路類似感覺系統，輸出電路類似運動系統；內部儲存記憶類似長期記憶，複雜的反射與處理機制類似高位神經系統。更複雜的電腦需要中央處理器（CPU），類似大腦的注意力控制機制——決定思維或運動活動的先後順序。這種類比說明人腦具有電腦般的架構，持續收集感覺資訊，結合已儲存的資訊，計算並指導身體活動。
 
-In addition, many emotional patterns—such as anger, excitement, sexual response, reaction to pain, and reaction to pleasure—can still occur after destruction of much of the cerebral cortex.
+## 記憶——資訊的儲存
 
-**Figure 46-3.** Skeletal motor nerve axis of the nervous system.
+大部分重要的感覺資訊不會立即引發運動反應，而是被儲存起來以備未來使用。儲存的機制仍是 synaptic transmission：當某類感覺信號多次通過特定序列的 synapses 後，這些 synapses 的傳遞效率會增強，稱為 **facilitation**。
 
-HIGHER BRAIN OR CORTICAL LEVEL
+多次傳遞後，synapses 變得非常容易傳導，以至於腦內自行產生的信號也能透過相同的序列傳遞，即使沒有感覺輸入——這就是**記憶**的基礎。記憶的精確分子機制見 Chapter 58，但原則上，長期 facilitation 涉及結構與基因表現的改變，而不僅是離子通道的開關。
 
-After the preceding account of the many nervous system functions that occur at the cord and lower brain levels, one may ask, "What is left for the cerebral cortex to do?" The answer to this question is complex, but it begins with the fact that the cerebral cortex is an extremely large memory storehouse.
+## 中樞神經系統的 Synapses
 
-The cortex never functions alone but always in association with lower centers of the nervous system. Without the cerebral cortex, the functions of the lower brain centers are often imprecise. The vast storehouse of cortical information usually converts these functions to determinative and precise operations.
+神經元之間的信息傳遞並非簡單的「一對一」線性傳導，而是一個動態的整合過程：每個神經元可被增強、抑制或重複興奮，使輸入信號可在多個層面被修改與整合。
 
-Finally, the cerebral cortex is essential for most of our thought processes, but it cannot function by itself. In fact, it is the lower brain centers, not the cortex, that initiate wakefulness in the cerebral cortex, thereby opening its bank of memories to the thinking machinery of the brain.
+## 化學性與電性 Synapses
 
-Thus, each portion of the nervous system performs specific functions, but it is the cortex that opens a world of stored information for use by the mind.
+### 化學性 Synapse
 
-COMPARISON OF THE NERVOUS SYSTEM TO A COMPUTER
+人體中樞神經系統大多數的 synapse 屬於化學性 synapse。圖 46-5 說明其結構：presynaptic neuron 的神經末梢釋放**神經傳導物質（neurotransmitter）**，跨越 synaptic cleft（200–300 Å 寬）作用於 postsynaptic neuron 的受體，產生興奮或抑制效應。
 
-It is readily apparent that computers have many features in common with the nervous system. First, all computers have input circuits that can be compared with the sensory portion of the nervous system, as well as output circuits that are analogous to the motor portion of the nervous system.
+已知的神經傳導物質超過 50 種：
 
-In simple computers, the output signals are controlled directly by the input signals, operating in a manner similar to that of simple reflexes of the spinal cord. In more complex computers, the output is determined by input signals and by information that has already been stored in memory in the computer, which is analogous to the more complex reflex and processing mechanisms of the human higher nervous system.
+| 類別 | 代表物質 |
+|------|---------|
+| **膽鹼類** | Acetylcholine |
+| **單胺類** | Norepinephrine、Epinephrine、Dopamine、Serotonin、Histamine |
+| **氨基酸類** | Glutamate（興奮性）、GABA（抑制性）、Glycine |
+| **其他** | ATP、Adenosine、Nitric oxide |
 
-Furthermore, as computers become even more complex, it is necessary to add still another unit, called the central processing unit, which determines the sequence of all operations. This unit is analogous to the control mechanisms in the brain that direct a person's attention first to one thought or sensation or motor activity, then to another, and so forth, until complex sequences of thought or action take place.
+### 電性 Synapse
 
-**Figure 46-4.** Block diagram of a general-purpose computer showing the basic components and their interrelations.
+電性 synapse 中，相鄰細胞的細胞質透過 **gap junctions** 直接相通，離子可自由來往，因此動作電位可直接傳遞。這種雙向傳導有利於同步化大型神經群體的活動，常見於內臟平滑肌與心肌的協調。
 
-The fact that the basic components of the general-purpose computer are analogous to those of the human nervous system demonstrates that the brain has many features of a computer, continuously collecting sensory information and using this, along with stored information, to compute the daily course of bodily activity.
+### 化學性 Synapse 的單向傳導特性
 
-CENTRAL NERVOUS SYSTEM SYNAPSES
+化學性 synapse 最重要的特性是**單向傳導**：信號只能從釋放神經傳導物質的 **presynaptic neuron** 傳向接受作用的 **postsynaptic neuron**，永遠不回頭。這一特性使得信號可以被導向特定目標，是神經系統得以執行感覺、運動控制、記憶等無數精細功能的根本基礎。
 
-Information is transmitted in the central nervous system mainly in the form of nerve action potentials, called nerve impulses, through a succession of neurons, one after another. However, each impulse:
+## Synapse 的解剖結構
 
-1. May be blocked in its transmission from one neuron to the next
-2. May be changed from a single impulse into repetitive impulses
-3. May be integrated with impulses from other neurons to cause highly intricate patterns of impulses in successive neurons
+圖 46-6 說明典型的脊髓前角運動神經元結構：由胞體（soma）、單一軸突（axon）與大量樹突（dendrites）組成。樹突可延伸達 1 mm，分布於胞體周圍。
 
-All these functions can be classified as synaptic functions of neurons.
+### Presynaptic Terminals
 
-TYPES OF SYNAPSES—CHEMICAL AND ELECTRICAL
+每個神經元的胞體與樹突上分布著約 10,000–200,000 個 **presynaptic terminals**（約 80–95% 在樹突上，5–20% 在胞體上）。這些終末又稱 terminal knobs、boutons 或 end-feet，是來自其他神經元的軸突末梢。
 
-There are two major types of synapses (Figure 46-5):
+每個 presynaptic terminal 含兩種關鍵結構：
 
-1. Chemical
-2. Electrical
+1. **Transmitter vesicles（傳導物質囊泡）**：儲存並釋放神經傳導物質
+2. **Mitochondria**：提供 ATP，用於合成新的傳導物質
 
-**Figure 46-5.** Physiologic anatomy of (A) chemical synapse and (B) electrical synapse.
+### Transmitter 的釋放——Ca²⁺ 的關鍵角色
 
-Most of the synapses used for signal transmission in the central nervous system of the human being are chemical synapses. In these synapses, the first neuron secretes at its nerve ending synapse a chemical substance called a neurotransmitter (often called a transmitter substance), and this transmitter in turn acts on receptor proteins in the membrane of the next neuron to excite the neuron, inhibit it, or modify its sensitivity in some other way (Video 46-1).
+圖 46-5A 說明釋放機制：
 
-More than 50 important neurotransmitters have been discovered thus far. Some of the best known are:
+動作電位抵達 → 電壓門控 Ca²⁺ 通道打開 → Ca²⁺ 大量內流 → Ca²⁺ 與突觸膜內側的「釋放位點」結合 → 囊泡與細胞膜融合 → 神經傳導物質釋放至 synaptic cleft
 
-- Acetylcholine
-- Norepinephrine
-- Epinephrine
-- Histamine
-- Gamma-aminobutyric acid (GABA)
-- Glycine
-- Serotonin
-- Glutamate
+**釋放量與 Ca²⁺ 內流量成正比**。以 acetylcholine 為例，每個囊泡含 2,000–10,000 個分子，足夠支援數百至數萬次的動作電位傳遞。
 
-In electrical synapses, the cytoplasms of adjacent cells are directly connected by clusters of ion channels called gap junctions that allow free movement of ions from the interior of one cell to the interior of the next cell. Such junctions were discussed in Chapter 4, and it is by way of gap junctions and other similar junctions that action potentials are transmitted from one smooth muscle fiber to the next in visceral smooth muscle (Chapter 8) and from one cardiac muscle cell to the next in cardiac muscle (Chapter 9).
+## Postsynaptic Neuron 的受體與離子通道
 
-Although most synapses in the brain are chemical, electrical and chemical synapses may coexist and interact in the central nervous system. The bidirectional transmission of electrical synapses permits them to help coordinate the activities of large groups of interconnected neurons. For example, electrical synapses are useful in detecting the coincidence of simultaneous subthreshold depolarizations within a group of interconnected neurons; this enables increased neuronal sensitivity and promotes synchronous firing of a group of interconnected neurons.
+### 兩種受體類型
 
-"One-Way" Conduction at Chemical Synapses
+| 類型 | 作用機制 | 效應速度 |
+|------|---------|---------|
+| **Ionotropic receptor（離子通道型）** | 直接控制離子通道開關 | 快速（毫秒級） |
+| **Metabotropic receptor（代谢型）** | 透過第二信使系統作用 | 慢速（秒至月級） |
 
-Chemical synapses have one exceedingly important characteristic that makes them highly desirable for transmitting nervous system signals. This characteristic is that they always transmit the signals in one direction—that is, from the neuron that secretes the neurotransmitter, called the presynaptic neuron, to the neuron on which the transmitter acts, called the postsynaptic neuron.
+### 離子通道的選擇性
 
-This phenomenon is the principle of one-way conduction at chemical synapses, and it is different from conduction through electrical synapses, which often transmit signals in either direction. A one-way conduction mechanism allows signals to be directed toward specific goals. Indeed, it is this specific transmission of signals to discrete and highly focused areas both within the nervous system and at the terminals of the peripheral nerves that allows the nervous system to perform its myriad functions of sensation, motor control, memory, and many other functions.
+Postsynaptic 膜上的離子通道具有高度選擇性：
 
-PHYSIOLOGIC ANATOMY OF THE SYNAPSE
+- **Cation channels**：主要讓 Na⁺ 通過（興奮性），有時也讓 K⁺ 或 Ca²⁺ 通過
+- **Anion channels**：主要讓 Cl⁻ 通過（抑制性），其他陰離子幾乎不通
 
-Figure 46-6 shows a typical anterior motor neuron in the anterior horn of the spinal cord. It is composed of three major parts—the soma, which is the main body of the neuron; a single axon, which extends from the soma into a peripheral nerve that leaves the spinal cord; and dendrites, which are great numbers of branching projections of the soma that extend as much as 1 millimeter into the surrounding areas of the cord.
+離子通道的選擇性取決於其直徑、形狀與內表面的電荷分佈。Na⁺ 通道內壁帶負電荷，吸引正電 Na⁺ 進入並通過，但排斥 Cl⁻ 等陰離子；Cl⁔ 通道則相反。
 
-**Figure 46-6.** Typical anterior motor neuron showing presynaptic terminals on the neuronal soma and dendrites. Note also the single axon.
+**關鍵原則**：打開 cation channels → Na⁺ 內流 → 膜電位趨正 → **興奮（excitatory）**；打開 anion channels → Cl⁻ 內流 → 膜電位趨負 → **抑制（inhibitory）**。
 
-As many as 10,000 to 200,000 minute synaptic knobs called presynaptic terminals lie on the surfaces of the dendrites and soma of the motor neuron, with about 80% to 95% of them on the dendrites and only 5% to 20% on the soma. These presynaptic terminals are the ends of nerve fibrils that originate from many other neurons.
+## 第二信使系統
 
-Many of these presynaptic terminals are excitatory—that is, they secrete a neurotransmitter that excites the postsynaptic neuron. However, other presynaptic terminals are inhibitory—that is, they secrete a neurotransmitter that inhibits the postsynaptic neuron.
+離子通道的效應僅持續毫秒，但某些神經功能（如記憶）需要**持續數秒到數月**的改變。此時需要**第二信使系統**：
 
-Neurons in other parts of the cord and brain differ from the anterior motor neuron in:
+| 第二信使 | 作用 |
+|---------|------|
+| **cAMP** | 活化蛋白質激酶，磷酸化離子通道與酶 |
+| **cGMP** | 類似 cAMP，參與視覺與血管舒張 |
+| **Ca²⁺-calmodulin** | 活化多種細胞內酶，調控基因表現 |
+| **Phospholipase C 途徑** | 產生 IP₃ 與 DAG，觸發細胞內 Ca²⁺ 釋放 |
 
-1. The size of the cell body
-2. The length, size, and number of dendrites, ranging in length from almost zero to many centimeters
-3. The length and size of the axon
-4. The number of presynaptic terminals, which may range from only a few to as many as 200,000
+這些系統可引發細胞內級聯反應，導致基因表現改變、蛋白質合成變化，以及 synapses 的結構重塑——這些正是學習與記憶的分子基礎。
 
-These differences make neurons in various parts of the nervous system react differently to incoming synaptic signals and, therefore, perform many different functions.
+---
 
-Presynaptic Terminals
+# 參考文獻
 
-Electron microscopic studies of the presynaptic terminals show that they have varied anatomical forms, but most of them resemble small round or oval knobs and therefore are sometimes called terminal knobs, boutons, end-feet, or synaptic knobs.
-
-Figure 46-5A illustrates the basic structure of a chemical synapse, showing a single presynaptic terminal on the membrane surface of a postsynaptic neuron. The presynaptic terminal is separated from the postsynaptic neuronal soma by a synaptic cleft usually 200 to 300 angstroms (Å) wide.
-
-The terminal has two internal structures important to the excitatory or inhibitory function of the synapse: the transmitter vesicles and the mitochondria.
-
-The transmitter vesicles contain the neurotransmitter that, when released into the synaptic cleft, excites or inhibits the postsynaptic neuron. It excites the postsynaptic neuron if the neuronal membrane contains excitatory receptors, and it inhibits the neuron if the membrane contains inhibitory receptors. The mitochondria provide adenosine triphosphate (ATP), which in turn supplies the energy for synthesizing new transmitter substances.
-
-When an action potential spreads over a presynaptic terminal, depolarization of its membrane causes a small number of vesicles to empty into the cleft. The released transmitter in turn binds to a receptor on the postsynaptic neuronal membrane, causing an immediate change in its permeability characteristics and leading to excitation or inhibition of the postsynaptic neuron, depending on the neuronal receptor characteristics.
-
-Transmitter Release From Presynaptic Terminals—Role of Calcium Ions
-
-The membrane of the presynaptic terminal is called the presynaptic membrane. It contains large numbers of voltage-gated calcium channels. When an action potential depolarizes the presynaptic membrane, these calcium channels open and allow large numbers of calcium ions to flow into the terminal (Figure 46-5A). The quantity of neurotransmitter that is then released from the terminal into the synaptic cleft is directly related to the number of calcium ions that enter (Video 46-2).
-
-The precise mechanism whereby the calcium ions cause this release is not known, but it is believed to be the following. When the calcium ions enter the presynaptic terminal, they bind with special protein molecules on the inside surface of the presynaptic membrane, called release sites. This binding in turn causes the release sites to open through the membrane, allowing a few transmitter vesicles to release their transmitter into the cleft after each single action potential.
-
-For the vesicles that store the neurotransmitter acetylcholine, between 2,000 and 10,000 molecules of acetylcholine are present in each vesicle, and there are enough vesicles in the presynaptic terminal to transmit from a few hundred to more than 10,000 action potentials.
-
-Transmitter Actions on Postsynaptic Neurons—Function of Receptor Proteins
-
-The membrane of the postsynaptic neuron contains large numbers of receptor proteins, also shown in Figure 46-5A. The molecules of these receptors have two important components:
-
-1. A binding component that protrudes outward from the membrane into the synaptic cleft, where it binds the neurotransmitter coming from the presynaptic terminal
-2. An intracellular component that passes all the way through the postsynaptic membrane to the interior of the postsynaptic neuron
-
-Receptor activation controls the opening of ion channels in the postsynaptic cell in one of two ways:
-
-1. By gating ion channels directly and allowing passage of specified types of ions through the membrane
-2. By activating a "second messenger" that is not an ion channel but, instead, is a molecule that protrudes into the cell cytoplasm and activates one or more substances inside the postsynaptic neuron
-
-These second messengers increase or decrease specific cellular functions.
-
-Neurotransmitter receptors that directly gate ion channels are often called ionotropic receptors, whereas those that act through second messenger systems are called metabotropic receptors.
-
-Ion Channels
-
-The ion channels in the postsynaptic neuronal membrane are usually of two types:
-
-1. Cation channels, which usually allow sodium ions to pass when opened but sometimes also allow potassium and/or calcium ions to pass
-2. Anion channels, which mainly allow chloride ions to pass but also allow minute quantities of other anions to pass
-
-As discussed in Chapter 4, these ion channels are highly selective for transport of one or more specific ions. This selectivity depends on its diameter, shape, and the electrical charges and chemical bonds along its inside surfaces.
-
-The cation channels that conduct sodium ions are lined with negative charges. These charges attract the positively charged sodium ions into the channel when the channel diameter increases to a size larger than that of the hydrated sodium ion. However, these same negative charges repel chloride ions and other anions and prevent their passage.
-
-For the anion channels, when the channel diameters become large enough, chloride ions pass into the channels and on through to the opposite side, whereas sodium, potassium, and calcium cations are blocked, mainly because their hydrated ions are too large to pass.
-
-We will learn later that when cation channels open and allow positively charged sodium ions to enter, the positive electrical charges of the sodium ions will in turn excite this neuron. Therefore, a neurotransmitter that opens cation channels is called an excitatory transmitter. Conversely, opening anion channels allows negative electrical charges to enter, which inhibits the neuron. Therefore, neurotransmitters that open these channels are called inhibitory transmitters.
-
-When a neurotransmitter activates an ion channel, the channel usually opens within a fraction of a millisecond; when the transmitter substance is no longer present, the channel closes equally rapidly. The opening and closing of ion channels provide a means for very rapid control of postsynaptic neurons.
-
-"Second Messenger" System in the Postsynaptic Neuron
-
-Many functions of the nervous system—for example, the process of memory—require prolonged changes in neurons for seconds to months after the initial transmitter substance is gone. The ion channels are not suitable for causing prolonged postsynaptic neuronal changes because these channels close within milliseconds after the transmitter substance is no longer present.
-
-However, in many cases, prolonged postsynaptic neuronal excitation or inhibition is achieved by activating a second messenger chemical system inside the postsynaptic neuronal cell, and then it is the second messenger that causes the prolonged effect. There are several types of second messenger systems, including:
-
-- Cyclic adenosine monophosphate (cAMP)
-- Cyclic guanosine monophosphate (cGMP)
-- Calcium-calmodulin pathways
-- Phospholipase C pathways
-
-These second messenger systems can initiate various intracellular cascades that result in long-lasting changes in neuronal function, including modifications of gene expression, alterations in protein synthesis, and structural changes in synapses that underlie learning and memory.
+1. Kandel ER, Schwartz JH, Jessell TM: Principles of Neural Science. 5th ed. McGraw-Hill, 2013.
+2. Purves D, et al: Neuroscience. 6th ed. Sinauer Associates, 2018.
+3. Squire LR, et al: Fundamental Neuroscience. 4th ed. Academic Press, 2013.

@@ -7,129 +7,130 @@ summary: "Chapter 70 from Guyton & Hall Textbook of Medical Physiology, 14th Edi
 key_points:
   - "Content extracted directly from official Guyton & Hall PDF source"
 ---
-UNIT XIII Metabolism and Temperature Regulation
 
-Either inward or outward through the membranes, substances can pass only by facilitated transport or <span class="c-yellow">active transport</span> using carrier mechanisms. The nature of some of the carrier mechanisms is not completely understood, but a few are discussed in Chapter 4.
+## 章節導讀
 
-**Renal Threshold for Amino Acids.** In the kidneys, the different amino acids that are filtered by the glomerular capillaries can be reabsorbed through the proximal tubular epithelium by secondary <span class="c-yellow">active transport</span>, which returns them to the blood. However, as is true of other active transport mechanisms in the renal tubules, there is an upper limit to the rate at which each type of amino acid can be transported. For this reason, when the concentration of a particular type of amino acid becomes too high in the plasma and glomerular filtrate, the excess that cannot be actively reabsorbed is lost into the urine.
+蛋白質是生命活動的執行者，本章系統說明氨基酸與蛋白質在體內的命運與調控。胺基酸由小腸吸收後進入血液，部分由腎臟以主動運輸方式再吸收，但當血漿中某種胺基酸濃度過高時，超過腎閾值的部分便由尿液排出。進入細胞的胺基酸在核糖體系統中聚合成蛋白質儲存，或在需要時被 lysosomal enzyme 分解後釋出。必需胺基酸（essential amino acids）無法在人體內合成，必須由飲食供應；非必需胺基酸則可透過 transamination 從 α-keto acid 前驅物生成。當細胞內胺基酸過量時，會先經 deamination（去胺基作用）移除胺基團，產生氨（NH₃）與對應的 keto acid。氨在肝臟中轉化為 urea 排出體外——這是防止氨中毒的關鍵機制。Keto acid 可進入檸檬酸循環氧化供能，或用於 gluconeogenesis 與 ketogenesis。本章最後說明各種荷爾蒙對蛋白質代謝的影響。
 
-**Storage of Amino Acids as Proteins in the Cells.** After entry into tissue cells, amino acids combine with one another by peptide linkages, under the direction of the cell's messenger RNA and ribosomal system, to form cellular proteins. Therefore, the concentration of free amino acids inside most cells usually remains low, and storage of large quantities of free amino acids does not occur in the cells; instead, they are stored mainly in the form of actual proteins. However, many of these intracellular proteins can be rapidly decomposed again into amino acids under the influence of intracellular lysosomal digestive enzymes. These amino acids can then be transported back out of the cell into the blood. Special exceptions to this reversal process are the proteins in the chromosomes of the nucleus and the structural proteins such as collagen and muscle contractile proteins. These proteins do not participate significantly in this reverse digestion and transport back out of the cells.
+---
 
-Some tissues of the body participate in the storage of amino acids to a greater extent than do others. For example, the liver, which is a large organ and has special systems for processing amino acids, can store large quantities of rapidly exchangeable proteins, which is also true of the kidneys and the intestinal mucosa to a lesser extent.
+## 氨基酸的吸收與腎閾值
 
-**Amino Acid Release From Cells as a Means of Regulating Plasma Amino Acid Concentration.** Whenever plasma amino acid concentrations fall below normal levels, the required amino acids are transported out of the cells to replenish their supply in the plasma. In this way, the plasma concentration of each type of amino acid is maintained at a reasonably constant value. Some of the hormones secreted by the endocrine glands are able to alter the balance between tissue proteins and circulating amino acids. For example, growth hormone and <span class="c-cyan">insulin</span> increase the formation of tissue proteins, whereas adrenocortical glucocorticoid hormones increase the concentration of plasma amino acids.
+小腸吸收的胺基酸進入血液後，由腎絲球過濾而來的所有胺基酸在近端腎小管可經二次主動運輸（secondary active transport）被重新吸收回血液。但腎小管對每種胺基酸的轉運能力有上限（腎閾值），當血漿中某種胺基酸濃度過高時，超出轉運上限的部分便無法被吸收，最終由尿液排出。
 
-**Reversible Equilibrium Between the Proteins in Different Parts of the Body.** Because cellular proteins in the liver (and, to a much less extent, in other tissues) can be synthesized rapidly from plasma amino acids, and because many of these proteins can be degraded and returned to the plasma almost as rapidly, constant interchange and equilibrium occurs between the plasma amino acids and labile proteins in virtually all cells of the body. For example, if a particular tissue requires proteins, it can synthesize new proteins from amino acids of the blood; in turn, blood amino acids are replenished by degradation of proteins from other cells of the body, especially from liver cells. These effects are particularly noticeable in relation to protein synthesis in cancer cells. Cancer cells are often prolific users of amino acids; therefore, the proteins of the other cells can become markedly depleted.
+---
 
-**Upper Limit for the Storage of Proteins.** Each type of cell has an upper limit with regard to the amount of proteins it can store. After all the cells have reached their limits, the excess amino acids still in the circulation are degraded into other products and used for energy, as discussed subsequently, or they are converted to fat or glycogen and stored in these forms.
+## 胺基酸的細胞內儲存：蛋白質的動態平衡
 
-**Functional Roles of the Plasma Proteins.** The major types of protein present in the plasma are albumin, globulin, and fibrinogen.
+### 蛋白質的合成與儲存
 
-- A major function of albumin is to provide colloid osmotic pressure in the plasma, which prevents plasma loss from the capillaries, as discussed in Chapter 16.
-- The globulins perform several enzymatic functions in the plasma, but equally important, they are principally responsible for both the natural and acquired immunity of the body against invading organisms, as discussed in Chapter 35.
-- Fibrinogen polymerizes into long fibrin threads during blood coagulation, thereby forming blood clots that help repair leaks in the circulatory system, as discussed in Chapter 37.
+進入組織細胞的胺基酸在 mRNA 與核糖體系統的調控下聚合成細胞蛋白質，因此細胞內游離胺基酸的濃度維持在較低水準。游離胺基酸不會以游離形式大量儲存，而是以蛋白質的形式保存。
 
-**Formation of the Plasma Proteins.** Essentially all the albumin and fibrinogen of the plasma proteins, as well as 50% to 80% of the globulins, are formed in the liver. The remaining globulins, which are formed almost entirely in lymphoid tissues, are mainly gamma globulins that constitute antibodies used in the immune system.
+在 lysosomal 消化酶的作用下，細胞內的蛋白質可被快速分解為胺基酸，再經由特定轉運機制送回血液。例外是染色體中的結構蛋白（如膠原蛋白、肌動蛋白），它們不參與這種動態轉換。
 
-The rate of plasma protein formation by the liver can be extremely high—as much as 30 g/day. Certain disease conditions cause rapid loss of plasma proteins; for example, severe burns that denude large surface areas of the skin can cause the loss of several liters of plasma through the denuded areas each day. The rapid production of plasma proteins by the liver is valuable in preventing <span class="c-red">death</span> in such states. Occasionally, a person with severe renal disease loses as much as 20 grams of plasma protein in the urine each day for months, and this plasma protein is continually replaced mainly by liver production of the required proteins.
+肝臟由於體積大且具備特殊的胺基酸處理系統，能儲存大量可快速交換的蛋白質；腎臟與腸道黏膜也有部分此功能。
 
-In persons with cirrhosis of the liver, large numbers of liver cells are destroyed and replaced by fibrous tissue, causing a reduction in the liver's ability to synthesize plasma proteins. As discussed in Chapter 25, liver cirrhosis leads to decreased plasma colloid <span class="c-yellow">osmotic</span> pressure, which causes generalized edema.
+### 血漿胺基酸濃度的調控
 
-**Plasma Proteins as a Source of Amino Acids for the Tissues.** When the tissues become depleted of proteins, the plasma proteins can act as a source of rapid replacement. Indeed, whole plasma proteins can be imbibed in toto by tissue macrophages through the process of pinocytosis; once in these cells, they are split into amino acids that are transported back into the blood and used throughout the body to build cellular proteins wherever they are needed. In this way, the plasma proteins function as a labile protein storage medium and represent a readily available source of amino acids whenever a particular tissue requires them.
+當血漿胺基酸濃度低於正常時，細胞會將儲存的胺基酸釋出，補充血漿濃度。此平衡受到多種內分泌激素的影響：growth hormone 與 insulin 增加組織蛋白質的合成，而 glucocorticoid 則提高血漿胺基酸濃度。
 
-**Reversible Equilibrium Between the Plasma Proteins and the Tissue Proteins.** As shown in Figure 70-2, a constant state of equilibrium exists among the plasma proteins, the amino acids of the plasma, and the tissue proteins. On the basis of radioactive tracer studies, it has been estimated that normally about 400 grams of body protein are synthesized and degraded each day as part of the continual state of flux of amino acids, which demonstrates the general principle of reversible exchange of amino acids among the different proteins of the body. Even during starvation or severe debilitating diseases, the ratio of total tissue proteins to total plasma proteins in the body remains relatively constant at about 33:1.
+---
 
-Because of this reversible equilibrium between plasma proteins and the other proteins of the body, one of the most effective therapies for severe, acute whole-body protein deficiency is intravenous transfusion of plasma protein. Within a few days, or sometimes within hours, the amino acids of administered protein are distributed throughout the cells of the body to form new proteins as needed.
+## 血漿蛋白質的功能與來源
 
-**Essential and Nonessential Amino Acids.** Ten of the amino acids normally present in animal proteins can be synthesized in the cells, whereas the other 10 either cannot be synthesized or are synthesized in quantities too small to supply the body's needs. This second group of amino acids that cannot be synthesized is called the essential amino acids. Use of the word "essential" does not mean that the other 10 "nonessential" amino acids are not required for the formation of proteins but only that the others are not essential in the diet because they can be synthesized in the body.
+### 三大血漿蛋白質的功能
 
-Synthesis of the nonessential amino acids depends mainly on the formation of appropriate α-keto acids, which are the precursors of the respective amino acids. For example, pyruvic acid, which is formed in large quantities during the glycolytic breakdown of glucose, is the keto acid precursor of the amino acid alanine. Then, by the process of transamination, an amino radical is transferred to the α-keto acid, and the keto oxygen is transferred to the donor of the amino radical. This reaction is shown in Figure 70-3. Note that alanine is formed after the amino radical is transferred to the pyruvic acid from glutamic acid. Amino radicals can be transferred from asparagine, aspartic acid, and glutamine. Glutamine is present in the tissues in large quantities, and one of its principal functions is to serve as an amino radical storehouse.
+- **Albumin**：維持血漿膠體滲透壓，防止血漿從微血管流失（Chapter 16）
+- **Globulin**：具有酶活性，更重要的是構成天然與獲得性免疫的基礎（Chapter 35）
+- **Fibrinogen**：在凝血過程中聚合成纖維蛋白，形成血塊修復循環系統的漏洞（Chapter 37）
 
-Note also that the reactions are reversible so that transfer of amino groups can also occur during degradation of amino acids, as discussed later.
+### 血漿蛋白質的合成
 
-Transamination is promoted by several enzymes, among which are the aminotransferases, which are derivatives of pyridoxine, one of the B vitamins (B6). Without this vitamin, the amino acids are poorly synthesized, and protein formation cannot proceed normally.
+幾乎所有 albumin、fibrinogen 以及 50%–80% 的 globulin 都由肝臟合成。其餘 globulin（幾乎全為 gamma globulin，即抗體）由淋巴組織的漿細胞製造。肝臟合成血漿蛋白質的速率最高可達 30 g/日。肝硬化時，肝細胞大量被纖維組織取代，血漿蛋白質合成能力下降，導致血漿膠體滲透壓降低，引發全身性水腫（Chapter 25）。
 
-**Use of Proteins for Energy.** Once the cells are filled to their limits with stored protein, any additional amino acids in the body fluids are degraded and used for energy or are stored mainly as fat or secondarily as glycogen. This degradation occurs almost entirely in the liver, and it begins with deamination, which is explained in the following section.
+### 血漿蛋白質作為胺基酸的儲備庫
 
-**Deamination—Removal of Amino Groups From Amino Acids.** Deamination occurs mainly by transamination, which means transfer of the amino group to some acceptor substance. This process is the reverse of the process for synthesis of amino acids, which was previously explained.
+當組織蛋白質匱乏時，血漿蛋白質可作為胺基酸的快速來源。巨噬細胞可透過 pinocytosis 吞噬整個血漿蛋白質，將其分解為胺基酸後送回血液，供全身細胞用於合成新的蛋白質。這說明了為什麼嚴重急性蛋白質缺乏時，靜脈輸注血漿蛋白質是有效的治療方式。
 
-The greatest amount of deamination occurs according to the following transamination schema:
+---
 
-α-Ketoglutaric acid + Amino acid → Glutamic acid + α-Keto acid
+## 必需與非必需胺基酸
 
+組成動物蛋白質的 20 種胺基酸中，有 10 種可以在細胞內合成，稱為非必需胺基酸（nonessential amino acids）；另外 10 種無法合成或產量不足供身體所需，稱為必需胺基酸（essential amino acids）。此分類並不表示非必需胺基酸不需要，而是強調它們無需由飲食供應。
+
+### Transamination（轉胺作用）
+
+非必需胺基酸的合成主要依賴形成對應的 α-keto acid（少了胺基團的酸），再透過 transamination 將一個胺基團轉移給它。例如 pyruvic acid（來自葡萄糖 glycolysis）接受胺基團後成為 alanine（Figure 70-3）。這個反應是可逆的，也同樣發生在胺基酸的降解過程中。Transamination 由 aminotransferase 催化，這些酶的輔因子是 pyridoxine（維生素 B6）。
+
+---
+
+## 蛋白質作為能源：去胺基作用與尿素形成
+
+### Deamination（去胺基作用）
+
+當細胞蛋白質儲存已滿，剩餘的胺基酸會被降解為能源或轉化為脂肪/肝糖儲存。去胺基作用主要透過 transamination 進行：
+
+α-Ketoglutaric acid + 胺基酸 → Glutamic acid + α-Keto acid
 Glutamic acid + NAD⁺ + H₂O → α-Ketoglutaric acid + NADH + H⁺ + NH₃
 
-Note from this illustration that the amino group from the amino acid is transferred to α-ketoglutaric acid, which then becomes glutamic acid. The glutamic acid can then transfer the amino group to other substances or release it in the form of ammonia (NH₃). In the process of losing the amino group, the glutamic acid once again becomes α-ketoglutaric acid, so the cycle can be repeated again and again. To initiate this process, the excess amino acids in the cells, especially in the liver, induce activation of large quantities of aminotransferases, the enzymes responsible for initiating most deamination.
+胺基酸上的胺基團先轉移給 α-ketoglutaric acid 形成 glutamic acid，後者再釋出 NH₃（氨）。過量的胺基酸會誘導 aminotransferase 的大量生成，啟動去胺基作用。
 
-**Urea Formation by the Liver.** The ammonia released during deamination of amino acids is removed from the blood almost entirely by conversion into urea. Two molecules of ammonia (NH₃) and one molecule of carbon dioxide (CO₂) combine in the following net reaction:
+### Urea 形成
+
+去胺基作用產生的氨幾乎全部在肝臟轉化為 urea 排出：
 
 2NH₃ + CO₂ → NH₂CONH₂ + H₂O
 
-Essentially all urea formed in the human body is synthesized in the liver. In the absence of the liver or in persons with serious liver disease, ammonia accumulates in the blood. This accumulation of ammonia is extremely toxic, especially to the brain, and can lead to a state called hepatic <span class="c-red">coma</span>.
+這是防止氨中毒（hepatic coma）的關鍵機制。Urea 的形成經三步驟：
 
-The stages in the formation of urea are essentially the following:
+1. Ornithine + CO₂ + NH₃ → Citrulline
+2. Citrulline + NH₃ → Arginine
+3. Arginine + H₂O → Urea + Ornithine
 
-- Ornithine + CO₂ + NH₃ → Citrulline
-- Citrulline + NH₃ → Arginine
-- Arginine + H₂O → Urea + Ornithine
+形成後的 urea 擴散進入體液，由腎臟排出體外。
 
-After its formation, the urea diffuses from the liver cells into the body fluids and is excreted by the kidneys.
+---
 
-**Oxidation of Deaminated Amino Acids.** Once amino acids have been deaminated, the resulting keto acids can, in most cases, be oxidized to release energy for metabolic purposes. This oxidation usually involves two successive processes:
+## 去胺基酸的氧化：Gluconeogenesis 與 Ketogenesis
 
-1. The keto acid is changed into an appropriate chemical substance that can enter the citric acid cycle.
-2. This substance is degraded by the cycle and used for energy in the same manner that acetyl coenzyme A (acetyl-CoA) derived from carbohydrate and lipid metabolism is used, as explained in Chapters 68 and 69.
+### 進入能量代謝途徑
 
-In general, the amount of <span class="c-cyan">adenosine triphosphate</span> formed for each gram of protein that is oxidized is slightly less than that formed for each gram of glucose that is oxidized.
+去胺基後的 keto acid 通常有兩種去向：（1）轉化為可進入檸檬酸循環的物質而被氧化；（2）用於合成葡萄糖（gluconeogenesis）或脂肪酸（ketogenesis）。
 
-**Gluconeogenesis and Ketogenesis.** Certain deaminated amino acids are similar to the substrates normally used by the cells, mainly the liver cells, to synthesize glucose or fatty acids. For example, deaminated alanine is pyruvic acid, which can be converted into either glucose or glycogen. Alternatively, it can be converted into acetyl-CoA, which can then be polymerized into fatty acids. Also, two molecules of acetyl-CoA can condense to form acetoacetic acid, which is one of the ketone bodies, as explained in Chapter 69.
+Deaminated alanine（變成 pyruvic acid）可轉化為 glucose、glycogen，或轉化為 acetyl-CoA 後聚合成脂肪酸。2 分子 acetyl-CoA 可結合形成 acetoacetic acid（ketone bodies 之一，Chapter 69）。
 
-The conversion of amino acids into glucose or glycogen is called gluconeogenesis, and the conversion of amino acids into keto acids or fatty acids is called ketogenesis. Of the 20 deaminated amino acids, 18 have chemical structures that allow them to be converted into glucose, and 19 of them can be converted into fatty acids.
+20 種去胺基酸中，有 18 種可轉化為葡萄糖，19 種可轉化為脂肪酸。
 
-**Obligatory Degradation of Proteins.** When a person eats no proteins, a certain proportion of body proteins is degraded into amino acids and then deaminated and oxidized. This process involves 20 to 30 grams of protein each day, which is called the obligatory loss of proteins. Therefore, to prevent net loss of protein from the body, the average person must ingest a minimum of 20 to 30 grams of protein each day, although this amount depends on multiple factors, including muscle mass, activity, and age; to be on the safe side, a minimum of 60 to 75 grams is usually recommended.
+### Obligatory Protein Loss（強制性蛋白質流失）
 
-The ratios of the different amino acids in the dietary protein must be about the same as the ratios in the body tissues if the entire dietary protein is to be fully usable to form new tissue proteins. If one particular type of essential amino acid is low in concentration, the others become unusable because cells synthesize either whole proteins or none at all, as explained in Chapter 3 in relation to protein synthesis. The unusable amino acids are deaminated and oxidized. A protein that has a ratio of amino acids different from that of the average body protein is called a partial protein or an incomplete protein, and such a protein is less valuable for nutrition than is a complete protein.
+即使完全不攝取蛋白質，身體每天仍會有 20–30 克的蛋白質被降解並氧化，稱為「強制性蛋白質流失」。因此每日至少需要攝取 20–30 克蛋白質以維持平衡，臨床上建議攝取 60–75 克以確保安全。
 
-**Effect of Starvation on Protein Degradation.** Except for the 20 to 30 grams of obligatory protein degradation each day, the body uses almost entirely carbohydrates or fats for energy, as long as they are available. However, after several weeks of starvation, when the quantities of stored carbohydrates and fats begin to run out, the amino acids of the blood are rapidly deaminated and oxidized for energy. From this point on, the proteins of the tissues degrade rapidly—as much as 125 grams daily—and, as a result, cellular functions deteriorate precipitously. Because carbohydrate and fat utilization for energy normally occurs in preference to protein utilization, carbohydrates and fats are called protein sparers.
+飢餓初期，身體優先燃燒 carbohydrate 與 fat；但數週後兩者耗盡，體內蛋白質便會快速降解，每日可達 125 克，導致細胞功能急劇衰退。
 
-**Hormonal Regulation of Protein Metabolism**
+---
 
-**Growth Hormone Increases the Synthesis of Cellular Proteins.** Growth hormone causes the tissue proteins to increase. The precise mechanism by which this increase occurs is not fully understood, but it is believed to result mainly from increased transport of amino acids through the cell membranes, acceleration of the DNA and RNA transcription and translation processes for protein synthesis, and decreased oxidation of tissue proteins.
+## 蛋白質代謝的荷爾蒙調控
 
-<span class="c-cyan">Insulin</span> **Is Necessary for Protein Synthesis.** Total lack of <span class="c-cyan">insulin</span> reduces protein synthesis to almost zero. <span class="c-cyan">Insulin</span> accelerates transport of some amino acids into cells, which could be the stimulus for protein synthesis. Also, <span class="c-cyan">insulin</span> reduces protein degradation and increases the availability of glucose to the cells, so the need for amino acids for energy is correspondingly reduced.
+### Growth Hormone
 
-**Glucocorticoids Increase Breakdown of Most Tissue Proteins.** Glucocorticoids secreted by the adrenal cortex decrease the quantity of protein in most tissues while increasing amino acid concentration in the plasma, as well as increasing liver proteins and plasma proteins. Glucocorticoids increase the rate of breakdown of extrahepatic proteins, thereby making increased quantities of amino acids available in the body fluids. This allows the liver to synthesize increased quantities of hepatic cellular proteins and plasma proteins.
+Growth hormone 增加組織蛋白質的合成。機制包括：促進胺基酸穿越細胞膜、加速 DNA 與 RNA 的轉錄與轉譯、以及減少組織蛋白質的氧化。
 
-**Testosterone Increases Protein Deposition in Tissues.** Testosterone, the male sex hormone, causes increased deposition of protein in tissues throughout the body, especially the contractile proteins of the muscles (a 30%–50% increase). The mechanism of this effect is unknown, but it is definitely different from the effect of growth hormone, in the following way: Growth hormone causes tissues to continue growing almost indefinitely, whereas testosterone causes the muscles and, to a much lesser extent, some other protein tissues to enlarge for only several months. Once the muscles and other protein tissues have reached a maximum, despite continued administration of testosterone, further protein deposition ceases.
+### Insulin
 
-**Estrogen.** Estrogen, the principal female sex hormone, also causes some deposition of protein, but the effect of estrogen is much less compared with that of testosterone.
+Insulin 是蛋白質合成所必需的。缺乏胰島素時，蛋白質合成降至接近零。Insulin 促進部分胺基酸進入細胞，並減少蛋白質的降解，同時提升細胞對葡萄糖的利用，降低胺基酸作為能源的需求。
 
-**Thyroxine Increases Metabolism of Cells.** Thyroxine indirectly affects protein metabolism by increasing metabolism of the cells. If insufficient carbohydrates and fats are available for energy, thyroxine causes rapid degradation of proteins and uses them for energy. Conversely, if adequate quantities of carbohydrates and fats are available and excess amino acids are also available in the extracellular fluid, thyroxine can actually increase the rate of protein synthesis. In growing animals or human beings, deficiency of thyroxine causes growth to be greatly <span class="c-green">inhibited</span> because of lack of protein synthesis. In essence, it is believed that thyroxine has little specific effect on protein metabolism but does have an important general effect by increasing the rates of both normal anabolic and normal catabolic protein reactions.
+### Glucocorticoids
 
-**Bibliography**
+Glucocorticoid 會減少大多數組織的蛋白質量，同時升高血漿胺基酸濃度。它們加速肝外蛋白質的分解，使血漿胺基酸增加，供肝臟合成肝細胞蛋白質與血漿蛋白質。
 
-Bröer S, Fairweather SJ: Amino acid transport across the mammalian intestine. Compr Physiol 9:343, 2018.
+### Testosterone
 
-Bröer S, Bröer A: Amino acid <span class="c-yellow">homeostasis</span> and signalling in mammalian cells and organisms. Biochem J 474:1935, 2017.
+Testosterone促進肌肉等組織中 protein 的沉積（可增加 30%–50%），使肌肉收縮蛋白增加。其效果與 growth hormone 不同：growth hormone 使組織持續生長，而 testosterone 在數月後肌肉達到最大體積後便不再增加。
 
-Finn PF, Dice JF: Proteolytic and lipolytic responses to starvation. Nutrition 22:830, 2006.
+### Estrogen
 
-Hawley JA, Burke LM, Phillips SM, Spriet LL: Nutritional modulation of training-induced skeletal muscle adaptations. J Appl Physiol 110:834, 2011.
+Estrogen 也有促進蛋白質沉積的作用，但效果遠比 testosterone 微弱。
 
-Kandasamy P, Gyimesi G, Kanai Y, Hediger MA: Amino acid transporters revisited: new views in health and disease. Trends Biochem Sci 43:752, 2018.
+### Thyroxine
 
-Kaur J, Debnath J: Autophagy at the crossroads of catabolism and anabolism. Nat Rev Mol Cell Biol 16:461, 2015.
-
-Mann GE, Yudilevich DL, Sobrevia L: Regulation of amino acid and glucose transporters in endothelial and smooth muscle cells. Physiol Rev 83:183, 2003.
-
-Pencharz PB, Elango R, Wolfe RR: Recent developments in understanding protein needs - how much and what kind should we eat? Appl Physiol Nutr Metab 41:577, 2016.
-
-Rossetti ML, Steiner JL, Gordon BS: Androgen-mediated regulation of skeletal muscle protein balance. Mol Cell Endocrinol 447:35, 2017.
-
-Tavernarakis N: Ageing and the regulation of protein synthesis: a balancing act? Trends Cell Biol 18:228, 2008.
-
-Vandenberg RJ, Ryan RM: Mechanisms of <span class="c-cyan">glutamate</span> transport. Physiol Rev 93:1621, 2013.
-
-Wolfe RR: The 2017 Sir David P Cuthbertson lecture. Amino acids and muscle protein metabolism in critical care. Clin Nutr 37:1093, 2018.
-
-Wolfe RR, Cifelli AM, Kostas G, Kim IY: Optimizing protein intake in adults: Interpretation and application of the recommended dietary allowance compared with the acceptable macronutrient distribution range. Adv Nutr 8:266, 2017.
+Thyroxine 透過提高細胞代謝率間接地影響蛋白質代謝。當 carbohydrate 與脂肪不足時，thyroxine 促使蛋白質降解以提供能量；若 carbohydrate、脂肪與 excess amino acids 都充裕，thyroxine 反而促進蛋白質合成。在生長發育期，甲狀腺素缺乏會嚴重抑制生長。

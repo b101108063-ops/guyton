@@ -3,468 +3,119 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH07"
 title: "Excitation of Skeletal Muscle: Neuromuscular Transmission and Excitation-Contraction Coupling"
 book: "Guyton & Hall"
-summary: "Chapter 7 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章說明骨骼肌如何透過神經肌肉傳遞與興奮-收縮耦合被興奮。涵蓋 motor end plate 的結構、acetylcholine 的合成與釋放、乙醯膽鹼受體及其門控離子通道、end plate potential 及其在觸發肌肉動作電位中的角色、影響神經肌肉傳遞的藥物、重症肌無力（自體免疫疾病）、肌肉動作電位特性、橫管-肌漿網系統、鈣離子釋放與回收機制，以及惡性高熱。了解這些過程對於理解神經訊號如何轉化為肌肉收縮至關重要。"
 ---
 
-UNIT II
+## 章節導讀
 
-In practice, far more sodium ions flow through the <span class="c-cyan">acetylcholine</span>-gated channels than any other ions for two reasons. First, there are only two positive ions present in large concentrations—sodium ions in the extracellular fluid and potassium ions in the intracellular fluid. Second, the negative potential on the inside of the muscle membrane, −80 to −90 millivolts, pulls the positively charged sodium ions to the inside of the fiber while simultaneously preventing efflux of the positively charged potassium ions when they attempt to pass outward.
+骨骼肌的收縮始於運動神經元軸突末梢釋放神經傳遞物質，終於肌肉收縮的發生。本章系統說明神經肌肉接合處（neuromuscular junction）的結構與功能：運動神經末梢如何合成並以胞排作用釋放 acetylcholine，acetylcholine 如何與肌肉膜上的受體結合並打開陽離子通道，允許鈉離子大量流入產生 end plate potential，進而觸發肌肉 action potential。本章也介紹 acetylcholinesterase 如何在數毫秒內分解 acetylcholine 以終止信號，以及各種影響神經肌肉傳遞的藥物與疾病（如 myasthenia gravis）。接著說明肌肉 action potential 如何沿著 T tubule 深入纖維內部，透過 dihydropyridine 受體與 ryanodine 受體的耦合，引發肌漿網大量釋放鈣離子，啟動收縮的最後共同路徑——興奮-收縮耦合（excitation-contraction coupling）。
 
-As shown in Figure 7-3B, the principal effect of opening the <span class="c-cyan">acetylcholine</span>-gated channels is to allow sodium ions to flow to the inside of the fiber, carrying positive charges with them. This action creates a local positive potential change inside the muscle fiber membrane, called the end plate potential. This end plate potential normally causes sufficient <span class="c-yellow">depolarization</span> to open neighboring voltage-gated sodium channels, allowing even greater sodium ion inflow and initiating an <span class="c-yellow">action potential</span> that spreads along the muscle membrane and causes muscle contraction.
+## 神經肌肉接合處的結構
 
-**Destruction of the Released <span class="c-cyan">Acetylcholine</span> by Acetylcholinesterase.** The <span class="c-cyan">acetylcholine</span>, once released into the synaptic space, continues to <span class="c-green">activate</span> <span class="c-cyan">acetylcholine</span> receptors as long as the <span class="c-cyan">acetylcholine</span> persists in the space. However, it is rapidly destroyed by the enzyme acetylcholinesterase, which is attached mainly to the spongy layer of fine connective tissue that fills the synaptic space between the presynaptic nerve terminal and the postsynaptic muscle membrane. A small amount of <span class="c-cyan">acetylcholine</span> diffuses out of the synaptic space and is then no longer available to act on the muscle fiber membrane.
+骨骼肌纖維由起源於脊髓前角大型運動神經元的粗有髓鞘神經纖維支配。神經進入肌肉後分支，刺激從三條到數百條不等的肌肉纖維。每個神經末梢在肌肉纖維中點附近形成一個接合處，稱為神經肌肉接合處（neuromuscular junction），又稱 motor end plate。
 
-The short time that the <span class="c-cyan">acetylcholine</span> remains in the synaptic space—a few milliseconds at most—normally is sufficient to <span class="c-green">excite</span> the muscle fiber. Then the rapid removal of the <span class="c-cyan">acetylcholine</span> prevents continued re-excitation after the muscle fiber has recovered from its initial <span class="c-yellow">action potential</span>.
+Figure 7-1 顯示從大神經末梢到骨骼肌纖維的神經肌肉接合處。神經纖維形成分支的神經末梢，嵌入肌肉纖維表面但位於肌纖維漿膜外側。整個結構由 Schwann 細胞覆蓋，使其與周圍液體絕緣。神經末梢位於稱為 synaptic gutter 或 synaptic trough 的凹陷中，神經末梢與纖維膜之間的空間稱為 synaptic cleft，寬約 20-30 奈米。凹陷底部有許多稱為 subneural clefts 的肌肉膜皺褶，大大增加了神經傳遞物質作用的表面積。軸突末梢中有許多粒線體，供應用於合成 acetylcholine 的 ATP。
 
-**End Plate Potential and Excitation of the Skeletal Muscle Fiber.** The sudden influx of sodium ions into the muscle fiber when the <span class="c-cyan">acetylcholine</span>-gated channels open causes the electrical potential inside the fiber at the local area of the end plate to increase in the positive direction as much as 50 to 75 millivolts, creating a local potential called the end plate potential. Recall from Chapter 5 that a sudden increase in nerve <span class="c-yellow">membrane potential</span> of more than 20 to 30 millivolts is normally sufficient to initiate more and more sodium channel opening, thus initiating an <span class="c-yellow">action potential</span> at the muscle fiber membrane.
+## Acetylcholine 的分泌
 
-Figure 7-4 illustrates an end plate potential initiating the <span class="c-yellow">action potential</span>. This figure shows three separate end plate potentials. End plate potentials A and C are too weak to elicit an <span class="c-yellow">action potential</span>, but they do produce weak local end plate voltage changes, as recorded in the figure. By contrast, end plate potential B is much stronger and causes enough sodium channels to open so that the self-regenerative effect of more and more sodium ions flowing to the interior of the fiber initiates an <span class="c-yellow">action potential</span>.
+當神經衝動到達神經肌肉接合處時，約 125 個 acetylcholine 囊泡被釋放到 synaptic space。Figure 7-2 顯示神經膜上方和肌肉膜及其 subneural clefts 下方的示意圖。
 
-The weakness of the end plate potential at point A was caused by poisoning of the muscle fiber with curare, a drug that <span class="c-green">blocks</span> the gating action of acetylcholine on the <span class="c-cyan">acetylcholine</span> channels by competing for the <span class="c-cyan">acetylcholine</span> receptor sites. The weakness of the end plate potential at point C resulted from the effect of botulinum toxin, a bacterial poison that decreases the quantity of <span class="c-cyan">acetylcholine</span> release by the nerve terminals.
+在神經膜內表面有稱為 dense bars 的線性結構。神經膜上有電壓門控鈣離子通道。當 action potential 傳播到末梢時，這些通道打開，允許鈣離子從 synaptic space 擴散到神經末梢內部。鈣離子進而活化 Ca²⁺-calmodulin 依賴的蛋白激酶，磷酸化將 acetylcholine 囊泡錨定在細胞骨架上的 synapsin 蛋白。這個過程使囊泡釋放到神經膜的活化區，囊泡對接、與膜融合並透過胞排作用將 acetylcholine 排入 synaptic space。
 
-<span class="c-cyan">Na+</span>
+鈣離子流入是刺激囊泡釋放 acetylcholine 的有效刺激。
 
-Figure 7-3. <span class="c-cyan">Acetylcholine</span>-gated channel. A, Closed state. B, After <span class="c-cyan">acetylcholine</span> (<span class="c-cyan">Ach</span>) has become attached and a conformational change has opened the channel, allowing sodium ions to enter the muscle fiber and <span class="c-green">excite</span> contraction. Note the negative charges at the channel mouth that prevent passage of negative ions such as chloride ions.
+## Acetylcholine 對突觸後膜的作用
 
-<span class="c-cyan">Ach</span> binding site
+### Acetylcholine 受體及其離子通道
 
-<span class="c-cyan">Ach</span> binding site
+Figure 7-2 顯示肌肉纖維膜上有許多小型 acetylcholine 受體和電壓門控鈉離子通道。Acetylcholine-gated 離子通道幾乎完全位於 subneural clefts 開口處的正下方，正是 acetylcholine 被排入 synaptic space 的地方。
 
-<span class="c-cyan">Ach</span>
+每個 acetylcholine 受體是一個蛋白質複合體，分子量約 275,000，由五個亞基蛋白組成（兩個 α，一個 β，一個 δ，成人中 ε 取代 γ）。這些蛋白質分子穿透膜，側向排列形成管狀通道。當兩個 acetylcholine 分子分別附著到兩個 α 亞基蛋白上時，通道發生構象變化而打開（Figure 7-3）。
 
-Milliseconds
+Acetylcholine-gated 通道直徑約 0.65 奈米，允許 Na⁺、K⁺ 和 Ca²⁺ 等重要陽離子通過。當通道打開時，每個通道在 1 毫秒內可傳導 15,000 到 30,000 個鈉離子。
 
-Millivolts
+### 終板電位與肌肉纖維的興奮
 
-0
+當 acetylcholine-gated 通道打開時，大量鈉離子流入纖維內部，在 end plate 區域的纖維內產生高達 50-75 毫伏的正向局部電位變化，稱為終板電位（end plate potential）。正常情況下，這個 end plate potential 使相鄰的電壓門控鈉離子通道打開，引發 action potential 並沿肌肉膜傳播，導致肌肉收縮。
 
-1
+Figure 7-4 顯示 end plate potential 如何引發 action potential。End plate potential A 和 C 太弱無法引發 action potential，但產生了弱的局部電位變化。End plate potential B 足夠強，導致足夠多的鈉離子通道打開，引發自我再生性鈉離子流入，產生 action potential。
 
-3
+End plate potential A 減弱是由於箭毒（curare）中毒，curare 競爭 acetylcholine 受體位點，阻斷通道的門控作用。End plate potential C 減弱是由於肉毒桿菌毒素（botulinum toxin），減少神經末梢釋放的 acetylcholine 數量。
 
-4
+### Acetylcholine 的破壞
 
-5
+一旦 acetylcholine 釋放到 synaptic space，它會持續活化 acetylcholine 受體直到被 acetylcholinesterase 迅速破壞。這種酶主要附著在充滿 synaptic space 的結締組織海綿層上。Acetylcholine 被切割成醋酸鹽和膽鹼，膽鹼被主動重新吸收到神經末梢以重複利用。
 
-6
+### 神經肌肉接合處的傳遞安全因素與疲勞
 
-7
+正常情況下，每個到達神經肌肉接合處的衝動產生的 end plate potential 約為引發肌肉纖維所需的三倍，因此 normal neuromuscular junction 具有高安全因素。
 
-5
+然而，當刺激頻率高於每秒 100 次且持續數分鐘時，acetylcholine 囊泡數量可能減少到不足以讓衝動進入肌肉纖維。這種情況稱為神經肌肉接合處的疲勞，在正常功能條件下很少發生。
 
-C
+## Acetylcholine 的形成與釋放
 
-B
+Acetylcholine 的形成與釋放經過以下階段：
 
-A
+1. 這些約 40 奈米大小的小囊泡由高爾基體在脊髓運動神經元細胞體中形成，然後通過軸突運輸到末梢。單一骨骼肌 end plate 的神經末梢中約有 300,000 個這樣的小囊泡。
+2. Acetylcholine 在神經末梢的細胞質中合成，但立即被運輸穿過囊泡膜進入內部，以高濃度形式儲存——每個囊泡約含 10,000 個 acetylcholine 分子。
+3. 當 action potential 到達神經末梢，電壓門控鈣離子通道打開，末梢內鈣離子濃度增加約 100 倍，使囊泡與膜融合的速率增加約 10,000 倍。約 125 個囊泡通常在每個 action potential 時破裂。
+4. 之後 acetylcholine 被 acetylcholinesterase 切割成醋酸鹽和膽鹼，膽鹼被主動重吸收回神經末梢以重複利用。
+5. 神經末梢中可用的囊泡數量足以支持僅幾千次神經到肌肉的衝動傳遞。因此，新的囊泡需要迅速重新形成以維持神經肌肉接合處的持續功能。
 
-+60
+## 影響神經肌肉接合處傳遞的藥物
 
-+40
+### 模擬 Acetylcholine 作用的藥物
 
-+20
+Methacholine、carbachol 和 nicotine 等化合物對肌肉纖維的作用與 acetylcholine 幾乎相同。主要區別是它們不被膽鹼酯酶破壞或破壞得非常緩慢，因此作用可持續許多分鐘到數小時。
 
-−20
+### 透過抑制 Acetylcholinesterase 刺激神經肌肉接合處的藥物
 
-−40
+Neostigmine、physostigmine 和 diisopropyl fluorophosphate 使突觸中的 acetylcholinesterase 失活，因此不再水解 acetylcholine。因此每次神經衝動後，acetylcholine 累積並使肌肉纖維重複興奮。Neostigmine 和 physostigmine 抑制 acetylcholinesterase 長達數小時，而 diisopropyl fluorophosphate（一種強大神經毒氣）抑制 acetylcholinesterase 達數週，非常致命。
 
-Threshold
+### 阻斷神經肌肉接合處傳遞的藥物
 
-−60
+一組稱為 curare 樣藥物的藥物可防止衝動從神經末梢進入肌肉。例如 d-tubocurarine 阻斷 acetylcholine 對肌肉纖維 acetylcholine 受體的作用，防止膜通道通透性增加以引發 action potential。
 
-−80
+## 重症肌無力（Myasthenia Gravis）
 
-−100
+Myasthenia gravis（約每 20,000 人中 1 例）導致肌肉無力，是由於神經肌肉接合處無法從神經纖維傳遞足夠信號到肌肉纖維。大多数患者的血液中可以發現攻擊 acetylcholine 受體的抗體。因此 myasthenia gravis 被認為是一種自體免疫疾病，患者產生了阻斷或破壞自身突觸後 acetylcholine 受體的抗體。
 
-Figure 7-4. End plate potentials (in millivolts). A, Weakened end plate potential recorded in a curarized muscle that is too weak to elicit an <span class="c-yellow">action potential</span>. B, Normal end plate potential eliciting a muscle <span class="c-yellow">action potential</span>. C, Weakened end plate potential caused by botulinum toxin that decreases end plate release of <span class="c-cyan">acetylcholine</span>, again too weak to elicit a muscle <span class="c-yellow">action potential</span>.
+End plate potential 太弱，無法使電壓門控鈉離子通道打開，導致肌肉纖維不發生去極化。如果病情嚴重，患者可能因呼吸肌嚴重無力而死於呼吸衰竭。通常可以透過給予 neostigmine 或其他抗膽鹼酯酶藥物來緩解，使高於正常量的 acetylcholine 在 synaptic space 中累積。
 
-UNIT II Membrane Physiology, Nerve, and Muscle
+## 肌肉動作電位
 
-**Safety Factor for Transmission at the Neuromuscular Junction—Fatigue of the Junction.** Ordinarily, each impulse that arrives at the <span class="c-pink">neuromuscular junction</span> causes about three times as much end plate potential as that required to <span class="c-green">stimulate</span> the muscle fiber. Therefore, the normal <span class="c-pink">neuromuscular junction</span> is said to have a high safety factor.
+第 5 章關於神經纖維 action potential 啟動和傳導的描述同樣適用於骨骼肌纖維，但有一些定量差異：
 
-However, stimulation of the nerve fiber at rates greater than 100 times per second for several minutes may diminish the number of <span class="c-cyan">acetylcholine</span> vesicles so much that impulses fail to pass into the muscle fiber. This situation is called fatigue of the <span class="c-pink">neuromuscular junction</span>, and it is the same effect that causes fatigue of synapses in the central nervous system when the synapses are overexcited. Under normal functioning conditions, measurable fatigue of the <span class="c-pink">neuromuscular junction</span> occurs rarely and, even then, only at the most exhausting levels of muscle activity.
+1. 骨骼肌纖維的 resting membrane potential 約為 −80 至 −90 毫伏，比神經元負約 10-20 毫伏。
+2. Action potential 的持續時間為 1-5 毫秒，比大神經纖維長約 5 倍。
+3. 傳導速度為 3-5 m/s，約為大神經纖維傳導速度的 1/13。
 
-**<span class="c-cyan">Acetylcholine</span> Formation and Release**
+## 興奮-收縮耦合
 
-<span class="c-cyan">Acetylcholine</span> formation and release at the <span class="c-pink">neuromuscular junction</span> occur in the following stages:
+### 橫管-肌漿網系統
 
-1. Small vesicles, about 40 nanometers in size, are formed by the Golgi apparatus in the cell body of the motoneuron in the spinal cord. These vesicles are then transported by axoplasm that streams through the core of the axon from the central cell body in the spinal cord all the way to the <span class="c-pink">neuromuscular junction</span> at the tips of the peripheral nerve fibers. About 300,000 of these small vesicles collect in the nerve terminals of a single skeletal muscle end plate.
+骨骼肌纖維很大，action potential 沿著表面膜傳播時幾乎不在纖維深處產生電流。然而，最大肌肉收縮需要電流深入纖維內部到達各肌原纖維附近。這種穿透是透過沿橫管（T tubules）傳播的 action potential 實現的。Figure 7-5 顯示肌原纖維被 T tubule-肌漿網系統包圍。T tubules 很小，與肌原纖維橫向排列。它們從細胞膜開始，穿透肌肉纖維整個厚度，將細胞外液與纖維內部連通。
 
-2. <span class="c-cyan">Acetylcholine</span> is synthesized in the cytosol of the nerve fiber terminal but is immediately transported through the membranes of the vesicles to their interior, where it is stored in highly concentrated form—about 10,000 molecules of <span class="c-cyan">acetylcholine</span> in each vesicle.
+肌漿網由兩部分組成：稱為 terminal cisternae 的大囊室（緊鄰 T tubules）和環繞收縮肌原纖維所有表面的長縱向小管。
 
-3. When an <span class="c-yellow">action potential</span> arrives at the nerve terminal, it opens many calcium channels in the membrane of the nerve terminal because this terminal has an abundance of voltage-gated calcium channels. As a result, the calcium ion concentration inside the terminal membrane increases about 100-fold, which in turn increases the rate of fusion of the <span class="c-cyan">acetylcholine</span> vesicles with the terminal membrane about 10,000-fold. This fusion makes many of the vesicles rupture, allowing exocytosis of acetylcholine into the synaptic space. About 125 vesicles usually rupture with each <span class="c-yellow">action potential</span>. Then, after a few milliseconds, the <span class="c-cyan">acetylcholine</span> is split by acetylcholinesterase into acetate ion and choline, and the choline is actively reabsorbed into the neural terminal to be reused to form new <span class="c-cyan">acetylcholine</span>. This sequence of events occurs within a period of 5 to 10 milliseconds.
+### 肌漿網釋放鈣離子
 
-4. The number of vesicles available in the nerve ending is sufficient to allow transmission of only a few thousand nerve-to-muscle impulses. Therefore, for continued function of the <span class="c-pink">neuromuscular junction</span>, new vesicles need to be re-formed rapidly. Within a few seconds after each <span class="c-yellow">action potential</span> is over, coated pits appear in the terminal nerve membrane, caused by contractile proteins in the nerve ending, especially the protein clathrin, which is attached to the membrane in the areas of the original vesicles. Within about 20 seconds, the proteins contract and cause the pits to break away to the interior of the membrane, thus forming new vesicles. Within another few seconds, <span class="c-cyan">acetylcholine</span> is transported to the interior of these vesicles, and they are then ready for a new cycle of <span class="c-cyan">acetylcholine</span> release.
+Figures 7-6 和 7-7 顯示 T tubule 的 action potential 引起電流流入相鄰的肌漿網囊室。當 action potential 到達 T tubule 時，電壓變化被與鈣離子釋放通道（也稱為 ryanodine 受體通道）相連接的二氫吡啶受體感知。活化這些受體觸發囊室中鈣離子釋放通道的打開，釋放鈣離子進入肌漿，引發收縮。
 
-**Drugs That Enhance or <span class="c-green">Block</span> Transmission at the <span class="c-pink">Neuromuscular Junction</span>**
+### 鈣離子的回收
 
-**Drugs That <span class="c-green">Stimulate</span> the Muscle Fiber by <span class="c-cyan">Acetylcholine</span>-Like Action.** Several compounds, including methacholine, carbachol, and nicotine, have nearly the same effect on the muscle fiber as <span class="c-cyan">acetylcholine</span>. The main differences between these drugs and <span class="c-cyan">acetylcholine</span> are that the drugs are not destroyed by <span class="c-orange">cholinesterase</span> or are destroyed so slowly that their action often persists for many minutes to several hours. The drugs work by causing localized areas of depolarization of the muscle fiber membrane at the motor end plate where the <span class="c-cyan">acetylcholine</span> receptors are located. Then, every time the muscle fiber recovers from a previous contraction, these depolarized areas, by virtue of leaking ions, initiate a new <span class="c-yellow">action potential</span>, thereby causing a state of muscle spasm.
+在鈣離子從肌漿網釋放並擴散到肌原纖維周圍後，肌肉收縮持續只要鈣離子濃度保持高水平。然而，位於肌漿網壁上的持續活性鈣幫浦（稱為 SERCA）將鈣離子泵回肌漿小管。這種幫浦能將鈣離子濃縮約 10,000 倍。肌漿網內部還有一種稱為 calsequestrin 的鈣結合蛋白，每個分子可結合多達 40 個鈣離子。
 
-**Drugs That <span class="c-green">Stimulate</span> the <span class="c-pink">Neuromuscular Junction</span> by Inactivating <span class="c-orange">Acetylcholinesterase</span>.** Three particularly well-known drugs—neostigmine, physostigmine, and diisopropyl fluorophosphate—inactivate <span class="c-orange">acetylcholinesterase</span> in the synapses so that it no longer hydrolyzes <span class="c-cyan">acetylcholine</span>. Therefore, with each successive nerve impulse, additional <span class="c-cyan">acetylcholine</span> accumulates and <span class="c-green">stimulates</span> the muscle fiber repetitively. This activity causes muscle spasm when even a few nerve impulses reach the muscle. Unfortunately, it can also cause <span class="c-red">death</span> as a result of laryngeal spasm, which smothers a person.
+### 鈣離子興奮脈衝
 
-Neostigmine and physostigmine combine with <span class="c-orange">acetylcholinesterase</span> to inactivate the <span class="c-orange">acetylcholinesterase</span> for up to several hours, after which these drugs are displaced from the <span class="c-orange">acetylcholinesterase</span> so that the esterase once again becomes active. Conversely, diisopropyl fluorophosphate, which is a powerful nerve gas poison, inactivates acetylcholinesterase for weeks, which makes this poison particularly lethal.
+正常 resting 狀態時，浸泡肌原纖維的細胞質中鈣離子濃度（約 10⁻⁷ M）太低，無法引發收縮。因此 troponin-tropomyosin 複合體保持 actin 絲被抑制，維持肌肉的弛緩狀態。
 
-**Drugs That <span class="c-green">Block</span> Transmission at the <span class="c-pink">Neuromuscular Junction</span>.** A group of drugs known as curariform drugs can prevent the passage of impulses from the nerve ending into the muscle. For example, d-tubocurarine <span class="c-green">blocks</span> the action of <span class="c-cyan">acetylcholine</span> on the muscle fiber <span class="c-cyan">acetylcholine</span> receptors, thus preventing sufficient increase in permeability of the muscle membrane channels to initiate an <span class="c-yellow">action potential</span>.
+相反，T tubule 和肌漿網系統的完全興奮導致足夠的鈣離子釋放，使肌原纖維液中的濃度增加到高達 2 × 10⁻⁴ M，約增加 500 倍，是引發最大肌肉收縮所需濃度的 10 倍。此後不久，鈣幫浦再次耗竭鈣離子。在普通骨骼肌纖維中，這個鈣離子脈衝的總持續時間約為 1/20 秒（50 毫秒）。
 
-UNIT II
+## 惡性高熱（Malignant Hyperthermia）
 
-**Myasthenia Gravis Causes Muscle Weakness**
+在易感個體中，接觸某些麻醉劑（如 halothane 和 isoflurane）或 succinylcholine 可能觸發惡性高熱和超高代謝危機。至少有六種基因突變（尤其是 ryanodine 受體或二氫吡啶受體基因）大大增加麻醉期間發生惡性高熱的易感性。
 
-Myasthenia gravis, which occurs in about 1 in every 20,000 persons, causes muscle weakness because of the inability of the <span class="c-pink">neuromuscular junction</span> to transmit enough signals from the nerve fibers to the muscle fibers. Antibodies that attack the <span class="c-cyan">acetylcholine</span> receptors have been demonstrated in the blood of most patients with myasthenia gravis. Therefore, myasthenia gravis is believed to be an autoimmune disease in which the patients have developed antibodies that <span class="c-green">block</span> or destroy their own <span class="c-cyan">acetylcholine</span> receptors at the postsynaptic <span class="c-pink">neuromuscular junction</span>.
+這些突變導致鈣離子從肌漿網不受管制地進入細胞內空間，導致肌肉纖維過度收縮。這些持續的肌肉收縮大大增加代謝率，產生大量熱量並導致細胞酸中毒，以及能量儲備耗竭。
 
-Regardless of the cause, the end plate potentials that occur in the muscle fibers are mostly too weak to initiate opening of the voltage-gated sodium channels, and muscle fiber <span class="c-yellow">depolarization</span> does not occur. If the disease is intense enough, the patient may die of respiratory failure as a result of severe weakness of the respiratory muscles. The disease can usually be ameliorated for several hours by administering neostigmine or some other anticholinesterase drug, which allows larger than normal amounts of <span class="c-cyan">acetylcholine</span> to accumulate in the synaptic space. Within minutes, some of those affected can begin to function almost normally until a new dose of neostigmine is required a few hours later.
-
-**MUSCLE <span class="c-yellow">ACTION POTENTIAL</span>**
-
-Almost everything discussed in Chapter 5 regarding the initiation and conduction of action potentials in nerve fibers applies equally to skeletal muscle fibers, except for quantitative differences. Some of the quantitative aspects of muscle potentials are as follows:
-
-1. The resting <span class="c-yellow">membrane potential</span> is about −80 to −90 millivolts in skeletal fibers, about 10 to 20 millivolts more negative than in neurons.
-
-2. The duration of the <span class="c-yellow">action potential</span> is 1 to 5 milliseconds in skeletal muscle, about five times as long as in large myelinated nerves.
-
-3. The velocity of conduction is 3 to 5 m/sec, about 1/13 the velocity of conduction in the large myelinated nerve fibers that <span class="c-green">excite</span> skeletal muscle.
-
-**Action Potentials Spread to the Interior of the Muscle Fiber by Way of Transverse Tubules**
-
-The skeletal muscle fiber is so large that action potentials spreading along its surface membrane cause almost no current flow deep within the fiber. Maximum muscle contraction, however, requires the current to penetrate deeply into the muscle fiber to the vicinity of the separate myofibrils. This penetration is achieved by transmission of action potentials along transverse tubules (T tubules) that penetrate all the way through the muscle fiber, from one side of the fiber to the other, as illustrated in Figure 7-5. The T tubule action potentials cause release of calcium ions inside the muscle fiber in the immediate vicinity of the myofibrils, and these calcium ions then cause contraction. The overall process is called excitation-contraction coupling.
-
-**EXCITATION-CONTRACTION COUPLING**
-
-**Transverse Tubule–Sarcoplasmic Reticulum System**
-
-Figure 7-5 shows myofibrils surrounded by the T tubule-<span class="c-yellow">sarcoplasmic reticulum</span> system. The T tubules are small and run transverse to the myofibrils. They begin at the cell membrane and penetrate all the way from one side of the muscle fiber to the opposite side. Not shown in the figure is that these tubules branch among themselves and form entire planes of T tubules interlacing among all the separate myofibrils. Also, where the T tubules originate from the cell membrane, they are open to the exterior of the muscle fiber. Therefore, they communicate with the extracellular fluid surrounding the muscle fiber and contain extracellular fluid in their lumens. In other words, the T tubules are actually internal extensions of the cell membrane. Therefore, when an <span class="c-yellow">action potential</span> spreads over a muscle fiber membrane, a potential change also spreads along the T tubules to the deep interior of the muscle fiber. The electrical currents surrounding these T tubules then elicit the muscle contraction.
-
-Figure 7-5 also shows a <span class="c-yellow">sarcoplasmic reticulum</span>. This <span class="c-yellow">sarcoplasmic reticulum</span> is composed of two major parts:
-- Large chambers called terminal cisternae that abut the T tubules
-- Long longitudinal tubules that surround all surfaces of the contracting myofibrils
-
-**Release of Calcium Ions by the <span class="c-yellow">Sarcoplasmic Reticulum</span>**
-
-One of the special features of the <span class="c-yellow">sarcoplasmic reticulum</span> is that within its vesicular tubules is an excess of calcium ions in high concentration. Many of these ions are released from each vesicle when an <span class="c-yellow">action potential</span> occurs in the adjacent T tubule.
-
-Figures 7-6 and 7-7 show that the <span class="c-yellow">action potential</span> of the T tubule causes current flow into the sarcoplasmic reticular cisternae where they abut the T tubule. As the <span class="c-yellow">action potential</span> reaches the T tubule, the voltage change is sensed by dihydropyridine receptors linked to calcium release channels, also called ryanodine receptor channels, in the adjacent sarcoplasmic reticular cisternae (see Figure 7-6). Activation of dihydropyridine receptors triggers the opening of the calcium release channels in the cisternae, as well as in their attached longitudinal tubules. These channels remain open for a few milliseconds, releasing calcium ions into the sarcoplasm surrounding the myofibrils and causing contraction, as discussed in Chapter 6.
-
-**Calcium Pump Removes Calcium Ions from the Myofibrillar Fluid After Contraction Occurs.** Once the calcium ions have been released from the sarcoplasmic tubules and have diffused among the myofibrils, muscle contraction continues as long as the calcium ion concentration remains high. However, a continually active calcium pump located in the walls of the <span class="c-yellow">sarcoplasmic reticulum</span> pumps calcium ions away from the myofibrils back into the sarcoplasmic tubules (see Figure 7-6). This pump, called SERCA (<span class="c-yellow">sarcoplasmic reticulum</span> Ca²⁺-ATPase), can concentrate the calcium ions about 10,000-fold inside the tubules. In addition, inside the reticulum is a calcium-binding protein called calsequestrin, which can bind up to 40 calcium ions for each molecule of calsequestrin.
-
-**Excitatory Pulse of Calcium Ions.** The normal resting state concentration (<10⁻⁷ molar) of calcium ions in the cytosol that bathes the myofibrils is too little to elicit contraction. Therefore, the troponin-tropomyosin complex keeps the actin filaments <span class="c-green">inhibit</span>ed and maintains a relaxed state of the muscle.
-
-Conversely, full excitation of the T tubule and <span class="c-yellow">sarcoplasmic reticulum</span> system causes enough release of calcium ions to increase the concentration in the myofibrillar fluid to as high as 2 × 10⁻⁴ molar concentration, a 500-fold increase, which is about 10 times the level required to cause maximum muscle contraction. Immediately thereafter, the calcium pump depletes the calcium ions again. The total duration of this calcium pulse in the usual skeletal muscle fiber lasts about 1/20 of a second, although it may last several times as long in some fibers and several times less in others. In heart muscle, the calcium pulse lasts about one-third of a second because of the long duration of the cardiac <span class="c-yellow">action potential</span>.
-
-During this calcium pulse, muscle contraction occurs. If the contraction is to continue without interruption for long intervals, a series of calcium pulses must be initiated by a continuous series of repetitive action potentials, as discussed in Chapter 6.
-
-<span class="c-pink">A band</span>
-
-<span class="c-pink">H zone</span>
-
-M line
-
-<span class="c-pink">Z disk</span>
-
-I band
-
-Myofibrils
-
-<span class="c-pink">Z disk</span>
-
-Sarcotubules
-
-Sarcolemma
-
-Transverse tubule
-
-Transverse tubule
-
-Terminal cisternae
-
-Triad of the reticulum
-
-Mitochondrion
-
-Sarcoplasmic reticulum
-
-Figure 7-5. Transverse (T) tubule-<span class="c-yellow">sarcoplasmic reticulum</span> system. Note that the T tubules communicate with the outside of the cell membrane and, deep in the muscle fiber, each T tubule lies adjacent to the ends of longitudinal <span class="c-yellow">sarcoplasmic reticulum</span> tubules that surround all sides of the actual myofibrils that contract. This illustration was drawn from frog muscle, which has one T tubule per <span class="c-pink">sarcomere</span>, located at the <span class="c-pink">Z disk</span>. A similar arrangement is found in mammalian heart muscle, but mammalian skeletal muscle has two T tubules per <span class="c-pink">sarcomere</span>, located at the A-<span class="c-pink">I band</span> junctions.
-
-<span class="c-red">Malignant Hyperthermia</span>
-
-In susceptible individuals, <span class="c-red">malignant hyperthermia</span> and a hypermetabolic crisis may be triggered by exposure to certain types of anesthetics, including halothane and isoflurane, or succinylcholine. At least six genetic mutations, especially of the ryanodine receptor or dihydropyridine receptor genes, have been shown to increase susceptibility greatly to developing <span class="c-red">malignant hyperthermia</span> during anesthesia. Little is known about the specific mechanisms responsible for the fulminant hypermetabolic response in affected individuals.
-
-<span class="c-pink">A band</span>
-
-<span class="c-pink">H zone</span>
-
-M line
-
-<span class="c-pink">Z disk</span>
-
-I band
-
-Myofibrils
-
-<span class="c-pink">Z disk</span>
-
-Sarcotubules
-
-Sarcolemma
-
-Transverse tubule
-
-Transverse tubule
-
-Terminal cisternae
-
-Triad of the reticulum
-
-Mitochondrion
-
-Sarcoplasmic reticulum
-
-Figure 7-5. Transverse (T) tubule-<span class="c-yellow">sarcoplasmic reticulum</span> system. Note that the T tubules communicate with the outside of the cell membrane and, deep in the muscle fiber, each T tubule lies adjacent to the ends of longitudinal <span class="c-yellow">sarcoplasmic reticulum</span> tubules that surround all sides of the actual myofibrils that contract. This illustration was drawn from frog muscle, which has one T tubule per <span class="c-pink">sarcomere</span>, located at the <span class="c-pink">Z disk</span>. A similar arrangement is found in mammalian heart muscle, but mammalian skeletal muscle has two T tubules per <span class="c-pink">sarcomere</span>, located at the A-<span class="c-pink">I band</span> junctions.
-
-<span class="c-pink">A band</span>
-
-<span class="c-pink">H zone</span>
-
-M line
-
-<span class="c-pink">Z disk</span>
-
-I band
-
-Myofibrils
-
-<span class="c-pink">Z disk</span>
-
-Sarcotubules
-
-Sarcolemma
-
-Transverse tubule
-
-Transverse tubule
-
-Terminal cisternae
-
-Triad of the reticulum
-
-Mitochondrion
-
-Sarcoplasmic reticulum
-
-Figure 7-5. Transverse (T) tubule-<span class="c-yellow">sarcoplasmic reticulum</span> system. Note that the T tubules communicate with the outside of the cell membrane and, deep in the muscle fiber, each T tubule lies adjacent to the ends of longitudinal <span class="c-yellow">sarcoplasmic reticulum</span> tubules that surround all sides of the actual myofibrils that contract. This illustration was drawn from frog muscle, which has one T tubule per <span class="c-pink">sarcomere</span>, located at the <span class="c-pink">Z disk</span>. A similar arrangement is found in mammalian heart muscle, but mammalian skeletal muscle has two T tubules per <span class="c-pink">sarcomere</span>, located at the A-<span class="c-pink">I band</span> junctions.
-
-<span class="c-pink">A band</span>
-
-<span class="c-pink">H zone</span>
-
-M line
-
-<span class="c-pink">Z disk</span>
-
-I band
-
-Myofibrils
-
-<span class="c-pink">Z disk</span>
-
-Sarcotubules
-
-Sarcolemma
-
-Transverse tubule
-
-Transverse tubule
-
-Terminal cisternae
-
-Triad of the reticulum
-
-Mitochondrion
-
-Sarcoplasmic reticulum
-
-Figure 7-5. Transverse (T) tubule-<span class="c-yellow">sarcoplasmic reticulum</span> system. Note that the T tubules communicate with the outside of the cell membrane and, deep in the muscle fiber, each T tubule lies adjacent to the ends of longitudinal <span class="c-yellow">sarcoplasmic reticulum</span> tubules that surround all sides of the actual myofibrils that contract. This illustration was drawn from frog muscle, which has one T tubule per <span class="c-pink">sarcomere</span>, located at the <span class="c-pink">Z disk</span>. A similar arrangement is found in mammalian heart muscle, but mammalian skeletal muscle has two T tubules per <span class="c-pink">sarcomere</span>, located at the A-<span class="c-pink">I band</span> junctions.
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-Action potential
-
-Ca²⁺
-
-Ca²⁺
-
-Ca²⁺
-
-Ca²⁺
-
-Release Channel (RyR) (open)
-
-DHP receptor
-
-Ca²⁺ Release Channel (RyR) (closed)
-
-Terminal cisternae
-
-Sarcoplasmic reticulum
-
-Nerve terminal
-
-<span class="c-yellow">Repolarization</span>
-
-Calsequestrin
-
-SERCA
-
-Figure 7-6. Excitation-contraction coupling in skeletal muscle. The top panel shows an <span class="c-yellow">action potential</span> in the transverse tubule that causes a conformational change in the voltage-sensing dihydropyridine (DHP) receptors, opening the ryanodine (RyR) Ca²⁺ release channels in the terminal cisternae of the <span class="c-yellow">sarcoplasmic reticulum</span> and permitting Ca²⁺ to diffuse rapidly into the sarcoplasm and initiate muscle contraction. During <span class="c-yellow">repolarization</span> (bottom panel), the conformational change in the DHP receptor closes the Ca²⁺ release channels, and Ca²⁺ is transported from the sarcoplasm into the <span class="c-yellow">sarcoplasmic reticulum</span> by an <span class="c-cyan">adenosine triphosphate</span>–dependent calcium pump, called SERCA (<span class="c-yellow">sarcoplasmic reticulum</span> Ca²⁺-ATPase).
-
-<span class="c-yellow">Action potential</span>
-
-Calcium pump
-
-<span class="c-cyan">ATP</span> required
-
-Actin filaments
-
-Sarcolemma
-
-Myosin filaments
-
-Ca
-
-Ca
-
-Ca²⁺
-
-Ca²⁺
-
-Figure 7-7. Excitation-contraction coupling in the muscle, showing (1) an <span class="c-yellow">action potential</span> that causes release of calcium ions from the sarcoplasmic reticulum and then (2) re-uptake of the calcium ions by a calcium pump. <span class="c-cyan">ATP</span>, <span class="c-cyan">adenosine triphosphate</span>.
-
-UNIT II
-
----
-
-Note: The original input contains duplicate Figure 7-5 content that appears multiple times in the source text. This appears to be part of the original document structure where the figure was referenced in multiple sections.
-
-UNIT II Membrane Physiology, Nerve, and Muscle
-
-whereby anesthetics interact with these abnormal receptors to trigger <span class="c-red">malignant hyperthermia</span>. It is known, however, that these mutations cause unregulated passage of calcium from the <span class="c-yellow">sarcoplasmic reticulum</span> into the intracellular spaces, which in turn causes the muscle fibers to contract excessively. These sustained muscle contractions greatly increase metabolic rate, generating large amounts of heat and causing cellular acidosis, as well as depletion of energy stores.
-
-Symptoms of malignant hyperthermia include muscle rigidity, high fever, and rapid heart rate. Additional complications in severe cases may include rapid breakdown of skeletal muscle (rhabdomyolysis) and a high plasma potassium level due to release of large amounts of potassium from damaged muscle cells. Treatment of <span class="c-red">malignant hyperthermia</span> generally involves rapid cooling and the administration of dantrolene, a drug that antagonizes ryanodine receptors, which <span class="c-green">inhibits</span> calcium ion release from the <span class="c-yellow">sarcoplasmic reticulum</span> and thereby attenuates muscle contraction.
-
-Bibliography
-
-Also see the bibliography for Chapters 5 and 6.
-
-- Bouzat C, Sine SM. Nicotinic <span class="c-cyan">acetylcholine</span> receptors at the single-channel level. Br J Pharmacol 175:1789-1804, 2018.
-- Cheng H, Lederer WJ: Calcium sparks. Physiol Rev 88:1491, 2008.
-- Dalakas MC. Immunotherapy in myasthenia gravis in the era of biologics. Nat Rev Neurol 15:113-124, 2019.
-- Gilhus NE. Myasthenia gravis. N Engl J Med 37:2570-2581, 2016.
-- Jungbluth H, Treves S, Zorzato F, Sarkozy A, Ochala J, Sewry C, et al. Congenital myopathies: disorders of excitation-contraction coupling and muscle contraction. Nat Rev Neurol 14:151-167, 2018.
-- Meissner G. The structural basis of ryanodine receptor ion channel function. J Gen Physiol 149:1065-1089, 2017.
-- Periasamy M, Maurya SK, Sahoo SK, Singh S, Sahoo SK, Reis FCG, et al. Role of SERCA pump in muscle thermogenesis and metabolism. Compr Physiol 7:879-890, 2017.
-- Rekling JC, Funk GD, Bayliss DA, et al: Synaptic control of motoneuronal excitability. Physiol Rev 80:767, 2000.
-- Rosenberg PB: Calcium entry in skeletal muscle. J Physiol 587:3149, 2009.
-- Ruff RL, Lisak RP. Nature and action of antibodies in myasthenia gravis. Neurol Clin 36:275-291, 2018.
-- Ruff RL: Endplate contributions to the safety factor for neuromuscular transmission. Muscle Nerve 44:854, 2011.
-- Sine SM: End-plate <span class="c-cyan">acetylcholine</span> receptor: structure, mechanism, pharmacology, and disease. Physiol Rev 92:1189, 2012.
-- Tintignac LA, Brenner HR, Rüegg MA. Mechanisms regulating neuromuscular junction development and function and causes of muscle wasting. Physiol Rev 95:809-852, 2015.
-- Vincent A: Unraveling the pathogenesis of myasthenia gravis. Nat Rev Immunol 10:797, 2002.
-
-CONTRACTION OF SMOOTH MUSCLE
-
-Smooth muscle is composed of small fibers that are usually 1 to 5 micrometers in diameter and only 20 to 500 micrometers in length. In contrast, skeletal muscle fibers are as much as 30 times greater in diameter and hundreds of times as long. Many of the same principles of contraction apply to smooth muscle as to skeletal muscle. Most important, essentially the same attractive forces between myosin and actin filaments cause contraction in smooth muscle as in skeletal muscle, but the internal physical arrangement of smooth muscle fibers is different.
-
-TYPES OF SMOOTH MUSCLE
-
-The smooth muscle of each organ is distinctive from that of most other organs in several ways:
-
-1. Physical dimensions
-2. Organization into bundles or sheets
-3. Response to different types of stimuli
-4. Characteristics of innervation
-5. Function
-
-Yet, for the sake of simplicity, smooth muscle can generally be divided into two major types, which are shown in Figure 8-1: multi-unit smooth muscle and unitary (or single-unit) smooth muscle.
-
-**Multi-Unit Smooth Muscle.** Multi-unit smooth muscle is composed of discrete, separate, smooth muscle fibers. Each fiber operates independently of the others and often is innervated by a single nerve ending, as occurs for skeletal muscle fibers. Furthermore, the outer surfaces of these fibers, like those of skeletal muscle fibers, are covered by a thin layer of basement membrane–like substance, a mixture of fine collagen and glycoprotein that helps insulate the separate fibers from one another.
-
-Important characteristics of multi-unit smooth muscle fibers are that each fiber can contract independently of the others, and their control is exerted mainly by nerve signals. In contrast, a major share of control of unitary smooth muscle is exerted by non-nervous stimuli. Some examples of multi-unit smooth muscle are:
-
-- The ciliary muscle of the eye
-- The iris muscle of the eye
-- The piloerector muscles that cause erection of the hairs when <span class="c-green">stimulated</span> by the <span class="c-yellow">sympathetic</span> nervous system
-
-**Unitary Smooth Muscle.** Unitary smooth muscle is also called syncytial smooth muscle or visceral smooth muscle. The term unitary does not mean single muscle fibers. Instead, it means a mass of hundreds to thousands of smooth muscle fibers that contract together as a single unit. The fibers usually are arranged in sheets or bundles, and their cell membranes are adherent to one another at multiple points so that force generated in one muscle fiber can be transmitted to the next. In addition, the cell membranes are joined by many gap junctions through which ions can flow freely from one muscle cell to the next so that action potentials, or ion flow without action potentials, can travel from one fiber to the next and cause the muscle fibers to contract together.
-
-This type of smooth muscle is also known as syncytial smooth muscle because of its syncytial interconnections among fibers. It is also called visceral smooth muscle because it is found in the walls of most viscera of the body, including:
-
-- The gastrointestinal tract
-- Bile ducts
-- Ureters
-- Uterus
-- Many blood vessels
-
-CONTRACTILE MECHANISM IN SMOOTH MUSCLE
-
-**Chemical Basis for Smooth Muscle Contraction**
-
-Smooth muscle contains both actin and myosin filaments, having chemical characteristics similar to those of the actin and myosin filaments in skeletal muscle. It does not contain the troponin complex that is required for the control of skeletal muscle contraction, and thus the mechanism for controlling contraction is different. This topic is discussed in more detail later in this chapter.
-
-Chemical studies have shown that actin and myosin filaments derived from smooth muscle interact with each other in much the same way that they do in skeletal muscle. Furthermore, the contractile process is <span class="c-green">activated</span> by calcium ions, and <span class="c-cyan">adenosine triphosphate</span> (<span class="c-cyan">ATP</span>) is degraded to adenosine diphosphate (ADP) to provide the energy for contraction.
-
-There are, however, major differences between the physical organization of smooth muscle and that of skeletal muscle, as well as differences in excitation-contraction coupling, control of the contractile process by calcium ions, duration of contraction, and the amount of energy required for contraction.
-
-**Physical Basis for Smooth Muscle Contraction**
-
-Smooth muscle does not have the same striated arrangement of actin and myosin filaments as is found in skeletal muscle. Instead, electron micrographic techniques suggest the physical organization shown in Figure 8-2, which illustrates large numbers of actin filaments attached to dense bodies. Some of these bodies are attached to the cell membrane, and others are dispersed inside the cell. Some of the membrane-dense bodies of adjacent cells are bonded together by intercellular protein bridges. It is mainly through these bonds that the force of contraction is transmitted from one cell to the next.
-
-Interspersed among the actin filaments in the muscle fiber are myosin filaments. These filaments have a diameter more than twice that of the actin filaments. In electron micrographs, 5 to 10 times as many actin filaments as myosin filaments are usually found.
-
-To the right in Figure 8-2 is a postulated structure of an individual contractile unit in a smooth muscle cell, showing large numbers of actin filaments radiating from two dense bodies; the ends of these filaments overlap a myosin filament located midway between the dense bodies. This contractile unit is similar to the contractile unit of skeletal muscle, but without the regularity of the skeletal muscle structure. In fact, the dense bodies of smooth muscle serve the same role as the Z disks in skeletal muscle.
-
-Another difference is that most of the myosin filaments have "side polar" cross-bridges arranged so that the bridges on one side hinge in one direction, and those on the other side hinge in the opposite direction. This configuration allows the myosin to pull an <span class="c-pink">actin filament</span> in one direction on one side while simultaneously pulling another actin filament in the opposite direction on the other side. The value of this organization is that it allows smooth muscle cells to contract as much as 80% of their length instead of being limited to less than 30%, as occurs in skeletal muscle.
-
-**Comparison of Smooth Muscle Contraction and Skeletal Muscle Contraction**
-
-Although most skeletal muscles contract and relax rapidly, most smooth muscle contraction is prolonged tonic contraction, sometimes lasting hours or even days. Therefore, it is to be expected that both the physical and chemical characteristics of smooth muscle versus skeletal muscle contraction would differ. Some of the differences are noted in the following sections.
-
-**Figure 8-2.** Physical structure of smooth muscle. The fiber on the upper left shows actin filaments radiating from dense bodies. The fiber on the lower left and at right demonstrate the relation of myosin filaments to actin filaments.
-
-**Figure 8-1.** Multi-unit (A) and unitary (B) smooth muscle. A: Multi-unit smooth muscle. B: Unitary smooth muscle.
-
-UNIT II Membrane Physiology, Nerve, and Muscle
-
-Excitation and Contraction of Smooth Muscle
-
-CHAPTER 8
-
-UNIT II
+症狀包括肌肉強直、高熱和心率加快。嚴重病例的額外併發症包括骨骼肌快速分解（rhabdomyolysis）和血漿鉀離子水平升高（因為受損肌肉細胞釋放大量鉀離子）。治療通常包括快速降溫和給予 dantrolene（一種拮抗 ryanodine 受體的藥物），抑制肌漿網釋放鈣離子，從而減弱肌肉收縮。

@@ -3,151 +3,166 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH35"
 title: "Resistance of the Body to Infection: II. Immunity and Allergy"
 book: "Guyton & Hall"
-summary: "Chapter CH35 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
+summary: "本章探討人體抵禦感染的後天免疫機制，包括 T 淋巴細胞與 B 淋巴細胞的分化與功能、T 淋巴細胞在胸腺中的陰性選擇過程、B 淋巴細胞產生的抗體結構與分類，以及抗體如何透過直接作用與補體系統消滅病原體。內容涵蓋免疫球蛋白的五種主要類別（IgG、IgM、IgA、IgD、IgE）及其生物學特性，並說明記憶細胞如何形成長效免疫記憶。"
 key_points:
   - "Content extracted directly from official Guyton & Hall PDF source"
 ---
 
-# PREPROCESSING OF T AND B LYMPHOCYTES
+# Chapter 35 免疫力與過敏：人體對感染的後天抵抗
 
-Although all lymphocytes in the body originate from lymphocyte-committed stem cells of the embryo, these stem cells are incapable of forming activated T lymphocytes or antibodies directly. Before they can do so, they must be further differentiated in appropriate processing areas, as follows.
+## 章節導讀
 
-## THYMUS GLAND PREPROCESSES T LYMPHOCYTES
+免疫系統是人體抵禦外來病原體的複雜防線。本章聚焦於後天免疫（adaptive immunity）的兩大核心：T 淋巴細胞（cell-mediated immunity）與 B 淋巴細胞（humoral immunity）。T 淋巴細胞在胸腺中經歷篩選與教育，僅保留對外来抗原具有反應性的細胞，並透過細胞直接接觸的方式攻擊病原體或異常細胞。B 淋巴細胞則分化為漿細胞，產生大量 antibody（免疫球蛋白）來中和或破壞病原體。抗體的結構由輕鏈與重鏈組成，具有高度特異性的抗原結合位，能精準辨識並與目標抗原結合。補體系統（complement system）則作為抗體的輔助放大機制，透過級聯反應增強對病原體的破壞力。本章亦說明免疫記憶的形成機制，解釋何以疫苗接种能提供長期的疾病保護。
 
-The T lymphocytes, after origination in the bone marrow, first migrate to the thymus gland. Here they divide rapidly and, at the same time, develop extreme diversity for reacting against different specific antigens. That is, one thymic lymphocyte develops specific reactivity against one antigen, and then the next lymphocyte develops specificity against another antigen. This process continues until there are thousands of different types of thymic lymphocytes with specific reactivities against many thousands of different antigens.
+---
 
-These different types of preprocessed T lymphocytes now leave the thymus and spread via the blood throughout the body to lodge in lymphoid tissue everywhere. The thymus also makes certain that any T lymphocytes leaving the thymus will not react against proteins or other antigens that are present in the body's own tissues; otherwise, the T lymphocytes would be lethal to the person's own body in only a few days.
+## T 淋巴細胞與 B 淋巴細胞的前處理
 
-The thymus selects which T lymphocytes will be released by first mixing them with virtually all the specific self-antigens from the body's own tissues. If a T lymphocyte reacts, it is destroyed and phagocytized instead of being released, which happens in up to 90% of the cells. Thus, the only cells that are finally released are those that are nonreactive against the body's own antigens—they react only against antigens from an outside source, such as from a bacterium, toxin, or even transplanted tissue from another person.
+雖然所有淋巴細胞都源自胚胎時期的造血幹細胞，但這些幹細胞無法直接分化為活化的 T 細胞或抗體。它們必須先在特定的「處理區」進一步分化才能獲得功能。
 
-Most of the preprocessing of T lymphocytes in the thymus occurs shortly before the birth of a baby and for a few months after birth. Beyond this period, removal of the thymus gland diminishes (but does not eliminate) the T-lymphocytic immune system. However, removal of the thymus several months before birth can prevent development of all cell-mediated immunity, including rejection of transplanted organs.
+### 胸腺對 T 淋巴細胞的前處理
 
-## LIVER AND BONE MARROW PREPROCESS B LYMPHOCYTES
+T 淋巴細胞在骨髓生成後，首先遷移至胸腺（thymus）進行前處理。在此期間，這些細胞快速分裂並發展出對抗不同特定抗原的多樣性反應能力。每一個胸腺淋巴細胞發展出針對單一抗原的反應特异性，接著下一個細胞發展出針對另一種抗原的特异性，如此持續進行，直到形成數千種具有不同抗原特异性的胸腺淋巴細胞類型。
 
-In humans, B lymphocytes are preprocessed in the liver during midfetal life and in the bone marrow during late fetal life and after birth. B lymphocytes are different from T lymphocytes in two ways:
+這些經前處理的 T 淋巴細胞隨後離開胸腺，經血液分布至全身各處的淋巴組織。胸腺同時肩負確保即將釋放的 T 淋巴細胞不會對自體組織中的蛋白質或其他抗原產生反應的重要任務——否則這些 T 淋巴細胞會在短短數天內對人體造成致命傷害。
 
-1. Instead of the whole cell developing reactivity against the antigen, as occurs for the T lymphocytes, the B lymphocytes actively secrete antibodies that are the reactive agents. These agents are large proteins that are capable of combining with and destroying the antigenic substance, explained elsewhere in this chapter and in Chapter 34.
-2. The B lymphocytes have even greater diversity than the T lymphocytes, thus forming many millions of types of B-lymphocyte antibodies with different specific reactivities.
+胸腺的選擇機制是將 T 淋巴細胞與體內幾乎所有自體抗原混合。凡是會與自體抗原反應的 T 淋巴細胞，都會被摧毀並吞噬，而不是被釋放；這個過程涵蓋高達 90% 的細胞。因此，最終釋放的細胞僅有那些對自體抗原不具反應性、只會對外源性抗原（如來自細菌、毒素或他人移植組織的抗原）產生反應的細胞。
 
-After preprocessing, the B lymphocytes, like the T lymphocytes, migrate to lymphoid tissue throughout the body, where they lodge near but slightly removed from the T-lymphocyte areas.
+大多數 T 淋巴細胞的前處理發生在嬰兒出生前後的短暫期間。過了這個階段後，摘除胸腺會削弱（但不會完全消除）T 淋巴細胞免疫系統。然而，若在出生前數月就移除胸腺，則可能完全阻止細胞媒介免疫的發育，包括移植器官排斥反應的能力。
 
-## T LYMPHOCYTES AND B-LYMPHOCYTE ANTIBODIES REACT AGAINST SPECIFIC ANTIGENS—ROLE OF LYMPHOCYTE CLONES
+### 肝臟與骨髓對 B 淋巴細胞的前處理
 
-When specific antigens come into contact with T and B lymphocytes in the lymphoid tissue, some of the T lymphocytes become activated to form activated T cells, and some of the B lymphocytes become activated to form antibodies. The activated T cells and antibodies, in turn, react highly specifically against the particular types of antigens that initiated their development. The mechanism of this specificity is described next.
+在人體中，B 淋巴細胞在胎兒中期於肝臟進行前處理，於胎兒晚期及出生後則在骨髓中進行。B 淋巴細胞與 T 淋巴細胞有兩個主要差異：
 
-### Millions of Specific Types of Lymphocytes Are Stored in Lymphoid Tissue
+1. **功能方式的差異**：T 淋巴細胞是整個細胞直接與抗原產生反應，而 B 淋巴細胞則是主動分泌抗體（antibody）——這些具有反應活性的巨大蛋白質能與抗原物質結合並將其摧毀。
+2. **多樣性的差異**：B 淋巴細胞的多樣性甚至高於 T 淋巴細胞，能形成數百萬種具有不同特异性的 B 淋巴細胞抗體類型。
 
-Millions of different types of preformed B lymphocytes and preformed T lymphocytes capable of forming highly specific types of antibodies or T cells are stored in the lymph tissue, as explained earlier. Each of these preformed lymphocytes is capable of forming only one type of antibody or one type of T cell with a single type of specificity, and only the specific type of antigen can activate it.
+前處理完成後，B 淋巴細胞與 T 淋巴細胞一樣遷移至全身淋巴組織，不過通常分布在與 T 淋巴細胞區域相鄰但略有區隔的位置。
 
-Once the specific lymphocyte is activated by its antigen, it reproduces wildly, forming tremendous numbers of duplicate lymphocytes. If it is a B lymphocyte, its progeny will eventually secrete the specific type of antibody that then circulates throughout the body. If it is a T lymphocyte, its progeny are specific sensitized T cells that are released into the lymph, carried to the blood, and then circulated through all the tissue fluids and back into the lymph, sometimes circulating around and around in this circuit for months or years.
+---
 
-All the different lymphocytes that are capable of forming one specific antibody or T cell are called a clone of lymphocytes. That is, the lymphocytes in each clone are alike, derived originally from one or a few early lymphocytes of its specific type.
+## T 淋巴細胞與 B 淋巴細胞抗體對特定抗原的反應——淋巴細胞克隆的角色
 
-## ORIGIN OF THE MANY CLONES OF LYMPHOCYTES
+當特定抗原與淋巴組織中的 T 淋巴細胞和 B 淋巴細胞接觸時，部分 T 淋巴細胞會被活化形成活化的 T 細胞（activated T cells），部分 B 淋巴細胞則被活化形成抗體。這些活化的 T 細胞和抗體會高度特異性地與觸發它們生成的特定類型抗原產生反應。
 
-Only several hundred to a few thousand genes code for the millions of different types of antibodies and T lymphocytes. At first, it was a mystery how it was possible for so few genes to code for the millions of different specificities of antibodies or T cells produced by the lymphoid tissue. This mystery has now been solved.
+### 淋巴組織中儲存著數百萬種特定類型的淋巴細胞
 
-The whole gene for forming each type of T cell or B cell is never present in the original stem cells from which the functional immune cells are formed. Instead, there are only gene segments—actually, hundreds of such segments—but not whole genes. During preprocessing of the respective T- and B-cell lymphocytes, these gene segments become mixed with one another in random combinations, finally forming whole genes. Because there are several hundred types of gene segments, as well as millions of different combinations in which the segments can be arranged in single cells, one can understand the millions of different cell gene types that can occur.
+如前所述，淋巴組織中儲存著數百萬種已形成的 B 淋巴細胞和 T 淋巴細胞，它們能夠形成高度特異性的抗體或 T 細胞類型。每一個已形成的淋巴細胞只能形成一種具有單一特异性的抗體或 T 細胞，且只有特定類型的抗原能夠將其活化。
 
-For each functional T or B lymphocyte that is finally formed, the gene structure codes for only a single antigen specificity. These mature cells then become the highly specific T and B cells that spread to and populate the lymphoid tissue.
+一旦特定的淋巴細胞被其對應的抗原活化，它會大量增殖，形成大量的子代淋巴細胞。如果它是 B 淋巴細胞，其子代最終會分泌循環至全身的特定類型抗體。如果它是 T 淋巴細胞，其子代會成為釋放到淋巴中的致敏 T 細胞，經血液傳送到所有組織液，再回流至淋巴，有時這個循環會持續數月甚至數年。
 
-## MECHANISM FOR ACTIVATING LYMPHOCYTE CLONES
+所有能夠形成同一種特定抗體或 T 細胞的不同淋巴細胞稱為一個淋巴細胞克隆（clone）。也就是說，每個克隆中的淋巴細胞彼此相同，最初都源自同一個或少數幾個早期的特定類型淋巴細胞。
 
-Each clone of lymphocytes is responsive to only a single type of antigen (or to several similar antigens that have almost exactly the same stereochemical characteristics). The reason for this is the following.
+---
 
-In the case of the B lymphocytes, each of these has on its cell surface membrane about 100,000 antibody molecules that will react highly specifically with only one type of antigen. Therefore, when the appropriate antigen comes along, it immediately attaches to the antibody in the cell membrane; this leads to the activation process, described in more detail subsequently.
+## 淋巴細胞眾多克隆的起源
 
-In the case of the T lymphocytes, molecules similar to antibodies, called surface receptor proteins (or T-cell receptors), are on the surface of the T-cell membrane, and these are also highly specific for one specified activating antigen. An antigen therefore stimulates only those cells that have complementary receptors for the antigen and are already committed to respond to it.
+僅憑數百到數千個基因，如何能夠編碼數百萬種不同類型的抗體和 T 淋巴細胞一直是免疫學的重大謎題。這個問題如今已經得到解答。
 
-### Role of Macrophages in the Activation Process
+每一種 T 細胞或 B 細胞的形成基因，最初並非完整存在於功能免疫細胞形成的原始幹細胞中。相反地，這些基因只以「基因片段」的形式存在——實際上有數百個這樣的片段，但並非完整基因。在 T 細胞和 B 細胞淋巴細胞的前處理過程中，這些基因片段以隨機組合的方式相互混合，最終形成完整的基因。由於存在數百種類型的基因片段，加上每個細胞中這些片段可以排列組合的方式達到數百萬種，因此可以理解為何淋巴組織能夠產生如此多樣的細胞基因類型。
 
-Aside from the lymphocytes in lymphoid tissue, literally millions of macrophages are also present in the same tissue. These macrophages line the sinusoids of the lymph nodes, spleen, and other lymphoid tissue, and they lie in apposition to many of the lymph node lymphocytes.
+對於最終形成的每一個功能性 T 細胞或 B 細胞，其基因結構只編碼單一的抗原特異性。這些成熟細胞隨後成為高度特異性的 T 細胞和 B 細胞，並散布分布於淋巴組織中。
 
-Most invading organisms are first phagocytized and partially digested by the macrophages, and the antigenic products are liberated into the macrophage cytosol. The macrophages then pass these antigens by cell-to-cell contact directly to the lymphocytes, thus leading to activation of the specified lymphocytic clones. The macrophages, in addition, secrete a special activating substance, interleukin-1, that promotes still further growth and reproduction of the specific lymphocytes.
+### 淋巴細胞克隆的活化機制
 
-### Role of T Cells in Activation of B Lymphocytes
+每一個淋巴細胞克隆只能對單一抗原（或具有幾乎相同立體化學特性的少數幾種相似抗原）產生反應。原因如下：
 
-Most antigens activate both T lymphocytes and B lymphocytes at the same time. Some of the T cells that are formed, called T-helper cells, secrete specific substances (collectively called lymphokines) that activate the specific B lymphocytes. Indeed, without the aid of these T-helper cells, the quantity of antibodies formed by the B lymphocytes is usually small. We discuss this cooperative relationship between helper T cells and B cells after describing the mechanisms of the T-cell system of immunity.
+在 B 淋巴細胞方面，每個 B 淋巴細胞的細胞膜表面約有 100,000 個抗體分子，這些分子只會高度特異性地與某一種類型的抗原結合。因此，當對應的抗原出現時，它會立即附著在細胞膜上的抗體上，進而觸發活化程序。
 
-## SPECIFIC ATTRIBUTES OF THE B-LYMPHOCYTE SYSTEM—HUMORAL IMMUNITY AND ANTIBODIES
+在 T 淋巴細胞方面，細胞膜表面具有類似抗體的分子，稱為表面受體蛋白（或 T 細胞受體），這些分子也對單一特定活化抗原具有高度特異性。因此，一個抗原只會刺激那些具有互補受體且已準備好對其產生反應的細胞。
 
-### Antibody Formation by Plasma Cells
+### 巨噬細胞在活化過程中的角色
 
-Before exposure to a specific antigen, the clones of B lymphocytes remain dormant in the lymphoid tissue. On entry of a foreign antigen, macrophages in lymphoid tissue phagocytize the antigen and then present it to adjacent B lymphocytes. In addition, the antigen is presented to T cells at the same time, and activated T-helper cells are formed. These helper cells also contribute to extreme activation of the B lymphocytes, as discussed later.
+淋巴組織中除了淋巴細胞外，還有數百萬個巨噬細胞。這些巨噬細胞沿著淋巴結、脾臟和其他淋巴組織的竇狀隙排列，並與許多淋巴結淋巴細胞相鄰接。
 
-The B lymphocytes specific for the antigen immediately enlarge and take on the appearance of lymphoblasts. Some of the lymphoblasts further differentiate to form plasmablasts, which are precursors of plasma cells. In the plasmablasts, the cytoplasm expands, and the rough endoplasmic reticulum proliferates vastly. The plasma blasts then begin to divide at a rate of about once every 10 hours for about nine divisions, giving a total population of about 500 cells for each original plasmablast in 4 days. The mature plasma cell then produces gamma globulin antibodies at an extremely rapid rate—about 2000 molecules per second for each plasma cell. In turn, the antibodies are secreted into the lymph and carried to the circulating blood. This process continues for several days or weeks until, finally, exhaustion and death of the plasma cells occur.
+大多數入侵的病原體首先被巨噬細胞吞噬並部分消化，抗原產物隨後釋放到巨噬細胞的細胞質中。巨噬細胞接著透過細胞對細胞的直接接觸將這些抗原傳遞給淋巴細胞，從而導致特定淋巴細胞克隆的活化。此外，巨噬細胞還分泌一種特殊的活化物質——介白素-1（interleukin-1），進一步促進特定淋巴細胞的生長和增殖。
 
-### Formation of Memory Cells Enhances Antibody Response to Subsequent Antigen Exposure
+### T 細胞在 B 淋巴細胞活化中的角色
 
-A few of the lymphoblasts formed by activation of a clone of B lymphocytes do not go on to form plasma cells but, instead, form moderate numbers of new B lymphocytes similar to those of the original clone. In other words, the B-cell population of the specifically activated clone becomes greatly enhanced, and the new B lymphocytes are added to the original lymphocytes of the same clone. They also circulate throughout the body to populate all the lymphoid tissue; immunologically, however, they remain dormant until activated once again by a new quantity of the same antigen.
+大多數抗原會同時活化 T 淋巴細胞和 B 淋巴細胞。部分形成的 T 細胞稱為 T 輔助細胞（helper T cells），能分泌特定的物質（統稱為淋巴激素），進而活化特定的 B 淋巴細胞。事實上，如果沒有這些 T 輔助細胞的協助，B 淋巴細胞所形成的抗體數量通常很少。
 
-These lymphocytes are called memory cells. Subsequent exposure to the same antigen will cause a much more rapid and potent antibody response this second time around because there are many more memory cells than there were original B lymphocytes of the specific clone.
+---
+
+## B 淋巴細胞系統的特性——體液免疫與抗體
+
+### 漿細胞的抗體生成
+
+在接觸特定抗原之前，B 淋巴細胞的克隆在淋巴組織中保持休眠狀態。當外源性抗原進入體內時，淋巴組織中的巨噬細胞會吞噬抗原並將其呈現給相鄰的 B 淋巴細胞。同時，抗原也會被呈現給 T 細胞，並形成活化的 T 輔助細胞。這些輔助細胞也有助於 B 淋巴細胞的強烈活化。
+
+針對該抗原的 B 淋巴細胞立即增大並呈現淋巴母細胞的外觀。部分淋巴母細胞進一步分化形成前漿細胞（plasmablast），這是漿細胞的前驅細胞。在前漿細胞中，細胞質擴張，粗糙內質網大量增殖。前漿細胞接著開始分裂，大約每 10 小時分裂一次，持續約九次分裂，在 4 天內從每個原始前漿細胞產生約 500 個細胞。成熟的漿細胞隨後開始以極快的速度產生丙種球蛋白抗體——每個漿細胞每秒約產生 2000 個抗體分子。這些抗體隨後分泌到淋巴中並帶入循環血液。這個過程持續數天到數週，直到漿細胞耗竭並死亡。
+
+### 記憶細胞的形成增強後續抗原接觸時的抗抗體反應
+
+由 B 淋巴細胞克隆活化形成的淋巴母細胞中，部分不會繼續形成漿細胞，而是產生適量新的 B 淋巴細胞，其類型與原始克隆相同。換句話說，特定活化克隆的 B 細胞數量大幅增加，這些新的 B 淋巴細胞被添加到相同克隆的原始淋巴細胞中。它們也會在全身循環並分布到所有淋巴組織；然而在免疫學上，它們保持休眠狀態，直到再次被相同抗原活化。
+
+這些淋巴細胞稱為記憶細胞（memory cells）。後續接觸相同抗原時，會引發比第一次更快速、更強烈的抗體反應，因為此時記憶細胞的數量遠比原始特定克隆的 B 淋巴細胞更多。
 
 **Figure 35-3.** Time course of the antibody response in the circulating blood to a primary injection of antigen and to a secondary injection several weeks later.
 
-The increased potency and duration of the secondary response explain why immunization is usually accomplished by injecting antigen in multiple doses, with periods of several weeks or several months between injections.
+這種二免反應（secondary response）的增強效力和持久性，解釋了何以疫苗接种通常採用多次注射抗原的方式，且每次注射之間間隔數週或數月。
 
-### Generation of Lifelong Immunity by Plasma Cells
+### 漿細胞形成終身免疫
 
-When naïve B lymphocytes encounter their associated antigens, become activated, and undergo clonal expansion, they differentiate into short-lived or long-lived plasma cells that produce large amounts of antibodies. The short-lived plasma cells provide rapid protection but undergo apoptosis after a few days of intense antibody secretion. However, the long-lived plasma cells reside in tissues such as the bone marrow and gut-associated lymphoid tissue and can continue producing antibodies for many years, providing lifelong immunity against infectious diseases such as measles and smallpox.
+當初始 B 淋巴細胞接觸其對應抗原、被活化並進行克隆擴增後，它們會分化為短壽命或長壽命的漿細胞，產生大量抗體。短壽命漿細胞提供快速的保護，但在數天激烈的抗體分泌後會經歷細胞凋亡。然而，長壽命漿細胞存在於骨髓和腸道相關淋巴組織等組織中，能夠持續產生抗體達數年之久，為麻疹和天花等傳染病提供終身免疫。
 
-High titers of smallpox-specific antibodies, for example, have been detected in the blood of subjects vaccinated in childhood, 70 years previously. Also, older survivors of the 1918 H1N1 influenza virus pandemic were shown to possess highly functional, virus-neutralizing antibodies to this virulent virus 90 years after they were infected. Thus, plasma cells that produce virus-neutralizing antibodies can be sustained for many decades after exposure, even into the tenth decade of life in humans.
+例如，在童年時期接种天花疫苗的個體血液中，70 年後仍可檢測到高滴度的天花特異性抗體。此外，1918 年 H1N1 流感大流行年長康復者的血液中，在感染後 90 年仍可檢測到具有功能、能中和病毒抗體。因此，能產生病毒中和抗體的漿細胞可以在接觸病原體後持續數十年，甚至延續至人類壽命的第十個十年。
 
-### Nature of Antibodies
+### 抗體的本質
 
-Antibodies are gamma globulins called immunoglobulins (Igs) that have molecular weights between 160,000 and 970,000 and constitute about 20% of all the plasma proteins. All the immunoglobulins are composed of combinations of light and heavy polypeptide chains. Most are a combination of two light and two heavy chains, as shown in Figure 35-4. However, some immunoglobulins have combinations of as many as 10 heavy and 10 light chains, which give rise to high-molecular-weight immunoglobulins.
+抗體是稱為免疫球蛋白（immunoglobulin, Ig）的丙種球蛋白，分子量介於 160,000 至 970,000 之間，約佔所有血漿蛋白的 20%。所有免疫球蛋白都是由輕鏈和重鏈的組合所構成。大多數由兩條輕鏈和兩條重鏈組成（如 Figure 35-4 所示）。然而，有些免疫球蛋白具有多達十條重鏈和十條輕鏈的組合，形成高分子量的免疫球蛋白。
 
-Yet, in all immunoglobulins, each heavy chain is paralleled by a light chain at one of its ends, thus forming a heavy-light pair; there are always at least two and as many as 10 such pairs in each immunoglobulin molecule.
+然而，所有免疫球蛋白中，每條重鏈都與一條輕鏈在其一端配對，形成重鏈-輕鏈對；每個免疫球蛋白分子中至少有兩個，最多十個這樣的配對。
 
 **Figure 35-4.** Structure of the typical IgG antibody, showing it to be composed of two heavy polypeptide chains and two light polypeptide chains. The antigen binds at two different sites on the variable portions of the chains.
 
-Each light and heavy chain has a designated end called the variable portion; the remainder of each chain is called the constant portion. The variable portion is different for each specific antibody, and it is this portion that attaches specifically to a particular type of antigen. The constant portion determines other properties of the antibody, establishing such factors as antibody diffusivity in the tissues, adherence to specific structures in the tissues, attachment to the complement complex, ease with which the antibodies pass through membranes, and other biological properties of the antibody. A combination of noncovalent and covalent bonds (disulfide) holds the light and heavy chains together.
+每條輕鏈和重鏈都有一個稱為可變區（variable portion）的特定末端；鏈的其餘部分稱為恆定區（constant portion）。可變區對於每種特定抗體都不相同，正是這部分使抗體能夠特異性地與特定類型的抗原結合。恆定區則決定抗體的其他特性，如抗體在組織中的擴散能力、對組織中特定結構的黏附性、對補體複合體的附著性、穿越細胞膜的難易度，以及抗體的其他生物學特性。非共價鍵和共價鍵（二硫鍵）共同將輕鏈和重鏈連接在一起。
 
-### Specificity of Antibodies
+### 抗體的特異性
 
-Each antibody is specific for a particular antigen; this characteristic is a result of the unique structural organization of amino acids in the variable portions of the light and heavy chains. The amino acid organization has a different steric shape for each antigen specificity, so when an antigen comes into contact with it, multiple prosthetic groups of the antigen fit as a mirror image with those of the antibody, thus allowing for rapid and tight bonding between the antibody and antigen.
+每種抗體都對特定抗原具有特異性，這源於輕鏈和重鏈可變區胺基酸序列的獨特結構組織。不同的抗原特異性對應不同的胺基酸立體結構，因此當抗原與抗體接觸時，抗原的多個抗原決定基與抗體的互補立體結構像鏡像般精確契合，實現快速且緊密的結合。
 
-When the antibody is highly specific, there are so many bonding sites that the antibody-antigen coupling is exceedingly strong, held together by:
+當抗體具有高度特異性時，由於具有眾多結合位點，抗體-抗原的結合極為牢固，透過以下力量維持：
+1. 疏水性結合
+2. 氫鍵結合
+3. 離子吸引力
+4. 凡得瓦力
 
-1. Hydrophobic bonding
-2. Hydrogen bonding
-3. Ionic attractions
-4. Van der Waals forces
+這也遵循熱力學質量作用定律：
 
-It also obeys the thermodynamic mass action law:
+*K*_a = （結合態抗體-抗原的濃度）/ （抗體濃度 × 抗原濃度）
 
-*K*_a = (concentration of bound antibody-antigen) / (concentration of antibody × concentration of antigen)
+*K*_a 稱為親和力常數（affinity constant），是衡量抗體與抗原結合緊密程度的指標。
 
-*K*_a is called the affinity constant and is a measure of how tightly the antibody binds with the antigen.
+特別要注意 Figure 35-4 中所示的抗體有兩個用於結合抗原的可變位點，使這類抗體具有雙價（bivalent）性。少部分由多達十條輕鏈和十條重鏈組合而成的抗體，則具有多達十個結合位點。
 
-Note especially in Figure 35-4 that there are two variable sites on the illustrated antibody for attachment of antigens, making this type of antibody bivalent. A small proportion of the antibodies, which consist of combinations of up to 10 light and 10 heavy chains, has as many as 10 binding sites.
+### 抗體的五個主要類別
 
-### Five General Classes of Antibodies
+抗體共有五個主要類別，分別命名為 IgM、IgG、IgA、IgD 和 IgE。「Ig」代表免疫球蛋白，其他五個字母代表各自的類別。在我們的討論中，有兩類抗體特別重要——IgG，這是一種雙價抗體，約佔正常人抗體的 75%；以及 IgE，雖然只佔抗體總量的小部分，但特別與過敏反應有關。
 
-There are five general classes of antibodies, respectively named IgM, IgG, IgA, IgD, and IgE. "Ig" stands for immunoglobulin, and the other five letters designate the respective classes. For the purpose of our limited discussion, two of these classes of antibodies are of particular importance—IgG, which is a bivalent antibody and constitutes about 75% of the antibodies of the normal person, and IgE, which constitutes only a small percentage of the antibodies but is especially involved in allergies.
+IgM 類別也很有趣，因為初次免疫反應中形成的抗體有很大比例屬於此類。這些抗體具有十個結合位點，雖然 IgM 抗體數量不多，但卻特別有效地保護人體抵禦入侵者。
 
-The IgM class is also interesting because a large share of the antibodies formed during the primary response are of this type. These antibodies have 10 binding sites that make them exceedingly effective in protecting the body against invaders, even though there are not many IgM antibodies.
+### 抗體的作用機制
 
-### Mechanisms of Action of Antibodies
+抗體主要透過兩種方式保護人體抵禦入侵劑：
 
-Antibodies act mainly in two ways to protect the body against invading agents:
+1. 直接攻擊入侵者
+2. 活化補體系統，進而以多種方式破壞入侵者
 
-1. By direct attack on the invader
-2. By activation of the complement system that then has multiple means of its own for destroying the invader
+**抗體對入侵劑的直接作用。** 抗體與抗原產生反應。由於抗體具有雙價性且大多數入侵劑表面具有多個抗原位點，抗體可以透過以下幾種方式使入侵劑失去活性：
 
-**Direct Action of Antibodies on Invading Agents.** Antibodies react with antigens. Because of the bivalent nature of the antibodies and the multiple antigen sites on most invading agents, the antibodies can inactivate the invading agent in one of several ways:
-
-1. **Agglutination**—multiple large particles with antigens on their surfaces (e.g., bacteria or red cells) are bound together into a clump
-2. **Precipitation**—the molecular complex of soluble antigen (e.g., tetanus toxin) and antibody becomes so large that it is rendered insoluble and precipitates
-3. **Neutralization**—the antibodies cover the toxic sites of the antigenic agent
-4. **Lysis**—some potent antibodies are occasionally capable of directly attacking membranes of cellular agents and thereby cause rupture of the agent
+1. **凝集作用（agglutination）**：具有表面抗原的多個大顆粒（如細菌或紅血球）被結合成團塊
+2. **沉澱作用（precipitation）**：可溶性抗原（如破傷風毒素）與抗體的分子複合體變得足夠大，以至於變得不溶性並沉澱下來
+3. **中和作用（neutralization）**：抗體覆蓋住抗原劑的毒性位點
+4. **溶解作用（lysis）**：某些強效抗體有時能直接攻擊細胞性病原體的膜，導致其破裂
 
 **Figure 35-5.** Binding of antigen molecules to one another by bivalent antibodies.
 
-These direct actions of antibodies often are not strong enough to play a major role in protecting the body against the invader. Most of the protection occurs through the amplifying effects of the complement system, described next.
+抗體的這些直接作用往往不夠強大，無法在保護人體抵禦入侵者方面發揮主要作用。大多數的保護作用來自補體系統的放大效應，將在下一節描述。
 
-## COMPLEMENT SYSTEM FOR ANTIBODY ACTION
+---
 
-The main function of the complement system is to enhance (complement) the actions of antibodies and phagocytic cells in neutralizing and destroying pathogens, removing damaged cells from the body, and promoting inflammation.
+## 抗體作用的補體系統
 
-Complement is a collective term that describes a system of about 20 proteins, many of which are enzyme precursors. The principal actors in this system are 11 proteins designated C1 through C9, B, and D. All these are present normally among the plasma proteins.
+補體系統的主要功能是增強（彌補）抗體和吞噬細胞在中和及破壞病原體、清除體內受損細胞和促進發炎反應中的作用。
+
+補體是一個集合術語，用以描述約 20 種蛋白質組成的系統，其中許多蛋白質是酶的前驅物。這個系統中最主要的角色是 11 種蛋白質，分別命名為 C1 至 C9、B 和 D。所有這些蛋白質都正常存在於血漿蛋白中。

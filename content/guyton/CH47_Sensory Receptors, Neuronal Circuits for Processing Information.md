@@ -3,154 +3,117 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH47"
 title: "Sensory Receptors, Neuronal Circuits for Processing Information"
 book: "Guyton & Hall"
-summary: "Chapter CH47 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章闡述感覺受器的運作原理與神經迴路的訊號處理機制。受器將各類刺激（機械力、光、化學物質等）轉換為電氣訊號（receptor potential），其振幅與刺激強度呈對數關係。感覺受器可分為快速適應型（phasic，偵測變化）與慢速適應型（tonic，偵測持續狀態）。神經纖維依直徑與傳導速度分為 Aα、Aβ、Aγ、Aδ 與 C 型。訊號強度透過空間總和（動員更多纖維）與時間總和（增加單一纖維頻率）兩種方式傳遞。神經元池是 CNS 的基本運算單位，透過分枝輸入、刺激場與閾下促進等機制整合訊息。
 ---
 
-# RECEPTOR PHYSIOLOGY
+# CHAPTER 47
+感覺受器與處理資訊的神經元迴路
 
-## RECEPTOR POTENTIAL OF THE PACINIAN CORPUSCLE—AN EXAMPLE OF RECEPTOR FUNCTION
+## 章節導讀
 
-As illustrated in Figure 47-2, the more the receptor potential rises above the threshold level, the greater becomes the action potential frequency.
+感覺受器是神經系統與外部世界及內部環境接觸的界面。每一種受器都專門負責偵測特定型態的能量——機械力、光、化學物質——並將其轉換為神經系統可理解的電氣語言：receptor potential。本章以 **Pacinian corpuscle**（觸覺小體）為例，說明受器電位的產生機制：機械變形導致離子通道打開，Na⁺ 內流產生去極化。
 
-Note in Figure 47-1 that the Pacinian corpuscle has a central nerve fiber extending through its core. Surrounding this central nerve fiber are multiple concentric capsule layers; thus, compression anywhere on the outside of the corpuscle will elongate, indent, or otherwise deform the central fiber.
+感覺受器的另一核心特性是**適應（adaptation）**：持續刺激時，反應速率逐漸下降。快速適應型受器（如 Pacinian corpuscle）僅在刺激變化時興奮，適合偵測運動；慢速適應型受器（如 muscle spindle、baroreceptor）則持續反映刺激強度，適合偵測持續狀態。神經纖維依粗細與傳導速度分為 A 型（有髓鞘）與 C 型（無髓鞘），直徑越大傳導越快，從 0.5 μm 到 20 μm 不等，傳導速率從 0.5 m/sec 到 120 m/sec。訊號強度的編碼則透過空間總和（動員更多平行纖維）與時間總和（提高單纖維頻率）兩種機制達成。
 
-Figure 47-3 shows only the central fiber of the Pacinian corpuscle after all capsule layers but one have been removed. The tip of the central fiber inside the capsule is unmyelinated, but the fiber does become myelinated (the blue sheath shown in the figure) shortly before leaving the corpuscle to enter a peripheral sensory nerve.
+## 受器生理學——以 Pacinian Corpuscle 為例
 
-Figure 47-3 also shows the mechanism whereby a receptor potential is produced in the Pacinian corpuscle. Observe the small area of the terminal fiber that has been deformed by compression of the corpuscle, and note that ion channels have opened in the membrane, allowing positively charged sodium ions to diffuse to the interior of the fiber. This action creates increased positivity inside the fiber, called the "receptor potential." The receptor potential in turn induces a local circuit of current flow, shown by the arrows, that spreads along the nerve fiber. At the first node of Ranvier, which lies inside the capsule of the Pacinian corpuscle, the local current flow depolarizes the fiber membrane at this node, which then sets off typical action potentials that are transmitted along the nerve fiber toward the central nervous system.
+### 受器電位的產生
 
-**Figure 47-2.** Typical relation between receptor potential and action potentials when the receptor potential rises above threshold level.
+圖 47-2 說明 Pacinian corpuscle 的結構：中央感覺神經纖維穿過同心圓排列的 capsule 層。當 corpuscle 任何部位受到機械壓迫時，中央纖維被變形，離子通道打開，Na⁺ 內流產生稱為 **receptor potential** 的局部去極化（圖 47-3）。這個局部電流向周圍擴散，在第一個 **node of Ranvier**（位於 corpuscle 內側）引發典型的動作電位，隨後沿神經纖維傳向中樞神經系統。
 
-**Figure 47-3.** Excitation of a sensory nerve fiber by a receptor potential produced in a Pacinian corpuscle.
+### Receptor Potential 與刺激強度的關係
 
-## RELATION BETWEEN STIMULUS INTENSITY AND THE RECEPTOR POTENTIAL
+圖 47-4 顯示實驗中逐步增加機械刺激強度時，receptor potential 振幅隨之增加，但增幅隨強度提高而遞減（呈對數關係）。這意味著：
 
-Figure 47-4 shows the changing amplitude of the receptor potential caused by progressively stronger mechanical compression (increasing "stimulus strength") applied experimentally to the central core of a Pacinian corpuscle. Note that the amplitude increases rapidly at first but then progressively less rapidly at high stimulus strength.
+- **微弱刺激**也能被偵測（高敏感度）
+- **極強刺激**時反應增幅變小（不會迅速達到最大放電率）
 
-In turn, the frequency of repetitive action potentials transmitted from sensory receptors increases approximately in proportion to the increase in receptor potential. Putting this principle together with the data in Figure 47-4, one can see that very intense stimulation of the receptor causes progressively less and less additional increase in numbers of action potentials. This exceedingly important principle is applicable to almost all sensory receptors. It allows the receptor to be sensitive to very weak sensory experience and yet not reach a maximum firing rate until the sensory experience is extreme. This feature allows the receptor to have an extreme range of response—from very weak to very intense.
+這種特性使受器擁有極寬廣的動態回應範圍——從極微弱到極強烈的刺激皆可有效編碼。
 
-**Figure 47-4.** Relation of amplitude of receptor potential to strength of a mechanical stimulus applied to a Pacinian corpuscle. (Data from Loëwenstein WR: Excitation and inactivation in a receptor membrane. Ann N Y Acad Sci 94:510, 1961.)
+## 感覺受器的適應
 
----
+### 適應的類型
 
-## ADAPTATION OF RECEPTORS
+圖 47-5 說明不同受器的適應速率差異極大：
 
-Another characteristic of sensory receptors is that they adapt either partially or completely to any constant stimulus after a period of time. That is, when a continuous sensory stimulus is applied, the receptor responds at a high impulse rate at first and then at a progressively slower rate until, finally, the rate of action potentials decreases to very few or to none at all.
+| 受器類型 | 適應速度 |
+|---------|---------|
+| Pacinian corpuscle | 極快（約數百毫秒） |
+| 毛髮受器 | 快（約 1 秒） |
+| Joint capsule 受器 | 慢 |
+| Muscle spindle | 慢或不完全 |
+| Baroreceptor（頸动脉竇/主動弓） | 最慢（約 2 天或更久）|
+| 化學受器與疼痛受器 | 幾乎不完全適應 |
 
-Figure 47-5 shows typical adaptation of certain types of receptors. Note that the Pacinian corpuscle adapts very rapidly, hair receptors adapt within a second or so, and some joint capsule and muscle spindle receptors adapt slowly.
+適應可分為**完全適應**（如 Pacinian corpuscle，刺激持續時放電率降至零）與**部分適應**（如 baroreceptor，長期暴露後仍維持一定放電率）。
 
-Furthermore, some sensory receptors adapt to a far greater extent than others. For example, the Pacinian corpuscles adapt to "extinction" within a few hundredths of a second, and the receptors at the bases of the hairs adapt to extinction within a second or more. It is probable that most mechanoreceptors eventually adapt almost completely, but some require hours or days to do so, and they are called "nonadapting" receptors. The longest measured time for almost complete adaptation of a mechanoreceptor is about 2 days, which is the adaptation time for many carotid and aortic baroreceptors; however, some physiologists believe that these specialized baroreceptors never fully adapt. Some of the nonmechanoreceptors—the chemoreceptors and pain receptors, for example—probably never adapt completely.
+### 適應的機制
 
-**Figure 47-5.** Adaptation of different types of receptors showing rapid adaptation of some receptors and slow adaptation of others.
+#### 1. 黏彈性變形（Viscoelastic deformation）
 
-## MECHANISMS BY WHICH RECEPTORS ADAPT
+Pacinian corpuscle 是黏彈性結構：刺激一開始，力量瞬間傳遞至中央纖維，產生 receptor potential；但在數百毫秒內，capsule 內液體重新分佈，對中央纖維的變形效應消失，receptor potential 也隨之終止——即使刺激仍在持續。
 
-The mechanism of receptor adaptation is different for each type of receptor in much the same way that development of a receptor potential is an individual property. For example, in the eye, the rods and cones adapt by changing the concentrations of their light-sensitive chemicals (discussed in Chapter 51).
+#### 2. 適應（Accommodation）
 
-In the case of the mechanoreceptors, the receptor that has been studied in greatest detail is the Pacinian corpuscle. Adaptation occurs in this receptor in two ways:
+這是神經纖維本身的機制：即使中央纖維持續變形，纖維末端也會逐漸對刺激「適應」，可能是 Na⁺ 通道逐漸「 inactivation」的結果（見 Chapter 5）。
 
-1. **Viscoelastic deformation:** The Pacinian corpuscle is a viscoelastic structure, so that when a distorting force is suddenly applied to one side of the corpuscle, this force is instantly transmitted by the viscous component of the corpuscle directly to the same side of the central nerve fiber, thus eliciting a receptor potential. However, within a few hundredths of a second, the fluid within the corpuscle redistributes, and the receptor potential is no longer elicited. Thus, the receptor potential appears at the onset of compression but disappears within a small fraction of a second, even though the compression continues.
+### Tonic 受器（慢速適應）——持續反映刺激強度
 
-2. **Accommodation:** The second, much slower mechanism of adaptation of the Pacinian corpuscle results from a process called accommodation, which occurs in the nerve fiber itself. That is, even if by chance the central core fiber should continue to be distorted, the tip of the nerve fiber gradually becomes accommodated to the stimulus. This probably results from progressive "inactivation" of the sodium channels in the nerve fiber membrane, which means that sodium current flow through the channels causes them to close gradually, an effect that seems to occur for all or most cell membrane sodium channels, as was explained in Chapter 5.
+慢速適應受器只要刺激存在就持續向大腦傳送訊息，故稱 **tonic receptors**。這類受器讓中樞神經系統隨時掌握身體狀態與環境關係：
 
-Presumably, these same two general mechanisms of adaptation also apply to the other types of mechanoreceptors. That is, part of the adaptation results from readjustments in the structure of the receptor, and part results from an electrical type of accommodation in the terminal nerve fibril.
+- **Muscle spindles** 與 **Golgi tendon organs**：隨時反映肌肉收縮狀態與肌腱負荷
+- **Vestibular apparatus 的 macula**：反映頭部位置與直線加速度
+- **Baroreceptors**：反映血壓水準
+- **Chemoreceptors**：反映血液 O₂、CO₂ 與 pH
 
-## SLOWLY ADAPTING RECEPTORS DETECT CONTINUOUS STIMULUS STRENGTH—THE "TONIC" RECEPTORS
+### Phasic（Rate/Movement）受器（快速適應）——偵測變化
 
-Slowly adapting receptors continue to transmit impulses to the brain as long as the stimulus is present (or at least for many minutes or hours). Therefore, they keep the brain constantly apprised of the status of the body and its relation to its surroundings. For example, impulses from the muscle spindles and Golgi tendon apparatuses allow the nervous system to know the status of muscle contraction and load on the muscle tendon at each instant.
+快速適應受器僅在刺激**改變**時興奮，故稱 **rate receptors** 或 **movement receptors**。持續刺激時，它們在短暫放電後即靜默；刺激移除時則再次放電（off response）。
 
-Other slowly adapting receptors include:
+**預測功能**：知道某種變化的速率，就能預測數秒乃至數分鐘後的身體狀態。例如：
 
-1. Receptors of the macula in the vestibular apparatus
-2. Pain receptors
-3. Baroreceptors of the arterial tree
-4. Chemoreceptors of the carotid and aortic bodies
+- **半規管受器**：偵測頭部旋轉的加速度，使中樞能預測未來 2 秒內的旋轉角度並提前調整腿部姿勢以維持平衡
+- **關節附近受器**：偵測肢體運動速率，使神經系統能預測下一秒腳的位置，適時發出校正運動信號——失去此功能將無法奔跑
 
-Because the slowly adapting receptors can continue to transmit information for many hours, or even days, they are called **tonic receptors**.
+## 神經纖維的分類與傳導速度
 
-## RAPIDLY ADAPTING RECEPTORS DETECT CHANGE IN STIMULUS STRENGTH—THE "RATE RECEPTORS," "MOVEMENT RECEPTORS," OR "PHASIC RECEPTORS"
+圖 47-6 說明神經纖維的尺寸、分類與功能。神經纖維直徑從 0.5 μm 到 20 μm，傳導速度從 0.5 到 120 m/sec。
 
-Receptors that adapt rapidly cannot be used to transmit a continuous signal because they are stimulated only when the stimulus strength changes. Yet, they react strongly while a change is actually taking place. Therefore, these receptors are called rate receptors, movement receptors, or phasic receptors.
+**Table: 神經纖維的生理分類**
 
-Thus, in the case of the Pacinian corpuscle, sudden pressure applied to the tissue excites this receptor for a few milliseconds, and then its excitation is over, even though the pressure continues. Later, however, it transmits a signal again when the pressure is released. In other words, the Pacinian corpuscle is exceedingly important in apprising the nervous system of rapid tissue deformations, but it is useless for transmitting information about constant conditions in the body.
+| 直徑（μm） | 傳導速度（m/sec） | 一般分類 | 感覺神經分類 | 感覺功能 |
+|------------|-----------------|---------|-------------|---------|
+| 20–12 | 70–120 | Aα | Ia | Muscle spindle（主要終末）|
+| 12–6 | 40–70 | Aα | Ib | Golgi tendon organ |
+| 6–2 | 15–40 | Aβ、Aγ | II | 毛髮受器、離散皮膚觸覺受器、muscle spindle（次要終末）|
+| 3–2 | 5–15 | Aδ | III | 溫度、粗糙觸覺、刺痛 |
+| 2–0.5 | 0.5–2 | C | IV | 疼痛、癢、溫度、粗糙觸覺 |
 
-### Predictive Function of the Rate Receptors
+- **Type A fibers**：具有髓鞘，傳導快速，包括 α、β、γ、δ 亞型
+- **Type C fibers**：無髓鞘，傳導緩慢，佔多數週邊神經感覺纖維的一半以上，也是所有節後自主神經纖維的型態
 
-If the rate at which some change in the body's status is taking place is known, the state of the body a few seconds or even a few minutes later can be predicted. For example, the receptors of the semicircular canals in the vestibular apparatus of the ear detect the rate at which the head begins to turn when a person runs around a curve. Using this information, a person can predict how much he or she will turn within the next 2 seconds and can adjust the motion of the legs ahead of time to keep from losing balance.
+## 訊號強度的編碼：空間總和與時間總和
 
-Likewise, receptors located in or near the joints help detect the rates of movement of the different parts of the body. For example, when a person is running, information from the joint rate receptors allows the nervous system to predict where the feet will be during any precise fraction of the next second. Therefore, appropriate motor signals can be transmitted to the muscles of the legs to make any necessary anticipatory corrections in position so that the person will not fall. Loss of this predictive function makes it impossible for the person to run.
+### 空間總和（Spatial Summation）
 
----
+圖 47-7 說明同一皮膚區域由大量平行的疼痛纖維支配。每條纖維在皮膚中分支形成約 5 cm 直徑的**受器場（receptor field）**——中央密度高，周圍密度低，且各纖維的受器場相互重疊。
 
-## NERVE FIBERS THAT TRANSMIT DIFFERENT TYPES OF SIGNALS AND THEIR PHYSIOLOGICAL CLASSIFICATION
+弱刺激時，僅有單條纖維（受器場中央）的放電率明顯增加；強刺激時，越來越多纖維被動員——這就是**空間總和**，使 CNS 能從被活化的纖維數量推算刺激強度。
 
-Some signals need to be transmitted to or from the central nervous system extremely rapidly; otherwise, the information would be useless. An example of this is the sensory signals that apprise the brain of the momentary positions of the legs at each fraction of a second during running. At the other extreme, some types of sensory information, such as that depicting prolonged aching pain, do not need to be transmitted rapidly, and thus slowly conducting fibers will suffice.
+### 時間總和（Temporal Summation）
 
-As shown in Figure 47-6, nerve fibers come in all sizes, from 0.5 to 20 micrometers in diameter; the larger the diameter, the greater the conducting velocity. The range of conducting velocities is between 0.5 and 120 m/sec.
+圖 47-8 說明第二種機制：**時間總和**。隨著刺激強度增加，單一纖維的動作電位**頻率**升高（由約每秒數個增至數十個），而非動員更多纖維。這種頻率調變（frequency-modulated）的編碼方式使 CNS 能精確區分刺激的輕重。
 
-### General Classification of Nerve Fibers
+兩種總和機制可同時存在：強刺激時，更多纖維被動員（空間總和），且每條纖維的放電頻率也更高（時間總和）。
 
-Shown in Figure 47-6 is a "general classification" and a "sensory nerve classification" of the different types of nerve fibers. In the general classification, the fibers are divided into types A and C; the type A fibers are further subdivided into α, β, γ, and δ fibers.
+## 神經元池中的信號傳遞與處理
 
-- **Type A fibers** are the typical large and medium-sized myelinated fibers of spinal nerves.
-- **Type C fibers** are the small unmyelinated nerve fibers that conduct impulses at low velocities. The C fibers constitute more than half of the sensory fibers in most peripheral nerves, as well as all the postganglionic autonomic fibers.
+CNS 由數千至數百萬個**神經元池（neuronal pools）**組成——皮質、基底神經節、視丘、小腦、腦幹與脊髓灰質等各自構成不同的神經元池。每個神經元池有其特殊組織方式，執行獨特的功能，但彼此間也有許多共同的運作原則。
 
-The sizes, velocities of conduction, and functions of the different nerve fiber types are also given in Figure 47-6. Note that a few large myelinated fibers can transmit impulses at velocities as great as 120 m/sec, covering a distance that is longer than a football field in 1 second. Conversely, the smallest fibers transmit impulses as slowly as 0.5 m/sec, requiring about 2 seconds to go from the big toe to the spinal cord.
+### 神經元池的組織結構
 
-**Figure 47-6.** Physiological classifications and functions of nerve fibers.
+圖 47-9 說明神經元池的基本結構：輸入纖維進入神經元池後，分支數百至數千次，形成廣泛分布的終末，與池內神經元的樹突或胞體形成突觸。每條輸入纖維所能有效刺激的範圍稱為其 **stimulatory field**——中央神經元接收的終末數量最多，遠離中央者遞減。
 
-| Diameter (μm) | Conduction Velocity (m/sec) | General Classification | Sensory Nerve Classification | Sensory Functions | Motor Function |
-|---------------|---------------------------|------------------------|------------------------------|-------------------|----------------|
-| 20–12 | 70–120 | Aα | Ia | Muscle spindle (primary ending) | Skeletal muscle |
-| 12–6 | 40–70 | Aα | Ib | Muscle tendon (Golgi tendon organ) | — |
-| 6–2 | 15–40 | Aβ, Aγ | II | Hair receptors; discrete cutaneous tactile receptors; muscle spindle (secondary ending) | — |
-| 3–2 | 5–15 | Aδ | III | Temperature, crude touch, pricking pain | — |
-| 2–0.5 | 0.5–2 | C | IV | Pain, itch, temperature, crude touch | — |
-| 1–0.5 | 0.5–2 | — | — | — | Sympathetic |
+### 閾下刺激與總和
 
-### Alternative Classification Used by Sensory Physiologists
-
-Certain recording techniques have made it possible to separate the type Aα fibers into two subgroups, yet these same recording techniques cannot distinguish easily between Aβ and Aγ fibers. Therefore, the following classification is frequently used by sensory physiologists:
-
-- **Group Ia.** Fibers from the annulospiral endings of muscle spindles (≈17 μm in diameter on average; these fibers are α-type A fibers in the general classification).
-- **Group Ib.** Fibers from the Golgi tendon organs (≈16 μm in diameter on average; these fibers are also α-type A fibers).
-- **Group II.** Fibers from most discrete cutaneous tactile receptors and from the flower-spray endings of the muscle spindles (≈8 μm in diameter on average; these fibers are β- and γ-type A fibers in the general classification).
-- **Group III.** Fibers carrying temperature, crude touch, and pricking pain sensations (≈3 μm in diameter on average; they are δ-type A fibers in the general classification).
-- **Group IV.** Unmyelinated fibers carrying pain, itch, temperature, and crude touch sensations (0.5–2 μm in diameter; they are type C fibers in the general classification).
-
----
-
-## SIGNAL INTENSITY TRANSMISSION IN NERVE TRACTS—SPATIAL AND TEMPORAL SUMMATION
-
-One of the characteristics of each signal that always must be conveyed is signal intensity—for example, the intensity of pain. The different gradations of intensity can be transmitted either by using increasing numbers of parallel fibers or by sending more action potentials along a single fiber. These two mechanisms are called, respectively, **spatial summation** and **temporal summation**.
-
-### Spatial Summation
-
-Figure 47-7 shows the phenomenon of spatial summation, whereby increasing signal strength is transmitted by using progressively greater numbers of fibers. This figure shows a section of skin innervated by a large number of parallel pain fibers. Each of these fibers arborizes into hundreds of minute free nerve endings that serve as pain receptors. The entire cluster of fibers from one pain fiber frequently covers an area of skin as large as 5 centimeters in diameter. This area is called the **receptor field** of that fiber. The number of endings is large in the center of the field but diminishes toward the periphery. One can also see from the figure that the arborizing fibrils overlap those from other pain fibers. Therefore, a pinprick of the skin usually stimulates endings from many different pain fibers simultaneously.
-
-When the pinprick is in the center of the receptive field of a particular pain fiber, the degree of stimulation of that fiber is far greater than when it is in the periphery of the field because of the greater number of free nerve endings in the middle of the field. Thus, the lower part of Figure 47-7 shows three views of the cross section of the nerve bundle leading from the skin area. To the left is the effect of a weak stimulus, with only a single nerve fiber in the middle of the bundle stimulated strongly (represented by the red-colored fiber), whereas several adjacent fibers are stimulated weakly (half-red fibers). The other two views of the nerve cross section show the effect of a moderate stimulus and a strong stimulus, with progressively more fibers being stimulated. Thus, the stronger signals spread to more and more fibers, a phenomenon called spatial summation.
-
-**Figure 47-7.** Pattern of stimulation of pain fibers in a nerve leading from an area of skin pricked by a pin. This pattern of stimulation is an example of spatial summation.
-
-### Temporal Summation
-
-A second means for transmitting signals of increasing strength is by increasing the frequency of nerve impulses in each fiber, called **temporal summation**. Figure 47-8 demonstrates this phenomenon, showing a changing strength of signal in the upper part and the actual impulses transmitted by the nerve fiber in the lower part.
-
-**Figure 47-8.** Translation of signal strength into a frequency-modulated series of nerve impulses, showing the strength of signal (above) and the separate nerve impulses (below). This illustration is an example of temporal summation.
-
----
-
-## TRANSMISSION AND PROCESSING OF SIGNALS IN NEURONAL POOLS
-
-The central nervous system is composed of thousands to millions of neuronal pools; some of these pools contain few neurons, whereas others have vast numbers. For example, the entire cerebral cortex could be considered to be a single large neuronal pool. Other neuronal pools include the different basal ganglia and the specific nuclei in the thalamus, cerebellum, mesencephalon, pons, and medulla. Also, the entire dorsal gray matter of the spinal cord could be considered one long pool of neurons.
-
-Each neuronal pool has its own special organization that causes it to process signals in its own unique way, thus allowing the total consortium of pools to achieve the multitude of functions of the nervous system. Yet, despite their differences in function, the pools also have many similar principles of function, described in the following sections.
-
-### Relaying of Signals Through Neuronal Pools
-
-**Organization of Neurons for Relaying Signals.** Figure 47-9 is a schematic diagram of several neurons in a neuronal pool, showing input fibers to the left and "output" fibers to the right. Each input fiber divides hundreds to thousands of times, providing a thousand or more terminal fibrils that spread into a large area in the pool to synapse with dendrites or cell bodies of the neurons in the pool. The dendrites usually also arborize and spread hundreds to thousands of micrometers in the pool. The neuronal area stimulated by each incoming nerve fiber is called its **stimulatory field**. Note that large numbers of the terminals from each input fiber lie on the nearest neuron in its "field," but progressively fewer terminals lie on the neurons farther away.
-
-**Threshold and Subthreshold Stimuli—Excitation or Facilitation.** As discussed in Chapter 46, discharge of a single excitatory presynaptic terminal almost never causes an action potential in a postsynaptic neuron. Instead, large numbers of input terminals must discharge on the same neuron either simultaneously or in rapid succession.
-
-**Figure 47-9.** Schematic diagram of neuronal pool organization showing input fibers, stimulatory fields, and output fibers.
+單一興奮性突觸前終末的放電幾乎無法在 postsynaptic neuron 引發動作電位。多個輸入終末必須同時或快速相繼放電，使 postsynaptic neuron 的總輸入達到閾值，才能觸發動作電位。尚未達到閾值但已提高神經元興奮性的狀態，稱為 **facilitation（促進）**——這是神經元池整合訊息的基礎。

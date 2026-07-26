@@ -3,146 +3,183 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH44"
 title: "Aviation, High Altitude, and Space Physiology"
 book: "Guyton & Hall"
-summary: "Chapter CH44 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章探討高空與太空環境對人體生理的影響。高空缺氧時，peripheral chemoreceptor 在數日內驅動通氣量增至五倍正常值，腎臟對 respiratory alkalosis 的代償使 bicarbonate 濃度下降，進一步解除對呼吸中樞的抑制。長期適應包括紅血球生成增加（hematocrit 可達 60%）、diffusing capacity 提升與微血管新生。Hypoxia-inducible factors（HIFs）扮演全身缺氧反應的樞紐角色。急性高山症表現為腦水腫與肺水腫；慢性高山症則因血液黏度過高與肺血管普遍收縮導致右心衰竭。加速度對人體的影響以正向 G（血液向下半身轉移）最為關鍵，超過 4–6 G 可致黑視與昏迷。
 ---
 
-VENTILATORY RESPONSE TO HIGH ALTITUDE
+# CHAPTER 44
+航空、高海拔與太空生理學
 
-When a person ascends to high altitude, the immediate effect is increased ventilation due to the low oxygen pressure. Within the first few days at high altitude, ventilation can increase enough to allow the person to rise several thousand feet higher than would be possible without the increased ventilation.
+## 章節導讀
 
-If the person remains at a very high altitude for several days, the chemoreceptors increase ventilation still more—up to about five times normal. The immediate increase in pulmonary ventilation on rising to a high altitude blows off large quantities of CO₂, reducing the Pco₂ and increasing the pH of the body fluids. These changes inhibit the brain stem respiratory center and thereby oppose the effect of low Po₂ to stimulate respiration via the peripheral arterial chemoreceptors in the carotid and aortic bodies.
+當人體離開海平面環境進入高空或太空，生理系統面臨前所未有的挑戰：高空的大氣壓下降導致 PO₂ 降低，飛機轉彎時的離心加速度使血液向身體低處轉移，太空環境則是完全失重。
 
-However, this inhibition fades away during the ensuing 2 to 5 days, allowing the respiratory center to respond with full force to the peripheral chemoreceptor stimulus from hypoxia, and ventilation increases to about five times normal. The cause of this fading inhibition is believed to be mainly a reduction of bicarbonate ion concentration in the cerebrospinal fluid, as well as in the brain tissues. This reduction, in turn, decreases the pH in the fluids surrounding the chemosensitive neurons of the respiratory center, thus increasing the respiratory stimulatory activity of the center.
+本章以高空生理為核心，說明人體如何在缺氧環境中逐步適應。急性反應是被動的——peripheral chemoreceptor 感知低氧後增強呼吸驅動，但同時 CO₂ 的过度排出導致 respiratory alkalosis，抑制呼吸中樞。數日後，腎臟代償排鹼，使腦脊隨液 bicarbonate 下降，呼吸中樞對缺氧的敏感度因而大幅提升，通氣量可增至正常的五倍。慢性適應則包括紅血球增生、diffusing capacity 提升與組織微血管新生。HIF（hypoxia-inducible factors）則是全身細胞層級缺氧反應的分子開關。最後，本章也探討加速度對循環系統與脊椎的影響，以及太空飛行中的線性加速度問題。
 
-An important mechanism for the gradual decrease in bicarbonate concentration is compensation by the kidneys for the respiratory alkalosis, as discussed in Chapter 31. The kidneys respond to decreased Pco₂ by reducing hydrogen ion secretion and increasing bicarbonate excretion. This metabolic compensation for the respiratory alkalosis gradually reduces plasma and cerebrospinal fluid bicarbonate concentrations and pH toward normal and removes part of the inhibitory effect on respiration of a low hydrogen ion concentration. Thus, the respiratory centers are much more responsive to the peripheral chemoreceptor stimulus caused by the hypoxia after the kidneys compensate for the alkalosis.
+## 高海拔環境中的通氣反應
 
-INCREASE IN RED BLOOD CELLS AND HEMOGLOBIN CONCENTRATION DURING ACCLIMATIZATION
+### 急性缺氧與呼吸代償
 
-As discussed in Chapter 33, hypoxia is a major stimulus for increasing red blood cell production. Ordinarily, when a person remains exposed to low O₂ for weeks at a time, the hematocrit rises slowly from a normal value of 40% to 45% to an average of about 60%, with an average increase in whole blood hemoglobin concentration from a normal value of 15 g/dl to about 20 g/dl. In addition, the blood volume also increases—often by 20% to 30%—and this increase, multiplied by the increased blood hemoglobin concentration, gives an increase in total body hemoglobin of 50% or more.
+上升至高海拔時，低 PO₂ 立即刺激 peripheral chemoreceptor，導致通氣量增加。初期（前數日），這個反應部分被 **respiratory alkalosis** 抵消：過度通氣使血液 PCO₂ 下降，H₂CO₃ 減少，pH 升高，對腦幹呼吸中樞產生抑制作用。
 
-INCREASED DIFFUSING CAPACITY AFTER ACCLIMATIZATION
+### 數日後呼吸驅動的增強——適應的關鍵
 
-The normal diffusing capacity for O₂ through the pulmonary membrane is about 21 ml/mm Hg per minute, and this diffusing capacity can increase as much as threefold during exercise. A similar increase in diffusing capacity occurs at high altitudes. Part of the increase results from increased pulmonary capillary blood volume, which expands the capillaries and increases the surface area through which O₂ can diffuse into the blood. Another part of this increase results from an increase in lung air volume, which expands the surface area of the alveolar-capillary interface still more. A final part results from an increase in pulmonary arterial blood pressure, which forces blood into greater numbers of alveolar capillaries than normal—especially in the upper parts of the lungs, which are poorly perfused under usual conditions.
+2–5 天後，這種抑制作用逐漸消退，呼吸中樞得以對 peripheral chemoreceptor 的缺氧刺激展現完整反應，通氣量最終升至正常的約 **五倍**。
 
-PERIPHERAL CIRCULATORY SYSTEM CHANGES DURING ACCLIMATIZATION—INCREASED TISSUE CAPILLARITY
+抑制消退的機制：腎臟持續對 respiratory alkalosis 進行代償——降低 H⁺ 分泌、增加 bicarbonate 排泄，使血漿與腦脊隨液中的 bicarbonate 濃度逐漸下降。這反過來降低了對呼吸中樞鹼中毒的抑制效應，使缺氧的刺激效應得以完全發揮。
 
-The cardiac output often increases as much as 30% immediately after a person ascends to a high altitude but then decreases back toward normal over a period of weeks as the blood hematocrit increases, so the amount of O₂ transported to the peripheral body tissues remains about normal.
+## 適應過程中的生理變化
 
-Another circulatory adaptation is growth of increased numbers of systemic circulatory capillaries in the nonpulmonary tissues, called angiogenesis. This adaptation occurs especially in animals born and bred at high altitudes but less so in animals that become exposed to high altitudes later in life. In active tissues exposed to chronic hypoxia, the increase in capillarity is especially marked. For example, capillary density in right ventricular muscle increases markedly because of the combined effects of hypoxia and excess workload on the right ventricle caused by pulmonary hypertension at high altitude.
+### 紅血球與 Hemoglobin 濃度的增加
 
-CELLULAR ACCLIMATIZATION
+慢性缺氧刺激紅血球生成（EPO 分泌增加）。高原居住數週後：
 
-In animals native to altitudes of 13,000 to 17,000 feet, cell mitochondria and cellular oxidative enzyme systems are slightly more plentiful than in sea level inhabitants. Therefore, it is presumed that the tissue cells of high altitude–acclimatized human beings also can use O₂ more effectively than can their sea level counterparts.
+| 參數 | 正常值 | 適應後 |
+|------|--------|--------|
+| Hematocrit | 40–45% | ~60% |
+| 血紅素濃度 | 15 g/dl | ~20 g/dl |
+| 血量 | 正常 | 增加 20–30% |
+| **總血紅素總量** | 正常 | **增加 ≥50%** |
 
-HYPOXIA-INDUCIBLE FACTORS—A "MASTER SWITCH" FOR THE BODY'S RESPONSE TO HYPOXIA
+### Diffusing Capacity 的提升
 
-Hypoxia-inducible factors (HIFs) are DNA-binding transcription factors that respond to decreased oxygen availability and activate several genes that encode proteins needed for adequate oxygen delivery to tissues and energy metabolism. HIFs are found in virtually all oxygen-breathing species, ranging from primitive worms to humans.
+高海拔時，O₂ 的 diffusing capacity 可增至安靜時的三倍，原因包括：
 
-Some of the genes controlled by HIFs—especially HIF-1—include the following:
+1. **肺微血管血量增加**：血管擴張或原本關閉的微血管打開，增加氣體交換表面積
+2. **肺氣容積增加**：擴張肺泡使 alveolar-capillary interface 面積增大
+3. **肺动脉壓升高**：迫使血液進入更多微血管，包括平時血流較少的肺上部區域
 
-- Genes associated with vascular endothelial growth factor, which stimulates angiogenesis
-- Erythropoietin genes that stimulate red blood cell production
-- Mitochondrial genes involved with energy utilization
-- Glycolytic enzyme genes involved with anaerobic metabolism
-- Genes that increase availability of nitric oxide, which causes pulmonary vasodilation
+### 週邊循環的適應——微血管新生
 
-In the presence of adequate oxygen, the subunits of HIF required to activate various genes are downregulated and inactivated by specific HIF hydroxylases. In hypoxia, the HIF hydroxylases are themselves inactive, allowing the formation of a transcriptionally active HIF complex. Thus, the HIFs serve as a "master switch" that permits the body to respond appropriately to hypoxia.
+心輸出量在登高後初期可能增加 30%，隨著 hematocrit 上升而逐漸回歸正常，使組織 O₂ 輸送量維持在正常範圍。
 
-NATURAL ACCLIMATIZATION OF NATIVE PEOPLE LIVING AT HIGH ALTITUDES
+更重要的是**微血管新生（angiogenesis）**：慢性缺氧組織（尤其是因肺高血壓而負荷加重的右心室肌肉）微血管密度顯著增加，使 O₂ 與營養物質的組織擴散距離縮短。這種適應在自幼生長於高原的動物身上最為明顯。
 
-Many native people in the Andes and in the Himalayas live at altitudes above 13,000 feet. One group in the Peruvian Andes lives at an altitude of 17,500 feet and works in a mine at an altitude of 19,000 feet. Many of these natives are born at these high altitudes and live there all their lives. They are superior to even the best-acclimatized lowlanders in all aspects of acclimatization—even though the lowlanders might have lived at high altitudes for 10 or more years.
+### 細胞層級的適應
 
-Acclimatization of the natives begins in infancy. The chest size—especially—is greatly increased, whereas the body size is somewhat decreased—giving a high ratio of ventilatory capacity to body mass. The hearts of natives, which from birth onward pump extra amounts of cardiac output, are also considerably larger than the hearts of lowlanders.
+高原原生動物的細胞粒線體與氧化酶系統數量略高於平原動物。這暗示長期適應的人類組織細胞也能更有效地利用 O₂。
 
-Delivery of O₂ by the blood to the tissues is also highly facilitated in these natives. As shown in Figure 44-2, the O₂-hemoglobin dissociation curves for natives who live at sea level and for their counterparts who live at 15,000 feet demonstrate that the arterial Po₂ in the natives at high altitude is only 40 mm Hg but—because of the greater quantity of hemoglobin—the quantity of O₂ in their arterial blood is greater than that in the blood of the natives at the lower altitude. Note also that the venous Po₂ in the high-altitude natives is only 15 mm Hg less than the venous Po₂ for the lowlanders, despite the very low arterial Po₂—indicating that O₂ transport to the tissues is exceedingly effective in the naturally acclimatized high-altitude natives.
+## Hypoxia-Inducible Factors——全身缺氧反應的分子樞紐
 
-**Figure 44-2.** Oxygen-hemoglobin dissociation curves for blood of high-altitude residents (red curve) and sea level residents (blue curve) showing the respective arterial and venous Po₂ levels and oxygen contents as recorded in their native surroundings. (Data from Pan American Health Organization. Oxygen-dissociation curves for bloods of high-altitude and sea-level residents. Life at high altitudes. Washington, DC: Pan American Health Organization Scientific Publication No. 140, 1966.)
+**HIFs（Hypoxia-inducible factors）** 是 DNA 結合轉錄因子，存在於所有需氧物種中。當細胞缺氧時，HIF hydroxylases 活性下降，使 HIF 複合物得以形成並啟動一系列基因：
 
-REDUCED WORK CAPACITY AT HIGH ALTITUDES AND POSITIVE EFFECT OF ACCLIMATIZATION
+| HIF 調控的基因 | 生理效應 |
+|---------------|----------|
+| **VEGF（血管內皮生長因子）** | 促進血管新生 |
+| **Erythropoietin（紅血球生成素）** | 刺激紅血球生成 |
+| **粒線體基因** | 優化能量利用 |
+| **糖解酶基因** | 增強無氧代謝 |
+| **Nitric oxide 相關基因** | 促使肺血管擴張 |
 
-In addition to the mental depression caused by hypoxia, the work capacity of all muscles—cardiac as well as skeletal muscle—is greatly decreased in a state of hypoxia. In general, work capacity is reduced in direct proportion to the decrease in maximum rate of O₂ uptake that the body can achieve.
+因此，HIFs 如同全身細胞的「缺氧應答開關」，協調從血管新生到代謝重編程的各項適應反應。
 
-To give an idea of the importance of acclimatization in increasing work capacity, consider the large differences in work capacities as a percentage of normal for unacclimatized and acclimatized people at an altitude of 17,000 feet, as shown in Table 44-2.
+## 高原原住民的自然適應
 
-**Table 44-2.** Differences in Work Capacities
+安地斯與喜馬拉雅高原原住民（居住於 13,000–17,000 英尺以上）自嬰兒期即開始適應。他們的胸腔容量相對增大（對體型比值增高），心臟也因長期高輸出負荷而較大。
 
-| Condition | Work Capacity (% of Normal) |
-|-----------|----------------------------|
-| Unacclimatized | 50 |
-| Acclimatized for 2 months | 68 |
-| Native living at 13,200 ft but working at 17,000 ft | — |
+圖 44-2 揭示一個重要現象：高原原住民的 arterial PO₂ 僅 40 mm Hg（遠低於平原居民的 95 mm Hg），但因為 hemoglobin 濃度更高，其 arterial O₂ content 甚至高於低海拔原住民。更值得注意的是，兩者靜脈 PO₂ 的差距並不大——表示 O₂ 對組織的輸送效率在自然適應者身上極高。
 
-Thus, naturally acclimatized native persons can achieve a daily work output even at a high altitude almost equal to that of a lowlander at sea level—but even well-acclimatized lowlanders can almost never achieve this result.
+## 高海拔的工作能力
 
-ACUTE MOUNTAIN SICKNESS AND HIGH-ALTITUDE PULMONARY EDEMA
+缺氧直接抑制肌肉（包含心肌）的收縮能力，工作能力的下降與最大 O₂ 攝取率的下降成正比。
 
-A small percentage of people who ascend rapidly to high altitudes become acutely sick and can die if not given O₂ or rapidly moved to a low altitude. The sickness begins from a few hours up to about 2 days after ascent. Two events frequently occur:
+| 情境 | 工作能力（% of normal） |
+|------|------------------------|
+| 未適應者（17,000 ft） | 50% |
+| 適應兩個月後（17,000 ft） | 68% |
+| 高原原住民（工作於 17,000 ft） | 幾近 100% |
 
-1. **Acute cerebral edema.** This edema is believed to result from local vasodilation of the cerebral blood vessels, which is caused by the hypoxia. Dilation of the arterioles increases blood flow into the capillaries—thus increasing capillary pressure, which in turn causes fluid to leak into the cerebral tissues. Chemical factors such as vascular endothelial growth factor and inflammatory cytokines may also contribute to edema by increasing endothelial cell permeability. The cerebral edema can then lead to severe disorientation and other effects related to cerebral dysfunction.
+可見，即使最優秀的移居者，其適應程度也很難達到世居高原者的水準。
 
-2. **Acute pulmonary edema.** The cause of acute pulmonary edema is still uncertain but may be explained by the following. The severe hypoxia causes the pulmonary arterioles to constrict powerfully—but the constriction is much greater in some parts of the lungs than in other parts, so more and more of the pulmonary blood flow is forced through fewer and fewer still unconstricted pulmonary vessels. The postulated result is that the capillary pressure in these areas of the lungs becomes especially high, and local edema occurs. Extension of the process to progressively more areas of the lungs leads to spreading pulmonary edema and severe pulmonary dysfunction that can be lethal. Allowing the person to breathe O₂ usually reverses the process within hours. The same chemical factors that have been suggested to increase capillary permeability in the brain may also contribute to increased pulmonary capillary permeability and edema in the lungs.
+## 急性高山病與高海拔肺水腫
 
-CHRONIC MOUNTAIN SICKNESS
+快速上升高山後，少數人在數小時至兩天內發生急性高山病，可能致死（若不及時給 O₂ 或下撤）。兩種主要病理變化：
 
-Occasionally, a person who remains at a high altitude too long experiences chronic mountain sickness, in which the following effects occur:
+### 急性腦水腫
 
-1. The red blood cell mass and hematocrit become exceptionally high.
-2. The pulmonary arterial pressure becomes elevated even more than the normal elevation that occurs during acclimatization.
-3. The right side of the heart becomes greatly enlarged.
-4. The peripheral arterial pressure begins to fall.
-5. Congestive heart failure ensues.
-6. Death often follows unless the person is moved to a lower altitude.
+缺氧導致腦血管局部擴張 → 腦血流增加 → 毛細血管壓力升高 → 液體漏入腦組織。VEGF 與發炎細胞激素也可能增加內皮通透性。症狀包括嚴重意識混亂與其他腦功能障礙。
 
-There are probably three main causes of this sequence of events:
+### 急性肺水腫（HAPE）
 
-1. The red blood cell mass becomes so great that the blood viscosity increases severalfold. This increased viscosity tends to decrease tissue blood flow so that O₂ delivery also begins to decrease.
+機制尚不完全明確，目前認為：
 
-2. The pulmonary arterioles become vasoconstricted because of the lung hypoxia. This vasoconstriction results from the hypoxic vascular constrictor effect that normally operates to divert blood flow from low-O₂ to high-O₂ alveoli, as explained in Chapter 39. However, because all the alveoli are now in the low-O₂ state, all the arterioles become constricted, the pulmonary arterial pressure rises excessively, and the right side of the heart fails.
+1. 嚴重缺氧使肺小动脉廣泛收縮，但各區域收縮程度不一
+2. 血流被強制導向少數未收縮的血管 → 這些區域的微血管壓力急劇上升
+3. 液體滲出至肺間質與肺泡，形成局部水腫
+4. 過程蔓延，最終導致廣泛且可能致命的水腫
 
-3. The alveolar arteriolar spasm diverts much of the blood flow through nonalveolar pulmonary vessels—thus causing an excess of pulmonary shunt blood flow where the blood is poorly oxygenated, which further compounds the problem.
+**治療**：給予 O₂ 通常可在數小時內逆轉病程。
 
-Most people with this condition recover within days or weeks when they are moved to a lower altitude.
+## 慢性高山病
 
-EFFECTS OF ACCELERATORY FORCES ON THE BODY IN AVIATION AND SPACE PHYSIOLOGY
+長期居住高原者偶爾出現慢性高山病，表現為：
 
-Because of rapid changes in velocity and direction of motion in airplanes or spacecraft, several types of acceleratory forces affect the body during flight. At the beginning of flight, simple linear acceleration occurs; at the end of flight, deceleration occurs; and every time the vehicle turns, centrifugal acceleration occurs.
+1. 紅血球質量與 hematocrit 異常升高
+2. 肺动脉壓比一般適應性升高更甚
+3. 右心顯著肥厚與衰竭
+4. 週邊动脉血壓下降
+5. 充血性心衰竭
 
-CENTRIFUGAL ACCELERATORY FORCES
+### 致病機制
 
-When an airplane makes a turn, the force of centrifugal acceleration is determined by the following relationship:
+1. **血液黏度極度升高**：Hematocrit 過高使血液黏度成倍增加，反而降低組織血流與 O₂ 輸送
+2. **肺小动脉普遍收縮**：因為所有肺泡皆處於低 O₂ 狀態，原本用於將血流導向高 O₂ 肺泡的缺氧性血管收縮機制，現在作用於全肺，導致肺動压過高與右心衰竭
+3. **肺分流增加**：血流被迫繞道非肺泡血管，未經氧合的血流比例上升，使缺氧問題惡化
 
-*f* = *mv*²/*r*
+將患者轉移至較低海拔後，症狀通常在數日至數週內恢復。
 
-in which *f* is centrifugal acceleratory force, *m* is the mass of the object, *v* is velocity of travel, and *r* is the radius of curvature of the turn. From this formula, it is obvious that as the velocity increases, the force of centrifugal acceleration increases in proportion to the square of the velocity. It is also obvious that the force of acceleration is directly proportional to the sharpness of the turn (the less the radius).
+## 飛航與太空生理學中的加速度效應
 
-**Measurement of Acceleratory Force—"G."** When an aviator is simply sitting in his or her seat, the force with which he or she is pressing against the seat results from the pull of gravity and is equal to the person's weight. The intensity of this force is said to be +1 G because it is equal to the pull of gravity. If the force with which the person presses against the seat becomes five times the normal weight during pull-out from a dive, the force acting on the seat is +5 G. If the airplane goes through an outside loop so that the person is held down by the seat belt, negative G is applied to the body. If the force with which the person is held down by the seat belt is equal to the weight of the body, the negative force is −1 G.
+### 離心加速度的基本原理
 
-EFFECTS OF CENTRIFUGAL ACCELERATORY FORCE ON THE BODY (POSITIVE G)
+飛機轉彎時產生的離心加速度由以下公式決定：
 
-**Effects on the Circulatory System.** The most important effect of centrifugal acceleration is on the circulatory system because blood is mobile and can be translocated by centrifugal forces. When an aviator is subjected to positive G, blood is centrifuged toward the lowermost part of the body. Thus, if the centrifugal acceleratory force is +5 G and the person is in an immobilized standing position, the pressure in the veins of the feet becomes greatly increased (to ≈450 mm Hg). In the sitting position, the pressure becomes nearly 300 mm Hg. In addition, as pressure in the vessels of the lower body increases, these vessels passively dilate so that a major portion of the blood from the upper body is translocated into the lower vessels. Because the heart cannot pump unless blood returns to it, the greater the quantity of blood "pooled" in this way in the lower body, the less is available for the cardiac output.
+$$f = \frac{mv^2}{r}$$
 
-As shown in Figure 44-3, the changes in systolic and diastolic arterial pressures (top and bottom curves, respectively) in the upper body when a centrifugal acceleratory force of +3.3 G is suddenly applied to a sitting person demonstrate that both these pressures fall below 22 mm Hg for the first few seconds after the acceleration begins but then return to a systolic pressure of about 55 mm Hg and a diastolic pressure of 20 mm Hg within another 10 to 15 seconds. This secondary recovery is caused mainly by activation of the baroreceptor reflexes.
+速度越快、半徑越小，則加速度越大。
 
-**Figure 44-3.** Changes in arterial pressure in the upper body when a centrifugal acceleratory force of +3.3 G is suddenly applied.
+**G 力的測量**：身體僅受重力作用時為 **+1 G**。若拉出俯衝時身體承受5倍重量，則為 **+5 G**；若在倒環中被安全帶拉住，則為 **負 G（−G）**。
 
-Acceleration greater than 4 to 6 G causes "blackout" of vision within a few seconds and unconsciousness shortly thereafter. If this great degree of acceleration is continued, the person will die.
+### 正向 G（+G）對循環系統的影響
 
-**Effects on the Vertebrae.** Extremely high acceleratory forces for even a fraction of a second can fracture the vertebrae. The degree of positive acceleration that the average person can withstand in the sitting position before vertebral fracture occurs is about 20 G.
+血液是可流動的，會被離心力轉移至身體低處。以坐姿承受 +5 G 為例：
 
-**Negative G.** The effects of negative G on the body are less dramatic acutely but possibly more damaging permanently than the effects of positive G. An aviator can usually go through outside loops up to negative acceleratory forces of −4 to −5 G without causing permanent harm—although causing intense momentary hyperemia of the head. Occasionally, psychotic disturbances lasting for 15 to 20 minutes occur as a result of brain edema.
+- 足部靜脈壓可升至約 450 mm Hg
+- 下半身血管被動擴張，大量血液積滯
+- 心輸出量下降，上身血压驟降
 
-Occasionally, negative G forces can be so great (e.g., −20 G), and centrifugation of the blood into the head is so great, that the cerebral blood pressure reaches 300 to 400 mm Hg—sometimes causing small vessels on the surface of the head and in the brain to rupture. However, the vessels inside the cranium show less tendency for rupture than would be expected for the following reason: the cerebrospinal fluid is centrifuged toward the head at the same time that blood is centrifuged toward the cranial vessels, and the greatly increased pressure of the cerebrospinal fluid acts as a cushioning buffer on the outside of the brain to prevent intracerebral vascular rupture.
+圖 44-3 說明 +3.3 G 突然施加於坐姿人體時的血压變化：上半身收缩压與舒張压在最初數秒皆降至 22 mm Hg 以下，10–15 秒後因 **baroreceptor reflex** 激活而部分恢復。
 
-Because the eyes are not protected by the cranium, intense hyperemia occurs in them during strong negative G. As a result, the eyes often become temporarily blinded with what is called redout.
+**臨界值**：加速度超過 **4–6 G** 時，數秒內即發生黑視（blackout），隨即意識喪失；持續更久則可致死。
 
-**Protection of the Body Against Centrifugal Acceleratory Forces.** Specific procedures and apparatus have been developed to protect aviators against the circulatory collapse that might occur during positive G. First, if the aviator tightens his or her abdominal muscles to an extreme degree and leans forward to compress the abdomen, some of the pooling of blood in the large vessels of the abdomen can be prevented—delaying the onset of blackout. Also, special "anti-G" suits have been developed to prevent pooling of blood in the lower abdomen and legs. The simplest of these applies positive pressure to the legs and abdomen by inflating compression bags as the G force increases.
+### 正向 G 對脊椎的影響
 
-Theoretically, a pilot submerged in a tank or suit of water might experience little effect of G forces on the circulation because the pressures developed in the water pressing on the outside of the body during centrifugal acceleration would almost exactly balance the forces acting in the body. However, the presence of air in the lungs still allows for displacement of the heart, lung tissues, and diaphragm into seriously abnormal positions despite submersion in water. Therefore, even if this procedure were used, the limit of safety almost certainly would still be less than 10 G.
+即使時間極短，極高的正向加速度也可造成脊椎骨折。坐姿時一般人在椎骨骨折前的臨界值約為 **20 G**。
 
-EFFECTS OF LINEAR ACCELERATORY FORCES ON THE BODY
+### 負 G（−G）的影響
 
-**Acceleratory Forces in Space Travel.** Unlike an airplane, a spacecraft cannot make rapid turns, and therefore centrifugal acceleration is of little importance except when the spacecraft goes into abnormal gyrations. However, blast-off acceleration and landing deceleration can be tremendous—both are types of linear acceleration, with one being positive and the other negative. Figure 44-4 shows an approximate profile of acceleration during blastoff in a three-stage spacecraft, demonstrating that the first-stage booster causes acceleration as high as 9 G and the second-stage booster causes about 6 G.
+負 G 使血液向頭部轉移，造成暫時性腦充血症狀：
 
-**Figure 44-4.** Approximate profile of acceleration during blastoff in a three-stage spacecraft.
+- 飛機倒環（−4 至 −5 G）通常不致永久傷害，但可引起暫時性失明（redout）
+- 若 −G 極大（如 −20 G），顱外小血管可能破裂；但顱內血管因腦脊隨液同時被離心壓向頭部，形成緩衝保護，破裂機會較低
+
+### 對抗離心加速度的保護措施
+
+1. **用力收緊腹部肌肉 + 身體前傾**：減少血液在腹部大血管的積滯
+2. **抗 G 服（anti-G suit）**：在 G 力增加時自動充氣，壓迫下肢與腹部，防止血液下沉
+
+理論上，將飛行員浸泡於水箱中可使水的外部壓力與體內離心力平衡，減少血液轉移。但肺中仍有空氣，失重狀態下心臟與橫膈仍會移位，因此安全上限仍低於 10 G。
+
+## 線性加速度對人體的影響
+
+### 太空飛行中的線性加速度
+
+太空船無法像飛機般急速轉彎，離心加速度並非主要問題。然而，發射时的正向線性加速度與著陸时的負向減速度可能極大。
+
+圖 44-4 說明三階段太空船發射時的加速度輪廓：
+
+| 階段 | 加速度 |
+|------|--------|
+| 第一級助推器 | 高達 **9 G** |
+| 第二級助推器 | 約 **6 G** |
+
+這些數值遠高於人體日常可承受的範圍，但透過太空船設計（如傾斜座椅）將血液轉移效應降至最低。

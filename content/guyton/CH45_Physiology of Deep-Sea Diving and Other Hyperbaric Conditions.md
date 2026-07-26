@@ -3,174 +3,160 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH45"
 title: "Physiology of Deep-Sea Diving and Other Hyperbaric Conditions"
 book: "Guyton & Hall"
-summary: "Chapter CH45 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章探討深海潛水與高氣壓環境的生理學。隨深度增加，大氣壓上升，PO₂ 也隨之升高；超過 2 atm 的 O₂ 即具神經毒性，可致痙攣。高壓氮則產生氮醉（narcosis），類似酒精中毒。Decompression sickness 源於快速減壓時組織中溶解的氮氣形成氣泡，阻塞血管並引發關節疼痛（bends）、神經症狀或肺部微栓塞（the chokes）。氦氣取代氮氣可減少減壓問題。Hyperbaric oxygen therapy（高壓氧療）利用高濃度 O₂ 對厭氧菌的抑制作用治療氣性壞疽，並對多種疾病有益。
 ---
 
-# OXYGEN TOXICITY
+# CHAPTER 45
+深海潛水與其他高氣壓條件的生理學
 
-## Acute Oxygen Poisoning
+## 章節導讀
 
-Oxygen at high partial pressures can cause lethal effects on cells. One of the principal effects is to oxidize the polyunsaturated fatty acids that are essential components of many of the cell membranes. Another effect is to oxidize some of the cellular enzymes, thus damaging the cellular metabolic systems severely. The nervous tissues are especially susceptible because of their high lipid content. Therefore, most of the acute lethal effects of acute O₂ toxicity are caused by brain dysfunction.
+深海潛水與高空飛行相反——隨著潛水深度增加，環境總壓逐漸升高，每下潛 10 公尺約增加 1 atm。這種高氣壓環境對人體帶來多重挑戰：O₂ 在高 partial pressure 下成為細胞毒素，氮在高 partial pressure 下產生麻醉效應，而減壓過程中溶解在組織中的惰性氣體若減壓過快，將形成氣泡引發減壓病。
 
-## Chronic Oxygen Poisoning
+本章系統性地探討這些問題：O₂ 中毒在急慢性暴露時有不同的臨界值與表現；CO₂ 若在封閉式呼吸器中累積可導致呼吸性酸中毒與意識障礙；氮在組織中的溶解量與深度及暴露時間成正比，是減壓病的根本原因。最後，本章也介紹 saturation diving 的概念與 helium-oxygen 混合氣體的優勢，以及高壓氧療在臨床上的應用。
 
-A person can be exposed to only 1 atm pressure of O₂ almost indefinitely without developing the acute oxygen toxicity of the nervous system just described. However, after only about 12 hours of 1 atm O₂ exposure, lung passageway congestion, pulmonary edema, and atelectasis caused by damage to the linings of the bronchi and alveoli begin to develop. The reason for this effect in the lungs but not in other tissues is that the air spaces of the lungs are directly exposed to the high O₂ pressure, but O₂ is delivered to the other body tissues at almost normal PO₂ because of the hemoglobin-O₂ buffer system.
+## Oxygen 毒性
 
-# CARBON DIOXIDE TOXICITY AT GREAT DEPTHS IN THE SEA
+### 急性 O₂ 毒性
 
-If the diving gear is properly designed and functions properly, the diver has no problem due to CO₂ toxicity because depth alone does not increase the CO₂ partial pressure in the alveoli. This is true because depth does not increase the rate of CO₂ production in the body, and as long as the diver continues to breathe a normal tidal volume and expires the CO₂ as it is formed, alveolar CO₂ pressure will be maintained at a normal value.
+高 partial pressure 的 O₂ 對細胞具有致死效應。主要機制包括：氧化細胞膜中的不飽和脂肪酸，以及氧化重要的細胞代谢酶。由於神經組織脂肪含量高，對 O₂ 毒性特別敏感，因此急性 O₂ 中毒的主要致死原因是**腦功能障礙**（痙攣）。
 
-In certain types of diving gear, however, such as the diving helmet and some types of rebreathing apparatuses, CO₂ can build up in the dead space air of the apparatus and be rebreathed by the diver. Up to an alveolar CO₂ pressure (PCO₂) of about 80 mm Hg—twice that in normal alveoli—the diver usually tolerates this buildup by increasing the minute respiratory volume a maximum of 8- to 11-fold to compensate for the increased CO₂. Beyond 80 mm Hg alveolar PCO₂, however, the situation becomes intolerable, and eventually the respiratory center begins to be depressed, rather than excited, because of the negative tissue metabolic effects of high PCO₂. The diver's respiration then begins to fail rather than compensate. In addition, the diver experiences severe respiratory acidosis and varying degrees of lethargy, narcosis, and finally even anesthesia, as discussed in Chapter 43.
+### 慢性 O₂ 毒性
 
-# DECOMPRESSION OF THE DIVER AFTER EXCESS EXPOSURE TO HIGH PRESSURE
+在 1 atm 的 O₂ 下暴露約 12 小時後，即可見支氣管與肺泡內膜受損，導致支氣管充血、肺水腫與肺泡塌陷。這是因為肺臟直接暴露於高 O₂ partial pressure，而其他組織因 hemoglobin-O₂ 緩衝系統的保護，實際接收的 PO₂ 仍接近正常。
 
-When a person breathes air under high pressure for a long time, the amount of nitrogen dissolved in the body fluids increases. This is because blood flowing through the pulmonary capillaries becomes saturated with nitrogen to the same high pressure as that in the alveolar breathing mixture, and over several more hours, enough nitrogen is carried to all the tissues of the body to raise their tissue nitrogen partial pressure to equal the nitrogen pressure in the breathing air. Because nitrogen is not metabolized by the body, it remains dissolved in all the body tissues until the nitrogen pressure in the lungs is decreased back to some lower level, at which time the nitrogen can be removed by the reverse respiratory process. However, this removal often takes hours to occur and is the source of multiple problems, collectively called decompression sickness.
+## Carbon Dioxide 毒性
 
-## Volume of Nitrogen Dissolved in the Body Fluids at Different Depths
+若潛水裝備設計與功能正常，深度本身不會增加肺泡 CO₂ partial pressure——因為深度不改變體內 CO₂ 產量，只要持續以正常潮氣量呼吸並排出產生的 CO₂，肺泡 PCO₂ 即維持正常。
 
-At sea level, almost exactly 1 liter of nitrogen is dissolved in the entire body. Slightly less than one-half of this nitrogen is dissolved in the water of the body, and a little more than one-half is dissolved in the fat of the body, because nitrogen is five times as soluble in fat as in water. After the diver has become saturated with nitrogen, the sea level volume of nitrogen dissolved in the body at different depths is as follows:
+但在某些裝備（如潛水頭盔或再生式呼吸器）中，CO₂ 可能累積於死腔空氣中被重複吸入：
 
-| Depth (feet) | Liters |
-|--------------|--------|
-| 0            | 1      |
-| 33           | 2      |
-| 100          | 4      |
-| 200          | 7      |
-| 300          | 10     |
+- PCO₂ 升至約 80 mm Hg（約正常值的兩倍）時，潜水員可透過將每分鐘通氣量增加 8–11 倍來代償
+- 超過 80 mm Hg 後，呼吸中樞開始受到抑制而非興奮，呼吸衰竭與嚴重呼吸性酸中毒相繼出現
 
-Several hours are required for the gas pressures of nitrogen in all the body tissues to come nearly to equilibrium with the gas pressure of nitrogen in the alveoli. The reason for this requirement is that the blood does not flow rapidly enough, and the nitrogen does not diffuse rapidly enough, to cause instantaneous equilibrium. The nitrogen dissolved in the water of the body comes to almost complete equilibrium in less than 1 hour, but the fat tissue—which requires five times as much transport of nitrogen and has a relatively poor blood supply—reaches equilibrium only after several hours. Thus, if a person remains underwater at a deep level for only a few minutes, not much nitrogen dissolves in the body fluids and tissues, whereas if the person remains at a deep level for several hours, both the body water and body fat become saturated with nitrogen.
+## 潜水員的減壓（Decompression）
 
-## Decompression Sickness (Bends)
+### 氮氣在組織中的溶解量
 
-If a diver has been beneath the sea long enough that large amounts of nitrogen have dissolved in the body, and the diver then suddenly comes back to the surface of the sea, significant quantities of nitrogen bubbles can develop in the body fluids—either intracellularly or extracellularly—and can cause minor or serious damage in almost any area of the body, depending on the number and sizes of bubbles formed. This phenomenon is called decompression sickness, also known as:
+海平面時，全身約溶解 1 公升的氮。氮在脂肪中的溶解度是水的 5 倍，因此略多於一半的氮溶解於脂肪組織，其餘溶解於體水。
 
-- Compressed air sickness
-- Caisson disease
-- Diver's paralysis
-- Dysbarism
+隨深度增加，組織中溶解的氮量隨之增加：
 
-**Figure 45-3.** Gaseous pressures inside and outside the body showing (A) saturation of the body to high gas pressures when breathing air at a total pressure of 5000 mm Hg and (B) the great excesses of intrabody pressures responsible for bubble formation in the tissues when the body is suddenly returned from 5000 mm Hg to the normal pressure of 760 mm Hg.
+| 深度（英尺） | 溶解氮量（公升） |
+|-------------|----------------|
+| 0（海平面）  | 1              |
+| 33          | 2              |
+| 100         | 4              |
+| 200         | 7              |
+| 300         | 10             |
 
-## Symptoms of Decompression Sickness ("Bends")
+各組織達到與肺泡氮 partial pressure 平衡所需的時間差異很大：
 
-The symptoms of decompression sickness are caused by gas bubbles blocking many blood vessels in different tissues. At first, only the smallest vessels are blocked by minute bubbles, but as the bubbles coalesce, progressively larger vessels are affected. Tissue ischemia and sometimes tissue death result.
+- **體水**：不到 1 小時即可接近完全平衡
+- **脂肪組織**：需數小時（因其需要 5 倍的氮 transport 量，且血液供應相對較差）
 
-- **Joint and muscle pain** affects 85% to 90% of persons who experience decompression sickness. The joint pain accounts for the term "bends" that is often applied to this condition.
-- **Nervous system symptoms** occur in 5% to 10% of people with decompression sickness, ranging from dizziness (about 5%) to paralysis or collapse and unconsciousness (as many as 3%). The paralysis may be temporary, but in some cases, damage is permanent.
-- **"The chokes"** affects about 2% of people with decompression sickness, caused by massive numbers of microbubbles plugging the capillaries of the lungs. This condition is characterized by serious shortness of breath, often followed by severe pulmonary edema and, occasionally, death.
+因此，短時間下潛（數分鐘）不會導致大量氮溶解；但長時間深度潛水後，全身組織（含脂肪）將達到氮的飽和狀態。
 
-## Nitrogen Elimination From the Body; Decompression Tables
+### Decompression Sickness（減壓病，又稱 Bends）
 
-If a diver is brought to the surface slowly, enough of the dissolved nitrogen can usually be eliminated by expiration through the lungs to prevent decompression sickness. About two-thirds of the total nitrogen is liberated in 1 hour, and about 90% is liberated in 6 hours. Tables that detail procedures for safe decompression have been prepared by the U.S. Navy.
+當潜水員在高壓環境暴露夠久以來，體內累積大量溶解氮。若快速上升至水面，組織中的氮 partial pressure 遠高於肺泡氮 partial pressure，氮氣開始經血液釋放至肺泡。若減壓過快，氮氣在組織與血液中來不及溶解而直接形成**氣泡**——氣泡可在細胞內或細胞外形成，堵塞各組織的血管，引發程度不一的損傷（圖 45-3）。
 
-To give the reader an idea of the decompression process, a diver who has been breathing air and has been on the sea bottom for 60 minutes at a depth of 190 feet undergoes decompression according to the following schedule:
+減壓病的別名包括：壓縮空氣病、潛水夫病、Caisson disease、 diver's paralysis、dysbarism。
 
-1. 10 minutes at 50-feet depth
-2. 17 minutes at 40-feet depth
-3. 19 minutes at 30-feet depth
-4. 50 minutes at 20-feet depth
-5. 84 minutes at 10-feet depth
+### 減壓病的症狀
 
-Thus, for a work period on the sea bottom of only 1 hour, the total time for decompression is about 3 hours.
+| 症狀 | 發生率 | 機制 |
+|------|--------|------|
+| **關節與肌肉疼痛（bends）** | 85–90% | 氣泡阻塞關節與肌肉血流 |
+| **神經系統症狀**（眩暈、癱瘓、意識喪失） | 5–10% | 氣泡進入腦與脊髓血管 |
+| **The chokes**（肺部微栓塞） | ~2% | 大量微氣泡堵塞肺微血管，導致嚴重呼吸困難、肺水腫，可能致死 |
 
-## Tank Decompression and Treatment of Decompression Sickness
+### 減壓表的原理
 
-Another procedure widely used for decompression of professional divers is to put the diver into a pressurized tank and then gradually lower the pressure back to normal atmospheric pressure, using essentially the same time schedule as noted earlier. Tank decompression is even more important for treating people in whom symptoms of decompression sickness develop minutes or even hours after they have returned to the surface. In this case, the diver undergoes recompression immediately to a deep level, and then decompression is carried out over a period several times as long as the usual decompression period.
+緩慢減壓可讓溶解的氮有足夠時間經肺泡排出：約三分之二的氮在 1 小時內釋出，約 90% 在 6 小時內釋出。
 
-## "Saturation Diving" and Use of Helium-Oxygen Mixtures in Deep Dives
+美國海軍的減壓表示例：190 英尺深度工作 60 分鐘後的減壓程序：
 
-When divers must work at very deep levels—between 250 feet and nearly 1000 feet—they frequently live in a large compression tank for days or weeks at a time, remaining compressed at a pressure level near that at which they will be working. This procedure keeps the tissues and fluids of the body saturated with the gases to which they will be exposed while diving. Then, when they return to the same tank after working, there are no significant changes in pressure, so decompression bubbles do not occur.
+1. 50 英尺處停留 10 分鐘
+2. 40 英尺處停留 17 分鐘
+3. 30 英尺處停留 19 分鐘
+4. 20 英尺處停留 50 分鐘
+5. 10 英尺處停留 84 分鐘
 
-In very deep dives, especially during saturation diving, helium is usually used in the gas mixture instead of nitrogen for three reasons:
+**工作 1 小時，減壓需約 3 小時**——這正是為何深海潛水的準備與恢復時間往往遠長於實際水底工作時間。
 
-1. It has only about one-fifth the narcotic effect of nitrogen.
-2. Only about one-half as much volume of helium dissolves in the body tissues as nitrogen, and the volume that does dissolve diffuses out of the tissues during decompression several times as rapidly as does nitrogen, thus reducing the problem of decompression sickness.
-3. The low density of helium (one-seventh the density of nitrogen) keeps the airway resistance for breathing at a minimum, which is very important because highly compressed nitrogen is so dense that airway resistance can become extreme, sometimes making the work of breathing beyond endurance.
+### 艙內減壓與減壓病治療
 
-Finally, in very deep dives, it is important to reduce the O₂ concentration in the gaseous mixture because otherwise O₂ toxicity would result. For example, at a depth of 700 feet (22 atm pressure), a 1% O₂ mixture will provide all the O₂ required by the diver, whereas a 21% mixture of O₂ (the percentage in air) delivers a PO₂ to the lungs of more than 4 atm—a level very likely to cause seizures in as little as 30 minutes.
+專業潜水員常使用高壓艙進行減壓。治療減壓病時更為關鍵：患者立即重新加壓至高深度，再以遠較正常減壓時間更長的漸進方式減壓，使氣泡重新溶解後逐步釋出。
 
-# SELF-CONTAINED UNDERWATER BREATHING APPARATUS (SCUBA) DIVING
+## Saturation Diving 與 Helium-Oxygen 混合氣體
 
-Before the 1940s, almost all diving was done using a diving helmet connected to a hose through which air was pumped to the diver from the surface. Then, in 1943, the French explorer Jacques Cousteau popularized a self-contained underwater breathing apparatus, known as SCUBA. The type of SCUBA used in more than 99% of all sports and commercial diving is the open-circuit demand system.
+### Saturation Diving
 
-**Figure 45-4.** Open-circuit demand type of SCUBA (self-contained underwater breathing apparatus).
+當潜水員需在 250–1000 英尺的深度工作時，常採用 saturation diving——潜水員在與工作深度相同壓力的大型壓力艙中生活數日至數週，使體內組織與液體達到氣體飽和。此後往返工作地點時，艙內外壓力相同，不會產生減壓氣泡問題。
 
-## Components of the Open-Circuit Demand System
+### 使用 Helium 的理由
 
-The system consists of the following components:
+在極深度潛水（尤其是 saturation diving）中，氦氣取代氮氣的原因有三：
 
-1. One or more tanks of compressed air or some other breathing mixture
-2. A first-stage "reducing" valve for reducing the very high pressure from the tanks to a low pressure level
-3. A combination inhalation "demand" valve and exhalation valve that allows air to be pulled into the lungs with slight negative pressure of breathing and then to be exhaled into the sea at a pressure level slightly positive to the surrounding water pressure
-4. A mask and tube system with small "dead space"
+1. **氮醉較輕**：高壓氮具有麻醉作用（類似酒精），氦的麻醉效力約為氮的五分之一
+2. **溶解量少、擴散快**：氦在組織中的溶解量約為氮的一半，且減壓時擴散排出速度更快，減少減壓問題
+3. **密度低**：氮在高壓下密度極高，氣道阻力可能大到難以呼吸；氦的密度僅為氮的七分之一，大幅降低呼吸阻力
 
-## Operation of the Demand System
+### 深度潛水中的 O₂ 控制
 
-The first-stage reducing valve reduces the pressure from the tanks so that the air delivered to the mask has a pressure only a few mm Hg greater than the surrounding water pressure. The breathing mixture does not flow continually into the mask. Instead, with each inspiration, slight extra negative pressure in the demand valve of the mask pulls the diaphragm of the valve open, and this action automatically releases air from the tank into the mask and lungs. In this way, only the amount of air needed for inhalation enters the mask. Then, on expiration, the air cannot go back into the tank but, instead, is expired into the water.
+深度越大，總壓越高，若繼續使用空氣（含 21% O₂），肺泡 PO₂ 將遠超安全範圍。以 700 英尺深度（22 atm）為例：
+- 若供以 1% O₂ 混合氣，PO₂ ≈ 0.22 atm（≈167 mm Hg），即可滿足需求
+- 若供以 21% O₂（空氣比例），PO₂ ≈ 4.6 atm——超過 2 atm 的 O₂ 可在 30 分鐘內引發痙攣
 
-## Limitations of SCUBA
+因此，深度潛水必須精確控制 O₂ 濃度。
 
-The most important problem with SCUBA is the limited amount of time a diver can remain beneath the water surface—for example, only a few minutes are possible at a 200-foot depth. The reason for this limitation is that tremendous airflow from the tanks is required to wash CO₂ out of the lungs; the greater the depth, the greater the airflow in terms of quantity of air per minute required because the volumes have been compressed to small sizes.
+## SCUBA（自攜式水下呼吸裝備）
 
-# SUBMARINE PHYSIOLOGY
+### 開路需求式 SCUBA 的構造與運作原理
 
-## Escape From Submarines
+圖 45-4 說明最常見的開路需求式 SCUBA 系統，由以下组件組成：
 
-Essentially the same problems encountered in deep sea diving are often found in relation to submarines, especially when it is necessary to escape from a submerged submarine. Escape is possible from as deep as 300 feet without use of any apparatus. However, proper use of rebreathing devices—especially when using helium—can theoretically allow escape from as deep as 600 feet or perhaps more.
+1. 高壓壓縮空氣或混合氣瓶
+2. **一級減壓閥**：將氣瓶高壓減至低壓
+3. **需求閥門**：吸氣時的輕微負壓打開閥門，自動釋出適量氣體；呼氣時氣體直接排入水中
+4. 面罩與氣管系統（含少量死腔）
 
-One of the major problems of escape is prevention of air embolism. As the person ascends, the gases in the lungs expand and sometimes rupture a pulmonary blood vessel, forcing the gases to enter the vessel and cause air embolism of the circulation. Therefore, as the person ascends, he or she must make a special effort to exhale continually.
+### SCUBA 的限制
 
-## Health Problems in the Submarine Internal Environment
+SCUBA 最主要的限制是潜水員在水下的**可停留時間**。深度越大，每分鐘所需供給的压缩空氣量越多（因為氣體被壓縮至更小體積），快速消耗有限的氣瓶容量。例如在 200 英尺深度，潜水員可能僅能停留數分鐘。
 
-Except for escape, submarine medicine generally centers on several engineering problems to keep hazards out of the internal environment:
+## 潛艇逃生生理學
 
-1. **Radiation hazards** exist in atomic submarines, but with appropriate shielding, the amount of radiation received by the crew submerged beneath the sea has been less than the normal amount of radiation received above the surface of the sea from cosmic rays.
-2. **Poisonous gases** on occasion escape into the atmosphere of the submarine and must be controlled rapidly. For example, during several weeks' submergence, cigarette smoking by the crew can liberate enough carbon monoxide—if not removed rapidly—to cause carbon monoxide poisoning. On occasion, even Freon gas has been found to diffuse out of refrigeration systems in sufficient quantity to cause toxicity.
+從潛艇逃生時面臨與深海潛水相同的問題。自 300 英尺深度逃生理論上可不需裝備；若使用再生式呼吸器（尤其是含氦者），理論上可從 600 英尺或更深處逃離。
 
-# HYPERBARIC OXYGEN THERAPY
+### 空氣栓塞的預防
 
-The intense oxidizing properties of high-pressure O₂ (hyperbaric oxygen) can have valuable therapeutic effects in several important clinical conditions. Therefore, large pressure tanks are now available in many medical centers into which patients can be placed and treated with hyperbaric O₂. The O₂ is usually administered at PO₂ values of 2 to 3 atm pressure through a mask or intratracheal tube, whereas the gas around the body is normal air compressed to the same high-pressure level. The same oxidizing free radicals responsible for O₂ toxicity are also believed to be responsible for at least some of the therapeutic benefits.
+上浮時若不主動持續呼氣，肺內氣體膨脹可能使肺血管破裂，氣體進入循環形成空氣栓塞。因此，上浮時必須不斷用力呼氣以維持肺部氣體通道暢通。
 
-One successful use of hyperbaric O₂ has been for treatment of gas gangrene. The bacteria that cause this condition—clostridial organisms—grow best under anaerobic conditions and stop growing at O₂ pressures greater than about 70 mm Hg. Therefore, hyperbaric oxygenation of the tissues can frequently stop the infectious process entirely and thus convert a condition that formerly was almost 100% fatal into one that is cured in most cases by early treatment with hyperbaric therapy.
+## 高壓氧療（Hyperbaric Oxygen Therapy）
 
-Other conditions in which hyperbaric O₂ therapy has been either valuable or possibly valuable include:
+### 治療原理
 
-- Decompression sickness
-- Arterial gas embolism
-- Carbon monoxide poisoning
-- Osteomyelitis
-- Myocardial infarction
+高壓氧療使用 **2–3 atm** 的 PO₂ 經面罩或氣管內管給予，同時讓身體浸泡在壓縮至相同壓力的空氣艙中。高壓 O₂ 本身具有的強氧化游離基既可造成毒性，也是治療效应的基础。
 
-# BIBLIOGRAPHY
+### 主要適應症
 
-Brubakk AO, Ross JA, Thom SR: Saturation diving; physiology and pathophysiology. Compr Physiol 4:1229, 2014.
+- **氣性壞疽（gas gangrene）**：由梭狀芽孢桿菌引起，厭氧菌在 PO₂ > 70 mm Hg 時停止生長；高壓氧可將組織 PO₂ 提升至此水準以上，使原本幾乎 100% 致死的感染得以逆轉
+- **減壓病與動脈氣栓塞**：高壓環境使氣泡重新溶解，再漸進減壓使氣體安全排出
+- **一氧化碳中毒**：高壓 O₂ 可加速碳氧血紅素的清除
+- **骨髓炎、心肌梗塞**等
 
-Castellini M: Life under water: physiological adaptations to diving and living at sea. Compr Physiol 2:1889, 2012.
+---
 
-Doolette DJ, Mitchell SJ: Hyperbaric conditions. Compr Physiol 1:163, 2011.
+# 參考文獻
 
-Fitz-Clarke JR: Breath-hold diving. Compr Physiol 8:585, 2018.
-
-Leach RM, Rees PJ, Wilmshurst P: Hyperbaric oxygen therapy. BMJ 317:1140, 1998.
-
-Pendergast DR, Lundgren CE: The underwater environment: cardiopulmonary, thermal, and energetic demands. J Appl Physiol 106:276, 2009.
-
-Pendergast DR, Moon RE, Krasney JJ, et al: Human physiology in an aquatic environment. Compr Physiol 5:1705, 2015.
-
-Poff AM, Kernagis D, D'Agostino DP: Hyperbaric environment: oxygen and cellular damage versus protection. Compr Physiol 7:213, 2016.
-
-Rostain JC, Lavoute C: Neurochemistry of pressure-induced nitrogen and metabolically inert gas narcosis in the central nervous system. Compr Physiol 6:1579, 2016.
-
-Vann RD, Butler FKK, Mitchell SJ, Moon RE: Decompression illness. Lancet 377:153, 2011.
-
-# UNIT IX: THE NERVOUS SYSTEM
-
-The nervous system is unique in the vast complexity of thought processes and control actions that it can perform. Each minute it receives literally millions of bits of information from the different sensory nerves and sensory organs and then integrates all these to determine responses to be made by the body. Before beginning this discussion of the nervous system, the reader should review Chapters 5 and 7, which present the principles of membrane potentials and transmission of signals in nerves and through neuromuscular junctions.
-
-# GENERAL DESIGN OF THE NERVOUS SYSTEM
-
-# CENTRAL NERVOUS SYSTEM NEURON: THE BASIC FUNCTIONAL UNIT
-
-The central nervous system is estimated to contain 80 to 100 billion neurons. A typical neuron of a type found in the brain motor cortex is shown in Figure 46-1. Incoming signals enter this neuron through synapses located mostly on the neuronal dendrites, but also on the cell body. For different types of neurons, there may be only a few hundred or as many as 200,000 such synaptic connections from input fibers. In contrast, the output signal travels via a single axon leaving the neuron. Then, this axon may have many separate branches to other parts of the nervous system or peripheral body. A special feature of most synapses is that the signal normally passes only in the forward direction.
+1. Brubakk AO, Ross JA, Thom SR: Saturation diving; physiology and pathophysiology. Compr Physiol 4:1229, 2014.
+2. Castelli M: Life under water: physiological adaptations to diving and living at sea. Compr Physiol 2:1889, 2012.
+3. Doolette DJ, Mitchell SJ: Hyperbaric conditions. Compr Physiol 1:163, 2011.
+4. Fitz-Clarke JR: Breath-hold diving. Compr Physiol 8:585, 2018.
+5. Leach RM, Rees PJ, Wilmshurst P: Hyperbaric oxygen therapy. BMJ 317:1140, 1998.
+6. Pendergast DR, Lundgren CE: The underwater environment: cardiopulmonary, thermal, and energetic demands. J Appl Physiol 106:276, 2009.
+7. Poff AM, Kernagis D, D'Agostino DP: Hyperbaric environment: oxygen and cellular damage versus protection. Compr Physiol 7:213, 2016.
+8. Rostain JC, Lavoute C: Neurochemistry of pressure-induced nitrogen and metabolically inert gas narcosis in the central nervous system. Compr Physiol 6:1579, 2016.
+9. Vann RD, Butler FKK, Mitchell SJ, Moon RE: Decompression illness. Lancet 377:153, 2011.

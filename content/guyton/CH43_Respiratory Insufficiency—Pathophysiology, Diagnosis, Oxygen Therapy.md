@@ -3,173 +3,161 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH43"
 title: "Respiratory Insufficiency—Pathophysiology, Diagnosis, Oxygen Therapy"
 book: "Guyton & Hall"
-summary: "Chapter CH43 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章探討常見肺部疾病的病理生理學、肺功能檢查的原理與臨床應用，以及缺氧的分類與氧氣治療的適應症。氣道阻塞性疾病（如肺氣腫、氣喘）以 FEV₁/FVC ratio 下降為特徵；肺泡填塞性疾病（如肺炎）導致 diffusion surface area 減少與 V̇A/Q̇ ratio 失衡；肺塌陷（atelectasis）則源於氣道阻塞或 surfactant 缺乏。缺氧分為五類型，各有不同的生理機制與氧氣治療效果。
 ---
 
-# CHAPTER 43: Pulmonary Function Tests and Pathophysiology of Specific Pulmonary Abnormalities
+# CHAPTER 43
+呼吸功能檢查與特定肺部疾病的病理生理學
 
-## Airway Obstruction and Lung Expansion
+## 章節導讀
 
-During airway obstruction, air enters the lungs easily during inspiration while the alveoli expand, but becomes trapped during expiration because the airways collapse more easily than normal. Over months or years, this effect increases both the total lung capacity (TLC) and residual volume (RV). Additionally, because of airway obstruction and their increased tendency to collapse, the maximum expiratory flow rate is greatly reduced. The classic disease that causes severe airway obstruction is asthma, though serious obstruction also occurs in some stages of emphysema.
+呼吸功能檢查是評估肺部疾病的重要工具，其中 **spirometry**（肺活量測定）能區分阻塞性與限制性肺疾病，並量化其嚴重程度。本章以圖示與數值說明各項檢查指標的臨床意義：例如 **FEV₁/FVC ratio** 在正常人为 80%，但在氣道阻塞性疾病可降至 47% 以下。
 
-## Forced Expiratory Vital Capacity and Forced Expiratory Volume
+不同疾病的病理生理機制各具特色：肺氣腫源於慢性發炎與肺泡壁破壞，導致 diffusing capacity 下降與 pulmonary hypertension；肺炎使肺泡填滿滲出液，減少氣體交換表面積；Atelectasis 源於氣道阻塞或 surfactant 缺乏，導致肺泡塌陷；氣喘則是支氣管平滑肌痙攣性收縮，使呼氣气流嚴重受阻。理解這些機制，才能針對不同缺氧類型給予正確的氧氣治療。
 
-Another useful clinical pulmonary test—one that is also easy to perform—is recording the forced expiratory vital capacity (FVC) on a spirometer. In performing the FVC maneuver, the person first inspires maximally to TLC and then exhales into the spirometer with maximum expiratory effort as rapidly and as completely as possible. The total distance of the downslope of the lung volume record represents the FVC.
+## 肺功能檢查與病理變化
 
-It is customary to compare the recorded forced expiratory volume during the first second (FEV1) with the normal value. In the normal person, the percentage of the FVC that is expired in the first second divided by the total FVC (FEV1/FVC%) is 80%. However, with airway obstruction, this value decreases to only 47%. In persons with serious airway obstruction—as often occurs with acute asthma—this value can decrease to less than 20%.
+### 氣道阻塞與肺容積擴張
 
-**Figure 43-3.** Recordings during the forced vital capacity maneuver in a healthy person (A) and in a person with partial airway obstruction (B). (The "zero" on the volume scale is residual volume.) FEV1, forced expiratory volume during the first second; FVC, forced vital capacity.
+氣道阻塞時，吸氣相空氣容易進入並擴張肺泡，但呼氣相氣道更容易塌陷，導致氣體滯留。歷經數月至數年，TLC（total lung capacity）與 RV（residual volume）皆逐漸增加，最大呼氣流速則大幅下降。典型疾病包括**氣喘**以及肺氣腫的部分階段。
 
-## Chronic Pulmonary Emphysema
+### 用力吐氣肺活量與第一秒用力吐氣量
 
-The term pulmonary emphysema literally means excess air in the lungs. However, this term is usually used to describe a complex obstructive and destructive process of the lungs caused by many years of smoking. It results from the following major pathophysiological changes:
+**FVC（forced vital capacity）** 測定時，受試者先深吸至 TLC，再以最快速度用力吐至 RV。臨床上最常分析的指標是 **FEV₁（first second forced expiratory volume）**——第一秒內可吐出多少肺活量。
 
-1. **Chronic infection** caused by inhaling smoke or other substances that irritate the bronchi and bronchioles. The chronic infection seriously deranges the normal protective mechanisms of the airways, including partial paralysis of the cilia of the respiratory epithelium—an effect caused by nicotine. As a result, mucus cannot be moved easily out of the passageways, and stimulation of excess mucus secretion occurs, which further exacerbates the condition. There is also inhibition of the alveolar macrophages, so they become less effective in combating infection.
+正常人的 **FEV₁/FVC%** 約為 **80%**。氣道阻塞時，此比值降至約 47%；急性氣喘嚴重發作時，可低於 20%（圖 43-3）。
 
-2. **Chronic obstruction of smaller airways** — The infection, excess mucus, and inflammatory edema of the bronchiolar epithelium together cause chronic obstruction of many of the smaller airways.
+**Table: FEV₁/FVC% 臨床意義**
 
-3. **Destruction of alveolar walls** — The obstruction of the airways makes it especially difficult to expire, thus causing entrapment of air in the alveoli and overstretching them. This effect, combined with the lung infection, causes marked destruction of as much as 50% to 80% of the alveolar walls.
+| 族群 | FEV₁/FVC% |
+|------|-----------|
+| 正常人 | ~80% |
+| 氣道阻塞 | ~47% |
+| 嚴重氣喘發作 | <20% |
 
-The physiological effects of chronic emphysema are variable, depending on the severity of the disease and the relative degrees of bronchiolar obstruction versus lung parenchymal destruction. The different abnormalities include the following:
+## 慢性肺氣腫
 
-1. The bronchiolar obstruction increases airway resistance and results in greatly increased work of breathing. It is especially difficult for the person to move air through the bronchioles during expiration because the compressive force on the outside of the lung not only compresses the alveoli but also compresses the bronchioles, which further increases their resistance during expiration.
+**Pulmonary emphysema**（肺氣腫）並非單純的「肺部空氣過多」，而是由多年吸菸導致的複雜阻塞性與破壞性過程。
 
-2. The marked loss of alveolar walls greatly decreases the diffusing capacity of the lung, reducing the ability of the lungs to oxygenate the blood and remove CO₂ from the blood.
+### 致病機制
 
-3. The obstructive process is frequently much worse in some parts of the lungs than in other parts, so some portions are well ventilated while other portions are poorly ventilated. This situation often causes extremely abnormal ventilation–perfusion ratios, with a very low V̇A/V̇Q in some parts (physiological shunt), resulting in poor aeration of the blood, and a very high V̇A/V̇Q in other parts (physiological dead space), resulting in wasted ventilation.
+1. **慢性發炎**：菸霧刺激支氣管與細支氣管，導致慢性發炎。尼古丁使呼吸道纖毛運動麻痺，黏液清除受阻；肺泡巨噬細胞功能也受抑制，感染更難控制
+2. **慢性氣道阻塞**：發炎、黏液過多與水腫共同使小氣道長期部分阻塞
+3. **肺泡壁破壞**：呼氣困難導致氣體滯留與肺泡過度擴張，加上感染，共同造成約 50–80% 的肺泡壁消失
 
-4. Loss of large portions of the alveolar walls also decreases the number of pulmonary capillaries through which blood can pass. As a result, pulmonary vascular resistance often increases markedly, causing pulmonary hypertension, which in turn overloads the right side of the heart and frequently causes right-sided heart failure.
+圖 43-4 對比正常肺與肺氣腫肺，可見後者肺泡壁大片崩解。
 
-Chronic emphysema usually progresses slowly over many years. Both hypoxia and hypercapnia develop because of hypoventilation of many alveoli plus loss of alveolar walls. The net result is severe, prolonged, devastating air hunger that can last for years until the hypoxia and hypercapnia cause death—a high penalty to pay for smoking.
+### 病理生理效應
 
-**Figure 43-4.** Contrast of the emphysematous lung (top) with the normal lung (bottom) showing extensive alveolar destruction in emphysema. (Courtesy Patricia Delaney and the Department of Anatomy, The Medical College of Wisconsin, Milwaukee, WI.)
+1. **氣道阻力增加**：呼氣時，肺臟外部的壓迫不只壓縮肺泡，也同時壓迫細支氣管，使其阻力進一步增加——這是肺氣腫患者呼氣困難的主要原因
+2. **Diffusing capacity 下降**：大量肺泡壁消失，氣體交換表面積大幅減少，血液氧合與 CO₂ 清除能力皆受損
+3. **Ventilation-perfusion ratio 失衡**：各區域阻塞程度不一，某些區域血流佳但通氣差（V̇A/Q̇ 低 → 生理分流），另一些區域通氣佳但血流差（V̇A/Q̇ 高 → 生理死腔）
+4. **Pulmonary hypertension 與右心衰竭**：肺泡壁消失使肺微血管數量減少，肺血管阻力大幅上升，右心負荷加重，最終導致右心衰竭（cor pulmonale）
 
-## Pneumonia—Lung Inflammation and Fluid in Alveoli
+慢性肺氣腫進展緩慢但不可逆，患者長期處於缺氧與高碳酸血症狀態，呼吸困難持續惡化，直至致命。
 
-The term pneumonia includes any inflammatory condition of the lung in which some or all of the alveoli are filled with fluid and blood cells. A common type is bacterial pneumonia, caused most frequently by pneumococci. This disease begins with infection in the alveoli; the pulmonary membrane becomes inflamed and highly porous so that fluid and even red and white blood cells leak out of the blood into the alveoli. Thus, the infected alveoli become progressively filled with fluid and cells, and the infection spreads by extension of bacteria or virus from alveolus to alveolus. Eventually, large areas of the lungs—sometimes whole lobes or even a whole lung—become "consolidated," meaning they are filled with fluid and cellular debris.
+## 肺炎
 
-In persons with pneumonia, the gas exchange functions of the lungs decline in different stages of the disease. In early stages, the pneumonia process might be localized to only one lung, with alveolar ventilation being reduced while blood flow through the lung continues normally. This condition causes two major pulmonary abnormalities:
+**Pneumonia** 泛指任何伴有肺泡液體填充的肺部炎症反應。最常見的细菌性肺炎（如肺炎鏈球菌）導致發炎部位的上皮通透性增加，液體、紅血球與白血球滲入肺泡，感染沿著肺泡蔓延，最終可使整葉肺實質「實變」（consolidated）。
 
-1. Reduction in the total available surface area of the respiratory membrane
-2. A decreased ventilation–perfusion ratio
+### 病理生理效應
 
-Both effects cause hypoxemia (low blood O₂) and hypercapnia (high blood CO₂).
+1. **Respiratory membrane 表面積減少**：發炎區域的肺泡失去通氣功能
+2. **V̇A/Q̇ ratio 失衡**：發炎區血流持續但通氣受阻
 
-**Figure 43-5.** Lung alveolar changes in pneumonia and emphysema.
+圖 43-5 說明肺炎與肺氣腫的肺泡變化對比；圖 43-6 量化其影響：流經充氣良好的肺葉血液 saturation 可達 97%，但流經未充氣肺葉的血液 saturation 僅約 60%，兩者混合後主動脈血的平均 O₂ saturation 僅約 78%——遠低於正常。
 
-**Figure 43-6.** Effect of pneumonia on percentage saturation of oxygen (O₂) in the pulmonary artery, the right and left pulmonary veins, and the aorta. Blood passing through the aerated lung becomes 97% saturated with O₂, whereas that passing through the unaerated lung is about 60% saturated. Therefore, the average saturation of the blood pumped by the left heart into the aorta is only about 78%—far below normal.
+## 肺塌陷
 
-## Atelectasis—Collapse of the Alveoli
+**Atelectasis**（肺塌陷）指肺泡的塌陷，可由以下原因引起：
 
-Atelectasis means collapse of the alveoli. It can occur in localized areas of a lung or in an entire lung. Common causes are:
+### 氣道阻塞導致肺塌陷
 
-1. Total obstruction of the airway
-2. Lack of surfactant in the fluids lining the alveoli
+小支氣管被黏液堵塞，或主支氣管被大塊黏液栓/腫瘤阻塞時，阻塞處遠端的氣體被流經的微血管血液持續吸收。若肺組織尚具可塑性，肺泡隨即塌陷；若肺組織已纖維化而僵硬，肺泡內會形成極度負壓，將間質液體吸入肺泡，使其充滿液體而非空氣——這就是**大範圍肺塌陷（massive collapse）** 的典型過程。
 
-### Airway Obstruction Causes Lung Collapse
+大範圍肺塌陷時，缺氧的肺泡會誘發局部血管收縮（hypoxic vasoconstriction），血流被轉移至通氣良好的肺葉。幸運的是，五分之六的血流會繞道至通氣正常的肺葉，因此主動脈血的 O₂ saturation 僅適度下降，即使單側全肺無通氣（圖 43-7）。
 
-The airway obstruction type of atelectasis usually results from:
+### Surfactant 缺乏導致肺塌陷
 
-- Blockage of many small bronchi with mucus
-- Obstruction of a major bronchus by a large mucous plug or solid object such as a tumor
+Surfactant 由肺泡上皮細胞分泌，能將肺泡液體的表面張力降低 2–10 倍，是維持肺泡開放的關鍵物質。
 
-The air trapped beyond the block is absorbed within minutes to hours by the blood flowing in the pulmonary capillaries. If the lung tissue is pliable enough, this leads simply to collapse of the alveoli. However, if the lung is rigid because of fibrotic tissue and cannot collapse, absorption of air from the alveoli creates very negative pressures within the alveoli, which pull fluid out of the pulmonary capillaries into the alveoli, thus causing them to fill completely with edema fluid. This process almost always occurs when an entire lung becomes atelectatic—a condition called massive collapse of the lung.
+**Hyaline membrane disease**（新生兒呼吸窘迫症候群）時，肺泡分泌的 surfactant 嚴重不足，肺泡液體表面張力升高數倍，肺臟傾向塌陷或充滿液體。這是早產兒死亡的主要原因之一。
 
-The effects on overall pulmonary function caused by massive collapse (atelectasis) of an entire lung are significant. Collapse of the lung tissue not only occludes the alveoli but also almost always increases the resistance to blood flow through the pulmonary vessels of the collapsed lung. This resistance increase occurs partially because of the lung collapse, which compresses and folds the vessels as lung volume decreases. Additionally, hypoxia in the collapsed alveoli causes vasoconstriction. Because of this vascular constriction, blood flow through the atelectatic lung is greatly reduced. Fortunately, most blood is routed through the ventilated lung and therefore becomes well aerated. In the typical situation, five-sixths of the blood passes through the aerated lung, and only one-sixinth passes through the unaerated lung. As a result, the overall ventilation–perfusion ratio is only moderately compromised, so aortic blood has only mild O₂ desaturation despite total loss of ventilation in an entire lung.
+## 氣喘
 
-**Figure 43-7.** Effect of atelectasis on aortic blood oxygen (O₂) saturation.
+**Asthma** 的特徵是支氣管平滑肌的痙攣性收縮，導致氣道嚴重阻塞與呼吸困難。全球約 2.35–3.39 億人受此疾病困擾。
 
-### Lack of Surfactant as a Cause of Lung Collapse
+### 致病機制
 
-Surfactant is secreted by special alveolar epithelial cells into the fluids that coat the inside surface of the alveoli. Surfactant decreases the surface tension in the alveoli by 2- to 10-fold, which normally plays a major role in preventing alveolar collapse. However, in several conditions—such as hyaline membrane disease (also called respiratory distress syndrome), which often occurs in newborn premature babies—the quantity of surfactant secreted by the alveoli is so greatly depressed that the surface tension of the alveolar fluid becomes several times greater than normal. This surfactant deficiency causes a serious tendency for the lungs to collapse or become filled with fluid. Many of these infants die of suffocation when large portions of the lungs become atelectatic.
+約 70% 的年輕患者屬於**過敏性氣喘**——體內產生過量 IgE 抗體，與過敏原結合後激活肺間質中的 **mast cells**，釋放多種介質：
 
-## Asthma—Spasmodic Contraction of Smooth Muscles in Bronchioles
+| 介質 | 效應 |
+|------|------|
+| **Histamine** | 血管擴張、水腫 |
+| **Slow-reacting substance of anaphylaxis（leukotrienes 混合物）** | 支氣管痙攣（最主要因素） |
+| **Eosinophilic chemotactic factor** | 吸引嗜酸性粒細胞 |
+| **Bradykinin** | 支氣管收縮 |
 
-Asthma is characterized by spastic contraction of the smooth muscle in the bronchioles, which partially obstructs the bronchioles and causes extremely difficult breathing. The prevalence of asthma has been increasing and affects 7% to 8% of all people in the United States, with even higher rates in some groups such as non-Hispanic blacks. The World Health Organization estimates that over 235 million people worldwide suffer from asthma, although some estimates are as high as 339 million people.
+結果：支氣管水腫 + 黏液分泌增加 + 平滑肌痙攣。
 
-The usual cause of asthma is contractile hypersensitivity of the bronchioles in response to foreign substances in the air. In about 70% of patients younger than 30 years, asthma is caused by allergic hypersensitivity—especially sensitivity to plant pollens. In older people, the cause is almost always hypersensitivity to nonallergenic types of irritants in the air, such as irritants in smog.
+### 為何呼氣比吸氣更困難
 
-The typical allergic person tends to form abnormally large amounts of immunoglobulin E (IgE) antibodies, and these antibodies cause allergic reactions when they react with the specific antigens that have caused them to develop. In persons with asthma, these antibodies are mainly attached to mast cells present in the lung interstitium in close association with the bronchioles and small bronchi.
+氣喘患者吸氣尚可，但呼氣極度困難。這是因為：呼氣時胸腔內壓升高，外部壓迫作用於已部分阻塞的細支氣管，使其進一步塌陷——吸氣時則相反，肺臟擴張反而稍微拉開氣道。
 
-When an asthmatic person breathes in pollen to which they are sensitive—meaning pollen to which the person has developed IgE antibodies—the pollen reacts with the mast cell–attached antibodies and causes the mast cells to release several substances:
+長期反覆發作後，胸廓永久性擴大形成**桶狀胸**，FRC 與 RV 永久性增加。
 
-1. Histamine
-2. Slow-reacting substance of anaphylaxis (a mixture of leukotrienes)
-3. Eosinophilic chemotactic factor
-4. Bradykinin
+## 結核病
 
-The combined effects of all these factors—especially the slow-reacting substance of anaphylaxis—are:
+結核菌在肺臟引發肉芽腫性反應：巨噬細胞浸潤並包圍病灶，纖維組織形成 **tubercle（結節）**，將感染侷限化。若人體免疫系統無法控制（約 3% 未治療患者），結核菌擴散並大範圍破壞肺組織。
 
-1. Localized edema in the walls of the small bronchioles, as well as secretion of thick mucus into the bronchiolar lumens
-2. Spasm of the bronchiolar smooth muscle
+### 晚期病理效應
 
-The bronchiolar diameter becomes reduced more during expiration than during inspiration in persons with asthma as a result of bronchiolar collapse during expiratory effort that compresses the outsides of the bronchioles. Because the bronchioles are already partially occluded, further occlusion from external pressure creates especially severe obstruction during expiration. The asthmatic person often can inspire quite adequately but has great difficulty expiring. Clinical measurements show greatly reduced maximum expiratory rate and reduced timed expiratory volume, all resulting in dyspnea, or "air hunger."
+1. **呼吸肌工作量增加**：纖維化使肺順應性下降，Vital capacity 與 breathing capacity 降低
+2. **Respiratory membrane 變厚 + 表面積減少**：Diffusing capacity 逐步下降
+3. **異常 V̇A/Q̇ ratio**：進一步減少 O₂ 與 CO₂ 的整體擴散
 
-The functional residual capacity and residual volume become especially increased during an acute asthma attack because of the difficulty expiring air from the lungs. Over years, the chest cage becomes permanently enlarged, causing a so-called barrel chest, and both the functional residual capacity and residual volume become permanently increased.
+## 缺氧與氧氣治療
 
-## Tuberculosis
+### 缺氧的分類
 
-In tuberculosis, the tubercle bacilli cause a peculiar tissue reaction in the lungs, including:
+**Table: 缺氧的原因分類**
 
-1. Invasion of the infected tissue by macrophages
-2. "Walling off" of the lesion by fibrous tissue to form the so-called tubercle
+| 類型 | 機制 | 範例 |
+|------|------|------|
+| **1. 環境性缺氧** | 大氣 O₂ 不足或通氣不足 | 高山缺氧、神經肌肉疾病導致 hypoventilation |
+| **2. 肺源性疾病** | 氣道阻力增加、compliance 下降、V̇A/Q̇ 失衡、diffusion 受限 | 肺氣腫、肺炎 |
+| **3. 右至左分流** | 靜脈血未經氧合即進入體循環 | 先天性心臟病 |
+| **4. 血液攜氧障礙** | Hemoglobin 異常或數量不足、循環障礙 | 貧血、一氧化碳中毒 |
+| **5. 組織用氧障礙** | 細胞氧化酶被毒物抑制 | 氰化物中毒、維生素 B₁ 缺乏（腳氣病）|
 
-This walling-off process helps limit further transmission of the tubercle bacilli in the lungs and is part of the protective process against extension of the infection. However, in about 3% of people in whom tuberculosis develops—if the disease is not treated—the walling-off process fails, and tubercle bacilli spread throughout the lungs, often causing extreme destruction of lung tissue with formation of large abscess cavities.
+### 組織用氧障礙——Cyanide 中毒
 
-Thus, tuberculosis in its late stages is characterized by many areas of fibrosis throughout the lungs, as well as by reduced total amount of functional lung tissue. These effects cause:
+Cyanide 抑制**細胞色素氧化酶（cytochrome oxidase）**，使細胞即使有充足 O₂ 也無法利用。這種「組織中毒性缺氧」的特點是：動靜脈 O₂ 含量差極小（組織無法取用 O₂），但肺部功能正常。
 
-1. Increased "work" on the part of the respiratory muscles to cause pulmonary ventilation and reduced vital capacity and breathing capacity
-2. Reduced total respiratory membrane surface area and increased thickness of the respiratory membrane, causing progressively diminished pulmonary diffusing capacity
-3. Abnormal ventilation–perfusion ratio in the lungs, further reducing overall pulmonary diffusion of O₂ and CO₂
+### 缺氧對身體的影響
 
-## Hypoxia and Oxygen Therapy
+嚴重缺氧可致細胞死亡。程度較輕時主要表現：
 
-Almost any of the conditions discussed can cause serious cellular hypoxia throughout the body. Sometimes O₂ therapy is of great value; other times it is of moderate value; and at still other times it is of almost no value. Therefore, it is important to understand the different types of hypoxia.
+1. **精神活動受抑制**，嚴重時意識模糊甚至昏迷
+2. **肌肉工作能力下降**
 
-### Classification of the Causes of Hypoxia
+這些效應在下一章討論高山生理學時會進一步延伸。
 
-1. **Inadequate oxygenation of the blood in the lungs because of extrinsic reasons**
-   - Deficiency of O₂ in the atmosphere
-   - Hypoventilation (neuromuscular disorders)
+### 氧氣治療的適用性
 
-2. **Pulmonary disease**
-   - Hypoventilation caused by increased airway resistance or decreased pulmonary compliance
-   - Abnormal alveolar ventilation–perfusion ratio (including increased physiological dead space or increased physiological shunt)
-   - Diminished respiratory membrane diffusion
+| 缺氧類型 | O₂ 治療效果 |
+|----------|------------|
+| 環境性 / 肺源性疾病 | **高度有效** |
+| 右至左分流 | 效果有限（血液根本未流經充氣肺泡）|
+| 血液攜氧障礙 | 有限（Hb 已飽和時多餘 O₂ 僅能溶於血漿）|
+| 組織用氧障礙 | **無效**（根本問題在細胞，而非 O₂ 供應）|
 
-3. **Venous-to-arterial shunts (right-to-left cardiac shunts)**
+O₂ 可經以下方式給予：頭罩（O₂ tent）、面罩、或鼻導管。根據缺氧類型選擇適當給氧方式，才能發揮治療效益。
 
-4. **Inadequate O₂ transport to the tissues by the blood**
-   - Anemia or abnormal hemoglobin
-   - General circulatory deficiency
-   - Localized circulatory deficiency (peripheral, cerebral, coronary vessels)
-   - Tissue edema
+---
 
-5. **Inadequate tissue capability of using O₂**
-   - Poisoning of cellular oxidation enzymes
-   - Diminished cellular metabolic capacity for using oxygen because of toxicity, vitamin deficiency, or other factors
+# 參考文獻
 
-### Inadequate Tissue Capability to Use Oxygen
-
-The classic cause of inability of tissues to use O₂ is cyanide poisoning, in which the action of the enzyme cytochrome oxidase is blocked by cyanide to such an extent that the tissues simply cannot use O₂, even when plenty is available. Also, deficiencies of some tissue cellular oxidative enzymes or other elements in the tissue oxidative system can lead to this type of hypoxia. A special example occurs in the disease beriberi, in which several important steps in tissue utilization of oxygen and the formation of CO₂ are compromised because of vitamin B₁ deficiency.
-
-### Effects of Hypoxia on the Body
-
-Hypoxia—if severe enough—can cause death of cells throughout the body. In less severe degrees, it mainly causes:
-
-1. Depressed mental activity, sometimes culminating in coma
-2. Reduced work capacity of the muscles
-
-These effects are discussed further in Chapter 44 in relation to high-altitude physiology.
-
-## Oxygen Therapy in Different Types of Hypoxia
-
-O₂ can be administered by:
-
-1. Placing the patient's head in a "tent" that contains air fortified with O₂
-2. Allowing the patient to breathe pure O₂ or high concentrations of O₂ from a mask
-3. Administering O₂ through an intranasal tube
-
-Recalling the basic physiological principles of the different types of hypoxia, one can readily decide when O₂ therapy will be beneficial.
+1. WHO: Asthma fact sheet. Geneva: World Health Organization, 2017.
+2. Ruppel GL: Manual of Pulmonary Function Testing. 10th ed. St. Louis: Mosby, 2012.
+3. West JB: Respiratory Physiology. 9th ed. Philadelphia: Lippincott Williams & Wilkins, 2012.

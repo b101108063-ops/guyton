@@ -7,140 +7,98 @@ summary: "Chapter 78 from Guyton & Hall Textbook of Medical Physiology, 14th Edi
 key_points:
   - "Content extracted directly from official Guyton & Hall PDF source"
 ---
-UNIT XIV
 
-Adrenocortical Hormones Are Bound to Plasma Proteins. Approximately 90% to 95% of the <span class="c-cyan">cortisol</span> in plasma binds to plasma proteins, especially a globulin called <span class="c-cyan">cortisol</span>-binding globulin or transcortin and, to a lesser extent, to albumin. This high degree of binding to plasma proteins slows the elimination of <span class="c-cyan">cortisol</span> from the plasma; therefore, <span class="c-cyan">cortisol</span> has a relatively long half-life of 60 to 90 minutes. Only about 60% of circulating <span class="c-cyan">aldosterone</span> combines with the plasma proteins, and about 40% is in the free form; as a result, <span class="c-cyan">aldosterone</span> has a relatively short half-life of about 20 minutes. These hormones are transported throughout the extracellular fluid compartment in both the combined and free forms.
+## 章節導讀
 
-Binding of adrenal steroids to the plasma proteins may serve as a reservoir to lessen rapid fluctuations in free hormone concentrations, as would occur, for example, with <span class="c-cyan">cortisol</span> during brief periods of stress and episodic secretion of <span class="c-cyan">ACTH</span>. This reservoir function may also help ensure a relatively uniform distribution of the adrenal hormones to the tissues.
+腎上腺皮質（adrenal cortex）分泌多種 steroid hormone，依功能分為：
+- **Mineralocorticoid**：以 aldosterone 為主（約占礦物質皮質激素活性的 90%），由 zona glomerulosa 分泌
+- **Glucocorticoid**：以 cortisol（hydrocortisone）為主（約占糖皮質激素活性的 95%），由 zona fasciculata 分泌
+- **Androgen**：由 zona reticularis 分泌，可轉化為 estrogen
 
-**Adrenocortical Hormones Are Metabolized in the Liver.** The adrenal steroids are degraded mainly in the liver and are conjugated especially to glucuronic acid and, to a lesser extent, to sulfates. These substances are inactive and do not have mineralocorticoid or glucocorticoid activity. About 25% of these conjugates are excreted in the bile and then in the feces. The remaining conjugates formed by the liver enter the circulation but are not bound to plasma proteins, are highly soluble in the plasma, and are therefore filtered readily by the kidneys and excreted in the urine. Diseases of the liver markedly depress the rate of inactivation of adrenocortical hormones, and kidney diseases reduce the excretion of the inactive conjugates.
+Aldosterone 的主要功能是促進腎小管對鈉的重吸收與鉀的分泌，維持細胞外液容量與鉀離子濃度。腎臟皮質集合管的 principal cells 為主要作用部位。Cortisol 的功能更為廣泛：促進蛋白質分解與胺基酸動員、增加血糖（促進肝臟糖質新生並減少細胞對葡萄糖的利用）、促進脂肪動員與氧化。Cortisol 也是身體抵禦壓力的關鍵激素，缺乏時小病（如感染）即可致命。醛固酮的作用需時約 45 分鐘才顯現（基因途徑），皮質醇則可快速與細胞質受器結合並進入核內活化基因。
 
-The normal concentration of <span class="c-cyan">aldosterone</span> in blood is about 6 nanograms (6 billionths of a gram) per 100 milliliters, and the average secretory rate is approximately 150 μg/day (0.15 mg/day). The blood concentration of <span class="c-cyan">aldosterone</span>, however, depends greatly on several factors, including dietary intake of sodium and potassium.
+---
 
-The concentration of <span class="c-cyan">cortisol</span> in the blood averages 12 μg/100 ml, and the secretory rate averages 15 to 20 mg/day. However, blood concentration and secretion rate of cortisol fluctuate throughout the day, rising in the early morning and declining in the evening, as discussed later.
+## Aldosterone 的腎臟與循環效應
 
-**FUNCTIONS OF MINERALOCORTICOIDS—ALDOSTERONE**
+### 鈉鉀的腎小管運輸
 
-**Mineralocorticoid Deficiency Causes Severe Renal Sodium Chloride Wasting and Hyperkalemia.** Total loss of adrenocortical secretion may cause <span class="c-red">death</span> within 3 to 14 days unless the person receives extensive salt therapy or injection of mineralocorticoids.
+Aldosterone 增加腎小管（主要為皮質集合管 principal cells）對鈉的重吸收，同時增加鉀的分泌。作用時程：約 30 分鐘才開始有新 RNA 出現，約 45 分鐘後鈉鉀轉運速率才開始增加，最大效應需數小時。
 
-Without mineralocorticoids, potassium ion concentration of the extracellular fluid rises markedly, sodium and chloride are rapidly lost from the body, and the total extracellular fluid volume and blood volume become greatly reduced. Diminished cardiac output soon develops, which progresses to a shock-like state, followed by <span class="c-red">death</span>. This entire sequence can be prevented by administration of <span class="c-cyan">aldosterone</span> or some other mineralocorticoid. Therefore, the mineralocorticoids are said to be the acute "lifesaving" portion of the adrenocortical hormones. The glucocorticoids are equally necessary, however, because they allow the person to resist the destructive effects of life's intermittent physical and mental stresses, as discussed later in the chapter.
+### 細胞內機制
 
-**Aldosterone Is the Major Mineralocorticoid Secreted by the Adrenals.** In humans, <span class="c-cyan">aldosterone</span> exerts nearly 90% of the mineralocorticoid activity of the adrenocortical secretions, but <span class="c-cyan">cortisol</span>, the major glucocorticoid secreted by the adrenal cortex, also provides a significant amount of mineralocorticoid activity. The mineralocorticoid activity of <span class="c-cyan">aldosterone</span> is about 3000 times greater than that of <span class="c-cyan">cortisol</span>, but the plasma concentration of cortisol is nearly 2000 times that of <span class="c-cyan">aldosterone</span>.
+Aldosterone 擴散進入腎小管細胞後，與細胞質 mineralocorticoid receptor（MR）結合。雖然皮質醇也能與 MR 高親和力結合，但 11β-hydroxysteroid dehydrogenase type 2（11β-HSD2）將皮質醇轉化為 cortisone，後者不與 MR 結合。基因缺陷導致的 11β-HSD2 缺乏（apparent mineralocorticoid excess syndrome，AME）會使皮質醇發揮礦物質皮質激素作用。
 
-<span class="c-cyan">Cortisol</span> can also bind to mineralocorticoid receptors with high affinity. However, the renal epithelial cells express the enzyme 11β-hydroxysteroid dehydrogenase type 2 (11β-HSD2), which has actions that prevent cortisol from activating mineralocorticoid receptors. One action of 11β-HSD2 is to convert <span class="c-cyan">cortisol</span> to cortisone, which does not avidly bind mineralocorticoid receptors. There is also evidence that 11β-HSD2 may have effects on the intracellular redox (reduction and oxidation) state that prevent <span class="c-cyan">cortisol</span> from activating the mineralocorticoid receptors.
+aldosterone-MR 複合體進入細胞核，活化 DNA 轉錄，產生：
+1. **Na⁺-K⁺ ATPase**（基底側膜的鈉鉀泵）
+2. **上皮鈉通道（ENaC）**（腔面膜）
+3. **鉀通道**
 
-In patients with genetic deficiency of 11β-HSD2 activity, <span class="c-cyan">cortisol</span> may have substantial mineralocorticoid effects. This condition is called apparent mineralocorticoid excess syndrome (AME) because the patient has essentially the same pathophysiological changes as a patient with excess <span class="c-cyan">aldosterone</span> secretion, except that plasma <span class="c-cyan">aldosterone</span> levels are very low in the patient with AME. Ingestion of large amounts of licorice, which contains glycyrrhetinic acid, may also cause AME because of its ability to <span class="c-green">block</span> 11β-HSD2 enzyme activity.
+### Aldosterone 過量與缺乏的後果
 
-**RENAL AND CIRCULATORY EFFECTS OF ALDOSTERONE**
+**過量**：短暫性鈉瀦留後，因血壓升高（pressure natriuresis）而出現「aldosterone escape」，鈉平衡恢復，但血壓持續升高。長期過量導致低血鉀（hypokalemia）與肌肉無力。
 
-**Aldosterone Increases Renal Tubular Reabsorption of Sodium and Secretion of Potassium.** As discussed in Chapter 28, <span class="c-cyan">aldosterone</span> increases reabsorption of sodium and simultaneously increases secretion of potassium by the renal tubular epithelial cells, especially in the principal cells of the collecting tubules and, to a lesser extent, in the distal tubules and collecting ducts. Therefore, <span class="c-cyan">aldosterone</span> causes sodium to be conserved in the extracellular fluid while increasing potassium excretion in the urine.
+**缺乏**：嚴重鈉流失與鉀瀦留，細胞外液減少、血壓下降，最後因休克死亡。
 
-A high concentration of <span class="c-cyan">aldosterone</span> in the plasma can transiently decrease the sodium loss into the urine to as little as a few milliequivalents per day. At the same time, potassium loss into the urine transiently increases severalfold. Therefore, the net effect of excess <span class="c-cyan">aldosterone</span> in the plasma is to increase the total quantity of sodium in the extracellular fluid while decreasing the potassium.
+Aldosterone 也增加氫離子分泌（ intercalated cells），過量時導致 metabolic alkalosis。
 
-Conversely, total lack of <span class="c-cyan">aldosterone</span> secretion can cause transient loss of 10 to 20 grams of sodium in the urine a day, an amount equal to one tenth to one fifth of all the sodium in the body. At the same time, potassium is conserved tenaciously in the extracellular fluid.
+Aldosterone 對汗腺、唾液腺與腸道上皮的作用與對腎小管相似，有助於在炎熱環境中保存鹽分。
 
-**Excess Aldosterone Increases Extracellular Fluid Volume and Arterial Pressure But Has Only a Small Effect on Plasma Sodium Concentration; Aldosterone Deficiency Causes Hyponatremia.** Although aldosterone has a potent effect to decrease the rate of sodium excretion by the kidneys, the concentration of sodium in the extracellular fluid often rises only a few milliequivalents. The reason for this is that when sodium is reabsorbed by the tubules, simultaneous <span class="c-yellow">osmotic</span> absorption of almost equivalent amounts of water occurs. Also, small increases in extracellular fluid sodium concentration <span class="c-green">stimulate</span> thirst and increased water intake, if water is available, and increase secretion of antidiuretic hormone, which enhances water reabsorption by the distal and collecting tubules of the kidneys. Therefore, the extracellular fluid volume increases almost as much as the retained sodium, but without much change in sodium concentration.
+---
 
-Even though <span class="c-cyan">aldosterone</span> is one of the body's most powerful sodium-retaining hormones, only transient sodium retention occurs when excess amounts are secreted. An <span class="c-cyan">aldosterone</span>-mediated increase in extracellular fluid volume lasting more than 1 to 2 days also leads to an increase in arterial pressure, as explained in Chapter 19. The rise in arterial pressure then increases kidney excretion of both sodium and water, called pressure natriuresis and pressure diuresis, respectively. Thus, after the extracellular fluid volume increases 5% to 15% above normal, arterial pressure also increases 15 to 25 mm Hg, and this elevated blood pressure returns the renal output of sodium and water to normal despite excess <span class="c-cyan">aldosterone</span>.
+## Cortisol 的糖代謝效應
 
-This return to normal sodium and water excretion by the kidneys as a result of pressure natriuresis and diuresis is called <span class="c-cyan">aldosterone</span> escape. Thereafter, the rate of gain of sodium and water by the body is zero, and balance is maintained between sodium and water intake and output by the kidneys, despite continued excess <span class="c-cyan">aldosterone</span>. In the meantime, however, hypertension has developed, which lasts as long as the person remains exposed to high levels of <span class="c-cyan">aldosterone</span>.
+### 促進肝臟糖質新生（Gluconeogenesis）
 
-In contrast, severe <span class="c-cyan">aldosterone</span> deficiency may cause substantial reductions in plasma sodium concentration (hyponatremia) due to reduced renal sodium reabsorption and increased sodium excretion. The renal sodium wasting causes reductions in extracellular fluid volume, arterial pressure, and cardiac output, which <span class="c-green">stimulate</span> secretion of antidiuretic hormone (<span class="c-cyan">ADH</span>). Increased levels of <span class="c-cyan">ADH</span> attenuate renal water excretion and contribute to hyponatremia, along with increases in thirst and water intake that are also <span class="c-green">stimulate</span>d by hypovolemia and hypotension.
+Cortisol 使肝臟糖質新生速率增加 6–10 倍：
+- 活化 DNA 轉錄→增加糖質新生所需酶的合成
+- 動員肌肉蛋白質，釋放胺基酸進入血漿供肝臟使用
+- 拮抗胰島素抑制糖質新生的作用
 
-When <span class="c-cyan">aldosterone</span> secretion becomes zero, large amounts of sodium are lost in the urine, not only diminishing the amount of sodium chloride in the extracellular fluid but also decreasing the extracellular fluid volume. The result is severe extracellular fluid dehydration and low blood volume, leading to circulatory shock. Without therapy, this usually causes <span class="c-red">death</span> within a few days after the adrenal glands suddenly stop secreting <span class="c-cyan">aldosterone</span>.
+### 減少細胞對葡萄糖的利用
 
-**Excess Aldosterone Causes Hypokalemia and Muscle Weakness; Aldosterone Deficiency Causes Hyperkalemia and Cardiac Toxicity.** Excess <span class="c-cyan">aldosterone</span> not only causes loss of potassium ions from the extracellular fluid into the urine but also <span class="c-green">stimulates</span> transport of potassium from the extracellular fluid into most cells of the body. Therefore, excessive secretion of <span class="c-cyan">aldosterone</span>, as occurs with some types of adrenal tumors, may cause a serious decrease in the plasma potassium concentration (hypokalemia), sometimes from the normal value of 4.5 mEq/L to as low as 2 mEq/L. When plasma potassium ion concentration falls below about one-half normal, severe muscle weakness often develops. This muscle weakness is caused by alteration of the electrical excitability of the nerve and muscle fiber membranes (see Chapter 5), which prevents transmission of normal action potentials.
+Cortisol 減少 GLUT4 轉位至骨骼肌細胞膜，降低胰島素敏感性；也減少胰島素受質-1 與 phosphatidylinositol 3-kinase 的表現與磷酸化。
 
-Conversely, when <span class="c-cyan">aldosterone</span> is deficient, the extracellular fluid potassium ion concentration can rise far above normal. When it rises to 60% to 100% above normal, serious cardiac toxicity, including weakness of heart contraction and development of <span class="c-red">arrhythmia</span>, becomes evident, and progressively higher concentrations of potassium lead inevitably to heart failure.
+### 結果
 
-**Excess Aldosterone Increases Tubular Hydrogen Ion Secretion and Causes Alkalosis.** <span class="c-cyan">Aldosterone</span> not only causes potassium to be secreted into the tubules in exchange for sodium reabsorption in the principal cells of the renal collecting tubules but also causes secretion of hydrogen ions in exchange for potassium in the intercalated cells of the cortical collecting tubules, as discussed in Chapters 28 and 31. This decreases the hydrogen ion concentration in the extracellular fluid, causing metabolic alkalosis.
+血糖升高（"adrenal diabetes"），但皮質醇過量引起的血糖升高給予胰島素後僅部分下降，因為組織對胰島素有阻抗。
 
-**ALDOSTERONE STIMULATES SODIUM AND POTASSIUM TRANSPORT IN SWEAT GLANDS, SALIVARY GLANDS, AND INTESTINAL EPITHELIAL CELLS**
+---
 
-<span class="c-cyan">Aldosterone</span> has almost the same effects on sweat glands and salivary glands as it has on the renal tubules. Both these glands form a primary secretion that contains large quantities of sodium chloride, but much of the sodium chloride, upon passing through the excretory ducts, is reabsorbed, whereas potassium and bicarbonate ions are secreted. <span class="c-cyan">Aldosterone</span> greatly increases the reabsorption of sodium chloride and the secretion of potassium by the ducts. The effect on the sweat glands is important to conserve body salt in hot environments (see Chapter 74), and the effect on the salivary glands is necessary to conserve salt when excessive quantities of saliva are lost.
+## Cortisol 的蛋白質與脂肪效應
 
-<span class="c-cyan">Aldosterone</span> also greatly enhances sodium absorption by the intestines, especially in the colon, which prevents loss of sodium in the stools. Conversely, in the absence of <span class="c-cyan">aldosterone</span>, sodium absorption can be poor, leading to failure to absorb chloride and other anions and water as well. The unabsorbed sodium chloride and water then lead to diarrhea, with further loss of salt from the body.
+### 蛋白質
 
-**CELLULAR MECHANISM OF ALDOSTERONE ACTION**
+Cortisol 減少幾乎所有細胞（肝臟除外）的蛋白質量：減少蛋白質合成、增加蛋白質分解。這部分是由於減少胺基酸進入肌肉細胞，使血漿胺基酸濃度升高並被肝臟用於糖質新生與血漿蛋白質合成。Cortisol 過量時肌肉虛弱，免疫功能也下降。
 
-Although for many years we have known the overall effects of mineralocorticoids on the body, the molecular mechanisms of the actions of <span class="c-cyan">aldosterone</span> on the tubular cells to increase transport of sodium are still not fully understood. However, the cellular sequence of events that leads to increased sodium reabsorption seems to unfold as follows:
+### 脂肪
 
-First, because of its lipid solubility in the cellular membranes, <span class="c-cyan">aldosterone</span> diffuses readily to the interior of the tubular epithelial cells.
+Cortisol 促進脂肪動員，增加血漿游離脂肪酸，並增加脂肪酸的氧化。這使細胞在飢餓或其他壓力時從利用葡萄糖轉為利用脂肪——有助於長期節省葡萄糖與肝糖原。
 
-Second, in the cytoplasm of the tubular cells, aldosterone combines with a highly specific cytoplasmic mineralocorticoid receptor (MR) protein, which has a stereomolecular configuration that allows only <span class="c-cyan">aldosterone</span> or similar compounds to combine with it. Although renal tubular epithelial cell MR receptors also have a high affinity for <span class="c-cyan">cortisol</span>, the enzyme 11β-HSD2 normally converts most of the <span class="c-cyan">cortisol</span> to cortisone, which does not readily bind to MR receptors, as discussed previously.
+Cortisol 過量引起的肥胖有特殊的脂肪分布：臉部、胸部、軀幹肥胖（ buffalo hump），但四肢纖細，與一般肥胖不同。
 
-Third, the <span class="c-cyan">aldosterone</span>-receptor complex or a product of this complex diffuses into the nucleus, where it may undergo further alterations, finally inducing one or more specific portions of the DNA to form one or more types of messenger RNA (mRNA) related to the process of sodium and potassium transport.
+---
 
-Fourth, the mRNA diffuses back into the cytoplasm where, operating in conjunction with the ribosomes, it causes protein formation. The proteins formed are a mixture of (1) one or more enzymes and (2) membrane transport proteins that, all acting together, are required for sodium, potassium, and hydrogen transport through the cell membrane. One of the enzymes especially increased is sodium-potassium adenosine triphosphatase (Na⁺-K⁺ ATPase), which serves as the principal part of the pump for sodium and potassium exchange at the basolateral membranes of the renal tubular cells. Additional proteins, perhaps equally important, are epithelial sodium channels and potassium channels inserted into the luminal membrane of the same tubular cells; these channels allow rapid diffusion of sodium ions from the tubular lumen into the cell and diffusion of potassium from the cell interior to the tubular lumen. (See Chapters 28 and 30 for further discussion of the effects of aldosterone on sodium, potassium, and hydrogen transport by renal tubular epithelial cells.)
+## Aldosterone 分泌的調控
 
-Thus, <span class="c-cyan">aldosterone</span> does not have a major immediate effect on sodium transport; rather, this effect must await the sequence of events that leads to the formation of the specific intracellular substances required for sodium transport. About 30 minutes is required before new RNA appears in the cells, and about 45 minutes is required before the rates of sodium and potassium transport begin to increase; these effects reach a maximum only after several hours.
+Zona glomerulosa 的 aldosterone 分泌調控與皮質醇/ androgen 的調控幾乎完全獨立。
 
-**POSSIBLE NONGENOMIC ACTIONS OF ALDOSTERONE AND OTHER STEROID HORMONES**
+最重要的調控因子：
 
-Some studies suggest that many steroids, including aldosterone, elicit not only slowly developing genomic effects that have a latency of 45 to 60 minutes and require gene transcription and synthesis of new proteins but also more rapid nongenomic effects that take place in a few seconds or minutes.
+| 因子 | 效應 |
+|---|---|
+| 細胞外鉀離子濃度 ↑ | aldosterone ↑↑↑（最強烈）|
+| Angiotensin II ↑ | aldosterone ↑↑↑ |
+| 細胞外鈉離子濃度 ↑ | aldosterone ↓ |
+| ANP ↑ | aldosterone ↓ |
+| ACTH | 許可作用（缺乏時 aldosterone 下降，但仍能分泌基礎量）|
 
-These nongenomic actions are believed to be mediated by binding of steroids to cell membrane receptors that are coupled to second messenger systems, similar to those used for peptide hormone signal transduction. For example, <span class="c-cyan">aldosterone</span> has been shown to increase formation of cyclic adenosine monophosphate (cAMP) in vascular smooth muscle cells and in epithelial cells of the renal collecting tubules in less than 2 minutes, a period that is far too short for gene transcription and synthesis of new proteins. In other cell types, <span class="c-cyan">aldosterone</span> has been shown to rapidly <span class="c-green">stimulate</span> the phosphatidylinositol second messenger system. However, the precise structure of receptors responsible for the rapid effects of aldosterone has not been determined, nor is the physiological significance of these nongenomic actions of steroids well understood.
+鉀離子濃度與 angiotensin II 是生理條件下最重要的調控因子。醛固酮作用於腎臟排出多餘的鉀並增加血容量與血壓，形成回饋抑制 renin-angiotensin 系統。
 
-**REGULATION OF ALDOSTERONE SECRETION**
+---
 
-Regulation of <span class="c-cyan">aldosterone</span> secretion is so deeply intertwined with regulation of extracellular fluid electrolyte concentrations, extracellular fluid volume, blood volume, arterial pressure, and many special aspects of renal function that it is difficult to discuss control of <span class="c-cyan">aldosterone</span> secretion independently of all these other factors. This subject is presented in more detail in Chapters 28 and 30, to which the reader is referred. However, it is important to list here some of the more important points of aldosterone secretion control.
+## 腎上腺皮質激素的運輸與代謝
 
-Regulation of <span class="c-cyan">aldosterone</span> secretion by the zona glomerulosa cells is almost entirely independent of regulation of <span class="c-cyan">cortisol</span> and androgens by the zona fasciculata and zona reticularis.
+約 90%–95% 的皮質醇與血漿蛋白（主要是 cortisol-binding globulin，又稱 transcortin）結合，使半衰期達 60–90 分鐘。Aldosterone 僅約 60% 與蛋白結合，半衰期約 20 分鐘。
 
-The following factors are known to play roles in regulation of <span class="c-cyan">aldosterone</span>:
-
-- Increased potassium ion concentration in the extracellular fluid greatly increases <span class="c-cyan">aldosterone</span> secretion.
-- Increased <span class="c-cyan">angiotensin II</span> concentration in the extracellular fluid also greatly increases <span class="c-cyan">aldosterone</span> secretion.
-- Increased sodium ion concentration in the extracellular fluid slightly decreases <span class="c-cyan">aldosterone</span> secretion.
-- Increased atrial natriuretic peptide (ANP), a hormone secreted by the heart when specific cells of the cardiac atria are stretched (see Chapter 28), decreases <span class="c-cyan">aldosterone</span> secretion.
-- <span class="c-cyan">ACTH</span> from the anterior pituitary gland is necessary for <span class="c-cyan">aldosterone</span> secretion but has little effect in controlling the rate of secretion in most physiological conditions.
-
-Of these factors, potassium ion concentration and the <span class="c-cyan">angiotensin II</span> are by far the most potent in regulating <span class="c-cyan">aldosterone</span> secretion. A small percentage increase in potassium concentration can cause a severalfold increase in <span class="c-cyan">aldosterone</span> secretion. Likewise, increased angiotensin II, usually in response to diminished blood flow to the kidneys or to sodium loss, can increase <span class="c-cyan">aldosterone</span> secretion severalfold. In turn, the <span class="c-cyan">aldosterone</span> acts on the kidneys (1) to help them excrete the excess potassium ions and (2) to increase the blood volume and arterial pressure, thus returning the <span class="c-cyan">renin</span>-angiotensin system toward its normal level of activity. These feedback control mechanisms are essential for maintaining life, and the reader is referred again to Chapters 28 and 30 for a more complete description of their functions.
-
-By contrast, the effects of ANP, sodium ion concentration per se, and <span class="c-cyan">ACTH</span> in controlling <span class="c-cyan">aldosterone</span> secretion are usually minor. Nevertheless, a 10% to 20% decrease in extracellular fluid sodium ion concentration, which occurs on rare occasions, can perhaps increase <span class="c-cyan">aldosterone</span> secretion by about 50%. An increase in ANP concentration, secondary to plasma volume expansion and stretch of the cardiac atria, may induce natriuresis, in part by <span class="c-green">inhibit</span>ing aldosterone secretion. In the case of <span class="c-cyan">ACTH</span>, if even a small amount is secreted by the anterior pituitary gland, it is usually enough to permit the adrenal glands to secrete whatever amount of <span class="c-cyan">aldosterone</span> is required, but total absence of <span class="c-cyan">ACTH</span> can significantly reduce <span class="c-cyan">aldosterone</span> secretion. Therefore, <span class="c-cyan">ACTH</span> appears to play a "permissive" role in regulation of <span class="c-cyan">aldosterone</span> secretion.
-
-**FUNCTIONS OF GLUCOCORTICOIDS**
-
-Even though mineralocorticoids can save the life of an acutely adrenalectomized animal, the animal still is far from normal. Instead, the animal's metabolic systems for utilization of proteins, carbohydrates, and fats remain considerably deranged. Furthermore, the animal cannot resist different types of physical or even mental stress, and minor illnesses such as respiratory tract infections can lead to <span class="c-red">death</span>. Therefore, the glucocorticoids have functions just as important to the long-continued life of the animal as those of the mineralocorticoids. These functions are explained in the following sections.
-
-At least 95% of the glucocorticoid activity of the adrenocortical secretions results from the secretion of cortisol, known also as hydrocortisone. In addition, a small but significant amount of glucocorticoid activity is provided by corticosterone.
-
-**EFFECTS OF CORTISOL ON CARBOHYDRATE METABOLISM**
-
-**Stimulation of Gluconeogenesis.** The best-known metabolic effect of <span class="c-cyan">cortisol</span> and other glucocorticoids on metabolism is the ability to <span class="c-green">stimulate</span> gluconeogenesis (i.e., the formation of carbohydrate from proteins and some other substances) by the liver, often increasing the rate of gluconeogenesis as much as 6- to 10-fold. This increased rate of gluconeogenesis results mainly from direct effects of <span class="c-cyan">cortisol</span> on the liver, as well as by antagonizing the effects of <span class="c-cyan">insulin</span>.
-
-- <span class="c-cyan">Cortisol</span> increases the enzymes required to convert amino acids into glucose in liver cells. Glucocorticoids activate DNA transcription in the liver cell nuclei in the same way that <span class="c-cyan">aldosterone</span> functions in renal tubular cells, with formation of mRNAs that in turn lead to the array of enzymes required for gluconeogenesis.
-- <span class="c-cyan">Cortisol</span> causes mobilization of amino acids from extrahepatic tissues, mainly from muscle. As a result, more amino acids become available in the plasma to enter into the gluconeogenesis process of the liver and thereby to promote formation of glucose.
-- <span class="c-cyan">Cortisol</span> antagonizes <span class="c-cyan">insulin</span>'s effects to <span class="c-green">inhibit</span> gluconeogenesis in the liver. As discussed in Chapter 79, insulin <span class="c-green">stimulates</span> glycogen synthesis in the liver and inhibits enzymes involved in glucose production by the liver. The net effect of <span class="c-cyan">cortisol</span> is to increase glucose production by the liver.
-
-The marked increase in glycogen storage in liver cells that accompanies increased gluconeogenesis potentiates the effects of other glycolytic hormones, such as epinephrine and <span class="c-cyan">glucagon</span>, to mobilize glucose in times of need, such as between meals.
-
-**Decreased Glucose Utilization by Cells.** <span class="c-cyan">Cortisol</span> also causes a moderate decrease in glucose utilization by most cells in the body. Although the precise cause of this decrease is unclear, one important effect of <span class="c-cyan">cortisol</span> is to decrease translocation of the glucose transporter GLUT4 to the cell membrane, especially in skeletal muscle cells, leading to <span class="c-cyan">insulin</span> resistance. Glucocorticoids may also depress the expression and phosphorylation of other signaling cascades that influence glucose utilization directly or indirectly by affecting protein and lipid metabolism. For example, glucocorticoids reduce the expression of <span class="c-cyan">insulin</span> receptor substrate-1 and phosphatidylinositol 3 kinase, both of which are involved in mediating the actions of <span class="c-cyan">insulin</span>, as well as oxidation of nicotinamide-adenine dinucleotide (NADH) to form NAD⁺. Because NADH must be oxidized to allow <span class="c-orange">glycolysis</span>, this effect could also contribute to diminished utilization of glucose by the cells.
-
-**Elevated Blood Glucose Concentration and "Adrenal Diabetes."** Both the increased gluconeogenesis and moderate reduction in glucose utilization by the cells cause the blood glucose concentrations to rise. The rise in blood glucose in turn <span class="c-green">stimulates</span> <span class="c-cyan">insulin</span> secretion. The increased plasma levels of <span class="c-cyan">insulin</span>, however, are not as effective in maintaining plasma glucose as they are under normal conditions. For reasons that were discussed previously, high levels of glucocorticoid reduce the sensitivity of many tissues, especially skeletal muscle and adipose tissue, to the stimulatory effects of <span class="c-cyan">insulin</span> on glucose uptake and utilization. Besides potential direct effects of <span class="c-cyan">cortisol</span> on expression of glucose transporters and enzymes involved in glucose regulation, the high levels of fatty acids, caused by the effect of glucocorticoids to mobilize lipids from fat depots, may impair the actions of <span class="c-cyan">insulin</span> on the tissues. In this way, excess secretion of glucocorticoids produce disturbances of carbohydrate metabolism similar to those found in patients with excess levels of growth hormone.
-
-The increase in blood glucose concentration is occasionally great enough (≥50% normal) that the condition is called adrenal diabetes. Administration of <span class="c-cyan">insulin</span> lowers the blood glucose concentration only a moderate amount in adrenal diabetes—not nearly as much as it does in pancreatic diabetes—because the tissues are resistant to the effects of <span class="c-cyan">insulin</span>.
-
-**EFFECTS OF CORTISOL ON PROTEIN METABOLISM**
-
-**Reduction in Cellular Protein.** One of the principal effects of <span class="c-cyan">cortisol</span> on the metabolic systems of the body is reduction of protein stores in essentially all cells of the body, except those of the liver. This reduction is caused by both decreased protein synthesis and increased catabolism of protein already in the cells. Both these effects may result partly from decreased amino acid transport into extrahepatic tissues, as discussed later, but this is probably not the major cause because <span class="c-cyan">cortisol</span> also depresses formation of RNA and subsequent protein synthesis in many extrahepatic tissues, especially in muscle and lymphoid tissue.
-
-In the presence of great excesses of <span class="c-cyan">cortisol</span>, the muscles can become so weak that the person cannot rise from the squatting position. In addition, the immunity functions of the lymphoid tissue can be decreased to a small fraction of normal.
-
-**Cortisol Increases Liver and Plasma Proteins.** Coincidentally with the effect of glucocorticoids to reduce proteins elsewhere in the body, the liver proteins are increased. Furthermore, the plasma proteins (which are produced by the liver and then released into the blood) are also increased. These increases are exceptions to the protein depletion that occurs elsewhere in the body. It is believed that this difference results from a possible effect of <span class="c-cyan">cortisol</span> to enhance amino acid transport into liver cells—but not into most other cells—and to enhance the liver enzymes required for protein synthesis.
-
-**Increased Blood Amino Acids, Diminished Transport of Amino Acids Into Extrahepatic Cells, and Enhanced Transport Into Hepatic Cells.** Studies in isolated tissues have demonstrated that <span class="c-cyan">cortisol</span> depresses amino acid transport into muscle cells and perhaps into other extrahepatic cells.
-
-The decreased transport of amino acids into extrahepatic cells decreases their intracellular amino acid concentrations and consequently decreases the synthesis of protein. Yet, cell catabolism of proteins continues to release amino acids that diffuse out of the cells to increase the plasma amino acid concentration. Therefore, cortisol mobilizes amino acids from nonhepatic tissues and in doing so diminishes tissue stores of protein.
-
-The increased plasma concentration of amino acids and enhanced amino acid transport into the hepatic cells by <span class="c-cyan">cortisol</span> could also account for enhanced utilization of amino acids by the liver to cause such effects as (1) increased rate of deamination of amino acids by the liver, (2) increased protein synthesis in the liver, (3) increased formation of plasma proteins by the liver, and (4) increased conversion of amino acids to glucose—that is, enhanced gluconeogenesis. Thus, it is possible that many of the effects of <span class="c-cyan">cortisol</span> on the metabolic systems of the body result mainly from this ability of <span class="c-cyan">cortisol</span> to mobilize amino acids from the peripheral tissues while at the same time increasing the liver enzymes required for the hepatic effects.
-
-**EFFECTS OF CORTISOL ON FAT METABOLISM**
-
-**Mobilization of Fatty Acids.** In much the same manner that <span class="c-cyan">cortisol</span> promotes amino acid mobilization from muscle, it also promotes mobilization of fatty acids from adipose tissue. This mobilization increases the concentration of free fatty acids in the plasma, which also increases their utilization for energy. <span class="c-cyan">Cortisol</span> also seems to have a direct effect to enhance the oxidation of fatty acids in the cells.
-
-The mechanism by which <span class="c-cyan">cortisol</span> promotes fatty acid mobilization is not completely understood. However, part of the effect probably results from diminished transport of glucose into the fat cells. Recall that α-glycerophosphate, which is derived from glucose, is required for both deposition and maintenance of triglycerides in these cells. In its absence, the fat cells begin to release fatty acids.
-
-The increased mobilization of fats by <span class="c-cyan">cortisol</span>, combined with increased oxidation of fatty acids in the cells, helps shift the metabolic systems of the cells from utilization of glucose for energy to utilization of fatty acids in times of starvation or other stresses. This <span class="c-cyan">cortisol</span> mechanism, however, requires several hours to become fully developed—not nearly so rapid or so powerful an effect as a similar shift elicited by a decrease in <span class="c-cyan">insulin</span>, as we discuss in Chapter 79. Nevertheless, the increased use of fatty acids for metabolic energy is an important factor for long-term conservation of body glucose and glycogen.
-
-**Excess Cortisol Causes Obesity.** Although <span class="c-cyan">cortisol</span> can cause a moderate degree of fatty acid mobilization from adipose tissue, a peculiar type of obesity develops in many people with excess cortisol secretion. This obesity is characterized by deposition of fat primarily in the chest and head regions, giving a buffalo-like appearance, while the extremities remain thin. The distribution of fat in such patients is far different from the typical pattern of obesity in ordinary simple obesity, which is usually characterized by increased
+幾乎所有腎上腺皮質激素都在肝臟代谢（與 glucuronic acid 或 sulfate 結合後失活），主要經膽汁（糞便）或腎臟（尿液）排泄。肝功能受損時激素代謝清除率下降，導致內源性 steroid 過量累積。

@@ -3,391 +3,316 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH53"
 title: "The Sense of Hearing"
 book: "Guyton & Hall"
-summary: "Chapter 53 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
+summary: "本章闡述聽覺系統的運作機制，包括聲波從外耳經中耳傳導至內耳cochlea的過程、basilar membrane的行波現象與頻率分析機制、organ of Corti中hair cells的機械-電轉導過程、聽覺路徑從cochlea到cerebral cortex的神經傳遞、以及聲音頻率、強度的感知原理與聽覺障礙的臨床分類。"
 key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+  - "中耳ossicles執行阻抗匹配功能，使空氣中的聲波能量有效傳入cochlea的液體介質"
+  - "Basilar membrane的行波（traveling wave）頻率分析遵循place principle：高頻在基底、低頻在頂端"
+  - "Inner hair cells是主要的聽覺受器，outer hair cells則調控受器的靈敏度（tuning）"
+  - "Hair cells的機械-電轉導依賴stereocilia的彎曲及K+離子通道的開啟"
+  - "聽覺皮質具有多個tonotopic maps，分別負責頻率辨識、方向偵測等不同功能"
 ---
 
-UNIT X
-Basilar Membrane and Resonance in the Cochlea .
-The basilar membrane is a fibrous membrane that sepa - rates the scala media from the scala tympani. It contains
-20,000 to 30,000 basilar fibers that project from the bony center of the cochlea, the modiolus, toward the outer wall. These fibers are stiff, elastic, reedlike structures that are fixed at their basal ends in the central bony structure of the cochlea (the modiolus) but are not fixed at their distal ends, except that the distal ends are embedded in the loose basilar membrane. Because the fibers are stiff and free at one end, they can vibrate like the reeds of a harmonica.
-The lengths of the basilar fibers increase progressively, beginning at the oval window and going from the base of the cochlea to the apex, increasing from a length of about
-0.04 millimeter near the oval and round windows to 0.5 millimeter at the tip of the cochlea (the “ helicotrema”), a
-12fold increase in length.
-The diameters of the fibers, however, decrease from the oval window to the helicotrema, so their overall stiff - ness decreases more than 100fold. As a result, the stiff, short fibers near the oval window of the cochlea vibrate best at a very high frequency, whereas the long, limber fibers near the tip of the cochlea vibrate best at a low frequency.
-Thus, highfrequency resonance of the basilar mem - brane occurs near the base, where the sound waves enter the cochlea through the oval window. However, lowfrequency resonance  occurs near the helicotrema, mainly because of the less stiff fibers but also because of increased “loading” with extra masses of fluid that must vibrate along the cochlear tubules.
-TRANSMISSION OF SOUND WAVES IN
-THE COCHLEA—“TRAVELING WAVE”
-When the foot of the stapes moves inward against the oval window, the round window must bulge outward because the cochlea is bounded on all sides by bony walls. The ini- tial effect of a sound wave entering at the oval window is to cause the basilar membrane at the base of the cochlea to bend in the direction of the round window. However, the elastic tension that is built up in the basilar fibers as they bend toward the round window initiates a fluid wave that
-“travels” along the basilar membrane toward the helico - trema. Figure 534A shows movement of a highfrequency wave down the basilar membrane, Figure 534B shows a mediumfrequency wave, and Figure 534C shows a very lowfrequency wave. Movement of the wave along the basi- lar membrane is comparable to the movement of a pressure wave along the arterial walls, discussed in Chapter 15; it is also comparable to a wave that travels along the surface of a pond.
-Vibration Patterns of the Basilar Membrane for
-Different Sound Frequencies. Note in Figure 534 the different patterns of transmission for sound waves of dif - ferent frequencies. Each wave is relatively weak at the outset but becomes strong when it reaches the portion of the basilar membrane that has a natural resonant fre - quency equal to the respective sound frequency. At this point, the basilar membrane can vibrate back and forth with such ease that the energy in the wave is dissipated.
-Consequently, the wave dies at this point and fails to travel the remaining distance along the basilar membrane.
-Scala vestibuli
-Helicotrema
-(connection between scala vestibuli and scala tympani)
-Stria vascularis
-Scala media
-Organ of Corti
-Scala tympani
-Cochlear nerve
-Modiolus
-Spiral ganglion
-A
-B
-Scala vestibuli
-Scala tympani
-Tectorial membrane
-Basilar membrane
-Organ of Corti
-Spiral prominence
-Spiral limbus
-Reissner's membrane
-Spiral ganglion
-Scala media
-Stria vascularis
-Figure 532. The cochlea (A) and section through one of the turns of the cochlea (B).
-Scala vestibuli and scala media
-Oval window
-Basilar membrane
-Scala tympani
-Round window
-Stapes
-Helicotrema
-Figure 533. Movement of fluid in the cochlea after forward thrust of the stapes.
+## 章節導讀
 
-Thus, a highfrequency sound wave travels only a short distance along the basilar membrane before it reaches its resonant point and dies, a mediumfrequency sound wave travels about halfway and then dies, and a very low- frequency sound wave travels the entire distance along the membrane.
-Another feature of the traveling wave is that it travels fast along the initial portion of the basilar membrane but becomes progressively slower as it goes farther into the cochlea. The cause of this difference is the high coefficient of elasticity of the basilar fibers near the oval window and a progressively decreasing coefficient farther along the mem- brane. This rapid initial transmission of the wave allows the highfrequency sounds to travel far enough into the cochlea to spread out and separate from one another on the basilar membrane. Without this rapid initial transmission, all the highfrequency waves would be bunched together within the first millimeter or so of the basilar membrane, and their frequencies could not be discriminated.
-Vibration Amplitude Pattern of the Basilar
-Membrane. The dashed curves of Figure 535A show the position of a sound wave on the basilar membrane when the stapes is (a) all the way inward, (b) has moved back to the neutral point, (c) is all the way outward, and
-(d) has moved back again to the neutral point but is mov- ing inward. The shaded area around these different waves shows the extent of vibration of the basilar membrane during a complete vibratory cycle. This is the amplitude pattern of vibration of the basilar membrane for this par- ticular sound frequency.
-Figure 535B shows the amplitude patterns of vibra - tion for different frequencies, demonstrating that the maximum amplitude for sound at 8000 cycles/sec occurs near the base of the cochlea, whereas that for frequencies less than 200 cycles/sec is all the way at the tip of the basi- lar membrane near the helicotrema, the minute opening whereby the scala tympani and scala vestibuli communi - cate (Figure 532).
-The principal method whereby sound frequencies are discriminated from one another is based on the “place” of maximum stimulation of the nerve fibers from the organ of Corti lying on the basilar membrane, as explained in the next section.
-FUNCTION OF THE ORGAN OF CORTI
-The organ of Corti, shown in Figure 532 and Figure
-536, is the receptor organ that generates nerve impulses in response to vibration of the basilar membrane. Note that the organ of Corti lies on the surface of the basilar fibers and basilar membrane. The actual sensory recep - tors in the organ of Corti are two specialized types of nerve cells called hair cells—a single row of internal (or
-“inner”) hair cells, numbering about 3500 and measuring about 12 micrometers in diameter, and three or four rows of external (or “outer”) hair cells, numbering about 12,000 and having diameters of only about 8 micrometers. The bases and sides of the hair cells synapse with a network of cochlear nerve endings. Between 90% and 95% of these endings terminate on the inner hair cells, emphasizing their special importance for detection of sound.
-The nerve fibers <span class="c-green">stimulate</span>d by the hair cells lead to the spiral ganglion of Corti , which lies in the modiolus (cen - ter) of the cochlea. The spiral ganglion neuronal cells send axons—a total of about 30,000—into the cochlear nerve and then into the central nervous system at the level of the upper medulla. The relation of the organ of Corti to the spiral ganglion and to the cochlear nerve is shown in
-Figure 532.
-A
-B
-C
-High frequency
-Medium frequency
-Low frequency
-Figure 534. “Traveling waves” along the basilar membrane for high-  (A), medium-  (B), and lowfrequency (C) sounds. Distance from stapes (millimeters)
-a
-A
-B b d c
-4000 2000 1000 600 400 200
-10 20 3015 25
-Frequency (cycles/sec)
-Figure 535. A, Amplitude pattern of vibration of the basilar mem - brane for a mediumfrequency sound (a–d). B, Amplitude patterns for sounds of frequencies between 200 and 8000 cycles/sec, showing the points of maximum amplitude on the basilar membrane for the different frequencies.
+聽覺是將空氣中的壓力波動轉換為神經訊號的複雜過程。本章從聲波進入外耳開始，依序說明聲音如何通過中耳的鼓膜與聽小骨鏈進行阻抗匹配、最終驅動內耳 cochlea 中的 fluid vibration。接著探討 basilar membrane 的行波（traveling wave）現象——這是頻率分析的核心機制：不同頻率的聲波在 basilar membrane 的不同位置達到最大振幅，高頻靠近基底（oval window），低頻靠近頂端（helicotrema）。
 
-UNIT X
-Excitation of the Hair Cells . Note in Figure 536 that minute hairs, or stereocilia, project upward from the hair cells and either touch or are embedded in the surface gel coating of the tectorial membrane, which lies above the stereocilia in the scala media. These hair cells are similar to the hair cells found in the macula and cristae ampul - laris of the vestibular apparatus, discussed in Chapter 56.
-Bending of the hairs in one direction depolarizes the hair cells, and bending in the opposite direction hyperpolar - izes them. This in turn <span class="c-green">excites</span> the auditory nerve fibers synapsing with their bases.
-Figure 537A shows the mechanism whereby vibra - tion of the basilar membrane <span class="c-green">excites</span> the hair endings. The outer ends of the hair cells are fixed tightly in a rigid struc- ture composed of a flat plate, called the reticular lamina, supported by triangular rods of Corti, which are attached tightly to the basilar fibers. The basilar fibers, the rods of
-Corti, and the reticular lamina move as a rigid unit.
-Upward movement of the basilar fiber rocks the retic - ular lamina upward and inward toward the modiolus.
-Then, when the basilar membrane moves downward, the reticular lamina rocks downward and outward. The inward and outward motion causes the hairs on the hair cells to shear back and forth against the tectorial mem - brane. Thus, the hair cells are <span class="c-green">excite</span>d whenever the basilar membrane vibrates.
-Auditory Signals Are Transmitted Mainly by the
-Inner Hair Cells. Even though there are three to four times as many outer hair cells as inner hair cells, about 90% of the auditory nerve fibers are <span class="c-green">stimulate</span>d by the inner cells rather than by the outer cells. Nonetheless, if the outer cells are damaged while the inner cells remain fully func - tional, a large amount of hearing loss occurs. Therefore, it has been proposed that the outer hair cells in some way control the sensitivity of the inner hair cells at different sound pitches, a phenomenon called “ tuning” of the re - ceptor system. In support of this concept, a large number of retrograde nerve fibers pass from the brain stem to the
-Tectorial membrane
-Basilar fiber
-Outer hair cells Inner hair cells
-Spiral ganglion
-Cochlear nerve
-Figure 536. The organ of Corti, showing especially the hair cells and the tectorial membrane pressing against the projecting hairs.
-Basilar fiber
-Reticular lamina
-Rods of Corti
-Modiolus
-A
-B
-Tip link protein
-K+ channel
-K+
-K+
-K+
-K+
-K+
-Ca2+ Ca2+
-K+ K+
-Membrane
-<span class="c-yellow">depolarization</span>
-<span class="c-cyan">Glutamate</span>
-Afferent neuron
-Spiral ganglion
-K+
-Stereocilia
-Stereocilia
-Hair cells
-Tectorial membrane
-Figure 537. A, Stimulation of the hair cells by to and fro movement of the hairs projecting into the gel coating of the tectorial membrane.
-B, Transduction of mechanical energy into neural signals by the hair cells. When the stereocilia are bent in the direction of the longer ones, K+ channels are opened, causing <span class="c-yellow">depolarization</span>, which in turn opens voltagegated Ca2+ channels. The influx of Ca2+ augments the
-<span class="c-yellow">depolarization</span> and elicits release of the excitatory transmitter gluta - mate, which depolarizes the sensory nerve.
+Organ of Corti 中的 hair cells 是真正的受器結構。Inner hair cells 負責將機械振動轉換為神經衝動，約占所有聽神經纖維的 90-95%；outer hair cells 則透過其收縮與僵硬度變化來調整整個受器系統的靈敏度。Hair cells 的 Stereocilia 彎曲會打開 K+ 通道，引發去極化並釋放麩胺酸神經傳遞物質。
 
-vicinity of the outer hair cells. Stimulating these nerve fib- ers can actually cause shortening of the outer hair cells and possibly also change their degree of stiffness. These effects suggest a retrograde nervous mechanism for con - trol of the ear’s sensitivity to different sound pitches, acti- vated through the outer hair cells.
-Hair Cell Receptor Potentials and Excitation of Audi - tory Nerve Fibers . The stereocilia (i.e., the “hairs” pro - truding from the ends of the hair cells) are stiff structures because each has a rigid protein framework. Each hair cell has about 100 stereocilia on its apical border. These ste - reocilia become progressively longer on the side of the hair cell away from the modiolus. The tops of the shorter ste - reocilia are attached by thin filaments to the back sides of their adjacent longer stereocilia. Therefore, whenever the cilia are bent in the direction of the longer ones, the tips of the smaller stereocilia are tugged outward from the surface of the hair cell. This causes a mechanical transduction that opens 200 to 300 cationconducting channels, allowing for the rapid movement of positively charged potassium ions from the surrounding scala media fluid into the stereocilia, which causes <span class="c-yellow">depolarization</span> of the hair cell membrane (see
-Figure 537B). The <span class="c-yellow">depolarization</span> opens voltagesensitive calcium channels and causes influx of calcium ions, which augments the <span class="c-yellow">depolarization</span>. <span class="c-yellow">Repolarization</span> of the hair cell occurs mainly by exit of potassium ions through cal - cium ion–sensitive potassium channels.
-Thus, when the basilar fibers bend toward the scala vestibuli, the hair cells depolarize, and in the opposite direction they hyperpolarize, thereby generating an alter- nating hair cell receptor potential that, in turn, <span class="c-green">stimulates</span> the cochlear nerve endings that synapse with the bases of the hair cells. It is believed that the rapidly acting neu - rotransmitter <span class="c-cyan">glutamate</span> is released by the hair cells at these synapses during <span class="c-yellow">depolarization</span>.
-Endocochlear Potential. To explain even more fully the electrical potentials generated by the hair cells, we need to explain another electrical phenomenon called the endo- cochlear potential. The scala media is filled with a fluid called endolymph, in contradistinction to the perilymph present in the scala vestibuli and scala tympani. The scala vestibuli and scala tympani communicate directly with the subarachnoid space around the brain, so the perilymph is almost identical to cerebrospinal fluid. Conversely, the endolymph that fills the scala media is an entirely different fluid secreted by the stria vascularis, a highly vascular area on the outer wall of the scala media. Endolymph contains a high concentration of potassium and a low concentration of sodium, which is exactly opposite to the contents of perilymph.
-An electrical potential of about +80 millivolts exists all the time between endolymph and perilymph, with posi - tivity inside the scala media and negativity outside. This is called the endocochlear potential, and it is generated by continual secretion of positive potassium ions into the sca- la media by the stria vascularis.
-The importance of the endocochlear potential is that the tops of the hair cells project through the reticular lamina and are bathed by the endolymph of the scala media, whereas per- ilymph bathes the lower bodies of the hair cells. Furthermore, the hair cells have a negative intracellular potential of −70 millivolts with respect to the perilymph but −150 millivolts with respect to the endolymph at their upper surfaces, where the hairs project through the reticular lamina and into the endolymph. It is believed that this high electrical potential at the tips of the stereocilia sensitizes the cell an extra amount, thereby increasing its ability to respond to the slightest sound.
-DETERMINATION OF SOUND
-FREQUENCY—THE “PLACE” PRINCIPLE
-From earlier discussions in this chapter, it is apparent that lowfrequency sounds cause maximal activation of the basilar membrane near the apex of the cochlea, and highfrequency sounds <span class="c-green">activate</span> the basilar membrane near the base of the cochlea. Intermediatefrequency sounds <span class="c-green">activate</span> the mem- brane at intermediate distances between the two extremes.
-Furthermore, there is spatial organization of the nerve fibers in the cochlear pathway, all the way from the cochlea to the cerebral cortex. Recording of signals in the auditory tracts of the brain stem and in the auditory receptive fields of the cere- bral cortex shows that specific brain neurons are <span class="c-green">activate</span>d by specific sound frequencies. Therefore, the major method used by the nervous system to detect different sound frequen- cies is to determine the positions along the basilar membrane that are <span class="c-green">stimulate</span>d the most, called the place principle for the determination of sound frequency.
-Referring again to Figure 535, one can see that the distal end of the basilar membrane at the helicotrema is
-<span class="c-green">stimulate</span>d by all sound frequencies below 200 cycles/sec.
-Therefore, it has been difficult to understand from the place principle how one can differentiate between low sound fre- quencies in the range of 200 down to 20 cycles/sec. These low frequencies have been postulated to be discriminated mainly by the socalled volley or frequency principle. That is, lowfrequency sounds, from 20 to 1500 to 2000 cycles/ sec, can cause volleys of nerve impulses synchronized at the same frequencies, and these volleys are transmitted by the cochlear nerve into the cochlear nuclei of the brain. It is further suggested that the cochlear nuclei can distinguish the different frequencies of the volleys. In fact, destruction of the entire apical half of the cochlea, which destroys the basilar membrane where all lower frequency sounds are normally detected, does not totally eliminate discrimina - tion of the lower frequency sounds.
-DETERMINATION OF LOUDNESS
-Loudness is determined by the auditory system in at least three ways.
-First, as the sound becomes louder, the amplitude of vibration of the basilar membrane and hair cells also increases so that the hair cells <span class="c-green">excite</span> the nerve endings at more rapid rates.
+最後，本章說明聽覺路徑從 cochlear nuclei 經 superior olivary nucleus、lateral lemniscus、inferior colliculus 到 medial geniculate nucleus，最後投射至顳葉 primary auditory cortex 的完整路徑，以及大腦如何判斷聲音頻率、強度與方向。
 
-UNIT X
-Second, as the amplitude of vibration increases, it causes more and more of the hair cells on the fringes of the resonating portion of the basilar membrane to become
-<span class="c-green">stimulate</span>d, thus causing spatial summation of impulses—
-that is, transmission through many nerve fibers rather than through only a few.
-Third, the outer hair cells do not become <span class="c-green">stimulate</span>d significantly until vibration of the basilar membrane reaches high intensity, and stimulation of these cells pre - sumably apprises the nervous system that the sound is loud.
-Detection of Changes in Loudness—The Power Law .
-As pointed out in Chapter 47, a person interprets changes in intensity of sensory stimuli approximately in propor - tion to an inverse power function of the actual intensity.
-In the case of sound, the interpreted sensation changes approximately in proportion to the cube root of the ac - tual sound intensity. To express this concept in another way, the ear can discriminate differences in sound inten - sity from the softest whisper to the loudest possible noise, representing an approximately 1 trillion times  increase in sound energy or 1 million times increase in amplitude of movement of the basilar membrane. Yet, the ear inter- prets this much difference in sound level as approximately a 10,000fold change. Thus, the scale of intensity is greatly
-“compressed” by the sound perception mechanisms of the auditory system, which allows a person to interpret dif - ferences in sound intensities over a far wider range than would be possible were it not for compression of the in - tensity scale.
-Decibel Unit. Because of the extreme changes in sound intensities that the ear can detect and discriminate, sound intensities are usually expressed in terms of the logarithm of their actual intensities. A 10fold increase in sound en- ergy is called 1 bel, and 0.1 bel is called 1 decibel. One decibel represents an actual increase in sound energy of
-1.26 times.
-Another reason for using the decibel system to express changes in loudness is that in the usual sound intensity range for communication, the ears can barely distinguish an approximately 1decibel change in sound intensity.
-Threshold for Hearing Sound at Different
-Frequencies. Figure 538 shows the pressure thresholds at which sounds of different frequencies can barely be heard by the ear. This figure demonstrates that a 3,000 cy- cles/sec sound can be heard even when its intensity is as low as 70 decibels below 1 dyne/cm2 sound pressure level, which is one tenmillionth microwatt per square centim- eter. Conversely, a 100 cycles/sec sound can be detected only if its intensity is 10,000 times as great as this.
-Frequency Range of Hearing. The frequencies of sound that a young person can hear are between 20 and 20,000 cycles/sec. However, referring again to Figure 538, we see that the sound range depends to a great extent on loudness. If the loudness is 60 decibels below 1 dyne/cm 2 sound pressure level, the sound range is 500 to 5000 cy - cles/sec; only with intense sounds can the complete range of 20 to 20,000 cycles be achieved. In old age, this fre - quency range is usually shortened to 50 to 8,000 cycles/ sec or less, as discussed later in this chapter.
-CENTRAL AUDITORY MECHANISMS
-AUDITORY NERVOUS PATHWAYS
-Figure 539 shows the major auditory pathways. Nerve fibers from the spiral ganglion of Corti  enter the dorsal and ventral cochlear nuclei located in the upper part of the medulla. At this point, all the fibers synapse, and second- order neurons pass mainly to the opposite side of the brain stem to terminate in the superior olivary nucleus. A few secondorder fibers also pass to the superior olivary nucleus on the same side.
-From the superior olivary nucleus, the auditory path - way passes upward through the lateral lemniscus. Some of the fibers terminate in the nucleus of the lateral lem - niscus, but many fibers bypass this nucleus and travel on to the inferior colliculus, where all or almost all the audi - tory fibers synapse. From there, the pathway passes to the medial geniculate nucleus, where all the fibers do synapse.
-Finally, the pathway proceeds via auditory radiation  to the auditory cortex, located mainly in the superior gyrus of the temporal lobe.
-Several important points should be noted. First, signals from both ears are transmitted through the pathways of both sides of the brain, with a preponderance of transmis- sion in the contralateral pathway. In at least three places in the brain stem, crossing over occurs between the two pathways: (1) in the trapezoid body; (2) in the commissure between the two nuclei of the lateral lemnisci; and (3) in the commissure connecting the two inferior colliculi.
-Second, many collateral fibers from the auditory tracts pass directly into the reticular activating system of the brain stem . This system projects diffusely upward in the brain stem and downward into the spinal cord and
-Pressure (decibels)
-(0 decibel = 1 dyne/cm2)
-Frequency (cycles/sec)
-Vibration Sound
-51 02 0 100 500 20001 0,000
-–80
-–60
-–40
-–20
-100 Pricking
-(in middle ear)
-Tactual threshold
-Threshold of hearing
-Reference pressure = -73.8
-Figure 538. Relation of the threshold of hearing and of somesthetic perception (pricking and tactual threshold) to the sound energy level at each sound frequency.
+## Tympanic Membrane and the Ossicular System
 
-<span class="c-green">activates</span> the entire nervous system in response to loud sounds. Other collaterals go to the vermis of the cerebel - lum, which is also <span class="c-green">activate</span>d instantaneously in the event of a sudden noise.
-Third, a high degree of spatial orientation is maintained in the fiber tracts from the cochlea all the way to the cor- tex. In fact, there are three spatial patterns for termination of the different sound frequencies in the cochlear nuclei, two patterns  in the inferior colliculi, one precise pattern for discrete sound frequencies in the auditory cortex, and at least five other less precise patterns in the auditory cor- tex and auditory association areas.
-Firing Rates at Different Levels of the Auditory
-Pathways. Single nerve fibers entering the cochlear nuclei from the auditory nerve can fire at rates up to at least 1000/ sec, with the rate being determined mainly by the loud - ness of the sound. At sound frequencies up to 2000 to 4000 cycles/sec, the auditory nerve impulses are often synchro - nized with the sound waves, but they do not necessarily occur with every wave.
-In the auditory tracts of the brain stem, the firing is usually no longer synchronized with the sound frequency, except at sound frequencies below 200 cycles/sec. Above the level of the inferior colliculi, even this synchronization is mainly lost. These findings demonstrate that the sound signals are not transmitted unchanged directly from the ear to the higher levels of the brain; instead, information from the sound signals begins to be dissected from the impulse traffic at levels as low as the cochlear nuclei. We will have more to say about this subject later, especially in relation to perception of direction from which sound comes.
-FUNCTION OF THE CEREBRAL CORTEX IN
-HEARING
-The projection area of auditory signals to the cerebral cor- tex is shown in Figure 5310, which demonstrates that the auditory cortex lies principally on the supratempo- ral plane of the superior temporal gyrus  but also extends onto the lateral side of the temporal lobe , over much of the insular cortex, and even onto the lateral portion of the parietal operculum.
-Two separate subdivisions are shown in Figure 53-
-10—the primary auditory cortex  and the auditory asso - ciation cortex (also called the secondary auditory cortex ).
-The primary auditory cortex is directly <span class="c-green">excite</span>d by projec- tions from the medial geniculate body, whereas the audi - tory association areas are <span class="c-green">excite</span>d secondarily by impulses from the primary auditory cortex, as well as by some pro- jections from thalamic association areas adjacent to the medial geniculate body.
-Sound Frequency Perception in the Primary
-Auditory Cortex. At least six tonotopic maps have been described in the primary auditory cortex and auditory association areas. In each of these maps, highfrequency sounds <span class="c-green">excite</span> neurons at one end of the map, whereas lowfrequency sounds <span class="c-green">excite</span> neurons at the opposite end.
-In most maps, the lowfrequency sounds are located ante- riorly, as shown in Figure 5310, and the highfrequency sounds are located posteriorly. This setup is not true for all the maps.
-Why does the auditory cortex have so many different tonotopic maps? The answer, presumably, is that each of the separate areas dissects out some specific feature of the sounds. For example, one of the large maps in the pri- mary auditory cortex almost certainly discriminates the sound frequencies and gives the person the psychic sen - sation of sound pitches. Another map is probably used to detect the direction from which the sound comes. Other auditory cortex areas detect special qualities, such as the
-Primary auditory cortex
-Medial geniculate nucleus
-(<span class="c-pink">thalamus</span>)
-Inferior colliculus
-Nucleus of the lateral lemniscus
-Superior olivary nucleus
-Intermediate acoustic site
-Medulla
-Trapezoid body
-Midbrain
-Midbrain
-Pons
-Pons
-Dorsal acoustic stria
-Cochlear nuclei
-N. VIlI
-Figure 539. Auditory nervous pathways. N., Nerve.
+### 聲音從鼓膜傳導至Cochlea
 
-UNIT X sudden onset of sounds, or perhaps special modulations, such as noise versus pure frequency sounds.
-The frequency range to which each individual neuron in the auditory cortex responds is much narrower than that in the cochlear and brain stem relay nuclei. Referring to Figure 535B, note that the basilar membrane near the base of the cochlea is <span class="c-green">stimulate</span>d by sounds of all frequen- cies and, in the cochlear nuclei, this same breadth of sound representation is found. Yet, by the time the excitation has reached the cerebral cortex, most soundresponsive neurons respond only to a narrow range of frequencies rather than to a broad range. Therefore, somewhere along the pathway, processing mechanisms “sharpen” the fre - quency response. This sharpening effect is believed to be caused mainly by lateral <span class="c-green">inhibit</span>ion, discussed in Chapter
-47 in relation to mechanisms for transmitting informa - tion in nerves. That is, stimulation of the cochlea at one frequency <span class="c-green">inhibits</span> sound frequencies on both sides of this primary frequency; this <span class="c-green">inhibit</span>ion is caused by collateral fibers angling off the primary signal pathway and exert - ing <span class="c-green">inhibit</span>ory influences on adjacent pathways. This same effect is important in sharpening patterns of somesthetic images, visual images, and other types of sensations.
-Many of the neurons in the auditory cortex, especially in the auditory association cortex , do not respond only to specific sound frequencies in the ear. It is believed that these neurons “associate” different sound frequen - cies with one another or associate sound information with information from other sensory areas of the cortex.
-Indeed, the parietal portion of the auditory association cortex partly overlaps somatosensory area II, which could provide an opportunity for the association of auditory information with somatosensory information.
-Discrimination of Sound “Patterns” by the Auditory
-Cortex. Complete bilateral removal of the auditory cortex does not prevent a cat or monkey from detecting sounds or reacting in a crude manner to sounds. However, it does greatly reduce or sometimes even abolish the animal’s ability to discriminate different sound pitches and espe - cially patterns of sound . For example, an animal that has been trained to recognize a combination or sequence of tones, one following the other in a particular pattern, los- es this ability when the auditory cortex is destroyed; fur - thermore, the animal cannot relearn this type of response.
-Therefore, the auditory cortex is especially important in the discrimination of tonal and sequential sound patterns.
-Destruction of both primary auditory cortices in the human being greatly reduces one’s sensitivity for hear - ing. Destruction of one side only slightly reduces hearing in the opposite ear; it does not cause deafness in the ear because of many crossover connections from side to side in the auditory neural pathway. However, it does affect one’s ability to localize the source of a sound because comparative signals in both cortices are required for sound localization.
-Lesions that affect the auditory association areas but not the primary auditory cortex do not decrease a per - son’s ability to hear and differentiate sound tones or even to interpret at least simple patterns of sound. However, the person is often unable to interpret the meaning of the sound heard. For example, lesions in the posterior portion of the superior temporal gyrus, which is called Wernicke’s area and is part of the auditory association cortex, often make it impossible for a person to interpret the meanings of words even though he or she hears them perfectly well and can even repeat them. These functions of the auditory association areas and their relation to the overall intellec- tual functions of the brain are discussed in Chapter 58.
-DETERMINATION OF THE DIRECTION
-FROM WHICH SOUND COMES
-A person determines the horizontal direction from which sound comes by two principal means: (1) the time lag between the entry of sound into one ear and its entry into the opposite ear; and (2) the difference between the inten- sities of the sounds in the two ears.
-The first mechanism functions best at frequencies below 3000 cycles/sec, and the second mechanism oper - ates best at higher frequencies because the head is a greater sound barrier at these frequencies. The time lag mechanism discriminates direction much more exactly than the intensity mechanism because it does not depend on extraneous factors but only on the exact interval of time between two acoustical signals. If a person is look - ing straight toward the source of the sound, the sound
-Low frequency High frequency
-Primary
-Primary
-Association
-Association
-Figure 5310. Auditory cortex.
+Figure 531 顯示外耳、中耳與內耳的結構。Tympanic membrane（鼓膜，又稱耳膜）接收空氣中的聲波振動，並透過中耳內的三塊聽小骨——malleus（錘骨）、incus（砧骨）與 stapes（鐙骨）——傳導至 cochlea 的 oval window。
 
-reaches both ears at exactly the same instant, whereas if the right ear is closer to the sound than the left ear is, the sound signals from the right ear enter the brain ahead of those from the left ear.
-These two mechanisms cannot tell whether the sound is emanating from in front of or behind the person or from above or below. This discrimination is achieved mainly by the pinnae (the visible outer part), which act as funnels to direct the sound into the two ears. The shape of the pinna changes the quality of the sound entering the ear, depending on the direction from which the sound comes.
-It changes the quality by emphasizing specific sound fre - quencies from the different directions.
-Neural Mechanisms for Detecting Sound Direction .
-Destruction of the auditory cortex on both sides of the brain causes loss of almost all ability to detect the direction from which sound comes. Yet, the neural analyses for this detec- tion process begin in the superior olivary nuclei in the brain stem, even though the neural pathways all the way from these nuclei to the cortex are required for interpretation of the signals. The mechanism is believed to be the following.
-The superior olivary nucleus is divided into two sec - tions: (1) the medial superior olivary nucleus;  and (2) the lateral superior olivary nucleus. The lateral nucleus is con- cerned with detecting the direction from which the sound is coming, presumably by simply comparing the difference in intensities of the sound reaching the two ears and send- ing an appropriate signal to the auditory cortex to esti - mate the direction.
-The medial superior olivary nucleus , however, has a specific mechanism for detecting the time lag between acoustical signals entering the two ears. This nucleus con- tains large numbers of neurons that have two major den - drites, one projecting to the right and the other to the left.
-The acoustical signal from the right ear impinges on the right dendrite, and the signal from the left ear impinges on the left dendrite. The intensity of excitation of each neuron is highly sensitive to a specific time lag between the two acoustical signals from the two ears. The neurons near one border of the nucleus respond maximally to a short time lag, whereas those near the opposite border respond to a long time lag; those in between respond to intermediate time lags.
-Thus, a spatial pattern of neuronal stimulation develops in the medial superior olivary nucleus, with sound from directly in front of the head stimulating one set of olivary neurons maximally and sounds from different side angles stimulating other sets of neurons on opposite sides. This spatial orientation of signals is then transmitted to the auditory cortex, where sound direction is determined by the locus of the maximally <span class="c-green">stimulate</span>d neurons. All these signals for determining sound direction are believed to be transmitted through a different pathway and <span class="c-green">excite</span> a different locus in the cerebral cortex from the transmis - sion pathway and termination locus for tonal patterns of sound.
-This mechanism for detection of sound direction indi- cates again how specific information in sensory signals is dissected out as the signals pass through different levels of neuronal activity. In this case, the “quality” of sound direc- tion is separated from the “quality” of sound tones at the level of the superior olivary nuclei.
-Centrifugal Signals From the Central Nervous
- System to Lower Auditory Centers
-Retrograde pathways have been demonstrated at each level of the auditory nervous system from the brain cortex to the cochlea in the ear. The final pathway is mainly from the su- perior olivary nucleus to the soundreceptor hair cells in the organ of Corti.
-These retrograde fibers are <span class="c-green">inhibit</span>ory. Indeed, direct stimulation of discrete points in the olivary nucleus has been shown to <span class="c-green">inhibit</span> specific areas of the organ of Corti, reducing their sound sensitivities by 15 to 20 decibels. One can readily understand how this mechanism could allow someone to direct their attention to sounds of particular qualities while rejecting sounds of other qualities. This characteristic is readily demonstrated when one listens to a single instrument in a symphony orchestra.
-Types of Deafness
-Deafness is usually divided into two types: (1) that caused by impairment of the cochlea, the auditory nerve, or the central nervous system circuits from the ear, which is usually classi- fied as “nerve deafness, ” and (2) that caused by impairment of the physical structures of the ear that conduct sound itself to the cochlea, which is usually called “conduction deafness. ”
-If either the cochlea or the auditory nerve is destroyed, the person becomes permanently deaf. However, if the cochlea and nerve are still intact but the tympanum- ossicular system has been destroyed or ankylosed (“frozen” in place by fibrosis or calcification), sound waves can still be conducted into the cochlea by means of bone conduction from a sound generator applied to the skull over the ear.
-Audiometer. To determine the nature of hearing dis - abilities, an audiometer is used. This instrument is an earphone connected to an electronic oscillator capable of emitting pure tones ranging from low frequencies to high frequencies, and it is calibrated so that zerointensitylevel sound at each frequency is the loudness that can barely be heard by the normal ear. A calibrated volume control can increase the loudness above the zero level. If the loudness must be increased to 30 decibels above normal before it can be heard, the person is said to have a hearing loss of 30 decibels at that particular frequency.
-In performing a hearing test using an audiometer, one tests about 8 to 10 frequencies covering the auditory spec - trum, and the hearing loss is determined for each of these frequencies. Then the socalled audiogram is plotted, as shown in Figure 5311 and 5312, depicting hearing loss at each of the frequencies in the auditory spectrum. The au- diometer, in addition to being equipped with an earphone for testing air conduction by the ear, is equipped with a mechanical vibrator for testing bone conduction from the mastoid process of the skull into the cochlea.
-Audiogram in Nerve Deafness . In nerve deafness, which includes damage to the cochlea, the auditory nerve,
+Malleus 的柄附著於鼓膜中心，與 incus 由韌帶連接，因此 malleus 移動時 incus 也隨之移動。Incus 的另一端與 stapes 的柄相連，stapes 的 faceplate（即足板）則覆蓋 cochlea 卵圓窗的開口。Tensor tympani muscle 持續牽拉 malleus 柄，使鼓膜保持張力，確保任何部位的聲波振動都能有效傳至聽小骨。
 
-UNIT X or the central nervous system circuits from the ear, the per- son has loss of ability to hear sound as tested by both air conduction and bone conduction. An audiogram depict - ing partial nerve deafness is shown in Figure 5311. In this figure, the deafness is mainly for highfrequency sound.
-Such deafness could be caused by damage to the base of the cochlea. This type of deafness occurs to some extent in almost all older people.
-Other patterns of nerve deafness frequently occur as follows: (1) deafness for lowfrequency sounds caused by excessive and prolonged exposure to very loud sounds (e.g., a rock band or a jet airplane engine) because lowfrequency sounds are usually louder and more damaging to the organ of Corti; and (2) deafness for all frequencies caused by drug sensitivity of the organ of Corti—in particular, sensitivity to some antibiotics such as streptomycin, gentamicin, kana - mycin, and chloramphenicol.
-Audiogram for Middle Ear Conduction Deafness . A common type of deafness is caused by fibrosis in the mid - dle ear after repeated infection or by fibrosis that occurs in the hereditary disease called otosclerosis. In either case, the sound waves cannot be transmitted easily through the ossi- cles from the tympanic membrane to the oval window. Fig- ure 5312 shows an audiogram from a person with “middle ear air conduction deafness. ” In this case, bone conduction is essentially normal, but conduction through the ossicular system is greatly depressed at all frequencies, but more so at low frequencies. In some cases of conduction deafness, the faceplate of the stapes becomes “ankylosed” by bone overgrowth to the edges of the oval window. Here, the per- son becomes totally deaf for ossicular conduction but can regain almost normal hearing by the surgical removal of the stapes and its replacement with a minute Teflon or metal prosthesis that transmits the sound from the incus to the oval window.
-Bibliography
+聽小骨由韌帶懸吊於中耳，malleus 與 incus 合起來像一個槓桿系統，其支點大約在鼓膜邊緣。Incus 與 stapes 的關節使 stapes 能：（1）當鼓膜向內移動時，壓迫 oval window 及其後方的 cochlear fluid；（2）當 malleus 向外移動時，將 fluid 向後拉。
+
+### 聽小骨系統的「阻抗匹配」功能
+
+Stapes faceplate 每一次聲波振動的位移幅度約為 malleus 柄位移幅度的四分之三。可見聽小骨槓桿系統並非如常見誤解所述增加 stapes 的位移距離，而是**減少位移但增加力量約 1.3 倍**。
+
+此外，鼓膜表面積約 55 平方毫米，而 stapes faceplate 平均面積僅 3.2 平方毫米。這個 17 倍的面積差異乘以槓桿系統的 1.3 倍比值，使作用於 cochlear fluid 的總力量約為聲波作用於鼓膜時的 22 倍。
+
+因為 fluid 的慣性遠大於空氣，需要更大的力量才能驅動 fluid 振動。因此，鼓膜與聽小骨系統提供了空氣中聲波與 cochlea fluid 振動之間的**阻抗匹配**（impedance matching）。在 300 至 3000 Hz 的頻率範圍內，阻抗匹配效率約為 50% 至 75%，使大部分聲波能量得以有效利用。
+
+若缺乏聽小骨與鼓膜，聲波仍可直接穿過中耳空氣進入 oval window 的 cochlea，但聽覺敏感度會下降 15 至 20 分貝，相當於從中等音量降至幾乎聽不清的語音水平。
+
+<figure>
+<img src="/images/guyton/53f531.jpg" alt="Ear anatomy">
+<figcaption>Figure 531. The outer ear, tympanic membrane, and ossicular system of the middle ear and inner ear.</figcaption>
+</figure>
+
+### Tensor Tympani與Stapedius Muscles的衰減反射
+
+當大聲音經聽小骨傳入中枢神經系統後，會在 40 至 80 毫秒的潛伏期後引發反射，收縮 stapedius muscle（主要）並在一定程度上收縮 tensor tympani muscle。Tensor tympani 將 malleus 柄向內拉，stapedius 將 stapes 向外拉，兩者力量相互對抗，使整個聽小骨系統剛性大增，大幅減少低頻聲（主要為 1000 Hz 以下）的傳導。
+
+這個**衰減反射**（attenuation reflex）可將低頻聲音強度減少 30 至 40 分貝，相當於大聲說話與耳語之間的差異。這種機制的功能有二：保護 cochlea 免受過大聲音的損害，以及在嘈雜環境中遮蔽低頻背景噪音，使人能專注於 1000 Hz 以上的語音資訊。
+
+另一個功能是降低一個人對自己說話時的聽覺敏感度。當大腦啟動發聲機制時，會同時發出側枝神經訊號到這些肌肉，產生這種效應。
+
+## Transmission of Sound Through Bone
+
+因為內耳的 cochlea 嵌於顳骨骨質中的 bony labyrinth（骨性迷路子），顱骨的振動可以引起 cochlea 中 fluid 的振動。因此，將音叉或電子震動器置於顱骨的任何骨性突起上（尤其是靠近耳朵的乳突 process）就能使人聽到聲音。然而，除非使用特殊的電子機械聲音放大裝置，否則空氣中即使是很大的聲音也不足以通過骨傳導產生聽覺。
+
+## The Cochlea
+
+### 功能解剖
+
+Cochlea 是一組盤繞的管腔系統（如 Figure 531 與 532 所示），由三條並行的管子組成：scala vestibuli、scala media 與 scala tympani。Scala vestibuli 與 scala media 以 Reissner's membrane（又稱 vestibular membrane）分隔；scala tympani 與 scala media 以 basilar membrane 分隔。Organ of Corti 位於 basilar membrane 表面，含有對機械振動敏感的 hair cells，是產生聽覺神經衝動的接受器末梢。
+
+<figure>
+<img src="/images/guyton/53f532.jpg" alt="Cochlea structure">
+<figcaption>Figure 532. The cochlea (A) and section through one of the turns of the cochlea (B).</figcaption>
+</figure>
+
+Reissner's membrane 非常薄且易動，不阻礙聲波振動從 scala vestibuli 進入 scala media。因此，就 fluid 傳導而言，scala vestibuli 與 scala media 可視為單一腔室。Reissner's membrane 由 stria vascularis 維持 scala media 中特殊液體（endolymph）的組成，這對 hair cells 的正常功能必不可少。
+
+聲波振動從 stapes faceplate 進入 scala vestibuli 的 oval window。Faceplate 以鬆弛的環狀韌帶與窗緣連接，可以隨聲波振動向內或向外移動。向內移動使 fluid 向前經 scala vestibuli 與 scala media 流動；向外移動使 fluid 向後流動。
+
+<figure>
+<img src="/images/guyton/53f533.jpg" alt="Cochlear fluid movement">
+<figcaption>Figure 533. Movement of fluid in the cochlea after forward thrust of the stapes.</figcaption>
+</figure>
+
+### Basilar Membrane與Cochlea的共振
+
+Basilar membrane 是分隔 scala media 與 scala tympani 的纖維膜，包含約 20,000 至 30,000 條 basilar fibers。這些纖維從 cochlea 的骨性中心（modiolus）向外壁延伸，在基部（oval window 處）固定，但遠端游離，嵌於鬆弛的 basilar membrane 中。由於纖維堅硬且遠端游離，可以像口琴的簧片般振動。
+
+Basilar fibers 的長度從 oval window 處的約 0.04 毫米逐漸增加至 cochlea 頂端（helicotrema）的約 0.5 毫米，增幅達 12 倍。然而，纖維的直徑從 oval window 向 helicotrema 方向逐漸變細，整體剛性降低超過 100 倍。因此，靠近 cochlea 基部又短又硬的纖維對高頻振動響應最好；靠近頂端又長又柔軟的纖維則對低頻振動響應最好。
+
+所以，basilar membrane 的高頻共振發生在聲波進入 cochlea 的基底附近；低頻共振則發生在 helicotrema 附近，主要因為纖維較不僵硬，但也因為 fluid 需要沿著 cochlear tubules 振動的額外質量負擔。
+
+### 聲波在Cochlea中的傳播：「行波」
+
+當 stapes 足部向內推壓 oval window 時，因為 cochlea 周圍皆為骨壁，round window 必須向外鼓起。聲波進入 oval window 的初始效應是使 cochlea 基底的 basilar membrane 向 round window 方向彎曲。然而，basilar fibers 彎曲時產生的彈性張力會引發沿 basilar membrane 向 helicotrema 方向傳播的 fluid wave。
+
+<figure>
+<img src="/images/guyton/53f534.jpg" alt="Traveling waves">
+<figcaption>Figure 534. "Traveling waves" along the basilar membrane for high- (A), medium- (B), and low-frequency (C) sounds.</figcaption>
+</figure>
+
+Figure 534 顯示不同頻率高頻（A）、中頻（B）與低頻（C）聲波在 basilar membrane 上的傳播模式。每個波在起始時相對較弱，但當到達其自然共振頻率等於該聲音頻率的位置時，振幅變大並達到最大。在該點，basilar membrane 能以極小的阻力來回振動，波的能量在此處被耗散，隨後消失，不再繼續沿 basilar membrane 傳播。
+
+因此，高頻聲波在 basilar membrane 上傳播很短距離後就會到達共振點並衰減；中頻聲波傳播約一半距離後衰減；極低頻聲波則可傳播整個膜的長度。
+
+另一個特點是：行波在 basilar membrane 起始部分的傳播速度較快，隨著進入 cochlea 更深處而變慢。這種初始快速傳播使得高頻聲波有足夠距離在 basilar membrane 上散開並彼此分開。若沒有這種初始快速傳播，所有高頻波會拥擠在 basilar membrane 的前 1 毫米範圍內，無法區分頻率。
+
+<figure>
+<img src="/images/guyton/53f535.jpg" alt="Amplitude patterns">
+<figcaption>Figure 535. A, Amplitude pattern of vibration of the basilar membrane for a medium-frequency sound (a–d). B, Amplitude patterns for sounds of frequencies between 200 and 8000 cycles/sec, showing the points of maximum amplitude on the basilar membrane for the different frequencies.</figcaption>
+</figure>
+
+Figure 535B 顯示不同頻率聲音的振幅模式：8000 Hz 聲音的最大振幅位於 cochlea 基底附近；低於 200 Hz 的聲音最大振幅則位於 basilar membrane 頂端靠近 helicotrema 處。
+
+## Function of the Organ of Corti
+
+Organ of Corti（如 Figure 532 與 536 所示）是根據 basilar membrane 振動產生神經衝動的受器器官。Organ of Corti 位於 basilar fibers 與 basilar membrane 表面。真正的感覺受器是兩種特化的神經細胞——hair cells：約 3500 個內毛細胞（inner hair cells）排成單列，直徑約 12 微米；約 12,000 個外毛細胞（outer hair cells）排成三或四列，直徑僅約 8 微米。
+
+Hair cells 的底部與側面與 cochlear nerve fibers 形成突觸網路。這些神經末梢中約 90% 至 95% 終止於內毛細胞，強調了內毛細胞在聲音偵測中的特殊重要性。
+
+受 hair cells 刺激的神經纖維通向位於 cochlea 中心 modiolus 的 spiral ganglion of Corti。Spiral ganglion 神經元發出約 30,000 條軸突，經 cochlear nerve 進入上部 medulla 水平的中樞神經系統。
+
+<figure>
+<img src="/images/guyton/53f536.jpg" alt="Organ of Corti">
+<figcaption>Figure 536. The organ of Corti, showing especially the hair cells and the tectorial membrane pressing against the projecting hairs.</figcaption>
+</figure>
+
+### Hair Cells的活化
+
+Stereo cilia（靜纖毛）從 hair cells 向上突出，末端接觸或嵌入覆蓋其上的 tectorial membrane 表面凝膠層（如 Figure 537A 所示）。這些 hair cells 與前庭系統中 macula 與 crista ampullaris 的 hair cells 結構類似。
+
+Stereo cilia 向一個方向彎曲會使 hair cells 去極化，向相反方向彎曲則使其超極化，進而興奮或抑制與其底部形成突觸的聽神經纖維。
+
+Figure 537A 顯示 basilar membrane 振動如何刺激 hair endings。外毛細胞的頂端固定在一個由 reticular lamina（網狀板）與 Corti's rods 支撐的堅硬結構上，與 basilar fibers 緊密相連。Basilar fibers、Corti's rods 與 reticular lamina 作為剛性整體一起運動。當 basilar fiber 向上移動時，reticular lamina 向內（朝向 modiolus）向上搖擺；當 basilar membrane 向下移動時，reticular lamina 向外向下搖擺。內向與外向運動使 hair cells 的纖毛在 tectorial membrane 上來回剪切，進而活化 hair cells。
+
+<figure>
+<img src="/images/guyton/53f537.jpg" alt="Hair cell transduction">
+<figcaption>Figure 537. A, Stimulation of the hair cells by to and fro movement of the hairs projecting into the gel coating of the tectorial membrane. B, Transduction of mechanical energy into neural signals by the hair cells.</figcaption>
+</figure>
+
+### Inner Hair Cells是主要的聽覺訊號來源
+
+雖然外毛細胞數量是內毛細胞的三到四倍，但約 90% 的聽神經纖維是由內毛細胞而非外毛細胞活化。然而，若外毛細胞受損而內毛細胞仍完全正常運作，仍會造成大量聽力損失。因此推測外毛細胞以某種方式控制內毛細胞對不同音高的敏感度，稱為受器系統的「調諧」（tuning）。
+
+大量逆行神經纖維從腦幹走向外毛細胞附近。刺激這些神經纖維可使外毛細胞縮短並可能改變其僵硬度，顯示存在通過外毛細胞控制耳朵敏感度的逆行神經機制。
+
+### Hair Cell受器電位與聽神經纖維的活化
+
+每個 hair cell 的頂部表面約有 100 根 Stereo cilia。這些 Stereo cilia 在遠離 modiolus 的一側逐漸變長。較短的 Stereo cilia 頂端通過細絲連接到相鄰較長 Stereo cilia 的後側。當纖毛向較長纖毛的方向彎曲時，較小 Stereo cilia 的頂端被從 hair cell 表面向外拉。
+
+這拉動打開了 200 至 300 個陽離子導通道，使正電荷的鉀離子（來自周圍 scala media fluid）快速進入 Stereo cilia，引起 hair cell membrane 的去極化（如 Figure 537B 所示）。去極化打開電壓敏感的鈣通道，鈣離子內流增強去極化並促使興奮性神經傳遞物質麩胺酸（glutamate）釋放，使感覺神經去極化。
+
+### Endocochlear Potential
+
+Scala media 充滿稱為 endolymph 的液體，與 scala vestibuli 和 scala tympani 中的 perilymph 不同。Endolymph 由 stria vascularis（scala media 外壁的高度血管化區域）分泌，含有高濃度鉀離子與低濃度鈉離子，與 perilymph 的成分正好相反。
+
+Endolymph 與 perilymph 之間恆定存在約 +80 毫伏特的電位差（scala media 內為正），稱為 endocochlear potential，由 stria vascularis 持續將正鉀離子分泌進入 scala media 所產生。
+
+這種電位的重要性在於：Hair cells 的頂部突起穿過 reticular lamina，被 scala media 的 endolymph 浸泡；而 hair cells 的下部被 perilymph 浸泡。Hair cells 相對於 perilymph 的細胞內電位為 -70 毫伏特，但相對於 endolymph 的上部表面（纖毛穿過 reticular lamina 並進入 endolymph 之處）為 -150 毫伏特。這個 Stereo cilia 頂端的高電位被認為使細胞額外敏感，從而增加其對微弱聲音的反應能力。
+
+## Determination of Sound Frequency—the "Place" Principle
+
+低頻聲音使 cochlea 頂端附近的 basilar membrane 最大活化；高頻聲音使基底附近最大活化；中頻聲音則活化兩端之間的中間距離。
+
+從 cochlea 到大腦皮質的整條聽覺路徑中，神經纖維都維持空間組織。記錄腦幹聽覺徑與大腦皮質聽覺接收區的訊號顯示，特定的腦神經元被特定頻率的聲音活化。因此，神經系統偵測不同聲音頻率的主要方法是確定沿 basilar membrane 被最大刺激的位置，稱為**頻率決定的 place principle**。
+
+200 Hz 以下的低頻聲音可在 helicotrema 處的 basilar membrane 全長引發最大刺激。因此，長期以來很難理解如何從 place principle 區分 200 至 20 Hz 之間的低頻聲音。這些低頻聲音被認為主要通過所謂的「群射或頻率原則」（volley or frequency principle）來區分——低頻聲音（20 至 1500/2000 Hz）可引起與頻率同步的神經衝動群射，經 cochlear nerve 傳入腦幹的 cochlear nuclei。
+
+破壞整個 cochlea 頂半部（通常偵測低頻聲音的 basilar membrane 所在）並不能完全消除對低頻聲音的區分能力，證實了這一點。
+
+## Determination of Loudness
+
+聽覺系統至少以三種方式決定音量大小。
+
+首先，聲音越響亮，basilar membrane 與 hair cells 的振動幅度也越大，使 hair cells 以更快的頻率興奮神經末梢。
+
+其次，隨著振動幅度增加，basilar membrane 共振部分邊緣的 hair cells 也被激活越多，造成空間性訊息總和——也就是說，訊息通過多條神經纖維而非僅僅幾條傳遞。
+
+第三，Outer hair cells 只在 basilar membrane 振動達到高強度時才明顯被刺激，這些細胞的刺激被認為是通知神經系統聲音很大的機制。
+
+### 強度變化的偵測——冪定律
+
+強度的變化約與實際強度的立方根成正比。這意味著耳朵能區分的音量範圍從最輕柔的耳語到最大可能的噪音，代表聲音能量約增加 1 兆倍，或 basilar membrane 移動幅度增加 100萬倍。然而，耳朵將這種巨大差異詮釋為約 10,000 倍的變化。因此，強度尺度被聽覺系統大幅「壓縮」，使人能夠在比未壓縮時更寬廣的範圍內詮釋聲音強度的差異。
+
+### 分貝單位
+
+因為耳朵能偵測與區分的聲音強度範圍極大，聲音強度通常以其實際強度的對數表示。能量增加 10 倍稱為 1 bel，0.1 bel 稱為 1 decibel。1 decibel 代表聲音能量實際增加 1.26 倍。在日常語音通訊的聲音強度範圍內，耳朵幾乎只能區分約 1 decibel 的變化。
+
+### 不同頻率的聽覺閾值
+
+Figure 538 顯示不同頻率的聲音在耳朵幾乎聽不到時的壓力閾值。3000 Hz 聲音在強度低至比 1 dyne/cm² 聲壓級低 70 分貝（每平方厘米 0.000001 微瓦）時仍能被聽到。相反，100 Hz 聲音只有當其強度是上述數值的 10,000 倍時才能被偵測到。
+
+<figure>
+<img src="/images/guyton/53f538.jpg" alt="Hearing threshold">
+<figcaption>Figure 538. Relation of the threshold of hearing and of somesthetic perception (pricking and tactual threshold) to the sound energy level at each sound frequency.</figcaption>
+</figure>
+
+### 聽覺頻率範圍
+
+年輕人可聽到的頻率範圍為 20 至 20,000 Hz。然而，聽覺範圍很大程度上取決於音量：在聲壓級低於 1 dyne/cm² 60 分貝時，聽覺範圍僅為 500 至 5000 Hz；只有聲音夠強才能達到完整的 20 至 20,000 Hz 範圍。老年時，此頻率範圍通常縮短至 50 至 8000 Hz 或更少。
+
+## Central Auditory Mechanisms
+
+### 聽覺神經路徑
+
+Figure 539 顯示主要聽覺路徑。來自 spiral ganglion of Corti 的神經纖維進入 medulla 上部的背側與腹側 cochlear nuclei。在此，所有纖維形成突觸，第二級神經元主要交叉至對側腦幹，終止於 superior olivary nucleus。少量第二級纖維也傳至同側的 superior olivary nucleus。
+
+<figure>
+<img src="/images/guyton/53f539.jpg" alt="Auditory pathways">
+<figcaption>Figure 539. Auditory nervous pathways. N., Nerve.</figcaption>
+</figure>
+
+從 superior olivary nucleus，聽覺路徑經 lateral lemniscus 向上傳遞。部分纖維終止於 nucleus of the lateral lemniscus，但許多纖維繞過此核繼續前行至 inferior colliculus，幾乎所有聽覺纖維都在此形成突觸。從此，路徑傳至 medial geniculate nucleus，所有纖維在此形成突觸。最後，聽覺放射纖維將訊息傳至 auditory cortex，主要位於顳葉上回的 superior gyrus。
+
+幾個要點值得注意：（1）來自雙耳的訊息通過雙側腦的路徑傳遞，對側路徑占優勢。腦幹中至少有三處發生兩側路徑之間的交叉：trapezoid body、兩側 lateral lemniscus nuclei 之間的 commissure，以及連接兩側 inferior colliculi 的 commissure。（2）來自聽覺徑的許多側枝纖維直接進入腦幹的網狀啟動系統，該系統彌散地向上投射至腦幹並向下投射至脊髓，在聽到大声時啟動整個神經系統。其他側枝進入小腦的 vermis，在突然響聲時也會立即被活化。（3）從 cochlea 到皮質的纖維徑中維持高度空間定向。
+
+### 不同聽覺路徑層級的放電率
+
+進入 cochlear nuclei 的聽神經纖維可放電達至少 1000 次/秒，主要由聲音響度決定。在高達 2000 至 4000 Hz 的頻率下，聽神經衝動常與聲波同步，但不一定每個波都產生。在腦幹聽覺徑中，放電通常不再與聲音頻率同步（200 Hz 以下的聲音除外）。在 inferior colliculi 以上的層級，即使這種同步也大部分消失。這些發現表明，聲音訊號並非未經改變地直接從耳朵傳遞至更高層級的大腦；聽覺資訊在 cochlear nuclei 這樣低的層級就開始被分析。
+
+## Function of the Cerebral Cortex in Hearing
+
+聽覺訊號投射至大腦皮質的區域如 Figure 5310 所示。Auditory cortex 主要位於顳葉上回的 supratemporal plane，但也延伸至顳葉外側、島葉大部分區域，甚至頂葉 operculum 的外側部分。
+
+Figure 5310 顯示兩個分開的細分區域——primary auditory cortex 與 auditory association cortex（又稱 secondary auditory cortex）。Primary auditory cortex 直接由 medial geniculate body 的投射纖維活化；auditory association areas 由 primary auditory cortex 的脈衝次級活化，也由邻近 medial geniculate body 的丘腦 association areas 部分投射活化。
+
+<figure>
+<img src="/images/guyton/53f5310.jpg" alt="Auditory cortex">
+<figcaption>Figure 5310. Auditory cortex.</figcaption>
+</figure>
+
+### Primary Auditory Cortex的聲音頻率感知
+
+在 primary auditory cortex 與 auditory association areas 中已描述至少六個 tonotopic maps。在每個地圖中，高頻聲音活化一端的神經元，低頻聲音活化另一端。大多數地圖中，低頻聲音位於前側，高頻聲音位於後側。
+
+為什麼聽覺皮質有這麼多不同的 tonotopic maps？答案是：每個獨立區域都在解讀聲音的某個特定特徵。例如，primary auditory cortex 中的一個大地圖幾乎肯定用於區分聲音頻率並產生音高的心理感覺。另一個地圖可能用於偵測聲音來源的方向。其他聽覺皮質區域偵測特殊性質，如聲音的突然開始，或許還有噪音與純頻率聲音之間的差異。
+
+聽覺皮質中每個單獨神經元對聲音頻率的反應範圍比 cochlear 與腦幹 relay nuclei 的反應範圍窄得多。到信號到達大腦皮質時，大多數對聲音有反應的神經元只對狹窄頻率範圍而非寬廣範圍有反應。這種銳化效應被認為主要由側向抑制（lateral inhibition）造成。
+
+### 聽覺皮質對聲音「圖案」的區分
+
+雙側聽覺皮質的完全切除不會阻止貓或猴子偵測聲音或對聲音做出粗略反應。但會大大減少或有時完全取消動物區分不同音高與聲音圖案的能力。因此，聽覺皮質對音調與序列聲音圖案的區分特別重要。
+
+雙側 primary auditory cortices 切除會大大降低人類的聽覺敏感度。單側切除只略微減少對側耳朵的聽力（因為聽覺神經路徑中有多處交叉）；但會影響聲音定位的能力，因為聲音定位需要雙側皮質的比較訊息。
+
+影響 auditory association areas 但不影響 primary auditory cortex 的病灶不會降低聽力與音調區分能力，甚至對簡單聲音圖案的起碼解讀能力。但患者往往無法解讀所聽到聲音的意義。例如，後顳上回（Wernicke's area，屬 auditory association cortex）的病灶使人無法理解詞語的意義，即使能聽到並重複。
+
+## Determination of the Direction from Which Sound Comes
+
+人們通過兩個主要方法判斷聲音的水平方向：（1）聲音進入一耳與進入另一耳之間的時間差；（2）雙耳聽到的聲音強度差。
+
+第一種機制在 3000 Hz 以下的頻率效果最好；第二種機制在高頻效果最好（因為頭部在高頻時是更大的聲音屏障）。時間差機制比強度機制能更精確地判斷方向，因為它只依賴兩個聲學訊號之間的精確時間間隔，而非外部因素。
+
+### 偵測聲音方向的神經機制
+
+雙側聽覺皮質的破壞幾乎完全喪失判斷聲音方向的能力。然而，這種偵測過程的神經分析始於腦幹的 superior olivary nuclei，雖然解讀這些訊息需要從這些核到皮質的完整神經路徑。
+
+Superior olivary nucleus 分為兩部分：medial superior olivary nucleus 與 lateral superior olivary nucleus。Lateral nucleus 負責偵測聲音來源方向，機制是比較到達雙耳的聲音強度差異，向聽覺皮質發送適當訊號以估計方向。
+
+Medial superior olivary nucleus 有一個特殊機制用於偵測到達雙耳的聲音訊號之間的時間差。這個核含有大量具有兩個主要樹突的神經元，一個投射向右，另一個投射向左。來自右耳的訊號作用於右樹突，來自左耳的訊號作用於左樹突。每個神經元的興奮程度對雙耳聲學訊號之間的特定時間差高度敏感。
+
+### 中樞神經系統向低位聽覺中心的離心訊號
+
+從大腦皮質到內耳 cochlea，聽覺系統各層級都存在逆行（離心）路徑。最終路徑主要是從 superior olivary nucleus 到 organ of Corti 感覺 hair cells 的路徑。
+
+這些逆行纖維是抑制性的。刺激 superior olivary nucleus 的特定點已被證明能抑制 organ of Corti 的特定區域，將其聲音敏感度降低 15 至 20 分貝。這種機制使人能夠將注意力導向特定性質的聲音，同時排斥其他性質的聲音。
+
+## Types of Deafness
+
+耳聾通常分為兩類：（1）由 cochlea、聽神經或從耳朵至中枢神經系統線路的損傷引起，稱為「神經性耳聾」；（2）由將聲音傳導至 cochlea 的物理結構損傷引起，稱為「傳導性耳聾」。
+
+若 cochlea 或聽神經被破壞，該人將永久失聰。然而，若 cochlea 與神經仍然完整但鼓膜-聽小骨系統被破壞或強直固定，聲波仍可通過放置於耳朵顱骨上的聲音產生器以骨傳導方式傳入 cochlea。
+
+### 聽力計
+
+聽力計（audiometer）可用於確定聽覺障礙的性質。它是一種耳機連接電子振盪器的儀器，能發出涵蓋低頻到高頻的純音，並經過校準，使每個頻率的零強度聲音是正常耳朵幾乎聽不到的音量。經校準的音量控制可將響度提高至零度以上。若音量必須增加到比正常高 30 分貝才能聽到，該人在該特定頻率被認定有 30 分貝的聽力損失。
+
+### 神經性耳聾的聽力圖
+
+神經性耳聾的聽力圖（如 Figure 5311 所示）顯示空氣傳導與骨傳導測試都有聽力損失。在此圖中，高頻聲音的耳聾為主，這種類型的耳聾在幾乎所有老年人中都程度不等地存在。
+
+<figure>
+<img src="/images/guyton/53f5311.jpg" alt="Audiogram nerve deafness">
+<figcaption>Figure 5311. Audiogram of the old age type of nerve deafness.</figcaption>
+</figure>
+
+其他神經性耳聾模式包括：（1）因長期暴露於極大聲音（如搖滾樂隊或噴射機引擎）導致的低頻聲音耳聾（因為低頻聲音通常更大並對 organ of Corti 更有害）；（2）因藥物對 organ of Corti 的敏感性（尤其是某些抗生素如鏈黴素、慶大黴素、卡那黴素與氯黴素）導致的全頻率耳聾。
+
+### 中耳傳導性耳聾的聽力圖
+
+常見的耳聾類型是由反覆感染後中耳纖維化或稱為耳硬化症的遺傳疾病中的纖維化引起。在這種情況下，聲波無法輕易通過聽小骨從鼓膜傳導至 oval window。Figure 5312 顯示「中耳空氣傳導性耳聾」患者的聽力圖：骨傳導基本正常，但通過聽小骨的空氣傳導在所有頻率都大大受抑制，尤其是低頻。
+
+<figure>
+<img src="/images/guyton/53f5312.jpg" alt="Audiogram conduction deafness">
+<figcaption>Figure 5312. Audiogram of air conduction deafness resulting from middle ear sclerosis.</figcaption>
+</figure>
+
+在某些傳導性耳聾病例中，stapes 的 faceplate 被骨質過度生長與 oval window 邊緣融合（ankylosed）。在此情況下，該人對聽小骨傳導完全失聰，但可以通过手術移除 stapes 並用 Teflon 或金屬假體替換，將聲音從 incus 傳至 oval window，幾乎恢復正常聽力。
+
+## Bibliography
+
 Angeloni C, Geffen MN: Contextual modulation of sound processing in the auditory cortex. Curr Opin Neurobiol 49:8, 2018.
-Avan P, Büki B, Petit C: Auditory distortions: origins and functions.
-Physiol Rev 93:1563, 2013.
-Cunningham LL, Tucci DL: Hearing loss in adults. N Engl J Med
-377:2465, 2017.
+Avan P, Büki B, Petit C: Auditory distortions: origins and functions. Physiol Rev 93:1563, 2013.
+Cunningham LL, Tucci DL: Hearing loss in adults. N Engl J Med 377:2465, 2017.
 Fettiplace R: Hair cell transduction, tuning, and synaptic transmission in the mammalian cochlea. Compr Physiol 7:1197, 2017.
-Fettiplace R, Kim KX: The physiology of mechanoelectrical transduc - tion channels in hearing. Physiol Rev 94:951, 2014.
+Fettiplace R, Kim KX: The physiology of mechanoelectrical transduction channels in hearing. Physiol Rev 94:951, 2014.
 Gervain J, Geffen MN: Efficient neural coding in auditory and speech perception. Trends Neurosci 42:56, 2019.
 Grothe B, Pecka M, McAlpine D: Mechanisms of sound localization in mammals. Physiol Rev 90:983, 2010.
-Heeringa AN, Köppl C: The aging cochlea: towards unraveling the functional contributions of strial dysfunction and synaptopathy.
-Hear Res 376:111, 2019.
+Heeringa AN, Köppl C: The aging cochlea: towards unraveling the functional contributions of strial dysfunction and synaptopathy. Hear Res 376:111, 2019.
 Hudspeth AJ: Integrating the active process of hair cells with cochlear function. Nat Rev Neurosci 15:600, 2014.
 Irvine DRF: Plasticity in the auditory system. Hear Res 362:61, 2018.
-Jasmin K, Lima CF, Scott SK: Understanding rostralcaudal audito - ry cortex contributions to auditory perception. Nat Rev Neurosci
-20:425, 2019.
-Joris PX, Schreiner CE, Rees A: Neural processing of amplitude- modulated sounds. Physiol Rev 84:541, 2004.
-King AJ, Nelken I: Unraveling the principles of auditory cortical pro - cessing: can we learn from the visual system? Nat Neurosci 12:698,
-2009.
-Kuchibhotla K, Bathellier B: Neural encoding of sensory and behav - ioral complexity in the auditory cortex. Curr Opin Neurobiol 52:65,
-2018.
-Ó Maoiléidigh D, Ricci AJ: A bundle of mechanisms: innerear haircell mechanotransduction. Trends Neurosci 42:221, 2019.
-Moser T, Starr A: Auditory neuropathy- - neural and synaptic mecha - nisms. Nat Rev Neurol 12:135, 2016.
-Pangrsic T, Singer JH, Koschak A: Voltagegated calcium channels:
-key players in sensory coding in the retina and the inner ear. Physiol
-Rev 98:2063, 2018.
-Rauschecker JP, Shannon RV: Sending sound to the brain. Science
-295:1025, 2002.
-Robles L, Ruggero MA: Mechanics of the mammalian cochlea. Physiol
-Rev 81:1305, 2001.
-Takago H, OshimaTakago T: Preand postsynaptic ionotropic glu - tamate receptors in the auditory system of mammals. Hear Res
-362:1, 2018.
-VélezOrtega AC, Frolenkov GI: Building and repairing the stereocilia cytoskeleton in mammalian auditory hair cells. Hear Res 376:47,
-2019.
-Wang J, Puel JL: Toward cochlear therapies. Physiol Rev 98:2477,
-2018.
-Frequency (cycles/sec)
-1 250 500 1000 2000 4000 8000
-Loss (decibels)
-−10
-Normal
-X  Air conduction
-X
-* Bone conduction
-XX X X
-X
-X
-* * * * *
-*
-Figure 5311. Audiogram of the old age type of nerve deafness.
-Loss (decibels)
-Frequency (cycles/sec)
-125 250 500 1000 2000 4000 8000
-−10
-Normal
-X  Air conduction
-X
-* Bone conduction
-*
-X
-*
-X
-*
-X
-*
-X
-*
-X
-X
-*
-Figure 5312. Audiogram of air conduction deafness resulting from middle ear sclerosis.
-
-UNIT X
-The senses of taste and smell allow us to separate undesir- able or even lethal foods from those that are pleasant to eat and nutritious. They also elicit physiological responses involved in the digestion and utilization of foods. The sense of smell allows animals to recognize the proximity of other animals or even individual animals. Finally, both senses are strongly tied to primitive emotional and behav- ioral functions of our nervous systems. In this chapter, we discuss how taste and smell stimuli are detected and how they are encoded in neural signals transmitted to the brain.
-SENSE OF TASTE
-Taste is mainly a function of the taste buds in the mouth, but it is common experience that one’s sense of smell also contributes strongly to taste perception. In addition, the texture of food, as detected by tactual senses of the mouth, and the presence of substances in the food that
-<span class="c-green">stimulate</span> pain endings, such as pepper, greatly alter the taste experience. The importance of taste lies in the fact that it allows a person to select food in accord with desires and often in accord with the body tissues’ metabolic need for specific substances.
-PRIMARY TASTE SENSATIONS
-The identities of the many specific chemicals that <span class="c-green">excite</span> different taste receptors are not all known. For practi - cal analysis, the primary sensations of taste  have been grouped into five general categories— sour, salty, sweet, bitter, and “umami.”
-A person can perceive hundreds of different tastes.
-They are all thought to be combinations of the elemen - tary taste sensations, just as all the colors we can see are combinations of the three primary colors, as described in
-Chapter 51.
-Sour Taste. The sour taste is caused by acids—that is, by the hydrogen ion concentration—and the intensity of this taste sensation is approximately proportional to the logarithm of the hydrogen ion concentration  (i.e., the more acidic the food, the stronger the sour sensation be - comes).
-Salty Taste. The salty taste is elicited by ionized salts, mainly by the sodium ion concentration. The quality of the taste varies somewhat from one salt to another be - cause some salts elicit other taste sensations in addition to saltiness. The cations of the salts, especially sodium cations, are mainly responsible for the salty taste, but the anions also contribute to a lesser extent.
-Sweet Taste. The sweet taste is not caused by any single class of chemicals. Some of the types of chemicals that cause this taste include sugars, glycols, alcohols, alde - hydes, ketones, amides, esters, some amino acids, some small proteins, sulfonic acids, halogenated acids, and in - organic salts of lead and beryllium. Note specifically that most of the substances that cause a sweet taste are organic chemicals. It is especially interesting that slight changes in the chemical structure, such as the addition of a simple radical, can often change the substance from sweet to bit- ter.
-Bitter Taste. The bitter taste, like the sweet taste, is not caused by any single type of chemical agent. Here again, the substances that give the bitter taste are almost entirely organic substances. Two particular classes of substances are especially likely to cause bitter taste sensations: (1)
-longchain organic substances that contain nitrogen; and
-(2) alkaloids. The alkaloids include many of the drugs used in medicines, such as quinine, caffeine, strychnine, and nicotine.
-Some substances that initially taste sweet have a bitter aftertaste. This characteristic is true of saccharin, which makes this substance objectionable to some people. High concentrations of salts may also result in a bitter taste.
-The bitter taste, when it occurs in high intensity, usu - ally causes the person or animal to reject the food. This reaction is undoubtedly an important function of the bit- ter taste sensation because many deadly toxins found in poisonous plants are alkaloids, and virtually all these alka- loids cause an intensely bitter taste, usually followed by rejection of the food.
-Umami Taste. Umami, a Japanese word meaning “deli - cious, ” designates a pleasant taste sensation that is qualita- tively different from sour, salty, sweet, or bitter. Umami is
-The Chemical Senses—T aste and Smell
-CHAPTER 54
-
-the dominant taste of food containing l- <span class="c-cyan">glutamate</span>, such as meat extracts and aging cheese. The pleasurable sensa- tion of umami taste is thought to be important for nutri - tion by promoting ingestion of proteins.
-THRESHOLD FOR TASTE
-The molar threshold for stimulation of the sour taste by hydrochloric acid averages 0.0009 M, for stimulation of the salty taste by sodium chloride, 0.01 M, for the sweet taste by sucrose, 0.01 M, and for the bitter taste by qui - nine, 0.000008 M. Note especially that the bitter taste sense is much more sensitive than all the others, which provides an important protective function against many dangerous toxins in food.
-Table 541 lists the relative taste indices (the reciprocals of the taste thresholds) of different substances. In this table, the intensities of four of the primary sensations of taste are referred, respectively, to the intensities of the taste of hydrochloric acid, quinine, sucrose, and sodium chloride, each of which is arbitrarily chosen to have a taste index of 1.
-Taste Blindness. Some people are taste blind for certain substances, especially for different types of thiourea com- pounds. A substance used frequently by psychologists for demonstrating taste blindness is phenylthiocarbamide, for which about 15% to 30% of all people exhibit taste blindness; the exact percentage depends on the method of testing and the concentration of the substance.
-TASTE BUDS AND THEIR FUNCTION
-Figure 541B shows a taste bud, which has a diame - ter of about 1⁄30 of a millimeter and a length of about 1⁄16 of a millimeter. The taste bud is composed of epithe - lial cells; some are supporting cells called sustentacular cells and others are called taste cells. There are about 100 taste cells in each taste bud. The taste cells are continually being replaced by mitotic division of surrounding epithe- lial cells, so some taste cells are young cells. Others are mature cells that lie toward the center of the bud; these cells soon break up and dissolve. The average life span of each taste cell is estimated to be about 10 days, although there is considerable variation, with some taste cells being eliminated in only 2 days while others may survive for over 3 weeks.
-The outer tips of the taste cells are arranged around a minute taste pore, shown in Figure 541B. From the tip of each taste cell, several microvilli, or taste hairs, protrude outward into the taste pore to approach the cavity of the mouth. These microvilli provide the receptor surface for taste.
-Interwoven around the bodies of the taste cells is a branching terminal network of taste nerve fibers  that are
-<span class="c-green">stimulate</span>d by the taste receptor cells. Some of these fibers invaginate into folds of the taste cell membranes. Many vesicles form beneath the cell membrane near the fibers.
-These vesicles are believed to contain a neurotransmit - ter substance that is released through the cell membrane to <span class="c-green">excite</span> the nerve fiber endings in response to taste stimulation.
-Location of the Taste Buds . The taste buds are found on three types of papillae of the tongue, as follows (see
-Figure 541A): (1) a large number of taste buds are on the walls of the troughs that surround the circumvallate papillae , which form a V line on the surface of the pos - terior tongue; (2) moderate numbers are on the foliate papillae  located in the folds along the lateral surfaces of the tongue; and (3) moderate numbers of taste buds are on the fungiform papillae  over the flat anterior sur - face of the tongue. Additional taste buds are located on the palate, and a few are found on the tonsillar pillars,
-Table 541   Relative Taste Indices of Different Substances
-Sour Substances Index Bitter Substances Index Sweet Substances Index
-Salty
-Substances Index
-Hydrochloric acid 1 Quinine 1 Sucrose 1 NaCl 1
-Formic acid 1.1 Brucine 11 1Propoxy2- amino-
-4nitrobenzene
-5000 NaF 2
-Chloroacetic acid 0.9 Strychnine 3.1 Saccharin 675 CaCl2 1
-Acetoacetic acid 0.85 Nicotine 1.3 Chloroform 40 NaBr 0.4
-Lactic acid 0.85 Phenylthiourea 0.9 Fructose 1.7 NaI 0.35
-Tartaric acid 0.7 Caffeine 0.4 Alanine 1.3 LiCl 0.4
-Malic acid 0.6 Veratrine 0.2 Glucose 0.8 NH4Cl 2.5
-Potassium H tartrate 0.58 Pilocarpine 0.16 Maltose 0.45 KCl 0.6
-Acetic acid 0.55 Atropine 0.13 Galactose 0.32
-Citric acid 0.46 Cocaine 0.02 Lactose 0.3
-Carbonic acid 0.06 Morphine 0.02
-CaCl2, Calcium chloride; KCl, potassium chloride; LiCl, lithium chloride; NaBr, sodium bromide; NaCl, sodium chloride; NaF, sodium fluoride;
-NaI, sodium iodide; NH4Cl, ammonium chloride.
-Data from Pfaffman C: Handbook of Physiology, vol 1. Baltimore: Williams & Wilkins, 1959, p 507.
+Jasmin K, Lima CF, Scott SK: Understanding rostralcaudal auditory cortex contributions to auditory perception. Nat Rev Neurosci 20:425, 2019.
+Joris PX, Schreiner CE, Rees A: Neural processing of amplitude-modulated sounds. Physiol Rev 84:541, 2004.
+King AJ, Nelken I: Unraveling the principles of auditory cortical processing: can we learn from the visual system? Nat Neurosci 12:698, 2009.
+Kuchibhotla K, Bathellier B: Neural encoding of sensory and behavioral complexity in the auditory cortex. Curr Opin Neurobiol 52:65, 2018.
+Ó Maoiléidigh D, Ricci AJ: A bundle of mechanisms: inner-ear haircell mechanotransduction. Trends Neurosci 42:221, 2019.
+Moser T, Starr A: Auditory neuropathy—neural and synaptic mechanisms. Nat Rev Neurol 12:135, 2016.
+Pangrsic T, Singer JH, Koschak A: Voltage-gated calcium channels: key players in sensory coding in the retina and the inner ear. Physiol Rev 98:2063, 2018.
+Rauschecker JP, Shannon RV: Sending sound to the brain. Science 295:1025, 2002.
+Robles L, Ruggero MA: Mechanics of the mammalian cochlea. Physiol Rev 81:1305, 2001.
+Takago H, OshimaTakago T: Pre- and postsynaptic ionotropic glutamate receptors in the auditory system of mammals. Hear Res 362:1, 2018.
+VélezOrtega AC, Frolenkov GI: Building and repairing the stereocilia cytoskeleton in mammalian auditory hair cells. Hear Res 376:47, 2019.
+Wang J, Puel JL: Toward cochlear therapies. Physiol Rev 98:2477, 2018.

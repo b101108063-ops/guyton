@@ -3,130 +3,136 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH38"
 title: "Pulmonary Ventilation"
 book: "Guyton & Hall"
-summary: "Chapter CH38 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
+summary: "本章探討肺臟通氣的力學機制，包括肺順應性（compliance）的概念、肺泡表面張力與 surfactant 的角色，以及呼吸肌在克服彈性阻力和呼吸道阻力時所做的功。內容說明吸氣時胸腔擴張帶動肺臟擴張的壓力-容積關係，並詳細介紹肺容積與肺容量的各項數值及其測量方法（spirometry 與 helium dilution method）。"
 key_points:
   - "Content extracted directly from official Guyton & Hall PDF source"
 ---
 
-# UNIT VII: RESPIRATION
+# Chapter 38 肺臟通氣
 
-## COMPLIANCE OF THE LUNGS
+## 章節導讀
 
-The extent to which the lungs will expand for each unit increase in transpulmonary pressure (if enough time is allowed to reach equilibrium) is called the lung compliance. The total compliance of both lungs together in the normal adult averages about 200 ml of air/cm H₂O transpulmonary pressure. That is, every time the transpulmonary pressure increases by 1 cm H₂O, the lung volume, after 10 to 20 seconds, will expand 200 ml.
+肺臟通氣（pulmonary ventilation）是呼吸系統最基本的過程，涉及將空氣從外界吸入肺泡（inspiration）以及將廢氣排出（expiration）的機械力學。肺臟本身的彈性特性與胸廓的結構特性共同決定了通氣的效率。肺順應性（lung compliance）指的是跨肺壓（transpulmonary pressure）每增加 1 cm H₂O 時肺容積的增加量，正常成人雙肺總順應性約為 200 ml/cm H₂O。肺泡內表面的液體-空氣介面所產生的表面張力（surface tension）約佔肺臟總彈性回縮力的三分之二，而 surfactant（肺表面活性劑）則由 type II 肺泡上皮細胞分泌，能顯著降低表面張力，減少呼吸肌膨脹肺臟所需的力。Surfactant 不足是新生兒呼吸窘迫症候群的主要原因，尤其常見於早產兒。本章也介紹肺容積與肺容量的各項定義與正常值，以及功能性餘容量（functional residual capacity, FRC）的稀釋測量法。
 
-### Compliance Diagram of the Lungs
+---
+
+## 肺臟的順應性
+
+每當跨肺壓增加一單位時（假設有足夠時間達到平衡），肺臟所能擴張的程度，稱為肺順應性（lung compliance）。正常成人雙肺總順應性平均約為 200 ml/cm H₂O 的跨肺壓。也就是說，每當跨肺壓增加 1 cm H₂O，肺容積（在 10 至 20 秒後）會擴張 200 ml。
+
+### 肺臟順應性圖
 
 **Figure 38-3.** Compliance diagram in a healthy person. This diagram shows changes in lung volume during changes in transpulmonary pressure (alveolar pressure minus pleural pressure).
 
-Note in Figure 38-3 that the relationship is different for inspiration and expiration. Each curve is recorded by changing the pleural pressure in small steps and allowing the lung volume to come to a steady level between successive steps. The two curves are called, respectively, the inspiratory compliance curve and the expiratory compliance curve, and the entire diagram is called the compliance diagram of the lungs.
+注意 Figure 38-3 中，吸氣與呼氣的關係並不相同。每條曲線都是在改變胸膜壓的小幅變化後，在每一步之間等待肺容積達到穩定水平後記錄的。兩條曲線分別稱為吸氣順應性曲線和呼氣順應性曲線，整個圖稱為肺臟順應性圖。
 
-The characteristics of the compliance diagram are determined by the elastic forces of the lungs. These forces can be divided into two parts:
+順應性圖的特性由肺臟的彈力決定。這些彈力可分為兩部分：
 
-1. Elastic forces of the lung tissue
-2. Elastic forces caused by surface tension of the fluid that lines the inside walls of the alveoli and other lung air spaces
+1. 肺組織的彈力
+2. 排列在肺泡內壁和其他肺氣腔的液體表面張力所產生的彈力
 
-The elastic forces of the lung tissue are determined mainly by elastin and collagen fibers interwoven among the lung parenchyma. In deflated lungs, these fibers are in an elastically contracted and kinked state; then, when the lungs expand, the fibers become stretched and unkinked, thereby elongating and exerting even more elastic force.
+肺組織的彈力主要由穿插在肺實質中的彈性蛋白纖維和膠原蛋白纖維決定。在肺臟塌陷時，這些纖維處於彈性收縮和扭曲的狀態；當肺臟擴張時，纖維被拉長並展直，進而產生更大的彈力。
 
-The elastic forces caused by surface tension are much more complex. The significance of surface tension is shown in **Figure 38-4**, which compares the compliance diagram of the lungs when filled with saline solution and when filled with air.
+表面張力所產生的彈力則更為複雜。Figure 38-4 比較了充滿生理鹽水和充滿空氣時的肺臟順應性圖，說明了表面張力的重要性。
 
 **Figure 38-4.** Comparison of the compliance diagrams of saline-filled and air-filled lungs when the alveolar pressure is maintained at atmospheric pressure (0 cm H₂O) and pleural pressure is changed to change the transpulmonary pressure.
 
-When the lungs are filled with air, there is an interface between the alveolar fluid and the air in the alveoli. In lungs filled with saline solution, there is no air-fluid interface and, therefore, the surface tension effect is not present; only tissue elastic forces are operative in the lung filled with saline solution.
+當肺臟充滿空氣時，肺泡液體與肺泡內空氣之間存在一個介面。當肺臟充滿生理鹽水時，沒有空氣-液體介面，因此不存在表面張力效應；僅有組織彈力在充滿鹽水的肺臟中起作用。
 
-Note that transpleural pressures required to expand air-filled lungs are about three times as great as those required to expand lungs filled with saline solution. Thus, one can conclude that:
+注意，擴張充滿空氣的肺臟所需的跨肺壓約為擴張充滿鹽水的肺臟所需的三倍。由此可以得出結論：
 
-- The tissue elastic forces tending to cause collapse of the air-filled lung represent only about one-third of the total lung elasticity
-- The fluid-air surface tension forces in the alveoli represent about two-thirds
+- 空氣充滿的肺臟傾向塌陷的組織彈力僅約佔肺臟總彈性的三分之一
+- 肺泡中液體-空氣表面張力佔約三分之二
 
-The fluid-air surface tension elastic forces of the lungs also increase tremendously when the substance called surfactant is not present in the alveolar fluid.
-
----
-
-## SURFACTANT, SURFACE TENSION, AND COLLAPSE OF THE ALVEOLI
-
-### Principle of Surface Tension
-
-When water forms a surface with air, the water molecules on the surface of the water have an especially strong attraction for one another. As a result, the water surface is always attempting to contract. This is what holds raindrops together—a tight contractile membrane of water molecules around the entire surface of the raindrop.
-
-Now, let us reverse these principles and see what happens on the inner surfaces of the alveoli. Here, the water surface is also attempting to contract. This tends to force air out of the alveoli through the bronchi and, in doing so, causes the alveoli to try to collapse. The net effect is to cause an elastic contractile force of the entire lungs, which is called the surface tension elastic force.
-
-### Surfactant and Its Effect on Surface Tension
-
-Surfactant is a surface-active agent in water, which means it greatly reduces the surface tension of water. It is secreted by special surfactant-secreting epithelial cells called type II alveolar epithelial cells, which constitute about 10% of the surface area of the alveoli. These cells are granular, containing lipid inclusions that are secreted in the surfactant into the alveoli.
-
-Surfactant is a complex mixture of several phospholipids, proteins, and ions. The most important components are:
-
-- The phospholipid dipalmitoyl phosphatidylcholine
-- Surfactant apoproteins
-- Calcium ions
-
-The dipalmitoyl phosphatidylcholine and several less important phospholipids are responsible for reducing the surface tension. They perform this function by not dissolving uniformly in the fluid lining the alveolar surface. Instead, part of the molecule dissolves while the remainder spreads over the surface of the water in the alveoli. This surface has from one-twelfth to one-half the surface tension of a pure water surface.
-
-Quantitatively, the surface tension of different water fluids is approximately the following:
-
-- Pure water: 72 dynes/cm
-- Normal fluids lining the alveoli but without surfactant: 50 dynes/cm
-- Normal fluids lining the alveoli and with normal amounts of surfactant included: 5–30 dynes/cm
-
-### Pressure in Occluded Alveoli Caused by Surface Tension
-
-If the air passages leading from the alveoli of the lungs are blocked, the surface tension in the alveoli tends to collapse the alveoli. This collapse creates positive pressure in the alveoli, attempting to push the air out. The amount of pressure generated in this way in an alveolus can be calculated from the following formula:
-
-**Pressure = (2 × Surface tension) / Radius of alveolus**
-
-For the average-sized alveolus with a radius of about 100 micrometers and lined with normal surfactant, this calculates to be about 4 cm H₂O pressure (3 mm Hg). If the alveoli were lined with pure water without any surfactant, the pressure would be calculated as about 18 cm H₂O pressure—4.5 times as great.
-
-Thus, one sees the importance of surfactant in reducing alveolar surface tension and therefore also reducing the effort required by the respiratory muscles to expand the lungs.
-
-### Pressure Caused by Surface Tension Is Inversely Related to Alveolar Radius
-
-Note from the preceding formula that the smaller the alveolus, the greater the alveolar pressure caused by the surface tension. Thus, when the alveoli have half the normal radius (50 instead of 100 micrometers), the pressures noted earlier are doubled.
-
-This phenomenon is especially significant in small premature infants, many of whom have alveoli with radii less than 25% that of an adult person. Furthermore, surfactant does not normally begin to be secreted into the alveoli until between the sixth and seventh months of gestation and, in some cases, even later.
-
-Therefore, many premature infants have little or no surfactant in the alveoli when they are born, and their lungs have an extreme tendency to collapse—sometimes as much as six to eight times that in a normal adult person. This situation causes respiratory distress syndrome of the newborn. It is fatal if not treated with strong measures, especially properly applied continuous positive pressure breathing.
+肺臟的液體-空氣表面張力彈力在肺泡液中不存在 surfactant 時會大幅增加。
 
 ---
 
-## EFFECT OF THE THORACIC CAGE ON LUNG EXPANSIBILITY
+## Surfactant、表面張力與肺泡塌陷
 
-Thus far, we have discussed the expansibility of the lungs alone, without considering the thoracic cage. The thoracic cage has its own elastic and viscous characteristics and, even if the lungs were not present in the thorax, muscular effort would still be required to expand the thoracic cage.
+### 表面張力原理
 
-### Compliance of Thorax and Lungs Together
+當水與空氣形成表面時，表面上的水分子之間具有特別強烈的相互吸引力。因此，水表面總是試圖收縮。這正是雨滴凝聚在一起的原因——围绕整個雨滴表面的緊密收縮性水分子膜。
 
-The compliance of the entire pulmonary system (the lungs and thoracic cage together) is measured while expanding the lungs of a totally relaxed or paralyzed subject. To measure compliance, air is forced into the lungs a little at a time while recording lung pressures and volumes.
+現在讓我們反轉這些原理，看看肺泡內表面會發生什麼。在這裡，水表面也在嘗試收縮。這傾向於將空氣從肺泡經支氣管推出，並在此過程中使肺泡試圖塌陷。總效應是使整個肺臟產生彈性收縮力，稱為表面張力彈力。
 
-To inflate this total pulmonary system, almost twice as much pressure is required compared with the same lungs after removal from the chest cage. Therefore, the compliance of the combined lung-thorax system is almost exactly half that of the lungs alone—110 ml/cm H₂O pressure for the combined system, compared with 200 ml/cm H₂O for the lungs alone.
+### Surfactant 及其對表面張力的影響
 
-Furthermore, when the lungs are expanded to high volumes or compressed to low volumes, the limitations of the chest become extreme. When near these limits, the compliance of the combined lung-thorax system can be less than 20% of that of the lungs alone.
+Surfactant 是水中的表面活性劑，能大幅降低水的表面張力。它由稱為 type II 肺泡上皮細胞的特殊 surfactant 分泌細胞分泌，這些細胞約佔肺泡表面積的 10%。這些細胞是顆粒狀的，含有脂質內含物，將 surfactant 分泌到肺泡中。
 
-### Work of Breathing
+Surfactant 是幾種磷脂、蛋白質和離子的複雜混合物。最重要的成分是：
 
-We have already pointed out that during normal quiet breathing, all respiratory muscle contraction occurs during inspiration; expiration is almost entirely a passive process caused by elastic recoil of the lungs and chest cage. Thus, under resting conditions, the respiratory muscles normally perform "work" to cause inspiration but not to cause expiration.
+- 磷脂：二棕櫚醯磷脂醯膽鹼（dipalmitoyl phosphatidylcholine）
+- Surfactant 載體蛋白（surfactant apoproteins）
+- 鈣離子
 
-The work of inspiration can be divided into three fractions:
+二棕櫚醯磷脂醯膽鹼和幾種次要磷脂負責降低表面張力。它們透過不均匀溶解在肺泡表面襯液的原理發揮作用。分子的部分溶解，而其餘部分則擴展到肺泡中水的表面。這個表面的表面張力約為純水表面的 1/12 至 1/2。
 
-1. **Compliance work or elastic work** — that required to expand the lungs against the lung and chest elastic forces
-2. **Tissue resistance work** — that required to overcome the viscosity of the lung and chest wall structures
-3. **Airway resistance work** — that required to overcome airway resistance to movement of air into the lungs
+定量而言，不同水溶液的表面張力大致如下：
 
-### Energy Required for Respiration
+- 純水：72 dynes/cm
+- 不含 surfactant 的正常肺泡襯液：50 dynes/cm
+- 含正常量 surfactant 的正常肺泡襯液：5–30 dynes/cm
 
-During normal quiet respiration, only 3% to 5% of the total energy expended by the body is required for pulmonary ventilation. However, during heavy exercise, the amount of energy required can increase as much as 50-fold, especially if the person has any degree of increased airway resistance or decreased pulmonary compliance.
+### 由表面張力引起的肺泡內壓力
 
-Therefore, one of the major limitations on the intensity of exercise that can be performed is the person's ability to provide enough muscle energy for the respiratory process alone.
+如果肺臟肺泡的氣流通道被阻塞，肺泡內的表面張力會傾向使肺泡塌陷。這種塌陷在肺泡內產生正向壓力，試圖將空氣推出。這種方式在肺泡中產生的壓力可用以下公式計算：
+
+**壓力 = （2 × 表面張力）/ 肺泡半徑**
+
+對於具有約 100 微米半徑的平均大小肺泡並襯有正常 surfactant 的情況，計算結果約為 4 cm H₂O 壓力（3 mm Hg）。如果肺泡襯有純水而無任何 surfactant，計算出的壓力約為 18 cm H₂O——是前者的 4.5 倍。
+
+由此可見 surfactant 在降低肺泡表面張力進而減少呼吸肌擴張肺臟所需力量方面的重要性。
+
+### 表面張力引起的壓力與肺泡半徑成反比
+
+從前述公式可見，肺泡越小，表面張力引起的肺泡內壓力越大。因此，當肺泡半徑為正常的一半（50 微米而非 100 微米）時，前述壓力加倍。
+
+這個現象在小的早產兒中特別重要，他們中的許多人的肺泡半徑不到成人的 25%。此外，surfactant 通常在妊娠第六至第七個月之間才開始分泌到肺泡中，有時甚至更晚。
+
+因此，許多早產兒出生時肺泡中只有少量或沒有 surfactant，他們的肺臟有極強的塌陷傾向——有時可達正常成人肺臟的六至八倍。這種情況導致新生兒呼吸窘迫症候群（respiratory distress syndrome of the newborn）。如果不接受積極治療（尤其是適當的持續正壓呼吸），是致命的。
 
 ---
 
-## PULMONARY VOLUMES AND CAPACITIES
+## 胸廓對肺臟擴張性的影響
 
-### Recording Changes in Pulmonary Volume—Spirometry
+到目前為止，我們討論的是僅考慮肺臟本身的擴張性，未涉及胸廓。胸廓有其自身的彈性和黏性特性，即使肺臟不存在於胸腔中，仍需要肌肉用力才能擴張胸廓。
 
-Pulmonary ventilation can be studied by recording the volume movement of air into and out of the lungs, a method called spirometry. **Figure 38-5** shows a typical basic spirometer. It consists of a drum inverted over a chamber of water, with the drum counterbalanced by a weight. In the drum is a breathing gas, usually air or oxygen; a tube connects the mouth with the gas chamber. When the person breathes into and out of the chamber, the drum rises and falls, and an appropriate recording is made.
+### 胸廓與肺臟的總順應性
+
+整個肺系統（肺臟和胸廓在一起）的順應性是在受試者完全放鬆或癱瘓的狀態下測量的。測量順應性時，少量強迫將空氣輸入肺臟，同時記錄肺臟壓力和容積。
+
+將這個整個肺系統充氣所需的壓力幾乎是將同樣肺臟從胸廓取出後所需壓力的兩倍。因此，肺-胸廓組合系統的順應性幾乎正好是單獨肺臟的一半——組合系統為 110 ml/cm H₂O，單獨肺臟為 200 ml/cm H₂O。
+
+此外，當肺臟被擴張到高容積或壓縮到低容積時，胸廓的限制變得極端的。當接近這些極限時，組合肺-胸廓系統的順應性可能低於單獨肺臟的 20%。
+
+### 呼吸功
+
+我們已經指出，在正常平靜呼吸時，所有呼吸肌的收縮都發生在吸氣期間；呼氣幾乎完全是因肺臟和胸廓的彈性回彈而產生的被動過程。因此，在靜息條件下，呼吸肌通常執行"功"來完成吸氣而非呼氣。
+
+吸氣功可分為三個部分：
+
+1. **順應功或彈性功**——擴張肺臟以克服肺臟和胸廓彈力所需的功
+2. **組織阻力功**——克服肺臟和胸壁結構黏性所需的功
+3. **呼吸道阻力功**——克服氣流通過呼吸道的阻力將空氣吸入肺臟所需的功
+
+### 呼吸所需的能量
+
+在正常平靜呼吸時，身體所需總能量中只有 3% 至 5% 用於肺通氣。然而，在劇烈運動時，所需能量可增加多達 50 倍，特別是當個體有任何程度的呼吸道阻力增加或肺順應性降低時。
+
+因此，限制運動強度的主要因素之一是個體僅為呼吸過程提供足夠肌肉能量的能力。
+
+---
+
+## 肺容積與肺容量
+
+### 記錄肺容積的變化——肺活量測定法（Spirometry）
+
+肺通氣的研究方法是記錄空氣進出肺臟的容積變化，稱為肺活量測定法（spirometry）。Figure 38-5 展示了一個典型的基础肺活量計。它由一個倒置在水槽上的圓筒組成，圓筒由配重平衡。圓筒內裝有呼吸氣體，通常是空氣或氧氣；一根管子將口腔與氣室連接。當受試者向氣室呼氣和吸氣時，圓筒會上下移動，並進行適當的記錄。
 
 **Figure 38-5.** Spirometer.
 
-**Figure 38-6** shows a spirogram indicating changes in lung volume under different conditions of breathing. For ease in describing the events of pulmonary ventilation, the air in the lungs has been subdivided in this diagram into four volumes and four capacities, which are the averages for a young adult man.
+**Figure 38-6** 展示了一個肺活量圖，顯示在不同呼吸條件下肺容積的變化。為便於描述肺通氣事件，圖中將肺臟中的空氣分為四個容積和四個容量，這是年輕成年男性的平均值。
 
 **Figure 38-6.** Respiratory excursions during normal breathing and during maximal inspiration and maximal expiration.
 
@@ -145,33 +151,33 @@ Pulmonary ventilation can be studied by recording the volume movement of air int
 | Vital capacity                   | 4600     | 3100       |
 | Total lung capacity              | 5800     | 4200       |
 
-### Pulmonary Volumes
+### 肺容積
 
-Figure 38-6 lists four pulmonary lung volumes that, when added together, equal the maximum volume to which the lungs can be expanded. The lung volumes shown are for average adult males, but lung volumes vary considerably depending on physical fitness, age, height, sex, and other factors, such as the altitude at which a person resides.
+Figure 38-6 列出了四種肺容積，它們加起來等於肺臟所能擴張的最大容積。所示肺容積是平均成年男性的数值，但肺容積因體能、年齡、身高、性別和其他因素（如居住地海拔高度）而有相當大的差異。
 
-The significance of each of these lung volumes is the following:
+各肺容積的意義如下：
 
-1. **Tidal volume** — the volume of air inspired or expired with each normal breath; it amounts to about 500 ml in the average healthy man
-2. **Inspiratory reserve volume** — the extra volume of air that can be inspired over and above the normal tidal volume when the person inspires with full force; it is usually equal to about 3000 ml
-3. **Expiratory reserve volume** — the maximum extra volume of air that can be expired by forceful expiration after the end of a normal tidal expiration; this volume normally amounts to about 1100 ml in men
-4. **Residual volume** — the volume of air remaining in the lungs after the most forceful expiration; this volume averages about 1200 ml
+1. **潮氣容積（tidal volume）**——每次正常呼吸時吸入或呼出的空氣量；健康男性平均約 500 ml
+2. **吸氣儲備容積（inspiratory reserve volume）**——當用力吸氣時，超出正常潮氣容積所能額外吸入的空氣量；通常約 3000 ml
+3. **呼氣儲備容積（expiratory reserve volume）**——在正常潮氣呼氣末，用力呼氣所能額外呼出的最大空氣量；男性通常約 1100 ml
+4. **餘容積（residual volume）**——最用力呼氣後仍留在肺臟中的空氣量；平均約 1200 ml
 
-### Pulmonary Capacities
+### 肺容量
 
-In describing events in the pulmonary cycle, it is sometimes useful to consider two or more of the volumes together. Such combinations are called pulmonary capacities. To the right in Figure 38-6 are listed the important pulmonary capacities, which can be described as follows:
+在描述肺循環事件時，有時將兩個或多個容積一起考慮會更有用。這樣的組合稱為肺容量（pulmonary capacities）。Figure 38-6 右側列出了一些重要的肺容量，描述如下：
 
-1. **Inspiratory capacity** — equals the tidal volume plus the inspiratory reserve volume; this capacity is the amount of air (approximately 3500 ml) that a person can breathe in, beginning at the normal expiratory level and distending the lungs to the maximum amount
-2. **Functional residual capacity** — equals the expiratory reserve volume plus the residual volume; this capacity is the amount of air that remains in the lungs at the end of normal expiration (approximately 2300 ml)
-3. **Vital capacity** — equals the inspiratory reserve volume plus the tidal volume plus the expiratory reserve volume; this capacity is the maximum amount of air a person can expel from the lungs after first filling the lungs to their maximum extent and then expiring to the maximum extent (approximately 4600 ml)
-4. **Total lung capacity** — the maximum volume to which the lungs can be expanded with the greatest possible effort (approximately 5800 ml); it is equal to the vital capacity plus the residual volume
+1. **吸氣容量（inspiratory capacity）**——等於潮氣容積加吸氣儲備容積；這是一個人從正常呼氣水平開始能夠吸入的最大空氣量（約 3500 ml）
+2. **功能性餘容量（functional residual capacity, FRC）**——等於呼氣儲備容積加餘容積；這是正常呼氣末留在肺臟中的空氣量（約 2300 ml）
+3. **肺活量（vital capacity, VC）**——等於吸氣儲備容積加潮氣容積加呼氣儲備容積；這是一個人在先將肺臟充氣至最大程度，然後盡量呼氣所能從肺臟排出的最大空氣量（約 4600 ml）
+4. **總肺容量（total lung capacity, TLC）**——在最大用力時肺臟所能擴張到的最大容積（約 5800 ml）；等於肺活量加餘容積
 
-Most pulmonary volumes and capacities are usually about 20% to 30% less in women than in men, and they are greater in large and athletic people than in small and asthenic people.
+大多數肺容積和容量在女性中通常比男性少約 20% 至 30%，而且在高大和運動能力强的人中比矮小和體弱者大。
 
 ---
 
-## ABBREVIATIONS AND SYMBOLS USED IN PULMONARY FUNCTION STUDIES
+## 肺功能研究使用的縮寫與符號
 
-Spirometry is only one of many measurement procedures that pulmonary physicians use daily. Many of these procedures depend heavily on mathematical computations. To simplify these calculations, as well as the presentation of pulmonary function data, several abbreviations and symbols have become standardized. The more important of these are given in **Table 38-2**.
+肺活量測定只是肺臟內科醫師日常使用的眾多測量方法之一。許多這些方法高度依賴數學計算。為簡化這些計算以及肺功能數據的呈現，一些縮寫和符號已標準化。較重要的如 **Table 38-2** 所示。
 
 **Table 38-2.** Abbreviations and Symbols for Pulmonary Function
 
@@ -223,7 +229,7 @@ Spirometry is only one of many measurement procedures that pulmonary physicians 
 | Sv_O₂ | Percentage saturation of hemoglobin with oxygen |
 | Sa_O₂ | Percentage saturation of hemoglobin with oxygen in arterial blood |
 
-Using these symbols, we present here a few simple algebraic equations showing some of the interrelationships among the pulmonary volumes and capacities; the student should think through and verify these interrelationships:
+使用這些符號，這裡提出幾個簡單的代數方程式，展示肺容積和容量之間的一些相互關係；學生應自行思考並驗證這些關係：
 
 - VC = IRV + V_T + ERV
 - VC = IC + ERV
@@ -233,32 +239,32 @@ Using these symbols, we present here a few simple algebraic equations showing so
 
 ---
 
-## DETERMINATION OF FUNCTIONAL RESIDUAL CAPACITY, RESIDUAL VOLUME, AND TOTAL LUNG CAPACITY—HELIUM DILUTION METHOD
+## 功能性餘容量、餘容積與總肺容量的測定——氦稀釋法
 
-The functional residual capacity (FRC), which is the volume of air that remains in the lungs at the end of each normal expiration, is important to lung function. Because its value changes markedly in some types of pulmonary disease, it is often desirable to measure this capacity.
+功能性餘容量（FRC）是每次正常呼氣末留在肺臟中的空氣量，對肺功能相當重要。由於其在某些類型的肺疾病中會發生明顯變化，因此通常需要測量這個容量。
 
-The spirometer cannot be used to measure the FRC directly because the air in the residual volume of the lungs cannot be expired into the spirometer, and this volume constitutes about half of the FRC. To measure FRC, the spirometer must be used in an indirect manner, usually by means of a helium dilution method, as follows.
+肺活量計不能直接測量 FRC，因為肺臟餘容積中的空氣無法呼入肺活量計，而這個容積約佔 FRC 的一半。要測量 FRC，必須間接地使用肺活量計，通常採用氦稀釋法，如下所述。
 
-A spirometer of known volume is filled with air mixed with helium at a known concentration. Before breathing from the spirometer, the person expires normally. At the end of this expiration, the remaining volume in the lungs is equal to the FRC. At this point, the subject immediately begins to breathe from the spirometer, and the gases of the spirometer mix with the gases of the lungs. As a result, the helium becomes diluted by the FRC gases, and the volume of the FRC can be calculated from the degree of dilution of the helium, using the following formula:
+將已知容積的肺活量計填充含有已知濃度氦氣的空氣。在從肺活量計呼吸之前，受試者先正常呼氣。在這個呼氣末，肺臟中剩餘的容積等於 FRC。此時，受試者立即開始從肺活量計呼吸，肺活量計中的氣體與肺臟中的氣體混合。因此，氦被 FRC 中的氣體稀釋，FRC 的容積可根據氦的稀釋程度用以下公式計算：
 
 **FRC = (C_iHe / C_fHe − 1) × V_iSpir**
 
 Where:
 
 - FRC = functional residual capacity
-- C_iHe = initial concentration of helium in the spirometer
-- C_fHe = final concentration of helium in the spirometer
-- V_iSpir = initial volume of the spirometer
+- C_iHe = 肺活量計中氦的初始濃度
+- C_fHe = 肺活量計中氦的最終濃度
+- V_iSpir = 肺活量計的初始容積
 
-Once the FRC has been determined, the residual volume (RV) can be determined by subtracting expiratory reserve volume (ERV), as measured by normal spirometry, from the FRC. Also, the total lung capacity (TLC) can be determined by adding the inspiratory capacity (IC) to the FRC:
+一旦確定了 FRC，就可以透過從 FRC 減去正常肺活量測定法測量的呼氣儲備容積（ERV）來確定餘容積（RV）。此外，將吸氣容量（IC）加到 FRC 上可確定總肺容量（TLC）：
 
 - RV = FRC − ERV
 - TLC = FRC + IC
 
 ---
 
-## MINUTE RESPIRATORY VOLUME EQUALS RESPIRATORY RATE TIMES TIDAL VOLUME
+## 每分鐘呼吸容積等於呼吸頻率乘以潮氣容積
 
-The minute respiratory volume is the total amount of new air moved into the respiratory passages each minute and is equal to the tidal volume times the respiratory rate per minute. The normal tidal volume is about 500 ml, and the normal respiratory rate is about 12 breaths/min. Therefore, the minute respiratory volume averages about 6 L/min.
+每分鐘呼吸容積是每分鐘進入呼吸道的氣總量，等於潮氣容積乘以每分鐘呼吸頻率。正常潮氣容積約 500 ml，正常呼吸頻率約每分鐘 12 次呼吸。因此，每分鐘呼吸容積平均約 6 L/min。
 
-A person can live for a short period with a minute respiratory volume as low as 1.5 L/min and a respiratory rate of only 2 to 4 breaths/min. The respiratory rate occasionally rises to 40 to 50 breaths/min, and the tidal volume can become as great as the vital capacity, about 4600 ml in a young adult male.
+一個人在每分鐘呼吸容積低至 1.5 L 且呼吸頻率僅 2 至 4 次的情況下可以存活一小段時間。呼吸頻率偶爾會上升到每分鐘 40 至 50 次，潮氣容積可以變得與肺活量一樣大，在年輕成年男性中約 4600 ml。

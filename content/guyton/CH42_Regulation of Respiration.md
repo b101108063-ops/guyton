@@ -3,121 +3,129 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH42"
 title: "Regulation of Respiration"
 book: "Guyton & Hall"
-summary: "Chapter CH42 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章闡述呼吸的化學與神經調控機制。呼吸中樞位於延腦與橋腦，分為背側呼吸組與腹側呼吸組，另有 pneumotaxic center 調控呼吸節律。CO₂ 與 H⁺ 是呼吸的主要化學刺激物：血液 CO₂ 透過血腦屏障擴散至延腦，形成 H₂CO₃ 並解離為 H⁺，直接刺激 chemosensitive area。O₂ 不直接作用於呼吸中樞，而是透過頸動脈體與主動脈體的 peripheral chemoreceptors 感知低氧。運動時，呼吸的增加主要由大腦同時發出的 collaterals 神經訊號所驅動，而非血液化學成分的變化。
 ---
 
-# CHEMICAL CONTROL OF RESPIRATION
+# CHAPTER 42
+呼吸的調控
 
-The ultimate goal of respiration is to maintain proper concentrations of O₂, CO₂, and H⁺ in the tissues. It is fortunate, therefore, that respiratory activity is highly responsive to changes in each of these substances. Excess CO₂ or excess H⁺ in the blood mainly act directly on the respiratory center, causing greatly increased strength of both the inspiratory and the expiratory motor signals to the respiratory muscles. Oxygen, in contrast, does not have a major direct effect on the respiratory center of the brain in controlling respiration. Instead, it acts almost entirely on peripheral chemoreceptors located in the carotid and aortic bodies, and these chemoreceptors in turn transmit appropriate nervous signals to the respiratory center for control of respiration.
+## 章節導讀
 
-## DIRECT CONTROL OF RESPIRATORY CENTER ACTIVITY BY CO₂ AND H⁺
+呼吸系統必須根據身體需求快速調整 ventilation——運動時 O₂ 消耗與 CO₂ 產量可增達 20 倍，呼吸必須即時跟上。本章揭示呼吸調控的兩套系統：**化學調控**與**神經調控**。
 
-### Chemosensitive Area of the Respiratory Center Beneath the Medulla's Ventral Surface
+化學調控的核心在於 CO₂ 而非 O₂：這是因為 hemoglobin-O₂ 緩衝系統能在大範圍的肺泡 PO₂ 變動下（60–1000 mm Hg）維持幾乎恆定的組織 O₂ 供應，故 O₂ 本身不是呼吸的主要驅動因素。然而 CO₂ 不同——肺通氣量與血液 PCO₂ 之間呈反向關係，CO₂ 因此成為呼吸中樞的主要化學刺激。H⁺（由 CO₂ 形成）則直接刺激延腦的化學感受器。
 
-We have mainly discussed three areas of the respiratory center—the dorsal respiratory group of neurons, the ventral respiratory group, and the pneumotaxic center. It is believed that none of these is affected directly by changes in blood CO₂ or H⁺ concentration. Instead, an additional neuronal area, a chemosensitive area, is located bilaterally, lying only 0.2 millimeter beneath the ventral surface of the medulla. This area is highly sensitive to changes in either blood PCO₂ or H⁺ concentration, and it in turn excites the other portions of the respiratory center.
+另一套則是週邊化學感受器系統，分布於頸動脈體與主動脈體，專門偵測 arterial PO₂ 的下降（主要在 60 mm Hg 以下時作用），並在缺氧時增强呼吸驅動。運動時，呼吸的增加在血液化學變化出現之前就已啟動——這來自大腦皮層運動區同時向呼吸中樞發出的 collateral signals，屬於一種「預期性」調控。
 
-**Figure 42-2.** Stimulation of the brain stem inspiratory area by signals from the chemosensitive area located bilaterally in the medulla, lying only a fraction of a millimeter beneath the ventral medullary surface. Note also that H⁺ stimulates the chemosensitive area, but carbon dioxide in the fluid gives rise to most of the H⁺.
+## 呼吸中樞的化學控制
 
-### Excitation of the Chemosensitive Neurons by H⁺ Is Likely the Primary Stimulus
+### 呼吸中樞的解剖結構
 
-The sensor neurons in the chemosensitive area are especially excited by H⁺; in fact, it is believed that H⁺ may be the only important direct stimulus for these neurons. However, H⁺ ions do not easily cross the blood–brain barrier. For this reason, changes in H⁺ concentration in the blood have considerably less effect in stimulating the chemosensitive neurons than changes in blood CO₂, even though CO₂ is believed to stimulate these neurons secondarily by changing the H⁺ concentration.
+呼吸中樞主要分布於延腦與橋腦，包含三個功能區：
 
-### CO₂ Indirectly Stimulates the Chemosensitive Neurons
+- **背側呼吸組（dorsal respiratory group）**：位於延腦背部，是吸氣節律的起步者
+- **腹側呼吸組（ventral respiratory group）**：參與吸氣與呼氣的執行
+- **Pneumotaxic center**（橋腦）：調控呼吸節律與吸氣深度
 
-Although CO₂ has little direct effect in stimulating the neurons in the chemosensitive area, it does have a potent indirect effect. It has this effect by reacting with the water of the tissues to form carbonic acid, which dissociates into H⁺ and HCO₃⁻; the H⁺ then have a potent direct stimulatory effect on respiration.
+然而，上述區域對血液 CO₂ 或 H⁺ 的變化並不直接敏感。真正負責感受化學刺激的，是位於延腦腹側表面下約 0.2 mm 的**化學敏感區（chemosensitive area）**——此區域再將訊號傳遞至背側與腹側呼吸組（圖 42-2）。
 
-Why does blood CO₂ have a more potent effect in stimulating the chemosensitive neurons than blood H⁺? The answer is that the blood–brain barrier is not very permeable to H⁺, but CO₂ passes through this barrier almost as if the barrier did not exist. Consequently, whenever the blood PCO₂ increases, so does the PCO₂ of both the interstitial fluid of the medulla and the cerebrospinal fluid. In both these fluids, the CO₂ immediately reacts with the water to form new H⁺. Thus, paradoxically, more H⁺ is released into the respiratory chemosensitive sensory area of the medulla when the blood CO₂ concentration increases than when the blood H⁺ concentration increases. For this reason, respiratory center activity is increased very strongly by changes in blood CO₂.
+### H⁺ 是直接刺激物，但血液 H⁺ 難以穿越血腦屏障
 
-### Attenuated Stimulatory Effect of CO₂ After the First 1 to 2 Days
+化學敏感區的神經元對 **H⁺** 直接敏感，但 H⁺ 離子極難穿越血腦屏障。**CO₂** 本身對這些神經元幾乎無直接作用，但其間接效應卻極為強大：
 
-Excitation of the respiratory center by CO₂ is great the first few hours after the blood CO₂ first increases, but then it gradually declines over the next 1 to 2 days, decreasing to about one-fifth the initial effect. Part of this decline results from renal readjustment of the H⁺ concentration in the circulating blood back toward normal after the CO₂ first increases the H⁺ concentration. The kidneys achieve this readjustment by increasing the blood HCO₃⁻, which binds with H⁺ in the blood and cerebrospinal fluid to reduce their concentrations.
+CO₂ → 擴散穿過血腦屏障 → 在腦間質液與腦脊隨液中與 H₂O 形成 H₂CO₃ → 解離為 H⁺ + HCO₃⁻ → H⁺ 刺激化學敏感區 → 呼吸驅動增強
 
-But, even more importantly, over a period of hours, the HCO₃⁻ also slowly diffuses through the blood–brain and blood–cerebrospinal fluid barriers and combines directly with H⁺ adjacent to the respiratory neurons, thus reducing the H⁺ back to near normal. A change in blood CO₂ concentration therefore has a potent acute effect on controlling respiratory drive but only a weak chronic effect after a few days' adaptation.
+因此，血液 CO₂ 濃度的變化對呼吸中樞的刺激效應，反而比直接施加 H⁺ 更強——這是因為 CO₂ 能輕易穿越血腦屏障，而 H⁺ 不能。
 
-### Quantitative Effects of Blood PCO₂ and H⁺ Concentration on Alveolar Ventilation
+### CO₂ 刺激效應的時間衰減
 
-**Figure 42-3.** Effects of increased arterial blood PCO₂ and decreased arterial pH (increased H⁺ concentration) on the rate of alveolar ventilation.
+CO₂ 對呼吸的刺激在急性期（前數小時）最強烈，隨後在 1–2 天內逐漸衰减至約五分之一。原因有二：
 
-Figure 42-3 shows quantitatively the approximate effects of blood PCO₂ and blood pH (which is an inverse logarithmic measure of H⁺ concentration) on alveolar ventilation. Note especially the marked increase in ventilation caused by an increase in PCO₂ in the normal range between 35 and 75 mm Hg, which demonstrates the tremendous effect that CO₂ changes have in controlling respiration. By contrast, the change in respiration in the normal blood pH range, which is between 7.3 and 7.5, is less than 10% as great.
+1. **腎臟的代償**：腎臟增加 HCO₃⁻ 的排泄，HCO₃⁻ 與 H⁺ 結合，降低血液與腦脊隨液中的 H⁺ 濃度
+2. **HCO₃⁻ 擴散進入中樞**：HCO₃⁻ 緩慢穿過血腦屏障，直接在呼吸神經元周圍與 H⁺ 結合，將 H⁺ 降至接近正常
 
-### Changes in O₂ Have Little Direct Effect on Control of the Respiratory Center
+這意味著：CO₂ 對呼吸有**強大的急性效應**，但**慢性效應較弱**（適應後主要靠 peripheral chemoreceptor 的缺氧驅動）。
 
-Changes in O₂ concentration have virtually no direct effect on the respiratory center itself to alter respiratory drive—although O₂ changes do have an indirect effect, acting through the peripheral chemoreceptors. We learned in Chapter 41 that the hemoglobin-oxygen buffer system delivers almost exactly normal amounts of O₂ to the tissues, even when the pulmonary PO₂ changes from a value as low as 60 mm Hg up to a value as high as 1000 mm Hg. Therefore, except under special conditions, adequate delivery of O₂ can occur despite changes in lung ventilation ranging from slightly below half-normal to as high as 20 or more times normal.
+### CO₂ 與 H⁺ 對肺泡通氣量的定量影響
 
-This is not true for CO₂ because both the blood and tissue PCO₂ change inversely with the rate of pulmonary ventilation; thus, the processes of animal evolution have made CO₂ the major controller of respiration, not O₂. Yet, for those special conditions in which the tissues get into trouble for lack of O₂, the body has a special mechanism for respiratory control located in the peripheral chemoreceptors, outside the brain respiratory center. This mechanism responds when the blood O₂ falls too low, mainly below a PO₂ of 70 mm Hg.
+圖 42-3 顯示血液 PCO₂ 與 pH（與 H⁺ 濃度成反對數關係）對肺泡通氣量的影響。在正常範圍（PCO₂ 35–75 mm Hg）內，PCO₂ 的變化對通氣量有極為強烈的效應；而 pH 在正常範圍（7.3–7.5）的變化，效應不到 CO₂ 的十分之一。
+
+### O₂ 對呼吸中樞的直接作用極微
+
+O₂ 濃度的變化**幾乎不直接影響**呼吸中樞本身的活動。前面章節已說明，hemoglobin 的 O₂ 緩衝系統使組織 O₂ 供應在肺泡 PO₂ 60–1000 mm Hg 的大範圍變動下仍保持穩定。因此，呼吸系統主要的化學驅動因素是 **CO₂**，而非 O₂。
+
+但當組織真的陷入缺氧時（特殊情況），週邊化學感受器（見下一節）會啟動補救機制。
+
+## 週邊化學感受器系統：O₂ 在呼吸控制中的角色
+
+### 週邊化學感受器的解剖
+
+除了呼吸中樞本身的化學調控，體內還存在另一套呼吸控制機制——**週邊化學感受器（peripheral chemoreceptors）**。這些受體分布於：
+
+- **頸動脈體（carotid bodies）**：位於總頸动脉分歧處，接受 Hering's nerve → 舌咽神經 → 延腦背側呼吸區
+- **主動脈體（aortic bodies）**：沿主動脈弓分布，經迷走神經傳入
+
+此外，少量化學感受器散見於胸腔與腹腔的血管周圍。
+
+### 血流特徵
+
+這些化學感受器的血流量極大，約為其組織重量的 **20 倍/分鐘**。這意味著流經的血液幾乎不被去除 O₂（動靜脈 O₂ 含量差近乎零），因此感受器隨時暴露於 **arterial blood**，其 PO₂ 值就是 arterial PO₂。
+
+### 低氧對化學感受器的刺激
+
+圖 42-5 顯示頸動脈體的神經衝動頻率與 arterial PO₂ 的關係。在 PO₂ 60–30 mm Hg 區間（hemoglobin saturation 快速下降的範圍），感受器特別敏感。當 PO₂ 低於 60 mm Hg 時，肺泡通氣量可增至正常的 **5–6 倍**（圖 42-7）。
+
+### Glomus 細胞的 O₂ 感知機制
+
+圖 42-6 說明其分子機制：
+
+1. 頸动脉體含 **glomus cells**（腺體樣細胞），與神經末梢形成突觸
+2. Glomus cell 有 **O₂ 敏感性鉀通道**，當 PO₂ 降低至約 60 mm Hg 以下時關閉
+3. K⁺ 通道關閉 → 細胞去極化 → 電壓門控 Ca²⁺ 通道打開 → 細胞內 Ca²⁺ 濃度升高
+4. Ca²⁺ 升高觸發神經傳導物質（可能是 **ATP**）釋放 → 活化傳入纖維 → 呼吸中樞興奮
+
+CO₂ 與 H⁺ 也能刺激週邊化學感受器，但效應約僅為直接刺激呼吸中樞的七分之一，且潛伏期更短（約快五倍），可能在運動初期快速增强呼吸反應。
+
+### 慢性低氧的適應：Acclimatization
+
+高山攀登者的經驗顯示：緩慢上升（歷時數日）比快速上升能承受更低的大氣 O₂ 濃度——這就是 **acclimatization（高原適應）**。
+
+機制：在慢性低氧暴露 2–3 天後，呼吸中樞對 PCO₂ 與 H⁺ 變化的敏感度下降約 80%。此時即使深吸氣導致 CO₂ 过度排出，也無法像急性期那樣抑制呼吸。低氧於是能將肺泡通氣量推升至遠高於急性暴露所能達到的水準（可達正常的 400–500%）。
+
+### PCO₂、pH 與 PO₂ 對肺泡通氣量的複合效應
+
+圖 42-8 以複合圖呈現三者的交互影響：
+
+- 四條紅線代表不同 arterial PO₂（40、50、60、100 mm Hg）下，PCO₂ 變化對通氣量的影響
+- 綠線代表相同條件但 pH = 7.3（較酸）時的效應
+
+在海平面正常情境下，CO₂ 與 H⁺ 的反應是呼吸控制的主角；只有在 PO₂ 低於約 60–80 mm Hg 時，缺氧的刺激效應才開始顯著。
+
+## 運動時的呼吸調控
+
+### 運動時通氣量與血液氣體的變化
+
+激烈運動時，O₂ 消耗與 CO₂ 產生可增達 20 倍。然而健康運動員的肺泡通氣量幾乎精確地與代谢需求同步增加，arterial PO₂、PCO₂ 與 pH 均維持接近正常（圖 42-9）。這意味著存在一套「超前的」呼吸驅動機制。
+
+### 神經性訊號驅動呼吸的預期性增加
+
+運動開始時，呼吸的增加在血液化學成分改變之前就已經啟動。這是因為大腦在發送運動訊號至肌肉的同時，也透過 **collateral fibers** 向腦幹呼吸中樞發出興奮性訊號——這與運動時血管運動中樞同步興奮導致血壓升高的機制類似。
+
+圖 42-10 說明此現象：運動一開始，肺泡通氣量即驟然上升，甚至使 arterial PCO₂ 一度低於正常（代表通氣量「超前」於 CO₂ 產生）。約 30–40 秒後，肌肉產生的 CO₂ 量與增加的通氣量達到平衡，PCO₂ 回升至正常。
+
+### 化學因素與神經因素的整合
+
+圖 42-11 總結運動時呼吸調控的完整框架：
+
+- **預期性神經驅動**：大腦運動皮層同步向呼吸中樞發出 collateral 興奮信號，使通氣量在血液化學變化之前就開始增加
+- **化學反饋微調**：若神經驅動過強或過弱，血液 PCO₂ 與 H⁺ 的變化會進行最終校正，將血液氣體拉回正常範圍
+
+這種「神經超前、化學校正」的模式，使健康人在運動時能維持幾乎完美的血液氣體平衡。
 
 ---
 
-## PERIPHERAL CHEMORECEPTOR SYSTEM—ROLE OF OXYGEN IN RESPIRATORY CONTROL
+# 參考文獻
 
-In addition to control of respiratory activity by the respiratory center itself, still another mechanism is available for controlling respiration. This mechanism is the peripheral chemoreceptor system. Special nervous chemical receptors, called chemoreceptors, are located in several areas outside the brain. They are especially important for detecting changes in O₂ in the blood, although they also respond to a lesser extent to changes in CO₂ and H⁺ concentrations. The chemoreceptors transmit nervous signals to the respiratory center in the brain to help regulate respiratory activity.
-
-Most of the chemoreceptors are in the carotid bodies. However, a few are also in the aortic bodies, and a very few are located elsewhere in association with other arteries of the thoracic and abdominal regions. The carotid bodies are located bilaterally in the bifurcations of the common carotid arteries. Their afferent nerve fibers pass through Hering's nerves to the glossopharyngeal nerves and then to the dorsal respiratory area of the medulla. The aortic bodies are located along the arch of the aorta; their afferent nerve fibers pass through the vagi, also to the dorsal medullary respiratory area.
-
-Each of the chemoreceptor bodies receives its own special blood supply through a minute artery directly from the adjacent arterial trunk. Blood flow through these bodies is extreme, 20 times the weight of the bodies themselves each minute. Therefore, the percentage of O₂ removed from the flowing blood is virtually zero, which means that the chemoreceptors are exposed at all times to arterial blood, not venous blood, and their PO₂ values are arterial PO₂ values.
-
-**Figure 42-4.** Respiratory control by peripheral chemoreceptors in the carotid and aortic bodies.
-
-### Decreased Arterial Oxygen Stimulates the Chemoreceptors
-
-When the oxygen concentration in the arterial blood falls below normal, the chemoreceptors become strongly stimulated. This effect is demonstrated in Figure 42-5, which shows the effect of different levels of arterial PO₂ on the rate of nerve impulse transmission from a carotid body. Note that the impulse rate is particularly sensitive to changes in arterial PO₂ in the range of 60 mm Hg down to 30 mm Hg, a range in which hemoglobin saturation with oxygen decreases rapidly.
-
-**Figure 42-5.** Effect of arterial PO₂ on impulse rate from the carotid body.
-
-### Basic Mechanism of Stimulation of the Chemoreceptors by O₂ Deficiency
-
-The exact means whereby low PO₂ excites the nerve endings in the carotid and aortic bodies are still not completely understood. However, these bodies have multiple, highly characteristic glandular-like cells, called glomus cells, that synapse directly or indirectly with the nerve endings. Current evidence suggests that these glomus cells function as the chemoreceptors and then stimulate the nerve endings.
-
-**Figure 42-6.** Carotid body glomus cell oxygen sensing. When the PO₂ decreases below around 60 mm Hg, potassium channels close, causing cell depolarization, opening of calcium channels, and increased cytosolic calcium ion concentration. This stimulates transmitter release (adenosine triphosphate [ATP] is likely the most important), which activates afferent fibers that send signals to the central nervous system (CNS) and stimulate respiration. The mechanisms whereby low PO₂ influences potassium channel activity are still unclear. ΔVm, change in membrane voltage.
-
-Glomus cells have O₂-sensitive potassium channels that are inactivated when blood PO₂ decreases markedly. This inactivation causes the cell to depolarize, which in turn opens voltage-gated calcium channels and increases intracellular calcium ion concentration. The increased number of calcium ions stimulates release of a neurotransmitter that activates afferent neurons that send signals to the central nervous system and stimulate respiration. Although early studies suggested that dopamine or acetylcholine might be the main neurotransmitters, more recent studies suggest that during hypoxia, adenosine triphosphate (ATP) may be the key excitatory neurotransmitter released by carotid body glomus cells.
-
-### Increased CO₂ and H⁺ Concentration Stimulates the Chemoreceptors
-
-An increase in CO₂ or H⁺ concentration also excites the chemoreceptors and, in this way, indirectly increases respiratory activity. However, the direct effects of both these factors in the respiratory center are much more powerful than their effects mediated through the chemoreceptors (about seven times as powerful). Yet, there is one difference between the peripheral and central effects of CO₂—the stimulation via the peripheral chemoreceptors occurs as much as five times as rapidly as central stimulation, so the peripheral chemoreceptors might be especially important in increasing the rapidity of response to CO₂ at the onset of exercise.
-
-### Effect of Low Arterial PO₂ to Stimulate Alveolar Ventilation When Arterial CO₂ and H⁺ Concentrations Remain Normal
-
-**Figure 42-7.** The lower red curve demonstrates the effect of different levels of arterial PO₂ on alveolar ventilation, showing a 6-fold increase in ventilation as the PO₂ decreases from the normal level of 100 mm Hg to 20 mm Hg. The upper green line shows that the arterial PCO₂ was kept at a constant level during the measurements of this study; pH also was kept constant.
-
-Figure 42-7 shows the effect of low arterial PO₂ on alveolar ventilation when the PCO₂ and H⁺ concentrations are kept constant at their normal levels. In other words, in this figure, only the ventilatory drive caused by low O₂ on the chemoreceptors is active. Figure 42-7 shows almost no effect on ventilation as long as the arterial PO₂ remains greater than 100 mm Hg. However, at pressures lower than 100 mm Hg, ventilation approximately doubles when the arterial PO₂ falls to 60 mm Hg and can increase as much as fivefold at very low PO₂ values. Under these conditions, low arterial PO₂ obviously drives the ventilatory process quite strongly.
-
-Because the effect of hypoxia on ventilation is modest for PO₂ values greater than 60 to 80 mm Hg, the PCO₂ and H⁺ responses are mainly responsible for regulating ventilation in healthy humans at sea level.
-
-### Chronic Breathing of Low O₂ Stimulates Respiration Even More—The Phenomenon of "Acclimatization"
-
-Mountain climbers have found that when they ascend a mountain slowly, over a period of days rather than a period of hours, they breathe much more deeply and therefore can withstand far lower atmospheric O₂ concentrations than when they ascend rapidly. This phenomenon is called acclimatization.
-
-The reason for acclimatization is that within 2 to 3 days, the respiratory center in the brain stem loses about 80% of its sensitivity to changes in PCO₂ and H⁺. Therefore, the excess ventilatory blow-off of CO₂ that normally would inhibit an increase in respiration fails to occur, and low O₂ can drive the respiratory system to a much higher level of alveolar ventilation than under acute conditions. Instead of the 70% increase in ventilation that might occur after acute exposure to low O₂, the alveolar ventilation often increases by 400% to 500% after 2 to 3 days of low O₂, which helps immensely in supplying additional O₂ to the mountain climber.
-
-### Composite Effects of PCO₂, pH, and PO₂ on Alveolar Ventilation
-
-**Figure 42-8.** Composite diagram showing the interrelated effects of PCO₂, PO₂, and pH on alveolar ventilation.
-
-Figure 42-8 gives a quick overview of the manner in which PO₂, PCO₂, and pH together affect alveolar ventilation. To understand this diagram, first observe the four red curves. These curves were recorded at different levels of arterial PO₂—40, 50, 60, and 100 mm Hg. For each of these curves, the PCO₂ was changed from lower to higher levels. Thus, this family of red curves represents the combined effects of alveolar PCO₂ and PO₂ on ventilation.
-
-Now observe the green curves. Whereas the red curves were measured at a blood pH of 7.4, the green curves were measured at a pH of 7.3. We now have two families of curves representing the combined effects of PCO₂ and PO₂ on ventilation at two different pH values. Still other families of curves would be displaced to the right at higher pH and displaced to the left at lower pH. Therefore, using this diagram, one can predict the level of alveolar ventilation for most combinations of alveolar PCO₂, alveolar PO₂, and arterial pH.
-
----
-
-## REGULATION OF RESPIRATION DURING EXERCISE
-
-During strenuous exercise, O₂ consumption and CO₂ formation can increase as much as 20-fold. Yet, in the healthy athlete, as illustrated in Figure 42-9, alveolar ventilation ordinarily increases almost exactly in step with the increased level of oxygen metabolism. The arterial PO₂, PCO₂, and pH remain almost exactly normal.
-
-In trying to analyze what causes the increased ventilation during exercise, one is tempted to ascribe this increased ventilation to increases in blood CO₂ and H⁺, plus a decrease in blood O₂. However, measurements of arterial PCO₂, pH, and PO₂ show that none of these values changes significantly during exercise, so none of them becomes abnormal enough to stimulate respiration as vigorously as observed during strenuous exercise. Therefore, what causes intense ventilation during exercise?
-
-At least one effect seems to be predominant. The brain, on transmitting motor impulses to the exercising muscles, is believed to transmit collateral impulses into the brain stem at the same time to excite the respiratory center. This action is analogous to the stimulation of the vasomotor center of the brain stem during exercise that causes a simultaneous increase in arterial pressure.
-
-Actually, when a person begins to exercise, a large share of the total increase in ventilation begins immediately on initiation of the exercise, before any blood chemicals have had time to change. It is likely that most of the increase in respiration results from neurogenic signals transmitted directly into the brain stem respiratory center at the same time that signals go to the body muscles to cause muscle contraction.
-
-### Interrelationship Between Chemical and Nervous Factors in Controlling Respiration During Exercise
-
-When a person exercises, direct nervous signals presumably stimulate the respiratory center by almost the proper amount to supply the extra O₂ required for exercise and to blow off extra CO₂. Occasionally, however, the nervous respiratory control signals are too strong or too weak. Chemical factors then play a significant role in bringing about the final adjustment of respiration required to keep the O₂, CO₂, and H⁺ concentrations of the body fluids as nearly normal as possible.
-
-This process is demonstrated in Figure 42-10. The lower curve shows changes in alveolar ventilation during 1 minute of exercise, and the upper curve shows changes in arterial PCO₂. Note that at the onset of exercise, the alveolar ventilation increases almost instantaneously, without an initial increase in arterial PCO₂. In fact, this increase in ventilation is usually great enough so that at first it actually decreases arterial PCO₂ below normal, as shown in the figure.
-
-The presumed reason why the ventilation forges ahead of the buildup of blood CO₂ is that the brain provides an "anticipatory" stimulation of respiration at the onset of exercise, causing extra alveolar ventilation even before it is necessary. However, after 30 to 40 seconds, the amount of CO₂ released into the blood from the active muscles approximately matches the increased rate of ventilation, and the arterial PCO₂ returns essentially to normal, even as the exercise continues. This is shown toward the end of 1 minute of exercise in the figure.
-
-**Figure 42-11.** Summary of the control of respiration during exercise, showing the interrelationship between neurogenic signals from the brain and chemical factors in the blood.
+1. Dempsey JA, Powell FL, Mitchell GS, et al: Integrative aspects of the regulation of breathing. Compr Physiol. 2011.
+2. Forster HV, Haouzi P, Dempsey JA: Control of breathing during exercise. Compr Physiol 2:743, 2012.
+3. Guyton & Hall: Textbook of Medical Physiology, 14th Edition. 2020.

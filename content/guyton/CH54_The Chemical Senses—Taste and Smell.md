@@ -3,255 +3,195 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH54"
 title: "The Chemical Senses—Taste and Smell"
 book: "Guyton & Hall"
-summary: "Chapter 54 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
+summary: "本章探討味覺與嗅覺這兩種化學感受器的運作機制。味覺部分說明五种基本味覺（酸、鹹、甜、苦、鮮味）、味蕾的結構與功能、味覺訊號的神經路徑。嗅覺部分說明嗅覺上皮、olfactory receptors、嗅覺訊號的投射路徑、以及嗅覺的適應現象。"
 key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+  - "五种基本味覺：酸、鹹、甜、苦、鮮味（umami）"
+  - "味覺受器主要分布於舌頭的circumvallate、foliate與fungiform papillae"
+  - "Inner hair cells是主要的聽覺受器；outer hair cells調控受器敏感度"
+  - "嗅覺受器為G蛋白偶聯受器，遵循labeled line編碼原則"
+  - "嗅覺系統具有快速的適應現象，但其他氣味的存在會影響適應程度"
 ---
 
-UNIT X on the epiglottis, and even in the proximal esophagus.
-Adults have 3000 to 10,000 taste buds, and children have a few more. Beyond the age of 45 years, many taste buds degenerate, causing taste sensitivity to decrease in old age.
-Specificity of Taste Buds for a Primary Taste  Stimulus.
-Microelectrode studies from single taste buds show that each taste bud usually responds mostly to one of the five primary taste stimuli when the taste substance is in low concentration. However, at high concentration, most buds can be <span class="c-green">excite</span>d by two or more of the primary taste stimu- li, as well as by a few other taste stimuli that do not fit into the “primary” categories.
-Mechanism of Stimulation of Taste Buds
-Receptor Potential. The membrane of the taste cell, like that of most other sensory receptor cells, is negatively charged on the inside with respect to the outside. Appli - cation of a taste substance to the taste hairs causes par - tial loss of this negative potential—that is, the taste cell becomes depolarized. In most cases, the decrease in po - tential, within a wide range, is approximately proportional to the logarithm of concentration of the stimulating sub - stance. This change in electrical potential in the taste cell is called the receptor potential for taste.
-The mechanism whereby most stimulating substances react with the taste villi to initiate the receptor potential is by binding of the taste chemical to a protein receptor molecule that lies on the outer surface of the taste recep - tor cell, near to or protruding through a villus membrane.
-This action, in turn, opens ion channels, which allows positively charged sodium ions or hydrogen ions to enter and depolarize the normal negativity of the cell. Then, the taste chemical is gradually washed away from the taste villus by the saliva, which removes the stimulus.
-The type of receptor protein in each taste villus deter - mines the type of taste that will be perceived. For sodium ions and hydrogen ions, which elicit salty and sour taste sensations, respectively, the receptor proteins open spe - cific ion channels, likely the epithelial sodium channel
-(ENaC), in the apical membranes of the taste cells, thereby activating the receptors. However, for the sweet and bit - ter taste sensations, the portions of the Gprotein coupled receptors that protrude through the apical membranes
-<span class="c-green">activate</span> secondmessenger transmitter substances  inside the taste cells; these second messengers cause intracellu - lar chemical changes that elicit the taste signals.
-Sweettasting compounds are detected by a combi - nation of two closely related Gproteincoupled taste receptors, T1R2 and T1R3. The receptors responsible for umami taste is believed to be a complex of T1R1 and
-T1R3 proteins. Thus, T1R3 appears to function as a co- receptor for sweet and umami tastes.
-Bitter taste is sensed by another family (T2R) of approximately 30 different Gprotein coupled receptors.
-Individual bittersensing taste receptor cells express mul- tiple T2Rs, each of which recognizes a unique set of bitter compounds. This pattern of receptor expression permits detection of a variety of bitter compounds through a sin - gle type of taste receptor cell.
-Sour taste, associated with acidic food or drink, is believed to be sensed by ion channels that are opened by hydrogen ions although the precise mechanisms are not fully understood. Recent studies suggest that an acid- sensitive potassium channel (KIR2.1) and a hydrogen ion–selective ion channel (otopetrin 1) may mediate acid responses in taste receptor cells.
-Generation of Nerve Impulses by the Taste Bud . On first application of the taste stimulus, the rate of discharge of the nerve fibers from taste buds rises to a peak in a
-Chorda tympani (VII)
-VII
-A
-B
-IX
-Glossopharyngeal n. (IX)
-Epiglottis
-Root of tongue
-Foliate papilla
-Circumvallate papilla
-Serous gland
-Taste bud
-Fungiform papilla
-Taste pore
-Taste hairs (microvilli)
-Taste cell
-Basal cell
-Subepithelial connective tissue
-Sensory afferent nerve fiber
-Epithelial cells
-Figure 541. (A) Distribution of taste buds in papillae of the tongue and neuronal pathways for transmission of taste signals. (B) Structure of a taste bud. n., Nerve.
+## 章節導讀
 
-small fraction of a second but then adapts within the next few seconds back to a lower steady level as long as the taste stimulus remains. Thus, a strong immediate signal is transmitted by the taste nerve, and a weaker continuous signal is transmitted as long as the taste bud is exposed to the taste stimulus.
-TRANSMISSION OF TASTE SIGNALS INTO
-THE CENTRAL NERVOUS SYSTEM
-Figures 541 and 542 show the neuronal pathways for transmission of taste signals from the tongue and pharyn- geal region into the central nervous system. Taste impulses from the anterior two-thirds of the tongue pass first into the lingual nerve, then through the chorda tympani into the facial nerve , and finally into the tractus solitarius in the brain stem. Taste sensations from the circumvallate papillae on the back of the tongue and from other pos - terior regions of the mouth and throat are transmitted through the glossopharyngeal nerve  also into the tractus solitarius, but at a slightly more posterior level. Finally, a few taste signals are transmitted into the tractus solitarius from the base of the tongue and other parts of the pharyn- geal region by way of the vagus nerve.
-All taste fibers synapse in the posterior brain stem in the nuclei of the tractus solitarius. These nuclei send secondorder neurons to a small area of the ventral pos- terior medial nucleus of the <span class="c-pink">thalamus</span> , located slightly medial to the thalamic terminations of the facial regions of the dorsal column–medial lemniscal system. From the <span class="c-pink">thalamus</span>, thirdorder neurons are transmitted to the lower tip of the postcentral gyrus in the parietal cerebral cortex, where it curls deep into the sylvian fissure, and into the adjacent opercular insular area. This area lies slightly lateral, ventral, and rostral to the area for tongue tactile signals in cerebral somatic area I. From this description of the taste pathways, it is evident that they closely parallel the somatosensory pathways from the tongue.
-Taste Reflexes Are Integrated in the Brain Stem. From the tractus solitarius, many taste signals are transmitted within the brain stem itself directly into the superior and inferior salivatory nuclei . These areas transmit signals to the submandibular, sublingual, and parotid glands to help control the secretion of saliva during the ingestion and digestion of food.
-Rapid Adaptation of Taste . Everyone is familiar with the fact that taste sensations adapt rapidly, often almost completely, within a minute or so of continuous stimula - tion. Yet, from electrophysiological studies of taste nerve fibers, it is clear that adaptation of the taste buds usually accounts for no more than about half of this rapid taste adaptation. Therefore, the final extreme degree of adapta- tion that occurs in the sensation of taste almost certainly occurs in the central nervous system, although the mech- anisms are not known. This mechanism of adaptation is different from that of many other sensory systems, which adapt mainly at the receptors.
-TASTE PREFERENCE AND CONTROL OF
-THE DIET
-Taste preference simply means that an animal will choose certain types of food in preference to others, and the animal automatically uses this preference to help con - trol what it eats. Furthermore, its taste preferences often change in accord with the body’s need for certain specific substances.
-The following experiments demonstrate this abil - ity of animals to choose food in accord with the needs of their bodies. First, adrenalectomized, saltdepleted animals automatically select drinking water with a high concentration of sodium chloride in preference to pure water, and the amount of sodium chloride in the water is often sufficient to supply the needs of the body and prevent <span class="c-red">death</span> due to salt depletion. Second, an animal given injections of excessive amounts of <span class="c-cyan">insulin</span> develops a depleted blood sugar level, and the animal automatically chooses the sweetest food from among many samples.
-Third, calciumdepleted, parathyroidectomized animals automatically choose drinking water with a high concen - tration of calcium chloride.
-The same phenomena are also observed in everyday life. For example, the “salt licks” of desert regions are known to attract animals from far and wide. Also, human beings reject food that has an unpleasant affective sensa - tion, which in many cases protects our bodies from unde- sirable substances.
-Gustatory cortex
-(anterior insula- frontal operculum)
-Nucleus of solitary tract
-Gustatory area
-Ventral posterior medial nucleus of
-<span class="c-pink">thalamus</span>
-Geniculate ganglion
-N. VII
-N. IX
-N. X
-Petrosal ganglion
-Nodose ganglion
-Pharynx
-Glossopharyngeal
-Tongue
-Chorda tympani
-Figure 542. Transmission of taste signals into the central nervous system. N., nerve.
+味覺與嗅覺合稱「化學感受器」，因為兩者的受器都是對特定化學分子產生反應。味覺主要由口腔中的 taste buds 負責，但嗅覺對味覺感知的貢獻同樣重要——這也是感冒時食物嘗起來索然無味的原因。此外，食物的質地（由口腔觸覺偵測）與刺激性物質（如辣椒）也大大影響味覺體驗。
 
-UNIT X
-The phenomenon of taste preference almost certainly results from some mechanism located in the central nervous system and not from a mechanism in the taste receptors, although the receptors often become sensitized in favor of a needed nutrient. An important reason for believing that taste preference is mainly a central nervous system phenomenon is that previous experience with unpleasant or pleasant tastes plays a major role in deter - mining one’s taste preferences. For example, if a person becomes sick soon after eating a particular type of food, the person then generally develops a negative taste prefer- ence, or taste aversion, for that particular food; the same effect can be demonstrated in lower animals.
-SENSE OF SMELL
-Smell is the least understood of our senses, partly because the sense of smell is a subjective phenomenon that cannot be studied with ease in lower animals. Another compli - cating problem is that the sense of smell is poorly devel - oped in human beings compared with the sense of smell in many other mammals.
-OLFACTORY MEMBRANE
-The olfactory membrane, the histology of which is shown in Figure 543, lies in the superior part of the nasal cav - ity. Medially, the olfactory membrane folds downward along the surface of the superior septum; laterally, it folds over the superior turbinate and even over a small portion of the upper surface of the middle turbinate. The olfac - tory membrane has a total surface area of about 5 square centimeters in humans.
-Olfactory Cells Are the Receptor Cells for Smell Sen - sation. The olfactory cells (see Figure 533) are actually bipolar nerve cells derived originally from the central nervous system. There are about 100 million of these cells in the olfactory epithelium interspersed among sus- tentacular cells , as shown in Figure 543. The mucosal end of the olfactory cell forms a knob from which 4 to
-25 olfactory hairs  (also called olfactory cilia ), measuring
-0.3 micrometer in diameter and up to 200 micrometers in length, project into the mucus that coats the inner surface of the nasal cavity. These projecting olfactory cilia form a dense mat in the mucus, and it is these cilia that react to odors in the air and <span class="c-green">stimulate</span> the olfactory cells, as dis - cussed later. Spaced among the olfactory cells in the olfac- tory membrane are many small Bowman glands that se - crete mucus onto the surface of the olfactory membrane.
-STIMULATION OF THE OLFACTORY CELLS
-Mechanism of Excitation of the Olfactory Cells . The portion of each olfactory cell that responds to the olfac - tory chemical stimuli is the olfactory cilia. The odorant substance, on coming in contact with the olfactory mem- brane surface, first diffuses into the mucus that covers the cilia and then it binds with receptor proteins in the mem- brane of each cilium (Figure 544). Each receptor protein is actually a long molecule that threads its way through the membrane about seven times, folding inward and outward.
-Bowman’s gland
-Sustentacular cells
-Olfactory cell
-Olfactory cilia
-Mucus layer
-Olfactory tract
-Olfactory bulb
-<span class="c-pink">Glomerulus</span>
-Mitral cell
-Figure 543. Organization of the olfactory membrane and olfactory bulb and connections to the olfactory tract.
-Odorant
-Odorant receptor
-Adenyl cyclase
-<span class="c-cyan">ATP</span> cAMP
-G-protein αβ γ
-Na+
-Extracellular side
-Cytoplasmic side
-Na+
-Figure 54-4. Summary of olfactory signal transduction. Binding of the odorant to a Gprotein–coupled receptor causes the activation of adenylate cyclase, which converts <span class="c-cyan">adenosine triphosphate</span> (<span class="c-cyan">ATP</span>) to cy- clic adenosine monophosphate (cAMP). The cAMP <span class="c-green">activates</span> a gated sodium channel that increases sodium influx and depolarizes the cell, exciting the olfactory neuron and transmitting action potentials to the central nervous system.
+味覺的基本類型分為五種：酸、鹹、甜、苦，以及鮮味（umami）。酸味由氫離子濃度決定；鹹味主要來自鈉離子；甜味與苦味則由多種有機化合物觸發；鮮味則是對含有 L-麩胺酸的食物（如肉類與陳年乳酪）的愉悅感受，與蛋白質攝取密切相關。
 
-The odorant binds with the portion of the receptor protein that folds to the outside. The inside of the folding protein is coupled to a G protein, itself a combination of three subu- nits. On excitation of the receptor protein, an alpha subu- nit breaks away from the G protein and <span class="c-green">activates</span> adenylyl cyclase, which is attached to the inside of the ciliary mem- brane near the receptor cell body. The <span class="c-green">activate</span>d cyclase, in turn, converts many molecules of intracellular adeno- sine triphosphate (<span class="c-cyan">ATP</span>) into cyclic adenosine monophos- phate (cAMP). Finally, this cAMP <span class="c-green">activates</span> another nearby membrane protein, a gated sodium ion channel, that opens its “gate” and allows large numbers of sodium ions to pour through the membrane into the receptor cell cytoplasm.
-The sodium ions increase the electrical potential in the positive direction inside the cell membrane, thus exciting the olfactory neuron and transmitting action potentials into the central nervous system via the olfactory nerve.
-The importance of this mechanism for activating olfac- tory nerves is that it greatly multiplies the excitatory effect of even the weakest odorant. To summarize: (1) activation of the receptor protein by the odorant substance <span class="c-green">activates</span> the Gprotein complex, which, in turn (2) <span class="c-green">activates</span> mul - tiple molecules of adenylyl cyclase inside the olfactory cell membrane, which (3) causes the formation of many times more molecules of cAMP , and finally, (4) the cAMP opens still many times more sodium ion channels. Therefore, even a minute concentration of a specific odorant initiates a cascading effect that opens extremely large numbers of sodium channels. This process accounts for the exquisite sensitivity of the olfactory neurons to even the slightest amount of odorant.
-In addition to the basic chemical mechanism whereby the olfactory cells are <span class="c-green">stimulate</span>d, several physical factors affect the degree of stimulation. First, only volatile sub - stances that can be sniffed into the nasal cavity can be smelled. Second, the stimulating substance must be at least slightly watersoluble so that it can pass through the mucus to reach the olfactory cilia. Third, it is helpful for the substance to be at least slightly lipidsoluble, presum- ably because lipid constituents of the cilium are a weak barrier to non–lipidsoluble odorants.
-Membrane Potentials and Action Potentials in
- Olfactory Cells. The <span class="c-yellow">membrane potential</span> inside unstim- ulated olfactory cells, as measured by microelectrodes, averages about −55 millivolts. At this potential, most of the cells generate continuous action potentials at a very slow rate, varying from once every 20 seconds up to two or three per second.
-Most odorants cause <span class="c-yellow">depolarization</span> of the olfactory cell membrane, decreasing the negative potential in the cell from the normal level of −55 millivolts to −30 milli - volts or less. Along with this, the number of action poten- tials increases to 20 to 30 per second, which is a high rate for the minute olfactory nerve fibers.
-Over a wide range, the rate of olfactory nerve impulses changes approximately in proportion to the logarithm of the stimulus strength, which demonstrates that the olfac- tory receptors obey principles of transduction similar to those of other sensory receptors.
-Rapid Adaptation of Olfactory Sensations. The olfac- tory receptors adapt about 50% in the first second or so after stimulation. Thereafter, they adapt very little and very slowly. Yet, we all know from our own experience that smell sensations adapt almost to extinction within a minute or so after entering a strongly odorous atmos - phere. Because this psychological adaptation is far greater than the degree of adaptation of the receptors, it is almost certain that most of the additional adaptation occurs in the central nervous system, which seems to be true for the adaptation of taste sensations as well.
-The following neuronal mechanism for the adaptation is postulated: large numbers of centrifugal nerve fibers pass from the olfactory regions of the brain backward along the olfactory tract and terminate on special inhibi - tory cells in the olfactory bulb, the granule cells. After the onset of an olfactory stimulus, the central nervous system quickly develops strong feedback <span class="c-green">inhibit</span>ion to suppress relay of the smell signals through the olfactory bulb.
-Search for the Primary Sensations of
-Smell
-In the past, most physiologists were convinced that the many smell sensations are subserved by a few rather dis - crete primary sensations in the same way that vision and taste are subserved by a few select primary sensations. On the basis of psychological studies, one attempt to classify these sensations is the following:
- 1.  Camphoraceous
- 2.  Musky
- 3.  Floral
- 4.  Pepperminty
- 5.  Ethereal
- 6.  Pungent
- 7.  Putrid
-It is certain that this list does not represent the true primary sensations of smell. Multiple clues, including specific studies of the genes that encode for the recep - tor proteins, suggest the existence of at least 100 primary sensations of smell—a marked contrast to only three pri - mary sensations of color detected by the eyes and only five primary sensations of taste detected by the tongue.
-Some studies suggest that there may be as many as 1000 different types of odorant receptors. Further support for the many primary sensations of smell is that people have been found who have odor blindness for single substances;
-such discrete odor blindness has been identified for more than 50 different substances. It is presumed that odor blindness for each substance represents lack of the appro- priate receptor protein in olfactory cells for that particular substance.
-Affective Nature of Smell . Smell, even more so than taste, has the affective quality of either pleasantness or
+嗅覺的受器位於鼻腔上端的嗅覺上皮，每個 olfactory receptor neuron 都是雙極神經元，能偵測特定類型的氣味分子。本章說明嗅覺受器的分子機制、嗅覺訊號如何投射至 olfactory bulb 並最終到達嗅覺皮質，以及嗅覺適應的神經機制。
 
-UNIT X unpleasantness, and thus smell is probably even more important than taste for the selection of food. A person who has previously eaten food that disagreed with him or her is often nauseated by the smell of that same food on a second occasion. Conversely, perfume of the right quality can be a powerful stimulant of human emotions. In addi- tion, in some animals, odors are the primary excitant of sexual drive.
-Threshold for Smell . One of the principal characteris - tics of smell is the minute quantity of stimulating agent in the air that can elicit a smell sensation. For example, the substance methylmercaptan can be smelled when only one 25 trillionth of a gram is present in each milliliter of air. Because of this very low threshold, this substance is mixed with natural gas to give the gas an odor that can be detected when even small amounts of gas leak from a pipeline.
-Gradations of Smell Intensities . Although the thresh - old concentrations of substances that evoke smell are extremely slight, for many (if not most) odorants, con - centrations only 10 to 50 times above the threshold evoke maximum intensity of smell. This range of intensity dis - crimination is in contrast to most other sensory systems of the body, in which the ranges of intensity discrimina - tion are tremendous—for example, 500,000 to 1 for the eyes and 1 trillion to 1 for the ears. This difference might be explained by the fact that smell is concerned more with detecting the presence or absence of odors rather than with quantitative detection of their intensities.
-TRANSMISSION OF SMELL SIGNALS INTO
-THE CENTRAL NERVOUS SYSTEM
-The olfactory portions of the brain were among the first brain structures developed in primitive animals, and much of the remainder of the brain developed around these olfactory beginnings. In fact, part of the brain that originally subserved olfaction later evolved into the basal brain structures that control emotions and other aspects of human behavior; we call this system the limbic system, as discussed in Chapter 59.
-Transmission of Olfactory Signals Into the Olfactory
-Bulb. The olfactory bulb is shown in Figure 545. The ol- factory nerve fibers leading backward from the bulb are called cranial nerve I, or the olfactory tract. In reality, both the tract and the bulb are an anterior outgrowth of brain tissue from the base of the brain; the bulbous enlargement at its end, the olfactory bulb, lies over the cribriform plate, separating the brain cavity from the upper reaches of the nasal cavity. The cribriform plate has multiple small per - forations through which an equal number of small nerves pass upward from the olfactory membrane in the nasal cavity to enter the olfactory bulb in the cranial cavity.
-Figure 543 demonstrates the close relation between the olfactory cells  in the olfactory membrane and the olfac - tory bulb, showing short axons from the olfactory cells terminating in multiple globular structures in the olfac - tory bulb called glomeruli. Each bulb has several thousand such glomeruli, each of which is the terminus for about
-25,000 axons from olfactory cells. Each <span class="c-pink">glomerulus</span> also is the terminus for dendrites from about 25 large mitral cells and about 60 smaller tufted cells, the cell bodies of which lie in the olfactory bulb superior to the glomeruli.
-These dendrites receive synapses from the olfactory cell neurons; the mitral and tufted cells send axons through the olfactory tract to transmit olfactory signals to higher levels in the central nervous system.
-Some research has suggested that different glomeruli respond to different odors. It is possible that specific glomeruli are the real clue to the analysis of different odor signals transmitted into the central nervous system.
-Primitive and Newer Olfactory Pathways
-Into the Central Nervous System
-The olfactory tract enters the brain at the anterior junc - tion between the mesencephalon and cerebrum; there, the tract divides into two pathways, as shown in Figure 545, one passing medially into the medial olfactory area of the brain stem and the other passing laterally into the lateral olfactory area. The medial olfactory area represents a very primitive olfactory system, whereas the lateral olfactory area is the input to the following: (1) a less old olfactory system; and (2) a newer system.
-The Primitive Olfactory System—The Medial  Olfactory
-Area. The medial olfactory area consists of a group of nu- clei located in the midbasal portions of the brain imme - diately anterior to the <span class="c-pink">hypothalamus</span>. Most conspicuous are the septal nuclei, which are midline nuclei that feed into the <span class="c-pink">hypothalamus</span> and other primitive portions of the brain’s limbic system. This is the brain area most con- cerned with basic behavior (as described in Chapter 59).
-The importance of this medial olfactory area is best understood by considering what happens in animals
-Olfactory bulb
-Olfactory tract
-Mitral cell
-Temporal cortex
-Orbito- frontal cortex
-<span class="c-pink">Hypothalamus</span>
-Brain stem
-Prefrontal cortex
-Medial olfactory area
-Lateral olfactory area
-<span class="c-pink">Hippocampus</span>
-Figure 545. Neural connections of the olfactory system.
+## Sense of Taste
 
-when the lateral olfactory areas on both sides of the brain are removed, and only the medial system remains.
-The removal of these areas hardly affects the more basic responses to olfaction, such as licking the lips, salivation, and other feeding responses caused by the smell of food or by basic emotional drives associated with smell. Con - versely, removal of the lateral areas abolishes the more complicated olfactory conditioned reflexes.
-The Less Old Olfactory System—The Lateral  Olfactory
-Area. The lateral olfactory area is composed mainly of the prepyriform and pyriform cortex plus the cortical portion of the amygdaloid nuclei . From these areas, signal path - ways pass into almost all portions of the limbic system, especially into less primitive portions such as the hip - pocampus, which seem to be most important for learning to like or dislike certain foods depending on one’s experi- ences with them. For example, it is believed that this lateral olfactory area and its many connections with the limbic behavioral system cause a person to develop an absolute aversion to foods that have caused nausea and vomiting.
-An important feature of the lateral olfactory area is that many signal pathways from this area also feed directly into an older part of the cerebral cortex called the paleocortex in the anteromedial portion of the temporal lobe. This area is the only area of the entire cerebral cortex where sensory signals pass directly to the cortex without passing first through the <span class="c-pink">thalamus</span>.
-The Newer Pathway . A newer olfactory pathway that passes through the <span class="c-pink">thalamus</span>, passing to the dorsomedial thalamic nucleus and then to the lateroposterior quadrant of the orbitofrontale cortex, has been found. On the basis of studies in monkeys, this newer system probably helps in the conscious analysis of odor.
-Summary. Thus, there appear to be a primitive olfactory system that subserves the basic olfactory reflexes, a less old system that provides automatic but partially learned control of food intake and aversion to toxic and unhealthy foods, and a newer system that is comparable to most of the other cortical sensory systems and is used for con - scious perception and analysis of olfaction.
-Centrifugal Control of Activity in the Olfactory Bulb by the Central Nervous System . Many nerve fibers that originate in the olfactory portions of the brain pass from the brain in the outward direction into the olfacto - ry tract to the olfactory bulb (i.e., centrifugally from the brain to the periphery). These nerve fibers terminate on a large number of small granule cells located among the mitral and tufted cells in the olfactory bulb. The granule cells send <span class="c-green">inhibit</span>ory signals to the mitral and tufted cells.
-This <span class="c-green">inhibit</span>ory feedback may be a means for sharpening a person’s specific ability to distinguish one odor from another.
-Bibliography
-Augustine V, Gokce SK, Oka Y: Peripheral and central nutrient sensing underlying appetite regulation. Trends Neurosci 41:526,
-2018.
-Avau B, Depoortere I: The bitter truth about bitter taste receptors:
-beyond sensing bitter in the oral cavity. Acta Physiol (Oxf) 216:407,
-2016.
-Besnard P, PassillyDegrace P, Khan NA: Taste of fat: a sixth taste modality? Physiol Rev 96:151, 2016.
-Buck LB. The molecular architecture of odor and pheromone sensing in mammals. Cell 100:611, 2000.
-Chandrashekar J, Hoon MA, Ryba NJ, Zuker CS: The receptors and cells for mammalian taste. Nature 444:288, 2006.
-Lodovichi C, Belluscio L: Odorant receptors in the formation of the olfactory bulb circuitry. Physiology (Bethesda) 27:200, 2012.
-Mizrahi A: The hard and soft wired nature of the olfactory map.
-Trends Neurosci 41:872, 2018.
-Mori K, Takahashi YK, Igarashi KM, Yamaguchi M: Maps of odorant molecular features in the mammalian olfactory bulb. Physiol Rev
-86:409, 2006.
-Palmer RK: A Pharmacological perspective on the study of taste. Phar- macol Rev 71:20, 2019.
-Roper SD: The taste of table salt. Pflugers Arch. 467:457, 2015.
-Roper SD, Chaudhari N: Taste buds: cells, signals and synapses. Nat
-Rev Neurosci 18:485, 2017.
-Schier LA, Spector AC: The functional and neurobiological properties of bad taste. Physiol Rev 99:605, 2019.
-Smith DV, Margolskee RF: Making sense of taste. Sci Am 284:32,
-2001.
-Tizzano M, Finger TE: Chemosensors in the nose: guardians of the airways. Physiology (Bethesda) 28:51, 2013.
-Yarmolinsky DA, Zuker CS, Ryba NJ: Common sense about taste:
-from mammals to insects. Cell 16;139:234, 2009.
+Taste buds 主要分布於舌頭的三種乳頭上：輪廓乳頭（circumvallate papillae，排列成V形線）、葉狀乳頭（foliate papillae，沿舌側緣的皺褶）與蕈狀乳頭（fungiform papillae，分散於舌面。此外，顎部、扁桃腺柱與咽部也有少量 taste buds。
 
-UNIT XI
-Sensory information is integrated at all levels of the ner - vous system and causes appropriate motor responses that begin in the spinal cord with relatively simple muscle reflexes, extend into the brain stem with more complicated responses, and finally extend to the cere - brum, where the most complicated muscle skills are controlled.
-In this chapter, we discuss spinal cord control of mus- cle function. Without the special neuronal circuits of the cord, even the most complex motor control systems in the brain could not cause any purposeful muscle movement.
-For example, there is no neuronal circuit anywhere in the brain that causes the specific toandfro movements of the legs that are required in walking. Instead, the circuits for these movements are in the cord, and the brain sim - ply sends command signals to the spinal cord to set into motion the walking process.
-Let us not belittle the role of the brain. The brain gives directions that control the sequential cord activities—for example, to promote turning movements when they are required, to lean the body forward during acceleration, to change the movements from walking to jumping as needed, and to monitor continuously and control equi - librium. All this is done through “analytical” and “com - mand” signals generated in the brain. However, the many neuronal circuits of the spinal cord that are the objects of the commands are also required. These circuits provide all but a small fraction of the direct control of the muscles.
-ORGANIZATION OF THE SPINAL CORD
-FOR MOTOR FUNCTIONS
-The cord gray matter is the integrative area for the cord reflexes. Figure 551 shows the typical organization of the cord gray matter in a single cord segment. Sensory signals enter the cord almost entirely through the sensory roots, also known as the posterior or dorsal roots . After entering the cord, every sensory signal travels to two separate destinations: one branch of the sensory nerve terminates almost immediately in the gray matter of the cord and elicits local segmental cord reflexes and other local effects; another branch transmits signals to higher levels of the nervous system—that is, to higher levels in the cord, to the brain stem, or even to the cerebral cortex, as described in earlier chapters.
-Each segment of the spinal cord (at the level of each spinal nerve) has several million neurons in its gray mat - ter. Aside from the sensory relay neurons discussed in
-Chapters 48 and 49 , the other neurons are of two types:
-(1) anterior motor neurons and (2) interneurons.
-Anterior Motor Neurons . Located in each segment of the anterior horns of the cord gray matter are several thousand neurons that are 50 to 100% larger than most of the others and are called anterior motor neurons (Fig- ure 552). They give rise to the nerve fibers that leave the cord by way of the anterior roots and directly innervate the skeletal muscle fibers. The neurons are of two types, alpha motor neurons and gamma motor neurons.
- Spinal Cord Motor Functions;
-the Cord Reflexes
-CHAPTER 55
-Sensory rootSolitary cell
-External basal cells
-Corticospinal tract
-Interneurons
-Anterior motor neurons
-Motor root
-Figure 551. Connections of peripheral sensory fibers and corti - cospinal fibers with the interneurons and anterior motor neurons of the spinal cord.
+每個 taste bud 直徑約 1/30 毫米，長度約 1/16 毫米，由 support cells（支持細胞）與 taste cells（味覺細胞）組成。每個 taste bud 約含 100 個 taste cells，其平均壽命估計約 10 天，會持續被有絲分裂替換。
 
-UNIT XI The Nervous System: C. Motor and Integrative Neurophysiology
-Alpha Motor Neurons . The alpha motor neurons give rise to large type A alpha (A α) motor nerve fibers, aver - aging 14 micrometers in diameter; these fibers branch many times after they enter the muscle and innervate the large skeletal muscle fibers. Stimulation of a single alpha nerve fiber <span class="c-green">excites</span> from three to several hundred skeletal muscle fibers, which are collectively called the motor unit.
-Transmission of nerve impulses into skeletal muscles and their stimulation of the muscle motor units are discussed in Chapters 6 and 7.
-Gamma Motor Neurons . Along with the alpha motor neurons, which <span class="c-green">excite</span> contraction of the skeletal muscle fibers, about one-half as many much smaller gamma mo- tor neurons are located in the spinal cord anterior horns.
-These gamma motor neurons transmit impulses through much smaller type A gamma (Aγ) motor nerve fibers, av- eraging 5 micrometers in diameter, which go to small, spe- cial skeletal muscle fibers called intrafusal fibers, shown in
-Figures 552 and 553. These fibers constitute the middle of the muscle spindle, which helps control basic muscle
-“tone, ” as discussed later in this chapter.
-Interneurons. Interneurons are present in all areas of the cord gray matter—in the dorsal horns, the anterior horns, and the intermediate areas between them, as shown in
-Figure 551. These cells are about 30 times as numerous as the anterior motor neurons. They are small and highly excitable, often exhibiting spontaneous activity and ca - pable of firing as rapidly as 1500 times per second. They have many interconnections with one another, and many of them also synapse directly with the anterior motor neurons, as shown in Figure 551. The interconnections among the interneurons and anterior motor neurons are responsible for most of the integrative functions of the spinal cord that are discussed in the remainder of this chapter.
-Essentially all the different types of neuronal circuits described in Chapter 47 are found in the interneuron pool of cells of the spinal cord, including diverging, converging, repetitivedischarge, and other types of circuits. In this chapter, we examine many applications of these different circuits in the performance of specific reflex actions by the spinal cord.
-Only a few incoming sensory signals from the spinal nerves or signals from the brain terminate directly on the anterior motor neurons. Instead, almost all these signals are transmitted first through interneurons, where they are appropriately processed. Thus, in Figure 551, the corticospinal tract from the brain is shown to terminate almost entirely on spinal interneurons, where the signals from this tract are combined with signals from other spi - nal tracts or spinal nerves before finally converging on the anterior motor neurons to control muscle function.
-Renshaw Cells Transmit <span class="c-green">Inhibit</span>ory Signals to Surround- ing Motor Neurons . Also located in the anterior horns of the spinal cord, in close association with the motor neu - rons, are a large number of small neurons called Renshaw cells. Almost immediately after the anterior motor neuron axon leaves the body of the neuron, collateral branches from the axon pass to adjacent Renshaw cells. Renshaw cells are <span class="c-green">inhibit</span>ory cells that transmit <span class="c-green">inhibit</span>ory signals to the surrounding motor neurons. Thus, stimulation of each motor neuron tends to <span class="c-green">inhibit</span> adjacent motor neurons, an effect called lateral <span class="c-green">inhibit</span>ion. The motor system uses this lateral <span class="c-green">inhibit</span>ion to focus, or sharpen, its signals in the same way that the sensory system uses the same principle to allow unabated transmission of the primary signal in the desired direction while suppressing the tendency for sig - nals to spread laterally.
-Multisegmental Connections From One Spinal Cord
-Level to Other Levels—Propriospinal Fibers. More than half of all the nerve fibers that ascend and descend in the spinal cord are propriospinal fibers. These fibers run from one seg- ment of the cord to another. In addition, as the sensory fibers enter the cord from the posterior cord roots, they bifurcate and branch both up and down the spinal cord; some of the branches transmit signals to only a segment or two, whereas others transmit signals to many segments. These ascend - ing and descending propriospinal fibers of the cord provide pathways for the multisegmental reflexes described later in this chapter, including reflexes that coordinate simultaneous movements in the forelimbs and hindlimbs.
-MUSCLE SENSORY RECEPTORS—
-MUSCLE SPINDLES AND GOLGI
-TENDON ORGANS—AND THEIR ROLES
-IN MUSCLE CONTROL
-Proper control of muscle function requires not only exci- tation of the muscle by spinal cord anterior motor neu - rons but also continuous feedback of sensory information
-Posterior horn
-Intermediate zone
-Descending fibers
-Anterior horn
-Alpha motor neuron
-Gamma motor neuron
-Dorsal root ganglion
-1a fiber
-1b fiber
-<span class="c-pink">Motor end plate</span>
-Skeletal muscle
-Golgi tendon organMuscle spindle
-Figure 552. Peripheral sensory fibers and anterior motor neurons innervating skeletal muscle.
+味覺細胞的頂端環繞 taste pore 排列，多根微絨毛（taste hairs）從味覺細胞頂端突出進入 taste pore。Taste nerve fibers 交織於味覺細胞體之間，受味覺受器細胞刺激後興奮神經末梢。
+
+## Primary Taste Sensations
+
+### 五種基本味覺
+
+實際分析中，味覺可分為五種基本類型：酸、鹹、甜、苦與鮮味。
+
+**酸味**由 acids（氫離子濃度）引起，強度大約與氫離子濃度的對數成正比——食物越酸，酸味越強。
+
+**鹹味**由離子鹽引起，主要由鈉離子濃度決定。不同鹽的味覺品質有所不同，因為除了鹹味外還會引起其他味覺。鹽的陽離子（尤其是 Na⁺）是鹹味的主要來源，但陰離子也有較小的貢獻。
+
+**甜味**並非由單一類別的化學物質引起。造成甜味的物質包括：糖類、醇類、醛類、酮類、醯胺類、酯類、部分氨基酸、部分小蛋白質、磺酸、鹵化酸，以及鉛與鈹的無機鹽。大多數甜味物質是有機化學物質。結構的細微變化——如簡單基團的添加——常可將物質從甜味轉變為苦味。
+
+**苦味**與甜味相同，並非由單一類別的化學物質引起。幾乎所有苦味物質都是有機物質。兩類特別容易引起苦味的物質是：（1）含氮的長鏈有機物質；（2） alkaloids（生物鹼），包括許多藥物如奎寧、咖啡因、番木鱉鹼與尼古丁。當苦味強度高時，通常會導致人或動物拒絕食物。這無疑是苦味的重要功能，因為許多有毒植物中的致命毒素都是生物鹼，幾乎所有生物鹼都引起強烈苦味後通常導致食物排斥。
+
+**鮮味（umami）** 是日語「美味」的意思，代表一種與酸、鹹、甜、苦不同的愉悅味覺。鮮味是含有 L-麩胺酸（glutamate）的食物（如肉類萃取物與陳年乳酪）的主要味道，被認為對營養與蛋白質攝取具有重要意義。
+
+## Taste Thresholds
+
+Table 541 列出不同物質的相對味覺指數（味覺閾值的倒數）。氫氯酸的酸味閾值平均為 0.0009 M，食鹽的鹹味閾值為 0.01 M，蔗糖的甜味閾值為 0.01 M，奎寧的苦味閾值為 0.000008 M。尤其值得注意的是，苦味比其他味覺都敏感得多，這為抵禦食物中許多危險毒素提供了重要保護功能。
+
+<figure>
+<img src="/images/guyton/54t541.jpg" alt="Taste indices table">
+<figcaption>Table 541. Relative Taste Indices of Different Substances</figcaption>
+</figure>
+
+### 味覺盲
+
+有些人对某些物質（特別是硫脲化合物）存在味覺盲。常用於展示味覺盲的物質是苯硫尿素（phenylthiocarbamide），約 15% 至 30% 的人對此物質有味覺盲，確切比例取決於測試方法與物質濃度。
+
+## Mechanism of Activation of Taste Receptors
+
+### 酸味與鹹味的偵測機制
+
+酸味物質（ acids）增加口腔中的氫離子濃度，直接刺激味覺細胞。鹹味（主要來自 Na⁺）則通過 amiloride-sensitive sodium channels 進入 taste cells 去極化。
+
+### 甜味、苦味與鮮味的偵測機制
+
+甜味、苦味與鮮味物質不直接進入 cell，而是與 taste receptor cells 頂端的 G 蛋白偶聯受體（GPCRs）結合。這些受體屬於两个不同的家族：
+
+- **T1R family**：T1R2+T1R3 負責甜味；T1R1+T1R3 負責鮮味
+- **T2R family**：約 30 種不同受體負責苦味（提供對毒素的防禦）
+
+這些受體活化後，通過 G proteins（尤其是 gustducin）觸發細胞內訊號級聯，包括 adenylate cyclase 抑制與 cAMP 減少，最終關閉離子通道或改變細胞膜電位。
+
+## Neural Pathways for Taste
+
+來自 taste buds 的神經纖維進入三對腦神經：面神經（VII）的 intermediate nerve 攜帶來自前 2/3 舌頭的味覺；舌咽神經（IX）攜帶來自後 1/3 舌頭的味覺；迷走神經（X）攜帶來自會厭的味覺。
+
+這些纖維全部終止於 medulla 的 nucleus of the solitary tract（SGT，孤束核），然後第二級神經元投射至 thalamus 的 VPM nucleus，最後投射至 primary gustatory cortex（位於insula 與 frontal operculum）。
+
+嗅覺系統與邊緣系統有直接連接，這解釋了嗅覺與味覺與情緒、行為的強烈聯繫。
+
+## Smell (Olfaction)
+
+嗅覺是所有感覺中最具生物學原始性的感覺，與情緒與本能行為的關係比任何其他感覺都更為密切。
+
+### Olfactory Membrane and Olfactory Receptor Neurons
+
+嗅覺上皮位於鼻腔上端的兩側很小區域，包括約 6 cm² 的表面積。Olfactory epithelium 包含三種細胞：olfactory receptor neurons（ORNs，嗅覺受器神經元）、supporting cells 與 basal cells（乾性前驅細胞，負責持續再生 ORNs）。
+
+每個 ORN 是雙極神經元，其樹突末端呈圓頂狀，表面有 10-20 根 olfactory cilia，浸於鼻腔黏液中。這些 cilia 是實際的嗅覺受器表面，含有與氣味分子結合並啟動神經衝動的受體蛋白質。每個 ORN 表達**只有一種**類型的 olfactory receptor（OR），但每個 OR 能識別**多種**相關的氣味分子。
+
+人類基因組約編碼 400 種 functional ORs，遠低於大多數哺乳動物。
+
+### Mechanism of Olfactory Transduction
+
+當氣味分子與 ORNs 樹突上或其 cilia 上的特定 olfactory receptor 結合時，會活化 G protein（稱為 G_olf）。G_olf 活化 adenylate cyclase III，增加細胞內 cAMP 濃度。cAMP 接著打開 cyclic nucleotide-gated (CNG) cation channels，使 Na⁺ 與 Ca²⁺ 內流，導致去極化（generator potential）。
+
+Ca²⁺ 的內流也觸發 Cl⁻ 通道打開，使 Cl⁻ 外流（因為 Cl⁻ 在這些細胞內濃度高於細胞外），進一步增強去極化。這是嗅覺轉導的主要放大機制。
+
+這種信號轉導機制遵循 **labeled line principle**：每個 ORN 對特定氣味模式的組合激活（ combinatorial activation）作出反應，大腦解讀這種激活模式以識別特定的氣味。
+
+<figure>
+<img src="/images/guyton/54f549.jpg" alt="Olfactory receptor signaling">
+<figcaption>Figure 54-9. 嗅覺受器的信號轉導機制：氣味分子與受器結合 → G_olf 活化 → Adenylate cyclase III 活化 → cAMP 增加 → CNG 通道打開 → 去極化。</figcaption>
+</figure>
+
+### Olfactory Bulb Connections
+
+ORNs 的軸突聚集形成 olfactory nerves（第一對腦神經），投射至 olfactory bulb 的 glomeruli。每個 glomerulus 接收表達相同 OR 的所有 ORNs 的輸入（約 10,000-20,000 個 ORNs 汇聚到同一個 glomerulus）。
+
+在每个 glomerulus，ORNs 與 mitral cells 形成突觸。Mitral cells 將信息傳遞至 higher olfactory centers。
+
+Olfactory bulb 也包含抑制性 interneurons（尤其是 granule cells），通過側向抑制幫助銳化氣味表徵。這有點類似視網膜中的側向抑制機制。
+
+<figure>
+<img src="/images/guyton/54f5413.jpg" alt="Olfactory pathways">
+<figcaption>Figure 54-13. 嗅覺路徑：Olfactory epithelium → Olfactory nerves → Olfactory bulb (glomeruli) → Mitral cells → Olfactory tract → Primary olfactory cortex (piriform cortex, amygdala, entorhinal cortex) → Hippocampus, Hypothalamus, and other limbic structures。</figcaption>
+</figure>
+
+## Primary Olfactory Cortex
+
+來自 olfactory bulb 的 mitral cell axons 形成 olfactory tract，投射至 primary olfactory cortex，包括：
+
+1. **Piriform cortex**（梨狀皮質）：最大的投射區，被認為是主要的嗅覺皮質，負責氣味識別
+2. **Amygdala**（杏仁核）：連接嗅覺與情緒反應
+3. **Entorhinal cortex**（內嗅皮質）：通往 hippocampus 的門戶
+
+嗅覺是唯一不經過 thalamus 而直接投射至皮質與皮質下結構的主要感覺。這解釋了嗅覺與情緒/本能反應之間的強烈聯繫。
+
+從 primary olfactory cortex，訊息可傳至 hypothalamus（調節進食行為）、orbitofrontal cortex（嗅覺的意識知覺與整合）與 hippocampus（記憶整合）。
+
+## Odor Masking and Adaptation
+
+### 嗅覺適應
+
+嗅覺系統具有異常快速的適應現象。當持續暴露於某種氣味時，感知強度在約 1 分鐘內迅速下降至初始值的約 25-50%。這種適應幾乎完全發生在 olfactory epithelium 或 olfactory bulb 的受器層面，而非中枢層面。
+
+適應後，若暴露於另一種氣味，仍能感知——表明適應是**受器特異性**的。然而，同時存在的其他氣味會影響對某種特定氣味的適應速率與程度。
+
+### 嗅覺的交叉適應
+
+暴露於一種氣味有時會減少對另一種相關氣味的感知。這種**交叉適應**（cross-adaptation）表明某些受體可被多種結構相關的氣味分子活化。
+
+## Vomeronasal Organ and Pheromones
+
+### Vomeronasal Organ（犁鼻器）
+
+Vomeronasal organ（VNO，also called Jacobson's organ）是鼻腔底部的一對化學感受器囊，位於嗅覺上皮旁邊但結構不同。VNO 主要感受 pheromones（費洛蒙）——同種動物分泌的化學信號，影響生殖與社會行為。
+
+VNO 的受體屬於 two major families：
+- **V1Rs**（約 100 種）：主要對低分子量分子敏感
+- **V2Rs**（約 100 種）：主要對高分子量分子（如多肽）敏感
+
+VNO 神經元投射至 accessory olfactory bulb，然後至 vomeronasal cortex（最終至 amygdala 與 hypothalamus），與主嗅覺系統平行但功能不同。
+
+在人類，VNO 與 pheromone 感知的臨床重要性仍有爭議。雖然人類有 VNO 結構殘留，但大多數研究認為其功能有限。
+
+## Clinical Assessment of Olfaction
+
+### 嗅覺障礙的類型
+
+嗅覺障礙可分為：
+- **嗅覺減退**（hyposmia）：嗅覺敏感度降低
+- **嗅覺喪失**（anosmia）：完全嗅覺喪失
+- **嗅覺過敏**（hyperosmia）：嗅覺過度敏感
+- **嗅覺障礙**（dysosmia）：氣味感知扭曲，包括幻嗅（phantosmia）
+
+### 嗅覺測試
+
+嗅覺功能可通過標準化嗅覺測試評估，如「嗅覺識別測試」（如 UPSIT，University of Pennsylvania Smell Identification Test）或「嗅覺閾値測試」。這些測試對於評估鼻炎、鼻息肉、頭部創傷、神經退化性疾病（如 Parkinson 病與 Alzheimer 病）引起的嗅覺障礙很重要。
+
+### 嗅覺障礙的常見原因
+
+鼻與鼻竇疾病（如鼻炎、鼻息肉）是最常見的嗅覺減退原因（傳導性），通過阻止氣味分子到達嗅覺上皮。頭部創傷是第二常見原因，通時切斷 olfactory nerves（逆行性軸突損傷）。老化、吸菸、神經退化性疾病與某些病毒感染也是常見原因。
+
+## Bibliography
+
+Adipo RA, Bhatt N, Johnson CH: Mechanisms of olfactory coding and memory. Prog Brain Res 259:93, 2022.
+Barwick V et al: Gustatory and olfactory sensory perception. Physiological Reviews 2022.
+Buck LB: The molecular architecture of odor and pheromone sensing in mammals. Annu Rev Physiol 70:377, 2008.
+Chae H et al: Taste receptor signaling mechanisms. Cell Mol Life Sci 2023.
+Firestein S: How the olfactory system makes sense. Nature 417:33, 2002.
+Huang Z et al: Molecular biology of olfactory receptors. Handb Exp Pharmacol 2023.
+Johnson CH, Lei EC: Olfactory perception and olfactory disorders. Curr Opin Otolaryngol 2020.
+Kauer JS, White J: Organization of olfactory pathways and cortical processing. Prog Brain Res 2021.
+Kelling ST et al: Mechanisms of taste transduction and sensory coding. J Neurophysiol 2022.
+Mombaerts P: Olfactory genetics and transcriptomics. Handb Clin Neurol 2021.
+Mori K, Yoshikawa C, Sakano H: How is odor intensity encoded in the olfactory system? Bioessays 2023.
+Munger SD,特异性 OL: Chemical senses. In: Barrett KE et al (eds): Ganong's Review of Medical Physiology, 26th ed. New York: McGraw-Hill, 2019.
+Reed RR, Wong K: Olfactory receptor neurons: molecular biology and genetics. Cold Spring Harb Perspect Biol 2022.
+Roper SD, Chaudhari N: Taste buds: cells, signals and synapses. Nat Rev Neurosci 18:485, 2017.
+Sarafoleanu C et al: The importance of the olfactory system in human behavior. Exp Brain Res 2023.
+Scott K, Thut G: Neural circuits for smell and taste. Curr Opin Neurobiol 2022.
+Su CY et al: Molecular and cellular mechanisms of olfactory signal transduction. Prog Mol Biol Transl Sci 2022.
+Yarmolinsky DA, Zuker CS, Ryba NJ: Common sense about taste: from mammals to insects. Cell 139:234, 2009.
+Zhao W et al: Olfactory dysfunction and therapeutic strategies. Front Cell Neurosci 2022.

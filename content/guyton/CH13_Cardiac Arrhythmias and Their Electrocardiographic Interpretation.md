@@ -7,413 +7,194 @@ summary: "Chapter 13 from Guyton & Hall Textbook of Medical Physiology, 14th Edi
 key_points:
   - "Content extracted directly from official Guyton & Hall PDF source"
 ---
----
 
-UNIT III
-is defined as a delay of conduction from the atria to the ventricles but not actual <span class="c-green">block</span>age of conduction. The P-R interval seldom increases above 0.35 to 0.45 second because, by that time, conduction through the A-V bundle is depressed so much that conduction stops entirely. One means for determining the severity of some heart diseases, such as acute rheumatic heart disease, for example, is to measure the P-R interval.
+UNIT III CARDIAC ARRHYTHMIAS AND THEIR ELECTROCARDIOGRAPHIC INTERPRETATION
 
-**Second-Degree <span class="c-green">Block</span>.** When conduction through the A-V bundle is slowed enough to increase the P-R interval to 0.25 to 0.45 second, the <span class="c-yellow">action potential</span> is sometimes strong enough to pass through the bundle into the ventricles and sometimes not strong enough to do so. In this case, there will be an atrial P wave but no QRS-T wave, and it is said that there are "dropped beats" of the ventricles. This condition is called second-degree heart <span class="c-green">block</span>.
+## 章節導讀
 
-There are two types of second-degree A-V <span class="c-green">block</span>—Mobitz type I (also known as Wenckebach periodicity) and Mobitz type II. Type I <span class="c-green">block</span> is characterized by progressive prolongation of the P-R interval until a ventricular beat is dropped and is then followed by resetting of the P-R interval and repeating of the abnormal cycle. A type I <span class="c-green">block</span> is almost always caused by abnormality of the A-V node. In most cases, this type of <span class="c-green">block</span> is benign, and no specific treatment is needed.
+心律不整（cardiac arrhythmia）是臨床上最常見的心臟電氣異常，其成因多元，包括節律點本身異常、節律點移位、傳導阻斷、異常傳導途徑以及異位自發放電。本章系統性地說明各類心律不整的電生理機制與心電圖判讀重點：從竇性心律的輕度異常（tachycardia、bradycardia、sinus arrhythmia）到房室傳導阻斷（從第一度到完全阻斷），再到異位收縮（premature contractions）、paroxysmal tachycardia、ventricular fibrillation等危及生命的情況。讀者應特別理解re-entry與circus movement的機制，因為這是心室顫動與心房顫動的共同病理生理基礎。最後，本章也說明各種心律不整的治療原則（如defibrillation、CPR與人工心律調節器）。
 
-In type II <span class="c-green">block</span>, there is usually a fixed number of non-conducted P waves for every QRS complex. For example, a 2:1 <span class="c-green">block</span> implies that there are two P waves for every QRS complex. At other times, rhythms of 3:2 or 3:1 may develop. In contrast to type I <span class="c-green">block</span>, with type II <span class="c-green">block</span> the P-R interval does not change before the dropped beat; it remains fixed. Type II <span class="c-green">block</span> is generally caused by an abnormality of the bundle of His-Purkinje system and may require implantation of a pacemaker to prevent progression to complete heart <span class="c-green">block</span> and cardiac arrest.
+## 竇性心律異常
 
-Figure 13-6 shows progressive P-R interval prolongation typical of type I (Wenckebach) <span class="c-green">block</span>. Note prolongation of the P-R interval preceding the dropped beat, followed by a shortened P-R interval after the dropped beat.
+### 竇性心搏過速（Sinus Tachycardia）
 
-**Complete A-V <span class="c-green">Block</span> (Third-Degree <span class="c-green">Block</span>).** When the condition causing poor conduction in the A-V node or A-V bundle becomes severe, complete <span class="c-green">block</span> of the impulse from the atria into the ventricles occurs. In this case, the ventricles spontaneously establish their own signal, usually originating in the A-V node or A-V bundle distal to the <span class="c-green">block</span>. Therefore, the P waves become dissociated from the QRS-T complexes, as shown in Figure 13-7.
+成人心率超過100 beats/min即為tachycardia（圖13-1）。常見原因包括：發燒（體溫每升高1°C約增加18 beats/min）、脫水、失血、交感神經刺激及心肌毒性狀態。交感神經刺激心臟使竇房結放電頻率加快；發燒則直接增加竇房結的代謝速率而提高其興奮性。
 
-Note that the rate of rhythm of the atria in this ECG is about 100 beats/min, whereas the rate of ventricular beat is less than 40 beats/min. Furthermore, there is no relationship between the rhythm of the P waves and that of the QRS-T complexes because the ventricles have "escaped" from control by the atria and are beating at their own natural rate, controlled most often by rhythmical signals generated distal to the A-V node or A-V bundle where the <span class="c-green">block</span> occurs.
+### 竇性心搏過緩（Sinus Bradycardia）
 
-**Stokes-Adams Syndrome—Ventricular Escape.** In some patients with A-V <span class="c-green">block</span>, the total <span class="c-green">block</span> comes and goes; that is, impulses are conducted from the atria into the ventricles for a period of time and then, suddenly, impulses are not conducted. The duration of <span class="c-green">block</span> may be a few seconds, a few minutes, a few hours, or even weeks or longer before conduction returns. This condition occurs in hearts with borderline ischemia of the conductive system.
+心率少於60 beats/min即為bradycardia（圖13-2）。
 
-Each time A-V conduction ceases, the ventricles often do not start their own beating until after a delay of 5 to 30 seconds. This delay results from the phenomenon called overdrive suppression. Overdrive suppression means that ventricular excitability is at first <span class="c-green">suppressed</span> because the ventricles have been driven by the atria at a rate greater than their natural rate of rhythm. However, after a few seconds, some part of the Purkinje system beyond the <span class="c-green">block</span>, usually in the distal part of the A-V node beyond the <span class="c-green">block</span>ed point in the node, or in the A-V bundle, begins discharging rhythmically at a rate of 15 to 40 times/min, acting as the pacemaker of the ventricles. This phenomenon is called ventricular escape.
+運動員心搏過緩的原因：運動員心臟較大、收縮力更強，安靜時每次心搏輸出量大，血壓偏高經壓力感受器反射使心率減慢。
 
-Because the brain cannot remain active for more than 4 to 7 seconds without blood supply, most people faint a few seconds after complete <span class="c-green">block</span> occurs because the heart does not pump any blood for 5 to 30 seconds, until the ventricles "escape." After escape, however, the slowly beating ventricles (typically beating less than 40 beats/min) usually pump enough blood to allow rapid recovery from the faint and then to sustain the person. These periodic fainting spells (syncope) are known as the Stokes-Adams syndrome.
+**迷走神經刺激**：頸動脈竇症候群（carotid sinus syndrome）患者，頸动脉竇的壓力受器（baroreceptor）過度敏感，輕壓頸部即可引發強烈的迷走神經-乙醯膽鹼效應，導致極端心搏過緩，甚至心臟停頓5–10秒而造成暈厥（syncope）。
 
-Occasionally, the interval of ventricular standstill at the onset of complete <span class="c-green">block</span> is so long that it becomes detrimental to the patient's health or even causes <span class="c-red">death</span>. Consequently, most of these patients are provided with an artificial pacemaker, a small battery-operated electrical stimulator planted beneath the skin, with electrodes usually connected to the right ventricle. The pacemaker provides continued rhythmical impulses to the ventricles.
+### 竇性心律不整（Sinus Arrhythmia）
 
-**INCOMPLETE INTRAVENTRICULAR <span class="c-green">BLOCK</span>—ELECTRICAL ALTERNANS**
+圖13-3為心率記錄儀（cardiotachometer）所記錄的心率變化。正常呼吸時心率變異不超過5%；深呼吸時心率隨呼吸週期變化可達30%。這是因為呼吸中樞的信號溢入相鄰的血管運動中樞，交替增強交感與迷走神經對心臟的影響。
 
-Most of the same factors that can cause A-V <span class="c-green">block</span> can also <span class="c-green">block</span> impulse conduction in the peripheral ventricular Purkinje system. Figure 13-8 shows the condition known as electrical alternans, which results from partial intraventricular <span class="c-green">block</span> every other heartbeat. This ECG also shows tachycardia (rapid heart rate), which is probably the reason the <span class="c-green">block</span> has occurred. This is because when the rate of the heart is rapid, it may be impossible for some portions of the Purkinje system to recover from the previous refractory period quickly enough to respond during every succeeding heartbeat. Also, many conditions that depress the heart, such as ischemia, myocarditis, or digitalis toxicity, can cause incomplete intraventricular <span class="c-green">block</span>, resulting in electrical alternans.
+## 心室內傳導阻斷
 
-**PREMATURE CONTRACTIONS**
+### 竇房結傳導阻斷（Sinoatrial Block）
 
-A premature contraction is a contraction of the heart before the time that normal contraction would have been expected. This condition is also called extrasystole, premature beat, or ectopic beat.
+竇房結的興奮衝動有時在進入心房肌之前即被阻斷（圖13-4），此時P波突然消失，心房停頓，但心室通常由房室結接替節律點，故QRS-T波群頻率減慢但形態正常。SA block可由影響竇房結的缺血、炎症或藥物引起，也可見於訓練有素的運動員。
 
-**Causes of Premature Contractions**
+### 房室傳導阻斷（Atrioventricular Block）
 
-Most premature contractions result from ectopic foci in the heart, which emit abnormal impulses at odd times during the cardiac rhythm. Possible causes of ectopic foci are as follows:
+房室結（又稱bundle of His）是心房興奮進入心室的唯一正常通道。多種情況可減慢或阻斷此處的傳導：
 
-1. Local areas of ischemia
-2. Small calcified plaques at different points in the heart, which press against the adjacent cardiac muscle so that some of the fibers are irritated
-3. Toxic irritation of the A-V node, Purkinje system, or myocardium caused by infection, drugs, nicotine, or caffeine
+1. 房室結或His束缺血（如冠狀动脉供血不足）
+2. 疤痕組織或鈣化對傳導路徑的壓迫
+3. 心肌炎（白喉、風濕熱等）引起的炎症
+4. 強烈迷走神經刺激（如頸动脉竇反射過強）
+5. 傳導系統退化（老年患者）
+6. 毛地黃或β-受體阻斷劑等藥物
 
-The mechanical initiation of premature contractions is also frequent during cardiac catheterization; large numbers of premature contractions often occur when the catheter enters the ventricle and presses against the endocardium.
+### 不完全性房室傳導阻斷
 
-**Premature Atrial Contractions**
+**第一度房室傳導阻斷**：P-R間期延長超過0.20秒，但每個P波後均有QRS波群跟隨（圖13-5）。此類阻斷代表傳導延遲但不中斷。
 
-Figure 13-9 shows a single premature atrial contraction (PAC). The P wave of this beat occurred too soon in the heart cycle; the P-R interval is shortened, indicating that the ectopic origin of the beat is in the atria near the A-V node. Also, the interval between the premature contraction and the next succeeding contraction is slightly prolonged, which is called a compensatory pause. One of the reasons for this compensatory pause is that the premature contraction originated in the atrium some distance from the sinus node, and the impulse had to travel through a considerable amount of atrial muscle before it discharged the sinus node. Consequently, the sinus node discharged late in the premature cycle, which made the succeeding sinus node discharge also late in appearing.
+**第二度房室傳導阻斷**：P-R間期延長到足以使部分心房興奮無法傳至心室，導致心室「漏跳」（dropped beats）。有兩種亞型：
 
-PACs occur frequently in otherwise healthy people. They often occur in athletes whose hearts are in a very healthy condition. Mild toxic conditions resulting from such factors as smoking, lack of sleep, ingestion of too much coffee, alcoholism, and use of various drugs can also initiate such contractions.
+- **Mobitz type I（Wenckebach週期）**：P-R間期漸進性延長，直至一次漏跳，之後週期重複（圖13-6）。幾乎均由房室結病變引起，通常良性。
+- **Mobitz type II**：P-R間期固定不變，心房興奮規律地每2至數個才有一個傳至心室（如2:1、3:1 block）。此類阻斷病變多位於His-Purkinje系統，可能需要安裝人工心律調節器。
 
-**Pulse Deficit.** When the heart contracts ahead of schedule, the ventricles will not have filled with blood normally, and the stroke volume output during that contraction is depressed or is almost absent. Therefore, the pulse wave passing to the peripheral arteries after a premature contraction may be so weak that it cannot be felt in the radial artery. Thus, a deficit in the number of radial pulses occurs when compared with the actual number of contractions of the heart.
+**完全性房室傳導阻斷（第三度阻斷）**：房室傳導完全中斷，心房與心室各自獨立跳動（圖13-7）。心房率約100 beats/min，心室率少於40 beats/min。QRS-T波群與P波完全無關。
 
-**A-V Nodal or A-V Bundle Premature Contractions**
+**Stokes-Adams症候群——心室逃脫**：完全性AV block時，心室需數秒至30秒才能由Purkinje系統接手節律點（overdrive suppression後的恢復），此段心室停頓期間大腦缺血，4–7秒內即失去意識。穩定後，心室以15–40 beats/min的頻率跳動，足以維持意識，但心輸出量不足。此類患者需植入人工心律調節器。
 
-Figure 13-10 shows a premature contraction that originated in the A-V node or A-V bundle. The P wave is missing from the electrocardiographic record of the premature contraction. Instead, the P wave is superimposed onto the QRS-T complex because the cardiac impulse traveled backward into the atria at the same time that it traveled forward into the ventricles. This P wave slightly distorts the QRS-T complex, but the P wave itself cannot be discerned as such. In general, A-V nodal premature contractions have the same significance and causes as atrial premature contractions.
+### 心室內不完全傳導阻斷—— Electrical Alternans
 
-**Premature Ventricular Contractions**
+部分心室Purkinje傳導受損可導致每兩個心跳交替出現傳導異常（圖13-8）。Tachycardia時更容易發生，因為心率加快使部分傳導路徑來不及脫離上次不反應期。心肌缺血、心肌炎、毛地黃中毒等也可引起。
 
-The ECG in Figure 13-11 shows a series of premature ventricular contractions (PVCs) alternating with normal contractions in a pattern known as bigeminy. PVCs cause specific effects in the ECG, as follows:
+## 過早收縮（Premature Contractions）
 
-1. **The QRS complex is usually considerably prolonged.** The reason for this prolongation is that the impulse is conducted mainly through slowly conducting muscle of the ventricles rather than through the Purkinje system.
-2. **The QRS complex has a high voltage.** When the normal impulse passes through the heart, it passes through both ventricles nearly simultaneously. Consequently, in the normal heart, the depolarization waves of the two sides of the heart—mainly of opposite polarity to each other—partially neutralize each other in the ECG. When a PVC occurs, the impulse almost always travels in only one direction, so there is no such neutralization effect, and one entire side or end of the ventricles is depolarized ahead of the other, which causes large electrical potentials, as shown for the PVCs in Figure 13-11.
-3. **After almost all PVCs, the T wave has an electrical potential polarity exactly opposite to that of the QRS complex** because the slow conduction of the impulse through the cardiac muscle causes the muscle fibers that depolarize first also to repolarize first.
+過早收縮（extrasystole、premature beat或ectopic beat）指心臟在正常收縮預期時間之前提前跳動。
 
-Some PVCs are relatively benign in their effects on overall pumping by the heart; they can result from such factors as cigarettes, excessive intake of coffee, lack of sleep, various mild toxic states, and even emotional irritability. Conversely, many other PVCs result from stray impulses or re-entrant signals that originate around the borders of infarcted or ischemic areas of the heart. The presence of such PVCs is not to be taken lightly. People with significant numbers of PVCs often have a much higher than normal risk of developing spontaneous lethal ventricular fibrillation, presumably initiated by one of the PVCs. This development is especially true when the PVCs occur during the vulnerable period for causing fibrillation, just at the end of the T wave, when the ventricles are coming out of refractoriness, as explained later in this chapter.
+### 原因
 
-**Vector Analysis of the Origin of an Ectopic Premature Ventricular Contraction.** In Chapter 12, the principles of vectorial analysis are explained. By applying these principles, one can determine from the ECG in Figure 13-11 the point of origin of the PVC, as follows. Note that the potentials of the premature contractions in leads II and III are both strongly positive. On plotting these potentials on the axes of leads II and III and solving by vectorial analysis for the mean QRS vector in the heart, one finds that the vector of this premature contraction has its negative end (origin) at the base of the heart and its positive end toward the apex. Thus, the first portion of the heart to become depolarized during this premature contraction is near the base of the ventricles, which therefore is the origin of the ectopic focus.
+異位病灶（ectopic foci）在不當時機發出異常興奮：局部缺血、心臟钙化斑塊刺激、房室結/Purkinje系統/心肌的毒性刺激（感染、藥物、尼古丁、咖啡因）。心導管檢查時導管碰觸心內膜也可引發。
 
-**Disorders of Cardiac <span class="c-yellow">Repolarization</span>—the Long QT Syndromes.** Recall that the Q wave corresponds to ventricular <span class="c-yellow">depolarization</span>, whereas the T wave corresponds to ventricular <span class="c-yellow">repolarization</span>. The Q-T interval is the time from the Q point to the end of the T wave. Disorders that delay <span class="c-yellow">repolarization</span> of ventricular muscle after the action potential cause prolonged ventricular action potentials and therefore excessively long Q-T intervals on the ECG, a condition called long QT syndrome (LQTS).
+### 心房性過早收縮（Premature Atrial Contractions, PACs）
 
-The major reason that LQTS is of concern is that delayed <span class="c-yellow">repolarization</span> of ventricular muscle increases a person's susceptibility to developing ventricular arrhythmias called torsades de pointes, which literally means "twisting of the points." This type of <span class="c-red">arrhythmia</span> has the features shown in Figure 13-12. The shape of the QRS complex may change over time, with the onset of arrhythmia usually following a premature beat, a pause, and then another beat with a long Q-T interval, which may trigger arrhythmias, tachycardia and, in some cases, ventricular fibrillation.
+圖13-9：P波提早出現，P-R間期縮短（因異位起搏點靠近房室結）。異位興奮抵達竇房結後使其延遲放電，造成隨後的compensatory pause。PACs常見於健康人，特別是運動員，也可由輕度毒性狀態（吸菸、咖啡、酒精、睡眠不足）引發。
 
-Disorders of cardiac <span class="c-yellow">repolarization</span> that lead to LQTS may be inherited or acquired. The congenital forms of LQTS are rare disorders caused by mutations of sodium or potassium channel genes. At least 17 different mutations of these genes causing variable degrees of Q-T prolongation have been identified.
+**脈搏缺陷（pulse deficit）**：過早收縮時心室充盈不足，每搏輸出量明顯減少甚至近乎零，外周脈搏可能觸摸不到，臨床上脈搏數低於心電圖心率。
 
-More common are the acquired forms of LQTS that are associated with plasma electrolyte disturbances, such as hypomagnesemia, hypokalemia, or hypocalcemia, or with the administration of excess amounts of antiarrhythmic drugs such as quinidine or some antibiotics such as fluoroquinolones or erythromycin, which prolong the Q-T interval.
+### 房室結或房室束性過早收縮
 
-Although some people with LQTS exhibit no major symptoms (other than the prolonged Q-T interval), other people exhibit fainting and experience ventricular arrhythmias that may be precipitated by physical exercise, intense emotions such as fright or anger, or being startled by a noise. The ventricular arrhythmias associated with LQTS can, in some cases, deteriorate into ventricular fibrillation and sudden <span class="c-red">death</span>.
+圖13-10：P波消失，QRS-T波群正常但P波重疊其中（興奮逆向傳至心房的同時前向傳至心室）。臨床意義與PACs相似。
 
-Treatment may include magnesium sulfate for acute LQTS and antiarrhythmic medications such as beta-adrenergic <span class="c-green">block</span>ers or surgical implantation of a cardiac defibrillator for long-term LQTS.
+### 心室性過早收縮（Premature Ventricular Contractions, PVCs）
 
-**PAROXYSMAL TACHYCARDIA**
+圖13-11顯示bigeminy pattern（PVC與正常搏動交替）。PVCs的心電圖特徵：
 
-Some abnormalities in different portions of the heart, including the atria, Purkinje system, or ventricles, can occasionally cause rapid rhythmical discharge of impulses that spread in all directions throughout the heart. This phenomenon is believed to be caused most frequently by re-entrant circus movement feedback pathways that set up local repeated self-re-excitation. Because of the rapid rhythm in the irritable focus, this focus becomes the pacemaker of the heart.
+1. **QRS時限顯著延長**：因興奮主要靠心室肌的慢速傳導而非Purkinje系統。
+2. **QRS電壓升高**：單側心室先除極，缺乏電位中和效應，使電壓增大。
+3. **T波極性與QRS主波相反**：因先除極的心肌也先復極。
 
-The term paroxysmal means that the heart rate becomes rapid in paroxysms, with the paroxysm beginning suddenly and lasting for a few seconds, a few minutes, a few hours, or much longer. The paroxysm usually ends as suddenly as it began, with the pacemaker of the heart instantly shifting back to the sinus node.
+PVCs若為單源性且次數少，通常為良性，可由菸草、咖啡、缺乏睡眠、輕度毒性狀態引起。但若來自梗塞或缺血區域邊緣的異位病灶，則可能預示更高的致命性心室顫動風險。PVCs若落在T波終了的脆弱期（vulnerable period），更易觸發心室顫動。
 
-Paroxysmal tachycardia often can be stopped by eliciting a vagal reflex. A type of vagal reflex sometimes elicited for this purpose is to press on the neck in the regions of the carotid sinuses, which may cause enough of a vagal reflex to stop the paroxysm. Antiarrhythmic drugs may also be used to slow conduction or prolong the refractory period in cardiac tissues.
+### 長QT症候群（Long QT Syndromes, LQTS）
 
-**Paroxysmal Atrial Tachycardia**
+Q-T間期延長表示心室復極延遲，使患者容易發生torsades de pointes（一種多形性ventricular arrhythmia，可惡化為心室顫動並導致 sudden death）（圖13-12）。LQTS可為先天性（鈉離子或鉀離子通道基因突變）或後天性（電解質異常如低鎂、低鉀、低鈣，或使用quinidine等延長Q-T間期的藥物）。治療包括急性期的硫酸鎂、長期使用β-受體阻斷劑，以及必要時植入心臟去顫器。
 
-Figure 13-13 demonstrates a sudden increase in the heart rate from about 95 to about 150 beats/min in the middle of the record. On close study of the ECG, an inverted P wave is seen during the rapid heartbeat before each QRS-T complex, and this P wave is partially superimposed onto the normal T wave of the preceding beat. This finding indicates that the origin of this paroxysmal tachycardia is in the atrium but, because the P wave is abnormal in shape, the origin is not near the sinus node.
+## 陣發性心搏過速（Paroxysmal Tachycardia）
 
-UNIT III The Heart
+心臟某區域出現快速節律性放電（通常為re-entry circus movement），使心率突然加快，持續數秒至數小時後突然終止，節律點瞬間回到竇房結。
 
-UNIT III
+迷走神經反射（如頸动脉竇按摩）可終止部分陣發性心搏過速；抗心律不整藥物亦可使用。
 
-# A-V Nodal Paroxysmal Tachycardia
+### 陣發性心房性心搏過速（Paroxysmal Atrial Tachycardia, PAT）
 
-Paroxysmal tachycardia often results from an aberrant rhythm involving the A-V node that usually causes almost normal QRS-T complexes but totally missing or obscured P waves. Atrial or A-V nodal paroxysmal tachycardia, both of which are referred to as supraventricular tachycardias, usually occur in young, otherwise healthy people, and they generally grow out of the predisposition to tachycardia after adolescence. In general, supraventricular tachycardia frightens a person tremendously and may cause weakness during the paroxysm, but it usually does not cause permanent harm from the attack.
+圖13-13：心率突然由95跳至150 beats/min，P波倒置並重疊在前一心跳的T波上，表示異位起搏點在心房（但非竇房結）。
 
-# VENTRICULAR TACHYCARDIA
+### 房室結性心搏過速（Supraventricular Tachycardia, SVT）
 
-Figure 13-14 shows a typical short paroxysm of ventricular tachycardia. The ECG of ventricular tachycardia has the appearance of a series of ventricular premature beats occurring one after another, without any normal beats interspersed.
+由房室結或其鄰近區域的異常傳導引起，QRS-T波群近乎正常，但P波消失或隱沒。SVT多見於年輕健康者，通常不造成永久性傷害，但會引起顯著不適與恐懼。
 
-Ventricular tachycardia is usually a serious condition for two reasons. First, this type of tachycardia usually does not occur unless considerable ischemic damage is present in the ventricles. Second, ventricular tachycardia frequently initiates the lethal condition of ventricular fibrillation because of rapid repeated stimulation of the ventricular muscle, as discussed in the next section.
+### 心室性心搏過速（Ventricular Tachycardia）
 
-Sometimes, intoxication from the heart failure treatment drug digitalis causes irritable foci that lead to ventricular tachycardia. Antiarrhythmic drugs such as amiodarone or lidocaine can be used to treat ventricular tachycardia. Lidocaine depresses the normal increase in sodium permeability of the cardiac muscle membrane during generation of the <span class="c-yellow">action potential</span>, thereby often <span class="c-green">block</span>ing the rhythmical discharge of the focal point that has been causing the paroxysmal attack. Amiodarone has multiple actions, such as prolonging the <span class="c-yellow">action potential</span> and refractory period in cardiac muscle and slowing A-V conduction. In some cases, cardioversion with an electric shock to the heart is needed for restoration of normal heart rhythm.
+圖13-14：連續多個PVC接連出現，無正常心搏摻雜。此為嚴重症候，因通常表示心室已有嚴重缺血，且可迅速觸發心室顫動。治療使用lidocaine（抑制鈉離子通透性）或amiodarone（延長動作電位與有效不反應期），部分情況需 cardioversion。
 
-# VENTRICULAR FIBRILLATION
+## 心室顫動（Ventricular Fibrillation）
 
-The most serious of all cardiac arrhythmias is ventricular fibrillation, which, if not stopped within 1 to 3 minutes, is almost invariably <span class="c-red">fatal</span>. Ventricular fibrillation results from cardiac impulses that have gone berserk within the ventricular muscle mass, stimulating first one portion of the ventricular muscle, then another portion, then another, and eventually feeding back onto itself to re-<span class="c-green">excite</span> the same ventricular muscle over and over, never stopping. When this phenomenon occurs, many small portions of the ventricular muscle will be contracting at the same time, while equally as many other portions will be relaxing. Thus, there is never a coordinated contraction of all the ventricular muscle at once, which is required for a pumping cycle of the heart. Despite massive movement of stimulatory signals throughout the ventricles, the ventricular chambers neither enlarge nor contract but remain in an indeterminate stage of partial contraction, pumping either no blood or negligible amounts. Therefore, after fibrillation begins, unconsciousness occurs within 4 to 5 seconds because of lack of blood flow to the brain, and irretrievable <span class="c-red">death</span> of tissues begins to occur throughout the body within a few minutes.
+這是所有心律不整中最危急者，若未能在1–3分鐘內終止，几乎必然致命。
 
-Multiple factors can spark the beginning of ventricular fibrillation; a person may have a normal heartbeat one moment, but 1 second later, the ventricles are in fibrillation. Especially likely to initiate fibrillation are:
+### 發生原因
 
-- Sudden electrical shock of the heart
-- Ischemia of the heart muscle
-- Ischemia of the specialized conducting system
+心室肌內興奮衝動失控（圖13-15、圖13-16），刺激順序紊亂，部分收縮而其他部分正在舒張，導致心室既不擴大也不收縮，幾乎無血液輸出。大腦缺血4–5秒即意識喪失，數分鐘內組織開始不可逆損傷。
 
-# PHENOMENON OF RE-ENTRY—CIRCUS MOVEMENTS AS THE BASIS FOR VENTRICULAR FIBRILLATION
+觸發因素包括：電流電擊、心肌缺血、傳導系統缺血。
 
-When the normal cardiac impulse in the normal heart has traveled through the extent of the ventricles, it has no place to go because all the ventricular muscle is refractory and cannot conduct the impulse farther. Therefore, that impulse dies, and the heart awaits a new <span class="c-yellow">action potential</span> to begin in the sinus node.
+### Re-entry 與 Circus Movement 的機制
 
-Under some circumstances, however, this normal sequence of events does not occur. Therefore, the following is a more complete explanation of the background conditions that can initiate re-entry and lead to what is referred to as circus movements, which in turn cause ventricular fibrillation.
+圖13-15說明circus movement的必要條件：
 
-Figure 13-15 shows several small cardiac muscle strips cut in the form of circles. If such a strip is <span class="c-green">stimulate</span>d at the 12 o'clock position so that the impulse travels in only one direction, the impulse spreads progressively around the circle until it returns to the 12 o'clock position. If the originally <span class="c-green">stimulate</span>d muscle fibers are still in a refractory state, the impulse then dies out because refractory muscle cannot transmit a second impulse. However, three different conditions can cause this impulse to continue to travel around the circle—that is, cause re-entry of the impulse into muscle that has already been <span class="c-green">excite</span>d (circus movement):
+1. **環路徑過長**：興奮繞行返回起點時，原本興奮的組織已脫離不反應期。
+2. **傳導速度過慢**：興奮繞行返回時間超過組織的不反應期。
+3. **不反應期過短**：組織很快脫離不反應期而可再次興奮。
 
-1. If the pathway around the circle is much longer than normal, by the time the impulse returns to the 12 o'clock position, the originally <span class="c-green">stimulate</span>d muscle will no longer be refractory, and the impulse will continue around the circle again and again.
+這些條件在心臟病變中常見：心臟擴大使環路增長、Purkinje系統阻斷或缺血使傳導減慢、兒茶酚胺或重複電刺激縮短不反應期。
 
-2. If the length of the pathway remains constant but the velocity of conduction becomes decreased enough, an increased interval of time will elapse before the impulse returns to the 12 o'clock position. By this time, the originally <span class="c-green">stimulate</span>d muscle might be out of the refractory state, and the impulse can continue around the circle again and again.
+### 心室顫動的鏈式反應
 
-3. The refractory period of the muscle might become greatly shortened. In this case, the impulse could also continue around and around the circle.
+圖13-16以60Hz交流電刺激說明：興奮在部分心肌處於不反應期時抵達該區，形成patchy refractory pattern。興奮在某些方向被阻斷，在其他方向通過；每遇到一處不反應區即一分為二，形成越來越多的興奮波前（wave fronts），最終形成混亂的多方向興奮格局。Turbulent flow與不規則傳導路徑相互強化，形成惡性循環。
 
-All these conditions occur in different pathological states of the human heart:
+### 心室顫動時的心電圖
 
-- A long pathway typically occurs in dilated hearts.
-- A decreased rate of conduction frequently results from <span class="c-green">block</span>age of the Purkinje system, ischemia of the muscle, high blood potassium levels, or many other factors.
-- A shortened refractory period commonly occurs in response to various drugs, such as <span class="c-cyan">epinephrine</span>, or after repetitive electrical stimulation.
+圖13-17：心電圖呈現完全不規則的低幅或高幅波形，無任何規律性。最初數秒可見 coarse波（大片心肌同步收縮），隨後僅剩 low-voltage irregular波。電壓在20–30秒內由約0.5 mv降至0.2–0.3 mv，最終可能低至0.1 mv。
 
-Thus, in many cardiac disturbances, re-entry can cause abnormal patterns of cardiac contraction or abnormal cardiac rhythms that ignore the pace-setting effects of the sinus node.
+## 心室去顫動（Ventricular Defibrillation）
 
-# CHAIN REACTION MECHANISM OF FIBRILLATION
+高壓直流電通過心臟，使所有心肌瞬間同時進入絕對不反應期，終止所有興奮衝動。之後竇房結或心臟其他部位重新接手節律。若re-entry病灶仍在，顫動可能復發。
 
-In ventricular fibrillation, one sees many separate and small contractile waves spreading at the same time in different directions over the cardiac muscle. The re-entrant impulses in fibrillation are not simply a single impulse moving in a circle, as shown in Figure 13-15. Instead, they have degenerated into a series of multiple wave fronts that have the appearance of a chain reaction. One of the best ways to explain this process in fibrillation is to describe the initiation of fibrillation by electric shock with a 60-cycle alternating electric current.
+直接放置於心臟的 electrode：1000伏特直流電，作用時間數毫秒。經胸壁去顫：充電後的電容器經胸壁放電。現代多使用雙相波形（biphasic waveform），交替電流方向，可降低所需能量與組織損傷。
 
-## Fibrillation Caused by 60-Cycle Alternating Current
+**植入式心律去顫器（ICD）**：為高風險患者植入，自動偵測心室顫動並發放去顫電擊。
 
-At a central point in the ventricles of heart A in Figure 13-16, a 60-cycle electrical stimulus is applied through a stimulating electrode. The first cycle of the electrical stimulus causes a <span class="c-yellow">depolarization</span> wave to spread in all directions, leaving all the muscle beneath the electrode in a refractory state. After about 0.25 second, part of this muscle begins to come out of the refractory state. Some portions come out of refractoriness before other portions. This state of events is depicted in heart A by many lighter patches, which represent excitable cardiac muscle, and dark patches, which represent muscle that is still refractory. Now, continuing 60-cycle stimuli from the electrode can cause impulses to travel only in certain directions through the heart but not in all directions. Thus, in heart A, certain impulses travel for short distances until they reach refractory areas of the heart, and then they are <span class="c-green">block</span>ed. However, other impulses pass between the refractory areas and continue to travel in the excitable areas. Then, several events transpire in rapid succession, all occurring simultaneously and eventuating in a state of fibrillation.
+## 心肺復甦術（CPR）
 
-First, <span class="c-green">block</span> of the impulses in some directions but successful transmission in other directions creates one of the necessary conditions for a re-entrant signal to develop—that is, transmission of some of the <span class="c-yellow">depolarization</span> waves around the heart in only some directions but not in other directions.
+若無法在1分鐘內去顫，心臟因冠狀血流中斷而過度虛弱難以复苏。可先以手動擠壓心臟（胸外按壓配合人工呼吸），維持少量血流與冠狀灌流，數分鐘後再嘗試去顫。大腦缺氧超過5–8分鐘將造成永久性腦損傷。
 
-Second, the rapid stimulation of the heart causes two changes in the cardiac muscle, both of which predispose to circus movement:
+## 心房顫動（Atrial Fibrillation）
 
-1. The velocity of conduction through the heart muscle decreases, which allows a longer time interval for the impulses to travel around the heart.
-2. The refractory period of the muscle is shortened, allowing re-entry of the impulse into previously <span class="c-green">excite</span>d heart muscle within a much shorter time than normal.
+心房肌而非心室肌發生顫動（圖13-19）。機制與心室顫動相同，但因心室未被波及，患者可存活多年，只是心房失去唧筒功能，每搏輸出量減少20–30%。然而，心房失去有效收縮易致血液滞留，形成血栓，增加中風風險，故患者常需抗凝治療。
 
-Third, one of the most important features of ventricular fibrillation is the division of impulses, as demonstrated in heart A in Figure 13-16. When a <span class="c-yellow">depolarization</span> wave reaches a refractory area in the heart, it travels to both sides around the refractory area. Thus, a single impulse becomes two impulses. Then, when each of these impulses reaches another refractory area, it divides to form two more impulses. In this way, many new wave fronts are continually being formed in the heart by progressive chain reactions until, finally, many small depolarization waves are traveling in many directions at the same time. Furthermore, this irregular pattern of impulse travel causes many circuitous routes for the impulses to travel, greatly lengthening the conductive pathway, which is one of the conditions that sustains the fibrillation. It also results in a continual irregular pattern of patchy refractory areas in the heart.
+心房顫動時心電圖無明確P波，只見不規則的纖細顫動基線；QRS-T波群通常正常，但RR間期絕對不規則（圖13-19）。這是臨床上診斷心房顫動的兩大要點。
 
-One can readily see when a vicious circle has been initiated. More and more impulses are formed; these impulses cause more and more patches of refractory muscle, and the refractory patches cause more and more division of the impulses. Therefore, whenever a single area of cardiac muscle comes out of refractoriness, an impulse is close at hand to re-enter the area.
+心房顫動可由電擊復律（synchronized cardioversion），但需與QRS波群同步以免誘發心室顫動。
 
-Heart B in Figure 13-16 demonstrates the final state that develops in ventricular fibrillation. Here, one can see many impulses traveling in all directions, with some dividing and increasing the number of impulses and others <span class="c-green">block</span>ed by refractory areas. A single electric shock during this vulnerable period frequently can lead to an odd pattern of impulses spreading multidirectionally around refractory areas of muscle, which will lead to ventricular fibrillation.
+### 心房撲動（Atrial Flutter）
 
-# ELECTROCARDIOGRAM IN VENTRICULAR FIBRILLATION
+機制同為心房內的circus movement，但形成單一大型波前繞行心房（圖13-20）。心房率200–350 beats/min，但房室結的不反應期使心室僅接受部分興奮（如2:1傳導，即兩個心房搏動對應一個心室搏動）。圖13-21的心房撲動呈2:1傳導模式。
 
-In ventricular fibrillation, the ECG is bizarre (Figure 13-17) and ordinarily shows no tendency toward a regular rhythm of any type. During the first few seconds of ventricular fibrillation, relatively large masses of muscle contract simultaneously, which causes coarse irregular waves in the ECG. After another few seconds, the coarse contractions of the ventricles disappear, and the ECG changes into a new pattern of low-voltage, very irregular waves. Thus, no repetitive electrocardiographic pattern can be ascribed to ventricular fibrillation. Instead, the ventricular muscle contracts at as many as 30 to 50 small patches of muscle at a time, and electrocardiographic potentials change constantly and spasmodically because the electrical currents in the heart flow first in one direction and then in another and seldom repeat any specific cycle.
+## 心跳停止（Cardiac Arrest）
 
-The voltages of the waves in the ECG in ventricular fibrillation are usually about 0.5 millivolt when ventricular fibrillation first begins, but they decay rapidly; thus, after 20 to 30 seconds, they are usually only 0.2 to 0.3 millivolt. Minute voltages of 0.1 millivolt or less may be recorded for 10 minutes or longer after ventricular fibrillation begins. As already noted, because no pumping of blood occurs during ventricular fibrillation, this state is lethal unless stopped by successful therapy, such as an immediate electroshock (defibrillation) through the heart, as explained in the next section.
-
-# VENTRICULAR DEFIBRILLATION
-
-Although a moderate alternating current voltage applied directly to the ventricles almost invariably throws the ventricles into fibrillation, a strong high-voltage electrical current passed through the ventricles for a fraction of a second can stop fibrillation by throwing all the ventricular muscle into refractoriness simultaneously. This is accomplished by passing intense current through large electrodes placed on two sides of the heart. The current penetrates most of the fibers of the ventricles at the same time, thus stimulating essentially all parts of the ventricles simultaneously and causing them all to become refractory. All action potentials stop, and the heart remains quiescent for 3 to 5 seconds, after which it begins to beat again, usually with the sinus node or some other part of the heart becoming the pacemaker. However, if the same re-entrant focus that had originally thrown the ventricles into fibrillation is still present, fibrillation may begin again immediately.
-
-When electrodes are applied directly to the two sides of the heart, fibrillation can usually be stopped using 1000 volts of direct current applied for a few thousandths of a second. When applied through two electrodes on the chest wall, as shown in Figure 13-18, the usual procedure is to charge a large electrical capacitor up to several thousand volts and then to cause the capacitor to discharge for a few thousandths of a second through the electrodes and through the heart.
-
-In most cases, defibrillation current is delivered to the heart in biphasic waveforms, alternating the direction of the current pulse through the heart. This form of delivery substantially reduces the energy needed for successful defibrillation, thereby decreasing the risk for burns and cardiac damage.
-
-In patients with a high risk for ventricular fibrillation, a small, battery-powered, implantable cardioverter-defibrillator (ICD) with electrode wires lodged in the right ventricle may be implanted. The device is programmed to detect ventricular fibrillation and revert it by delivering a brief electrical impulse to the heart. Advances in electronics and batteries have permitted the development of ICDs that can deliver enough electrical current to defibrillate the heart through electrode wires implanted subcutaneously, outside the rib cage near the heart rather than in or on the heart itself. These devices can be implanted with a minor surgical procedure.
-
-# HAND PUMPING OF THE HEART (CARDIOPULMONARY RESUSCITATION) AS AN AID TO DEFIBRILLATION
-
-Unless defibrillated within 1 minute after ventricular fibrillation begins, the heart is usually too weak to be revived by defibrillation because of the lack of nutrition from coronary blood flow. However, it is still possible to revive the heart by preliminarily pumping the heart by hand (intermittent hand squeezing) and then defibrillating the heart later. In this way, small quantities of blood are delivered into the aorta, and a renewed coronary blood supply develops. Then, after a few minutes of hand pumping, electrical defibrillation often becomes possible. Fibrillating hearts have been pumped by hand for as long as 90 minutes followed by successful defibrillation.
-
-A technique for pumping the heart without opening the chest consists of intermittent thrusts of pressure on the chest wall along with artificial respiration. This process, plus defibrillation, is called cardiopulmonary resuscitation (CPR).
-
-Lack of blood flow to the brain for more than 5 to 8 minutes usually causes permanent mental impairment or even destruction of brain tissue. Even if the heart is revived, the person may die from the effects of brain damage or may live with permanent mental impairment.
-
-# ATRIAL FIBRILLATION
-
-Remember that except for the conducting pathway through the A-V bundle, the atrial muscle mass is separated from the ventricular muscle mass by fibrous tissue. Therefore, ventricular fibrillation often occurs without atrial fibrillation. Likewise, fibrillation often occurs in the atria without ventricular fibrillation (shown on the right in Figure 13-20).
-
-The mechanism of atrial fibrillation is identical to that of ventricular fibrillation, except that the process occurs only in the atrial muscle mass instead of the ventricular mass. A frequent cause of atrial fibrillation is atrial enlargement, which can result from:
-
-- Heart valve lesions that prevent the atria from emptying adequately into the ventricles
-- Ventricular failure with excess damming of blood in the atria
-
-The dilated atrial walls provide ideal conditions of a long conductive pathway, as well as slow conduction, both of which predispose to atrial fibrillation.
-
-## Impaired Pumping of the Atria During Atrial Fibrillation
-
-For the same reasons that the ventricles will not pump blood during ventricular fibrillation, neither do the atria pump blood in atrial fibrillation. Therefore, the atria become useless as primer pumps for the ventricles. Even so, blood flows passively through the atria into the ventricles, and the efficiency of ventricular pumping is decreased by only 20% to 30%. Therefore, in contrast to the lethality of ventricular fibrillation, a person can live for years with atrial fibrillation, although at reduced efficiency of overall heart pumping. However, due to the reduced atrial contractile function, blood can stagnate, allowing blood clots to form in the atrial appendage. These blood clots can dislodge and travel to the brain, causing stroke, or to other parts of the body. Therefore, patients with atrial fibrillation are often placed on blood thinner medications (anticoagulants) to reduce the risk of embolism.
-
-# ELECTROCARDIOGRAM IN ATRIAL FIBRILLATION
-
-Figure 13-19 shows the ECG during atrial fibrillation. Numerous small <span class="c-yellow">depolarization</span> waves spread in all directions through the atria during atrial fibrillation. Because the waves are weak, and many of them are of opposite polarity at any given time, they usually almost completely electrically neutralize one another. Therefore, in the ECG, one can see either no P waves from the atria or only a fine, high-frequency, very irregular baseline flutter undulation. The ventricular QRS and T waves are usually normal, unless the ventricular rhythm has been altered by some condition other than atrial fibrillation.
+心臟所有電氣控制信號中止，無任何自發節律。可發生於深度麻醉時嚴重缺氧，或嚴重心肌疾病。治療以植入式電子心律調節器维持节律。長期CPR（達數小時）有時可成功恢復正常節律。
 
 ---
 
-**Paroxysmal atrial tachycardia**
-
-Figure 13-13. Paroxysmal atrial tachycardia—onset in the middle of the record (lead I).
-
-**Ventricular tachycardia**
-
-Figure 13-14. Ventricular paroxysmal tachycardia (lead III).
-
-UNIT III The Heart
-
-**Absolutely refractory**
-
-**Absolutely refractory**
-
-**Relatively refractory**
-
-| NORMAL PATHWAY | LONG PATHWAY |
-|----------------|--------------|
-|                |              |
-
-Figure 13-15. Circus movement, showing annihilation of the impulse in the short pathway and continued propagation of the impulse in the long pathway.
-
-**Stimulus point**
-
-**Dividing impulses**
-
-**Blocked impulse**
-
-| A | B |
-|---|---|
-|   |   |
-
-Figure 13-16. A, Initiation of fibrillation in a heart when patches of refractory musculature are present. B, Continued propagation of fibrillatory impulses in the fibrillating ventricle.
-
-Figure 13-17. Ventricular fibrillation (lead II).
-
-**Electrodes**
-
-**Several thousand volts for a few milliseconds**
-
-Figure 13-18. Application of electrical current to the chest to stop ventricular fibrillation.
-
-Figure 13-19. Atrial fibrillation (lead II). The waves that can be seen are ventricular QRS and T waves.
-
-UNIT III
-The heart's rhythm involves intricate electrical conduction that governs its pumping efficiency. Understanding these mechanisms becomes critical when evaluating conditions like atrial fibrillation and the resulting cardiac irregularities.
-
-When the atria are fibrillating, impulses arrive from the atrial muscle at the A-V node rapidly but also irregularly. Because the A-V node will not pass a second impulse for about 0.35 second after a previous one, at least 0.35 second must elapse between one ventricular contraction and the next. Then, an additional but variable interval of 0 to 0.6 second occurs before one of the irregular atrial fibrillatory impulses happens to arrive at the A-V node.
-
-Thus, the interval between successive ventricular contractions varies from a minimum of about 0.35 second to a maximum of about 0.95 second, causing a very irregular heartbeat. This irregularity, demonstrated by the variable spacing of the heartbeats in the ECG shown in Figure 13-19, is one of the clinical findings used to diagnose the condition. Also, because of the rapid rate of the fibrillatory impulses in the atria, the ventricle is driven at a fast heart rate, usually between 125 and 150 beats/min.
-
-### Electroshock Treatment of Atrial Fibrillation
-
-Similar to ventricular fibrillation being converted back to a normal rhythm by electroshock, atrial fibrillation can be converted by electroshock. The procedure is similar to that for ventricular fibrillation conversion, except the single electric shock is programmed (or synchronized) to fire only during the QRS complex when the ventricles are refractory to stimulation. A normal rhythm often follows if the heart is capable of generating a normal rhythm. This procedure is called synchronized cardioversion instead of defibrillation in the setting of ventricular fibrillation.
-
-### Atrial Flutter
-
-Atrial flutter is another condition caused by a circus movement in the atria. Atrial flutter is different from atrial fibrillation in that the electrical signal travels as a single large wave, always in one direction, around and around the atrial muscle mass, as shown to the left in Figure 13-20. Atrial flutter causes a rapid rate of contraction of the atria, usually between 200 and 350 beats/min.
-
-However, because one side of the atria is contracting while the other side is relaxing, the amount of blood pumped by the atria is reduced. Furthermore, the signals reach the A-V node too rapidly for all of them to be passed into the ventricles because the refractory periods of the A-V node and A-V bundle are too long to pass more than a fraction of the atrial signals. Therefore, there are usually two to three beats of the atria for every single beat of the ventricles.
-
-Figure 13-21 shows a typical ECG in atrial flutter. The P waves are strong because of the contraction of semicontrolled masses of muscle. However, note that a QRS-T complex follows an atrial P wave only once for every two beats of the atria, giving a 2:1 rhythm.
-
-### Cardiac Arrest
-
-A final serious abnormality of the cardiac rhythmicity-conduction system is cardiac arrest, which results from cessation of all electrical control signals in the heart. That is, no spontaneous rhythm remains.
-
-Cardiac arrest may occur during deep anesthesia, when severe hypoxia may develop because of inadequate respiration. The hypoxia prevents the muscle fibers and conductive fibers from maintaining normal electrolyte concentration differentials across their membranes, and their excitability may be so affected that the automatic rhythmicity disappears.
-
-In many cases of cardiac arrest from anesthesia, prolonged CPR (for many minutes or even hours) is quite successful in reestablishing a normal heart rhythm. In some patients, severe myocardial disease can cause permanent or semipermanent cardiac arrest, which can cause <span class="c-red">death</span>. To treat the condition, rhythmical electrical impulses from an implanted electronic cardiac pacemaker have been used successfully to keep patients alive for months to years.
-
-### Bibliography
-
-Ackerman M, Atkins D L, Triedman J K: Sudden cardiac <span class="c-red">death</span> in the young, Circulation 133:1006, 2016.
-
-Adler A, Rosso R, Viskin D, et al.: What do we know about the "malignant form" of early <span class="c-yellow">repolarization</span>? J Am Coll Cardiol 62:863, 2013.
-
-Borne RT, Katz D, Betz J, et al.: Implantable cardioverter-defibrillators for secondary prevention of sudden cardiac <span class="c-red">death</span>: a review, J Am Heart Assoc 6:e005515, 2017.
-
-Darby AE, DiMarco J P: Management of atrial fibrillation in patients with structural heart disease, Circulation 125:945, 2012.
-
-Dobrzynski H, Boyett MR, Anderson RH: New insights into pacemaker activity: promoting understanding of sick sinus syndrome, Circulation 115:1921, 2007.
-
-Fukuda K, Kanazawa H, Aizawa Y, et al.: Cardiac innervation and sudden cardiac <span class="c-red">death</span>, Circ Res 116:2015, 2005.
-
-Giudicessi JR, Roden D M, Wilde A AM, et al.: Classification and reporting of potentially proarrhythmic common genetic variation in long QT syndrome genetic testing, Circulation 137:619, 2018.
-
-Guasch E, Mont L: Diagnosis, pathophysiology, and management of exercise-induced arrhythmias, Nat Rev Cardiol 14:88, 2017.
-
-John RM, Tedrow UB, Koplan BA, et al.: Ventricular arrhythmias and sudden cardiac <span class="c-red">death</span>, Lancet 380:1520, 2012.
-
-Koruth JS, Lala A, Pinney S, et al.: The clinical use of ivabradine, J Am Coll Cardiol 70:1777, 2017.
-
-Lee G, Sanders P, Kalman JM: Catheter ablation of atrial arrhythmias: state of the art, Lancet 380:1509, 2012.
-
-Macfarlane PW, Antzelevitch C, Haissaguerre M, et al.: The early repolarization pattern: A consensus paper, J Am Coll Cardiol 66:470, 2015.
-
-Morita H, Wu J, Zipes DP: The QT syndromes: long and short, Lancet 372:750, 2008.
-
-Olshansky B, Sullivan RM: Inappropriate sinus tachycardia, J Am Coll Cardiol 61:793, 2013.
-
-Park D S, Fishman G I: The cardiac conduction system, Circulation 123:904, 2011.
-
-Passman R, Kadish A: Sudden <span class="c-red">death</span> prevention with implantable devices, Circulation 116:561, 2007.
-
-Prystowsky EN, Padanilam B J, Joshi S, Fogel R I: Ventricular arrhythmias in the absence of structural heart disease, J Am Coll Cardiol 59:1733, 2012.
-
-Reed GW, Rossi JE, Cannon CP: Acute myocardial infarction, Lancet 389:197, 2017.
-
-Rienstra M, Lubitz S A, Mahida S, et al.: Symptoms and functional status of patients with atrial fibrillation: state of the art and future research opportunities, Circulation 125:2933, 2012.
-
-Roden DM: Drug-induced prolongation of the QT interval, N Engl J Med 350:1013, 2004.
-
-Schlapfer J, Wellens H J: Computer-interpreted electrocardiograms. Benefits and limitations, J Am Coll Cardiol 70:1183, 2017.
-
-Schwartz PJ, Ackerman M J, George Jr AL, Wilde A A: Impact of genetics on the clinical management of channelopathies, J Am Coll Cardiol 62:169, 2013.
-
-Schwartz PJ, Woosley RL: Predicting the unpredictable: Drug-induced QT prolongation and Torsades de Pointes, J Am Coll Cardiol 67:1639, 2016.
-
-Shen MJ, Zipes DP: Role of the autonomic nervous system in modulating cardiac arrhythmias, Circ Res 114:1004, 2014.
-
-Staerk L, Sherer J A, Ko D, Benjamin E J, Helm R H: Atrial fibrillation: epidemiology, pathophysiology, and clinical outcomes, Circ Res 120:1501, 2017.
-
-Vijayaraman P, Chung MK, Dandamudi G, et al.: His bundle pacing, J Am Coll Cardiol 72:927, 2018.
-
-### Atrial Flutter and Atrial Fibrillation
-
-Atrial flutter and atrial fibrillation represent two distinct arrhythmias characterized by different impulse pathways. In atrial flutter, the electrical signal travels as a single large wave around the atrial muscle mass, while atrial fibrillation involves multiple wavelets. This fundamental difference in conduction patterns leads to varying clinical presentations and management strategies.
-
----
-
-UNIT IV
-
-## Overview of the Circulation: Pressure, Flow, and Resistance
-
-### Introduction
-
-The function of the circulation is to serve the needs of the body tissues—to transport nutrients to the tissues, to transport waste products away, transport hormones from one part of the body to another, and, in general, to maintain an appropriate environment in all the tissue fluids for survival and optimal function of the cells.
-
-The rate of blood flow through many tissues is controlled mainly in response to their need for nutrients and removal of waste products of metabolism. In some organs, such as the kidneys, the circulation serves additional functions. Blood flow to the kidney, for example, is far in excess of its metabolic requirements and is related to its excretory function, which requires that a large volume of blood be filtered each minute.
-
-The heart and blood vessels, in turn, are controlled to provide the cardiac output and arterial pressure needed to supply adequate tissue blood flow. What are the mechanisms for controlling blood volume and blood flow, and how does this process relate to the other functions of the circulation? These are some of the topics and questions that we discuss in this section on the circulation.
-
-### Physical Characteristics of the Circulation
-
-The circulation, shown in Figure 14-1, is divided into the systemic circulation and the pulmonary circulation. Because the systemic circulation supplies blood flow to all the tissues of the body except the lungs, it is also called the greater circulation or peripheral circulation.
-
-#### Functional Parts of the Circulation
-
-Before discussing the details of circulatory function, it is important to understand the role of each part of the circulation.
-
-- The function of the **arteries** is to transport blood under high pressure to the tissues. For this reason, the arteries have strong vascular walls, and blood flows at a high velocity in the arteries.
-
-- The **arterioles** are the last small branches of the arterial system; they act as control conduits through which blood is released into the capillaries. Arterioles have strong muscular walls that can close the arterioles completely or, by relaxing, can dilate the vessels severalfold; thus, the arterioles can vastly alter blood flow in each tissue in response to its needs.
-
-- The function of the **capillaries** is to exchange fluid, nutrients, electrolytes, hormones, and other substances between the blood and interstitial fluid. To serve this role, the capillary walls are thin and have numerous minute <span class="c-pink">capillary</span> pores permeable to water and other small molecular substances.
-
-- The **venules** collect blood from the capillaries and gradually coalesce into progressively larger veins.
-
-- The **veins** function as conduits for transport of blood from the venules back to the heart. The veins also serve as a major reservoir of extra blood. Because the pressure in the venous system is low, the venous walls are thin. Even so, they are muscular enough to contract or expand and thereby serve as a controllable reservoir for the extra blood, either a small or a large amount, depending on the needs of the circulation.
-
-#### Volumes of Blood in the Different Parts of the Circulation
-
-Figure 14-1 provides an overview of the circulation and lists the percentages of total blood volume in major segments of the circulation:
-
-- About **84%** of the entire blood volume of the body is in the systemic circulation
-- **16%** is in the heart and lungs
-- Of the 84% in the systemic circulation:
-  - Approximately **64%** is in the veins
-  - **13%** is in the arteries
-  - **7%** is in the systemic arterioles and capillaries
-- The heart contains **7%** of the blood
-- The pulmonary vessels contain **9%**
-
-Most surprising is the low blood volume in the capillaries. It is here, however, that the most important function of the circulation occurs—diffusion of substances back and forth between the blood and tissues, as discussed in Chapter 16.
-
-#### Cross-Sectional Areas and Velocities of Blood Flow
-
-If all the systemic vessels of each type were put side by side, their approximate total cross-sectional areas for the average human would be as follows:
-
-| Vessel | Cross-Sectional Area (cm²) |
-|--------|---------------------------|
-| Aorta | 2.5 |
-| Small arteries | 20 |
-| Arterioles | 40 |
-| Capillaries | 2500 |
-| Venules | 250 |
-| Small veins | 80 |
-| Venae cavae | 8 |
-
-Note particularly that the cross-sectional areas of the veins are much larger than those of the arteries, averaging about four times those of the corresponding arteries. This difference explains the large blood storage capacity of the venous system in comparison with the arterial system.
-
-Because the same volume of blood flow (F) must pass through each segment of the circulation each minute, the velocity of blood flow (v) is inversely proportional to the vascular cross-sectional area (A):
-
-$$v = F/A$$
-
-Thus, under resting conditions, the velocity averages about 33 cm/sec in the aorta but is only 1/1000 as rapid in the capillaries—about 0.3 mm/sec. However, because the capillaries have a typical length of only 0.3 to 1 millimeter, the blood remains in the capillaries for only 1 to 3 seconds, which is surprising because all diffusion of nutrient food substances and electrolytes that occurs through the <span class="c-pink">capillary</span> walls must be performed in this short time.
-
-#### Pressures in the Various Portions of the Circulation
-
-Because the heart pumps blood continually into the aorta, the mean pressure in the aorta is high, averaging about 100 mm Hg. Also, because heart pumping is pulsatile, the arterial pressure normally alternates between an average systolic pressure level of 120 mm Hg and a diastolic pressure level of 80 mm Hg under resting conditions, as shown on the left side of Figure 14-2.
-
----
-
-UNIT IV The Heart
+### 圖號與Figure Caption
+
+- **圖13-1**：竇性心搏過速（Lead I）。
+- **圖13-2**：竇性心搏過緩（Lead III）。
+- **圖13-3**：心率記錄儀記錄的竇性心律不整（左：正常呼吸；右：深呼吸）。
+- **圖13-4**：竇房結傳導阻斷（SA block），阻斷期間由房室結節律取代（Lead III）。
+- **圖13-5**：第一度房室傳導阻斷（P-R間期約0.30秒）。
+- **圖13-6**：第二度Ⅰ型（Wenckebach）房室傳導阻斷：P-R間期漸進延長直至一次漏跳。
+- **圖13-7**：完全性房室傳導阻斷（第三度），P波與QRS-T波群完全無關。
+- **圖13-8**：Electrical alternans（每兩個心跳交替出現傳導阻斷）。
+- **圖13-9**：心房性過早收縮（PAC）。
+- **圖13-10**：房室結性過早收縮（P波消失並重疊於QRS-T上）。
+- **圖13-11**：Bigeminy pattern（PVC與正常搏動交替），含向量分析。
+- **圖13-12**：Torsades de pointes（長QT症候群併發的多形性心室心動過速）。
+- **圖13-13**：陣發性心房性心搏過速（PAT），P波倒置並重疊於前一心跳T波（Lead I）。
+- **圖13-14**：心室性陣發性心搏過速（Lead III）。
+- **圖13-15**：Circus movement：短徑路的興奮被消滅，長徑路的興奮持續傳導。
+- **圖13-16A**：.patchy refractory myocardium中興奮的分裂與不規則傳導。
+- **圖13-16B**：心室顫動時興奮波的多方向傳播格局。
+- **圖13-17**：心室顫動的心電圖（Lead II）。
+- **圖13-18**：經胸壁去顫的電擊套用圖。
+- **圖13-19**：心房顫動（Lead II）：可見不規則RR間期與QRS-T波群，無明確P波。
+- **圖13-20**：心房撲動的circus movement機制與心房顫動的multiple wavelets對比。
+- **圖13-21**：心房撲動（呈2:1傳導）：P波清晰，QRS-T每兩個心跳出現一次。

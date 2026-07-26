@@ -3,272 +3,101 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH10"
 title: "Rhythmical Excitation of the Heart"
 book: "Guyton & Hall"
-summary: "Chapter 10 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章說明心臟的節律性興奮系統。竇房結（SA node）作為正常心臟的pacemaker，以70-80次/分的頻率自發放電，其節律快於AV結與Purkinje纖維，故能主導整體心律。訊號通過心房內傳導路徑傳播，在AV結延遲0.13秒後，經由Purkinje纖維系統幾乎同步地傳至整個心室肌。本章也介紹心臟的交感與副交感神經控制，以及心律不整與傳導阻滯的機制。
+"
 ---
 
-UNIT III
+## 章節導讀
 
-upward once more, finally reaching the threshold level for discharge at a potential of about –40 millivolts. Then, the entire process begins again: self-excitation to cause the <span class="c-yellow">action potential</span>, recovery from the <span class="c-yellow">action potential</span>, hyperpolarization after the <span class="c-yellow">action potential</span> is over, drift of the <span class="c-yellow">resting potential</span> to threshold, and finally re-excitation to elicit another cycle. This process continues throughout a person's life.
+心臟每天約跳動 100,000 次，一生可達 30 億次，這一切都有賴於心臟特殊的節律性興奮與傳導系統。本章說明這個系統的組成：竇房結（sinoatrial node, SA node）位於右心房上外側壁，是正常心臟節律的發起者；訊號通過心房內傳導路徑迅速傳播到 AV 結；AV 結延遲訊號傳遞約 0.13 秒，使心房在心室收縮前有足夠時間填充血液；隨後訊號通過 AV bundle 進入 Purkinje 纖維系統，以極快速度（1.5-4.0 m/sec）將訊號傳到心室幾乎所有部位，確保心室同步收縮。本章也說明竇房結細胞如何透過所謂的「有趣通道」（funny channels）實現自動節律性，以及交感與副交感神經如何調控心率與訊息傳導。
 
-INTERNODAL AND INTERATRIAL PATHWAYS TRANSMIT CARDIAC IMPULSES THROUGH THE ATRIA
+## 心臟特殊的興奮與傳導系統
 
-The ends of the sinus nodal fibers connect directly with the surrounding atrial muscle fibers. Therefore, action potentials originating in the sinus node travel outward into these atrial muscle fibers. In this way, the action potential spreads through the entire atrial muscle mass and, eventually, to the A-V node.
+Figure 10-1 顯示心臟特殊的興奮與傳導系統，包括：
 
-The velocity of conduction in most atrial muscle is about 0.3 m/sec, but conduction is more rapid, about 1 m/sec, in several small bands of atrial fibers. One of these bands, called the anterior interatrial band (also called Bachmann's bundle), passes through the anterior walls of the atria to the left atrium. In addition, three other small bands curve through the anterior, lateral, and posterior atrial walls and terminate in the A-V node, shown in Figure 10-1 and Figure 10-3; these are called, respectively, the anterior, middle, and posterior internodal pathways. The cause of more rapid velocity of conduction in these bands is the presence of specialized conduction fibers. These fibers are similar to even more rapidly conducting Purkinje fibers of the ventricles, discussed below.
+- **竇房結（SA node）：** 正常節律性興奮的發生處
+- **心房內傳導路徑：** 將訊號從竇房結傳到 AV 結
+- **房室結（AV node）：** 訊號在心室傳遞前延遲
+- **AV bundle：** 將訊號從心房傳到心室
+- **左右 Purkinje 纖維：** 將訊號傳到心室各部位
 
-THE ATRIOVENTRICULAR NODE DELAYS IMPULSE CONDUCTION FROM THE ATRIA TO THE VENTRICLES
+## 竇房結
 
-The atrial conductive system is organized so that the cardiac impulse does not travel from the atria into the ventricles too rapidly; this delay allows time for the atria to empty their blood into the ventricles before ventricular contraction begins. It is primarily the A-V node and its adjacent conductive fibers that delay this transmission into the ventricles.
+竇房結是位於右心房上外側壁的一小塊扁平橢圓形特化心肌組織，寬約 3 mm、長約 15 mm、厚約 1 mm，正好在開口於上腔靜脈下方。竇房結的纖維幾乎不含收縮肌絲，直徑僅 3-5 微米，遠小於周圍心房肌纖維的 10-15 微米。竇房結纖維與心房肌纖維直接相連，因此竇房結產生的 action potential 能立即傳播到心房肌壁。
 
-The A-V node is located in the posterior wall of the right atrium, immediately behind the tricuspid valve, as shown in Figure 10-1. Figure 10-3 diagrams the different parts of this node, plus its connections with the entering atrial internodal pathway fibers and the exiting A-V bundle. This figure also shows the approximate intervals of time (in fractions of a second) between the initial onset of the cardiac impulse in the sinus node and its subsequent appearance in the A-V nodal system.
+## 竇纖維的自動節律性電活動
 
-Note that the impulse, after traveling through the internodal pathways, reaches the A-V node about 0.03 second after its origin in the sinus node. Then, there is a delay of another 0.09 second in the A-V node itself before the impulse enters the penetrating portion of the A-V bundle, where it passes into the ventricles. A final delay of another 0.04 second occurs mainly in this penetrating A-V bundle, which is composed of multiple small fascicles passing through the fibrous tissue separating the atria from the ventricles.
+竇房結的纖維具有自我興奮的能力，能自動節律地放電並收縮。竇房結的 resting membrane potential 約 −55 至 −60 毫伏（不同於心室肌的 −85 至 −90 毫伏），這是因為竇纖維的細胞膜對鈉離子與鈣離子有天然的通透性，正離子的進入中和了部分細胞內的負電性。
 
-Thus, the total delay in the A-V nodal and A-V bundle system is about 0.13 second. This delay, in addition to the initial conduction delay of 0.03 second from the sinus node to the A-V node, makes a total delay of 0.16 second before the excitatory signal finally reaches the contracting muscle of the ventricles.
+竇房結的 action potential 與心室肌不同。在 −55 毫伏的膜電位下，快速鈉離子通道已處於失活狀態，只有慢速鈉-鈣通道能開放。因此竇房結 action potential 的上升速度較慢，且再極化也緩慢而非像心室纖維那樣快速恢復。
 
-**Cause of the Slow Conduction.** The slow conduction in the transitional, nodal, and penetrating A-V bundle fibers is caused mainly by diminished numbers of gap junctions between successive cells in the conducting pathways, so there is great resistance to conduction of excitatory ions from one conducting fiber to the next. Therefore, it is easy to see why each succeeding cell is slow to be <span class="c-green">excited</span>.
+在每次放電後，膜電位經歷再極化，然後進入輕度超極化狀態。隨後，內向鈉、鈣離子漏流使膜電位逐漸回升到閾值（約 −40 毫伏），再次觸發下一次 action potential，如此循環持續一生。
 
-RAPID TRANSMISSION OF THE CARDIAC IMPULSE IN THE VENTRICULAR PURKINJE SYSTEM
+## 心房內的訊息傳導
 
-Special Purkinje fibers lead from the A-V node through the A-V bundle into the ventricles. Except for the initial portion of these fibers, where they penetrate the A-V fibrous barrier, they have functional characteristics that are the opposite of those of the A-V nodal fibers. They are very large fibers, even larger than the normal ventricular muscle fibers, and they transmit action potentials at a velocity of 1.5 to 4.0 m/sec, a velocity about six times that in the usual ventricular muscle and 150 times that in some of the A-V nodal fibers. This velocity allows almost instantaneous transmission of the cardiac impulse throughout the entire remainder of the ventricular muscle.
+竇房結纖維的末端直接與周圍心房肌纖維連接，因此竇房結產生的 action potential 能向外傳播到整個心房肌，最終到達 AV 結。大部分心房肌的傳導速度約 0.3 m/sec，但某些特定區域可達 1 m/sec。前房間束（Bachmann's bundle）穿過心房前壁將訊號傳到左心房，而前、中、後心房內傳導路徑則將訊號傳到 AV 結。
 
-The rapid transmission of action potentials by Purkinje fibers is believed to be caused by a very high level of permeability of the gap junctions at the intercalated discs between the successive cells that make up the Purkinje fibers. Therefore, ions are transmitted easily from one cell to the next, thus enhancing the velocity of transmission. The Purkinje fibers also have very few myofibrils, which means that they contract little or not at all during the course of impulse transmission.
+## 房室結延遲訊息從心房傳到心室
 
-**The A-V Bundle Is Normally a One-Way Conduction Path.** A special characteristic of the A-V bundle is the inability, except in abnormal states, of action potentials to travel backward from the ventricles to the atria. This characteristic prevents re-entry of cardiac impulses by this route from the ventricles to the atria, allowing only forward conduction from the atria to the ventricles.
+AV 結位於右心房後壁，正好在三尖瓣後方。訊號通過心房內傳導路徑到達 AV 結約需 0.03 秒，然後在 AV 結本身延遲約 0.09 秒，最後在穿過 AV bundle 的過程中再延遲約 0.04 秒。總延遲時間約 0.16 秒，確保心房在心室收縮開始前有足夠時間將血液泵入心室。
 
-Furthermore, it should be recalled that everywhere, except at the A-V bundle, the atrial muscle is separated from the ventricular muscle by a continuous fibrous barrier, a portion of which is shown in Figure 10-3. This barrier normally acts as an insulator to prevent passage of the cardiac impulse between atrial and ventricular muscle through any other route besides forward conduction through the A-V bundle. In rare cases, an abnormal muscle bridge, or accessory pathway, does penetrate the fibrous barrier elsewhere besides at the A-V bundle. Under such conditions, the cardiac impulse can re-enter the atria from the ventricles and cause serious cardiac arrhythmias.
+**傳導緩慢的原因：** AV 結過渡纖維、結區纖維與穿通 AV bundle 纖維的傳導緩慢，主要因為這些細胞之間的 gap junctions 數量少，離子从一个傳導纖維傳到下一個的阻力很大。
 
-**Distribution of the Purkinje Fibers in the Ventricles—Left and Right Bundle Branches.** After penetrating the fibrous tissue between the atrial and ventricular muscle, the distal portion of the A-V bundle passes downward in the ventricular septum for 5 to 15 mm toward the apex of the heart, as shown in Figures 10-1 and 10-3. Then, the bundle divides into left and right bundle branches that lie beneath the endocardium on the two respective sides of the ventricular septum. Each branch spreads downward toward the apex of the ventricle, progressively dividing into smaller branches. These branches, in turn, course sidewise around each ventricular chamber and back toward the base of the heart. The ends of the Purkinje fibers penetrate about one-third of the way into the muscle mass and finally become continuous with the cardiac muscle fibers.
+## 心室 Purkinje 系統的快速訊息傳導
 
-The total elapsed time averages only 0.03 second from the time the cardiac impulse enters the bundle branches in the ventricular septum until it reaches the terminations of the Purkinje fibers. Therefore, once the cardiac impulse enters the ventricular Purkinje conductive system, it spreads almost immediately to the entire ventricular muscle mass.
+Purkinje 纖維從 AV 結穿過 AV bundle 進入心室。這些是非常大的纖維（甚至比正常心室肌纖維還大），傳導速度達 1.5-4.0 m/sec，約為普通心室肌的六倍、某些 AV 結纖維的 150 倍。這種快速傳導使 action potential 幾乎能在整個心室肌同步傳播。
 
-TRANSMISSION OF THE CARDIAC IMPULSE IN THE VENTRICULAR MUSCLE
+Purkinje 纖維的快速傳導是因為其 intercalated discs 上的 gap junctions 通透性非常高，離子能輕易地在細胞間傳遞。Purkinje 纖維幾乎不含肌絲，幾乎不收縮。
 
-Once the impulse reaches the ends of the Purkinje fibers, it is transmitted through the ventricular muscle mass by the ventricular muscle fibers themselves. The velocity of transmission is now only 0.3 to 0.5 m/sec, one-sixth that in the Purkinje fibers.
+**AV bundle 通常是单向傳導路徑：** AV bundle 有個特殊性質，正常狀態下 action potential 不能從心室逆行傳回心房。這防止了心臟訊號通過這條路徑從心室回到心房的 re-entry。此外，除 AV bundle 外，心房肌與心室肌之間有連續的纖維屏障（fibrous barrier）分隔，防止心臟訊號通過 AV bundle 以外的路徑在心房與心室之間傳遞。
 
-The cardiac muscle wraps around the heart in a double spiral, with fibrous septa between the spiraling layers; therefore, the cardiac impulse does not necessarily travel directly outward toward the surface of the heart but, instead, angulates toward the surface along the directions of the spirals. Because of this angulation, transmission from the endocardial surface to the epicardial surface of the ventricle requires as much as another 0.03 second, approximately equal to the time required for transmission through the entire ventricular portion of the Purkinje system. Thus, the total time for transmission of the cardiac impulse from the initial bundle branches to the last of the ventricular muscle fibers in the normal heart is about 0.06 second.
+**Purkinje 纖維在心室內的分布：** AV bundle 穿過纖維組織後沿心室間隔向下延伸到心尖，然後分為左右 bundle branches，分布於心內膜下兩側心室間隔。這些分支在心室內繼續細分，環繞心室並向心底部迴繞。Purkinje 纖維末端約深入肌肉厚度的三分之一處，最終與心肌纖維連續。整個心室 Purkinje 傳導時間平均僅約 0.03 秒。
 
-SUMMARY OF THE SPREAD OF THE CARDIAC IMPULSE THROUGH THE HEART
+## 心臟訊號傳播的總結
 
-Figure 10-4 summarizes the transmission of the cardiac impulse through the human heart. The numbers on the figure represent the intervals of time, in fractions of a second, that lapse between the origin of the cardiac impulse in the sinus node and its appearance at each respective point in the heart. Note that the impulse spreads at moderate velocity through the atria but is delayed more than 0.1 second in the A-V nodal region before appearing in the ventricular septal A-V bundle. Once it has entered this bundle, it spreads very rapidly through the Purkinje fibers to the entire endocardial surfaces of the ventricles. Then, the impulse once again spreads slightly less rapidly through the ventricular muscle to the epicardial surfaces.
+Figure 10-4 總結了人心臟中 cardiac impulse 的傳播。訊號在心房以中等速度傳播，但在 AV 結區延遲超過 0.1 秒。一旦進入 AV bundle，即通過 Purkinje 纖維迅速傳播到整個心室內膜表面。隨後訊號以稍慢的速度通過心室肌傳播到心外膜。從竇房結到心室肌末端的總時間約 0.06 秒。
 
-It is important that the student learn in detail the course of the cardiac impulse through the heart and the precise times of its appearance in each separate part of the heart. A thorough quantitative knowledge of this process is essential for understanding electrocardiography, which is discussed in Chapters 11 through 13.
+## 心臟興奮與傳導的控制
 
-CONTROL OF EXCITATION AND CONDUCTION IN THE HEART
+### 竇房結是正常心臟的 Pacemaker
 
-THE SINUS NODE IS THE NORMAL PACEMAKER OF THE HEART
+在正常情況下，心臟的節律由竇房結控制，但其他部位也有自動節律性興奮的能力。AV 結纖維的固有節律為 40-60 次/分，Purkinje 纖維為 15-40 次/分，都低於竇房結的 70-80 次/分。
 
-In discussing the genesis and transmission of the cardiac impulse through the heart, we have noted that the impulse normally arises in the sinus node. In some abnormal conditions, this is not the case. Other parts of the heart can also exhibit intrinsic rhythmical excitation in the same way as the sinus nodal fibers; this is particularly true of the A-V nodal and Purkinje fibers.
+竇房結控制心臟節律的原因在於其放電頻率比其他任何部位都快。每次竇房結放電，訊號都會傳入 AV 結與 Purkinje 纖維，使它們的興奮膜放電。但竇房結總是在 AV 結或 Purkinje 纖維達到自我興奮閾值之前再次放電，因此竇房結總是搶先一步，使其他部位來不及自我興奮。
 
-The A-V nodal fibers, when not <span class="c-green">stimulated</span> from some outside source, discharge at an intrinsic rhythmical rate of 40 to 60 times per minute, and the Purkinje fibers discharge at a rate somewhere between 15 and 40 times per minute. These rates are in contrast to the normal rate of the sinus node of 70 to 80 times per minute.
+**異常 pacemaker——異位 pacemaker：** 有時心臟其他部位的節律性放電頻率高於竇房結，pacemaker 就會轉移到 AV 結或 Purkinje 纖維。竇房結以外的 pacemaker 稱為 ectopic pacemaker，會導致心臟各部位收縮順序異常，並可能嚴重削弱心臟泵血功能。
 
-Why then does the sinus node rather than the A-V node or the Purkinje fibers control the heart's rhythmicity? The answer derives from the fact that the discharge rate of the sinus node is considerably faster than the natural self-excitatory discharge rate of either the A-V node or the Purkinje fibers. Each time the sinus node discharges, its impulse is conducted into both the A-V node and Purkinje fibers, also discharging their excitable membranes. However, the sinus node discharges again before either the A-V node or Purkinje fibers can reach their own thresholds for self-excitation. Therefore, the new impulse from the sinus node discharges both the A-V node and Purkinje fibers before self-excitation can occur in either of these sites.
+另一種 pacemaker 轉移的原因是從竇房結到心臟其他部位的傳導阻滯。新的 pacemaker 通常發生在 AV 結或穿通 AV bundle。當 AV block 發生時（心臟訊號無法從心房通過 AV 結傳入心室），心房繼續以竇房結的正常節律跳動，而心室在 Purkinje 系統產生新的 pacemaker，頻率僅 15-40 次/分。AV bundle 阻斷後，Purkinje 系統需要 5-20 秒才開始發出固有節律性訊號，因為之前被竇房結高頻刺激所抑制。在這段等待期間，心室停止泵血，患者在 4-5 秒後因腦部血流不足而暈厥。這種延遲恢復稱為 Stokes-Adams 症候群。
 
-Thus, the sinus node controls the beat of the heart because its rate of rhythmical discharge is faster than that of any other part of the heart. Therefore, the sinus node is almost always the pacemaker of the normal heart.
+## Purkinje 系統確保心室肌的同步收縮
 
-**Abnormal Pacemakers—Ectopic Pacemaker.** Occasionally, some other part of the heart develops a rhythmical discharge rate that is more rapid than that of the sinus node. For example, this development sometimes occurs in the A-V node or in the Purkinje fibers when one of these becomes abnormal. In either case, the pacemaker of the heart shifts from the sinus node to the A-V node or to the <span class="c-green">excited</span> Purkinje fibers. Under rarer conditions, a place in the atrial or ventricular muscle develops excessive excitability and becomes the pacemaker.
+Purkinje 系統的快速傳導使心臟訊號能在極窄的時間範圍內到達心室幾乎所有部位——第一條心室肌纖維的興奮只領先最後一條約 0.03-0.06 秒。這確保了左右心室所有部位幾乎同時開始收縮並維持約 0.3 秒。
 
-A pacemaker elsewhere than the sinus node is called an ectopic pacemaker. An ectopic pacemaker causes an abnormal sequence of contraction of the different parts of the heart and can cause significant weakening of heart pumping.
+有效的雙心室泵血需要這種同步收縮。如果心臟訊號在心室內傳播緩慢，大部分心室會在其他部分收縮前就開始收縮，整體泵血效果會大幅下降。在某些心臟功能障礙中，確實存在這種傳播緩慢的問題，泵血效率可降低 20-30%。心臟再同步治療（cardiac resynchronization therapy, CRT）裝置是一種透過插入心臟的導線來恢復心房與兩心室之間適當時序的 pacemaker，可改善心臟擴大且衰弱患者的泵血效率。
 
-Another cause of shift of the pacemaker is <span class="c-green">block</span>age of transmission of the cardiac impulse from the sinus node to the other parts of the heart. The new pacemaker then usually occurs at the A-V node or in the penetrating portion of the A-V bundle on the way to the ventricles.
+## 交感與副交感神經控制心臟節律與傳導
 
-When A-V <span class="c-green">block</span> occurs—that is, when the cardiac impulse fails to pass from the atria into the ventricles through the A-V nodal and bundle system—the atria continue to beat at the normal rate of rhythm of the sinus node while a new pacemaker usually develops in the Purkinje system of the ventricles and drives the ventricular muscle at a new rate, somewhere between 15 and 40 beats per minute. After sudden A-V bundle <span class="c-green">block</span>, the Purkinje system does not begin to emit its intrinsic rhythmical impulses until 5 to 20 seconds later because, before the <span class="c-green">block</span>age, the Purkinje fibers had been "overdriven" by the rapid sinus impulses and, consequently, are in a suppressed state. During these 5 to 20 seconds, the ventricles fail to pump blood, and the person faints after the first 4 to 5 seconds because of lack of blood flow to the brain. This delayed pickup of the heartbeat is called Stokes-Adams syndrome. If the delay period is too long, it can lead to <span class="c-red">death</span>.
+心臟同時接受交感與副交感神經支配。副交感神經（迷走神經）主要分布於竇房結與 AV 結，較少分布於心房肌，几乎不直接分布於心室肌。交感神經則分布於心臟各部位，包括心室肌。
 
-ROLE OF THE PURKINJE SYSTEM IN CAUSING SYNCHRONOUS CONTRACTION OF THE VENTRICULAR MUSCLE
+### 副交感（迷走）刺激減慢心律與傳導
 
-The rapid conduction of the Purkinje system normally permits the cardiac impulse to arrive at almost all portions of the ventricles within a narrow span of time, exciting the first ventricular muscle fiber only 0.03 to 0.06 second ahead of excitation of the last ventricular muscle fiber. This timing causes all portions of the ventricular muscle in both ventricles to begin contracting at almost the same time and then to continue contracting for about another 0.3 second.
+刺激心臟的副交感神經會導致 acetylcholine 釋放，有兩個主要效應：
 
-Effective pumping by the two ventricular chambers requires this synchronous type of contraction. If the cardiac impulse should travel through the ventricles slowly, much of the ventricular mass would contract before contraction of the remainder, in which case the overall pumping effect would be greatly depressed. Indeed, in some types of cardiac dysfunction, several of which are discussed in Chapters 12 and 13, slow transmission does occur, and the pumping effectiveness of the ventricles is decreased as much as 20% to 30%. Implantable cardiac resynchronization devices are types of pacemakers using electrical wires or leads that can be inserted into the cardiac chambers to restore appropriate timing between the atria and both ventricles to improve pumping effectiveness in patients with enlarged and weakened hearts.
+1. 降低竇房結的節律頻率
+2. 降低 AV 結區纖維的興奮性，減慢訊號傳入心室的速度
 
-<span class="c-yellow">SYMPATHETIC</span> AND <span class="c-yellow">PARASYMPATHETIC</span> NERVES CONTROL HEART RHYTHMICITY AND IMPULSE CONDUCTION BY THE CARDIAC NERVES
+適度的迷走刺激可使心率減到正常的一半以下。強烈的迷走刺激可完全停止竇房結的節律性興奮，或完全阻斷訊號從心房傳入心室。
 
-The heart is supplied with both <span class="c-yellow">sympathetic</span> and <span class="c-yellow">parasympathetic</span> nerves, as shown in Figure 9-14 of Chapter 9. The <span class="c-yellow">parasympathetic</span> nerves (the vagi) are distributed mainly to the S-A and A-V nodes, to a lesser extent to the muscle of the two atria, and very little directly to the ventricular muscle. The <span class="c-yellow">sympathetic</span> nerves, conversely, are distributed to all parts of the heart, with strong representation in the ventricular muscle, as well as in all the other areas.
+**迷走效應的機制：** Acetylcholine 增加了纖維膜對鉀離子的通透性，使鉀離子快速流到細胞外，引起稱為超極化（hyperpolarization）的細胞內負電性增強。在竇房結，超極化使 resting membrane potential 變得更負（−65 至 −75 毫伏而非正常的 −55 至 −60 毫伏），因此需要更長時間才能上升到閾值，大大減慢了這些結纖維的節律性。在 AV 結，超極化使進入結區的小心房纖維難以產生足夠的電量來興奮結區纖維，減慢了傳導或完全阻斷傳導。
 
-**Parasympathetic (Vagal) Stimulation Slows the Cardiac Rhythm and Conduction.** Stimulation of the parasympathetic nerves to the heart (the vagi) causes <span class="c-cyan">acetylcholine</span> to be released at the vagal endings. This neurotransmitter has two major effects on the heart:
+### 交感刺激增加心律與傳導
 
-1. It decreases the rate of rhythm of the sinus node.
-2. It decreases the excitability of the A-V junctional fibers between the atrial musculature and the A-V node, thereby slowing transmission of the cardiac impulse into the ventricles.
+交感刺激的效果與迷走刺激相反：
 
-Weak to moderate vagal stimulation slows the rate of heart pumping, often to as little as one-half normal. Furthermore, strong stimulation of the vagi can completely stop the rhythmical excitation by the sinus node or completely <span class="c-green">block</span> transmission of the cardiac impulse from the atria into the ventricles through the A-V node. In either case, rhythmical excitatory signals are no longer transmitted into the ventricles. The ventricles may stop beating for 5 to 20 seconds, but then some small area in the Purkinje fibers, usually in the ventricular septal portion of the A-V bundle, develops a rhythm of its own and causes ventricular contraction at a rate of 15 to 40 beats per minute. This phenomenon is called ventricular escape.
+1. 增加竇房結的放電頻率
+2. 增加心臟各部位的傳導速度與興奮性
+3. 大幅增加所有心肌（心房與心室）的收縮力量
 
-**Mechanism of the Vagal Effects.** The <span class="c-cyan">acetylcholine</span> released at the vagal nerve endings greatly increases the permeability of the fiber membranes to potassium ions, which allows rapid leakage of potassium out of the conductive fibers. This process causes increased negativity inside the fibers, an effect called hyperpolarization, which makes this excitable tissue much less excitable, as explained in Chapter 5.
+交感刺激可使心率幾乎增加兩倍（最大可達三倍），並使心臟收縮力量增加一倍。
 
-In the sinus node, the state of hyperpolarization makes the resting <span class="c-yellow">membrane potential</span> of the sinus nodal fibers considerably more negative than usual—that is, −65 to −75 millivolts rather than the normal level of −55 to −60 millivolts. Therefore, the initial rise of the sinus nodal <span class="c-yellow">membrane potential</span> caused by inward sodium and calcium leakage requires much longer to reach the threshold potential for excitation. This requirement greatly slows the rate of rhythmicity of these nodal fibers. If the vagal stimulation is strong enough, it is possible to stop the rhythmical self-excitation of this node entirely.
-
-In the A-V node, a state of hyperpolarization caused by vagal stimulation makes it difficult for the small atrial fibers entering the node to generate enough electricity to <span class="c-green">excite</span> the nodal fibers. Therefore, the safety factor for transmission of the cardiac impulse through the transitional fibers into the A-V nodal fibers decreases. A moderate decrease simply delays conduction of the impulse, but a large decrease <span class="c-green">blocks</span> conduction entirely.
-
-**Sympathetic Stimulation Increases the Cardiac Rhythm and Conduction.** <span class="c-yellow">Sympathetic</span> stimulation causes essentially the opposite effects on the heart as those caused by vagal stimulation, as follows:
-
-1. It increases the rate of sinus nodal discharge.
-2. It increases the rate of conduction, as well as the level of excitability in all portions of the heart.
-3. It increases greatly the force of contraction of all the cardiac musculature, both atrial and ventricular, as discussed in Chapter 9.
-
-In short, <span class="c-yellow">sympathetic</span> stimulation increases the overall activity of the heart. Maximal stimulation can almost triple the heartbeat frequency and can increase the strength of heart contraction as much as twofold.
-
-**Mechanism of the Sympathetic Effect.** Stimulation of the <span class="c-yellow">sympathetic</span> nerves releases <span class="c-cyan">norepinephrine</span> at the <span class="c-yellow">sympathetic</span> nerve endings. <span class="c-cyan">Norepinephrine</span>, in turn, <span class="c-green">stimulates</span> beta-1 adrenergic receptors, which mediate the effects on heart rate. The precise mechanism whereby beta-1 adrenergic stimulation acts on cardiac muscle fibers is somewhat unclear, but is thought to increase the permeability of the fiber membrane to sodium and calcium ions. In the sinus node, an increase of sodium-calcium permeability causes a more positive <span class="c-yellow">resting potential</span>. It also causes an increased rate of upward drift of the diastolic <span class="c-yellow">membrane potential</span> toward the threshold level for self-excitation, thus accelerating self-excitation and, therefore, increasing the heart rate.
-
-In the A-V node and A-V bundles, increased sodium-calcium permeability makes it easier for the action potential to <span class="c-green">excite</span> each succeeding portion of the conducting fiber bundles, thereby decreasing the conduction time from the atria to the ventricles.
-
-The increase in permeability to calcium ions is at least partially responsible for the increase in contractile strength of the cardiac muscle under the influence of <span class="c-yellow">sympathetic</span> stimulation. This is because calcium ions play a powerful role in exciting the contractile process of the myofibrils.
-
-UNIT III The Heart
-
-**Bibliography**
-
-Abriel H, Rougier JS, Jalife J: Ion channel macromolecular complexes in cardiomyocytes: roles in sudden cardiac <span class="c-red">death</span>. Circ Res 116:1971, 2015.
-
-Anderson RH, Boyett MR, Dobrzynski H, Moorman AF: The anatomy of the conduction system: implications for the clinical cardiologist. J Cardiovasc Transl Res 6:187, 2013.
-
-Barbuti A, DiFrancesco D: Control of cardiac rate by "funny" channels in health and disease. Ann N Y Acad Sci 1123:213, 2008.
-
-Fedorov VV, Glukhov AV, Chang R: Conduction barriers and pathways of the sinoatrial pacemaker complex: their role in normal rhythm and atrial arrhythmias. Am J Physiol Heart Circ Physiol 302:H1773, 2012.
-
-Fukada K, Kanazawa H, Aizawa Y, et al: Cardiac innervation and sudden cardiac <span class="c-red">death</span>. Circ Res 116:2005, 2015.
-
-Kléber AG, Rudy Y: Basic mechanisms of cardiac impulse propagation and associated arrhythmias. Physiol Rev 84:431, 2004.
-
-John RM, Kumar S: Sinus node and atrial arrhythmias. Circulation 133:1892, 2016.
-
-Leyva F, Nisam S, Auricchio A: 20 years of cardiac resynchronization therapy. J Am Coll Cardiol 64:1047, 2014.
-
-Mangoni ME, Nargeot J: Genesis and regulation of the heart automaticity. Physiol Rev 88:919, 2008.
-
-Monfredi O, Maltsev VA, Lakatta EG: Modern concepts concerning the origin of the heartbeat. Physiology (Bethesda) 28:74, 2013.
-
-Murphy C, Lazzara R: Current concepts of anatomy and electrophysiology of the sinus node. J Interv Card Electrophysiol 46:9, 2016.
-
-Roubille F, Tardif JC: New therapeutic targets in cardiology: heart failure and <span class="c-red">arrhythmia</span>: HCN channels. Circulation 127:1986, 2013.
-
-Smaill BH, Zhao J, Trew ML: Three-dimensional impulse propagation in myocardium: arrhythmogenic mechanisms at the tissue level. Circ Res 112:834, 2013.
-
-Wickramasinghe SR, Patel VV: Local innervation and atrial fibrillation. Circulation 128:1566, 2013.
-
-Willis BC, Ponce-Balbuena D, Jalife J: Protein assemblies of sodium and inward rectifier potassium channels control cardiac excitability and arrhythmogenesis. Am J Physiol Heart Circ Physiol 308:H1463, 2015.
-
-# Fundamentals of Electrocardiography
-## CHAPTER 11
-### UNIT III
-
----
-
-When a cardiac impulse passes through the heart, electrical current also spreads from the heart into the adjacent tissues surrounding the heart. A small portion of the current spreads all the way to the surface of the body. If electrodes are placed on the skin on opposite sides of the heart, electrical potentials generated by the current can be recorded; the recording is known as an electrocardiogram (ECG). A normal ECG for two beats of the heart is shown in Figure 11-1.
-
-## WAVEFORMS OF THE NORMAL ELECTROCARDIOGRAM
-
-The normal ECG (see Figure 11-1) is composed of a P wave, a QRS complex, and a T wave. The QRS complex is often, but not always, three separate waves: the Q wave, the R wave, and the S wave.
-
-The P wave is caused by electrical potentials generated when the atria depolarize before atrial contraction begins. The QRS complex is caused by potentials generated when the ventricles depolarize before contraction—that is, as the <span class="c-yellow">depolarization</span> wave spreads through the ventricles. Therefore, both the P wave and the components of the QRS complex are <span class="c-yellow">depolarization</span> waves.
-
-The T wave is caused by potentials generated as the ventricles recover from <span class="c-yellow">depolarization</span>. This process normally occurs in ventricular muscle 0.25 to 0.35 second after depolarization. The T wave is known as a <span class="c-yellow">repolarization</span> wave.
-
-Thus, the ECG is composed of both <span class="c-yellow">depolarization</span> and <span class="c-yellow">repolarization</span> waves. The principles of <span class="c-yellow">depolarization</span> and <span class="c-yellow">repolarization</span> are discussed in Chapter 5. The distinction between <span class="c-yellow">depolarization</span> waves and <span class="c-yellow">repolarization</span> waves is so important in electrocardiography that further clarification is necessary.
-
-## CARDIAC <span class="c-yellow">DEPOLARIZATION</span> WAVES VERSUS <span class="c-yellow">REPOLARIZATION</span> WAVES
-
-Figure 11-2 shows a single cardiac muscle fiber in four stages of <span class="c-yellow">depolarization</span> and <span class="c-yellow">repolarization</span>, with the color red designating <span class="c-yellow">depolarization</span>. During <span class="c-yellow">depolarization</span>, the normal negative potential inside the fiber reverses and becomes slightly positive inside and negative outside.
-
-In Figure 11-2A, <span class="c-yellow">depolarization</span>, demonstrated by red positive charges inside and red negative charges outside, is traveling from left to right. The first half of the fiber has already depolarized while the remaining half is still polarized. Therefore, the left electrode on the outside of the fiber is in an area of negativity, and the right electrode is in an area of positivity, which causes the meter to record positively. To the right of the muscle fiber is shown a record of changes in potential between the two electrodes, as recorded by a high-speed recording meter. Note that when <span class="c-yellow">depolarization</span> has reached the halfway mark in Figure 11-2A, the recording on the right has risen to a maximum positive value.
-
-In Figure 11-2B, <span class="c-yellow">depolarization</span> has extended over the entire muscle fiber, and the recording to the right has returned to the zero baseline because both electrodes are now in areas of equal negativity. The completed wave is a <span class="c-yellow">depolarization</span> wave because it results from the spread of <span class="c-yellow">depolarization</span> along the muscle fiber membrane.
-
-Figure 11-2C shows halfway <span class="c-yellow">repolarization</span> of the same muscle fiber, with positivity returning to the outside of the fiber. At this point, the left electrode is in an area of positivity, and the right electrode is in an area of negativity. This polarity is opposite to the polarity in Figure 11-2A. Consequently, the recording, as shown to the right, becomes negative.
-
-In Figure 11-2D, the muscle fiber has completely repolarized, and both electrodes are now in areas of positivity so that no potential difference is recorded between them. Thus, in the recording on the right, the potential returns once more to zero. This completed negative wave is a <span class="c-yellow">repolarization</span> wave because it results from the spread of <span class="c-yellow">repolarization</span> along the muscle fiber membrane.
-
-### Relation of the Monophasic <span class="c-yellow">Action Potential</span> of Ventricular Muscle to the QRS and T Waves in the Standard Electrocardiogram
-
-The monophasic action potential of ventricular muscle, discussed in Chapter 10, normally lasts between 0.25 and 0.35 second. The top part of Figure 11-3 shows a monophasic <span class="c-yellow">action potential</span> recorded from a microelectrode inserted into the inside of a single ventricular muscle fiber. The upsweep of this action potential is caused by <span class="c-yellow">depolarization</span>, and the return of the potential to the baseline is caused by <span class="c-yellow">repolarization</span>.
-
-The lower half of Figure 11-3 shows a simultaneous recording of the ECG from this same ventricle. Note that the QRS waves appear at the beginning of the monophasic <span class="c-yellow">action potential</span>, and the T wave appears at the end. Note especially that no potential is recorded in the ECG when the ventricular muscle is either completely polarized or completely depolarized. Only when the muscle is partly polarized and partly depolarized does current flow from one part of the ventricles to another part, and therefore current also flows to the surface of the body to produce the ECG.
-
-## RELATIONSHIP OF ATRIAL AND VENTRICULAR CONTRACTION TO THE WAVES OF THE ELECTROCARDIOGRAM
-
-Before contraction of muscle can occur, <span class="c-yellow">depolarization</span> must spread through the muscle to initiate the chemical processes of contraction. Refer again to Figure 11-1; the P wave occurs at the beginning of contraction of the atria, and the QRS complex of waves occurs at the beginning of contraction of the ventricles. The ventricles remain contracted until after <span class="c-yellow">repolarization</span> has occurred—that is, until after the end of the T wave.
-
-The atria repolarize about 0.15 to 0.20 second after termination of the P wave, which is also approximately when the QRS complex is being recorded in the ECG. Therefore, the atrial <span class="c-yellow">repolarization</span> wave, known as the atrial T wave, is usually obscured by the much larger QRS complex. For this reason, an atrial T wave is seldom observed on the ECG.
-
-The ventricular <span class="c-yellow">repolarization</span> wave is the T wave of the normal ECG. Ordinarily, ventricular muscle begins to repolarize in some fibers about 0.20 second after the beginning of the <span class="c-yellow">depolarization</span> wave (the QRS complex), but in many other fibers, it takes as long as 0.35 second. Thus, the process of ventricular <span class="c-yellow">repolarization</span> extends over a long period, about 0.15 second. For this reason, the T wave in the normal ECG is a prolonged wave, but the voltage of the T wave is considerably less than the voltage of the QRS complex, partly because of its prolonged length.
-
-<span class="c-yellow">Depolarization</span> wave
-
-<span class="c-yellow">Repolarization</span> wave
-
-+ + + + + + + + +
-+ + + + + + + + +
-+ + + + + + +
-+ + + + + + + + + + + + + + + +
-+ + + + + + + + + + + + + + + +
-- - - - - - - - - + + + + + + +
-- - - - - - - - - + + + + + + +
-- - - - - - - - - - - - - - - -
-- - - - - - - - - - - - - - - -
-+ + + + + + + + + - - - - - - -
-+ + + + + + + + + + + + + + + +
-+ + + + + + + + + + + + + + + +
-+ + + + + + + + + - - - - - - -
-+ + + + + + +
-- - - - - - -
-- - - - - - -
-- - - - - - -
-- - - - - - - - - - - - - - - -
-- - - - - - - - - - - - - - - -
-- - - - - - - - -
-- - - - - - - - -
-
-0.30 second
-
-Figure 11-2. Recording the <span class="c-yellow">depolarization</span> wave (A and B) and the <span class="c-yellow">repolarization</span> wave (C and D) from a cardiac muscle fiber.
-
-<span class="c-yellow">Depolarization</span>
-
-<span class="c-yellow">Repolarization</span>
-
-TP
-
-R
-
-S
-
-Q
-
-Figure 11-3. Top, Monophasic <span class="c-yellow">action potential</span> from a ventricular muscle fiber during normal cardiac function showing rapid <span class="c-yellow">depolarization</span> and then <span class="c-yellow">repolarization</span> occurring slowly during the plateau stage but rapidly toward the end. Bottom, Electrocardiogram recorded simultaneously.
-
-Figure 11-1. Normal electrocardiogram.
-
-+1.0
-
-Atria Ventricles
-
-RR interval
-
-P
-
-R
-
-T
-
-S
-
-QP-R interval
-
-= 0.16 sec Q-T interval
-
-S-T
-
-segment
-
--0.5
-
-+0.5
-
-0 0.2 0.4 0.6 0.8 1.0 1.2 1.61.4
-
-Millivolts
-
-Time (sec)
-
----
-
-UNIT III The Heart
+**交感效應的機制：** 交感神經末梢釋放 norepinephrine，刺激 β1-腎上腺素受體。具體機制可能是增加纖維膜對鈉離子與鈣離子的通透性。在竇房結，增加的鈉-鈣通透性使 resting potential 變更正，diastolic membrane potential 向自我興奮閾值上升的速度加快，從而加速 self-excitation 並增加心率。在 AV 結，增加的鈉-鈣通透性使 action potential 更易興奮每個相繼的傳導纖維，從而減少從心房到心室的傳導時間。

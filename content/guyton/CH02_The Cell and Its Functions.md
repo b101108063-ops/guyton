@@ -1,893 +1,413 @@
-```yaml
 ---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH02"
 title: "The Cell and Its Functions"
 book: "Guyton & Hall"
-summary: "Chapter 2 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
----
-```
-
-UNIT I
-
-The lipids in membranes provide a barrier that impedes movement of water and water-soluble substances from one cell compartment to another because water is not soluble in lipids. However, protein molecules often penetrate all the way through membranes, thus providing specialized pathways, often organized into actual pores, for passage of specific substances through membranes. Also, many other membrane proteins are enzymes, which catalyze a multitude of different chemical reactions, discussed here and in subsequent chapters.
-
-## Cell Membrane
-
-The cell membrane (also called the plasma membrane) envelops the cell and is a thin, pliable, elastic structure only 7.5 to 10 nanometers thick. It is composed almost entirely of proteins and lipids. The approximate composition is 55% proteins, 25% phospholipids, 13% cholesterol, 4% other lipids, and 3% carbohydrates.
-
-### The Cell Membrane Lipid Barrier Impedes Penetration by Water-Soluble Substances
-
-Figure 2-3 shows the structure of the cell membrane. Its basic structure is a lipid bilayer, which is a thin, double-layered film of lipids—each layer only one molecule thick—that is continuous over the entire cell surface. Interspersed in this lipid film are large globular proteins.
-
-The basic lipid bilayer is composed of three main types of lipids—phospholipids, sphingolipids, and cholesterol. Phospholipids are the most abundant cell membrane lipids. One end of each phospholipid molecule is hydrophilic and soluble in water. The other end is hydrophobic and soluble only in fats. The phosphate end of the phospholipid is hydrophilic, and the fatty acid portion is hydrophobic.
-
-Because the hydrophobic portions of the phospholipid molecules are repelled by water but are mutually attracted to one another, they have a natural tendency to attach to one another in the middle of the membrane, as shown in Figure 2-3. The hydrophilic phosphate portions then constitute the two surfaces of the complete cell membrane, in contact with intracellular water on the inside of the membrane and extracellular water on the outside surface.
-
-The lipid layer in the middle of the membrane is impermeable to the usual water-soluble substances, such as ions, glucose, and urea. Conversely, fat-soluble substances, such as oxygen, carbon dioxide, and alcohol, can penetrate this portion of the membrane with ease.
-
-Sphingolipids, derived from the amino alcohol sphingosine, also have hydrophobic and hydrophilic groups and are present in small amounts in the cell membranes, especially nerve cells. Complex sphingolipids in cell membranes are thought to serve several functions, including protection from harmful environmental factors, signal transmission, and adhesion sites for extracellular proteins.
-
-Cholesterol molecules in membranes are also lipids because their steroid nuclei are highly fat-soluble. These molecules, in a sense, are dissolved in the bilayer of the membrane. They mainly help determine the degree of permeability (or impermeability) of the bilayer to water-soluble constituents of body fluids. Cholesterol controls much of the fluidity of the membrane as well.
-
-Integral protein
-Extracellular
-fluid
-Intracellular
-fluid
-Cytoplasm
-Lipid
-bilayer
-Carbohydrate
-Integral protein
-Peripheral
-protein
-
-Figure 2-3. Structure of the cell membrane showing that it is composed mainly of a lipid bilayer of phospholipid molecules, but with large numbers of protein molecules protruding through the layer. Also, carbohydrate moieties are attached to the protein molecules on the outside of the membrane and to additional protein molecules on the inside.
-
-### Integral and Peripheral Cell Membrane Proteins
-
-Figure 2-3 also shows globular masses floating in the lipid bilayer. These membrane proteins are mainly glycoproteins. There are two types of cell membrane proteins:
-
-- **Integral proteins**, which protrude all the way through the membrane
-- **Peripheral proteins**, which are attached only to one surface of the membrane and do not penetrate all the way through
-
-Many of the integral proteins provide structural channels (or pores) through which water molecules and water-soluble substances, especially ions, can diffuse between extracellular and intracellular fluids. These protein channels also have selective properties that allow preferential diffusion of some substances over others.
-
-Other integral proteins act as carrier proteins for transporting substances that otherwise could not penetrate the lipid bilayer. Sometimes, these carrier proteins even transport substances in the direction opposite to their electrochemical gradients for diffusion, which is called <span class="c-yellow">active transport</span>. Still others act as enzymes.
-
-Integral membrane proteins can also serve as receptors for water-soluble chemicals, such as peptide hormones, that do not easily penetrate the cell membrane. Interaction of cell membrane receptors with specific ligands that bind to the receptor causes conformational changes in the receptor protein. This process, in turn, enzymatically <span class="c-green">activates</span> the intracellular part of the protein or induces interactions between the receptor and proteins in the cytoplasm that act as second messengers, relaying the signal from the extracellular part of the receptor to the interior of the cell. In this way, integral proteins spanning the cell membrane provide a means of conveying information about the environment to the cell interior.
-
-Peripheral protein molecules are often attached to integral proteins. These peripheral proteins function almost entirely as enzymes or as controllers of transport of substances through cell membrane pores.
-
-### Membrane Carbohydrates—The Cell "Glycocalyx"
-
-Membrane carbohydrates occur almost invariably in combination with proteins or lipids in the form of glycoproteins or glycolipids. In fact, most of the integral proteins are glycoproteins, and about one-tenth of the membrane lipid molecules are glycolipids. The glyco-portions of these molecules almost invariably protrude to the outside of the cell, dangling outward from the cell surface. Many other carbohydrate compounds, called proteoglycans—which are mainly carbohydrates bound to small protein cores—are loosely attached to the outer surface of the cell as well. Thus, the entire outside surface of the cell often has a loose carbohydrate coat called the glycocalyx.
-
-The carbohydrate moieties attached to the outer surface of the cell have several important functions:
-
-1. Many of them have a negative electrical charge, which gives most cells an overall negative surface charge that repels other negatively charged objects.
-2. The glycocalyx of some cells attaches to the glycocalyx of other cells, thus attaching cells to one another.
-3. Many of the carbohydrates act as receptors for binding hormones, such as <span class="c-cyan">insulin</span>. When bound, this combination <span class="c-green">activates</span> attached internal proteins that in turn <span class="c-green">activates</span> a cascade of intracellular enzymes.
-4. Some carbohydrate moieties enter into immune reactions, as discussed in Chapter 35.
-
-## CYTOPLASM AND ITS ORGANELLES
-
-The cytoplasm is filled with minute and large dispersed particles and organelles. The jelly-like fluid portion of the cytoplasm in which the particles are dispersed is called cytosol and contains mainly dissolved proteins, electrolytes, and glucose.
-
-Dispersed in the cytoplasm are neutral fat globules, glycogen granules, ribosomes, secretory vesicles, and five especially important organelles:
-
-- The endoplasmic reticulum
-- The Golgi apparatus
-- Mitochondria
-- Lysosomes
-- Peroxisomes
-
-### Endoplasmic Reticulum
-
-Figure 2-2 shows the endoplasmic reticulum, a network of tubular structures called cisternae and flat vesicular structures in the cytoplasm. This organelle helps process molecules made by the cell and transports them to their specific destinations inside or outside the cell. The tubules and vesicles interconnect. Also, their walls are constructed of lipid bilayer membranes that contain large amounts of proteins, similar to the cell membrane. The total surface area of this structure in some cells—the liver cells, for example—can be as much as 30 to 40 times the cell membrane area.
-
-The detailed structure of a small portion of endoplasmic reticulum is shown in Figure 2-4. The space inside the tubules and vesicles is filled with endoplasmic matrix, a watery medium that is different from fluid in the cytosol outside the endoplasmic reticulum. Electron micrographs show that the space inside the endoplasmic reticulum is connected with the space between the two membrane surfaces of the nuclear membrane.
-
-Substances formed in some parts of the cell enter the space of the endoplasmic reticulum and are then directed to other parts of the cell. Also, the vast surface area of this reticulum and the multiple enzyme systems attached to its membranes provide the mechanisms for a major share of the cell's metabolic functions.
-
-#### Ribosomes and the Rough (Granular) Endoplasmic Reticulum
-
-Attached to the outer surfaces of many parts of the endoplasmic reticulum are large numbers of minute granular particles called ribosomes. Where these particles are present, the reticulum is called the rough (granular) endoplasmic reticulum. The ribosomes are composed of a mixture of RNA and proteins; they function to synthesize new protein molecules in the cell, as discussed later in this chapter and in Chapter 3.
-
-#### Smooth (Agranular) Endoplasmic Reticulum
-
-Part of the endoplasmic reticulum has no attached ribosomes. This part is called the smooth, or agranular, endoplasmic reticulum. The smooth reticulum functions for the synthesis of lipid substances and for other processes of the cells promoted by intrareticular enzymes.
-
-### Golgi Apparatus
-
-The Golgi apparatus, shown in Figure 2-5, is closely related to the endoplasmic reticulum. It has membranes similar to those of the smooth endoplasmic reticulum. The Golgi apparatus is usually composed of four or more stacked layers of thin, flat, enclosed vesicles lying near one side of the nucleus. This apparatus is prominent in secretory cells, where it is located on the side of the cell from which secretory substances are extruded.
-
-The Golgi apparatus functions in association with the endoplasmic reticulum. As shown in Figure 2-5, small transport vesicles (also called endoplasmic reticulum vesicles [ER vesicles]) continually pinch off from the endoplasmic reticulum and shortly thereafter fuse with the Golgi apparatus. In this way, substances entrapped in ER vesicles are transported from the endoplasmic reticulum to the Golgi apparatus. The transported substances are then processed in the Golgi apparatus to form lysosomes, secretory vesicles, and other cytoplasmic components (discussed later in this chapter).
-
-Matrix
-Ribosome
-Smooth (agranular)
-endoplasmic
-reticulum
-Rough (granular)
-endoplasmic
-reticulum
-
-Figure 2-4. Structure of the endoplasmic reticulum.
-
-Golgi
-apparatus
-Endoplasmic
-reticulum
-ER vesicles
-Golgi vesicles
-
-Figure 2-5. A typical Golgi apparatus and its relationship to the endoplasmic reticulum (ER) and the nucleus.
-
-### Lysosomes
-
-Lysosomes, shown in Figure 2-2, are vesicular organelles that form by breaking off from the Golgi apparatus; they then disperse throughout the cytoplasm. The lysosomes provide an intracellular digestive system that allows the cell to digest the following:
-
-1. Damaged cellular structures
-2. Food particles that have been ingested by the cell
-3. Unwanted matter such as bacteria
-
-Lysosomes are different in various cell types but are usually 250 to 750 nanometers in diameter. They are surrounded by typical lipid bilayer membranes and are filled with large numbers of small granules, 5 to 8 nanometers in diameter, which are protein aggregates of as many as 40 different hydrolase (digestive) enzymes. A hydrolytic enzyme is capable of splitting an organic compound into two or more parts by combining hydrogen from a water molecule with one part of the compound and combining the hydroxyl portion of the water molecule with the other part of the compound. For example, protein is hydrolyzed to form amino acids, glycogen is hydrolyzed to form glucose, and lipids are hydrolyzed to form fatty acids and glycerol.
-
-Hydrolytic enzymes are highly concentrated in lysosomes. Ordinarily, the membrane surrounding the lysosome prevents the enclosed hydrolytic enzymes from coming into contact with other substances in the cell and therefore prevents their digestive actions. However, some conditions of the cell break the membranes of lysosomes, allowing release of the digestive enzymes. These enzymes then split the organic substances with which they come in contact into small, highly diffusible substances such as amino acids and glucose. Some of the specific functions of lysosomes are discussed later in this chapter.
-
-### Peroxisomes
-
-Peroxisomes are physically similar to lysosomes, but they are different in two important ways. First, they are believed to be formed by self-replication (or perhaps by budding off from the smooth endoplasmic reticulum) rather than from the Golgi apparatus. Second, they contain oxidases rather than hydrolases. Several of the oxidases are capable of combining oxygen with hydrogen ions derived from different intracellular chemicals to form hydrogen peroxide (H₂O₂). Hydrogen peroxide is a highly oxidizing substance and is used in association with catalase, another oxidase enzyme present in large quantities in peroxisomes, to oxidize many substances that might otherwise be poisonous to the cell. For example, about half the alcohol that a person drinks is detoxified into acetaldehyde by the peroxisomes of the liver cells in this manner. A major function of peroxisomes is to catabolize long-chain fatty acids.
-
-### Secretory Vesicles
-
-One of the important functions of many cells is secretion of special chemical substances. Almost all such secretory substances are formed by the endoplasmic reticulum–Golgi apparatus system and are then released from the Golgi apparatus into the cytoplasm in the form of storage vesicles called secretory vesicles or secretory granules. Figure 2-6 shows typical secretory vesicles inside pancreatic acinar cells; these vesicles store protein proenzymes (enzymes that are not yet <span class="c-green">activated</span>). The proenzymes are secreted later through the outer cell membrane into the pancreatic duct and then into the duodenum, where they become <span class="c-green">activated</span> and perform digestive functions on the food in the intestinal tract.
-
-Secretory
-granules
-
-Figure 2-6. Secretory granules (secretory vesicles) in acinar cells of the pancreas.
-
-### Mitochondria
-
-The mitochondria, shown in Figure 2-2 and Figure 2-7, are called the powerhouses of the cell. Without them, cells would be unable to extract enough energy from the nutrients, and essentially all cellular functions would cease.
-
-Mitochondria are present in all areas of each cell's cytoplasm, but the total number per cell varies from less than 100 up to several thousand, depending on the energy requirements of the cell. Cardiac muscle cells (cardiomyocytes), for example, use large amounts of energy and have far more mitochondria than fat cells (adipocytes), which are much less active and use less energy. Furthermore, the mitochondria are concentrated in those portions of the cell responsible for the major share of its energy metabolism. They are also variable in size and shape. Some mitochondria are only a few hundred nanometers in diameter and are globular in shape, whereas others are elongated and are as large as 1 micrometer in diameter and 7 micrometers long. Still others are branching and filamentous.
-
-The basic structure of the mitochondrion, shown in Figure 2-7, is composed mainly of two lipid bilayer-protein membranes:
-
-- An outer membrane
-- An inner membrane
-
-Many infoldings of the inner membrane form shelves or tubules called cristae onto which oxidative enzymes are attached. The cristae provide a large surface area for chemical reactions to occur. In addition, the inner cavity of the mitochondrion is filled with a matrix that contains large quantities of dissolved enzymes necessary for extracting energy from nutrients. These enzymes operate in association with oxidative enzymes on the cristae to cause oxidation of nutrients, thereby forming carbon dioxide and water and, at the same time, releasing energy. The liberated energy is used to synthesize a high-energy substance called <span class="c-cyan">adenosine triphosphate</span> (<span class="c-cyan">ATP</span>). <span class="c-cyan">ATP</span> is then transported out of the mitochondrion and diffuses throughout the cell to release its own energy wherever it is needed for performing cellular functions. The chemical details of <span class="c-cyan">ATP</span> formation by the mitochondrion are provided in Chapter 68, but some basic functions of <span class="c-cyan">ATP</span> in the cell are introduced later in this chapter.
-
-Mitochondria are self-replicative, which means that one mitochondrion can form a second one, a third one, and so on whenever the cell needs increased amounts of <span class="c-cyan">ATP</span>. Indeed, the mitochondria contain DNA similar to that found in the cell nucleus. In Chapter 3, we will see that DNA is the basic constituent of the nucleus that controls replication of the cell. The DNA of the mitochondrion plays a similar role, controlling replication of the mitochondrion. Cells that are faced with increased energy demands—for example, in skeletal muscles subjected to chronic exercise training—may increase the density of mitochondria to supply the additional energy required.
-
-Outer membrane
-Inner membrane
-Oxidative
-phosphorylation
-enzymesOuter chamber
-MatrixCristae
-
-Figure 2-7. Structure of a mitochondrion.
-
-### Cell Cytoskeleton—Filament and Tubular Structures
-
-The cell cytoskeleton is a network of fibrillar proteins organized into filaments or tubules. These originate as precursor proteins synthesized by ribosomes in the cytoplasm. The precursor molecules then polymerize to form filaments (Figure 2-8). As an example, large numbers of actin microfilaments frequently occur in the outer zone of the cytoplasm, called the ectoplasm, to form an elastic support for the cell membrane. Also, in muscle cells, actin and myosin filaments are organized into a special contractile machine that is the basis for muscle contraction, as discussed in Chapter 6.
-
-**Intermediate filaments** are generally strong rope-like filaments that often work together with microtubules, providing strength and support for the fragile tubulin structures. They are called intermediate because their average diameter is between that of narrower actin microfilaments and wider myosin filaments found in muscle cells. Their functions are mainly mechanical, and they are less dynamic than actin microfilaments or microtubules. All cells have intermediate filaments, although the protein subunits of these structures vary, depending on the cell type. Specific intermediate filaments found in various cells include:
-
-- Desmin filaments in muscle cells
-- Neurofilaments in neurons
-- Keratins in epithelial cells
-
-A special type of stiff filament composed of polymerized tubulin molecules is used in all cells to construct strong tubular structures, the microtubules. Figure 2-8 shows typical microtubules of a cell.
-
-Another example of microtubules is the tubular skeletal structure in the center of each cilium that radiates upward from the cell cytoplasm to the tip of the cilium. This structure is discussed later in the chapter (see Figure 2-18). Also, both the centrioles and mitotic spindles of cells undergoing mitosis are composed of stiff microtubules.
-
-A major function of microtubules is to act as a cytoskeleton, providing rigid physical structures for certain parts of cells. The cell cytoskeleton not only determines cell shape but also participates in cell division, allows cells to move, and provides a tracklike system that directs the movement of organelles in the cells. Microtubules serve as the conveyor belts for the intracellular transport of vesicles, granules, and organelles such as mitochondria.
-
-α-Tubulin
-monomer
-β-Tubulin
-monomer
-Microtubule
-(25 nm)
-Microtubule
-Microfilaments
-Intermediate
-filament
-(8-12 nm)
-Fibrous protein
-dimer
-Intermediate filament
-Microfilament
-(7 nm)
-Two intertwined
-F-actin chains G-actin
-monomer
-Mitochondrion
-Cell membraneEndoplasmic
-reticulum
-Ribosome
-
-Figure 2-8. Cell cytoskeleton composed of protein fibers called microfilaments, intermediate filaments, and microtubules.
-
-### Nucleus
-
-The nucleus is the control center of the cell and sends messages to the cell to grow and mature, replicate, or die. Briefly, the nucleus contains large quantities of DNA, which comprise the genes. The genes determine the characteristics of the cell's proteins, including the structural proteins, as well as the intracellular enzymes that control cytoplasmic and nuclear activities.
-
-The genes also control and promote cell reproduction. The genes first reproduce to create two identical sets of genes; then the cell splits by a special process called mitosis to form two daughter cells, each of which receives one of the two sets of DNA genes. All these activities of the nucleus are discussed in Chapter 3.
-
-Unfortunately, the appearance of the nucleus under the microscope does not provide many clues to the mechanisms whereby the nucleus performs its control activities. Figure 2-9 shows the light microscopic appearance of the interphase nucleus (during the period between mitoses), revealing darkly staining chromatin material throughout the nucleoplasm. During mitosis, the chromatin material organizes in the form of highly structured chromosomes, which can then be easily identified using the light microscope, as illustrated in Chapter 3.
-
-#### Nuclear Membrane
-
-The nuclear membrane, also called the nuclear envelope, is actually two separate bilayer membranes, one inside the other. The outer membrane is continuous with the endoplasmic reticulum of the cell cytoplasm, and the space between the two nuclear membranes is also continuous with the space inside the endoplasmic reticulum, as shown in Figure 2-9.
-
-The nuclear membrane is penetrated by several thousand nuclear pores. Large complexes of proteins are attached at the edges of the pores so that the central area of each pore is only about 9 nanometers in diameter. Even this size is large enough to allow molecules up to a molecular weight of 44,000 to pass through with reasonable ease.
-
-#### Nucleoli and Formation of Ribosomes
-
-The nuclei of most cells contain one or more highly staining structures called nucleoli. The nucleolus, unlike most other organelles discussed here, does not have a limiting membrane. Instead, it is simply an accumulation of large amounts of RNA and proteins of the types found in ribosomes. The nucleolus enlarges considerably when the cell is actively synthesizing proteins.
-
-Formation of the nucleoli (and of the ribosomes in the cytoplasm outside the nucleus) begins in the nucleus. First, specific DNA genes in the chromosomes cause RNA to be synthesized. Some of this synthesized RNA is stored in the nucleoli, but most of it is transported outward through the nuclear pores into the cytoplasm. Here it is used in conjunction with specific proteins to assemble "mature" ribosomes that play an essential role in forming cytoplasmic proteins, as discussed in Chapter 3.
-
-Endoplasmic
-reticulum
-Nucleoplasm
-Cytoplasm
-Nuclear envelope:
-outer and inner
-membranes
-Pores
-Nucleolus
-Chromatin material (DNA)
-
-Figure 2-9. Structure of the nucleus.
-
-## COMPARISON OF THE ANIMAL CELL WITH PRECELLULAR FORMS OF LIFE
-
-The cell is a complicated organism that required many hundreds of millions of years to develop after the earliest forms of life, microorganisms that may have been similar to present-day viruses, first appeared on earth. Figure 2-10 shows the relative sizes of the following:
-
-- The smallest known virus (15 nm)
-- A large virus (150 nm)
-- A Rickettsia (350 nm)
-- A bacterium (1 μm)
-- A nucleated cell (5-10 μm+)
-
-This demonstrates that the cell has a diameter about 1000 times that of the smallest virus and therefore a volume about 1 billion times that of the smallest virus. Correspondingly, the functions and anatomical organization of the cell are also far more complex than those of the virus.
-
-The essential life-giving constituent of the small virus is a nucleic acid embedded in a coat of protein. This nucleic acid is composed of the same basic nucleic acid constituents (DNA or RNA) found in mammalian cells and is capable of reproducing itself under appropriate conditions. Thus, the virus propagates its lineage from generation to generation and is therefore a living structure in the same way that cells and humans are living structures.
-
-As life evolved, other chemicals in addition to nucleic acid and simple proteins became integral parts of the organism, and specialized functions began to develop in different parts of the virus. A membrane formed around the virus and, inside the membrane, a fluid matrix appeared. Specialized chemicals then developed inside the fluid to perform special functions; many protein enzymes appeared that were capable of catalyzing chemical reactions, thus determining the organism's activities.
-
-In still later stages of life, particularly in the rickettsial and bacterial stages, organelles developed inside the organism. These represent physical structures of chemical aggregates that perform functions in a more efficient manner than what can be achieved by dispersed chemicals throughout the fluid matrix.
-
-Finally, in the nucleated cell, still more complex organelles developed, the most important of which is the nucleus. The nucleus distinguishes this type of cell from all lower forms of life; it provides a control center for all cellular activities and for reproduction of new cells generation after generation, with each new cell having almost exactly the same structure as its progenitor.
-
-15 nm: Small virus
-150 nm: Large virus
-350 nm: Rickettsia
-1 μm Bacterium
-5-10 μm+
-Cell
-
-Figure 2-10. Comparison of sizes of precellular organisms with that of the average cell in the human body.
-
-## FUNCTIONAL SYSTEMS OF THE CELL
-
-In the remainder of this chapter, we discuss some functional systems of the cell that make it a living organism.
-
-## ENDOCYTOSIS—INGESTION BY THE CELL
-
-If a cell is to live and grow and reproduce, it must obtain nutrients and other substances from the surrounding fluids. Most substances pass through the cell membrane by the processes of diffusion and <span class="c-yellow">active transport</span>.
-
-Diffusion involves simple movement through the membrane caused by the random motion of the molecules of the substance. Substances move through cell membrane pores or, in the case of lipid-soluble substances, through the lipid matrix of the membrane.
-
-<span class="c-yellow">Active transport</span> involves actually carrying a substance through the membrane by a physical protein structure that penetrates all the way through the membrane. These <span class="c-yellow">active transport</span> mechanisms are so important to cell function that they are presented in detail in Chapter 4.
-
-Large particles enter the cell by a specialized function of the cell membrane called endocytosis (Video 2-1). The principal forms of endocytosis are pinocytosis and phagocytosis:
-
-- **Pinocytosis** means the ingestion of minute particles that form vesicles of extracellular fluid and particulate constituents inside the cell cytoplasm
-- **Phagocytosis** means the ingestion of large particles, such as bacteria, whole cells, or portions of degenerating tissue
-
-### Pinocytosis
-
-Pinocytosis occurs continually in the cell membranes of most cells, but is especially rapid in some cells. For example, it occurs so rapidly in macrophages that about 3% of the total macrophage membrane is engulfed in the form of vesicles each minute. Even so, the pinocytotic vesicles are so small—usually only 100 to 200 nanometers in diameter—that most of them can be seen only with an electron microscope.
-
-Pinocytosis is the only means whereby most large macromolecules, such as most proteins, can enter cells. In fact, the rate at which pinocytotic vesicles form is usually enhanced when such macromolecules attach to the cell membrane.
-
-Figure 2-11 demonstrates the successive steps of pinocytosis (A–D), showing three molecules of protein attaching to the membrane. These molecules usually attach to specialized protein receptors on the surface of the membrane that are specific for the type of protein that is to be absorbed. The receptors generally are concentrated in small pits on the outer surface of the cell membrane, called coated pits. On the inside of the cell membrane beneath these pits is a latticework of fibrillar protein called clathrin, as well as other proteins, perhaps including contractile filaments of actin and myosin. Once the protein molecules have bound with the receptors, the surface properties of the local membrane change in such a way that the entire pit invaginates inward, and fibrillar proteins surrounding the invaginating pit cause its borders to close over the attached proteins, as well as over a small amount of extracellular fluid. Immediately thereafter, the invaginated portion of the membrane breaks away from the surface of the cell, forming a pinocytotic vesicle inside the cytoplasm of the cell.
-
-What causes the cell membrane to go through the necessary contortions to form pinocytotic vesicles is still unclear. This process requires energy from within the cell, which is supplied by <span class="c-cyan">ATP</span>, a high-energy substance discussed later in this chapter. This process also requires the presence of calcium ions in the extracellular fluid, which probably react with contractile protein filaments beneath the coated pits to provide the force for pinching the vesicles away from the cell membrane.
-
-Receptors
-Actin and myosin Dissolving clathrin
-Proteins
-Coated pitClathrin
-A B
-C D
-
-Figure 2-11. Mechanism of pinocytosis.
-
-### Phagocytosis
-
-Phagocytosis occurs in much the same way as pinocytosis, except that it involves large particles rather than molecules. Only certain cells have the capability of phagocytosis—notably, tissue macrophages and some white blood cells.
-
-Phagocytosis is initiated when a particle such as a bacterium, dead cell, or tissue debris binds with receptors on the surface of the phagocyte. In the case of bacteria, each bacterium is usually already attached to a specific antibody; it is the antibody that attaches to the phagocyte receptors, dragging the bacterium along with it. This intermediation of antibodies is called opsonization, which is discussed in Chapters 34 and 35.
-
-Phagocytosis occurs in the following steps:
-
-1. The cell membrane receptors attach to the surface ligands of the particle.
-2. The edges of the membrane around the points of attachment evaginate outward within a fraction of a second to surround the entire particle; then, progressively more and more membrane receptors attach to the particle ligands. All this occurs suddenly in a zipper-like manner to form a closed phagocytic vesicle.
-3. Actin and other contractile fibrils in the cytoplasm surround the phagocytic vesicle and contract around its outer edge, pushing the vesicle to the interior.
-4. The contractile proteins then pinch the stem of the vesicle so completely that the vesicle separates from the cell membrane, leaving the vesicle in the cell interior in the same way that pinocytotic vesicles are formed.
-
-## LYSOSOMES DIGEST PINOCYTOTIC AND PHAGOCYTIC FOREIGN SUBSTANCES INSIDE THE CELL
-
-Almost immediately after a pinocytotic or phagocytic vesicle appears inside a cell, one or more lysosomes become attached to the vesicle and empty their acid hydrolases to the inside of the vesicle, as shown in Figure 2-12. Thus, a digestive vesicle is formed inside the cell cytoplasm in which the vesicular hydrolases begin hydrolyzing the proteins, carbohydrates, lipids, and other substances in the vesicle. The products of digestion are small molecules of substances such as amino acids, glucose, and phosphates that can diffuse through the membrane of the vesicle into the cytoplasm. What is left of the digestive vesicle, called the residual body, represents indigestible substances. In most cases, the residual body is finally excreted through the cell membrane by a process called exocytosis, which is essentially the opposite of endocytosis. Thus, the pinocytotic and phagocytic vesicles containing lysosomes can be called the digestive organs of the cells.
-
-### Lysosomes and Regression of Tissues and Autolysis of Damaged Cells
-
-Tissues of the body often regress to a smaller size. For example, this regression occurs in the uterus after pregnancy, in muscles during long periods of inactivity, and in mammary glands at the end of lactation. Lysosomes are responsible for much of this regression.
-
-Another special role of the lysosomes is the removal of damaged cells or damaged portions of cells from tissues. Damage to the cell—caused by heat, cold, trauma, chemicals, or any other factor—induces lysosomes to rupture. The released hydrolases immediately begin to digest the surrounding organic substances. If the damage is slight, only a portion of the cell is removed, and the cell is then repaired. If the damage is severe, the entire cell is digested, a process called autolysis. In this way, the cell is completely removed, and a new cell of the same type is formed, ordinarily by mitotic reproduction of an adjacent cell to take the place of the old one.
-
-The lysosomes also contain bactericidal agents that can kill phagocytized bacteria before they cause cellular damage. These agents include:
-
-1. Lysozyme, which dissolves the bacterial cell wall
-2. Lysoferrin, which binds iron and other substances before they can promote bacterial growth
-3. Acid at a pH of about 5.0, which <span class="c-green">activates</span> the hydrolases and inactivates bacterial metabolic systems
-
-### Autophagy and Recycling of Cell Organelles
-
-Lysosomes play a key role in the process of autophagy, which literally means "to eat oneself." Autophagy is a housekeeping process whereby obsolete organelles and large protein aggregates are degraded and recycled (Figure 2-13). Worn-out cell organelles are transferred to lysosomes by double-membrane structures called autophagosomes, which are formed in the cytosol. Invagination of the lysosomal membrane and the formation of vesicles provides another pathway for cytosolic structures to be transported into the lumen of lysosomes. Once inside the lysosomes, the organelles are digested, and the nutrients are reused by the cell. Autophagy contributes to the routine turnover of cytoplasmic components; it is a key mechanism for tissue development, cell survival when nutrients are scarce, and maintenance of <span class="c-yellow">homeostasis</span>. In liver cells, for example, the average mitochondrion normally has a life span of only about 10 days before it is destroyed.
-
-Pinocytotic or
-phagocytic
-vesicle
-Lysosomes
-Digestive vesicle
-Residual body
-Excretion
-
-Figure 2-12. Digestion of substances in pinocytotic or phagocytic vesicles by enzymes derived from lysosomes.
-
-Isolation membrane
-Autophagosome
-Autolysosome
-Lysosome
-Lysosomal
-hydrolase
-VESICLE
-NUCLEATION
-AUTOSOME
-FORMATION
-DOCKING AND
-FUSION WITH
-LYSOSOME
-VESICLE BREAKDOWN AND DEGRADATION
-
-Figure 2-13. Schematic diagram of autophagy steps.
-
-## SYNTHESIS OF CELLULAR STRUCTURES BY ENDOPLASMIC RETICULUM AND GOLGI APPARATUS
-
-### Endoplasmic Reticulum Functions
-
-The extensiveness of the endoplasmic reticulum and Golgi apparatus in secretory cells has already been emphasized. These structures are formed primarily of lipid bilayer membranes, similar to the cell membrane, and their walls are loaded with protein enzymes that catalyze the synthesis of many substances required by the cell.
-
-Most synthesis begins in the endoplasmic reticulum. The products formed there are then passed on to the Golgi apparatus, where they are further processed before being released into the cytoplasm. First, however, let us note the specific products that are synthesized in specific portions of the endoplasmic reticulum and Golgi apparatus.
-
-#### Protein Synthesis by the Rough Endoplasmic Reticulum
-
-The rough endoplasmic reticulum is characterized by large numbers of ribosomes attached to the outer surfaces of the endoplasmic reticulum membrane. As discussed in Chapter 3, protein molecules are synthesized within the structures of the ribosomes. The ribosomes extrude some of the synthesized protein molecules directly into the cytosol, but they also extrude many more through the wall of the endoplasmic reticulum to the interior of the endoplasmic vesicles and tubules into the endoplasmic matrix.
-
-#### Lipid Synthesis by the Smooth Endoplasmic Reticulum
-
-The endoplasmic reticulum also synthesizes lipids, especially phospholipids and cholesterol. These lipids are rapidly incorporated into the lipid bilayer of the endoplasmic reticulum, thus causing the endoplasmic reticulum to grow more extensive. This process occurs mainly in the smooth portion of the endoplasmic reticulum.
-
-To keep the endoplasmic reticulum from growing beyond the needs of the cell, small vesicles called ER vesicles or transport vesicles continually break away from the smooth reticulum; most of these vesicles then migrate rapidly to the Golgi apparatus.
-
-#### Other Functions of the Endoplasmic Reticulum
-
-Other significant functions of the endoplasmic reticulum, especially the smooth reticulum, include:
-
-1. It provides the enzymes that control glycogen breakdown when glycogen is to be used for energy.
-2. It provides a vast number of enzymes that are capable of detoxifying substances, such as drugs, that might damage the cell. It achieves detoxification by processes such as coagulation, oxidation, hydrolysis, and conjugation with glycuronic acid.
-
-### Golgi Apparatus Functions
-
-#### Synthetic Functions of the Golgi Apparatus
-
-Although a major function of the Golgi apparatus is to provide additional processing of substances already formed in the endoplasmic reticulum, it can also synthesize certain carbohydrates that cannot be formed in the endoplasmic reticulum. This is especially true for the formation of large saccharide polymers bound with small amounts of protein; important examples include hyaluronic acid and chondroitin sulfate.
-
-A few of the many functions of hyaluronic acid and chondroitin sulfate in the body are as follows:
-
-1. They are the major components of proteoglycans secreted in mucus and other glandular secretions.
-2. They are the major components of the ground substance, or nonfibrous components of the extracellular matrix, outside the cells in the interstitial spaces, which act as fillers between collagen fibers and cells.
-3. They are the principal components of the organic matrix in both cartilage and bone.
-4. They are important in many cell activities, including migration and proliferation.
-
-#### Processing of Endoplasmic Secretions by the Golgi Apparatus—Formation of Vesicles
-
-Figure 2-14 summarizes the major functions of the endoplasmic reticulum and Golgi apparatus. As substances are formed in the endoplasmic reticulum, especially proteins, they are transported through the tubules toward portions of the smooth endoplasmic reticulum that lie nearest to the Golgi apparatus. At this point, transport vesicles composed of small envelopes of smooth endoplasmic reticulum continually break away and diffuse to the deepest layer of the Golgi apparatus. Inside these vesicles are synthesized proteins and other products from the endoplasmic reticulum.
-
-The transport vesicles instantly fuse with the Golgi apparatus and empty their contained substances into the vesicular spaces of the Golgi apparatus. Here, additional carbohydrate moieties are added to the secretions. Also, an important function of the Golgi apparatus is to compact the endoplasmic reticular secretions into highly concentrated packets. As the secretions pass toward the outermost layers of the Golgi apparatus, the compaction and processing proceed. Finally, both small and large vesicles continually break away from the Golgi apparatus, carrying with them the compacted secretory substances and diffusing throughout the cell.
-
-The following example provides an idea of the timing of these processes. When a glandular cell is bathed in amino acids, newly formed protein molecules can be detected in the granular endoplasmic reticulum within 3 to 5 minutes. Within 20 minutes, newly formed proteins are already present in the Golgi apparatus and, within 1 to 2 hours, the proteins are secreted from the surface of the cell.
-
-#### Types of Vesicles Formed by the Golgi Apparatus—Secretory Vesicles and Lysosomes
-
-In a highly secretory cell, the vesicles formed by the Golgi apparatus are mainly secretory vesicles containing proteins that are secreted through the surface of the cell membrane. These secretory vesicles first diffuse to the cell membrane and then fuse with it and empty their substances to the exterior by the mechanism called exocytosis. Exocytosis, in most cases, is <span class="c-green">stimulated</span> by entry of calcium ions into the cell. Calcium ions interact with the vesicular membrane and cause its fusion with the cell membrane, followed by exocytosis—opening of the membrane's outer surface and extrusion of its contents outside the cell. Some vesicles, however, are destined for intracellular use.
-
-#### Use of Intracellular Vesicles to Replenish Cellular Membranes
-
-Some intracellular vesicles formed by the Golgi apparatus fuse with the cell membrane or with the membranes of intracellular structures such as the mitochondria and even the endoplasmic reticulum. This fusion increases the expanse of these membranes and replenishes the membranes as they are used up. For example, the cell membrane loses much of its substance every time it forms a phagocytic or pinocytotic vesicle, and the vesicular membranes of the Golgi apparatus continually replenish the cell membrane.
-
-In summary, the membranous system of the endoplasmic reticulum and Golgi apparatus are highly metabolic and capable of forming new intracellular structures and secretory substances to be extruded from the cell.
-
-Ribosomes Lysosomes
-Secretory
-vesicles
-Protein
-formation
-Glycosylation
-Transport
-vesicles
-Smooth
-endoplasmic
-reticulum
-Golgi
-apparatus
-Rough
-endoplasmic
-reticulum
-Lipid
-formation
-
-Figure 2-14. Formation of proteins, lipids, and cellular vesicles by the endoplasmic reticulum and Golgi apparatus.
-
-## THE MITOCHONDRIA EXTRACT ENERGY FROM NUTRIENTS
-
-The principal substances from which cells extract energy are foods that react chemically with oxygen—carbohydrates, fats, and proteins. In the human body, essentially all carbohydrates are converted into glucose by the digestive tract and liver before they reach the other cells of the body. Similarly, proteins are converted into amino acids, and fats are converted into fatty acids. Figure 2-15 shows oxygen and the foodstuffs—glucose, fatty acids, and amino acids—all entering the cell. Inside the cell, they react chemically with oxygen under the influence of enzymes that control the reactions and channel the energy released in the proper direction. The details of all these digestive and metabolic functions are provided in Chapters 63 through 73.
-
-Briefly, almost all these oxidative reactions occur inside the mitochondria, and the energy that is released is used to form the high-energy compound <span class="c-cyan">ATP</span>. Then, <span class="c-cyan">ATP</span>, not the original food, is used throughout the cell to energize almost all the subsequent intracellular metabolic reactions.
-
-### Functional Characteristics of Adenosine Triphosphate
-
-```
-~~~ ~ PO
-O
-O–
-O–O–
-OH OH
-H
-NH2
-H
-NN
-N
-C
-C
-C
-N
-CC
-C
-O
-C
-HH
-O–
-OO
-POPOCH2
-CH
-HC
-```
-
-Phosphate
-<span class="c-cyan">Adenosine triphosphate</span>
-Adenine
-Ribose
-
-<span class="c-cyan">ATP</span> is a nucleotide composed of the following:
-
-1. The nitrogenous base adenine
-2. The pentose sugar ribose
-3. Three phosphate radicals
-
-The last two phosphate radicals are connected with the remainder of the molecule by high-energy phosphate bonds, which are represented in the formula shown by the symbol ∼. Under the physical and chemical conditions of the body, each of these high-energy bonds contains about 12,000 calories of energy per mole of <span class="c-cyan">ATP</span>, which is many times greater than the energy stored in the average chemical bond, thus giving rise to the term high-energy bond. Furthermore, the high-energy phosphate bond is very labile, so that it can be split instantly on demand whenever energy is required to promote other intracellular reactions.
-
-When <span class="c-cyan">ATP</span> releases its energy, a phosphoric acid radical is split away, and adenosine diphosphate (ADP) is formed. This released energy is used to energize many of the cell's other functions, such as syntheses of substances and muscular contraction.
-
-To reconstitute the cellular <span class="c-cyan">ATP</span> as it is used up, energy derived from the cellular nutrients causes ADP and phosphoric acid to recombine to form new <span class="c-cyan">ATP</span>, and the entire process is repeated over and over. For these reasons, <span class="c-cyan">ATP</span> has been called the energy currency of the cell because it can be spent and reformed continually, having a turnover time of only a few minutes.
-
-#### Chemical Processes in the Formation of <span class="c-cyan">ATP</span>—Role of the Mitochondria
-
-On entry into the cells, glucose is converted by enzymes in the cytoplasm into pyruvic acid (a process called <span class="c-orange">glycolysis</span>). A small amount of ADP is changed into <span class="c-cyan">ATP</span> by the energy released during this conversion, but this amount accounts for less than 5% of the overall energy metabolism of the cell.
-
-About 95% of the cell's <span class="c-cyan">ATP</span> formation occurs in the mitochondria. The pyruvic acid derived from carbohydrates, fatty acids from lipids, and amino acids from proteins is eventually converted into the compound acetyl-coenzyme A (CoA) in the matrix of mitochondria. This substance, in turn, is further dissolved (for the purpose of extracting its energy) by another series of enzymes in the mitochondrion matrix, undergoing dissolution in a sequence of chemical reactions called the citric acid cycle, or Krebs cycle. These chemical reactions are so important that they are explained in detail in Chapter 68.
-
-In this citric acid cycle, acetyl-CoA is split into its component parts, hydrogen atoms and carbon dioxide. The carbon dioxide diffuses out of the mitochondria and eventually out of the cell; finally, it is excreted from the body through the lungs.
-
-The hydrogen atoms, conversely, are highly reactive; they combine with oxygen that has also diffused into the mitochondria. This combination releases a tremendous amount of energy, which is used by mitochondria to convert large amounts of ADP to <span class="c-cyan">ATP</span>. The processes of these reactions are complex, requiring the participation of many protein enzymes that are integral parts of mitochondrial membranous shelves that protrude into the mitochondrial matrix. The initial event is the removal of an electron from the hydrogen atom, thus converting it to a hydrogen ion. The terminal event is the combination of hydrogen ions with oxygen to form water and the release of large amounts of energy to globular proteins that protrude like knobs from the membranes of the mitochondrial shelves; these proteins are called <span class="c-cyan">ATP</span> synthetase. Finally, the enzyme <span class="c-cyan">ATP</span> synthetase uses the energy from the hydrogen ions to convert ADP to <span class="c-cyan">ATP</span>. The newly formed <span class="c-cyan">ATP</span> is transported out of the mitochondria into all parts of the cell cytoplasm and nucleoplasm, where it energizes multiple cell functions.
-
-This overall process for formation of <span class="c-cyan">ATP</span> is called the chemiosmotic mechanism of <span class="c-cyan">ATP</span> formation. The chemical and physical details of this mechanism are presented in Chapter 68, and many of the detailed metabolic functions of <span class="c-cyan">ATP</span> in the body are discussed in Chapters 68 through 72.
-
-#### Uses of <span class="c-cyan">ATP</span> for Cellular Function
-
-Energy from <span class="c-cyan">ATP</span> is used to promote three major categories of cellular functions:
-
-1. Transport of substances through multiple cell membranes
-2. Synthesis of chemical compounds throughout the cell
-3. Mechanical work
-
-These uses of <span class="c-cyan">ATP</span> are illustrated by the examples in Figure 2-16:
-
-1. To supply energy for the transport of sodium through the cell membrane
-2. To promote protein synthesis by the ribosomes
-3. To supply the energy needed during muscle contraction
-
-In addition to the membrane transport of sodium, energy from <span class="c-cyan">ATP</span> is required for the membrane transport of potassium, calcium, magnesium, phosphate, chloride, urate, and hydrogen ions and many other ions, as well as various organic substances. Membrane transport is so important to cell function that some cells—the renal tubular cells, for example—use as much as 80% of the <span class="c-cyan">ATP</span> that they form for this purpose alone.
-
-In addition to synthesizing proteins, cells make phospholipids, cholesterol, purines, pyrimidines, and many other substances. Synthesis of almost any chemical compound requires energy. For example, a single protein molecule might be composed of as many as several thousand amino acids attached to one another by peptide linkages. The formation of each of these linkages requires energy derived from the breakdown of four high-energy bonds; thus, many thousand <span class="c-cyan">ATP</span> molecules must release their energy as each protein molecule is formed. Indeed, some cells use as much as 75% of all the <span class="c-cyan">ATP</span> formed in the cell simply to synthesize new chemical compounds, especially protein molecules; this is particularly true during the growth phase of cells.
-
-Another use of <span class="c-cyan">ATP</span> is to supply energy for special cells to perform mechanical work. We discuss in Chapter 6 that each contraction of a muscle fiber requires the expenditure of large quantities of <span class="c-cyan">ATP</span> energy. Other cells perform mechanical work in other ways, especially by ciliary and ameboid motion, described later in this chapter. The source of energy for all these types of mechanical work is <span class="c-cyan">ATP</span>.
-
-In summary, <span class="c-cyan">ATP</span> is readily available to release its energy rapidly wherever it is needed in the cell. To replace <span class="c-cyan">ATP</span> used by the cell, much slower chemical reactions break down carbohydrates, fats, and proteins and use the energy derived from these processes to form new <span class="c-cyan">ATP</span>. More than 95% of this <span class="c-cyan">ATP</span> is formed in the mitochondria, which is why the mitochondria are called the powerhouses of the cell.
-
-O2
-Amino acids
-Cell membrane Cytoplasm
-Fatty acids
-Glucose
-AA
-FA
-Gl
-Pyruvic acid
-Acetoacetic
-acid
-Mitochondrion
-CO2
-H2OH 2O
-O2
-CO2
-Acetyl-CoA
-ADP
-<span class="c-cyan">ATP</span>
-2ADP 2ATP
-36 <span class="c-cyan">ATP</span>
-36 ADP
-O2
-CO2 + H2O
-
-Figure 2-15. Formation of <span class="c-cyan">adenosine triphosphate</span> (<span class="c-cyan">ATP</span>) in the cell showing that most of the <span class="c-cyan">ATP</span> is formed in the mitochondria. (ADP, Adenosine diphosphate; CoA, coenzyme A.)
-
-Mitochondrion
-ADP
-Na+ Na+
-ATPA TP ADP
-<span class="c-cyan">ATP</span>
-Muscle contraction
-ADP
-<span class="c-cyan">ATP</span> ADP
-Protein synthesis
-Ribosomes
-Membrane
-transport Endoplasmic
-reticulum
-
-Figure 2-16. Use of <span class="c-cyan">adenosine triphosphate</span> (<span class="c-cyan">ATP</span>; formed in the mitochondrion) to provide energy for three major cellular functions—membrane transport, protein synthesis, and muscle contraction. (ADP, Adenosine diphosphate.)
-
-## LOCOMOTION OF CELLS
-
-The most obvious type of movement in the body is that which occurs in skeletal, cardiac, and smooth muscle cells, which constitute almost 50% of the entire body mass. The specialized functions of these cells are discussed in Chapters 6 through 9. Two other types of movement—ameboid locomotion and ciliary movement—occur in other cells.
-
-## AMEBOID MOVEMENT
-
-Ameboid movement is a crawling-like movement of an entire cell in relation to its surroundings, such as movement of white blood cells through tissues. This type of movement gets its name from the fact that amebae move in this manner, and amebae have provided an excellent tool for studying the phenomenon.
-
-Typically, ameboid locomotion begins with the protrusion of a pseudopodium from one end of the cell. The pseudopodium projects away from the cell body and partially secures itself in a new tissue area; then the remainder of the cell is pulled toward the pseudopodium. Figure 2-17 demonstrates this process, showing an elongated cell, the right-hand end of which is a protruding pseudopodium. The membrane of this end of the cell is continually moving forward, and the membrane at the left-hand end of the cell is continually following along as the cell moves.
-
-### Mechanism of Ameboid Locomotion
-
-Figure 2-17 shows the general principle of ameboid motion. Basically, this results from the continual formation of new cell membrane at the leading edge of the pseudopodium and continual absorption of the membrane in the mid and rear portions of the cell. Two other effects are also essential for forward movement of the cell.
-
-The first is attachment of the pseudopodium to surrounding tissues so that it becomes fixed in its leading position while the remainder of the cell body is being pulled forward toward the point of attachment. This attachment is caused by receptor proteins that line the insides of exocytotic vesicles. When the vesicles become part of the pseudopodial membrane, they open so that their insides evert to the outside, and the receptors now protrude to the outside and attach to ligands in the surrounding tissues. At the opposite end of the cell, the receptors pull away from their ligands and form new endocytotic vesicles. Then, inside the cell, these vesicles stream toward the pseudopodial end of the cell, where they are used to form new membrane for the pseudopodium.
-
-The second essential effect for locomotion is to provide the energy required to pull the cell body in the direction of the pseudopodium. A moderate to large amount of the protein actin is in the cytoplasm of all cells. Much of the actin is in the form of single molecules that do not provide any motive power; however, these molecules polymerize to form a filamentous network, and the network contracts when it binds with an actin-binding protein such as myosin. The entire process is energized by the high-energy compound <span class="c-cyan">ATP</span>. This is what occurs in the pseudopodium of a moving cell, where such a network of actin filaments forms anew inside the enlarging pseudopodium. Contraction also occurs in the ectoplasm of the cell body, where a preexisting actin network is already present beneath the cell membrane.
-
-### Types of Cells That Exhibit Ameboid Locomotion
-
-The most common cells to exhibit ameboid locomotion in the human body are the white blood cells when they move out of the blood into the tissues to form tissue macrophages. Other types of cells can also move by ameboid locomotion under certain circumstances. For example, fibroblasts move into a damaged area to help repair the damage, and even the germinal cells of the skin, although ordinarily completely sessile cells, move toward a cut area to repair the opening. Cell locomotion is also especially important in the development of the embryo and fetus after fertilization of an ovum. For example, embryonic cells often must migrate long distances from their sites of origin to new areas during the development of special structures.
-
-Some types of cancer cells, such as sarcomas, which arise from connective tissue cells, are especially proficient at ameboid movement. This partially accounts for their relatively rapid spreading from one part of the body to another, known as metastasis.
-
-### Control of Ameboid Locomotion—Chemotaxis
-
-An important initiator of ameboid locomotion is the process called chemotaxis, which results from the appearance of certain chemical substances in the tissues. Any chemical substance that causes chemotaxis to occur is called a chemotactic substance. Most cells that exhibit ameboid locomotion move toward the source of a chemotactic substance—that is, from an area of lower concentration toward an area of higher concentration. This is called positive chemotaxis. Some cells move away from the source, which is called negative chemotaxis.
-
-How does chemotaxis control the direction of ameboid locomotion? Although the answer is not certain, it is known that the side of the cell most exposed to the chemotactic substance develops membrane changes that cause pseudopodial protrusion.
-
-Endocytosis
-Surrounding tissue Receptor binding
-Pseudopodium
-Exocytosis
-Movement of cell
-
-Figure 2-17. Ameboid motion by a cell.
-
-## CILIA AND CILIARY MOVEMENTS
-
-There are two types of cilia, motile and nonmotile, or primary, cilia. Motile cilia can undergo a whiplike movement on the surfaces of cells. This movement occurs mainly in two places in the human body:
-
-- On the surfaces of the respiratory airways
-- On the inside surfaces of the uterine tubes (fallopian tubes) of the reproductive tract
-
-In the nasal cavity and lower respiratory airways, the whiplike motion of motile cilia causes a layer of mucus to move at a rate of about 1 cm/min toward the pharynx, in this way continually clearing these passageways of mucus and particles that have become trapped in the mucus. In the uterine tubes, cilia cause slow movement of fluid from the ostium of the uterine tube toward the uterus cavity; this movement of fluid transports the ovum from the ovary to the uterus.
-
-As shown in Figure 2-18, a cilium has the appearance of a sharp-pointed straight or curved hair that projects 2 to 4 micrometers from the surface of the cell. Often, many motile cilia project from a single cell—for example, as many as 200 cilia on the surface of each epithelial cell inside the respiratory passageways. The cilium is covered by an outcropping of the cell membrane, and it is supported by 11 microtubules—nine double tubules located around the periphery of the cilium and two single tubules down the center, as demonstrated in the cross section shown in Figure 2-18. Each cilium is an outgrowth of a structure that lies immediately beneath the cell membrane, called the basal body of the cilium.
-
-The flagellum of a sperm is similar to a motile cilium; in fact, it has much the same type of structure and same type of contractile mechanism. The flagellum, however, is much longer and moves in quasisinusoidal waves instead of whiplike movements.
-
-In the inset of Figure 2-18, movement of the motile cilium is shown. The cilium moves forward with a sudden, rapid whiplike stroke 10 to 20 times per second, bending sharply where it projects from the surface of the cell. Then it moves backward slowly to its initial position. The rapid, forward-thrusting, whiplike movement pushes the fluid lying adjacent to the cell in the direction that the cilium moves; the slow dragging movement in the backward direction has almost no effect on fluid movement. As a result, the fluid is continually propelled in the direction of the fast-forward stroke. Because most motile ciliated cells have large numbers of cilia on their surfaces, and because all the cilia are oriented in the same direction, this is an effective means for moving fluids from one part of the surface to another.
-
-### Mechanism of Ciliary Movement
-
-Although not all aspects of ciliary movement are known, we are aware of the following elements:
-
-1. First, the nine double tubules and two single tubules are all linked to one another by a complex of protein cross-linkages; this total complex of tubules and cross-linkages is called the axoneme.
-2. Second, even after removal of the membrane and destruction of other elements of the cilium in addition to the axoneme, the cilium can still beat under appropriate conditions.
-3. Third, two conditions are necessary for continued beating of the axoneme after removal of the other structures of the cilium: (1) the availability of <span class="c-cyan">ATP</span>; and (2) appropriate ionic conditions, especially appropriate concentrations of magnesium and calcium.
-4. Fourth, during forward motion of the cilium, the double tubules on the front edge of the cilium slide outward toward the tip of the cilium, whereas those on the back edge remain in place.
-5. Fifth, multiple protein arms composed of the protein dynein, which has adenosine triphosphatase (ATPase) enzymatic activity, project from each double tubule toward an adjacent double tubule.
-
-Given this basic information, it has been determined that the release of energy from <span class="c-cyan">ATP</span> in contact with the ATPase dynein arms causes the heads of these arms to "crawl" rapidly along the surface of the adjacent double tubule. If the front tubules crawl outward while the back tubules remain stationary, bending occurs.
-
-The way in which cilia contraction is controlled is not well understood. The cilia of some genetically abnormal cells do not have the two central single tubules, and these cilia fail to beat. Therefore, it is presumed that some signal, perhaps an electrochemical signal, is transmitted along these two central tubules to <span class="c-green">activate</span> the dynein arms.
-
-### Nonmotile Primary Cilia Serve as Cell Sensory "Antennae"
-
-Primary cilia are nonmotile and generally occur only as a single cilium on each cell. Although the physiological functions of primary cilia are not fully understood, current evidence indicates that they function as cellular "sensory antennae," which coordinate cellular signaling pathways involved in chemical and mechanical sensation, signal transduction, and cell growth. In the kidneys, for example, primary cilia are found in most epithelial cells of the tubules, projecting into the tubule lumen and acting as a flow sensor. In response to fluid flow over the tubular epithelial cells, the primary cilia bend and cause flow-induced changes in intracellular calcium signaling. These signals, in turn, initiate multiple effects on the cells. Defects in signaling by primary cilia in renal tubular epithelial cells are thought to contribute to various disorders, including the development of large fluid-filled cysts, a condition called polycystic kidney disease.
-
-Tip
-Cross section
-Forward stroke
-Backward stroke
-Membrane
-Filament
-Cell
-membrane
-Basal body
-Rootlet
-Basal plate Ciliary stalk
-
-Figure 2-18. Structure and function of the cilium. (Modified from Satir P: Cilia. Sci Am 204:108, 1961.)
-
-## Bibliography
-
-Alberts B, Johnson A, Lewis J, et al: Molecular Biology of the Cell, 6th ed. New York: Garland Science, 2014.
-
-Brandizzi F, Barlowe C: Organization of the ER-Golgi interface for membrane traffic control. Nat Rev Mol Cell Biol 14:382, 2013.
-
-Dikic I, Elazar Z. Mechanism and medical implications of mammalian autophagy. Nat Rev Mol Cell Biol 19:349, 2018.
-
-Eisner V, Picard M, Hajnóczky G. Mitochondrial dynamics in adaptive and maladaptive cellular stress responses. Nat Cell Biol 20:755, 2018.
-
-Galluzzi L, Yamazaki T, Kroemer G. Linking cellular stress responses to systemic <span class="c-yellow">homeostasis</span>. Nat Rev Mol Cell Biol 19:731, 2018.
-
-Guerriero CJ, Brodsky JL: The delicate balance between secreted protein folding and endoplasmic reticulum-associated degradation in human physiology. Physiol Rev 92:537, 2012.
-
-Harayama T, Riezman H. Understanding the diversity of membrane lipid composition. Nat Rev Mol Cell Biol 19:281, 2018.
-
-Insall R: The interaction between pseudopods and extracellular signalling during chemotaxis and directed migration. Curr Opin Cell Biol 25:526, 2013.
-
-Kaksonen M, Roux A. Mechanisms of clathrin-mediated endocytosis. Nat Rev Mol Cell Biol 19:313, 2018.
-
-Lawrence RE, Zoncu R. The lysosome as a cellular centre for signalling, metabolism and quality control. Nat Cell Biol 21: 133, 2019.
-
-Nakamura N, Wei JH, Seemann J: Modular organization of the mammalian Golgi apparatus. Curr Opin Cell Biol 24:467, 2012.
-
-Palikaras K, Lionaki E, Tavernarakis N. Mechanisms of mitophagy in cellular <span class="c-yellow">homeostasis</span>, physiology and pathology. Nat Cell Biol 20:1013, 2018.
-
-Sezgin E, Levental I, Mayor S, Eggeling C. The mystery of membrane organization: composition, regulation and roles of lipid rafts. Nat Rev Mol Cell Biol 18:361, 2017.
-
-Spinelli JB, Haigis MC. The multifaceted contributions of mitochondria to cellular metabolism. Nat Cell Biol. 20:745, 2018.
-
-Walker CL, Pomatto LCD, Tripathi DN, Davies KJA. Redox regulation of <span class="c-yellow">homeostasis</span> and proteostasis in peroxisomes. Physiol Rev 98:89, 2018.
-
-Zhou K, Gaullier G, Luger K. Nucleosome structure and dynamics are coming of age. Nat Struct Mol Biol 26:3, 2019.
-
+summary: "Chapter 2 focuses on the structure and function of the cell—the fundamental unit of life. It covers the cell membrane's lipid bilayer and protein architecture, cytoplasm and its organelles (endoplasmic reticulum, Golgi apparatus, mitochondria, lysosomes, peroxisomes, secretory vesicles), the cytoskeleton, and the nucleus. The chapter explains how cells ingest substances via endocytosis, digest materials using lysosomes, synthesize proteins and lipids through the endoplasmic reticulum-Golgi apparatus system, and extract energy from nutrients via mitochondria to produce ATP. It also describes cell locomotion mechanisms including ameboid movement and ciliary beating. Understanding cellular structure and function provides the foundation for all subsequent physiology discussions in this textbook."
 ---
 
-UNIT I
+## 章節導讀
 
-Genes, which are located in the nuclei of all cells of the body, control heredity from parents to children, as well as the daily functioning of all the body's cells. The genes control cell function by determining which structures, enzymes, and chemicals are synthesized within the cell.
+細胞是人體結構與功能的基本單位。人體由數兆個細胞組成，每個細胞都是一個複雜的微型化工廠，能夠自我更新、能量代謝、合成物質並對環境做出反應。本章從細胞膜的結構開始，探討細胞如何透過磷脂雙層與嵌入其中的蛋白質分子形成選擇性屏障；接著介紹細胞內各種胞器的形態與功能，包括負責蛋白質合成與加工的內質網與高爾基體、產生能量的粒線體、以及執行細胞內消化的溶酶體等。我們將詳細說明這些胞器如何协同運作，使細胞能夠攝取營養、合成所需分子、產生 ATP 能量，並完成細胞移動等各種生命活動。掌握細胞的基本運作原理，是理解後續各系統生理學的必備基礎。
 
-Figure 3-1 shows the general schema of genetic control. Each gene, which is composed of deoxyribonucleic acid (DNA), controls the formation of another nucleic acid, ribonucleic acid (RNA); this RNA then spreads throughout the cell to control formation of a specific protein. The entire process, from transcription of the genetic code in the nucleus to translation of the RNA code and the formation of proteins in the cell cytoplasm, is often referred to as gene expression.
+## 細胞膜
 
-Because the human body has approximately 20,000 to 25,000 different genes that code for proteins in each cell, it is possible to form a large number of different cellular proteins. In fact, RNA molecules transcribed from the same segment of DNA—the same gene—can be processed in more than one way by the cell, giving rise to alternate versions of the protein. The total number of different proteins produced by the various cell types in humans is estimated to be at least 100,000.
+細胞膜（又稱質膜）包覆整個細胞，是一層薄而有彈性的結構，厚度僅約 7.5 至 10 奈米，主要由蛋白質與脂質構成。其中蛋白質約占 55%、磷脂約 25%、膽固醇約 13%、其他脂質約 4%、碳水化合物約 3%。
 
-Some of the cellular proteins are structural proteins, which, in association with various lipids and carbohydrates, form structures of the various intracellular organelles discussed in Chapter 2. However, most of the proteins are enzymes that catalyze different chemical reactions in the cells. For example, enzymes promote all the oxidative reactions that supply energy to the cell, along with synthesis of all the cell chemicals, such as lipids, glycogen, and <span class="c-cyan">adenosine triphosphate</span> (<span class="c-cyan">ATP</span>).
+### 脂質雙層阻礙水溶性物質穿透
 
-## CELL NUCLEUS GENES CONTROL PROTEIN SYNTHESIS
+如 Figure 2-3 所示，細胞膜的基本結構是脂質雙層——一層極薄的雙層脂質膜，每層只有一個分子厚度，覆蓋整個細胞表面。在這層連續的脂質膜中散布著巨大的球狀蛋白質分子。
 
-In the cell nucleus, large numbers of genes are attached end to end in extremely long, double-stranded helical molecules of DNA having molecular weights measured in the billions. A very short segment of such a molecule is shown in Figure 3-2. This molecule is composed of several simple chemical compounds bound together in a regular pattern, the details of which are explained in the next few paragraphs.
+細胞膜脂質雙層的主要成分有三類：磷脂、鞘脂與膽固醇。磷脂是含量最多的膜脂，每個磷脂分子的一端具有親水性，可溶於水；另一端為疏水性，只能溶於脂肪。磷脂的磷酸根端為親水性，而脂肪酸端則為疏水性。
 
-### Building <span class="c-green">Blocks</span> of DNA
+由於磷脂分子的疏水端被水排斥，但彼此間相互吸引，因此它們自然傾向於附著在細胞膜的中間層（如 Figure 2-3 所示），而親水性的磷酸根端則朝向細胞膜內外兩側，分別與細胞內液及細胞外液接觸。
 
-Figure 3-3 shows the basic chemical compounds involved in the formation of DNA. These compounds include:
+細胞膜中央的脂質層對一般水溶性物質（如離子、葡萄糖、尿素）是不通透的；但脂肪溶性物質（如氧氣、二氧化碳、酒精）則能輕易穿透這層膜。
 
-1. Phosphoric acid
-2. A sugar called deoxyribose
-3. Four nitrogenous bases:
-   - Two purines: adenine and guanine
-   - Two pyrimidines: thymine and cytosine
+鞘脂衍生自鞘氨醇，同樣具有疏水與親水基團，含量較少但在神經細胞膜中特別豐富。複雜的鞘脂具有多種功能，包括防禦有害環境因子、信號傳遞，以及作為細胞外蛋白質的附著點。
 
-The phosphoric acid and deoxyribose form the two helical strands that are the backbone of the DNA molecule, and the nitrogenous bases lie between the two strands and connect them, as illustrated in Figure 3-2.
+膽固醇分子的類固醇核具有高度脂溶性，可視為溶於雙層膜中的物質。膽固醇主要負責調節雙層膜對水溶性物質的通透程度，並控制細胞膜的流動性。
 
-### Nucleotides
+### 整合蛋白與周邊蛋白
 
-The first stage of DNA formation is to combine one molecule of phosphoric acid, one molecule of deoxyribose, and one of the four bases to form an acidic nucleotide. Four separate nucleotides are thus formed, one for each of the four bases: deoxyadenylic, deoxythymidylic, deoxyguanylic, and deoxycytidylic acids. Figure 3-4 shows the chemical structure.
+Figure 2-3 中的球狀結構為膜蛋白，主要為醣蛋白。細胞膜蛋白可分為兩類：
 
-Genetic Control of Protein Synthesis, Cell Function, and Cell Reproduction
+- **整合蛋白**：貫穿細胞膜全層
+- **周邊蛋白**：僅附著於細胞膜的某一側，未穿透全層
 
-CHAPTER 3
+許多整合蛋白構成結構通道（或孔道），使水分子與水溶性物質（特別是離子）能夠在細胞外液與細胞內液之間擴散。這些蛋白通道具有選擇性，允許某些物質優先通過。
 
-Gene (DNA)
-RNA formation
-Protein formation
-Cell function
-Cell
-structure
-Cell
-enzymes
-Transcription
-Translation
-Plasma
-membrane
-Nuclear
-envelope
-DNA
-transcription
-DNA
-RNA
-mRNA
-mRNA
-Nucleus
-Cytosol
-RNA
-splicing
-RNA transport
-Translation of
-mRNA
-Protein
-Ribosomes
+其他整合蛋白作為載體蛋白，負責運輸那些無法穿透脂質雙層的物質。有時這些載體蛋白甚至能逆著電化學梯度方向運輸物質，稱為**主動運輸（active transport）**。還有一些整合蛋白具有酶活性。
 
-Figure 3-1 The general schema whereby genes control cell function. mRNA, Messenger RNA.
+整合膜蛋白也能作為受體，辨識水溶性激素（如胜肽激素），這類激素本身不易穿透細胞膜。當特定配體與受體結合時，會引起受體蛋白的構象改變，進而活化細胞內部的蛋白質，或誘導細胞質中充當第二信使的蛋白質相互作用，將信號從受體的細胞外部分傳入細胞內。
 
-C
-G
-G
-C
-G
-3'
-5'
-3'
-5'
-Sugar-phosphate
-backbone
-Base pairs
-C
-C
-G
-A
-T
-T
-A
-C
-G
-T
-A
-T
-A
-Sugar-phosphate
-backbone
-Base pairs
-Adenine
-Sugar
-P
-P
-P
-P
-Sugar
-Sugar
-Sugar
-Thymine Guanine CytosineNH2 O
-NH
-NH2 O
-H2NO
-N HAT GC
+周邊蛋白分子常附著於整合蛋白上，主要功能是作為酶或調控物質通過細胞膜孔道的傳輸。
 
-Figure 3-2 The helical double-stranded structure of the gene. The outside strands are composed of phosphoric acid and the sugar deoxyribose. The internal molecules connecting the two strands of the helix are purine and pyrimidine bases, which determine the "code" of the gene.
+### 膜碳水化合物——細胞的「多糖被」
 
-Figure 3-3 The basic building <span class="c-green">blocks</span> of DNA.
+細胞膜上的碳水化合物幾乎都與蛋白質或脂質結合，形成醣蛋白或醣脂。事實上，大多數整合蛋白都是醣蛋白，約有十分之一的膜脂為醣脂。這些分子的醣基幾乎都突出於細胞外側，懸垂在細胞表面。還有許多稱為蛋白聚醣（proteoglycans）的碳水化合物化合物——主要由與蛋白質核心結合的碳水化合物組成——也疏鬆地附著在細胞外表面。因此，整個細胞外表面常覆蓋著一層鬆散的碳水化合物被，稱為多糖被（glycocalyx）。
 
-Phosphoric acid
-Deoxyribose
-Bases
-Purines Pyrimidines
-Guanine Cytosine
-ThymineAdenine
-OHP
-O
-O
-H
-O H
-C
-C
-O
-C
-C C
-H
-H
-H
-H
-N
-N
-N N
-N
-H
-C
-C
-N
-C
-C C
-H
-C
-C
-C
-C
-H
-H
-O
-H
-H
-H
-O
-O
-H
-H
-N
-HH
-N N
-N
-O
-C
-H
-CC H
-C
-H
-C
-O
-N
-HN
-N
-H
-H
-H H
-CCO
-O
-NC
-N
-H
-H H
-H
-H
-H
-CH
-C
-H
+這些附著於細胞外表面的碳水化合物具有以下重要功能：
+
+1. 許多碳水化合物帶有負電荷，使細胞表面呈現整體負電性，排斥其他帶負電的物質。
+2. 某些細胞的多糖被可與其他細胞的多糖被相連，使細胞彼此附著。
+3. 許多碳水化合物作為受體，結合激素（如胰島素）。結合後會活化相連的內部蛋白，進而觸發一連串細胞內酶反應。
+4. 部分碳水化合物參與免疫反應，詳見第 35 章。
+
+## 細胞質及其胞器
+
+細胞質充滿了微小與大型的分散顆粒及胞器。分散顆粒所處的膠狀液體部分稱為細胞質基質（cytosol），主要含有溶解的蛋白質、電解質與葡萄糖。
+
+懸浮於細胞質中的還有中性脂肪球、糖原顆粒、核糖體、分泌泡，以及五種特別重要的胞器：
+
+- 內質網
+- 高爾基體
+- 粒線體
+- 溶酶體
+- 過氧化物酶體
+
+### 內質網
+
+Figure 2-2 顯示內質網是細胞質中由管狀結構（池）與扁平囊狀結構組成的網絡。這個胞器協助處理細胞合成的分子，並將它們運送到細胞內外的特定位置。這些小管與囊泡彼此相連，且其壁由類似細胞膜的脂質雙層膜構成，膜上含有大量蛋白質。在某些細胞（例如肝細胞）中，內質網的總表面積可達細胞膜面積的 30 至 40 倍。
+
+Figure 2-4 顯示內質網的詳細結構。小管與囊泡的內部充滿內質網基質，這是一種與細胞質基質不同的水性介質。電子顯微鏡顯示，內質網的內部空間與核膜兩層膜之間的空間相連。
+
+細胞某些部位合成的物質會進入內質網的空間，然後被運送到細胞的其他部位。內質網的巨大表面積及其膜上附著的多种酶系統，為細胞大部分的代謝功能提供了反應平台。
+
+#### 核糖體與粗糙（顆粒性）內質網
+
+許多內質網的外表面附著大量名為核糖體的微小顆粒。這些顆粒存在的部位稱為粗糙（顆粒性）內質網。核糖體由 RNA 與蛋白質的混合物組成，功能是合成細胞內的新型蛋白質分子，詳見本章及第 3 章。
+
+#### 平滑（無顆粒性）內質網
+
+部分內質網沒有附著核糖體，稱為平滑或無顆粒性內質網。平滑內質網的功能是合成脂質物質，以及進行細胞內依賴網內酶促反應的各種代謝過程。
+
+### 高爾基體
+
+Figure 2-5 顯示高爾基體，與內質網密切相關，膜的結構與平滑內質網相似。高爾基體通常由四層或更多疊加的薄而平的封閉囊泡組成，位於細胞核附近的一側。在分泌細胞中尤其發達，位於細胞分泌物質排出的那一側。
+
+高爾基體與內質網共同運作。如 Figure 2-5 所示，小型運輸囊泡（又稱內質網囊泡）不斷從內質網脫落，隨後與高爾基體融合。透過這種方式，被困在內質網囊泡中的物質從內質網運送到高爾基體。這些物質在高爾基體中進一步加工，形成溶酶體、分泌囊泡及其他細胞成分（見本章後文）。
+
+### 溶酶體
+
+如 Figure 2-2 所示，溶酶體是由高爾基體斷裂形成的囊狀胞器，隨後分散到細胞質各處。溶酶體提供細胞內的消化系統，能夠消化：
+
+1. 受損的細胞結構
+2. 細胞攝入的食物顆粒
+3. 不需要的物質，如細菌
+
+不同細胞中的溶酶體大小各異，但通常直徑為 250 至 750 奈米。它們由典型的脂質雙層膜包圍，內部充滿大量 5 至 8 奈米的小顆粒——這些是約 40 種不同水解酶（消化酶）的蛋白質聚集體。水解酶能夠透過從水分子中結合氫原子與化合物的某一部分，並將水分子中的氫氧基與化合物的另一部分結合，使有機化合物分解成兩個或多個部分。例如，蛋白質被水解成胺基酸，糖原被水解成葡萄糖，脂肪被水解成脂肪酸和甘油。
+
+水解酶在溶酶體中濃度很高。通常，溶酶體的膜可防止其內部的水解酶與細胞內其他物質接觸，從而避免發生消化作用。然而，某些條件會破壞溶酶體膜，使消化酶釋放出來。這些酶會分解接觸到的有機物質，變成胺基酸和葡萄糖等易於擴散的小分子。
+
+### 過氧化物酶體
+
+過氧化物酶體在形態上與溶酶體相似，但有兩個重要區別：首先，據信它們是通過自我複製（或從平滑內質網出芽）形成的，而非來自高爾基體；其次，它們含有氧化酶而非水解酶。多种氧化酶能夠將氧氣與來自不同細胞內化學物質的氫離子結合，形成過氧化氫（H₂O₂）。過氧化氫是強氧化劑，與過氧化物酶體中大量存在的另一種氧化酶——觸酶——共同使用，可氧化許多可能對細胞有害的物質。例如，人類攝取的大約一半酒精是以这种方式在肝細胞的過氧化物酶體中被解毒成乙醛。過氧化物酶體的主要功能是分解長鏈脂肪酸。
+
+### 分泌囊泡
+
+許多細胞的重要功能之一是分泌特殊化學物質。幾乎所有這些分泌物質都是由內質網—高爾基體系統合成，然後以儲存囊泡的形式從高爾基體釋放到細胞質中，稱為分泌囊泡或分泌顆粒。Figure 2-6 顯示胰臟腺泡細胞中典型的分泌囊泡，儲存著蛋白質前酶（在細胞中尚未被活化的酶）。這些前酶稍後通過細胞外膜分泌到胰管，進入十二指腸，在腸道中被活化後發揮消化功能。
+
+### 粒線體
+
+如 Figure 2-2 和 Figure 2-7 所示，粒線體被稱為細胞的「能量工廠」。沒有粒線體，細胞將無法從營養物質中提取足夠的能量，幾乎所有細胞功能都會停止。
+
+粒線體存在於每個細胞質區域，但數量從少於 100 個到數千個不等，取決於細胞的能量需求。例如，心肌細胞消耗大量能量，擁有的粒線體遠多於脂肪細胞。此外，粒線體集中分佈在細胞中負責主要能量代謝的區域。粒線體的大小和形狀也有所不同：有些僅有數百奈米直徑，呈球形；有些則延長可達 1 微米直徑、7 微米長；还有些呈分支或絲狀。
+
+粒線體的基本結構（如 Figure 2-7 所示）主要由兩層脂質雙層—蛋白質膜組成：
+
+- 外膜
+- 內膜
+
+內膜的許多皺褶形成稱為嵴（cristae）的板狀或管狀結構，氧化酶附著於其上。嵴提供了化學反應進行的巨大表面積。粒線體內腔充滿基質，含有大量溶解的酶，這些酶與嵴上的氧化酶共同作用，氧化營養物質，釋放能量並形成二氧化碳和水，同時釋放能量。這些釋放的能量用於合成一種名為腺苷三磷酸（ATP）的高能物質。粒線體產生的 ATP 隨後被運出粒線體，擴散到細胞各處，在需要的地方釋放能量來執行細胞功能。粒線體中 ATP 形成的化學細節見第 68 章，本章僅介紹 ATP 的基本功能。
+
+粒線體具有自我複製能力，當細胞需要增加 ATP 產量時，一個粒線體可以形成另一個粒線體。事實上，粒線體含有類似於細胞核中的 DNA。粒線體的 DNA 與細胞核的 DNA 一樣，控制著粒線體的複製。
+
+### 細胞骨架——絲狀與管狀結構
+
+細胞骨架是由纖維狀蛋白質組成的網絡，這些蛋白質組織成絲狀或管狀結構。它們起源於細胞質中核糖體合成的蛋白質前體，這些前體分子隨後聚合形成絲狀體。例如，大量肌動蛋白微絲常出現在細胞外質區，形成細胞膜的彈性支撐。在肌肉細胞中，actin 與 myosin 絲狀體組成了特殊的收縮機器，是肌肉收縮的基礎，詳見第 6 章。
+
+**中間絲**是強韌的繩索狀纖維，通常與微管協同工作，為脆弱的微管蛋白結構提供強度和支撐。它們被稱為「中間」是因為其平均直徑介於較窄的肌動蛋白微絲與肌肉細胞中較寬的肌球蛋白絲之間。它們的功能主要是機械性的，比肌動蛋白微絲或微管更具穩定性。所有細胞都有中間絲，但不同細胞類型的蛋白質亞基各異：
+
+- 肌肉細胞中的波形蛋白絲
+- 神經元中的神經絲
+- 上皮細胞中的角蛋白絲
+
+由聚合的微管蛋白分子組成的特殊硬性絲狀結構，在所有細胞中都用於構建堅固的管狀結構——微管。圖 2-8 顯示了細胞中典型的微管。
+
+微管的另一個例子是每根纖毛中心向外延伸至纖毛頂端的管狀骨骼結構，見後文討論。細胞分裂時的中心粒和紡綞體也都是由硬性微管組成的。
+
+微管的主要功能是作為細胞骨架，為細胞某些部位提供剛性物理結構。細胞骨架不僅決定細胞形狀，還參與細胞分裂、細胞運動，並提供類似軌道的系統來指導胞器在細胞內的移動。微管是細胞內囊泡、顆粒和粒線體等胞器運輸的傳送帶。
+
+### 細胞核
+
+細胞核是細胞的控制中心，發送指令使細胞生長、成熟、複製或死亡。簡言之，細胞核含有大量 DNA，這些 DNA 構成基因。基因決定細胞蛋白質的特性，包括結構蛋白以及控制細胞質和細胞核活動的細胞內酶。
+
+基因還控制並促進細胞增殖。基因首先複製成兩套相同的基因，然後細胞通過一種稱為有絲分裂的特殊過程分裂成兩個子細胞，每個子細胞各獲得一套 DNA 基因。第 3 章將詳細討論細胞核的這些活動。
+
+細胞核在顯微鏡下的形態並未提供太多關於其執行控制活動機制的線索。圖 2-9 顯示了間期細胞核（在有絲分裂之間的時期）的光鏡形態，顯示核質中散布著深染色的染色質物質。在有絲分裂期間，染色質組織成高度有序的染色體，在光學顯微鏡下易於識別（如第 3 章所示）。
+
+#### 核膜
+
+核膜又稱核包被，實際上是兩層分开的雙層膜。外膜與細胞質的內質網相連，兩層核膜之間的空間也與內質網內部空間相連（如 Figure 2-9 所示）。
+
+核膜上具有數千個核孔。大型蛋白質複合物附著在孔的邊緣，使每個孔的中心區域直徑僅約 9 奈米。即使如此大的孔徑仍足以讓分子量高達 44,000 的分子順利通過。
+
+#### 核仁與核糖體的形成
+
+大多數細胞核中含有一個或多個深染色的結構，稱為核仁。核仁與前述胞器不同，沒有界限膜。它僅是大量 RNA 與蛋白質的積累，這些正是核糖體中發現的物質。當細胞活躍合成蛋白質時，核仁會明顯增大。
+
+核仁（以及細胞質中核糖體）的形成始於細胞核。首先，染色體上特定的 DNA 基因促使 RNA 合成。部分合成的 RNA 儲存在核仁中，但大部分通過核孔運送到細胞質中，與特定蛋白質組裝成「成熟」核糖體，在蛋白質合成中發揮重要作用，詳見第 3 章。
+
+## 細胞與前細胞生命形式的比較
+
+細胞是一種複雜的有機體，在地球上最早的生命形式——可能是類似現今病毒的微生物——出現之後，可能經歷了數億年才演化而來。圖 2-10 顯示了以下生物的相對大小：
+
+- 最小的已知病毒（15 nm）
+- 大病毒（150 nm）
+- 立克次體（350 nm）
+- 細菌（1 μm）
+- 有核細胞（5-10 μm+）
+
+由此可見，細胞的直徑約是最小病毒的 1000 倍，因此體積約是其 10 億倍。相應地，細胞的功能與解剖結構也比病毒複雜得多。
+
+微小病毒的生命要素是嵌入蛋白質外殼中的核酸。這種核酸與哺乳動物細胞中發現的基本核酸組成（DNA 或 RNA）相同，在適當條件下能夠自我複製。因此，病毒與細胞和人類一樣，是活的結構。
+
+在生命演化過程中，除了核酸和簡單蛋白質外的其他化學物質也成為生物體的組成部分，不同部位開始發育出特殊功能。病毒周圍形成了一層膜，內部出現了液態基質。特殊的化學物質在液態基質中發育，執行特定功能；許多蛋白酶出現，能夠催化化學反應，決定有機體的活動。
+
+在更晚期的生命中，特別是在立克次體和細菌階段，胞器開始在生物體內發育。這些代表化學聚集體的物理結構，能夠比分散在液態基質中的化學物質更高效地執行功能。
+
+最後，在有核細胞中，演化出更複雜的胞器，其中最重要的是細胞核。細胞核是此類細胞與所有低等生命形式的區別所在，為所有細胞活動和每代新細胞的繁殖提供控制中心，每個新細胞幾乎與其前代具有完全相同的結構。
+
+## 細胞的功能系統
+
+本章其餘部分討論使細胞成為活體的若干功能系統。
+
+## 胞噬作用——細胞的攝入
+
+若細胞要存活、生長和繁殖，必須從周圍液體中獲取營養物質和其他物質。大多數物質通過擴散和主動運輸通過細胞膜。
+
+擴散是物質簡單地穿過膜的運動，由物質分子的隨機運動引起。水溶性物質通過細胞膜孔道擴散；脂溶性物質則通過膜的脂質基質擴散。
+
+主動運輸是由穿透細胞膜全層的物理蛋白質結構實際攜帶物質穿過膜的過程。這些主動運輸機制對細胞功能極為重要，將在第 4 章詳細討論。
+
+大顆粒物質通過一種稱為胞噬作用（endocytosis）的特殊細胞膜功能進入細胞（Video 2-1）。胞噬作用的主要形式是胞飲作用和吞噬作用：
+
+- **胞飲作用（pinocytosis）**：攝入在細胞質中形成細胞外液和顆粒成分微小囊泡的極小顆粒
+- **吞噬作用（phagocytosis）**：攝入大顆粒，如細菌、整個細胞或退化組織的碎片
+
+### 胞飲作用
+
+胞飲作用持續存在於大多數細胞的細胞膜中，但在某些細胞中特別快速。例如，巨噬細胞的胞飲作用非常快速，大約每分鐘有 3% 的巨噬細胞膜以囊泡形式被吞噬。即便如此，胞飲囊泡非常小——通常僅 100 至 200 奈米直徑——多數只能在電子顯微鏡下觀察到。
+
+胞飲作用是大分子蛋白質等多數大分子進入細胞的唯一途徑。事實上，當此類大分子附著到細胞膜上時，胞飲囊泡形成的速率通常會增加。
+
+Figure 2-11 展示了胞飲作用的連續步驟（A–D）：三個蛋白質分子附著在膜上。這些分子通常附著在膜表面稱為被覆凹陷的特殊受體蛋白上，對要被吸收的蛋白質類型具有特異性。受體通常集中在細胞膜外表面的微小凹陷處，稱為被覆凹陷。細胞膜內側、凹陷下方是名為籠蛋白的纖維蛋白格子，還有其他蛋白質，可能包括位於下面的肌動蛋白和肌球蛋白的收縮絲。一旦蛋白質分子與受體結合，局部膜的表面特性就會發生變化，使整個凹陷向內凹陷，環繞凹陷邊緣的纖維蛋白使凹陷邊緣閉合，包住附著的蛋白質以及少量細胞外液。隨即，凹陷的膜部分與細胞表面脫離，在細胞質內形成胞飲囊泡。
+
+究竟是什麼導致細胞膜經歷形成胞飲囊泡所需的變形，目前尚不清楚。這一過程需要細胞內的能量，由高能物質 ATP 供應。這一過程还需要細胞外液中的鈣離子存在，鈣離子可能與被覆凹陷下方的收縮蛋白絲相互作用，提供將囊泡從細胞膜上掐下所需的力量。
+
+### 吞噬作用
+
+吞噬作用的發生方式與胞飲作用大體相同，只是涉及大顆粒而非分子。只有某些細胞具有吞噬能力——主要是組織巨噬細胞和一些白細胞。
+
+吞噬作用始於顆粒（如細菌、死亡細胞或組織碎片）與吞噬細胞表面受體的結合。就細菌而言，每個細菌通常已與特定抗體結合；正是抗體附著在吞噬細胞受體上，拉動細菌隨之移動。抗體的這種中介作用稱為調理作用，見第 34 和 35 章。
+
+吞噬作用的步驟如下：
+
+1. 細胞膜受體附著於顆粒表面的配體。
+2. 膜邊緣在結合點處於分之一秒內向外突出，包圍整個顆粒；然後越來越多的膜受體附著到顆粒配體上。這一切突然以拉鍊般的方式發生，形成封閉的吞噬囊泡。
+3. 細胞質中的肌動蛋白和其他收縮纖維包圍吞噬囊泡，在其外邊緣收縮，將囊泡推向細胞內部。
+4. 收縮蛋白隨後掐斷囊泡的莖部，使其與細胞膜完全分離，囊泡留在細胞內部，與胞飲囊泡的形成方式相同。
+
+## 溶酶體在細胞內消化胞飲與吞噬的外來物質
+
+幾乎在胞飲囊泡或吞噬囊泡在細胞內形成的同時，一個或多個溶酶體附著到囊泡上，將其酸性水解酶排入囊泡內部（如 Figure 2-12 所示）。由此在細胞質中形成消化囊泡，囊泡內的水解酶開始水解囊泡中的蛋白質、碳水化合物、脂肪和其他物質。消化的產物是胺基酸、葡萄糖和磷酸鹽等小分子物質，能夠擴散穿過囊泡膜進入細胞質。消化囊泡剩餘的物質，稱為殘餘體，代表不可消化的物質。在大多數情況下，殘餘體通過一種稱為胞排作用（exocytosis）的過程最終通過細胞膜排出，這基本上是胞噬作用的相反過程。因此，含有溶酶體的胞飲囊泡和吞噬囊泡可以稱為細胞的消化器官。
+
+### 溶酶體與組織退化及受損細胞的自噬
+
+生物體組織經常會退化到較小尺寸。例如，這種退化發生在懷孕後的子宫、長期不活動期間的肌肉以及哺乳結束時的乳腺。溶酶體對這種退化負責。
+
+溶酶體的另一個特殊功能是去除組織中受損的細胞或細胞受損的部分。熱、冷、外傷、化學物質或任何其他因素對細胞造成的損害會誘導溶酶體破裂。釋放的水解酶立即開始消化周圍的有機物質。如果損害輕微，只有部分細胞被去除，細胞隨後修復。如果損害嚴重，整個細胞被消化，這一過程稱為自噬。這樣，細胞被完全清除，通常由鄰近細胞通過有絲分裂繁殖形成同類型的新細胞來替換受損細胞。
+
+溶酶體還含有抗菌劑，能在細菌造成細胞損害之前殺死被吞噬的細菌。這些劑劑包括：
+
+1. 溶菌酶，溶解細菌細胞壁
+2. 乳鐵蛋白，結合鐵和其他可能促進細菌生長的物質
+3. pH 約 5.0 的酸性，活化水解酶並抑制細菌代謝系統
+
+### 自噬與胞器的回收
+
+溶酶體在自噬過程中扮演關鍵角色，自噬的字面意思是「自我吞噬」。自噬是一種維持穩態的過程，受損的胞器和大的蛋白質聚集體通過這一過程被降解和回收（Figure 2-13）。老化的胞器通過稱為自噬體的雙膜結構被運送到溶酶體，自噬體在細胞質中形成。溶酶體膜的內陷和囊泡的形成提供了另一條途徑，使細胞質結構能夠進入溶酶體腔。一旦進入溶酶體，胞器被消化，營養物質被細胞重新利用。自噬有助於細胞質成分的日常更新；它是組織發育、營養缺乏時細胞存活以及維持體內平衡的關鍵機制。例如，在肝細胞中，粒線體的平均壽命通常只有約 10 天，然後被摧毀。
+
+## 內質網與高爾基體的細胞結構合成
+
+### 內質網的功能
+
+前文已強調分泌細胞中內質網和高爾基體的發達程度。這些結構主要由類似於細胞膜的脂質雙層膜組成，其壁上充滿催化多種物質合成的酶。
+
+大多數合成始於內質網。然後形成的產物被送到高爾基體，在那裡進一步加工後釋放到細胞質中。首先，讓我們注意在內質網和高爾基體特定部位合成的特定產物。
+
+#### 粗糙內質網的蛋白質合成
+
+粗糙內質網的特徵是大量核糖體附著在內質網膜的外表面。如第 3 章所述，蛋白質分子在核糖體結構內合成。核糖體將一些合成的蛋白質分子直接擠入細胞質基質，但也將更多蛋白質通過內質網壁擠入內質網囊泡和小管的內部，進入內質網基質。
+
+#### 平滑內質網的脂肪合成
+
+內質網也合成脂肪，尤其是磷脂和膽固醇。這些脂肪迅速摻入內質網的脂肪雙層，使內質網更加發達。這一過程主要發生在內質網的平滑部分。
+
+為防止內質網過度生長而超過細胞需要，小囊泡稱為內質網囊泡或運輸囊泡，不斷從平滑內質網脫落；大多數這些囊泡隨後快速遷移到高爾基體。
+
+#### 內質網的其他功能
+
+內質網（尤其是平滑內質網）其他重要功能包括：
+
+1. 提供控制糖原分解（當糖原要用於能量時）的酶。
+2. 提供大量能夠解毒可能損害細胞的物質（如藥物）的酶。它通過 coagulation、氧化、水解和與葡萄糖醛酸結合等過程實現解毒。
+
+### 高爾基體的功能
+
+#### 高爾基體的合成功能
+
+雖然高爾基體的主要功能是對內質網中已形成的物質進行額外加工，但它也能夠合成某些在內質網中無法形成的碳水化合物。這對於與少量蛋白質結合的大型多糖聚合物的形成尤其如此；重要的例子包括透明質酸和軟骨素硫酸鹽。
+
+透明質酸和軟骨素硫酸鹽在體內的眾多功能中包括：
+
+1. 它們是黏液和其他腺體分泌物中分泌的蛋白聚糖的主要成分。
+2. 它們是細胞外間質（即細胞外間隙中填充在膠原蛋白纖維和細胞之間的非纖維成分）的主要成分。
+3. 它們是軟骨和骨頭有機基質的主要成分。
+4. 它們對許多細胞活動很重要，包括遷移和增殖。
+
+#### 高爾基體對內質網分泌物的加工——囊泡的形成
+
+Figure 2-14 總結了內質網和高爾基體的主要功能。當物質在內質網中形成時（尤其是蛋白質），它們通過小管被運送到最靠近高爾基體的平滑內質網部位。在該處，由平滑內質網小囊泡組成的小型運輸囊泡不斷脫落並擴散到高爾基體的最深層。這些囊泡內含有從內質網合成的蛋白質和其他產物。
+
+運輸囊泡立即與高爾基體融合，將其含有的物質排入高爾基體的囊泡空間。在這裡，額外的碳水化合物部分被添加到分泌物中。高爾基體的一個重要作用是將內質網分泌物壓縮成高濃度的包裹。當分泌物穿過高爾基體的最外層時，壓縮和加工持續進行。最後，大大小小的囊泡不斷從高爾基體脫落，攜帶著壓縮的分泌物擴散到整個細胞。
+
+以下示例提供了這些過程的時間概念。當腺體細胞浸泡在胺基酸中時，新形成的蛋白質分子可在 3 至 5 分鐘內在顆粒性內質網中檢測到。在 20 分鐘內，新形成的蛋白質已存在於高爾基體中，在 1 至 2 小時內，蛋白質從細胞表面分泌。
+
+#### 高爾基體形成的囊泡類型——分泌囊泡和溶酶體
+
+在高度分泌的細胞中，高爾基體形成的囊泡主要是分泌囊泡，含有通過細胞膜表面分泌的蛋白質。這些分泌囊泡首先擴散到細胞膜，然後與細胞膜融合，通過胞排作用將其物質排到細胞外。在大多數情況下，胞排作用是由鈣離子進入細胞刺激的。鈣離子與囊泡膜相互作用，引起囊泡膜與細胞膜融合，隨後發生胞排作用——打開膜的外表面，將內容物擠出細胞。有些囊泡則用於細胞內。
+
+#### 用細胞內囊泡補充細胞膜
+
+高爾基體形成的一些細胞內囊泡與細胞膜或細胞內結構（如粒線體甚至內質網）的膜融合。這種融合增加了這些膜的面積，並在膜被使用時補充膜。例如，細胞膜每次形成吞噬囊泡或胞飲囊泡都會損失大量物質，而高爾基體的囊泡膜不斷補充細胞膜。
+
+總之，內質網和高爾基體的膜系統具有高度的代謝活性，能夠形成新的細胞內結構和要從細胞分泌出去的分泌物質。
+
+## 粒線體從營養物質中提取能量
+
+細胞提取能量的主要物質是與氧氣發生化學反應的食物——碳水化合物、脂肪和蛋白質。在人體中，幾乎所有碳水化合物在到達體內其他細胞之前，都由消化道和肝臟轉化為葡萄糖。蛋白質被轉化為胺基酸，脂肪被轉化為脂肪酸。圖 2-15 顯示氧氣和食物——葡萄糖、脂肪酸和胺基酸——都進入細胞。在細胞內，它們在酶的控制下與氧氣發生化學反應，酶控制反應並將釋放的能量引導到正確的方向。所有這些消化和代謝功能的細節見第 63 至 73 章。
+
+簡言之，這些氧化反應幾乎都發生在粒線體內，釋放的能量用於形成高能化合物 ATP。然後，ATP——而非原始食物——被用於整個細胞，為幾乎所有後續的細胞內代謝反應提供能量。
+
+### 腺苷三磷酸的功能特性
+
+ATP 是一種核苷酸，由以下部分組成：
+
+1. 含氮鹼基：腺嘌呤
+2. 五碳糖：核糖
+3. 三個磷酸根
+
+最後兩個磷酸根通過高能磷酸鍵與分子的其餘部分連接，在公式中用符號 ∼ 表示。在人體的物理和化學條件下，每個這種高能鍵約含 12,000 卡路里能量每摩爾 ATP，遠高於一般化學鍵儲存的能量，因此稱為高能鍵。此外，高能磷酸鍵非常不穩定，可以在需要時立即斷裂，為細胞內其他反應提供能量。
+
+當 ATP 釋放能量時，一個磷酸基團被切離，形成腺苷二磷酸（ADP）。釋放的能量用於為細胞的許多其他功能提供能量，如物質合成和肌肉收縮。
+
+為了在 ATP 被使用時重構細胞 ATP，來自細胞營養物質的能量使 ADP 和磷酸重新結合成新的 ATP，整個過程一遍又一遍地重複。基於這些原因，ATP 被稱為細胞的能量貨幣，因為它可以不斷花費和重構，週轉時間僅幾分鐘。
+
+#### ATP 形成的化學過程——粒線體的作用
+
+當葡萄糖進入細胞後，在細胞質中的酶作用下轉化為丙酮酸（這一過程稱為糖酵解）。在這一轉化過程中釋放的能量使少量 ADP 轉化為 ATP，但這僅占細胞整體能量代謝的不到 5%。
+
+約 95% 的細胞 ATP 形成於粒線體。來自碳水化合物、脂肪酸和蛋白質的丙酮酸，最終在粒線體基質中轉化為乙醯輔酶 A（CoA）。然後該物質在粒線體基質中的一系列酶作用下進一步分解（提取能量），通過稱為檸檬酸循環或克氏循環的化學反應序列進行分解。
+
+在檸檬酸循環中，乙醯輔酶 A 被分解成氫原子和二氧化碳。二氧化碳從粒線體擴散出來，最終離開細胞；最後通過肺部排出。
+
+相反，氫原子具有高度反應性，與也擴散到粒線體中的氧氣結合。這個結合釋放巨大能量，粒線體利用這些能量將大量 ADP 轉化為 ATP。這些反應的過程是複雜的，需要許多蛋白酶的參與，這些酶是粒線體膜（向基質突出的膜結構）上整合的氧化酶。初始事件是從氫原子上去除一個電子，將其轉化為氫離子。最終事件是氫離子與氧氣結合形成水，並向粒線體膜結構上突出如旋鈕狀的球狀蛋白質釋放大量能量；這些蛋白質稱為 ATP 合成酶。最後，ATP 合成酶利用氫離子的能量將 ADP 轉化為 ATP。新形成的 ATP 被運出粒線體，進入細胞質和核質的所有部位，在那里它為多種細胞功能提供能量。
+
+ATP 形成的這一整體過程稱為 ATP 的化學滲透機制。這一機制的化學和物理細節在第 68 章中介紹，ATP 在體內的許多詳細代謝功能在第 68 至 72 章中討論。
+
+#### ATP 用於細胞功能
+
+細胞內 ATP 的能量用於促進三大類別的細胞功能：
+
+1. 通過多個細胞膜運輸物質
+2. 在整個細胞中合成化合物
+3. 機械功
+
+圖 2-16 說明了 ATP 的這些用途：
+
+1. 為鈉離子通過細胞膜的運輸提供能量
+2. 促進核糖體的蛋白質合成
+3. 提供肌肉收縮所需的能量
+
+除鈉離子的膜運輸外，ATP 的能量還需要用於鉀離子、鈣離子、鎂離子、磷酸鹽、氯離子、尿酸和氫離子以及許多其他離子和各種有機物質的膜運輸。膜運輸對細胞功能非常重要，以至於某些細胞——例如腎小管細胞——將其形成的 ATP 多達 80% 用於此目的。
+
+除合成蛋白質外，細胞還合成磷脂、膽固醇、嘌呤、嘧啶和許多其他物質。幾乎任何化合物的合成都需要能量。例如，單個蛋白質分子可能由多達數千個通過肽鍵連接在一起的胺基酸組成。每形成一個這種鍵都需要來自四個高能鍵斷裂的能量；因此，每形成一個蛋白質分子，必須有許多 ATP 分子釋放能量。實際上，有些細胞將其形成的 ATP 高達 75% 用於合成新的化學化合物（尤其是蛋白質分子）；這在細胞的生長階段尤其如此。
+
+ATP 的另一個用途是為特殊細胞執行機械功提供能量。我們在第 6 章中討論，每次肌纖維收縮都需要消耗大量 ATP 能量。其他細胞以其他方式執行機械功，特別是纖毛運動和變形蟲運動，本章後文將予描述。所有這些機械功類型的能量來源都是 ATP。
+
+總之，ATP 可隨時迅速地在細胞需要的地方釋放其能量。為補充細胞使用的 ATP，更慢的化學反應分解碳水化合物、脂肪和蛋白質，並利用這些過程中產生的能量形成新的 ATP。這些 ATP 中超過 95% 是在粒線體中形成的，這就是為什麼粒線體被稱為細胞的能量工廠。
+
+## 細胞的運動
+
+人體中最明顯的運動類型是骨骼肌、心肌和平滑肌細胞的運動，約占整個體重的 50%。這些細胞的特殊功能在第 6 至 9 章中討論。另外兩種運動類型——變形蟲運動和纖毛運動——發生在其他細胞中。
+
+## 變形蟲運動
+
+變形蟲運動是整個細胞相對於其周圍環境的爬行運動，例如白細胞穿過組織的運動。這種運動的名稱來自變形蟲，因為變形蟲以這種方式運動，變形蟲為研究這一現象提供了極好的工具。
+
+典型的變形蟲運動從細胞一端伸出偽足開始。偽足向離開細胞體的方向突出，並部分固定在新的組織區域；然後細胞的其餘部分被拉向偽足。Figure 2-17 演示了這一過程，顯示一個細長的細胞，其右端是一個突出的偽足。這個細胞端的細胞膜不斷向前移動，左端的細胞膜隨細胞移動而持續跟隨。
+
+### 變形蟲運動的機制
+
+Figure 2-17 顯示了變形蟲運動的基本原理。基本上，這是由於偽足前端不斷形成新的細胞膜，細胞膜的中部和後部不斷被吸收。其他兩個效應對向前運動也是必不可少的。
+
+第一個效應是偽足附著到周圍組織上，使其在細胞其餘部分被拉向結合點時固定在其前進位置。這種附著由排列在胞排囊泡內側的受體蛋白引起。當囊泡成為偽足膜的一部分時，它們打開，內側翻向外側，受體現在突出到外面並附著到周圍組織中的配體上。在細胞的另一端，受體從配體上拉開，形成新的胞飲囊泡。然後在細胞內部，這些囊泡流向偽足端，在那裡用於為偽足形成新的膜。
+
+第二個對運動必不可少的效應是提供將細胞體拉向偽足方向所需的力量。一種適度到大量的蛋白質——肌動蛋白——存在於所有細胞的細胞質中。大部分肌動蛋白以單分子形式存在，不提供任何運動力量；然而，這些分子聚合形成纖絲網絡，當與肌動蛋白結合蛋白（如肌球蛋白）結合時收縮。整個過程由高能化合物 ATP 提供能量。這就是在移動細胞的偽足中發生的，在那裡這種肌動蛋白絲網絡在新形成的偽足內部形成。收縮也發生在細胞體的外質中，那裡已經存在於細胞膜下方的現有肌動蛋白網絡。
+
+### 表現變形蟲運動的細胞類型
+
+人體中表現變形蟲運動最常見的細胞是白細胞，當它們從血液進入組織形成組織巨噬細胞時。某些其他類型的細胞在特定情況下也能以變形蟲運動方式移動。例如，成纖維細胞移動到受損區域幫助修復損害；甚至皮膚的生殖細胞，雖然通常是完全靜止的細胞，也會向切口區域移動進行修復。細胞運動在胚胎和胎兒發育中尤其重要。例如，胚胎細胞在發育特殊結構時通常需要從它們的起源地遷移到很遠的地方。
+
+某些癌細胞（如源於結締組織細胞的肉瘤）特別擅長變形蟲運動。這在一定程度上解釋了它們從身體一部分快速擴散到另一部分的能力，稱為轉移。
+
+### 變形蟲運動的控制——趨化性
+
+變形蟲運動的一個重要啟動因素是稱為趨化性的過程，由組織中某些化學物質的出現引起。任何引起趨化性發生的化學物質稱為趨化物質。表現變形蟲運動的大多數細胞向趨化物質來源的方向移動——即從低濃度區域向高濃度區域移動。這稱為正趨化性。有些細胞遠離來源移動，稱為負趨化性。
+
+趨化性如何控制變形蟲運動的方向？雖然答案不確定，但已知細胞暴露於趨化物質最多的那一側會發生膜變化，導致偽足突出。
+
+## 纖毛與纖毛運動
+
+纖毛有兩種類型：運動纖毛和非運動纖毛（或原纖毛）。運動纖毛能夠在細胞表面進行鞭狀運動。這種運動主要發生在人體的兩個部位：
+
+- 呼吸道內表面
+- 生殖道輸卵管的內表面
+
+在鼻腔和下呼吸道，運動纖毛的鞭狀運動使黏液層以約 1 cm/min 的速率向咽部移動，不斷清除黏液中被困住的顆粒。在輸卵管中，纖毛使液體從輸卵管口向子宫腔緩慢移動；這種液體運動將卵子從卵巢輸送到子宫。
+
+如 Figure 2-18 所示，纖毛看起來像是從細胞表面突出的一根尖銳筆直或彎曲的毛髮，長 2 至 4 微米。通常，許多運動纖毛從單個細胞表面突出——例如，在呼吸道內表面每個上皮細胞上多達 200 根纖毛。纖毛由細胞膜覆蓋，由 11 根微管支撐——9 根雙微管位於纖毛周邊，2 根單微管位於中心，如圖中橫截面所示。每根纖毛是位於其正下方、稱為纖毛基體的結構的突起。
+
+精子的鞭毛與運動纖毛相似；事實上，它具有非常相似的結構和相同類型的收縮機制。然而，鞭毛更長，以准正弦波而非鞭狀運動。
+
+在圖 2-18 的鑲圖中，顯示了運動纖毛的運動。纖毛以突然快速的鞭狀擊動向前移動，每秒 10 至 20 次，在從細胞表面突出的地方劇烈彎曲。然後它慢慢向後拖回初始位置。快速的向前鞭狀擊動推動與細胞相鄰的液體向纖毛移動的方向移動；向後拖動的慢速運動幾乎不影響液體流動。因此，液體不斷被推向快速向前擊動的方向。由於大多數運動纖毛細胞表面上有大量纖毛，且所有纖毛方向相同，這是沿表面將液體從一部分移動到另一部分的有效手段。
+
+### 纖毛運動的機制
+
+雖然纖毛運動的所有方面尚未完全了解，但我們知道以下要素：
+
+1. 九根雙微管和兩根單微管通過蛋白質交聯複合物相互連接；微管和交聯物的整體複合物稱為軸絲。
+2. 其次，即使去除膜並破壞纖毛除了軸絲以外的其他成分，纖毛在適當條件下仍能擊動。
+3. 第三，去除纖毛其他結構後軸絲持續擊動需要兩個條件：(1) ATP 的可用性；(2) 適當的離子條件，特別是適當濃度的鎂和鈣。
+4. 第四，在纖毛向前運動期間，纖毛前緣的雙微管向外朝向纖毛尖端滑動，而後緣的雙微管保持不動。
+5. 第五，由具有 ATP 酶活性的蛋白質——動力蛋白——組成的多個蛋白臂從每根雙微管突出，朝向相鄰的雙微管。
+
+基於這些基本信息，已確定 ATP 與動力臂接觸釋放的能量使這些臂的頭部沿相鄰雙微管表面快速「爬行」。如果前面的微管向外爬行而後面的微管保持靜止，就會發生彎曲。
+
+纖毛收縮的控制方式尚不完全清楚。某些基因異常細胞的纖毛沒有兩根中央單微管，這些纖毛無法擊動。因此，人們推斷某種信號（可能是電化學信號）沿這兩根中央單微管傳播，來活化動力臂。
+
+### 非運動原纖毛充當細胞感覺「天線」
+
+原纖毛是非運動的，通常每個細胞只有一根。雖然原纖毛的生理功能尚未完全了解，但目前的證據表明它們充當細胞「感覺天線」，協調涉及化學和機械感覺、信號轉導和細胞生長的細胞信號通路。例如，在腎臟中，大多數腎小管上皮細胞都有原纖毛，突 入小管管腔，作為流速感測器。當液體流過腎小管上皮細胞時，原纖毛彎曲並引起細胞內鈣信號的流動依賴性變化。這些信號轉而啟動細胞的多種效應。腎小管上皮細胞中原纖毛信號的缺陷被認為與多種疾病相關，包括巨大的液體填充囊腫的發展，稱為多囊腎病。

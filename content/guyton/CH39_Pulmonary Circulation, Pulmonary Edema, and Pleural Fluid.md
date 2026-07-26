@@ -3,197 +3,185 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH39"
 title: "Pulmonary Circulation, Pulmonary Edema, and Pleural Fluid"
 book: "Guyton & Hall"
-summary: "Chapter CH39 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章探討肺循環的獨特生理特性、肺間質液體動力學、肺水腫的形成機制與安全係數，以及肋膜腔液體的平衡與功能。肺循環與體循環最大的不同在於其低壓系統——肺微血管壓力僅約 8 mm Hg，使液體得以維持在間質中而不進入肺泡。肺水腫的發生主要由 Starling 力失衡所驅動，正常時淨濾過壓僅 +1 mm Hg，臨界點約為 25 mm Hg（等於血漿膠體滲透壓），提供約 21 mm Hg 的急性安全係數。慢性狀態下淋巴管可擴張達十倍，進一步提升耐受性。肋膜腔為潛在空間，內含少量潤滑液，其負壓由淋巴持抽作用維持，使肺臟得以貼合胸壁擴張與收縮。
 ---
 
 # CHAPTER 39
+肺循環與肺間質液體 dynamics
 
-## PULMONARY INTERSTITIAL FLUID DYNAMICS
+## 章節導讀
 
-For adequate aeration of the blood to occur, the blood must be distributed to the segments of the lungs where the alveoli are best oxygenated. This distribution is achieved by the following mechanism: decreased alveolar oxygen reduces local alveolar blood flow and regulates pulmonary blood flow distribution. When the concentration of O₂ in the air of the alveoli decreases below normal, especially when it falls below 70% of normal (i.e., 0 mm Hg), fluid is dumped from the interstitial spaces into the alveoli.
+本章聚焦於肺循環中液體交換的精密調控機制。肺臟作為氣體交換的場所，其微血管網絡面對的是一套與體循環截然不同的壓力系統——肺微血管壓力僅約 8 mm Hg，而血漿膠體滲透壓則高達 28 mm Hg。這種壓力梯度使得液體不易從血管滲出，維持肺泡的乾燥狀態。
 
-## FORCES CAUSING FLUID MOVEMENT IN THE LUNGS
+當左心衰竭或肺毛細血管通透性增加時，Starling 力的平衡被破壞，液體便會積聚於肺間質甚至溢入肺泡，形成危及生命的肺水腫。值得注意的是，人體對肺水腫發展出顯著的安全邊際——急性暴露時，毛細血管壓需升至 25 mm Hg 以上才會發生明顯水腫；而慢性疾病中，淋巴管的適應性擴張更能將耐受上限推至 40–45 mm Hg。本章也將說明肋膜腔的潤滑液與負壓環境如何確保呼吸運動的順暢進行。
 
-Now let us see how these quantitative differences affect pulmonary fluid dynamics. Figure 39-7 shows a pulmonary capillary, pulmonary alveolus, and lymphatic capillary draining the interstitial space between the blood capillary and alveolus.
+## 肺循環的基本特徵
 
-**Table 39-1.** Forces at the Pulmonary Capillary Membrane
+肺循環的首要任務是將血液精確配送至各肺段，使血液充分暴露於充氧的肺泡環境中。這一過程並非被動分配，而是由局部 **oxygen 濃度主動調控**：當某區域肺泡 O₂ 濃度下降時，局部血管收縮，血流重新導向充氧良好的區段。這種 **hypoxic pulmonary vasoconstriction** 機制確保血液總能接觸到最佳的氣體交換界面。
 
-| Force Type | Pressure (mm Hg) |
-|------------|------------------|
-| **Forces causing outward movement** | |
-| Capillary pressure | +8 |
-| Interstitial fluid colloid osmotic pressure | +7 |
-| Negative interstitial fluid pressure | +14 |
-| **Total outward force** | **+29** |
-| **Forces causing inward movement** | |
-| Plasma colloid osmotic pressure | −28 |
-| **Total inward force** | **−28** |
-| **Net filtration pressure** | **+1** |
+### 肺循環與體循環的壓力差異
 
-The normal outward forces are slightly greater than the inward forces, providing a mean filtration pressure at the pulmonary capillary membrane that can be calculated as +29 − 28 mm Hg = +1 mm Hg. This filtration pressure causes a slight continual flow of fluid from the pulmonary capillaries into the interstitial spaces, and except for a small amount that evaporates in the alveoli, this fluid is pumped back to the circulation through the pulmonary lymphatic system.
+| 循環系統 | 平均微血管壓力 |
+|-----------|----------------|
+| 體循環   | ~30 mm Hg      |
+| 肺循環   | ~8 mm Hg       |
 
-## NEGATIVE PULMONARY INTERSTITIAL PRESSURE
+肺循環的低壓特性反映其功能需求：避免液體大量滲出至肺間質與肺泡，同時維持足夠的血流以完成氣體交換。
 
-What keeps the alveoli from filling with fluid under normal conditions? The pulmonary capillaries and pulmonary lymphatic system normally maintain a slight negative pressure in the interstitial spaces. Whenever extra fluid appears in the alveoli, it is sucked mechanically into the lung interstitium through the small openings between the alveolar epithelial cells. The excess fluid is then carried away through the pulmonary lymphatics.
+## 肺間質液體動力學
 
-Thus, under normal conditions, the alveoli are kept "dry," except for a small amount of fluid that seeps from the epithelium onto the lining surfaces of the alveoli to keep them moist.
+### 肺微血管的 Starling 力
 
-## PULMONARY EDEMA
+肺微血管膜上的液體交換由多種力量共同決定（圖 39-7）。這些力量分為促使液體向外移動與向內移動兩類：
 
-Pulmonary edema occurs in the same way that edema occurs elsewhere in the body. Any factor that increases fluid filtration out of the pulmonary capillaries or that impedes pulmonary lymphatic function and causes the pulmonary interstitial fluid pressure to rise from the negative range into the positive range will tend to cause filling of the pulmonary interstitial spaces and alveoli with free fluid.
+**Table 39-1.** 肺微血管膜上的作用力
 
-The most common causes of pulmonary edema are as follows:
+| 力量類型 | 壓力（mm Hg） |
+|----------|---------------|
+| **促使液體向外移動的力量** | |
+| 微血管內壓力 | +8 |
+| 間質液體膠體滲透壓 | +7 |
+| 間質負液體壓力 | +14 |
+| **向外總力** | **+29** |
+| **促使液體向內移動的力量** | |
+| 血漿膠體滲透壓 | −28 |
+| **向內總力** | **−28** |
+| **淨濾過壓** | **+1** |
 
-1. Left-sided heart failure or mitral valve disease, with consequent great increases in pulmonary venous pressure and pulmonary capillary pressure and flooding of the interstitial spaces and alveoli
-2. Damage to the pulmonary blood capillary membranes caused by infections such as pneumonia or by breathing noxious substances such as chlorine gas or sulfur dioxide gas
+正常情況下，向外總力（+29 mm Hg）略大於向內總力（−28 mm Hg），產生約 +1 mm Hg 的淨濾過壓。這微弱的正向驅使力使液體持續從肺微血管滲入間質，而淋巴系統則負責將這股細流引流回循環——這是維持肺間質乾燥的關鍵平衡。
 
-Each of these mechanisms causes rapid leakage of plasma proteins and fluid out of the capillaries and into the lung interstitial spaces and alveoli.
+### 為何肺泡能維持乾燥？
 
-## PULMONARY EDEMA SAFETY FACTOR
+肺間質維持輕度負壓（−7 mm Hg 左右），一旦液體意外進入肺泡，便會透過肺泡上皮細胞之間的微小裂隙被機械性吸回間質，再由淋巴系統清除。這套機制使肺泡在正常狀態下近乎「無液」，僅表面覆有極薄層液體以保持濕潤。
 
-Experiments in animals have shown that the pulmonary capillary pressure normally must rise to a value at least equal to the colloid osmotic pressure of the plasma inside the capillaries before significant pulmonary edema will occur. To give an example, Figure 39-8 shows how different levels of left atrial pressure increase the rate of pulmonary edema formation in dogs.
+## 肺水腫
 
-**Figure 39-8.** Rate of fluid loss into the lung tissues when the left atrial pressure (and pulmonary capillary pressure) is increased. (From Guyton AC, Lindsey AW: Effect of elevated left atrial pressure and decreased plasma protein concentration on the development of pulmonary edema. Circ Res 7:649, 1959.)
+肺水腫的形成機制與其他組織水腫相同：本質上是 Starling 力失衡或淋巴排除功能受阻，使間質壓力由負轉正，液體進而充盈間質與肺泡。
 
-Remember that every time the left atrial pressure rises to high values, the pulmonary capillary pressure rises to a level 1 to 2 mm Hg greater than the left atrial pressure. In these experiments, as soon as the left atrial pressure rose above 23 mm Hg (causing the pulmonary capillary pressure to rise above 25 mm Hg), fluid began to accumulate in the lungs. This fluid accumulation increased even more rapidly with further increases in capillary pressure. The plasma colloid osmotic pressure during these experiments was equal to this 25 mm Hg critical pressure level.
+### 常見病因
 
-Therefore, in a person whose normal plasma colloid osmotic pressure is 28 mm Hg, one can predict that the pulmonary capillary pressure must rise from the normal level of 7 mm Hg to more than 28 mm Hg to cause substantial pulmonary edema, giving an acute safety factor against pulmonary edema of 21 mm Hg.
+1. **左心衰竭或僧帽瓣疾病**：肺靜脈壓與微血管壓大幅上升，液體自血管溢出至間質與肺泡
+2. **肺微血管膜損傷**：感染（如肺炎）或吸入有害氣體（如氯氣、二氧化硫）直接破壞血管壁通透性
 
-### Safety Factor in Chronic Conditions
+兩種機制均導致血漿蛋白與液體快速漏出，嚴重妨礙氣體交換功能。
 
-When the pulmonary capillary pressure remains elevated chronically (for at least 2 weeks), the lungs become even more resistant to pulmonary edema because the lymph vessels expand greatly, increasing their capability of carrying fluid away from the interstitial spaces perhaps as much as 10-fold. Therefore, in patients with chronic mitral stenosis, pulmonary capillary pressures of 40 to 45 mm Hg have been measured without the development of lethal pulmonary edema.
+### 肺水腫的安全係數
 
-### Rapidity of Death in Acute Pulmonary Edema
+動物實驗顯示，肺微血管壓需上升至與血漿膠體滲透壓相當的水準，才會引發明顯肺水腫。圖 39-8 說明不同左心房壓力下肺水腫形成的速率：
 
-When the pulmonary capillary pressure rises even slightly above the safety factor level, lethal pulmonary edema can occur within hours, or even within 20 to 30 minutes if the capillary pressure rises 25 to 30 mm Hg above the safety factor level. Thus, in acute left-sided heart failure, in which the pulmonary capillary pressure occasionally does rise to 50 mm Hg, death may ensue in less than 30 minutes as a result of acute pulmonary edema.
+**Figure 39-8.** 當左心房壓力（及肺微血管壓）升高時，肺組織液體流失的速率。（From Guyton AC, Lindsey AW: Effect of elevated left atrial pressure and decreased plasma protein concentration on the development of pulmonary edema. Circ Res 7:649, 1959.）
 
-## FLUID IN THE PLEURAL CAVITY
+左心房壓力每上升 1–2 mm Hg，肺微血管壓便隨之上升約 1–2 mm Hg。實驗中，當左心房壓力超過 23 mm Hg（微血管壓約 25 mm Hg）時，液體開始在肺臟累積；此臨界值恰好等於血漿膠體滲透壓。
 
-When the lungs expand and contract during normal breathing, they slide back and forth within the pleural cavity. To facilitate this movement, a thin layer of mucoid fluid lies between the parietal and visceral pleurae. Figure 39-9 shows the dynamics of fluid exchange in the pleural space.
+**急性安全係數**：正常人血漿膠體滲透壓為 28 mm Hg，肺微血管壓正常值為 7 mm Hg，兩者差距約 21 mm Hg——這就是急性暴露時的安全邊際。
 
-**Figure 39-9.** Dynamics of fluid exchange in the intrapleural space.
+#### 慢性疾病的安全係數擴增
 
-The pleural membrane is a porous, mesenchymal, serous membrane through which small amounts of interstitial fluid transude continually into the pleural space. These fluids carry tissue proteins with them, giving the pleural fluid a mucoid characteristic, which allows extremely easy slippage of the moving lungs.
+當肺微血管壓持續升高達兩週以上，肺臟對水腫的耐受性會大幅提升，原因在於淋巴管顯著擴張，排除液體的能力可增加近十倍。因此，慢性僧帽瓣狹窄患者的肺微血管壓即使達到 40–45 mm Hg，仍可不發生致命性肺水腫。
 
-The total amount of fluid in each pleural cavity is normally slight—only a few milliliters. Whenever the quantity becomes more than barely enough to begin flowing in the pleural cavity, the excess fluid is pumped away by lymphatic vessels opening directly from the pleural cavity into the following:
+### 急性肺水腫的致死速度
 
-1. The mediastinum
-2. The superior surface of the diaphragm
-3. The lateral surfaces of the parietal pleura
+一旦微血管壓超越安全係數上限，致命的肺水腫可在數小時內形成；若壓力超出臨界值 25–30 mm Hg，甚至可在 20–30 分鐘內致死。在急性左心衰竭中，肺微血管壓偶爾會飆升至 50 mm Hg，此時患者可能在半小時內死亡。
 
-Therefore, the pleural space—the space between the parietal and visceral pleurae—is called a potential space because it normally is so narrow that it is not obviously a physical space.
+## 肋膜腔液體
 
-### Negative Pressure in Pleural Fluid
+### 肋膜潤滑液的生成
 
-A negative force is always required on the outside of the lungs to keep the lungs expanded. This force is provided by negative pressure in the normal pleural space. The basic cause of this negative pressure is pumping of fluid from the space by the lymphatics, which is also the basis of the negative pressure found in most tissue spaces of the body.
+肺臟在呼吸時於肋膜腔內來回滑動，為減少摩擦，肋膜表面（壁層與臟層）之間覆有一層薄薄的黏液狀液體。這層液體由肋膜這層具有通透性的間皮組織持續滲出，攜帶組織蛋白使其呈黏液特性，確保肺臟滑動時阻力極低。
 
-Because the normal collapse tendency of the lungs is about −4 mm Hg, the pleural fluid pressure must always be at least as negative as −4 mm Hg to keep the lungs expanded. Actual measurements have shown that the pressure is usually about −7 mm Hg, which is a few millimeters of mercury more negative than the collapse pressure of the lungs. Thus, the negativity of the pleural fluid pressure keeps the normal lungs pulled against the parietal pleura of the chest cavity, except for an extremely thin layer of mucoid fluid that acts as a lubricant.
+正常時每側肋膜腔僅含數毫升液體。當液體稍微過量時，分布於以下區域的淋巴管便會主動將其抽走：縱隔、橫膈上方表面，以及壁層肋膜外側面。
 
-### Pleural Effusion
+因此，**肋膜腔是一個潛在空間**——正常時極度狹窄，不構成明顯的物理腔隙。
 
-Pleural effusion—collection of large amounts of free fluid in the pleural space—is analogous to edema fluid in the tissues and can be called edema of the pleural cavity. The causes of the effusion are the same as the causes of edema in other tissues (discussed in Chapter 25), including the following:
+### 肋膜液體的負壓來源
 
-1. Blockage of lymphatic drainage from the pleural cavity
-2. Cardiac failure, which causes excessively high peripheral and pulmonary capillary pressures, leading to excessive transudation of fluid into the pleural cavity
-3. Greatly reduced plasma colloid osmotic pressure, thus allowing excessive transudation of fluid
-4. Infection or any other cause of inflammation of the surfaces of the pleural cavity, which increases permeability of the capillary membranes and allows rapid dumping of plasma proteins and fluid into the cavity
+肺臟要維持擴張狀態，必須有外在負力將其向內拉。這股負力正是由淋巴抽吸維持的肋膜間負壓。由於肺臟的自然塌陷傾向為 −4 mm Hg，肋膜液壓至少需維持 −4 mm Hg 以上才能對抗之；實測值約 −7 mm Hg，略強於肺臟的塌陷力，確保肺臟始終貼合於胸壁。
+
+### 肋膜積液
+
+**Pleural effusion**（肋膜積液）是指肋膜腔內積聚大量自由液體，其成因與其他組織水腫相同：
+
+1. 淋巴排出受阻
+2. 心衰竭導致周邊及肺微血管壓過高，液體過度滲出
+3. 血漿膠體滲透壓大幅降低
+4. 肋膜炎症反應使毛細血管通透性增加，血漿蛋白與液體大量漏入腔內
 
 ---
 
 # CHAPTER 40
+氣體交換原理；Oxygen 與 Carbon Dioxide 透過呼吸膜的擴散
 
-## PRINCIPLES OF GAS EXCHANGE; DIFFUSION OF OXYGEN AND CARBON DIOXIDE THROUGH THE RESPIRATORY MEMBRANE
+## 章節導讀
 
-After the alveoli are ventilated with fresh air, the next step in respiration is diffusion of oxygen (O₂) from the alveoli into the pulmonary blood and diffusion of carbon dioxide (CO₂) in the opposite direction, out of the blood into the alveoli. The process of diffusion is simply the random motion of molecules in all directions through the respiratory membrane and adjacent fluids. However, in respiratory physiology, we are concerned not only with the basic mechanism by which diffusion occurs but also with the rate at which it occurs, which is a much more complex issue, requiring a deeper understanding of the physics of diffusion and gas exchange.
+氣體交換是呼吸系統的核心功能，而其基礎則是氣體分子的**擴散**作用。肺泡內的新鮮空氣與肺微血管內的 deoxygenated blood 以一層僅約 0.6 μm 厚的呼吸膜相隔，O₂ 與 CO₂ 即透過這層薄膜進行雙向擴散——O₂ 由肺泡進入血液，CO₂ 由血液排入肺泡。
 
-## PHYSICS OF GAS DIFFUSION AND GAS PARTIAL PRESSURES
+本章從氣體分子的隨機運動出發，逐步建立** partial pressure** 的概念，並說明何以 O₂ 的 partial pressure 在肺泡高而在血液低，形成淨擴散梯度；CO₂ 的情況則相反。Henry 定律揭示了氣體溶解度對 partial pressure 的影響：CO₂ 的溶解度約為 O₂ 的 24 倍，這使得在相同濃度下，CO₂ 所產生的 partial pressure 遠低於 O₂。最後，本章也介紹水蒸氣 partial pressure（47 mm Hg at 37°C）對吸入氣體分壓計算的影響。
 
-### Molecular Basis of Gas Diffusion
+## 擴散的物理學原理
 
-All the gases of concern in respiratory physiology are simple molecules that are free to move among one another by diffusion. This is also true of gases dissolved in the fluids and tissues of the body. For diffusion to occur, there must be a source of energy. This source of energy is provided by the kinetic motion of the molecules.
+### 氣體分子運動的分子基礎
 
-Except at absolute zero temperature, all molecules of all matter are continually undergoing motion. For free molecules that are not physically attached to others, this means linear movement at high velocity until they strike other molecules. They then bounce away in new directions and continue moving until they strike other molecules again. In this way, the molecules move rapidly and randomly among one another.
+呼吸生理學所涉及的氣體均為自由移動的簡單分子。分子持續進行隨機直線運動，撞擊其他分子後反彈，再繼續前進——這股能量來源正是分子的**動能**。溫度越高，分子運動越劇烈。
 
-### Net Diffusion of a Gas in One Direction—Effect of a Concentration Gradient
+### 淨擴散方向與濃度梯度
 
-If a gas chamber or solution has a high concentration of a particular gas at one end of the chamber and a low concentration at the other end, net diffusion of the gas will occur from the high-concentration area toward the low-concentration area. The reason is obvious: there are far more molecules at one end of the chamber to diffuse toward the other end than there are molecules to diffuse in the opposite direction. Therefore, the rates of diffusion in each of the two directions are proportionately different.
+當氣體 chamber 或溶液某端的濃度高於另一端時，該端有更多分子向低濃度端擴散，因此**淨擴散方向由高濃度（高 partial pressure）指向低濃度（低 partial pressure）**。
 
-### Gas Pressures in a Mixture of Gases—Partial Pressures of Individual Gases
+### 氣體混合物的 partial pressure
 
-Pressure is caused by multiple impacts of moving molecules against a surface. Therefore, the pressure of a gas acting on the surfaces of the respiratory passages and alveoli is proportional to the summated force of impact of all the molecules of that gas striking the surface at any given instant. This means that the pressure is directly proportional to the concentration of the gas molecules.
+**Partial pressure** 是氣體分子撞擊表面所產生的總力，與該氣體的濃度成正比。在海平面，乾燥大氣總壓為 760 mm Hg，其中 O₂ 約佔 21%、N₂ 約佔 79%：
 
-In respiratory physiology, one deals with mixtures of gases, mainly oxygen, nitrogen, and carbon dioxide. The rate of diffusion of each of these gases is directly proportional to the pressure caused by that gas alone, which is called the partial pressure of that gas.
+- PO₂ = 760 × 0.21 = **160 mm Hg**
+- PN₂ = 760 × 0.79 = **600 mm Hg**
 
-The concept of partial pressure can be explained as follows: consider air, which has an approximate composition of 79% nitrogen and 21% oxygen. The total pressure of this mixture at sea level averages 760 mm Hg. It is clear from the preceding description of the molecular basis of pressure that each gas contributes to the total pressure in direct proportion to its concentration. Therefore, 79% of the 760 mm Hg is caused by nitrogen (600 mm Hg) and 21% by O₂ (160 mm Hg). Thus, the partial pressure of nitrogen in the mixture is 600 mm Hg, and the partial pressure of O₂ is 160 mm Hg; the total pressure is 760 mm Hg, the sum of the individual partial pressures.
+各氣體的 partial pressure 以 P 為符號：PO₂、PCO₂、PN₂、PHe 等。
 
-The partial pressures of individual gases in a mixture are designated by the symbols PO₂, PCO₂, PN₂, PHe, and so forth.
+### 溶於液體或組織中的氣體 partial pressure
 
-### Pressures of Gases Dissolved in Water and Tissues
+溶於水的氣體分子同樣隨機運動並對接觸表面產生 partial pressure，稱為**溶解 partial pressure**，與液相中的氣體分子跳回氣相的趨勢相關。
 
-Gases dissolved in water or in body tissues also exert pressure because the dissolved gas molecules are moving randomly and have kinetic energy. Furthermore, when the gas dissolved in fluid encounters a surface, such as the membrane of a cell, it exerts its own partial pressure in the same way as a gas in the gas phase. The partial pressures of the separate dissolved gases are designated the same as the partial pressures in the gas state—that is, PO₂, PCO₂, PN₂, PHe, and so forth.
+**Henry 定律**描述了溶解氣體的 partial pressure 與濃度的關係：
 
-#### Factors That Determine Partial Pressure of a Gas Dissolved in a Fluid
+$$P = \frac{C}{S}$$
 
-The partial pressure of a gas in a solution is determined not only by its concentration but also by the solubility coefficient of the gas. That is, some types of molecules—especially CO₂—are physically or chemically attracted to water molecules, whereas other types of molecules are repelled. When molecules are attracted, far more of them can be dissolved without building up excess partial pressure within the solution. Conversely, in the case of molecules that are repelled, high partial pressure will develop with fewer dissolved molecules.
+其中 S 為溶解係數。C 為濃度（每單位體積水所溶解的氣體體積），P 為 partial pressure（atm）。37°C 時各重要呼吸氣體的溶解係數：
 
-These relationships are expressed by the following formula, which is Henry's law:
+| 氣體 | 溶解係數 |
+|------|----------|
+| O₂ | 0.024 |
+| CO₂ | 0.57 |
+| CO | 0.018 |
+| N₂ | 0.012 |
+| He | 0.008 |
 
-**Partial pressure = Concentration of dissolved gas / Solubility coefficient**
+CO₂ 的溶解係數是 O₂ 的 **24 倍**，這意味著在相同濃度下，CO₂ 所產生的 partial pressure 僅為 O₂ 的約 1/24。
 
-When partial pressure is expressed in atmospheres (1 atmosphere [1 atm] pressure equals 760 mm Hg) and concentration is expressed in volume of gas dissolved in each volume of water, the solubility coefficients for important respiratory gases at body temperature are the following:
+### 濕化氣體中水蒸氣的影響
 
-- Oxygen: 0.024
-- Carbon dioxide: 0.57
-- Carbon monoxide: 0.018
-- Nitrogen: 0.012
-- Helium: 0.008
+吸入氣體通過呼吸道時會被加溫並濕化，水分子持續蒸發至氣體中，直至與液態水達到平衡。37°C 時水蒸氣的 partial pressure（即** vapor pressure**）為 **47 mm Hg**，此值在後續所有肺泡氣體計算中都必須扣除。
 
-From this list, one can see that CO₂ is more than 20 times as soluble as O₂. Therefore, the partial pressure of CO₂ for a given concentration is less than one-twentieth (5%) of that exerted by O₂.
+### 肺泡與血液間的氣體擴散
 
-### Diffusion of Gases Between Gas Phase in Alveoli and Dissolved Phase in Pulmonary Blood
+氣體在肺泡與血液間的淨擴散方向取決於兩相的 partial pressure 差：
 
-The partial pressure of each gas in the alveolar respiratory gas mixture tends to force molecules of that gas into solution in the blood of the alveolar capillaries. Conversely, the molecules of the same gas that are already dissolved in the blood are bouncing randomly in the fluid of the blood, and some of these bouncing molecules escape back into the alveoli. The rate at which they escape is directly proportional to their partial pressure in the blood.
-
-But in which direction will net diffusion of the gas occur? The answer is that net diffusion is determined by the difference between the two partial pressures. If the partial pressure is greater in the gas phase in the alveoli, as is normally true for oxygen, then more molecules will diffuse into the blood than in the other direction. Alternatively, if the partial pressure of the gas is greater in the dissolved state in the blood, which is normally true for CO₂, then net diffusion will occur toward the gas phase in the alveoli.
-
-### Vapor Pressure of Water
-
-When nonhumidified air is breathed into the respiratory passageways, water immediately evaporates from the surfaces of these passages and humidifies the air. This results from the fact that water molecules, like different dissolved gas molecules, are continually escaping from the water surface into the gas phase. The partial pressure that water molecules exert to escape through the surface is called the vapor pressure of the water. At normal body temperature, 37°C (98.6°F), this vapor pressure is 47 mm Hg.
-
-Therefore, once the gas mixture has become fully humidified—that is, once it is in equilibrium with the water—the partial pressure of the water vapor in the gas mixture is 47 mm Hg. This partial pressure, like the other partial pressures, is designated as PH₂O.
-
-The vapor pressure of water depends entirely on the temperature of the water. The higher the temperature, the greater the kinetic activity of the molecules and, therefore, the greater the likelihood that the water molecules will escape from the surface of the water into the gas phase. For example, the water vapor pressure at 0°C is 5 mm Hg, and at 100°C it is 760 mm Hg. The most important value to remember is the vapor pressure at body temperature, 47 mm Hg. This value appears in many of our subsequent discussions.
+- **O₂**：肺泡 PO₂（~104 mm Hg）> 血液 PO₂（~40 mm Hg）→ O₂ 由肺泡擴散入血
+- **CO₂**：血液 PCO₂（~46 mm Hg）> 肺泡 PCO₂（~40 mm Hg）→ CO₂ 由血液擴散入肺泡
 
 ---
 
-## BIBLIOGRAPHY
+# 參考文獻
 
 1. Dunham-Snary KJ, Wu D, Sykes EA, et al: Hypoxic pulmonary vasoconstriction: from molecular mechanisms to medicine. Chest 151:181, 2017.
-
 2. Effros RM, Parker JC: Pulmonary vascular heterogeneity and the Starling hypothesis. Microvasc Res 78:71, 2009.
-
 3. Frise MC, Robbins PA: The pulmonary vasculature—lessons from Tibetans and from rare diseases of oxygen sensing. Exp Physiol 100:1233, 2015.
-
 4. Guyton AC, Lindsey AW: Effect of elevated left atrial pressure and decreased plasma protein concentration on the development of pulmonary edema. Circ Res 7:649, 1959.
-
 5. Hughes M, West JB: Gravity is the major factor determining the distribution of blood flow in the human lung. J Appl Physiol 104:1531, 2008.
-
 6. Jaitovich A, Jourd'heuil D: A Brief overview of nitric oxide and reactive oxygen species signaling in hypoxia-induced pulmonary hypertension. Adv Exp Med Biol 967:71, 2017.
-
 7. Lumb AB, Slinger P: Hypoxic pulmonary vasoconstriction: physiology and anesthetic implications. Anesthesiology 122:932, 2015.
-
 8. Parker JC: Hydraulic conductance of lung endothelial phenotypes and Starling safety factors against edema. Am J Physiol Lung Cell Mol Physiol 292:L378, 2007.
-
 9. Stickland MK, Lindinger MI, Olfert IM, Heigenhauser GJ, Hopkins SR: Pulmonary gas exchange and acid-base balance during exercise. Compr Physiol 3:693, 2013.
-
 10. Suresh K, Shimoda LA: Lung circulation. Compr Physiol 6:897, 2018.
-
 11. Sylvester JT, Shimoda LA, Aaronson PI, Ward JP: Hypoxic pulmonary vasoconstriction. Physiol Rev 92:367, 2012.
-
 12. Tabima DM, Philip JL, Chesler NC: Right ventricular-pulmonary vascular interactions. Physiology (Bethesda) 32:346, 2017.
-
 13. Townsley MI: Structure and composition of pulmonary arteries, capillaries, and veins. Compr Physiol 2:675, 2012.
-
 14. Zielinska-Krawczyk M, Krenke R, Grabczak EM, Light RW: Pleural manometry—historical background, rationale for use and methods of measurement. Respir Med 136:21, 2018.

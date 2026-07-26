@@ -3,675 +3,242 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH05"
 title: "Membrane Potentials and Action Potentials"
 book: "Guyton & Hall"
-summary: "Chapter 5 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章闡述細胞膜電位的形成機制與神經衝動的傳導原理。 resting membrane potential 由鉀離子擴散、鈉離子滲漏與鈉鉀幫浦共同決定。 action potential 的產生依賴電壓門控鈉離子通道與鉀離子通道的順序開關：鈉離子通道開放造成去極化，隨後關閉而鉀離子通道開放導致再極化。本章也介紹髓鞘與郎氏結如何加速跳躍傳導，以及心肌與平滑肌中具有 plateau 特性的動作電位。
+"
 ---
 
-# UNIT II
-# Membrane Physiology, Nerve, and Muscle
+## 章節導讀
 
-## The Driving Force for Ion Movement Across the Membrane
+細胞膜內外存在電位差，稱為 membrane potential，是神經與肌肉細胞產生電訊號的基礎。本章首先說明如何測量 resting membrane potential，以及這個電位如何由鉀離子擴散、鈉離子微幅滲漏與鈉鉀幫浦的電生特性共同維持。接著介紹神經 signal 的核心——action potential，包括其去極化與再極化的過程，以及電壓門控鈉離子通道與鉀離子通道在此過程中的角色。我們將看到這些通道如何以全有或全無的方式產生與傳播電訊號，以及髓鞘如何使神經傳導速度大幅提升。最後，本章也討論心肌與平滑肌中具有 plateau 的特殊動作電位，以及神經組織的節律性放電現象。
 
-The driving force for movement of the ion across the membrane is equal to the difference between the membrane potential (Vm) and the <span class="c-yellow">equilibrium potential</span> of the ion (Veq). Thus, Vdf = Vm – Veq.
+## 離子跨膜移動的驅動力
 
-The arithmetic sign of Vdf (positive or negative) and the valence of the ion (cation or anion) can be used to predict the direction of ion flow across the membrane, into or out of the cell. For cations such as Na+ and K+, a positive Vdf predicts ion movement out of the cell down its electrochemical gradient, and a negative Vdf predicts ion movement into the cell. For anions, such as Cl−, a positive Vdf predicts ion movement into the cell, and a negative Vdf predicts ion movement out of the cell.
+離子跨膜移動的驅動力等於 membrane potential（Vm）與該離子的平衡電位（Veq）之差：
 
-When Vm = Veq, there is no net movement of the ion into or out of the cell. Also, the direction of ion flux through the membrane reverses as Vm becomes greater than or less than Veq; hence, the <span class="c-yellow">equilibrium potential</span> (Veq) is also called the reversal potential.
+**Vdf = Vm – Veq**
 
-## Measuring the <span class="c-yellow">Membrane Potential</span>
+Vdf 的正負符號與離子的價數可用來預測離子的流動方向。對於 Na⁺ 和 K⁺ 等陽離子，正的 Vdf 表示離子順電化學梯度流出細胞；負的 Vdf 表示流入。對於 Cl⁻ 等陰離子則相反。當 Vm = Veq 時，該離子沒有淨流動，因此 Veq 也稱為 reversal potential。
 
-The method for measuring the <span class="c-yellow">membrane potential</span> is simple in theory but often difficult in practice because of the small size of most cells and fibers. Figure 5-2 shows a small micropipette filled with an electrolyte solution. The micropipette is impaled through the cell membrane to the interior of the fiber. Another electrode, called the indifferent electrode, is then placed in the extracellular fluid, and the potential difference between the inside and outside of the fiber is measured using an appropriate voltmeter. This voltmeter is a highly sophisticated electronic apparatus that is capable of measuring small voltages despite extremely high resistance to electrical flow through the tip of the micropipette, which has a lumen diameter usually less than 1 micrometer and a resistance of more than 1 million ohms. For recording rapid changes in the <span class="c-yellow">membrane potential</span> during transmission of nerve impulses, the microelectrode is connected to an oscilloscope, as explained later in the chapter.
+## 測量膜電位的方法
 
-The lower part of Figure 5-3 shows the electrical potential that is measured at each point in or near the nerve fiber membrane, beginning at the left side of the figure and passing to the right. As long as the electrode is outside the neuronal membrane, the recorded potential is zero, which is the potential of the extracellular fluid. Then, as the recording electrode passes through the voltage change area at the cell membrane (called the electrical dipole layer), the potential decreases abruptly to −70 millivolts. Moving across the center of the fiber, the potential remains at a steady −70-millivolt level but reverses back to zero the instant it passes through the membrane on the opposite side of the fiber.
+測量 membrane potential 的方法在原理上很簡單，但因為細胞通常很小而難以實行。Figure 5-2 顯示一支充滿電解質溶液的微吸管，扎入細胞膜到達纖維內部；另一個稱為無關电极的 electrode 放在細胞外液中，兩者之間的電位差由伏特計測量。這個伏特計是精密的電子儀器，能夠測量小電壓，同時克服微吸管尖端（Lumen 直徑通常小於 1 微米，電阻超過 100 萬歐姆）的高電阻。記錄神經衝動傳遞過程中 rapid changes in membrane potential 時，微 electrode 會連接到示波器。
 
-To create a negative potential inside the membrane, only enough positive ions to develop the electrical dipole layer at the membrane itself must be transported outward. The remaining ions inside the nerve fiber can be both positive and negative, as shown in the upper panel of Figure 5-3. Therefore, transfer of an incredibly small number of ions through the membrane can establish the normal <span class="c-yellow">resting potential</span> of −70 millivolts inside the nerve fiber, which means that only about 1/3,000,000 to 1/100,000,000 of the total positive charges inside the fiber must be transferred. Also, an equally small number of positive ions moving from outside to inside the fiber can reverse the potential from −70 millivolts to as much as +35 millivolts within as little as 1/10,000 of a second. Rapid shifting of ions in this manner causes the nerve signals discussed in subsequent sections of this chapter.
+Figure 5-3 的下半部顯示記錄 electrode 在神經纖維膜內外各點測得的電位。當 electrode 還在細胞膜外時，記錄到的電位是零（細胞外液的電位）。當 electrode 穿過細胞膜的電雙層時，電位驟降至 −70 millivolts，並在穿過對側細胞膜後恢復為零。
 
-<span class="c-pink">**Silver–silver chloride electrode**</span>
+要在膜內建立負電位，只需要將少量正離子移到膜外形成電雙層即可。事實上，建立正常的 −70 millivolts resting potential 只需要轉移細胞內總正電荷的約 1/3,000,000 至 1/100,000,000。少量正離子從外向內的移動就足以在萬分之一秒內將電位從 −70 millivolts 反轉為 +35 millivolts。
 
-<span class="c-pink">**KCl**</span>
+## 神經元的靜止膜電位
 
-<span class="c-pink">**– – – – – – – – – – – – – – – – –**</span>
+大型神經纖維在未傳遞訊號时的 resting membrane potential 約為 −70 millivolts，亦即細胞內比細胞外負 70 毫伏。以下說明 resting nerve membrane 對鈉、鉀離子的 transport 特性以及決定此電位水準的因素。
 
-<span class="c-pink">**+ + + + + + + + + + + + + + + + +**</span>
+### 鈉鉀幫浦的主動運輸
 
-<span class="c-pink">**–70 mV**</span>
+根據第 4 章，所有細胞膜都有強大的 Na⁺-K⁺ pump，持續將鈉離子泵出細胞、將鉀離子泵入細胞（Figure 5-4 左側）。這是一個電生性幫浦，因為每泵出 3 個 Na⁺ 只泵入 2 個 K⁺，造成細胞內側的淨正電荷缺失，使細胞內呈負電位。
 
-**Figure 5-2.** Measurement of the <span class="c-yellow">membrane potential</span> of the nerve fiber using a microelectrode.
+鈉鉀幫浦也在 resting nerve membrane 兩側建立了大的鈉、鉀離子濃度梯度：
 
-<span class="c-pink">**–70**</span>
+| 離子 | 細胞外 (mEq/L) | 細胞內 (mEq/L) |
+|------|----------------|----------------|
+| Na⁺  | 142            | 14             |
+| K⁺   | 4              | 140            |
 
-<span class="c-pink">**Electrical potential (millivolts)**</span>
+Na⁺ 內外比例為 0.1，K⁺ 內外比例為 35。
 
-<span class="c-pink">**– + – + – + – + – + – + – + –**</span>
+### 鉀離子經神經細胞膜的滲漏
 
-<span class="c-pink">**+ – + + – – + – + – – + + – +**</span>
+Figure 5-4 右側顯示神經膜中一種通道蛋白（又稱 tandem pore domain、potassium leak channel），鉀離子可通過它滲漏，即使在 resting cell 也是如此。這些 K⁺ leak channels 對鉀離子的通透性約為鈉離子的 100 倍，是決定正常 resting membrane potential 的關鍵因素。
 
-<span class="c-pink">**– + – + – + – + – + – + – + –**</span>
+### 正常靜止膜電位的產生
 
-<span class="c-pink">**+ – + + – – + – + – – + + – +**</span>
+Figure 5-5 顯示建立正常 resting membrane potential 的重要因素：
 
-<span class="c-pink">**Nerve fiber**</span>
+**鉀離子擴散電位的貢獻：** 細胞內外鉀離子濃度比為 35:1，對應的能斯特電位為 −94 millivolts。如果鉀離子是造成 resting potential 的唯一因素，纖維內的電位會等於 −94 millivolts。
 
-**Figure 5-3.** Distribution of positively and negatively charged ions in the extracellular fluid surrounding a nerve fiber and in the fluid inside the fiber. Note the alignment of negative charges along the inside surface of the membrane and positive charges along the outside surface. The lower panel displays the abrupt changes in membrane potential that occur at the membranes on the two sides of the fiber.
+**鈉離子擴散的貢獻：** 神經膜對鈉離子也有微幅通透性（透過 K⁺-Na⁺ leak channels）。細胞內外鈉離子比為 0.1，對應的能斯特電位為 +61 millivolts。在 resting nerve fiber，膜對鉀離子的通透性約為鈉離子的 100 倍，根據 Goldman 方程，單靠擴散可產生約 −86 millivolts 的膜電位。
 
-## Resting <span class="c-yellow">Membrane Potential</span> of Neurons
+**鈉鉀幫浦的貢獻：** 鈉鉀幫浦持續將 3 個 Na⁺ 泵出細胞、2 個 K⁺ 泵入細胞，造成細胞內持續淨失去正電荷，使膜電位再額外負約 −4 millivolts。
 
-The resting <span class="c-yellow">membrane potential</span> of large nerve fibers when they are not transmitting nerve signals is about −70 millivolts. That is, the potential inside the fiber is 70 millivolts more negative than the potential in the extracellular fluid on the outside of the fiber. In the next few paragraphs, the transport properties of the resting nerve membrane for sodium and potassium and the factors that determine the level of this <span class="c-yellow">resting potential</span> are explained.
+因此，當所有因素同時作用時，實際的 resting membrane potential 約為 −90 millivolts。不同細胞的 resting membrane potential 各異：紅血球約 −10 millivolts，骨骼肌細胞可達 −90 millivolts。
 
-### <span class="c-yellow">Active Transport</span> of Sodium and Potassium Ions Through the Membrane—the Sodium-Potassium (Na+-K+) Pump
+## 神經元的動作電位
 
-Recall from Chapter 4 that all cell membranes of the body have a powerful Na+-K+ pump that continually transports sodium ions to the outside of the cell and potassium ions to the inside, as illustrated on the left side in Figure 5-4. Note that this is an electrogenic pump because three Na+ ions are pumped to the outside for each two K+ ions to the inside, leaving a net deficit of positive ions on the inside and causing a negative potential inside the cell membrane.
+神經訊號由 action potential 傳遞，這是沿著神經纖維膜 rapid spread 的 membrane potential 快速變化。每個 action potential 都以一個從 resting negative potential 突然變為 positive potential 開始，再以幾乎同等快速地回到 negative potential 結束。
 
-The Na+-K+ pump also causes large concentration gradients for sodium and potassium across the resting nerve membrane. These gradients are as follows:
+Figure 5-6 上方顯示在 action potential 期間膜發生的變化：起始時正電荷轉移到纖維內部，結束時正電荷回到外部。下方的圖形顯示在約萬分之一秒內 membrane potential 的連續變化，說明了 action potential 的爆發性起始與几乎同等的快速恢復。
 
-- Na+ outside (mEq/L): 142
-- Na+ inside (mEq/L): 14
-- K+ outside (mEq/L): 4
-- K+ inside (mEq/L): 140
+Action potential 的連續階段如下：
 
-The ratios of these two respective ions from the inside to the outside are as follows:
+### 靜止期
 
-- Na+/Na+inside/outside = 0.1
-- K+/K+inside/outside = 35.0
+這是 action potential 開始前的 resting membrane potential 狀態。此時膜處於「極化」狀態，因為存在 −70 millivolts 的負電位。
 
-### Leakage of Potassium Through the Nerve Cell Membrane
+### 去極化階段
 
-The right side of Figure 5-4 shows a channel protein (sometimes called a tandem pore domain, potassium channel, or potassium [K+] "leak" channel) in the nerve membrane through which potassium ions can leak, even in a resting cell. The basic structure of potassium channels was described in Chapter 4 (Figure 4-4). These K+ leak channels may also leak sodium ions slightly but are far more permeable to potassium than to sodium, normally about 100 times as permeable. As discussed later, this differential in permeability is a key factor in determining the level of the normal resting <span class="c-yellow">membrane potential</span>.
+此時膜突然對鈉離子變得高度通透，允許正電荷的鈉離子 rapid diffusion 進入軸突內部。正常極化狀態的 −70 millivolts 被流入的正鈉離子立即中和，電位迅速向正方向上升——這個過程稱為 depolarization。在大型神經纖維中，過量的正鈉離子進入內部，使膜電位實際上超過零而變成正電位。在較小纖維與中樞神經元，電位只接近零而不會超射。
 
-<span class="c-pink">**3Na+ 3Na+**</span>
+### 再極化階段
 
-<span class="c-pink">**2K+ 2K+**</span>
+在膜對鈉離子變得高度通透後的幾個萬分之一秒內，鈉離子通道開始關閉，鉀離子通道開放程度超過正常。此時鉀離子 rapid diffusion 到外部，恢復正常的負 resting membrane potential，這個過程稱為 repolarization。
 
-<span class="c-pink">**Na+ K+**</span>
+## 電壓門控鈉離子通道與鉀離子通道
 
-<span class="c-pink">**Selectivity filter**</span>
+造成神經膜在 action potential 期間去極化與再極化的關鍵因素是電壓門控鈉離子通道。電壓門控鉀離子通道在加速膜的再極化方面也扮演重要角色。這兩種電壓門控通道與鈉鉀幫浦及 K⁺ leak channels 是不同的。
 
-<span class="c-pink">**K+**</span>
+### 電壓門控鈉離子通道的激活與失活
 
-<span class="c-pink">**Na+-K+ pump**</span>
+Figure 5-7 上方顯示電壓門控鈉離子通道的三種狀態。這個通道有兩個閘門——靠近通道外側的激活閘（activation gate）和靠近內側的失活閘（inactivation gate）。
 
-<span class="c-pink">**K+ "leak" channels**</span>
+**激活：** 當 membrane potential 從 −70 millivolts 向零變得不那麼負時，最終會達到約 −55 millivolts 的電位，導致激活閘構象突然改變，完全打開。在 activated 狀態，鈉離子可以大量湧入，膜對鈉離子的通透性可增加 500 至 5000 倍。
 
-<span class="c-cyan">**ATP**</span> <span class="c-pink">**ADP**</span>
+**失活：** 電位的增加同時也關閉失活閘，但失活閘的關閉比激活閘的打開慢，延遲約萬分之一秒後才關閉。一旦失活閘關閉，鈉離子就不能再進入膜內，membrane potential 開始回到 resting state（repolarization）。失活閘在 membrane potential 回到或接近原始 resting 電位之前不會重新打開，因此神經纖維必須先再極化，鈉離子通道才能再次開放。
 
-<span class="c-pink">**Outside**</span>
+### 電壓門控鉀離子通道及其激活
 
-**Figure 5-4.** Functional characteristics of the Na+-K+ pump and the K+ "leak" channels. The K+ leak channels also leak Na+ ions into the cell slightly but are much more permeable to K+. ADP, Adenosine diphosphate; <span class="c-cyan">ATP</span>, <span class="c-cyan">adenosine triphosphate</span>.
+Figure 5-7 下方顯示電壓門控鉀離子通道的兩種狀態。在 resting state，鉀離子通道的閘門是關閉的。當 membrane potential 從 −70 millivolts 向零上升時，閘門構象打開，允許鉀離子向外擴散。不過，由於鉀離子通道打開有 slight delay，它們大約在鈉離子通道因失活而開始關閉的同時打開。鈉離子流入減少與鉀離子流出的增加共同加速了 repolarization 過程。
 
-### Origin of the Normal Resting Membrane Potential
+### 電壓箝制法測量離子通道特性
 
-Figure 5-5 shows the important factors in the establishment of the normal resting <span class="c-yellow">membrane potential</span>. They are as follows.
+Figure 5-8 說明電壓箝制法（voltage clamp method）。這個方法使用兩個 electrode：一個測量 membrane potential，另一個向纖維內注入或抽出電流。當突然將 membrane potential 從 −70 millivolts 增加到零時，電壓門控鈉、鉀離子通道打開，離子開始流動。儀器自動注入電流來 counterbalance 這些離子流動，以維持設定的電壓。記錄所需的注入電流即可測量離子流動的量。
 
-#### Contribution of the Potassium Diffusion Potential
+當細胞內外溶液只有鈉離子可通透時，測得的是鈉離子通道的電流；當只有鉀離子可通透時，測得的是鉀離子通道的電流。
 
-In Figure 5-5A, we assume that the only movement of ions through the membrane is diffusion of potassium ions, as demonstrated by the open channels between the potassium symbol (K+) inside and outside the membrane. Because of the high ratio of potassium ions inside to outside, 35:1, the Nernst potential corresponding to this ratio is −94 millivolts because the logarithm of 35 is 1.54, and this, multiplied by −61 millivolts, is −94 millivolts. Therefore, if potassium ions were the only factor causing the <span class="c-yellow">resting potential</span>, the <span class="c-yellow">resting potential</span> inside the fiber would be equal to −94 millivolts, as shown in the figure.
+Figure 5-9 顯示當 membrane potential 突然從 −70 millivolts 改變到 +10 millivolts 並持續 2 毫秒後回到 −70 millivolts時，鈉、鉀離子通道電導的典型變化：
 
-#### Contribution of Sodium Diffusion Through the Nerve Membrane
+- 鈉離子通道在電位改變後瞬間開放（激活），但在約 1 毫秒內又自動關閉（失活）
+- 鉀離子通道開放較慢，在鈉離子通道幾乎完全關閉後才達到完全開放的狀態，並維持到電位回到負值
 
-Figure 5-5B shows the addition of slight permeability of the nerve membrane to sodium ions, caused by the minute diffusion of sodium ions through the K+-Na+ leak channels. The ratio of sodium ions from inside to outside the membrane is 0.1, which gives a calculated Nernst potential for the inside of the membrane of +61 millivolts. Also shown in Figure 5-5B is the Nernst potential for potassium diffusion of −94 millivolts. How do these interact with each other, and what will be the summated potential? This question can be answered by using the Goldman equation described previously.
+## 產生動作電位的事件總結
 
-Intuitively, one can see that if the membrane is highly permeable to potassium but only slightly permeable to sodium, the diffusion of potassium contributes far more to the <span class="c-yellow">membrane potential</span> than the diffusion of sodium. In the normal nerve fiber, the permeability of the membrane to potassium is about 100 times as great as its permeability to sodium. Using this value in the Goldman equation, and considering only sodium and potassium, gives a potential inside the membrane of −86 millivolts, which is near the potassium potential shown in the figure.
+Figure 5-10 總結 action potential 期間及之後發生的連續事件。圖的底部顯示膜對鈉、鉀離子的電導變化。
 
-#### Contribution of the Na+-K+ Pump
+在 resting state，鉀離子的電導是鈉離子的 50 至 100 倍。action potential 開始時，鈉離子通道幾乎瞬間 activated，鈉離子電導增加最多可達 5000 倍，隨後失活過程在不到 1 毫秒內關閉鈉離子通道。同時，電位的改變也啟動了鉀離子通道的電壓門控，使其在鈉離子通道開放後的 fraction of a millisecond 開始緩慢開放。
 
-In Figure 5-5C, the Na+-K+ pump is shown to provide an additional contribution to the <span class="c-yellow">resting potential</span>. This figure shows that continuous pumping of three sodium ions to the outside occurs for each two potassium ions pumped to the inside of the membrane. The pumping of more sodium ions to the outside than the potassium ions being pumped to the inside causes a continual loss of positive charges from inside the membrane, creating an additional degree of negativity (about −4 millivolts additional) on the inside, beyond that which can be accounted for by diffusion alone.
+在 action potential 早期，鈉離子電導與鉀離子電導的比值增加超過 1000 倍，因此進入纖維內部的鈉離子遠多於離開的鉀離子，導致膜電位變正。隨後鈉離子通道關閉、鉀離子通道開放，比值轉為有利於高鉀離子電導而低鈉離子電導，使 action potential 迅速恢復到基線。
 
-Therefore, as shown in Figure 5-5C, the net membrane potential when all these factors are operative at the same time is about −90 millivolts. However, additional ions, such as chloride, must also be considered in calculating the <span class="c-yellow">membrane potential</span>.
+### 其他離子在動作電位期間的角色
 
-In summary, the diffusion potentials alone caused by potassium and sodium diffusion would give a membrane potential of about −86 millivolts, with almost all of this being determined by potassium diffusion. An additional −4 millivolts is then contributed to the membrane potential by the continuously acting electrogenic Na+-K+ pump, and there is a contribution of chloride ions. As mentioned previously, the resting <span class="c-yellow">membrane potential</span> varies in different cells from as low as around −10 millivolts in erythrocytes to as high as −90 millivolts in skeletal muscle cells.
+**細胞內不可通透的陰離子：** 軸突內部有許多帶負電荷且不能通過膜通道的離子，包括蛋白質的陰離子、有機磷酸化合物和硫酸化合物等。這些不可通透的陰離子負責在正離子凈缺乏時維持細胞內的負電荷。
 
-<span class="c-pink">**142 mEq/L 14 mEq/L**</span>
+**鈣離子：** 幾乎所有細胞的膜都有類似鈉泵的鈣泵，將鈣離子從細胞內泵到細胞外（或泵入內質網），建立約 10,000 倍的鈣離子梯度。細胞內鈣離子濃度約為 10⁻⁷ molar，細胞外約為 10⁻³ molar。
 
-<span class="c-pink">**142 mEq/L 4 mEq/L**</span>
+電壓門控鈣離子通道對鈉離子與鈣離子都有微幅通透性，但對鈣離子的通透性在正常生理條件下約為鈉離子的 1000 倍。當這些通道因去極化而開放時，鈉離子與鈣離子都會流入細胞內。
 
-<span class="c-pink">**4 mEq/L 140 mEq/L**</span>
+鈣離子通道的閘門開放相對較慢，需要比鈉離子通道多 10 至 20 倍的時間才能激活，因此常被稱為慢通道，而鈉離子通道則稱為快通道。在心肌與平滑肌中，鈣離子通道數量很多；在某些類型的平滑肌中，快鈉離子通道幾乎不存在，action potential 幾乎完全由慢鈣離子通道的激活引起。
 
-<span class="c-pink">**(Anions) – (Anions)**</span>
+**低鈣離子濃度對鈉離子通道的影響：** 細胞外鈣離子濃度對鈉離子通道被激活的電位水準有深刻影響。當鈣離子濃度降低時，鈉離子通道在 membrane potential 偏離其正常負值不多時就會被激活，導致神經纖維高度興奮，有時會自發地重複放電。鈣離子濃度只需降到正常值以下 50%，就可能引起自發放電，導致肌肉強直（tetany），有時甚至致命，因為會引起呼吸肌的強直性收縮。
 
-<span class="c-pink">**Na+ Na+ K+**</span>
+## 動作電位的啟動
 
-<span class="c-pink">**4 mEq/L K+**</span>
+### 正回饋週期打開鈉離子通道
 
-<span class="c-pink">**Na+ pump**</span>
+只要神經纖維的膜保持不受干擾，正常神經就不會發生 action potential。然而，任何使 membrane potential 從 −70 millivolts 向零大幅上升的事件，都會導致許多電壓門控鈉離子通道開始開放。鈉離子的 rapid inflow 導致 membrane potential 進一步上升，打開更多電壓門控鈉離子通道，讓更多鈉離子湧入纖維內部。這是一個正回饋（positive feedback）循環，一旦回饋足夠強，就會持續直到所有電壓門控鈉離子通道都被 activated。隨後，上升的 membrane potential 導致鈉離子通道關閉、鉀離子通道開放，action potential 隨即終止。
 
-<span class="c-pink">**A**</span> <span class="c-pink">**B**</span> <span class="c-pink">**C**</span>
+### 閾值的概念
 
-<span class="c-pink">**Diffusion K+ K+ pump**</span>
+Action potential 只在 initial rise in membrane potential 足夠大時才會發生。也就是說，進入纖維的鈉離子數量必須多於離開的鉀離子數量。通常需要突然增加 15 至 30 millivolts 的 membrane potential。因此，在大型神經纖維中，membrane potential 從 −70 millivolts 突然上升到約 −55 millivolts 通常就會導致 action potential 的爆發性產生。這個 −55 millivolts 的水準被稱為刺激的閾值（threshold）。
 
-<span class="c-pink">**Diffusion**</span>
+## 動作電位的傳播
 
-<span class="c-pink">**140 mEq/L**</span>
+Action potential 在任何一個可興奮膜點產生後，通常會興奮鄰近部分的膜，導致 action potential 沿著膜傳播（Figure 5-11）。
 
-<span class="c-pink">**(–94 mV)**</span>
+Figure 5-11B 顯示神經纖維中部突然對鈉離子變得高度通透。箭頭顯示電流從去極化區域 local circuit 流到相鄰的 resting 膜區域。正電荷由向內擴散的鈉離子攜帶，穿過去極化膜後沿著軸突 core 向兩個方向流動數毫米。這些正電荷使相鄰區域的電壓上升到高於啟動 action potential 的閾值電位，於是這些新區域的鈉離子通道立即開放（Figure 5-11C 和 D），action potential 隨即傳播。這種沿神經或肌肉纖維傳遞去極化過程的過程稱為神經或肌肉 impulse。
 
-<span class="c-pink">**(–94 mV)**</span>
+### 傳播的方向
 
-<span class="c-pink">**K+**</span>
+可興奮膜沒有單一的傳播方向，action potential 從刺激點向各個方向傳播——甚至沿著神經纖維的所有分支——直到整個膜都被去極化。
 
-<span class="c-pink">**14 mEq/L**</span>
+### 全有或全無原則
 
-<span class="c-pink">**(+61 mV)**</span>
+一旦在正常纖維的任意一點產生 action potential，只要條件適當，去極化過程就會傳遍整個膜；但如果條件不適當，就完全不會傳播。這稱為全有或全無原則（all-or-nothing principle）。如果 action potential 到達某點時沒有產生足夠的電壓來刺激下一區域的膜，傳播就會停止。因此，持續傳播的條件是 action potential 與興奮閾值的比值必須始終大於 1，這個比值稱為傳播的安全因子。
 
-<span class="c-pink">**(–86 mV)**</span>
+## 動作電位完成後恢復鈉鉀離子梯度——能量代謝的重要性
 
-<span class="c-pink">**Na+**</span>
+每次沿神經纖維傳遞的 action potential 都會略微減少膜內外鈉、鉀離子的濃度差異，因為鈉離子在去極化時擴散進入細胞內部，鉀離子在再極化時擴散到外部。單一 action potential 的影響微乎其微——事實上，大型神經纖維可以傳遞 10 萬至 5000 萬個衝動後，濃度差異才會減弱到使 action potential 傳導停止。
 
-<span class="c-pink">**140 mEq/L**</span>
+然而，隨著時間推移，還是必須恢復鈉鉀離子的膜濃度差異，這是透過 Na⁺-K⁺ pump 实现的。這個幫浦需要能量來運作，利用細胞 ATP 能量系統衍生的能量。Figure 5-12 顯示神經纖維在恢復過程中產生熱量，這是衡量神經衝動頻率增加時能量消耗的指標。
 
-<span class="c-pink">**(–94 mV)**</span>
+鈉鉀 ATP 幫浦的一個特點是，當細胞內過量鈉離子累積時，它的活性會大幅增加——大約與細胞內鈉離子濃度的三次方成正比。因此，當鈉、鉀離子跨膜濃度差異開始減弱時，幫浦的恢復過程可以迅速啟動。
 
-<span class="c-pink">**K+**</span>
+## 某些動作電位的 Plateau
 
-**Figure 5-5.** Establishment of resting membrane potentials under three conditions. A, When the <span class="c-yellow">membrane potential</span> is caused entirely by potassium diffusion alone. B, When the <span class="c-yellow">membrane potential</span> is caused by diffusion of both sodium and potassium ions. C, When the <span class="c-yellow">membrane potential</span> is caused by diffusion of both sodium and potassium ions plus pumping of both these ions by the Na+-K+ pump.
+在某些情況下，興奮膜在去極化後不會立即再極化；相反，電位在峰值附近維持一個 plateau 達許多毫秒，才開始再極化（Figure 5-13）。這種 plateau 發生在心肌纖維，延續 0.2 至 0.3 秒，使心肌收縮維持同樣長的時間。
 
-## Neuron <span class="c-yellow">Action Potential</span>
+Plateau 的原因包括：
 
-Nerve signals are transmitted by action potentials, which are rapid changes in the <span class="c-yellow">membrane potential</span> that spread rapidly along the nerve fiber membrane. Each action potential begins with a sudden change from the normal resting negative <span class="c-yellow">membrane potential</span> to a positive potential and ends with an almost equally rapid change back to the negative potential. To conduct a nerve signal, the <span class="c-yellow">action potential</span> moves along the nerve fiber until it comes to the fiber's end.
+1. **兩種通道共同導致去極化：** 通常的電壓激活鈉離子通道（快通道）與電壓激活的鈣-鈉通道（L 型鈣離子通道，慢通道）。快通道的開放產生 action potential 的 spike 部分，而慢通道的長時間開放允許鈣離子進入纖維，是 plateau 的主要原因。
 
-The upper panel of Figure 5-6 shows the changes that occur at the membrane during the <span class="c-yellow">action potential</span>, with the transfer of positive charges to the interior of the fiber at its onset and the return of positive charges to the exterior at its end. The lower panel shows graphically the successive changes in <span class="c-yellow">membrane potential</span> over a few 10,000ths of a second, illustrating the explosive onset of the <span class="c-yellow">action potential</span> and the almost equally rapid recovery.
+2. **電壓門控鉀離子通道延遲開放：** 它們延遲到 plateau 快要結束時才開放，延緩了 membrane potential 向正常負值 −70 millivolts 的回歸。
 
-The successive stages of the <span class="c-yellow">action potential</span> are as follows.
+當鈣-鈉通道關閉、鉀離子通透性增加時，plateau 結束。
 
-### Resting Stage
+## 某些可興奮組織的節律性——重複放電
 
-The resting stage is the resting membrane potential before the <span class="c-yellow">action potential</span> begins. The membrane is said to be "polarized" during this stage because of the −70 millivolts negative <span class="c-yellow">membrane potential</span> that is present.
+節律性自發放電正常發生在心臟、多數平滑肌與許多中樞神經元神經元中。這些節律放電造成心臟的節律跳動、腸道的節律蠕動與神經元的節律呼吸控制。此外，當刺激組織細胞的閾值降到足夠低時，几乎所有其他可興奮組織也能重複放電。
 
-### <span class="c-yellow">Depolarization</span> Stage
+### 自發節律性所需的再興奮過程
 
-At this time, the membrane suddenly becomes permeable to sodium ions, allowing rapid diffusion of positively charged sodium ions to the interior of the axon. The normal polarized state of −70 millivolts is immediately neutralized by the inflowing, positively charged sodium ions, with the potential rising rapidly in the positive direction—a process called <span class="c-yellow">depolarization</span>. In large nerve fibers, the great excess of positive sodium ions moving to the inside causes the membrane potential to actually overshoot beyond the zero level and become somewhat positive. In some smaller fibers, as well as in many central nervous system neurons, the potential merely approaches the zero level and does not overshoot to the positive state.
+自發節律性需要在自然狀態下膜對鈉離子（或經慢鈣-鈉通道的鈣、鈉離子）有足夠的通透性，使自動去極化得以發生。Figure 5-14 顯示心臟節律控制中心的 resting membrane potential 只有 −60 至 −70 millivolts，不夠負以使鈉、鈣離子通道完全關閉。
 
-### <span class="c-yellow">Repolarization</span> Stage
+因此發生以下順序：一些鈉、鈣離子流入內部，增加膜電壓，這進一步增加了膜通透性，更多離子流入，通透性進一步增加，直到產生 action potential。在 action potential 結束時，膜再極化。再延遲毫秒或秒後，自發興奮性再次引起去極化，產生新的 action potential，如此反復。
 
-Within a few 10,000ths of a second after the membrane becomes highly permeable to sodium ions, the sodium channels begin to close, and the potassium channels open to a greater degree than normal. Then, rapid diffusion of potassium ions to the exterior re-establishes the normal negative resting membrane potential, which is called <span class="c-yellow">repolarization</span> of the membrane.
+為什麼心臟控制中心的膜在前一個 action potential 結束後不會立即去極化，而是延遲近 1 秒才發生下一個 action potential？這是因為在每個 action potential 結束時及之後的一段時間，膜對鉀離子的通透性增加。鉀離子的外流攜帶大量正電荷離開膜，使細胞內留下更多負電荷，維持所謂的 hyperpolarization 狀態。只要這個狀態存在，自發再興奮就不會發生。隨著鉀離子通透性（與 hyperpolarization 狀態）逐漸消失，membrane potential 再次上升到閾值，一個新的 action potential 就會產生，如此反復。
 
-To explain more fully the factors that cause both <span class="c-yellow">depolarization</span> and <span class="c-yellow">repolarization</span>, we will describe the special characteristics of two other types of transport channels through the nerve membrane: the voltage-gated sodium and potassium channels.
+## 神經幹中訊號傳遞的特點
 
-<span class="c-pink">**KCl**</span>
+### 有髓鞘與無髓鞘神經纖維
 
-<span class="c-pink">**0.7 0.5 0.6 0.3 0.4 0.1 0.2**</span>
+Figure 5-15 顯示典型小神經的橫切面，可以看到許多構成大部分橫截面積的大型神經纖維。周圍有更多小型纖維。大型纖維是有髓鞘的，小型纖維是無髓鞘的。平均而言，神經幹中無髓鞘纖維的數量約為有髓鞘纖維的兩倍。
 
-<span class="c-pink">**+35**</span>
+Figure 5-16 示意典型有髓鞘纖維的特徵。纖維的中心是軸突，軸突膜是實際傳導 action potential 的膜。軸突內充滿軸質（一種黏稠的細胞內液）。軸突周圍是髓鞘，其厚度常超過軸突本身。在髓鞘每 1 至 3 毫米處有一個郎氏結（node of Ranvier）。
 
-<span class="c-pink">**–70 Millivolts**</span>
+髓鞘由 Schwann cells 以下述方式沉积在軸突周圍：Schwann cell 的膜首先包繞軸突，然後 Schwann cell 圍繞軸突旋轉多次，沉積多層含有神經鞘磷脂的 Schwann cell 膜。鞘磷脂是一種良好的電絕緣體，使離子流動減少約 5000 倍。
 
-<span class="c-pink">**Milliseconds**</span>
+在沿軸突的每兩個連續 Schwann cells 之間的交界處，有一個只有 2 至 3 微米長的小區域沒有絕緣，離子仍能容易地在細胞外液與軸突內細胞內液之間流動。這個區域稱為郎氏結。
 
-<span class="c-pink">**<span class="c-yellow">Depolarization</span>**</span> <span class="c-pink">**<span class="c-yellow">Repolarization</span>**</span>
+### 有髓鞘纖維的跳躍傳導
 
-<span class="c-pink">**Resting**</span>
+雖然幾乎沒有離子能穿過有髓鞘神經的厚髓鞘，但離子可以容易地穿過郎氏結。因此，action potential 只發生在郎氏結。然而，action potential 是通过 saltatory conduction 從結到結傳導的（Figure 5-17）：電流沿著髓鞘外的細胞外液以及軸突內的軸質從結到結流動，興奮連續的各結。因此，神經 impulse 是沿著纖維跳躍的，這就是「跳躍」一詞的由來。
 
-<span class="c-pink">**Silver–silver chloride electrode**</span>
+跳躍傳導有兩個優點：
 
-<span class="c-pink">**+ + + + +**</span>
+1. 透過使去極化過程沿著神經纖維軸跳躍長距離，速度比無髓鞘纖維快 5 至 50 倍
+2. 節省能量，因為只有郎氏結去極化，可能比需要少 100 倍的離子流動，因此事後恢復鈉鉀濃度差所需的能量也少得多
 
-<span class="c-pink">**+ + + + + + + + + +**</span>
+髓鞘膜的優良絕緣也使膜電容減少 50 倍，允許再極化以很少的離子轉移完成。
 
-<span class="c-pink">**+ + + + – – – – – – – – – – – – – – – – –**</span>
+### 神經纖維的傳導速度
 
-<span class="c-pink">**+ + + +**</span>
+神經纖維中 action potential 的傳導速度從小型無髓鞘纖維的 0.25 m/sec 到大型有髓鞘纖維的 100 m/sec 不等——後者超過了一秒內穿越美式足球場的長度。
 
-<span class="c-pink">**+ + + + – – – – – – – – – – – – – – – –**</span>
+## 興奮——引發動作電位的過程
 
-**Figure 5-6.** Typical <span class="c-yellow">action potential</span> recorded by the method shown in the upper panel.
+任何能導致足量鈉離子開始向內擴散穿過膜的因素，都能觸發自動再生性的鈉離子通道開放。這可能是由機械干擾、化學效應或電流通過膜引起的。這些方法分别用於：
+- 機械壓力興奮皮膚的感覺神經末梢
+- 化學神經遞質在大腦中傳遞神經元間的信號
+- 電流在心臟與腸道中傳遞連續肌肉細胞之間的信號
 
-## Voltage-Gated Sodium and Potassium Channels
+### 用負電荷金屬 electrode 興奮神經纖維
 
-The necessary factor in causing both <span class="c-yellow">depolarization</span> and <span class="c-yellow">repolarization</span> of the nerve membrane during the action potential is the voltage-gated sodium channel. A voltage-gated potassium channel also plays an important role in increasing the rapidity of <span class="c-yellow">repolarization</span> of the membrane. These two voltage-gated channels are in addition to the Na+-K+ pump and the K+ leak channels.
+實驗室中興奮神經或肌肉的常用方法是通過兩個小 electrodes 向神經或肌肉表面施加電流，其中一個帶負電荷，另一個帶正電荷。當以这种方式施加電流時，可興奮膜在負 electrode 處變得興奮。這是因為負電流減少了膜外表面的電壓，使它接近纖維內部負電位的電壓，這種效應減少了跨膜的電壓差，允許鈉離子通道打開，產生 action potential。相反，在正 electrode 處，正電荷被注入神經膜外側，增加了跨膜的電壓差，導致 hyperpolarization，實際上減少了纖維的興奮性。
 
-### Activation and Inactivation of the Voltage-Gated Sodium Channel
+### 興奮閾值與急性局部電位
 
-The upper panel of Figure 5-7 shows the voltage-gated sodium channel in three separate states. This channel has two gates—one near the outside of the channel called the activation gate, and another near the inside called the inactivation gate. The upper left of the figure depicts the state of these two gates in the normal resting membrane when the <span class="c-yellow">membrane potential</span> is −70 millivolts. In this state, the activation gate is closed, which prevents any entry of sodium ions to the interior of the fiber through these sodium channels.
+弱的負電刺激可能無法興奮纖維。但當刺激電壓增加時，會達到一個能夠發生興奮的點。Figure 5-18 顯示逐步增強的刺激的效果。
 
-#### Activation of the Sodium Channel
+弱的刺激（A 點）使 membrane potential 從 −70 變化到 −65 millivolts，但不足以引發自動再生性的 action potential 過程。在 B 點，刺激更強，但強度仍不夠。然而，刺激在結束後長達 1 毫秒以上的時間內在局部干擾了 membrane potential。這些局部電位變化稱為急性局部電位（acute local potentials），當它們未能引發 action potential 時，稱為亞閾下電位（subthreshold potentials）。
 
-When the membrane potential becomes less negative than during the resting state, rising from −70 millivolts toward zero, it finally reaches a voltage—usually somewhere around −55 millivolts—that causes a sudden conformational change in the activation gate, flipping it all the way to the open position. During this <span class="c-green">activated</span> state, sodium ions can pour inward through the channel, increasing the sodium permeability of the membrane as much as 500- to 5000-fold.
+在 C 點，刺激更強，局部電位勉強達到引發 action potential 所需的閾值，但需要一個短暫的潛伏期。在 D 點，刺激更強，急性局部電位也更強，action potential 發生的潛伏期更短。
 
-#### Inactivation of the Sodium Channel
+因此，即使弱刺激也會在膜上引起局部電位變化，但局部電位的強度必須上升到閾值水準，才能觸發 action potential。
 
-The upper right panel of Figure 5-7 shows a third state of the sodium channel. The same increase in voltage that opens the activation gate also closes the inactivation gate. The inactivation gate, however, closes a few 10,000ths of a second after the activation gate opens. That is, the conformational change that flips the inactivation gate to the closed state is a slower process than the conformational change that opens the activation gate. Therefore, after the sodium channel has remained open for a few 10,000ths of a second, the inactivation gate closes, and sodium ions no longer can pour to the inside of the membrane. At this point, the <span class="c-yellow">membrane potential</span> begins to return toward the resting membrane state, which is the <span class="c-yellow">repolarization</span> process.
+## 動作電位後的不反應期
 
-Another important characteristic of the sodium channel inactivation process is that the inactivation gate will not reopen until the <span class="c-yellow">membrane potential</span> returns to or near the original resting <span class="c-yellow">membrane potential</span> level. Therefore, it is usually not possible for the sodium channels to open again without first repolarizing the nerve fiber.
+只要膜仍因前一個 action potential 而處於去極化狀態，就不能產生新的 action potential。這是因為在 action potential 開始後不久，鈉離子通道（或鈣離子通道，或兩者）就會失活，這些通道上的失活閘此時無論如何都不會打開。只有當 membrane potential 回到或接近原始 resting membrane potential 水準時，失活閘才會重新打開，允許新的 action potential 產生。
 
-### Voltage-Gated Potassium Channel and Its Activation
+在這個時期，即使給予強刺激也不能引發第二個 action potential，稱為絕對不反應期（absolute refractory period）。對於大型有髓鞘神經纖維，這個時期約為 1/2500 秒。因此，這類纖維每秒最多可傳遞約 2500 個衝動。
 
-The lower panel of Figure 5-7 shows the voltage-gated potassium channel in two states—during the resting state and during the action potential.
+### 興奮性的抑制——穩定劑與局部麻醉劑
 
-<span class="c-pink">**Activation gate**</span>
+與增加神經興奮性的因素相反，膜穩定因素可以降低興奮性。例如，高細胞外液鈣離子濃度會降低膜對鈉離子的通透性，同時降低興奮性。因此鈣離子被稱為穩定劑。
 
-<span class="c-pink">**Selectivity filter**</span>
-
-<span class="c-pink">**Inactivation gate**</span>
-
-<span class="c-pink">**Inside**</span>
-
-<span class="c-pink">**Resting (−70 mV)**</span>
-
-<span class="c-pink">**<span class="c-green">Activated</span> (−70 to +35 mV)**</span>
-
-<span class="c-pink">**Inactivated (+35 to −70 mV, delayed)**</span>
-
-<span class="c-pink">**Resting (−70 mV)**</span>
-
-<span class="c-pink">**Slow activation (+35 to −70 mV)**</span>
-
-<span class="c-pink">**Na+ Na+**</span>
-
-<span class="c-pink">**K+ K+**</span>
-
-<span class="c-pink">**Na+**</span>
-
-**Figure 5-7.** Characteristics of the voltage-gated sodium (top) and potassium (bottom) channels, showing successive activation and inactivation of the sodium channels and delayed activation of the potassium channels when the <span class="c-yellow">membrane potential</span> is changed from the normal resting negative value to a positive value.
-
-UNIT II
-
-(left) and toward the end of the <span class="c-yellow">action potential</span> (right). During the resting state, the gate of the potassium channel is closed, and potassium ions are prevented from passing through this channel to the exterior. When the <span class="c-yellow">membrane potential</span> rises from −70 millivolts toward zero, this voltage change causes a conformational opening of the gate and allows increased potassium diffusion outward through the channel. However, because of the slight delay in opening of the potassium channels, they open, for the most part, at about the same time that the sodium channels are beginning to close because of inactivation. Thus, the decrease in sodium entry to the cell and the simultaneous increase in potassium exit from the cell combine to speed the <span class="c-yellow">repolarization</span> process, leading to full recovery of the resting <span class="c-yellow">membrane potential</span> within another few 10,000ths of a second.
-
-**The Voltage Clamp Method for Measuring the Effect of Voltage on Opening and Closing of Voltage-Gated Channels.** The original research that led to quantitative understanding of the sodium and potassium channels was so ingenious that it led to Nobel Prizes for the scientists responsible, Hodgkin and Huxley, in 1963. The essence of these studies is shown in Figures 5-8 and 5-9.
-
-Figure 5-8 shows the voltage clamp method, which is used to measure the flow of ions through the different channels. In using this apparatus, two electrodes are inserted into the nerve fiber. One of these electrodes is used to measure the voltage of the <span class="c-yellow">membrane potential</span>, and the other is used to conduct electrical current into or out of the nerve fiber.
-
-This apparatus is used in the following way:
-
-1. The investigator decides which voltage to establish inside the nerve fiber.
-2. The electronic portion of the apparatus is then adjusted to the desired voltage, automatically injecting either positive or negative electricity through the current electrode at whatever rate is required to hold the voltage, as measured by the voltage electrode, at the level set by the operator.
-3. When the <span class="c-yellow">membrane potential</span> is suddenly increased by this voltage clamp from −70 millivolts to zero, the voltage-gated sodium and potassium channels open, and sodium and potassium ions begin to pour through the channels.
-4. To counterbalance the effect of these ion movements on the desired setting of the intracellular voltage, electrical current is injected automatically through the current electrode of the voltage clamp to maintain the intracellular voltage at the required steady zero level.
-5. To achieve this level, the current injected must be equal to but of opposite polarity to the net current flow through the membrane channels.
-6. To measure how much current flow is occurring at each instant, the current electrode is connected to an ampere meter that records the current flow, as demonstrated in Figure 5-8.
-
-Finally, the investigator adjusts the concentrations of the ions to other than normal levels both inside and outside the nerve fiber and repeats the study. This experiment can be performed easily when using large nerve fibers removed from some invertebrates, especially the giant squid axon, which in some cases is as large as 1 millimeter in diameter. When sodium is the only permeant ion in the solutions inside and outside the squid axon, the voltage clamp measures current flow only through the sodium channels. When potassium is the only permeant ion, current flow only through the potassium channels is measured.
-
-Another means for studying the flow of ions through an individual type of channel is to <span class="c-green">block</span> one type of channel at a time:
-
-- The sodium channels can be <span class="c-green">block</span>ed by a toxin called tetrodotoxin when it is applied to the outside of the cell membrane where the sodium activation gates are located.
-- Conversely, tetraethylammonium ion <span class="c-green">blocks</span> the potassium channels when it is applied to the interior of the nerve fiber.
-
-Figure 5-9 shows typical changes in conductance of the voltage-gated sodium and potassium channels when the <span class="c-yellow">membrane potential</span> is suddenly changed through use of the voltage clamp, from −70 millivolts to +10 millivolts and then, 2 milliseconds later, back to −70 millivolts:
-
-<figure>
-  <div style="text-align: center; border: 1px solid #ccc; padding: 10px; margin: 10px 0;">
-    Current electrode → Ampere meter<br>
-    Axon<br>
-    Voltage electrode → Membrane potential amplifier<br>
-    Feedback amplifier<br>
-    Signal generator with command voltage<br>
-    Reference electrode in fluid
-  </div>
-  <p><strong>Figure 5-8</strong> Voltage clamp method for studying flow of ions through specific channels.</p>
-</figure>
-
-<figure>
-  <div style="text-align: center; border: 1px solid #ccc; padding: 10px; margin: 10px 0;">
-    <strong>Conductance (mmho/cm²)</strong><br>
-    Time (milliseconds): 0 | 1 | 2 | 3<br>
-    Membrane potential: −70 mV → +10 mV → −70 mV<br>
-    <br>
-    Na⁺ channel: Activation, then Inactivation<br>
-    K⁺ channel: Activation (slower opening)
-  </div>
-  <p><strong>Figure 5-9</strong> Typical changes in conductance of sodium and potassium ion channels when the <span class="c-yellow">membrane potential</span> is suddenly increased from the normal resting value of −70 millivolts to a positive value of +10 millivolts for 2 milliseconds. This figure shows that the sodium channels open (<span class="c-green">activate</span>) and then close (inactivate) before the end of the 2 milliseconds, whereas the potassium channels only open (<span class="c-green">activate</span>), and the rate of opening is much slower than that of the sodium channels.</p>
-</figure>
-
-Note the sudden opening of the sodium channels (the activation stage) within a small fraction of a millisecond after the <span class="c-yellow">membrane potential</span> is increased to the positive value. However, during the next millisecond or so, the sodium channels automatically close (the inactivation stage).
-
-Note the opening (activation) of the potassium channels, which open less rapidly and reach their full open state only after the sodium channels have almost completely closed. Furthermore, once the potassium channels open, they remain open for the entire duration of the positive <span class="c-yellow">membrane potential</span> and do not close again until after the <span class="c-yellow">membrane potential</span> is decreased back to a negative value.
-
-**SUMMARY OF EVENTS THAT CAUSE THE <span class="c-yellow">ACTION POTENTIAL</span>**
-
-Figure 5-10 summarizes the sequential events that occur during and shortly after the <span class="c-yellow">action potential</span>. The bottom of the figure shows the changes in membrane conductance for sodium and potassium ions. During the resting state, before the <span class="c-yellow">action potential</span> begins, the conductance for potassium ions is 50 to 100 times as great as the conductance for sodium ions. This disparity is caused by much greater leakage of potassium ions than sodium ions through the leak channels.
-
-However, at the onset of the <span class="c-yellow">action potential</span>, the sodium channels almost instantaneously become <span class="c-green">activate</span>d and allow up to a 5000-fold increase in sodium conductance. The inactivation process then closes the sodium channels within another fraction of a millisecond. The onset of the <span class="c-yellow">action potential</span> also initiates voltage gating of the potassium channels, causing them to begin opening more slowly, a fraction of a millisecond after the sodium channels open. At the end of the <span class="c-yellow">action potential</span>, the return of the <span class="c-yellow">membrane potential</span> to the negative state causes the potassium channels to close back to their original status but, again, only after an additional millisecond or more delay.
-
-The middle portion of Figure 5-10 shows the ratio of sodium to potassium conductance at each instant during the <span class="c-yellow">action potential</span>, and above this depiction is the <span class="c-yellow">action potential</span> itself. During the early portion of the <span class="c-yellow">action potential</span>, the ratio of sodium to potassium conductance increases more than 1000-fold. Therefore, far more sodium ions flow to the interior of the fiber than potassium ions to the exterior. This is what causes the <span class="c-yellow">membrane potential</span> to become positive at the action potential onset.
-
-Then, the sodium channels begin to close, and the potassium channels begin to open; thus, the ratio of conductance shifts far in favor of high potassium conductance but low sodium conductance. This shift allows for a very rapid loss of potassium ions to the exterior but virtually zero flow of sodium ions to the interior. Consequently, the <span class="c-yellow">action potential</span> quickly returns to its baseline level.
-
-**Roles of Other Ions During the <span class="c-yellow">Action Potential</span>**
-
-Thus far, we have considered only the roles of sodium and potassium ions in generating the <span class="c-yellow">action potential</span>. At least two other types of ions must be considered:
-
-- Negative anions
-- Calcium ions
-
-**Impermeant Negatively Charged Ions (Anions) Inside the Nerve Axon.** Inside the axon are many negatively charged ions that cannot go through the membrane channels. They include:
-
-- The anions of protein molecules
-- Organic phosphate compounds
-- Sulfate compounds
-- And others
-
-Because these ions cannot leave the interior of the axon, any deficit of positive ions inside the membrane leaves an excess of these impermeant negative anions. Therefore, these impermeant negative ions are responsible for the negative charge inside the fiber when there is a net deficit of positively charged potassium ions and other positive ions.
-
-**Calcium Ions.** The membranes of almost all cells of the body have a calcium pump similar to the sodium pump, and calcium serves along with (or instead of) sodium in some cells to cause most of the <span class="c-yellow">action potential</span>. Like the sodium pump, the calcium pump transports calcium ions from the interior to the exterior of the cell membrane (or into the endoplasmic reticulum of the cell), creating a calcium ion gradient of about 10,000-fold. This process leaves an internal cell concentration of calcium ions of about 10⁻⁷ molar, in contrast to an external concentration of about 10⁻³ molar.
-
-In addition, there are voltage-gated calcium channels. Because the calcium ion concentration is more than 10,000 times greater in the extracellular fluid than in the intracellular fluid, there is a tremendous diffusion gradient and electrochemical driving force for the passive flow of calcium ions into the cells. These channels are slightly permeable to sodium ions and calcium ions, but their permeability to calcium is about 1000-fold greater than to sodium under normal physiological conditions. When the channels open in response to a stimulus that depolarizes the cell membrane, calcium ions flow to the interior of the cell.
-
-A major function of the voltage-gated calcium ion channels is to contribute to the depolarizing phase on the <span class="c-yellow">action potential</span> in some cells. The gating of calcium channels, however, is relatively slow, requiring 10 to 20 times as long for activation as for the sodium channels. For this reason, they are often called **slow channels**, in contrast to the sodium channels, which are called **fast channels**. Therefore, the opening of calcium channels provides a more sustained <span class="c-yellow">depolarization</span>, whereas the sodium channels play a key role in initiating action potentials.
-
-Calcium channels are numerous in cardiac muscle and smooth muscle. In fact, in some types of smooth muscle, the fast sodium channels are hardly present; therefore, the action potentials are caused almost entirely by the activation of slow calcium channels.
-
-**Increased Permeability of the Sodium Channels When There Is a Deficit of Calcium Ions.** The concentration of calcium ions in the extracellular fluid also has a profound effect on the voltage level at which the sodium channels become <span class="c-green">activate</span>d. When there is a deficit of calcium ions, the sodium channels become <span class="c-green">activate</span>d (opened) by a small increase of the <span class="c-yellow">membrane potential</span> from its normal, very negative level. Therefore, the nerve fiber becomes highly excitable, sometimes discharging repetitively without provocation, rather than remaining in the resting state. In fact, the calcium ion concentration needs to fall only 50% below normal before spontaneous discharge occurs in some peripheral nerves, often causing muscle "tetany." Muscle tetany is sometimes lethal because of tetanic contraction of the respiratory muscles.
-
-The probable way in which calcium ions affect the sodium channels is as follows. These ions appear to bind to the exterior surfaces of the sodium channel protein. The positive charges of these calcium ions, in turn, alter the electrical state of the sodium channel protein, thus altering the voltage level required to open the sodium gate.
-
-**INITIATION OF THE <span class="c-yellow">ACTION POTENTIAL</span>**
-
-Thus far, we have explained the changing sodium and potassium permeability of the membrane, as well as the development of the <span class="c-yellow">action potential</span>, but we have not explained what initiates the <span class="c-yellow">action potential</span>.
-
-**A Positive-Feedback Cycle Opens the Sodium Channels.** As long as the membrane of the nerve fiber remains undisturbed, no <span class="c-yellow">action potential</span> occurs in the normal nerve. However, if any event causes enough initial rise in the <span class="c-yellow">membrane potential</span> from −70 millivolts toward the zero level, the rising voltage will cause many voltage-gated sodium channels to begin opening. This occurrence allows for the rapid inflow of sodium ions, which causes a further rise in the <span class="c-yellow">membrane potential</span>, thus opening still more voltage-gated sodium channels and allowing more streaming of sodium ions to the interior of the fiber. This process is a <span class="c-yellow">positive feedback</span> cycle that, once the feedback is strong enough, continues until all the voltage-gated sodium channels have become <span class="c-green">activate</span>d (opened). Then, within another fraction of a millisecond, the rising <span class="c-yellow">membrane potential</span> causes closure of the sodium channels and opening of potassium channels, and the <span class="c-yellow">action potential</span> soon terminates.
-
-**Initiation of the <span class="c-yellow">Action Potential</span> Occurs Only After the <span class="c-yellow">Threshold Potential</span> is Reached.** An action potential will not occur until the initial rise in membrane potential is great enough to create the <span class="c-yellow">positive feedback</span> described in the preceding paragraph. This occurs when the number of sodium ions entering the fiber is greater than the number of potassium ions leaving the fiber. A sudden rise in <span class="c-yellow">membrane potential</span> of 15 to 30 millivolts is usually required. Therefore, a sudden increase in the membrane potential in a large nerve fiber, from −70 millivolts up to about −55 millivolts, usually causes the explosive development of an <span class="c-yellow">action potential</span>. This level of −55 millivolts is said to be the threshold for stimulation.
-
-**PROPAGATION OF THE ACTION POTENTIAL**
-
-In the preceding paragraphs, we discussed the action potential as though it occurs at one spot on the membrane. However, an <span class="c-yellow">action potential</span> elicited at any one point on an excitable membrane usually <span class="c-green">excites</span> adjacent portions of the membrane, resulting in propagation of the <span class="c-yellow">action potential</span> along the membrane. This mechanism is demonstrated in Figure 5-11.
-
-Figure 5-11A shows a normal resting nerve fiber, and Figure 5-11B shows a nerve fiber that has been <span class="c-green">excite</span>d in its midportion, which suddenly develops increased permeability to sodium. The arrows show a local circuit of current flow from the depolarized areas of the membrane to the adjacent resting membrane areas. That is, positive electrical charges are carried by the inward-diffusing sodium ions through the depolarized membrane and then for several millimeters in both directions along the core of the axon. These positive charges increase the voltage for a distance of 1 to 3 millimeters inside the large myelinated fiber to above the threshold voltage value for initiating an <span class="c-yellow">action potential</span>. Therefore, the sodium channels in these new areas immediately open, as shown in Figure 5-11C and D, and the explosive <span class="c-yellow">action potential</span> spreads. These newly depolarized areas produce still more local circuits of current flow farther along the membrane, causing progressively more and more <span class="c-yellow">depolarization</span>. Thus, the depolarization process travels along the entire length of the fiber. This transmission of the <span class="c-yellow">depolarization</span> process along a nerve or muscle fiber is called a nerve or muscle impulse.
-
-**Direction of Propagation.** As demonstrated in Figure 5-11, an excitable membrane has no single direction of propagation, but the <span class="c-yellow">action potential</span> travels in all directions away from the stimulus—even along all branches of a nerve fiber—until the entire membrane has become depolarized.
-
-**All-or-Nothing Principle.** Once an <span class="c-yellow">action potential</span> has been elicited at any point on the membrane of a normal fiber, the <span class="c-yellow">depolarization</span> process travels over the entire membrane if conditions are right, but it does not travel at all if conditions are not right. This principle is called the all-or-nothing principle, and it applies to all normal excitable tissues. Occasionally, the <span class="c-yellow">action potential</span> reaches a point on the membrane at which it does not generate sufficient voltage to <span class="c-green">stimulate</span> the next area of the membrane. When this situation occurs, the spread of <span class="c-yellow">depolarization</span> stops. Therefore, for continued propagation of an impulse to occur, the ratio of <span class="c-yellow">action potential</span> to threshold for excitation must at all times be greater than 1. This "greater than 1" requirement is called the safety factor for propagation.
-
-**RE-ESTABLISHING SODIUM AND POTASSIUM IONIC GRADIENTS AFTER ACTION POTENTIALS ARE COMPLETED—IMPORTANCE OF ENERGY METABOLISM**
-
-Transmission of each <span class="c-yellow">action potential</span> along a nerve fiber slightly reduces the concentration differences of sodium and potassium inside and outside the membrane because sodium ions diffuse to the inside during depolarization, and potassium ions diffuse to the outside during <span class="c-yellow">repolarization</span>. For a single <span class="c-yellow">action potential</span>, this effect is so minute that it cannot be measured. Indeed, 100,000 to 50 million impulses can be transmitted by large nerve fibers before the concentration differences reach the point that <span class="c-yellow">action potential</span> conduction ceases.
-
-With time, however, it becomes necessary to re-establish the sodium and potassium membrane concentration differences, which is achieved by action of the Na⁺-K⁺ pump in the same way as described previously for the original establishment of the <span class="c-yellow">resting potential</span>. That is, sodium ions that have diffused to the interior of the cell during the action potentials and potassium ions that have diffused to the exterior must be returned to their original state by the Na⁺-K⁺ pump. Because this pump requires energy for operation, this "recharging" of the nerve fiber is an active metabolic process, using energy derived from the adenosine triphosphate (<span class="c-cyan">ATP</span>) energy system of the cell. Figure 5-12 shows that the nerve fiber produces increased heat during recharging, which is a measure of energy expenditure when the nerve impulse frequency increases.
-
-A special feature of the Na⁺-K⁺ <span class="c-cyan">ATP</span> pump is that its degree of activity is strongly <span class="c-green">stimulate</span>d when excess sodium ions accumulate inside the cell membrane. In fact, the pumping activity increases approximately in proportion to the third power of this intracellular sodium concentration. As the internal sodium concentration rises from 10 to 20 mEq/L, the activity of the pump does not merely double but increases about eightfold. Therefore, it is easy to understand how the recharging process of the nerve fiber can be set rapidly into motion whenever the concentration differences of sodium and potassium ions across the membrane begin to run down.
-
-**PLATEAU IN SOME ACTION POTENTIALS**
-
-In some cases, the <span class="c-green">excite</span>d membrane does not repolarize immediately after <span class="c-yellow">depolarization</span>; instead, the potential remains on a plateau near the peak of the spike potential for many milliseconds before <span class="c-yellow">repolarization</span> begins. Such a plateau is shown in Figure 5-13; one can readily see that
-
-<figure>
-  <div style="text-align: center; border: 1px solid #ccc; padding: 10px; margin: 10px 0;">
-    + + + + + + + + + + + + – – + + + + + + + + +<br>
-    + + + + + + + + + + + + – – + + + + + + + + +<br>
-    + + + + + + + + + + + + – – – – + + + + + + +<br>
-    + + + + + + + + + + + + – – – – + + + + + + +<br>
-    – – + + + + + + + + + + + + + + + + + + – –<br>
-    – – + + + + + + + + + + + + + + + + + + – –<br>
-    + + – – – – – – – – – – – – – – – – – – + +<br>
-    + + – – – – – – – – – – – – – – – – – – + +<br>
-    – – – – – – – – – – – – + + – – – – – – – – –<br>
-    + + + + + + + + + + + + + + + + + + + + + + +<br>
-    + + + + + + + + + + + + + + + + + + + + + + +<br>
-    – – – – – – – – – – – – – – – – – – – – – – –<br>
-    – – – – – – – – – – – – – – – – – – – – – – –<br>
-    – – – – – – – – – – – – + + – – – – – – – – –<br>
-    – – – – – – – – – – + + + + – – – – – – – –<br>
-    – – – – – – – – – – + + + + – – – – – – – –
-  </div>
-  <p><strong>Figure 5-11</strong> A–D, Propagation of action potentials in both directions along a conductive fiber.</p>
-</figure>
-
-<figure>
-  <div style="text-align: center; border: 1px solid #ccc; padding: 10px; margin: 10px 0;">
-    <strong>Heat production</strong><br>
-    Impulses per second: 0 | 100 | 200 | 300<br>
-    At rest line baseline<br>
-    Increasing heat with impulse frequency
-  </div>
-  <p><strong>Figure 5-12</strong> Heat production in a nerve fiber at rest and at progressively increasing rates of stimulation.</p>
-</figure>
-
----
-title: "Membrane Physiology, Nerve, and Muscle"
----
-
-UNIT II
-
-## The Plateau Phase of the Action Potential
-
-The plateau greatly prolongs the period of <span class="c-yellow">depolarization</span>. This type of <span class="c-yellow">action potential</span> occurs in heart muscle fibers, where the plateau lasts for as long as 0.2 to 0.3 second and causes contraction of heart muscle to last for this same long period.
-
-The cause of the plateau is a combination of several factors:
-
-1. **Two types of channels contribute to the <span class="c-yellow">depolarization</span> process:**
-   - The usual voltage-<span class="c-green">activated</span> sodium channels, called fast channels
-   - Voltage-<span class="c-green">activated</span> calcium-sodium channels (L-type calcium channels), which are slow to open and therefore are called slow channels
-
-Opening of fast channels causes the spike portion of the <span class="c-yellow">action potential</span>, whereas the prolonged opening of the slow calcium-sodium channels mainly allows calcium ions to enter the fiber, which is largely responsible for the plateau portion of the <span class="c-yellow">action potential</span>.
-
-2. **Voltage-gated potassium channels are slower to open than usual**, often not opening much until the end of the plateau. This factor delays the return of the <span class="c-yellow">membrane potential</span> toward its normal negative value of −70 millivolts.
-
-The plateau ends when the calcium-sodium channels close, and permeability to potassium ions increases.
-
-## Rhythmicity of Some Excitable Tissues—Repetitive Discharge
-
-Repetitive self-induced discharges occur normally in the heart, in most smooth muscle, and in many of the neurons of the central nervous system. These rhythmical discharges cause the following:
-
-- Rhythmical beat of the heart
-- Rhythmical peristalsis of the intestines
-- Neuronal events such as the rhythmical control of breathing
-
-In addition, almost all other excitable tissues can discharge repetitively if the threshold for stimulation of the tissue cells is reduced to a low enough level. For example, even large nerve fibers and skeletal muscle fibers, which normally are highly stable, discharge repetitively when they are placed in a solution that contains the drug veratridine, which <span class="c-green">activates</span> sodium ion channels, or when the calcium ion concentration decreases below a critical value, which increases the sodium permeability of the membrane.
-
-### Re-Excitation Process Necessary for Spontaneous Rhythmicity
-
-For spontaneous rhythmicity to occur, the membrane—even in its natural state—must be permeable enough to sodium ions (or to calcium and sodium ions through the slow calcium-sodium channels) to allow automatic membrane <span class="c-yellow">depolarization</span>. Thus, Figure 5-14 shows that the resting <span class="c-yellow">membrane potential</span> in the rhythmical control center of the heart is only −60 to −70 millivolts, which is not enough negative voltage to keep the sodium and calcium channels totally closed.
-
-Therefore, the following sequence occurs:
-
-1. Some sodium and calcium ions flow inward
-2. This activity increases the membrane voltage in the positive direction, which further increases membrane permeability
-3. Still more ions flow inward
-4. The permeability increases more, and so on, until an <span class="c-yellow">action potential</span> is generated
-
-Then, at the end of the <span class="c-yellow">action potential</span>, the membrane repolarizes. After another delay of milliseconds or seconds, spontaneous excitability causes <span class="c-yellow">depolarization</span> again, and a new <span class="c-yellow">action potential</span> occurs spontaneously. This cycle continues over and over and causes self-induced rhythmical excitation of the excitable tissue.
-
-Why does the membrane of the heart control center not depolarize immediately after it has become repolarized, rather than delaying for nearly 1 second before the onset of the next <span class="c-yellow">action potential</span>? The answer can be found by observing the curve labeled "potassium conductance" in Figure 5-14.
-
-This curve shows that toward the end of each <span class="c-yellow">action potential</span>, and continuing for a short period thereafter, the membrane becomes more permeable to potassium ions. The increased outflow of potassium ions carries tremendous numbers of positive charges to the outside of the membrane, leaving considerably more negativity inside the fiber than would otherwise occur. This continues for nearly 1 second after the preceding action potential is over, thus drawing the <span class="c-yellow">membrane potential</span> nearer to the potassium Nernst potential.
-
-This state, called hyperpolarization, is also shown in Figure 5-14. As long as this state exists, self–re-excitation will not occur. However, the increased potassium conductance (and the state of hyperpolarization) gradually disappears, as shown after each <span class="c-yellow">action potential</span> is completed in the figure, thereby again allowing the <span class="c-yellow">membrane potential</span> to increase up to the threshold for excitation. Then, suddenly, a new action potential results and the process occurs again and again.
-
-<span class="c-yellow">Membrane potential</span> (millivolts):
-
-```
-+60
-+40
-+20
-–20
-–40
-–60
-–80
-–100
-```
-
-**Seconds**
-
-**Figure 5-13** <span class="c-yellow">Action potential</span> (in millivolts) from a Purkinje fiber of the heart, showing a plateau.
-
-**Figure 5-14** Rhythmical action potentials (in millivolts) similar to those recorded in the rhythmical control center of the heart. Note their relationship to potassium conductance and to the state of hyperpolarization.
-
-UNIT II Membrane Physiology, Nerve, and Muscle
-
-## Special Characteristics of Signal Transmission in Nerve Trunks
-
-### Myelinated and Unmyelinated Nerve Fibers
-
-Figure 5-15 shows a cross section of a typical small nerve, revealing many large nerve fibers that constitute most of the cross-sectional area. However, a more careful look reveals many more small fibers lying between the large ones. The large fibers are myelinated, and the small ones are unmyelinated. The average nerve trunk contains about twice as many unmyelinated fibers as myelinated fibers.
-
-Figure 5-16 illustrates schematically the features of a typical myelinated fiber. The central core of the fiber is the axon, and the membrane of the axon is the membrane that actually conducts the <span class="c-yellow">action potential</span>. The axon is filled in its center with axoplasm, which is a viscid intracellular fluid. Surrounding the axon is a myelin sheath that is often much thicker than the axon itself. About once every 1 to 3 millimeters along the length of the myelin sheath is a node of Ranvier.
-
-The myelin sheath is deposited around the axon by Schwann cells in the following manner:
-
-- The membrane of a Schwann cell first envelops the axon
-- The Schwann cell then rotates around the axon many times, laying down multiple layers of Schwann cell membrane containing the lipid substance sphingomyelin
-- This substance is an excellent electrical insulator that decreases ion flow through the membrane about 5000-fold
-
-At the juncture between each two successive Schwann cells along the axon, a small uninsulated area only 2 to 3 micrometers in length remains where ions still can flow with ease through the axon membrane between the extracellular fluid and intracellular fluid inside the axon. This area is called the node of Ranvier.
-
-### Saltatory Conduction in Myelinated Fibers from Node to Node
-
-Even though almost no ions can flow through the thick myelin sheaths of myelinated nerves, they can flow with ease through the nodes of Ranvier. Therefore, action potentials occur only at the nodes. Yet, the action potentials are conducted from node to node by saltatory conduction, as shown in Figure 5-17. That is, electrical current flows through the surrounding extracellular fluid outside the myelin sheath, as well as through the axoplasm inside the axon from node to node, exciting successive nodes one after another. Thus, the nerve impulse jumps along the fiber, which is the origin of the term saltatory.
-
-Saltatory conduction is of value for two reasons:
-
-1. **First**, by causing the <span class="c-yellow">depolarization</span> process to jump long intervals along the axis of the nerve fiber, this mechanism increases the velocity of nerve transmission in myelinated fibers as much as 5- to 50-fold.
-
-2. **Second**, saltatory conduction conserves energy for the axon because only the nodes depolarize, allowing perhaps 100 times less loss of ions than would otherwise be necessary, and therefore requiring much less energy expenditure for re-establishing the sodium and potassium concentration differences across the membrane after a series of nerve impulses.
-
-The excellent insulation afforded by the myelin membrane and the 50-fold decrease in membrane capacitance also allow <span class="c-yellow">repolarization</span> to occur with little transfer of ions.
-
-### Velocity of Conduction in Nerve Fibers
-
-The velocity of <span class="c-yellow">action potential</span> conduction in nerve fibers varies from as little as 0.25 m/sec in small unmyelinated fibers to as much as 100 m/sec—more than the length of a football field in 1 second—in large myelinated fibers.
-
-**Figure 5-15** Cross section of a small nerve trunk containing both myelinated and unmyelinated fibers.
-
-**Figure 5-16** Function of the Schwann cell to insulate nerve fibers. A, Wrapping of a Schwann cell membrane around a large axon to form the myelin sheath of the myelinated nerve fiber. B, Partial wrapping of the membrane and cytoplasm of a Schwann cell around multiple unmyelinated nerve fibers (shown in cross section). (A, Modified from Leeson TS, Leeson R: Histology. Philadelphia: WB Saunders, 1979.)
-
-## Excitation—The Process of Eliciting the <span class="c-yellow">Action Potential</span>
-
-Basically, any factor that causes sodium ions to begin to diffuse inward through the membrane in sufficient numbers can set off automatic regenerative opening of the sodium channels. This automatic regenerative opening can result from:
-
-- Mechanical disturbance of the membrane
-- Chemical effects on the membrane
-- Passage of electricity through the membrane
-
-All these approaches are used at different points in the body to elicit nerve or muscle action potentials:
-
-- Mechanical pressure to <span class="c-green">excite</span> sensory nerve endings in the skin
-- Chemical neurotransmitters to transmit signals from one neuron to the next in the brain
-- Electrical current to transmit signals between successive muscle cells in the heart and intestine
-
-### Excitation of a Nerve Fiber by a Negatively Charged Metal Electrode
-
-The usual means for exciting a nerve or muscle in the experimental laboratory is to apply electricity to the nerve or muscle surface through two small electrodes, one of which is negatively charged and the other positively charged. When electricity is applied in this manner, the excitable membrane becomes <span class="c-green">stimulated</span> at the negative electrode.
-
-Remember that the <span class="c-yellow">action potential</span> is initiated by the opening of voltage-gated sodium channels. Furthermore, these channels are opened by a decrease in the normal resting electrical voltage across the membrane—that is, negative current from the electrode decreases the voltage on the outside of the membrane to a negative value nearer to the voltage of the negative potential inside the fiber. This effect decreases the electrical voltage across the membrane and allows the sodium channels to open, resulting in an action potential.
-
-Conversely, at the positive electrode, the injection of positive charges on the outside of the nerve membrane heightens the voltage difference across the membrane, rather than lessening it. This effect causes a state of hyperpolarization, which actually decreases the excitability of the fiber rather than causing an <span class="c-yellow">action potential</span>.
-
-### Threshold for Excitation and Acute Local Potentials
-
-A weak negative electrical stimulus may not be able to <span class="c-green">excite</span> a fiber. However, when the voltage of the stimulus is increased, there comes a point at which excitation does take place. Figure 5-18 shows the effects of successively applied stimuli of progressing strength.
-
-A weak stimulus at point A causes the <span class="c-yellow">membrane potential</span> to change from −70 to −65 millivolts, but this change is not sufficient for the automatic regenerative processes of the <span class="c-yellow">action potential</span> to develop. At point B, the stimulus is greater, but the intensity is still not enough. The stimulus does, however, disturb the <span class="c-yellow">membrane potential</span> locally for as long as 1 millisecond or more after both of these weak stimuli. These local potential changes are called acute local potentials and, when they fail to elicit an <span class="c-yellow">action potential</span>, they are called acute subthreshold potentials.
-
-At point C in Figure 5-18, the stimulus is even stronger. Now, the local potential has barely reached the threshold level required to elicit an <span class="c-yellow">action potential</span>, but this occurs only after a short "latent period." At point D, the stimulus is still stronger, the acute local potential is also stronger, and the <span class="c-yellow">action potential</span> occurs after less of a latent period.
-
-Thus, this figure shows that even a weak stimulus causes a local potential change at the membrane, but the intensity of the local potential must rise to a threshold level before the <span class="c-yellow">action potential</span> is set off.
-
-## Refractory Period After an Action Potential, During Which a New Stimulus Cannot Be Elicited
-
-A new <span class="c-yellow">action potential</span> cannot occur in an excitable fiber as long as the membrane is still depolarized from the preceding <span class="c-yellow">action potential</span>. The reason for this restriction is that shortly after the <span class="c-yellow">action potential</span> is initiated, the sodium channels (or calcium channels, or both) become inactivated, and no amount of excitatory signal applied to these channels at this point will open the inactivation gates. The only condition that will allow them to reopen is for the <span class="c-yellow">membrane potential</span> to return to or near the original resting <span class="c-yellow">membrane potential</span> level. Then, within another small fraction of a second, the inactivation gates of the channels open, and a new <span class="c-yellow">action potential</span> can be initiated.
-
-The period during which a second <span class="c-yellow">action potential</span> cannot be elicited, even with a strong stimulus, is called the absolute refractory period. This period for large myelinated nerve fibers is about 1/2500 second. Therefore, one can readily calculate that such a fiber can transmit a maximum of about 2500 impulses per second.
-
-### Inhibition of Excitability—Stabilizers and Local Anesthetics
-
-In contrast to the factors that increase nerve excitability, membrane-stabilizing factors can decrease excitability. For example, a high extracellular fluid calcium ion concentration decreases membrane permeability to sodium ions and simultaneously reduces excitability. Therefore, calcium ions are said to be what is called a stabilizer.
-
-### Local Anesthetics
-
-Among the most important stabilizers are the many substances used clinically as local anesthetics, including procaine and tetracaine. Most of these agents act directly on the activation gates of the sodium channels, making it much more difficult for these gates to open and thereby reducing membrane excitability. When excitability has been reduced so low that the ratio of <span class="c-yellow">action potential</span> strength to excitability threshold (called the safety factor) is reduced below 1.0, nerve impulses fail to pass along the anesthetized nerves.
-
-## Bibliography
-
-Alberts B, Johnson A, Lewis J, et al: Molecular Biology of the Cell, 5th ed. New York: Garland Science, 2008.
-
-Bennett DL, Clark AJ, Huang J, Waxman SG, Dib-Hajj SD. The Role of Voltage-Gated Sodium Channels in Pain Signaling. Physiol Rev 99:1079-1151, 2019.
-
-Bentley M, Banker G. The cellular mechanisms that maintain neuronal polarity. Nat Rev Neurosci 17:611-622, 2016.
-
-Blaesse P, Airaksinen MS, Rivera C, Kaila K: Cation-chloride cotransporters and neuronal function. Neuron 61:820, 2009.
-
-Dai S, Hall DD, Hell JW: Supramolecular assemblies and localized regulation of voltage-gated ion channels. Physiol Rev 89:411, 2009.
-
-Debanne D, Campanac E, Bialowas A, et al: Axon physiology. Physiol Rev 91:555, 2011.
-
-Delmas P, Hao J, Rodat-Despoix L: Molecular mechanisms of mechanotransduction in mammalian sensory neurons. Nat Rev Neurosci 12:139, 2011.
-
-Dib-Hajj SD, Yang Y, Black JA, Waxman SG: The Na(V)1.7 sodium channel: from molecule to man. Nat Rev Neurosci 14:49, 2013.
-
-Hodgkin AL, Huxley AF: Quantitative description of membrane current and its application to conduction and excitation in nerve. J Physiol (Lond) 117:500, 1952.
-
-Kaczmarek LK, Zhang Y Kv3 Channels: Enablers of rapid firing, neurotransmitter release, and neuronal endurance. Physiol Rev 97:1431-1468, 2017.
-
-Kaila K, Price TJ, Payne JA, Puskarjov M, Voipio J. Cation-chloride cotransporters in neuronal development, plasticity and disease. Nat Rev Neurosci 15:637-654, 2014.
-
-Kandel ER, Schwartz JH, Jessell TM: Principles of Neural Science, 5th ed. New York: McGraw-Hill, 2012.
-
-Kleber AG, Rudy Y: Basic mechanisms of cardiac impulse propagation and associated arrhythmias. Physiol Rev 84:431, 2004.
-
-Leterrier C, Dubey P, Roy S. The nano-architecture of the axonal cytoskeleton. Nat Rev Neurosci 18:713-726, 2017.
-
-Mangoni ME, Nargeot J: Genesis and regulation of the heart automatcity. Physiol Rev 88:919, 2008.
-
-Micu I, Plemel JR, Caprariello AV, Nave KA, Stys PK. Axo-myelinic neurotransmission: a novel mode of cell signalling in the central nervous system Nat Rev Neurosci. 19:49-58, 2018.
-
-Pangrsic T, Singer JH, Koschak A. Voltage-gated calcium channels: key players in sensory coding in the retina and the inner ear. Physiol Rev 98:2063-2096, 2018.
-
-Philips T, Rothstein JD. Oligodendroglia: metabolic supporters of neurons. J Clin Invest 127:3271-3280, 2017.
-
-Rasband MN: The axon initial segment and the maintenance of neuronal polarity. Nat Rev Neurosci 11:552, 2010.
-
-Ross WN: Understanding calcium waves and sparks in central neurons. Nat Rev Neurosci 13:157, 2012.
-
-Schmitt N, Grunnet M, Olesen SP. Cardiac potassium channel subtypes: new roles in <span class="c-yellow">repolarization</span> and <span class="c-red">arrhythmia</span>. Physiol Rev 94:609-653, 2014.
-
-Vacher H, Mohapatra DP, Trimmer JS: Localization and targeting of voltage-dependent ion channels in mammalian central neurons. Physiol Rev 88:1407, 2008.
-
----
-
-END OF OUTPUT
-
----
-UNIT II
----
-
-# Contraction of Skeletal Muscle
-
-## CHAPTER 6
-
-### Membrane Physiology, Nerve, and Muscle
-
-About 40% of the body is skeletal muscle, and perhaps another 10% is smooth and cardiac muscle. Some of the same basic principles of contraction apply to all these muscle types. In this chapter, we mainly consider skeletal muscle function; the specialized functions of smooth muscle are discussed in Chapter 8, and cardiac muscle is discussed in Chapter 9.
-
-# Physiological Anatomy of Skeletal Muscle
-
-Figure 6-1 shows that skeletal muscles are composed of numerous fibers ranging from 10 to 80 micrometers in diameter. Each of these fibers is made up of successively smaller subunits, also shown in Figure 6-1, and described in subsequent paragraphs.
-
-In most skeletal muscles, each fiber extends the entire length of the muscle. Except for about 2% of the fibers, each fiber is usually innervated by only one nerve ending, located near the middle of the fiber.
-
-## The Sarcolemma Is a Thin Membrane Enclosing a Skeletal Muscle Fiber
-
-The sarcolemma consists of a true cell membrane, called the plasma membrane, and an outer coat made up of a thin layer of polysaccharide material that contains numerous thin collagen fibrils. At each end of the muscle fiber, this surface layer of the sarcolemma fuses with a tendon fiber. The tendon fibers, in turn, collect into bundles to form the muscle tendons that then connect the muscles to the bones.
-
-## Myofibrils Are Composed of Actin and Myosin Filaments
-
-Each muscle fiber contains several hundred to several thousand myofibrils, which are illustrated in the cross-sectional view of Figure 6-1C. Each <span class="c-pink">myofibril</span> (Figure 6-1D and E) is composed of about 1500 adjacent myosin filaments and 3000 actin filaments, which are large polymerized protein molecules that are responsible for the muscle contraction. These filaments can be seen in longitudinal view in the electron micrograph of Figure 6-2 and are represented diagrammatically in Figure 6-1E through L. The thick filaments in the diagrams are myosin, and the thin filaments are actin.
-
-Note in Figure 6-1E that the myosin and actin filaments partially interdigitate and thus cause the myofibrils to have alternate light and dark bands, as illustrated in Figure 6-2. The light bands contain only actin filaments and are called I bands because they are isotropic to polarized light. The dark bands contain myosin filaments, as well as the ends of the actin filaments, where they overlap the myosin, and are called A bands because they are anisotropic to polarized light. Note also the small projections from the sides of the myosin filaments in Figure 6-1E and L. These projections are cross-bridges. It is the interaction between these cross-bridges and the actin filaments that causes contraction (Video 6-1).
-
-Figure 6-1E also shows that the ends of the actin filaments are attached to a <span class="c-pink">Z disk</span>. From this disk, these filaments extend in both directions to interdigitate with the myosin filaments. The <span class="c-pink">Z disk</span>, which is composed of filamentous proteins different from the actin and myosin filaments, passes crosswise across the <span class="c-pink">myofibril</span> and also crosswise from <span class="c-pink">myofibril</span> to <span class="c-pink">myofibril</span>, attaching the myofibrils to one another all the way across the muscle fiber. Therefore, the entire muscle fiber has light and dark bands, as do the individual myofibrils. These bands give skeletal and cardiac muscle their striated appearance.
-
-The portion of the <span class="c-pink">myofibril</span> (or of the whole muscle fiber) that lies between two successive Z disks is called a <span class="c-pink">sarcomere</span>. When the muscle fiber is contracted, as shown at the bottom of Figure 6-5, the length of the <span class="c-pink">sarcomere</span> is about 2 micrometers. At this length, the actin filaments completely overlap the myosin filaments, and the tips of the actin filaments are just beginning to overlap one another. As discussed later, at this length, the muscle is capable of generating its greatest force of contraction.
-
-## Titin Filamentous Molecules Keep the Myosin and Actin Filaments in Place
-
-The side-by-side relationship between the myosin and actin filaments is maintained by a large number of filamentous molecules of a protein called titin (Figure 6-3). Each titin molecule has a molecular weight of about 3 million, which makes it one of the largest protein molecules in the body. Also, because it is filamentous, it is very springy. These springy titin molecules act as a framework that holds the myosin and actin filaments in place so that the contractile machinery of the myofibrils stays aligned.
-
-**Skeletal Muscle**
-
-- A, Muscle
-- B, Muscle fasciculus
-- C, Muscle fiber
-- D, Myofibril
-- E, Myofilaments
-- F, G-Actin molecules; F-<span class="c-pink">Actin filament</span>
-- G, Myosin molecule
-- H, Tail; Head; Hinge
-- I, <span class="c-pink">Myosin filament</span>
-- J, <span class="c-pink">Sarcomere</span>
-- K, Z disk; Z disk
-- L, <span class="c-pink">H zone</span>; M line; <span class="c-pink">H zone</span>
-- M, A band; I band; A band; I band
-- N, Cross sections at the levels indicated
-
-**Figure 6-1** A–E, Organization of skeletal muscle, from the gross to the molecular level. F–I, Cross sections at the levels indicated.
+最重要的穩定劑之一是許多臨床用作局部麻醉劑的物質，包括普魯卡因（procaine）與丁卡因（tetracaine）。這些製劑直接作用於鈉離子通道的激活閘，使這些閘更難打開，從而降低膜興奮性。當興奮性降低到 action potential 強度與興奮閾值的比值（安全因子）低於 1.0 時，神經衝動就不能在麻醉的神經中傳遞。

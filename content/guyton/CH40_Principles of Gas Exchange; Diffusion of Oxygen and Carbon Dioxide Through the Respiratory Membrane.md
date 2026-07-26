@@ -3,178 +3,158 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH40"
 title: "Principles of Gas Exchange; Diffusion of Oxygen and Carbon Dioxide Through the Respiratory Membrane"
 book: "Guyton & Hall"
-summary: "Chapter CH40 from Guyton & Hall Textbook of Medical Physiology, 14th Edition. Content extracted from official PDF source."
-key_points:
-  - "Content extracted directly from official Guyton & Hall PDF source"
+summary: "本章闡述氣體透過組織與呼吸膜的擴散機制、肺泡氣體組成的特殊之處，以及影響氣體交換速率的關鍵因素。呼吸膜平均厚度僅 0.6 μm，總面積達 70 m²，紅血球几乎直接擠壓微血管壁，使 O₂ 與 CO₂ 的交換極為高效。肺泡氣體組成與大氣不同，原因在於每次呼吸僅置換七分之一的肺泡氣體，加上 O₂ 被持續吸收、CO₂ 被持續排出的結果。Diffusing capacity（擴散容量）以每分鐘每 mm Hg partial pressure 差所擴散的氣體體積表示，安靜時 O₂ 的擴散容量約 21 ml/min/mm Hg，運動時可增至三倍。
 ---
 
-# DIFFUSION OF GASES THROUGH TISSUES
+# CHAPTER 40
+氣體交換原理；Oxygen 與 Carbon Dioxide 透過呼吸膜的擴散
 
-The gases that are of respiratory importance are all highly soluble in lipids and, consequently, are highly soluble in cell membranes. Because of this, the major limitation to movement of gases in tissues is the rate at which the gases can diffuse through the tissue water instead of through the cell membranes. Therefore, diffusion of gases through tissues, including through the respiratory membrane, is almost equal to the diffusion of gases in water.
+## 章節導讀
 
-The relative diffusion rates for different gases of respiratory importance in body fluids, assuming oxygen has a diffusion coefficient of 1.0, are as follows:
+氣體交換並非簡單的「氧氣進去、二氧化碳出來」，而是一套由物理擴散定律精確調控的動態過程。本章首先說明氣體在組織中的擴散特性：儘管 O₂、CO₂ 等高度親脂性分子易於穿越細胞膜，但真正限制擴散速率的卻是組織間質的水相環境，因此氣體在組織中的擴散速率幾乎等同於在水中的擴散速率。
 
-- Oxygen: 1.0
-- Carbon dioxide: 20.3
-- Carbon monoxide: 0.81
-- Nitrogen: 0.53
-- Helium: 0.95
+肺泡氣體組成與大氣截然不同，這一事實常被忽略。每次呼吸僅置換肺泡氣體總量的七分之一，加上呼吸道對吸入氣體的濕化與加溫效應，使得肺泡內 PO₂ 穩定維持在約 104 mm Hg（而非大氣的 160 mm Hg）。本章的核心在於分析呼吸膜的結構——六層結構總厚度僅 0.6 μm，紅血球几乎直接接觸微血管壁，大幅縮短擴散路徑。最後引入 **diffusing capacity** 的概念，用以量化呼吸膜的氣體交換效率，並說明運動時此值何以能提升至原來的三倍。
 
----
+## 氣體透過組織的擴散
 
-# COMPOSITIONS OF ALVEOLAR AIR AND ATMOSPHERIC AIR ARE DIFFERENT
+呼吸相關氣體皆高度親脂，易於穿越細胞膜。真正限制其在組織中移動速率的，是氣體穿越細胞膜外水相組織間質的過程。因此，氣體在組織與呼吸膜中的擴散速率，幾乎等同於在水中的擴散速率。
 
-Alveolar air does not have the same concentrations of gases as atmospheric air. There are several reasons for the differences:
+以 O₂ 的擴散係數為 1.0 為基準，各氣體在體液中的相對擴散速率：
 
-1. Alveolar air is only partially replaced by atmospheric air with each breath
-2. O₂ is constantly being absorbed into the pulmonary blood from the alveolar air
-3. CO₂ is constantly diffusing from the pulmonary blood into the alveoli
-4. Dry atmospheric air that enters the respiratory passages is humidified even before it reaches the alveoli
+| 氣體 | 相對擴散速率 |
+|------|-------------|
+| O₂ | 1.00 |
+| CO₂ | 20.3 |
+| CO | 0.81 |
+| N₂ | 0.53 |
+| He | 0.95 |
 
-## Air Is Humidified in the Respiratory Passages
+可見 CO₂ 的擴散速率約為 O₂ 的 20 倍，這與其高溶解係數直接相關。
 
-Atmospheric air is composed almost entirely of nitrogen and O₂; it normally contains almost no CO₂ and little water vapor. However, as soon as the atmospheric air enters the respiratory passages, it is exposed to the fluids that cover the respiratory surfaces. Even before the air enters the alveoli, it becomes almost totally humidified.
+## 肺泡氣體與大氣氣體的組成差異
 
-The partial pressure of water vapor at a normal body temperature of 37°C is 47 mm Hg, which is therefore the partial pressure of water vapor in the alveolar air. Because the total pressure in the alveoli cannot rise to more than the atmospheric pressure (760 mm Hg at sea level), this water vapor simply dilutes all the other gases in the inspired air.
+肺泡氣體組成與大氣不同，主要原因有四：
 
-Humidification of the air dilutes the oxygen partial pressure at sea level from an average of 159 mm Hg in atmospheric air to 149 mm Hg in the humidified air, and it dilutes the nitrogen partial pressure from 597 to 563 mm Hg.
+1. 每次呼吸僅能部分更換肺泡氣體
+2. O₂ 持續被血液吸收
+3. CO₂ 持續由血液擴散入肺泡
+4. 乾燥大氣在抵達肺泡前已被呼吸道濕化
 
-## Alveolar Air Is Slowly Renewed by Atmospheric Air
+### 呼吸道對吸入氣體的濕化
 
-The average functional residual capacity of the lungs (the volume of air remaining in the lungs at the end of normal expiration) measures about 2300 ml in men. Yet only 350 ml of new air is brought into the alveoli with each normal inspiration, and this same amount of old alveolar air is expired. Therefore, the volume of alveolar air replaced by new atmospheric air with each breath is only one-seventh of the total, so multiple breaths are required to exchange most of the alveolar air.
+大氣進入呼吸道後，立即被呼吸道表面的液體濕化。37°C 時水蒸氣的 partial pressure 為 47 mm Hg——這個數值在所有後續計算中皆須扣除。
 
-**Figure 40-2.** Expiration of a gas from an alveolus with successive breaths.
+濕化效應稀釋了吸入氣體中的 O₂ 與 N₂ partial pressure：
 
-**Figure 40-3.** Rate of removal of excess gas from alveoli.
+| 氣體 | 大氣（乾燥） | 濕化後 |
+|------|-------------|--------|
+| PO₂ | 160 mm Hg | 149 mm Hg |
+| PN₂ | 600 mm Hg | 563 mm Hg |
+| PH₂O | 3.7 mm Hg | 47 mm Hg |
 
-At normal alveolar ventilation, about half the gas is removed in 17 seconds. When a person's rate of alveolar ventilation is only half-normal, half of the gas is removed in 34 seconds, and when the rate of ventilation is twice normal, half is removed in about 8 seconds.
+### 肺泡氣體的緩慢更新
 
-## Slow Replacement of Alveolar Air Helps Stabilize Respiratory Control
+成人肺臟的功能餘容量（FRC）約 2300 ml，而每次平靜吸氣僅有 350 ml 新鮮空氣進入肺泡，並置换等量的舊氣體。因此，**每次呼吸僅置換七分之一的肺泡氣體**，全部更換需要多次呼吸。
 
-The slow replacement of alveolar air is of particular importance in preventing sudden changes in gas concentrations in the blood. This makes the respiratory control mechanism much more stable than it would be otherwise, and it helps prevent excessive increases and decreases in tissue oxygenation, tissue CO₂ concentration, and tissue pH when respiration is temporarily interrupted.
+圖 40-2 與 40-3 說明肺泡氣體的指數衰減特性：正常肺泡通氣時，約 17 秒可移除半數氣體。若通氣速率減半，則需 34 秒；通氣速率加倍，則僅需約 8 秒。
 
-## Oxygen Concentration and Partial Pressure in Alveoli
+### 肺泡氣體緩慢更換的生理意義
 
-Oxygen is continually being absorbed from the alveoli into the blood of the lungs, and new O₂ is continually being breathed into the alveoli from the atmosphere. The more rapidly O₂ is absorbed, the lower its concentration in the alveoli becomes; conversely, the more rapidly new O₂ is breathed into the alveoli from the atmosphere, the higher its concentration becomes.
+這種緩慢更換機制對於呼吸調控的穩定性至關重要：它像一個緩衝系統，防止血液氣體濃度因短暫的呼吸變化而大幅波動，使呼吸中樞的回饋控制更加平穩。
 
-Therefore, O₂ concentration in the alveoli, as well as its partial pressure, is controlled by:
+### 肺泡 Oxygen 與 CO₂ 的 partial pressure
 
-1. The rate of absorption of O₂ into the blood
-2. The rate of entry of new O₂ into the lungs by the ventilatory process
+肺泡 PO₂ 與 PCO₂ 由兩個對立過程的動態平衡決定：
 
-**Figure 40-4.** Effect of alveolar ventilation on the alveolar partial pressure of oxygen (Po₂) at two rates of oxygen absorption from the alveoli—250 ml/min and 1000 ml/min. Point A is the normal operating point.
+- **O₂**：由血液吸收的速率（受組織代谢需求影響）對抗新鮮空氣的補充速率（受 ventilation 影響）
+- **CO₂**：由血液運至肺泡的速率（受代谢產量影響）對抗由肺泡呼出的速率（受 ventilation 影響）
 
-At a normal ventilatory rate of 4.2 L/min and an O₂ consumption of 250 ml/min, the normal operating point is point A in Figure 40-4. When 1000 ml of O₂ is being absorbed each minute, as during moderate exercise, the rate of alveolar ventilation must increase fourfold to maintain the alveolar Po₂ at the normal value of 104 mm Hg.
+圖 40-4 說明肺泡通氣對 PO₂ 的影響。正常條件下（通氣 4.2 L/min，O₂ 消耗 250 ml/min），肺泡 PO₂ 穩定於 104 mm Hg（圖中 A 點）。即使通氣大幅增加，肺泡 PO₂ 的上限仍是 149 mm Hg（為 humidified air 的 PO₂），無法超越此理論上限。
 
-Another effect shown in Figure 40-4 is that even an extreme increase in alveolar ventilation can never increase the alveolar Po₂ above 149 mm Hg as long as the person is breathing normal atmospheric air at sea level pressure, because 149 mm Hg is the maximum Po₂ in humidified air at this pressure. If the person breathes gases that contain partial pressures of O₂ higher than 149 mm Hg, the alveolar Po₂ can approach these higher pressures at high rates of ventilation.
+圖 40-5 說明肺泡 PCO₂ 與通氣量呈反向關係：正常時（CO₂ 排出 200 ml/min），肺泡 PCO₂ 為 40 mm Hg。若 CO₂ 排出增至四倍（800 ml/min），則需四倍通氣量才能維持相同的 40 mm Hg。
 
-## CO₂ Concentration and Partial Pressure in Alveoli
+### 呼氣氣體：死腔氣體與肺泡氣體的混合
 
-Carbon dioxide is continually formed in the body and then carried in the blood to the alveoli; it is continually removed from the alveoli by ventilation.
+圖 40-6 說明呼氣氣體的 partial pressure 分佈。剛開始呼出的氣體是停留在呼吸道的**死腔氣體**（已濕化但未參與氣體交換），隨後逐漸摻入肺泡氣體，最後僅剩肺泡氣體。因此，收集肺泡氣體的標準方法是：在用力呼氣末段收集樣本，此時死腔氣體已被完全排空。
 
-**Figure 40-5.** Effect of alveolar ventilation on the alveolar partial pressure of carbon dioxide (Pco₂) at two rates of carbon dioxide excretion from the blood—800 ml/min and 200 ml/min. Point A is the normal operating point.
+**Table: 部分壓力與呼吸氣體組成**
 
-At the normal rate of CO₂ excretion of 200 ml/min and the normal rate of alveolar ventilation of 4.2 L/min, the operating point for alveolar Pco₂ is at point A in Figure 40-5 (i.e., 40 mm Hg).
-
-Two other facts are also evident from Figure 40-5:
-
-1. The alveolar Pco₂ increases directly in proportion to the rate of CO₂ excretion, as represented by the fourfold elevation of the curve (when 800 ml of CO₂ are excreted per minute)
-2. The alveolar Pco₂ decreases in inverse proportion to alveolar ventilation
-
-Therefore, the concentrations and partial pressures of both O₂ and CO₂ in the alveoli are determined by the rates of absorption or excretion of the two gases and by the amount of alveolar ventilation.
-
-## Expired Air Is a Combination of Dead Space Air and Alveolar Air
-
-The overall composition of expired air is determined by:
-
-1. The amount of the expired air that is dead space air
-2. The amount that is alveolar air
-
-**Figure 40-6.** Oxygen and carbon dioxide partial pressures (Po₂ and Pco₂) in the various portions of normal expired air.
-
-The first portion of expired air, the dead space air from the respiratory passageways, is typical humidified air. Then, progressively more and more alveolar air becomes mixed with the dead space air until all the dead space air has finally been washed out, and nothing but alveolar air is expired at the end of expiration. Therefore, the method of collecting alveolar air for study is simply to collect a sample of the last portion of the expired air after forceful expiration has removed all the dead space air.
-
----
-
-# DIFFUSION OF GASES THROUGH THE RESPIRATORY MEMBRANE
-
-## Respiratory Unit
-
-**Figure 40-7.** Respiratory unit.
-
-The respiratory unit (also called respiratory lobule) is composed of a respiratory bronchiole, alveolar ducts, atria, and alveoli. There are about 300 million alveoli in the two lungs, and each alveolus has an average diameter of about 0.2 millimeter. The alveolar walls are extremely thin, and between the alveoli is an almost solid network of interconnecting capillaries.
-
-**Figure 40-8.** A, Surface view of capillaries in an alveolar wall. B, Cross-sectional view of alveolar walls and their vascular supply.
-
-Because of the extensiveness of the capillary plexus, the flow of blood in the alveolar wall has been described as a sheet of flowing blood. Thus, it is obvious that the alveolar gases are in very close proximity to the blood of the pulmonary capillaries. Furthermore, gas exchange between the alveolar air and pulmonary blood occurs through the membranes of all the terminal portions of the lungs, not merely in the alveoli. All these membranes are collectively known as the respiratory membrane, also called the pulmonary membrane.
-
-## Respiratory Membrane
-
-**Figure 40-9.** Ultrastructure of the alveolar respiratory membrane, shown in cross section.
-
-The respiratory membrane consists of the following layers:
-
-1. A layer of fluid containing surfactant that lines the alveolus and reduces the surface tension of alveolar fluid
-2. The alveolar epithelium, composed of thin epithelial cells
-3. An epithelial basement membrane
-4. A thin interstitial space between the alveolar epithelium and capillary membrane
-5. A capillary basement membrane that in many places fuses with the alveolar epithelial basement membrane
-6. The capillary endothelial membrane
-
-Despite the large number of layers, the overall thickness of the respiratory membrane in some areas is as little as 0.2 micrometer and averages about 0.6 micrometer, except where there are cell nuclei.
-
-From histological studies, it has been estimated that the total surface area of the respiratory membrane is about 70 square meters in healthy men, which is equivalent to the floor area of a 25 × 30-foot room. The total quantity of blood in the capillaries of the lungs at any given instant is 60 to 140 ml. Imagine this small amount of blood spread over the entire surface of a 25 × 30-foot floor, and it is easy to understand the rapidity of the respiratory exchange of O₂ and CO₂.
-
-The average diameter of the pulmonary capillaries is only about 5 micrometers, which means that red blood cells must squeeze through them. The red blood cell membrane usually touches the capillary wall, so O₂ and CO₂ need not pass through significant amounts of plasma as they diffuse between the alveolus and red blood cell. This, too, increases the rapidity of diffusion.
-
-## Factors Affecting Rate of Gas Diffusion Through the Respiratory Membrane
-
-The factors that determine how rapidly a gas will pass through the membrane are:
-
-1. The thickness of the membrane
-2. The surface area of the membrane
-3. The diffusion coefficient of the gas in the substance of the membrane
-4. The partial pressure difference of the gas between the two sides of the membrane
-
-**Thickness of the Membrane.** The thickness of the respiratory membrane occasionally increases—for example, as a result of edema fluid in the interstitial space of the membrane and in the alveoli—so the respiratory gases must then diffuse not only through the membrane but also through this fluid. Also, some pulmonary diseases cause fibrosis of the lungs, which can increase the thickness of some portions of the respiratory membrane. Because the rate of diffusion through the membrane is inversely proportional to the thickness of the membrane, any factor that increases the thickness to more than two to three times normal can interfere significantly with normal respiratory exchange of gases.
-
-**Surface Area of the Membrane.** The surface area of the respiratory membrane can be greatly decreased by many conditions. For example, removal of an entire lung decreases the total surface area to half-normal. Also, in emphysema, many of the alveoli coalesce, with dissolution of many alveolar walls. Therefore, the new alveolar chambers are much larger than the original alveoli, but the total surface area of the respiratory membrane is often decreased as much as fivefold because of loss of the alveolar walls. When the total surface area is decreased to about one-third to one-fourth normal, exchange of gases through the membrane is substantially impeded, even under resting conditions, and during competitive sports and other strenuous exercise, even the slightest decrease in surface area of the lungs can be a serious detriment to respiratory exchange of gases.
-
-**Diffusion Coefficient of the Gas.** The diffusion coefficient for transfer of each gas through the respiratory membrane depends on the gas's solubility in the membrane and, inversely, on the square root of the gas's molecular weight. The rate of diffusion in the respiratory membrane is almost exactly the same as that in water, for reasons explained earlier. Therefore, for a given pressure difference, CO₂ diffuses about 20 times as rapidly as O₂. Oxygen diffuses about twice as rapidly as nitrogen.
-
-**Partial Pressure Difference.** The pressure difference across the respiratory membrane is the difference between the partial pressure of the gas in the alveoli and the partial pressure of the gas in the pulmonary capillary blood. Therefore, the difference between these two pressures is a measure of the net tendency for the gas molecules to move through the membrane. When the partial pressure of a gas in the alveoli is greater than the pressure of the gas in the blood, as is true for O₂, net diffusion from the alveoli into the blood occurs. When the pressure of the gas in the blood is greater than the partial pressure in the alveoli, as is true for CO₂, net diffusion from the blood into the alveoli occurs.
-
-## Diffusing Capacity of the Respiratory Membrane
-
-The ability of the respiratory membrane to exchange a gas between the alveoli and pulmonary blood is expressed in quantitative terms by the respiratory membrane's diffusing capacity, which is defined as the volume of a gas that will diffuse through the membrane each minute for a partial pressure difference of 1 mm Hg. All the factors discussed earlier that affect diffusion through the respiratory membrane can affect this diffusing capacity.
-
-### Diffusing Capacity for Oxygen
-
-In the average young man, the diffusing capacity for O₂ under resting conditions averages 21 ml/min per mm Hg. The mean O₂ pressure difference across the respiratory membrane during normal quiet breathing is about 11 mm Hg. Multiplying this pressure by the diffusing capacity (11 × 21) gives a total of about 230 ml of oxygen diffusing through the respiratory membrane each minute, which is equal to the rate at which the resting body uses O₂.
-
-### Increased Oxygen Diffusing Capacity During Exercise
-
-During strenuous exercise or other conditions that greatly increase pulmonary blood flow and alveolar ventilation, the diffusing capacity for O₂ increases to about three times the diffusing capacity under resting conditions. This increase is caused by several factors:
-
-1. Opening up of many previously dormant pulmonary capillaries or extra dilation of already open capillaries, thereby increasing the surface area of the blood into which the O₂ can diffuse
-2. A better match between the ventilation of the alveoli and perfusion of the alveolar capillaries with blood, called the ventilation-perfusion ratio
-
-Therefore, during exercise, oxygenation of the blood is increased not only by increased alveolar ventilation but also by greater diffusing capacity of the respiratory membrane for transporting O₂ into the blood.
-
-### Diffusing Capacity for Carbon Dioxide
-
-The diffusing capacity for CO₂ has never been measured because CO₂ diffuses through the respiratory membrane so rapidly that the average Pco₂ in the pulmonary blood is not very different from the Pco₂ in the alveoli—the average difference is less than 1 mm Hg. With currently available techniques, this difference is too small to be measured. Nevertheless, measurements of diffusion of other gases have shown that the diffusing capacity varies directly with the diffusion coefficient of the particular gas. Because the diffusion coefficient of CO₂ is slightly more than 20 times that of O₂, the diffusing capacity of the respiratory membrane for CO₂ is more than 20 times that for O₂.
-
----
-
-# TABLE: Partial Pressures and Composition of Respiratory Gases
-
-| Gas | Atmospheric Air | Humidified Air | Alveolar Air | Expired Air |
-|-----|-----------------|----------------|--------------|-------------|
-| N₂ | 597 mm Hg (78.62%) | 563.4 mm Hg (74.09%) | (74.9%) | (74.5%) |
-| O₂ | 159 mm Hg (20.84%) | 149.3 mm Hg (19.67%) | (13.6%) | (15.7%) |
+| 氣體 | 大氣 | 濕化後 | 肺泡氣 | 呼氣 |
+|------|------|--------|--------|------|
+| N₂ | 597 mm Hg (78.6%) | 563 mm Hg (74.1%) | (74.9%) | (74.5%) |
+| O₂ | 159 mm Hg (20.8%) | 149 mm Hg (19.7%) | (13.6%) | (15.7%) |
 | CO₂ | 0.3 mm Hg (0.04%) | 0.3 mm Hg (0.04%) | 40 mm Hg (5.3%) | 27 mm Hg (3.6%) |
-| H₂O | 3.7 mm Hg (0.50%) | 47 mm Hg (6.20%) | 47 mm Hg (6.2%) | 47 mm Hg (6.2%) |
-| Total | 760 mm Hg (100%) | 760 mm Hg (100%) | 760 mm Hg (100%) | 760 mm Hg (100%) |
+| H₂O | 3.7 mm Hg (0.5%) | 47 mm Hg (6.2%) | 47 mm Hg (6.2%) | 47 mm Hg (6.2%) |
+| **總計** | **760 mm Hg** | **760 mm Hg** | **760 mm Hg** | **760 mm Hg** |
 
-*At sea level.*
+*海平面數值*
+
+## 氣體透過呼吸膜的擴散
+
+### 呼吸單位
+
+圖 40-7 與 40-8 展示呼吸單位的結構。**Respiratory unit**（呼吸單位）由呼吸性細支氣管、肺泡管、氣房與肺泡組成。兩側肺臟共約 3 億個肺泡，平均直徑約 0.2 mm。肺泡壁之間是由密集微血管交織而成的網絡，血液在肺泡壁中被形容為一片流動的血毯——這意味著肺泡氣體與微血管血液之間的距離極近。
+
+### 呼吸膜的結構
+
+圖 40-9 展示呼吸膜的超微結構，由內而外共六層：
+
+1. 含 **surfactant** 的液體層——降低肺泡液體表面張力
+2. 肺泡上皮細胞層
+3. 上皮基底膜
+4. 肺泡上皮與微血管之間的薄層間質
+5. 微血管基底膜（常與上皮基底膜融合）
+6. 微血管內皮膜
+
+雖然結構層數不少，但部分區域總厚度僅 **0.2 μm**，平均約 **0.6 μm**（不含細胞核區域）。
+
+### 呼吸膜的解剖特徵
+
+| 參數 | 數值 |
+|------|------|
+| 總面積 | ~70 m²（約等同 25×30 平方英尺的地板面積） |
+| 微血管血液總量 | 60–140 ml |
+| 微血管平均直徑 | ~5 μm（紅血球需擠壓通過） |
+
+少量血液分布在如此廣大的表面積上，加上紅血球膜幾乎直接接觸微血管壁（氣體擴散時幾乎不需穿越血漿），造就了 O₂ 與 CO₂ 交換的高效性。
+
+## 影響氣體擴散速率的因素
+
+### 膜的厚度
+
+水腫或間質液體堆積會增加液體層厚度；肺纖維化則使部分區域膜增厚。擴散速率與膜厚度成**反比**，當厚度超過正常的 2–3 倍時，即可能明顯干擾氣體交換。
+
+### 膜的面積
+
+肺切除一側時面積減半；**肺氣腫**時，大量肺泡壁溶解消失，許多肺泡融合成更大的囊泡，實際總面積可減少至五分之一。面積降至正常的 1/3–1/4 時，即使在休息狀態下氣體交換也會受到顯著影響。
+
+### 氣體的擴散係數
+
+擴散係數與氣體在膜中的溶解度成正比，與分子量平方根成反比。如前所述，CO₂ 的擴散係數約為 O₂ 的 20 倍，O₂ 約為 N₂ 的兩倍。
+
+### Partial pressure 差
+
+這是最關鍵的驅動力量：**淨擴散方向永遠由高 partial pressure 側向低 partial pressure 側**。肺泡 PO₂（~104 mm Hg）高於混合靜脈血（~40 mm Hg），O₂ 向血液擴散；血液 PCO₂（~46 mm Hg）高於肺泡（~40 mm Hg），CO₂ 向肺泡擴散。
+
+## 呼吸膜的 Diffusing Capacity
+
+**Diffusing capacity** 定義為：每分鐘、在 1 mm Hg partial pressure 差條件下，透過呼吸膜擴散的氣體體積（ml/min/mm Hg）。
+
+### Oxygen 的 Diffusing Capacity
+
+安靜狀態下，年輕男性的 O₂ diffusing capacity 平均為 **21 ml/min/mm Hg**。平均肺泡-微血管 PO₂ 差約 11 mm Hg，因此：
+
+$$21 \times 11 \approx 230 \text{ ml O}_2\text{/min}$$
+
+此值與安靜時全身 O₂ 消耗率相當——這並非巧合，而是肺臟與組織代谢需求長期匹配的結果。
+
+### 運動時 O₂ Diffusing Capacity 的增加
+
+運動或用力時，O₂ diffusing capacity 可增至安靜時的約三倍，原因包括：
+
+1. **微血管募集**：原本關閉的微血管打開或已有微血管進一步擴張，增加血液暴露於肺泡的表面積
+2. **Ventilation-perfusion ratio 改善**：通氣與血流在肺泡層面更均勻匹配，減少通氣良好但血流不足（浪費通氣）的區域
+
+### Carbon Dioxide 的 Diffusing Capacity
+
+CO₂ 的 diffusing capacity 從未被直接測量，因為其在呼吸膜兩側的 partial pressure 差極小（小於 1 mm Hg），現有技術難以精確測量。但根據擴散係數的比例關係，CO₂ 的 diffusing capacity 約為 O₂ 的 **20 倍以上**。
