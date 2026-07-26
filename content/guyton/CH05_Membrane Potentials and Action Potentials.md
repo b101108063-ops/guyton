@@ -3,8 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH05"
 title: "Membrane Potentials and Action Potentials"
 book: "Guyton & Hall"
-summary: "本章闡述細胞膜電位的形成機制與神經衝動的傳導原理。 resting membrane potential 由鉀離子擴散、鈉離子滲漏與鈉鉀幫浦共同決定。 action potential 的產生依賴電壓門控鈉離子通道與鉀離子通道的順序開關：鈉離子通道開放造成去極化，隨後關閉而鉀離子通道開放導致再極化。本章也介紹髓鞘與郎氏結如何加速跳躍傳導，以及心肌與平滑肌中具有 plateau 特性的動作電位。
-"
+summary: "本章闡述細胞膜電位的形成機制與神經衝動的傳導原理。 resting membrane potential 由鉀離子擴散、鈉離子滲漏與鈉鉀幫浦共同決定。 action potential 的產生依賴電壓門控鈉離子通道與鉀離子通道的順序開關：鈉離子通道開放造成去極化，隨後關閉而鉀離子通道開放導致再極化。本章也介紹髓鞘與郎氏結如何加速跳躍傳導，以及心肌與平滑肌中具有 plateau 特性的動作電位。 "
 ---
 
 ## 章節導讀

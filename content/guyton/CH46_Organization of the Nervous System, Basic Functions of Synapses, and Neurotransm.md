@@ -3,7 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH46"
 title: "Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters"
 book: "Guyton & Hall"
-summary: "本章介紹神經系統的整體結構與功能層級，以及 synaptic transmission 的基本原理。神經系統分為三個主要功能層級：脊髓層級（負責行走、撤退反射等）、下位腦層級（負責血壓、呼吸、情緒等自主功能）與皮質層級（負責記憶、思考）。Synapse 是神經信號傳遞的樞紐，分為化學性與電性兩大類；化學性 synapse 具有單向傳導特性，這是神經系統得以精確控制信號流向的關鍵。神經傳導物質超過 50 種，包括 acetylcholine、norepinephrine、GABA、glutamate 等，分別執行興奮性或抑制性功能。Postsynaptic 的效應可分為快速離子通道效應（ionotropic 受體）與慢速第二信使效應（metabotropic 受體）。
+summary: "本章介紹神經系統的整體結構與功能層級，以及 synaptic transmission 的基本原理。神經系統分為三個主要功能層級：脊髓層級（負責行走、撤退反射等）、下位腦層級（負責血壓、呼吸、情緒等自主功能）與皮質層級（負責記憶、思考）。Synapse 是神經信號傳遞的樞紐，分為化學性與電性兩大類；化學性 synapse 具有單向傳導特性，這是神經系統得以精確控制信號流向的關鍵。神經傳導物質超過 50 種，包括 acetylcholine、norepinephrine、GABA、glutamate 等，分別執行興奮性或抑制性功能。Postsynaptic 的效應可分為快速離子通道效應（ionotropic 受體）與慢速第二信使效應（metabotropic 受體）。"
 ---
 
 # CHAPTER 46

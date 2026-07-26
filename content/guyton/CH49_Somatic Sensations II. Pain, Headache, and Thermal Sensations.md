@@ -3,7 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH49"
 title: "Somatic Sensations: II. Pain, Headache, and Thermal Sensations"
 book: "Guyton & Hall"
-summary: "本章探討疼痛的複雜神經機制。疼痛訊息由兩條路徑傳入中樞：Neospinothalamic tract（快速尖銳疼痛，Aδ 纖維，glutamate 為神經傳導物質，定位精確）與 Paleospinothalamic tract（慢速灼痛，C 纖維，substance P 為神經傳導物質，彌散投射，定位模糊）。腦內存在內生性止痛系統，以 periaqueductal gray 為核心，透過 raphe magnus nucleus 下行至脊髓背角，释放 enkephalin 與 serotonin 抑制疼痛訊號——這是嗎啡與針灸止痛的分子基礎。疼痛也可被同時刺激的觸覺訊號所抑制（lateral inhibition）。內臟疼痛的特點是感覺遲鈍（切斷腸道可不痛）但瀰漫性刺激（缺血、痙攣、擴張）則引發劇痛，並常見牽涉痛（referred pain）。
+summary: "本章探討疼痛的複雜神經機制。疼痛訊息由兩條路徑傳入中樞：Neospinothalamic tract（快速尖銳疼痛，Aδ 纖維，glutamate 為神經傳導物質，定位精確）與 Paleospinothalamic tract（慢速灼痛，C 纖維，substance P 為神經傳導物質，彌散投射，定位模糊）。腦內存在內生性止痛系統，以 periaqueductal gray 為核心，透過 raphe magnus nucleus 下行至脊髓背角，释放 enkephalin 與 serotonin 抑制疼痛訊號——這是嗎啡與針灸止痛的分子基礎。疼痛也可被同時刺激的觸覺訊號所抑制（lateral inhibition）。內臟疼痛的特點是感覺遲鈍（切斷腸道可不痛）但瀰漫性刺激（缺血、痙攣、擴張）則引發劇痛，並常見牽涉痛（referred pain）。"
 ---
 
 # CHAPTER 49

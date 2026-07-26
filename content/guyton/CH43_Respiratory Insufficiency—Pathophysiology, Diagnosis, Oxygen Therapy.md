@@ -3,7 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH43"
 title: "Respiratory Insufficiency—Pathophysiology, Diagnosis, Oxygen Therapy"
 book: "Guyton & Hall"
-summary: "本章探討常見肺部疾病的病理生理學、肺功能檢查的原理與臨床應用，以及缺氧的分類與氧氣治療的適應症。氣道阻塞性疾病（如肺氣腫、氣喘）以 FEV₁/FVC ratio 下降為特徵；肺泡填塞性疾病（如肺炎）導致 diffusion surface area 減少與 V̇A/Q̇ ratio 失衡；肺塌陷（atelectasis）則源於氣道阻塞或 surfactant 缺乏。缺氧分為五類型，各有不同的生理機制與氧氣治療效果。
+summary: "本章探討常見肺部疾病的病理生理學、肺功能檢查的原理與臨床應用，以及缺氧的分類與氧氣治療的適應症。氣道阻塞性疾病（如肺氣腫、氣喘）以 FEV₁/FVC ratio 下降為特徵；肺泡填塞性疾病（如肺炎）導致 diffusion surface area 減少與 V̇A/Q̇ ratio 失衡；肺塌陷（atelectasis）則源於氣道阻塞或 surfactant 缺乏。缺氧分為五類型，各有不同的生理機制與氧氣治療效果。"
 ---
 
 # CHAPTER 43

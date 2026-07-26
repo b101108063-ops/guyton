@@ -3,7 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH44"
 title: "Aviation, High Altitude, and Space Physiology"
 book: "Guyton & Hall"
-summary: "本章探討高空與太空環境對人體生理的影響。高空缺氧時，peripheral chemoreceptor 在數日內驅動通氣量增至五倍正常值，腎臟對 respiratory alkalosis 的代償使 bicarbonate 濃度下降，進一步解除對呼吸中樞的抑制。長期適應包括紅血球生成增加（hematocrit 可達 60%）、diffusing capacity 提升與微血管新生。Hypoxia-inducible factors（HIFs）扮演全身缺氧反應的樞紐角色。急性高山症表現為腦水腫與肺水腫；慢性高山症則因血液黏度過高與肺血管普遍收縮導致右心衰竭。加速度對人體的影響以正向 G（血液向下半身轉移）最為關鍵，超過 4–6 G 可致黑視與昏迷。
+summary: "本章探討高空與太空環境對人體生理的影響。高空缺氧時，peripheral chemoreceptor 在數日內驅動通氣量增至五倍正常值，腎臟對 respiratory alkalosis 的代償使 bicarbonate 濃度下降，進一步解除對呼吸中樞的抑制。長期適應包括紅血球生成增加（hematocrit 可達 60%）、diffusing capacity 提升與微血管新生。Hypoxia-inducible factors（HIFs）扮演全身缺氧反應的樞紐角色。急性高山症表現為腦水腫與肺水腫；慢性高山症則因血液黏度過高與肺血管普遍收縮導致右心衰竭。加速度對人體的影響以正向 G（血液向下半身轉移）最為關鍵，超過 4–6 G 可致黑視與昏迷。"
 ---
 
 # CHAPTER 44

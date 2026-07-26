@@ -3,7 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH42"
 title: "Regulation of Respiration"
 book: "Guyton & Hall"
-summary: "本章闡述呼吸的化學與神經調控機制。呼吸中樞位於延腦與橋腦，分為背側呼吸組與腹側呼吸組，另有 pneumotaxic center 調控呼吸節律。CO₂ 與 H⁺ 是呼吸的主要化學刺激物：血液 CO₂ 透過血腦屏障擴散至延腦，形成 H₂CO₃ 並解離為 H⁺，直接刺激 chemosensitive area。O₂ 不直接作用於呼吸中樞，而是透過頸動脈體與主動脈體的 peripheral chemoreceptors 感知低氧。運動時，呼吸的增加主要由大腦同時發出的 collaterals 神經訊號所驅動，而非血液化學成分的變化。
+summary: "本章闡述呼吸的化學與神經調控機制。呼吸中樞位於延腦與橋腦，分為背側呼吸組與腹側呼吸組，另有 pneumotaxic center 調控呼吸節律。CO₂ 與 H⁺ 是呼吸的主要化學刺激物：血液 CO₂ 透過血腦屏障擴散至延腦，形成 H₂CO₃ 並解離為 H⁺，直接刺激 chemosensitive area。O₂ 不直接作用於呼吸中樞，而是透過頸動脈體與主動脈體的 peripheral chemoreceptors 感知低氧。運動時，呼吸的增加主要由大腦同時發出的 collaterals 神經訊號所驅動，而非血液化學成分的變化。"
 ---
 
 # CHAPTER 42

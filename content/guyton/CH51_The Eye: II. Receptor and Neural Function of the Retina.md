@@ -3,7 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH51"
 title: "The Eye: II. Receptor and Neural Function of the Retina"
 book: "Guyton & Hall"
-summary: "本章深入視網膜的感光與神經功能。視網膜的感光細胞分為 rods（桿狀細胞，負責暗光覺，含 rhodopsin）與 cones（錐狀細胞，負責色彩視覺，含三種對藍、綠、紅敏感的光色素）。Rods 的感光機制極為靈敏：單一光子即可引發約 1 mV 的 receptor potential，此過程涉及 cGMP cascade 的百萬倍放大效應。感光細胞的獨特之處在於：光照時不是去極化而是**超極化（hyperpolarization）**——這是因為光照觸發 cGMP  phosphodiesterase 活化，降低 cGMP，使 Na⁺ 通道關閉，Na⁺ 持續被泵出，細胞內變得更負。視網膜也會透過 light/dark adaptation 調整感光色素的濃度，以適應不同光強度環境。
+summary: "本章深入視網膜的感光與神經功能。視網膜的感光細胞分為 rods（桿狀細胞，負責暗光覺，含 rhodopsin）與 cones（錐狀細胞，負責色彩視覺，含三種對藍、綠、紅敏感的光色素）。Rods 的感光機制極為靈敏：單一光子即可引發約 1 mV 的 receptor potential，此過程涉及 cGMP cascade 的百萬倍放大效應。感光細胞的獨特之處在於：光照時不是去極化而是**超極化（hyperpolarization）**——這是因為光照觸發 cGMP  phosphodiesterase 活化，降低 cGMP，使 Na⁺ 通道關閉，Na⁺ 持續被泵出，細胞內變得更負。視網膜也會透過 light/dark adaptation 調整感光色素的濃度，以適應不同光強度環境。"
 ---
 
 # CHAPTER 51

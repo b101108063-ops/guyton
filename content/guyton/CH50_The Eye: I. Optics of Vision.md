@@ -3,7 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH50"
 title: "The Eye: I. Optics of Vision"
 book: "Guyton & Hall"
-summary: "本章介紹視覺光學的基本原理。眼球可模擬為單一折射面（reduced eye），總折光力約 59 diopters，其中約三分之二由角膜提供（因其折射率與空氣差異最大）。水晶體的靜態折光力僅 20 diopters，但其可變形狀的特性使眼睛能夠 Accommodate（調節）。睫狀肌收縮放鬆懸韌帶，使水晶體因囊袋彈性而變厚、屈光度增加。隨年齡增長，水晶體蛋白變性、彈性下降，導致 Presbyopia（老花眼）。瞳孔大小控制光量（1.5–8 mm 直徑，約 30 倍光量變化）並影響 depth of focus。常見屈光異常包括近視（眼球過長，影像聚焦於視網膜前）、遠視（眼球過短或折光力不足）與散光（角膜在不同軸向上的曲率不一致）。
+summary: "本章介紹視覺光學的基本原理。眼球可模擬為單一折射面（reduced eye），總折光力約 59 diopters，其中約三分之二由角膜提供（因其折射率與空氣差異最大）。水晶體的靜態折光力僅 20 diopters，但其可變形狀的特性使眼睛能夠 Accommodate（調節）。睫狀肌收縮放鬆懸韌帶，使水晶體因囊袋彈性而變厚、屈光度增加。隨年齡增長，水晶體蛋白變性、彈性下降，導致 Presbyopia（老花眼）。瞳孔大小控制光量（1.5–8 mm 直徑，約 30 倍光量變化）並影響 depth of focus。常見屈光異常包括近視（眼球過長，影像聚焦於視網膜前）、遠視（眼球過短或折光力不足）與散光（角膜在不同軸向上的曲率不一致）。"
 ---
 
 # CHAPTER 50

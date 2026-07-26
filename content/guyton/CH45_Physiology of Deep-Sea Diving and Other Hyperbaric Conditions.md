@@ -3,7 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH45"
 title: "Physiology of Deep-Sea Diving and Other Hyperbaric Conditions"
 book: "Guyton & Hall"
-summary: "本章探討深海潛水與高氣壓環境的生理學。隨深度增加，大氣壓上升，PO₂ 也隨之升高；超過 2 atm 的 O₂ 即具神經毒性，可致痙攣。高壓氮則產生氮醉（narcosis），類似酒精中毒。Decompression sickness 源於快速減壓時組織中溶解的氮氣形成氣泡，阻塞血管並引發關節疼痛（bends）、神經症狀或肺部微栓塞（the chokes）。氦氣取代氮氣可減少減壓問題。Hyperbaric oxygen therapy（高壓氧療）利用高濃度 O₂ 對厭氧菌的抑制作用治療氣性壞疽，並對多種疾病有益。
+summary: "本章探討深海潛水與高氣壓環境的生理學。隨深度增加，大氣壓上升，PO₂ 也隨之升高；超過 2 atm 的 O₂ 即具神經毒性，可致痙攣。高壓氮則產生氮醉（narcosis），類似酒精中毒。Decompression sickness 源於快速減壓時組織中溶解的氮氣形成氣泡，阻塞血管並引發關節疼痛（bends）、神經症狀或肺部微栓塞（the chokes）。氦氣取代氮氣可減少減壓問題。Hyperbaric oxygen therapy（高壓氧療）利用高濃度 O₂ 對厭氧菌的抑制作用治療氣性壞疽，並對多種疾病有益。"
 ---
 
 # CHAPTER 45

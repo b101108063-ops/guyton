@@ -3,7 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH40"
 title: "Principles of Gas Exchange; Diffusion of Oxygen and Carbon Dioxide Through the Respiratory Membrane"
 book: "Guyton & Hall"
-summary: "本章闡述氣體透過組織與呼吸膜的擴散機制、肺泡氣體組成的特殊之處，以及影響氣體交換速率的關鍵因素。呼吸膜平均厚度僅 0.6 μm，總面積達 70 m²，紅血球几乎直接擠壓微血管壁，使 O₂ 與 CO₂ 的交換極為高效。肺泡氣體組成與大氣不同，原因在於每次呼吸僅置換七分之一的肺泡氣體，加上 O₂ 被持續吸收、CO₂ 被持續排出的結果。Diffusing capacity（擴散容量）以每分鐘每 mm Hg partial pressure 差所擴散的氣體體積表示，安靜時 O₂ 的擴散容量約 21 ml/min/mm Hg，運動時可增至三倍。
+summary: "本章闡述氣體透過組織與呼吸膜的擴散機制、肺泡氣體組成的特殊之處，以及影響氣體交換速率的關鍵因素。呼吸膜平均厚度僅 0.6 μm，總面積達 70 m²，紅血球几乎直接擠壓微血管壁，使 O₂ 與 CO₂ 的交換極為高效。肺泡氣體組成與大氣不同，原因在於每次呼吸僅置換七分之一的肺泡氣體，加上 O₂ 被持續吸收、CO₂ 被持續排出的結果。Diffusing capacity（擴散容量）以每分鐘每 mm Hg partial pressure 差所擴散的氣體體積表示，安靜時 O₂ 的擴散容量約 21 ml/min/mm Hg，運動時可增至三倍。"
 ---
 
 # CHAPTER 40

@@ -3,7 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH41"
 title: "Transport of Oxygen and Carbon Dioxide in Blood and Tissue Fluids"
 book: "Guyton & Hall"
-summary: "本章探討 O₂ 與 CO₂ 在血液及組織間質中的運輸機制。Hemoglobin 是 O₂ 運輸的主角，正常時承擔 97% 的運輸量，其餘 3% 溶解於血漿。Oxygen-hemoglobin dissociation curve 的 S 形特徵（平臺期與陡峭段）使 hemoglobin 具有組織 O₂ 緩衝功能，讓組織 PO₂ 在相當大的範圍內維持穩定。Bohr effect（H⁺ 與 CO₂ 濃度升高使曲線右移）進一步促進 O₂ 在組織中的釋放。CO₂ 的運輸則以 bicarbonate 形式（70%）為主，另以 carbamino hemoglobin（23%）和溶解狀態（7%）運輸。
+summary: "本章探討 O₂ 與 CO₂ 在血液及組織間質中的運輸機制。Hemoglobin 是 O₂ 運輸的主角，正常時承擔 97% 的運輸量，其餘 3% 溶解於血漿。Oxygen-hemoglobin dissociation curve 的 S 形特徵（平臺期與陡峭段）使 hemoglobin 具有組織 O₂ 緩衝功能，讓組織 PO₂ 在相當大的範圍內維持穩定。Bohr effect（H⁺ 與 CO₂ 濃度升高使曲線右移）進一步促進 O₂ 在組織中的釋放。CO₂ 的運輸則以 bicarbonate 形式（70%）為主，另以 carbamino hemoglobin（23%）和溶解狀態（7%）運輸。"
 ---
 
 # CHAPTER 41

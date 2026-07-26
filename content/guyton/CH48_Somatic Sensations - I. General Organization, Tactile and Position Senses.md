@@ -3,7 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH48"
 title: "Somatic Sensations: I. General Organization, Tactile and Position Senses"
 book: "Guyton & Hall"
-summary: "本章探討體感覺系統的組織架構與路徑。感覺訊息進入脊髓背根後，經兩條上行路徑傳至腦部：Dorsal column-medial lemniscal system（快速、精確定位，傳輸觸覺、本體感覺）與 Anterolateral system（較慢、粗糙定位，傳輸疼痛、溫度與粗略觸覺）。Dorsal column 路徑在延腦的 cuneate 與 gracile nuclei 交叉後進入視丘 ventrobasal complex，最終投射至 postcentral gyrus（ Brodmann 3、1、2 區）。皮質的垂直神經柱是基本運算單位，每柱偵測單一感覺型態與特定皮膚點。本體感覺與精細觸覺的判斷需要 intact somatosensory area I。
+summary: "本章探討體感覺系統的組織架構與路徑。感覺訊息進入脊髓背根後，經兩條上行路徑傳至腦部：Dorsal column-medial lemniscal system（快速、精確定位，傳輸觸覺、本體感覺）與 Anterolateral system（較慢、粗糙定位，傳輸疼痛、溫度與粗略觸覺）。Dorsal column 路徑在延腦的 cuneate 與 gracile nuclei 交叉後進入視丘 ventrobasal complex，最終投射至 postcentral gyrus（ Brodmann 3、1、2 區）。皮質的垂直神經柱是基本運算單位，每柱偵測單一感覺型態與特定皮膚點。本體感覺與精細觸覺的判斷需要 intact somatosensory area I。"
 ---
 
 # CHAPTER 48

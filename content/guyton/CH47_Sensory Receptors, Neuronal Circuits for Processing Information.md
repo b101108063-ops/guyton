@@ -3,7 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH47"
 title: "Sensory Receptors, Neuronal Circuits for Processing Information"
 book: "Guyton & Hall"
-summary: "本章闡述感覺受器的運作原理與神經迴路的訊號處理機制。受器將各類刺激（機械力、光、化學物質等）轉換為電氣訊號（receptor potential），其振幅與刺激強度呈對數關係。感覺受器可分為快速適應型（phasic，偵測變化）與慢速適應型（tonic，偵測持續狀態）。神經纖維依直徑與傳導速度分為 Aα、Aβ、Aγ、Aδ 與 C 型。訊號強度透過空間總和（動員更多纖維）與時間總和（增加單一纖維頻率）兩種方式傳遞。神經元池是 CNS 的基本運算單位，透過分枝輸入、刺激場與閾下促進等機制整合訊息。
+summary: "本章闡述感覺受器的運作原理與神經迴路的訊號處理機制。受器將各類刺激（機械力、光、化學物質等）轉換為電氣訊號（receptor potential），其振幅與刺激強度呈對數關係。感覺受器可分為快速適應型（phasic，偵測變化）與慢速適應型（tonic，偵測持續狀態）。神經纖維依直徑與傳導速度分為 Aα、Aβ、Aγ、Aδ 與 C 型。訊號強度透過空間總和（動員更多纖維）與時間總和（增加單一纖維頻率）兩種方式傳遞。神經元池是 CNS 的基本運算單位，透過分枝輸入、刺激場與閾下促進等機制整合訊息。"
 ---
 
 # CHAPTER 47

@@ -3,8 +3,7 @@ source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH10"
 title: "Rhythmical Excitation of the Heart"
 book: "Guyton & Hall"
-summary: "本章說明心臟的節律性興奮系統。竇房結（SA node）作為正常心臟的pacemaker，以70-80次/分的頻率自發放電，其節律快於AV結與Purkinje纖維，故能主導整體心律。訊號通過心房內傳導路徑傳播，在AV結延遲0.13秒後，經由Purkinje纖維系統幾乎同步地傳至整個心室肌。本章也介紹心臟的交感與副交感神經控制，以及心律不整與傳導阻滯的機制。
-"
+summary: "本章說明心臟的節律性興奮系統。竇房結（SA node）作為正常心臟的pacemaker，以70-80次/分的頻率自發放電，其節律快於AV結與Purkinje纖維，故能主導整體心律。訊號通過心房內傳導路徑傳播，在AV結延遲0.13秒後，經由Purkinje纖維系統幾乎同步地傳至整個心室肌。本章也介紹心臟的交感與副交感神經控制，以及心律不整與傳導阻滯的機制。 "
 ---
 
 ## 章節導讀
