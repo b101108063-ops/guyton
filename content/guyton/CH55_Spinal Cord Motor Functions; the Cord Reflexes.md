@@ -1,4 +1,4 @@
----
+
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH55"
 title: "Spinal Cord Motor Functions; the Cord Reflexes"
@@ -16,13 +16,13 @@ key_points:
 
 ## 章節導讀
 
-本章探討脊髓在運動控制中的核心角色。運動控制的基礎在於肌肉與肌腱中的感覺受器——muscle spindle 與 Golgi tendon organ——它們持續監測肌肉的長度、張力與變化率，並將資訊傳回脊髓、小腦與大腦皮質。
+本章探討脊髓在運動控制中的核心角色。運動控制的基礎在於肌肉與肌腱中的感覺受器——muscle spindle 與 <span style="color:#22d3ee">Golgi tendon organ</span>——它們持續監測肌肉的長度、張力與變化率，並將資訊傳回脊髓、小腦與大腦皮質。
 
-Muscle spindle 是本章的核心主題之一。每個 spindle 包含 intrafusal fibers，其中央區域為感覺受器，兩端為收縮裝置，由 gamma motor neurons 控制。Spindle 的 primary ending（Ia 纖維）對長度變化**速率**特別敏感（dynamic response），secondary ending（II 纖維）則對長度**靜態值**敏感（static response）。這種區分對於理解不同類型的運動控制至關重要。
+Muscle spindle 是本章的核心主題之一。每個 spindle 包含 <span style="color:#22d3ee">intrafusal fiber</span>s，其中央區域為感覺受器，兩端為收縮裝置，由 <span style="color:#22d3ee">gamma motor neuron</span>s 控制。Spindle 的 primary ending（Ia 纖維）對長度變化**速率**特別敏感（<span style="color:#60a5fa">dynamic response</span>），secondary ending（II 纖維）則對長度**靜態值**敏感（<span style="color:#60a5fa">static response</span>）。這種區分對於理解不同類型的運動控制至關重要。
 
-Golgi tendon organ 位於肌腱內，偵測肌肉張力，提供抑制性負回饋以防止肌肉過度收縮。當張力過大時，Golgi tendon reflex 可導致肌肉瞬間鬆弛（lengthening reaction），保護肌肉與肌腱免受損傷。
+<span style="color:#22d3ee">Golgi tendon organ</span> 位於肌腱內，偵測肌肉張力，提供抑制性負回饋以防止肌肉過度收縮。當張力過大時，<span style="color:#e2e8f0">Golgi tendon reflex</span> 可導致肌肉瞬間鬆弛（lengthening reaction），保護肌肉與肌腱免受損傷。
 
-Flexor reflex 與 crossed extensor reflex 共同構成身體對有害刺激的撤退反應。兩者都是多突觸反射，涉及複雜的神經線路，包括發散、抑制與後放電機制。
+<span style="color:#e2e8f0">Flexor reflex</span> 與 <span style="color:#e2e8f0">crossed extensor reflex</span> 共同構成身體對有害刺激的撤退反應。兩者都是多突觸反射，涉及複雜的神經線路，包括發散、抑制與後放電機制。
 
 最後，脊髓本身具有 pattern generators，能在没有感觉输入的情況下產生節律性步行運動。脊髓横断後會發生 spinal shock，各種反射在數週至數月後逐漸恢復，但可能出現反射亢進。
 
@@ -32,7 +32,7 @@ Flexor reflex 與 crossed extensor reflex 共同構成身體對有害刺激的�
 
 Muscle spindle（如 Figure 552 與 553 所示）長約 3 至 10 毫米，散布於肌肉各處。每個 spindle 包含 3 至 12 條細小的 intrafusal muscle fibers，兩端尖細，附著於周圍 extrafusal skeletal muscle fibers 的 glycocalyx 上。
 
-Intrafusal fibers 的中央區域幾乎沒有肌動蛋白與肌球蛋白絲，不能收縮，是實際的感覺受器區。兩端可以收縮，由起源於脊髓前角小型 gamma motor neurons 的 gamma motor nerve fibers 支配。
+Intrafusal fibers 的中央區域幾乎沒有肌動蛋白與肌球蛋白絲，不能收縮，是實際的感覺受器區。兩端可以收縮，由起源於脊髓前角小型 <span style="color:#22d3ee">gamma motor neuron</span>s 的 gamma motor nerve fibers 支配。
 
 <figure>
 <img src="/images/guyton/55f553.jpg" alt="Muscle spindle">
@@ -51,9 +51,9 @@ Primary sensory ending 由兩種 intrafusal fibers 活化；secondary ending 通
 
 中央受器區域有兩種感覺末梢：**Primary afferent ending**（又稱 annulospiral ending）：由直徑約 17 微米的 type Ia 纖維支配，傳導速度達 70-120 m/sec，是全身最快的神經纖維之一。**Secondary afferent ending**：由直徑約 8 微米的 type II 纖維支配。
 
-### Static與Dynamic Response
+### Static與<span style="color:#60a5fa">Dynamic Response</span>
 
-當 spindle receptor 被緩慢拉伸時，primary 與 secondary endings 的放電頻率幾乎與拉伸程度成正比增加，並在持續拉伸期間維持傳遞。這稱為 **static response**。
+當 spindle receptor 被緩慢拉伸時，primary 與 secondary endings 的放電頻率幾乎與拉伸程度成正比增加，並在持續拉伸期間維持傳遞。這稱為 **<span style="color:#60a5fa">static response</span>**。
 
 當 spindle 長度突然變化時，**只有 primary ending**（而非 secondary ending）被強烈刺激，產生**dynamic response**——對快速變化極度敏感的強烈訊號。這使得 primary ending 能在長度變化期間發送極強的正向或負向訊號，通知脊髓任何長度變化。
 
@@ -68,11 +68,11 @@ Gamma motor nerves 可分為兩型：**Gamma-dynamic（γd）**主要活化 nucl
 <figcaption>Figure 554. Details of nerve connections from the nuclear bag and nuclear chain muscle spindle fibers.</figcaption>
 </figure>
 
-## Muscle Stretch Reflex
+## Muscle <span style="color:#e2e8f0">Stretch Reflex</span>
 
 ### 牽張反射的神經線路
 
-Figure 555 顯示 muscle spindle stretch reflex 的基本線路。Type Ia proprioceptor nerve fiber 起源於 muscle spindle，進入脊髓背根，直接與支配同一肌肉的前角運動神經元形成突觸。這是**單突觸**路徑，使反射能在最短延遲時間內回到肌肉。
+Figure 555 顯示 muscle spindle <span style="color:#e2e8f0">stretch reflex</span> 的基本線路。Type Ia proprioceptor nerve fiber 起源於 muscle spindle，進入脊髓背根，直接與支配同一肌肉的前角運動神經元形成突觸。這是**單突觸**路徑，使反射能在最短延遲時間內回到肌肉。
 
 <figure>
 <img src="/images/guyton/55f555.jpg" alt="Stretch reflex circuit">
@@ -100,7 +100,7 @@ Figure 556 顯示：當來自脊髓的信號以每秒 8 次的不平滑頻率刺
 
 ## Role of the Muscle Spindle in Voluntary Motor Activity
 
-### Alpha-Gamma Coactivation
+### <span style="color:#60a5fa">Alpha-Gamma Coactivation</span>
 
 約 31% 的肌肉運動神經纖維是小型 gamma efferent fibers 而非大型 alpha motor fibers。當來自 motor cortex 或其他腦區的訊號傳至 alpha motor neurons 時，多數情況下 gamma motor neurons 也會同時被刺激，稱為 **alpha-gamma coactivation**。
 
@@ -114,7 +114,7 @@ Gamma efferent system 主要由腦幹的 bulboreticular facilitatory region 驅�
 
 ### 臨床上評估Stretch Reflex
 
-幾乎每次臨床身體檢查都會引出多個牽張反射，目的在判斷大腦傳入脊髓的「背景興奮」或「 tone」。臨床上常用 knee jerk（膝跳反射）評估：輕敲 patellar tendon 會瞬間拉伸股四頭肌，引發 dynamic stretch reflex，使小腿向前踢出。
+幾乎每次臨床身體檢查都會引出多個牽張反射，目的在判斷大腦傳入脊髓的「背景興奮」或「 tone」。臨床上常用 <span style="color:#f87171">knee jerk</span>（膝跳反射）評估：輕敲 <span style="color:#f87171">patellar tendon</span> 會瞬間拉伸股四頭肌，引發 dynamic stretch reflex，使小腿向前踢出。
 
 ### 反射與脊髓中心狀態
 
@@ -168,7 +168,7 @@ Flexor reflex 的途徑不是直接傳至前角運動神經元，而是首先進
 
 <figure>
 <img src="/images/guyton/55f559.jpg" alt="Flexor and crossed extensor reflex">
-<figcaption>Figure 559. Flexor reflex, crossed extensor reflex, and reciprocal inhibition.</figcaption>
+<figcaption>Figure 559. Flexor reflex, crossed extensor reflex, and <span style="color:#60a5fa">reciprocal inhibition</span>.</figcaption>
 </figure>
 
 ### Flexor Reflex的時序特性

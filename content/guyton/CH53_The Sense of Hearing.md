@@ -1,4 +1,4 @@
----
+
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH53"
 title: "The Sense of Hearing"
@@ -14,13 +14,13 @@ key_points:
 
 ## 章節導讀
 
-聽覺是將空氣中的壓力波動轉換為神經訊號的複雜過程。本章從聲波進入外耳開始，依序說明聲音如何通過中耳的鼓膜與聽小骨鏈進行阻抗匹配、最終驅動內耳 cochlea 中的 fluid vibration。接著探討 basilar membrane 的行波（traveling wave）現象——這是頻率分析的核心機制：不同頻率的聲波在 basilar membrane 的不同位置達到最大振幅，高頻靠近基底（oval window），低頻靠近頂端（helicotrema）。
+聽覺是將空氣中的壓力波動轉換為神經訊號的複雜過程。本章從聲波進入外耳開始，依序說明聲音如何通過中耳的鼓膜與聽小骨鏈進行阻抗匹配、最終驅動內耳 <span style="color:#22d3ee">cochlea</span> 中的 fluid vibration。接著探討 basilar membrane 的行波（<span style="color:#60a5fa">traveling wave</span>）現象——這是頻率分析的核心機制：不同頻率的聲波在 basilar membrane 的不同位置達到最大振幅，高頻靠近基底（<span style="color:#22d3ee">oval window</span>），低頻靠近頂端（helicotrema）。
 
-Organ of Corti 中的 hair cells 是真正的受器結構。Inner hair cells 負責將機械振動轉換為神經衝動，約占所有聽神經纖維的 90-95%；outer hair cells 則透過其收縮與僵硬度變化來調整整個受器系統的靈敏度。Hair cells 的 Stereocilia 彎曲會打開 K+ 通道，引發去極化並釋放麩胺酸神經傳遞物質。
+<span style="color:#e2e8f0">Organ of Corti</span> 中的 <span style="color:#60a5fa">hair cell</span>s 是真正的受器結構。Inner <span style="color:#60a5fa">hair cell</span>s 負責將機械振動轉換為神經衝動，約占所有聽神經纖維的 90-95%；<span style="color:#60a5fa">outer hair cell</span>s 則透過其收縮與僵硬度變化來調整整個受器系統的靈敏度。Hair cells 的 <span style="color:#60a5fa">Stereocilia</span> 彎曲會打開 K+ 通道，引發去極化並釋放麩胺酸神經傳遞物質。
 
-最後，本章說明聽覺路徑從 cochlear nuclei 經 superior olivary nucleus、lateral lemniscus、inferior colliculus 到 medial geniculate nucleus，最後投射至顳葉 primary auditory cortex 的完整路徑，以及大腦如何判斷聲音頻率、強度與方向。
+最後，本章說明聽覺路徑從 <span style="color:#22d3ee">cochlea</span>r nuclei 經 superior olivary nucleus、lateral lemniscus、inferior colliculus 到 medial geniculate nucleus，最後投射至顳葉 primary auditory cortex 的完整路徑，以及大腦如何判斷聲音頻率、強度與方向。
 
-## Tympanic Membrane and the Ossicular System
+## <span style="color:#22d3ee">Tympanic Membrane</span> and the Ossicular System
 
 ### 聲音從鼓膜傳導至Cochlea
 
@@ -36,7 +36,7 @@ Stapes faceplate 每一次聲波振動的位移幅度約為 malleus 柄位移幅
 
 此外，鼓膜表面積約 55 平方毫米，而 stapes faceplate 平均面積僅 3.2 平方毫米。這個 17 倍的面積差異乘以槓桿系統的 1.3 倍比值，使作用於 cochlear fluid 的總力量約為聲波作用於鼓膜時的 22 倍。
 
-因為 fluid 的慣性遠大於空氣，需要更大的力量才能驅動 fluid 振動。因此，鼓膜與聽小骨系統提供了空氣中聲波與 cochlea fluid 振動之間的**阻抗匹配**（impedance matching）。在 300 至 3000 Hz 的頻率範圍內，阻抗匹配效率約為 50% 至 75%，使大部分聲波能量得以有效利用。
+因為 fluid 的慣性遠大於空氣，需要更大的力量才能驅動 fluid 振動。因此，鼓膜與聽小骨系統提供了空氣中聲波與 cochlea fluid 振動之間的**阻抗匹配**（<span style="color:#e2e8f0">impedance matching</span>）。在 300 至 3000 Hz 的頻率範圍內，阻抗匹配效率約為 50% 至 75%，使大部分聲波能量得以有效利用。
 
 若缺乏聽小骨與鼓膜，聲波仍可直接穿過中耳空氣進入 oval window 的 cochlea，但聽覺敏感度會下降 15 至 20 分貝，相當於從中等音量降至幾乎聽不清的語音水平。
 
@@ -61,14 +61,14 @@ Stapes faceplate 每一次聲波振動的位移幅度約為 malleus 柄位移幅
 
 ### 功能解剖
 
-Cochlea 是一組盤繞的管腔系統（如 Figure 531 與 532 所示），由三條並行的管子組成：scala vestibuli、scala media 與 scala tympani。Scala vestibuli 與 scala media 以 Reissner's membrane（又稱 vestibular membrane）分隔；scala tympani 與 scala media 以 basilar membrane 分隔。Organ of Corti 位於 basilar membrane 表面，含有對機械振動敏感的 hair cells，是產生聽覺神經衝動的接受器末梢。
+Cochlea 是一組盤繞的管腔系統（如 Figure 531 與 532 所示），由三條並行的管子組成：<span style="color:#22d3ee">scala vestibuli</span>、<span style="color:#22d3ee">scala media</span> 與 <span style="color:#22d3ee">scala tympani</span>。Scala vestibuli 與 scala media 以 Reissner's membrane（又稱 vestibular membrane）分隔；scala tympani 與 scala media 以 basilar membrane 分隔。<span style="color:#e2e8f0">Organ of Corti</span> 位於 basilar membrane 表面，含有對機械振動敏感的 hair cells，是產生聽覺神經衝動的接受器末梢。
 
 <figure>
 <img src="/images/guyton/53f532.jpg" alt="Cochlea structure">
 <figcaption>Figure 532. The cochlea (A) and section through one of the turns of the cochlea (B).</figcaption>
 </figure>
 
-Reissner's membrane 非常薄且易動，不阻礙聲波振動從 scala vestibuli 進入 scala media。因此，就 fluid 傳導而言，scala vestibuli 與 scala media 可視為單一腔室。Reissner's membrane 由 stria vascularis 維持 scala media 中特殊液體（endolymph）的組成，這對 hair cells 的正常功能必不可少。
+Reissner's membrane 非常薄且易動，不阻礙聲波振動從 scala vestibuli 進入 scala media。因此，就 fluid 傳導而言，scala vestibuli 與 scala media 可視為單一腔室。Reissner's membrane 由 stria vascularis 維持 scala media 中特殊液體（<span style="color:#fb923c">endolymph</span>）的組成，這對 hair cells 的正常功能必不可少。
 
 聲波振動從 stapes faceplate 進入 scala vestibuli 的 oval window。Faceplate 以鬆弛的環狀韌帶與窗緣連接，可以隨聲波振動向內或向外移動。向內移動使 fluid 向前經 scala vestibuli 與 scala media 流動；向外移動使 fluid 向後流動。
 
@@ -90,7 +90,7 @@ Basilar fibers 的長度從 oval window 處的約 0.04 毫米逐漸增加至 coc
 當 stapes 足部向內推壓 oval window 時，因為 cochlea 周圍皆為骨壁，round window 必須向外鼓起。聲波進入 oval window 的初始效應是使 cochlea 基底的 basilar membrane 向 round window 方向彎曲。然而，basilar fibers 彎曲時產生的彈性張力會引發沿 basilar membrane 向 helicotrema 方向傳播的 fluid wave。
 
 <figure>
-<img src="/images/guyton/53f534.jpg" alt="Traveling waves">
+<img src="/images/guyton/53f534.jpg" alt="<span style="color:#60a5fa">Traveling wave</span>s">
 <figcaption>Figure 534. "Traveling waves" along the basilar membrane for high- (A), medium- (B), and low-frequency (C) sounds.</figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ Figure 535B 顯示不同頻率聲音的振幅模式：8000 Hz 聲音的最大振
 
 ## Function of the Organ of Corti
 
-Organ of Corti（如 Figure 532 與 536 所示）是根據 basilar membrane 振動產生神經衝動的受器器官。Organ of Corti 位於 basilar fibers 與 basilar membrane 表面。真正的感覺受器是兩種特化的神經細胞——hair cells：約 3500 個內毛細胞（inner hair cells）排成單列，直徑約 12 微米；約 12,000 個外毛細胞（outer hair cells）排成三或四列，直徑僅約 8 微米。
+Organ of Corti（如 Figure 532 與 536 所示）是根據 basilar membrane 振動產生神經衝動的受器器官。Organ of Corti 位於 basilar fibers 與 basilar membrane 表面。真正的感覺受器是兩種特化的神經細胞——hair cells：約 3500 個內毛細胞（<span style="color:#60a5fa">inner hair cell</span>s）排成單列，直徑約 12 微米；約 12,000 個外毛細胞（<span style="color:#60a5fa">outer hair cell</span>s）排成三或四列，直徑僅約 8 微米。
 
 Hair cells 的底部與側面與 cochlear nerve fibers 形成突觸網路。這些神經末梢中約 90% 至 95% 終止於內毛細胞，強調了內毛細胞在聲音偵測中的特殊重要性。
 
@@ -133,7 +133,7 @@ Figure 537A 顯示 basilar membrane 振動如何刺激 hair endings。外毛細�
 <figcaption>Figure 537. A, Stimulation of the hair cells by to and fro movement of the hairs projecting into the gel coating of the tectorial membrane. B, Transduction of mechanical energy into neural signals by the hair cells.</figcaption>
 </figure>
 
-### Inner Hair Cells是主要的聽覺訊號來源
+### <span style="color:#60a5fa">Inner Hair Cell</span>s是主要的聽覺訊號來源
 
 雖然外毛細胞數量是內毛細胞的三到四倍，但約 90% 的聽神經纖維是由內毛細胞而非外毛細胞活化。然而，若外毛細胞受損而內毛細胞仍完全正常運作，仍會造成大量聽力損失。因此推測外毛細胞以某種方式控制內毛細胞對不同音高的敏感度，稱為受器系統的「調諧」（tuning）。
 
@@ -147,7 +147,7 @@ Figure 537A 顯示 basilar membrane 振動如何刺激 hair endings。外毛細�
 
 ### Endocochlear Potential
 
-Scala media 充滿稱為 endolymph 的液體，與 scala vestibuli 和 scala tympani 中的 perilymph 不同。Endolymph 由 stria vascularis（scala media 外壁的高度血管化區域）分泌，含有高濃度鉀離子與低濃度鈉離子，與 perilymph 的成分正好相反。
+Scala media 充滿稱為 endolymph 的液體，與 scala vestibuli 和 scala tympani 中的 <span style="color:#fb923c">perilymph</span> 不同。Endolymph 由 stria vascularis（scala media 外壁的高度血管化區域）分泌，含有高濃度鉀離子與低濃度鈉離子，與 perilymph 的成分正好相反。
 
 Endolymph 與 perilymph 之間恆定存在約 +80 毫伏特的電位差（scala media 內為正），稱為 endocochlear potential，由 stria vascularis 持續將正鉀離子分泌進入 scala media 所產生。
 
@@ -226,7 +226,7 @@ Figure 5310 顯示兩個分開的細分區域——primary auditory cortex 與 a
 
 ### Primary Auditory Cortex的聲音頻率感知
 
-在 primary auditory cortex 與 auditory association areas 中已描述至少六個 tonotopic maps。在每個地圖中，高頻聲音活化一端的神經元，低頻聲音活化另一端。大多數地圖中，低頻聲音位於前側，高頻聲音位於後側。
+在 primary auditory cortex 與 auditory association areas 中已描述至少六個 <span style="color:#e2e8f0">tonotopic</span> maps。在每個地圖中，高頻聲音活化一端的神經元，低頻聲音活化另一端。大多數地圖中，低頻聲音位於前側，高頻聲音位於後側。
 
 為什麼聽覺皮質有這麼多不同的 tonotopic maps？答案是：每個獨立區域都在解讀聲音的某個特定特徵。例如，primary auditory cortex 中的一個大地圖幾乎肯定用於區分聲音頻率並產生音高的心理感覺。另一個地圖可能用於偵測聲音來源的方向。其他聽覺皮質區域偵測特殊性質，如聲音的突然開始，或許還有噪音與純頻率聲音之間的差異。
 

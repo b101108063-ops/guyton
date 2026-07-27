@@ -1,4 +1,4 @@
----
+
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH57"
 title: "Cerebellum and Basal Ganglia Contributions to Overall Motor Control"
@@ -18,11 +18,11 @@ key_points:
 
 小腦與基底核是中樞神經系統中與運動控制密切相關的兩個重要皮質下結構。小腦位於顱後窩，儘管不直接發起運動，卻通過整合感覺回饋與運動指令，扮演運動協調與精確控制的關鍵角色。基底核則位於前腦深部，是啟動與調節自主運動的核心結構。
 
-小腦的功能基於約 30 百萬個高度相似的功能單位，每個單位的核心是一個巨大的 Purkinje cell。輸入訊息通過兩種主要纖維傳入小腦皮質：climbing fibers（起源於下橄欖核）與 mossy fibers（起源於腦幹與脊髓的多個來源）。小腦皮質處理這些資訊後，通過抑制性 Purkinje cells 調控 deep cerebellar nuclei 的輸出。
+小腦的功能基於約 30 百萬個高度相似的功能單位，每個單位的核心是一個巨大的 Purkinje cell。輸入訊息通過兩種主要纖維傳入小腦皮質：<span style="color:#60a5fa">climbing fiber</span>s（起源於下橄欖核）與 <span style="color:#60a5fa">mossy fiber</span>s（起源於腦幹與脊髓的多個來源）。小腦皮質處理這些資訊後，通過抑制性 Purkinje cells 調控 deep cerebellar nuclei 的輸出。
 
-基底核包括 caudate nucleus、putamen（合稱 striatum）、globus pallidus、subthalamic nucleus 與 substantia nigra。基底核通過直接與間接兩條路徑調控運動輸出：direct pathway 促進運動，indirect pathway 抑制運動。這兩條路徑的平衡對於正常運動控制至關重要。
+基底核包括 <span style="color:#22d3ee">caudate nucleus</span>、<span style="color:#22d3ee">putamen</span>（合稱 striatum）、<span style="color:#22d3ee">globus pallidus</span>、<span style="color:#22d3ee">subthalamic nucleus</span> 與 <span style="color:#22d3ee">substantia nigra</span>。基底核通過直接與間接兩條路徑調控運動輸出：<span style="color:#60a5fa">direct pathway</span> 促進運動，in<span style="color:#60a5fa">direct pathway</span> 抑制運動。這兩條路徑的平衡對於正常運動控制至關重要。
 
-臨床上，基底核功能異常導致多種運動障礙：Parkinson 病（direct pathway 退化導致運動減少）與 Huntington 舞蹈症（indirect pathway 退化導致運動過多）是兩個典型例子。
+臨床上，基底核功能異常導致多種運動障礙：Parkinson 病（direct pathway 退化導致運動減少）與 Huntington 舞蹈症（<span style="color:#60a5fa">indirect pathway</span> 退化導致運動過多）是兩個典型例子。
 
 ## Cerebellum: Gross Anatomical Organization
 
@@ -32,11 +32,11 @@ key_points:
 
 小腦可分為三個主要功能區：
 
-**Flocculonodular lobe（前庭小腦）**：位於最古老的小腦部分（archecerebellum），主要接收來自前庭裝置的輸入，負責維持平衡與姿勢穩定。
+**<span style="color:#e2e8f0">Flocculonodular lobe</span>（前庭小腦）**：位於最古老的小腦部分（<span style="color:#e2e8f0">archecerebellum</span>），主要接收來自前庭裝置的輸入，負責維持平衡與姿勢穩定。
 
-**Vermis 與 intermediate zones（脊髓小腦）**：構成 paleocerebellum，接收來自脊髓的本體感覺與運動訊息，負責運動協調與姿勢控制。
+**Vermis 與 intermediate zones（脊髓小腦）**：構成 <span style="color:#e2e8f0">paleocerebellum</span>，接收來自脊髓的本體感覺與運動訊息，負責運動協調與姿勢控制。
 
-**Lateral hemispheres（大腦小腦）**：最新的小腦部分（neocerebellum），與大腦皮質形成緊密往返聯繫，負責運動計畫、序列執行與認知功能。
+**Lateral hemispheres（大腦小腦）**：最新的小腦部分（<span style="color:#e2e8f0">neocerebellum</span>），與大腦皮質形成緊密往返聯繫，負責運動計畫、序列執行與認知功能。
 
 ## Afferent Pathways to the Cerebellum
 
@@ -48,7 +48,7 @@ key_points:
 
 **Olivocerebellar tract**：從下橄欖核到小腦各區，接受來自大腦運動皮質、基底核、網狀結構廣泛區域與脊髓纖維的輸入。
 
-**Vestibulocerebellar fibers**：部分起源於前庭裝置本身，部分來自腦幹前庭核，終止於 flocculonodular lobe 與 fastigial nucleus。
+**Vestibulocerebellar fibers**：部分起源於前庭裝置本身，部分來自腦幹前庭核，終止於 flocculonodular lobe 與 <span style="color:#22d3ee">fastigial nucleus</span>。
 
 **Reticulocerebellar fibers**：起源於腦幹網狀結構各區，終止於小腦中線區（主要是 vermis）。
 
@@ -71,7 +71,7 @@ key_points:
 
 ### Deep Cerebellar Nuclei
 
-小腦深部每側有三個深部核團：dentate nucleus、interposed nucleus 與 fastigial nucleus。這些核團接收來自兩個來源的訊息：（1）小腦皮質；（2）深部感覺傳入。
+小腦深部每側有三個深部核團：<span style="color:#22d3ee">dentate nucleus</span>、<span style="color:#22d3ee">interposed nucleus</span> 與 fastigial nucleus。這些核團接收來自兩個來源的訊息：（1）小腦皮質；（2）深部感覺傳入。
 
 每當輸入訊息進入小腦時，它一分為二：（1）直接到達其中一個深部核；（2）到達覆蓋該核的小腦皮質相應區域。然後不到一秒後，小腦皮質發出抑制性輸出訊息至深部核。因此，所有輸入訊息最終以初始興奮訊息（隨後跟隨抑制性訊息）形式離開小腦。
 
@@ -107,13 +107,13 @@ key_points:
 
 小腦的傳入纖維主要有兩種類型：
 
-**Climbing fibers**：起源於下橄欖核，每條 climbing fiber 只與一個 Purkinje cell 形成約 300-400 個興奮性突觸，產生強大的強直性激活。Climbing fiber 輸入被認為攜帶「error signal」——運動執行與預期之間的偏差。
+**<span style="color:#60a5fa">Climbing fiber</span>s**：起源於下橄欖核，每條 climbing fiber 只與一個 Purkinje cell 形成約 300-400 個興奮性突觸，產生強大的強直性激活。Climbing fiber 輸入被認為攜帶「error signal」——運動執行與預期之間的偏差。
 
-**Mossy fibers**：起源於脊髓、前庭核、腦幹網狀結構與 pontine nuclei等多個來源，與顆粒細胞形成興奮性突觸。顆粒細胞發出平行纖維（parallel fibers）水平穿過 Purkinje cell 樹突，與多個 Purkinje cells 形成弱興奮性突觸。
+**Mossy fibers**：起源於脊髓、前庭核、腦幹網狀結構與 pontine nuclei等多個來源，與顆粒細胞形成興奮性突觸。顆粒細胞發出平行纖維（<span style="color:#60a5fa">parallel fiber</span>s）水平穿過 Purkinje cell 樹突，與多個 Purkinje cells 形成弱興奮性突觸。
 
 ### 神經元線路
 
-Deep nuclear cell 持續同時受到興奮性與抑制性影響。興奮性影響來自直接與傳入纖維的連接；抑制性影響完全來自小腦皮質 Purkinje cell 的輸出。Purkinje cell 是抑制性細胞，其 GABAergic 輸出抑制 deep nuclear cells。
+Deep nuclear cell 持續同時受到興奮性與抑制性影響。興奮性影響來自直接與傳入纖維的連接；抑制性影響完全來自小腦皮質 Purkinje cell 的輸出。Purkinje cell 是抑制性細胞，其 <span style="color:#fb923c">GABA</span>ergic 輸出抑制 deep nuclear cells。
 
 這種結構的意義：當來自攀爬纖維或苔狀纖維的輸入信號到達時，deep nuclear cells 先短暫興奮，然後 Purkinje cells 被激活並抑制 deep nuclear cells，形成一個「時序濾波」——選擇性地增強特定時間模式的輸入。
 

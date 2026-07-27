@@ -1,4 +1,4 @@
----
+
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH56"
 title: "Cortical and Brain Stem Control of Motor Function"
@@ -16,25 +16,25 @@ key_points:
 
 ## 章節導讀
 
-大腦皮質與腦幹共同構成運動控制的兩大中高層級系統。本章首先說明運動皮質的結構與功能分區：Primary motor cortex（M1）位於中央前回，負責精確的遠端肢體運動控制；Premotor area 根據外部感覺線索指導運動；Supplementary motor area（SMA）在沒有外部線索時負責內部生成的運動序列。
+大腦皮質與腦幹共同構成運動控制的兩大中高層級系統。本章首先說明運動皮質的結構與功能分區：<span style="color:#22d3ee">Primary motor cortex</span>（M1）位於中央前回，負責精確的遠端肢體運動控制；<span style="color:#22d3ee">Premotor area</span> 根據外部感覺線索指導運動；<span style="color:#22d3ee">Supplementary motor area</span>（SMA）在沒有外部線索時負責內部生成的運動序列。
 
-皮質脊髓徑（又稱 Pyramidal tract）是運動皮質最重要的輸出路徑。約 30% 來自 primary motor cortex，30% 來自 premotor 與 supplementary motor areas，40% 來自体感覺皮質。大部分纖維在低位腦幹交叉至對側，形成 lateral corticospinal tract。Betz cells 是皮質中最大的神經元，佔皮質脊髓徑纖維總數僅 3%，但傳導速度可達 70 m/sec。
+皮質脊髓徑（又稱 Pyramidal tract）是運動皮質最重要的輸出路徑。約 30% 來自 <span style="color:#22d3ee">primary motor cortex</span>，30% 來自 premotor 與 supplementary motor areas，40% 來自体感覺皮質。大部分纖維在低位腦幹交叉至對側，形成 lateral <span style="color:#60a5fa">corticospinal tract</span>。<span style="color:#60a5fa">Betz cell</span>s 是皮質中最大的神經元，佔皮質脊髓徑纖維總數僅 3%，但傳導速度可達 <span style="color:#34d399">70 m/sec</span>。
 
-紅核（Red nucleus）接受來自運動皮質的直接輸入，提供皮質運動訊號至脊髓的替代路徑。Rubrospinal tract 與 corticospinal tract 合稱「外側運動系統」，支配遠端肢體肌肉。
+紅核（<span style="color:#22d3ee">Red nucleus</span>）接受來自運動皮質的直接輸入，提供皮質運動訊號至脊髓的替代路徑。<span style="color:#60a5fa">Rubrospinal tract</span> 與 <span style="color:#60a5fa">corticospinal tract</span> 合稱「外側運動系統」，支配遠端肢體肌肉。
 
-腦幹的網狀結構與前庭核在姿勢控制中扮演核心角色。橋腦網狀結構（pontine reticular nuclei）持續興奮抗重力肌肉；髓質網狀結構（medullary reticular nuclei）則抑制這些肌肉。正常情況下兩者相互抗衡；當中腦以下的腦幹被橫切時，髓質抑制系統失去高級腦區的輸入而無法運作，導致橋腦系統過度興奮，產生去大腦僵直（decerebrate rigidity）。
+腦幹的網狀結構與前庭核在姿勢控制中扮演核心角色。橋腦網狀結構（pontine reticular nuclei）持續興奮抗重力肌肉；髓質網狀結構（medullary reticular nuclei）則抑制這些肌肉。正常情況下兩者相互抗衡；當中腦以下的腦幹被橫切時，髓質抑制系統失去高級腦區的輸入而無法運作，導致橋腦系統過度興奮，產生去大腦僵直（<span style="color:#60a5fa">decerebrate rigidity</span>）。
 
 ## Motor Cortex Organization
 
 ### Primary Motor Cortex (Area Pyramidalis)
 
-Primary motor cortex 位於中央前回的 Brodmann area 4，是運動皮質最重要輸出區域。運動皮質的神經元同樣依垂直柱狀結構組織，每個柱子直徑約幾分之一毫米，含數千個神經元，作為一個功能單位運作。
+Primary motor cortex 位於中央前回的 <span style="color:#e2e8f0">Brodmann area 4</span>，是運動皮質最重要輸出區域。運動皮質的神經元同樣依垂直柱狀結構組織，每個柱子直徑約幾分之一毫米，含數千個神經元，作為一個功能單位運作。
 
 每個柱子通常刺激一組協同肌肉，有時僅刺激單一肌肉。皮質第五層的錐體細胞（pyramidal cells）發出皮質脊髓纖維。訊號輸入通過第二至第四層離開，第六層發出主要與其他皮質區域通訊的纖維。
 
-### Premotor Area
+### <span style="color:#22d3ee">Premotor Area</span>
 
-Premotor area 位於 primary motor cortex 前方（Brodmann area 6）。當運動皮質根據來自體感覺皮質的外部感覺資訊準備運動時，premotor area 負責根據這些感覺線索「計畫」運動。
+Premotor area 位於 primary motor cortex 前方（<span style="color:#e2e8f0">Brodmann area 6</span>）。當運動皮質根據來自體感覺皮質的外部感覺資訊準備運動時，premotor area 負責根據這些感覺線索「計畫」運動。
 
 Premotor area 包括多個功能次區：
 
@@ -44,7 +44,7 @@ Premotor area 包括多個功能次區：
 
 **頭部旋轉區**：位於運動聯合區稍高處，電刺激可引發頭部旋轉，與眼動區密切相關。
 
-**手部技巧區**：位於手與手指主要運動皮質前方的 premotor area，對「手部技巧」特別重要。該區損傷導致手部運動不協調且無目的（motor apraxia）。
+**手部技巧區**：位於手與手指主要運動皮質前方的 premotor area，對「手部技巧」特別重要。該區損傷導致手部運動不協調且無目的（<span style="color:#f87171">motor apraxia</span>）。
 
 ### Supplementary Motor Area
 
@@ -67,7 +67,7 @@ Supplementary motor area（SMA）位於半球內側面，緊鄰運動皮質上�
 <figcaption>Figure 564. Corticospinal (pyramidal) tract.</figcaption>
 </figure>
 
-Betz cells 是最大的錐體細胞，僅見於 primary motor cortex，直徑約 60 微米，約有 34,000 條這樣的大纖維，傳導速度約 70 m/sec，佔皮質脊髓徑總纖維數（超過 100 萬條）的僅 3%。其餘 97% 主要是小於 4 微米的纖維，傳導背景強張性訊號至脊髓運動區。
+<span style="color:#60a5fa">Betz cell</span>s 是最大的錐體細胞，僅見於 primary motor cortex，直徑約 60 微米，約有 34,000 條這樣的大纖維，傳導速度約 70 m/sec，佔皮質脊髓徑總纖維數（超過 100 萬條）的僅 3%。其餘 97% 主要是小於 4 微米的纖維，傳導背景強張性訊號至脊髓運動區。
 
 ### 其他運動皮質纖維路徑
 
@@ -76,7 +76,7 @@ Betz cells 是最大的錐體細胞，僅見於 primary motor cortex，直徑約
 1. Giant Betz cells 發出短側枝回至皮質，在 Betz cells 放電時抑制相鄰皮質區域，「銳化」興奮訊號的邊界。
 2. 大量纖維進入尾狀核與殼核，再從那裡進入腦幹與脊髓，控制身體姿勢肌肉收縮。
 3. 中量纖維進入中腦紅核，發出 rubespinal tract。
-4. 中量纖維進入腦幹網狀結構與前庭核，發出 reticulospinal 與 vestibulospinal tracts，或進入小腦。
+4. 中量纖維進入腦幹網狀結構與前庭核，發出 reticulospinal 與 <span style="color:#60a5fa">vestibulospinal tract</span>s，或進入小腦。
 5. 大量纖維在橋核形成突觸，發出 pontocerebellar fibers 進入小腦。
 6. 側枝也終止於下橄欖核，發出 olivocerebellar fibers 至小腦各區。
 

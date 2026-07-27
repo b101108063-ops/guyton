@@ -1,4 +1,4 @@
----
+
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH51"
 title: "The Eye: II. Receptor and Neural Function of the Retina"
@@ -11,25 +11,25 @@ summary: "本章深入視網膜的感光與神經功能。視網膜的感光細�
 
 ## 章節導讀
 
-視網膜是眼球最重要的感光組織，其結構之精密與功能之複雜程度堪比大腦皮質。本章首先介紹視網膜的分層結構，說明感光細胞（Rods 與 Cones）如何將光子能量轉換為電訊號，以及 pigment layer 的 melanin 如何防止光線反射確保成像清晰。
+視網膜是眼球最重要的感光組織，其結構之精密與功能之複雜程度堪比大腦皮質。本章首先介紹視網膜的分層結構，說明感光細胞（Rods 與 <span style="color:#60a5fa">Cone</span>s）如何將光子能量轉換為電訊號，以及 pigment layer 的 melanin 如何防止光線反射確保成像清晰。
 
-視網膜感光細胞的 signal transduction 機制極為獨特：**光子觸發 rhodopsin 分解，啟動 G 蛋白（transducin），活化 phosphodiesterase，水解 cGMP，關閉 Na⁺ 通道，最終導致超極化**——這與幾乎所有其他感覺受器在刺激時去極化的方向相反。這套 cascade 極為放大：一個光子可關閉數百萬個 Na⁺ 離子的流動，使 rods 在極暗環境下仍能偵測單一光子。Cones 的機制類似但敏感度較低（為 rods 的 1/30–1/300），且具有三種對不同波長敏感的色素，構成色彩視覺的基礎。
+視網膜感光細胞的 signal transduction 機制極為獨特：**光子觸發 <span style="color:#60a5fa">rhodopsin</span> 分解，啟動 G 蛋白（transducin），活化 phosphodiesterase，水解 <span style="color:#60a5fa">cGMP</span>，關閉 Na⁺ 通道，最終導致超極化**——這與幾乎所有其他感覺受器在刺激時去極化的方向相反。這套 cascade 極為放大：一個光子可關閉數百萬個 Na⁺ 離子的流動，使 rods 在極暗環境下仍能偵測單一光子。<span style="color:#60a5fa">Cone</span>s 的機制類似但敏感度較低（為 rods 的 1/30–1/300），且具有三種對不同波長敏感的色素，構成色彩視覺的基礎。
 
 ## 視網膜的結構
 
 ### 感光細胞的分布
 
-視網膜含約 1.2 億個 **rods（桿狀細胞）** 與約 600 萬個 **cones（錐狀細胞）**。Rods 分布於視網膜周邊，負責暗光覺與周邊視力；Cones 密集分布於 **fovea centralis（中央凹）**，負責精細視力與色彩視覺。
+視網膜含約 1.2 億個 **rods（桿狀細胞）** 與約 600 萬個 **cones（錐狀細胞）**。Rods 分布於視網膜周邊，負責暗光覺與周邊視力；Cones 密集分布於 **<span style="color:#22d3ee">fovea centralis</span>（中央凹）**，負責精細視力與色彩視覺。
 
 ### 視網膜的血液供應
 
-視網膜的血液供應分為兩層：**視網膜中央动脉** 滋養視網膜的內層神經細胞；**脈絡膜（choroid）** 的豐富血管則滋養視網膜外層（特別是感光細胞外段的營養與氧氣供應）。兩層血液供應相互獨立但又密切配合。
+視網膜的血液供應分為兩層：**視網膜中央动脉** 滋養視網膜的內層神經細胞；**脈絡膜（<span style="color:#22d3ee">choroid</span>）** 的豐富血管則滋養視網膜外層（特別是感光細胞外段的營養與氧氣供應）。兩層血液供應相互獨立但又密切配合。
 
 ### 視網膜色素層的功能
 
 Pigment layer 含 **melanin（黑色素）**，吸收多餘光線，防止光線在眼球內來回反射——如同相機內側的黑色植絨。缺乏黑色素的**白化症患者**，光線在視網膜與鞏膜之間反覆反射，單一光點可興奮大量感光細胞，導致視力嚴重受損（通常為 20/100–20/200，而非正常的 20/20）。
 
-Pigment layer 另一重要功能是**儲存大量維生素 A**，作為 rhodopsin 合成的前驅物。
+Pigment layer 另一重要功能是**儲存大量維生素 A**，作為 <span style="color:#60a5fa">rhodopsin</span> 合成的前驅物。
 
 ### 視網膜剝離
 
@@ -39,9 +39,9 @@ Pigment layer 另一重要功能是**儲存大量維生素 A**，作為 rhodopsi
 
 ### Rhodopsin 與其光分解
 
-Rods 外段含濃度約 40% 的光敏色素 **rhodopsin（視紫質，又稱 visual purple）**，由蛋白質 **scotopsin** 與類胡蘿蔔素 **11-cis retinal** 組成。只有 **11-cis retinal** 才能與 scotopsin 結合成 rhodopsin。
+Rods 外段含濃度約 40% 的光敏色素 **rhodopsin（視紫質，又稱 <span style="color:#e2e8f0">visual purple</span>）**，由蛋白質 **<span style="color:#60a5fa">scotopsin</span>** 與類胡蘿蔔素 **<span style="color:#fb923c">11-cis retinal</span>** 組成。只有 **11-cis retinal** 才能與 scotopsin 結合成 rhodopsin。
 
-光照時，rhodopsin 內的電子被光能激活， retinal 結構由 **11-cis 型** 瞬間轉變為 **all-trans 型**（直鏈而非彎曲）。這個結構變化使 all-trans retinal 與 scotopsin 分離，引發 cascade：
+光照時，rhodopsin 內的電子被光能激活， retinal 結構由 **11-cis 型** 瞬間轉變為 **all-trans 型**（直鏈而非彎曲）。這個結構變化使 <span style="color:#fb923c">all-trans retinal</span> 與 scotopsin 分離，引發 cascade：
 
 **Bathorhodopsin**（極不穩定，奈秒級衰減）→ **Lumirhodopsin**（微秒級）→ **Metarhodopsin I**（毫秒級）→ **Metarhodopsin II**（約 1 秒）→ **Scotopsin + all-trans retinal**
 
@@ -49,7 +49,7 @@ Rods 外段含濃度約 40% 的光敏色素 **rhodopsin（視紫質，又稱 vis
 
 ### Rhodopsin 的重新合成
 
-All-trans retinal 在酶 **retinal isomerase** 的催化下，需要代謝能量才能轉回 11-cis retinal，後者自動與 scotopsin 重新結合成 rhodopsin。
+All-trans retinal 在酶 **<span style="color:#fb923c">retinal isomerase</span>** 的催化下，需要代謝能量才能轉回 11-cis retinal，後者自動與 scotopsin 重新結合成 rhodopsin。
 
 ### 維生素 A 的角色
 
@@ -57,11 +57,11 @@ All-trans retinal 在酶 **retinal isomerase** 的催化下，需要代謝能量
 
 **夜盲症與維生素 A 缺乏**：維生素 A 嚴重缺乏時，rhodopsin 合成不足，導致夜盲（暗環境下視力極差）。飲食缺乏維生素 A 通常需數月才會出現夜盲（因為肝臟儲存量充足）。靜脈注射維生素 A 有時可在 1 小時內逆轉症狀。
 
-## 感光細胞的電氣訊號——Hyperpolarization
+## 感光細胞的電氣訊號——<span style="color:#60a5fa">Hyperpolarization</span>
 
 ### 感光細胞光照時不是去極化，而是超極化
 
-幾乎所有其他感覺受器在受刺激時都會去極化，但 rods 與 cones 接受光照時，膜電位變得更負（**hyperpolarization**），這是一個極不尋常的現象。
+幾乎所有其他感覺受器在受刺激時都會去極化，但 rods 與 cones 接受光照時，膜電位變得更負（**<span style="color:#60a5fa">hyperpolarization</span>**），這是一個極不尋常的現象。
 
 ### 離子機制
 
@@ -70,7 +70,7 @@ All-trans retinal 在酶 **retinal isomerase** 的催化下，需要代謝能量
 **暗環境（未受刺激）時：**
 
 - 內段：持續透過 **Na⁺/K⁺-ATPase** 將 Na⁺ 泵出、將 K⁺ 泵入
-- 外段：cGMP 含量高，cGMP-gated Na⁺ 通道持續開放，Na⁺ 持續內流（所謂「暗電流」），中和大部分細胞內的負電，使膜電位維持在約 **−40 mV**（比多數神經元的 −70 至 −80 mV 更正）
+- 外段：<span style="color:#60a5fa">cGMP</span> 含量高，cGMP-gated Na⁺ 通道持續開放，Na⁺ 持續內流（所謂「暗電流」），中和大部分細胞內的負電，使膜電位維持在約 **<span style="color:#34d399">−40 mV</span>**（比多數神經元的 −70 至 −80 mV 更正）
 
 **光照時：**
 
@@ -80,7 +80,7 @@ All-trans retinal 在酶 **retinal isomerase** 的催化下，需要代謝能量
 4. cGMP-gated Na⁺ 通道關閉
 5. Na⁺ 內流停止，但內段 Na⁺/K⁺-ATPase 仍持續泵出 Na⁺ → 細胞內淨失正電荷 → 膜電位趨負（最大可達 −70 至 −80 mV，接近 K⁺ 的平衡電位）
 
-圖 51-7 完整呈現這套 **phototransduction cascade**。
+圖 51-7 完整呈現這套 **<span style="color:#60a5fa">phototransduction</span> cascade**。
 
 ### 受器電位的特性
 
@@ -105,7 +105,7 @@ All-trans retinal 在酶 **retinal isomerase** 的催化下，需要代謝能量
 
 ### Cones 的光色素
 
-Cones 的光色素與 rhodopsin 化學組成幾乎相同——差異僅在於 opsin 蛋白部分（Cones 稱為 **photopsin**）。Cones 含三種不同光色素，分別對 **藍（445 nm）、綠（535 nm）、紅（570 nm）** 波長的光最敏感（圖 51-8）。
+Cones 的光色素與 rhodopsin 化學組成幾乎相同——差異僅在於 opsin 蛋白部分（Cones 稱為 **<span style="color:#60a5fa">photopsin</span>**）。Cones 含三種不同光色素，分別對 **藍（445 nm）、綠（535 nm）、紅（570 nm）** 波長的光最敏感（圖 51-8）。
 
 三種 Cones 的相對比例與分布決定了色彩知覺與色彩敏感度：某些人可能因基因變異導致某一型 Cones 功能失常，導致**色盲**。
 

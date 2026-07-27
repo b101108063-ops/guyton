@@ -1,4 +1,4 @@
----
+
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH54"
 title: "The Chemical Senses—Taste and Smell"
@@ -14,19 +14,19 @@ key_points:
 
 ## 章節導讀
 
-味覺與嗅覺合稱「化學感受器」，因為兩者的受器都是對特定化學分子產生反應。味覺主要由口腔中的 taste buds 負責，但嗅覺對味覺感知的貢獻同樣重要——這也是感冒時食物嘗起來索然無味的原因。此外，食物的質地（由口腔觸覺偵測）與刺激性物質（如辣椒）也大大影響味覺體驗。
+味覺與嗅覺合稱「化學感受器」，因為兩者的受器都是對特定化學分子產生反應。味覺主要由口腔中的 <span style="color:#e2e8f0">taste bud</span>s 負責，但嗅覺對味覺感知的貢獻同樣重要——這也是感冒時食物嘗起來索然無味的原因。此外，食物的質地（由口腔觸覺偵測）與刺激性物質（如辣椒）也大大影響味覺體驗。
 
-味覺的基本類型分為五種：酸、鹹、甜、苦，以及鮮味（umami）。酸味由氫離子濃度決定；鹹味主要來自鈉離子；甜味與苦味則由多種有機化合物觸發；鮮味則是對含有 L-麩胺酸的食物（如肉類與陳年乳酪）的愉悅感受，與蛋白質攝取密切相關。
+味覺的基本類型分為五種：酸、鹹、甜、苦，以及鮮味（<span style="color:#60a5fa">umami</span>）。酸味由氫離子濃度決定；鹹味主要來自鈉離子；甜味與苦味則由多種有機化合物觸發；鮮味則是對含有 L-麩胺酸的食物（如肉類與陳年乳酪）的愉悅感受，與蛋白質攝取密切相關。
 
-嗅覺的受器位於鼻腔上端的嗅覺上皮，每個 olfactory receptor neuron 都是雙極神經元，能偵測特定類型的氣味分子。本章說明嗅覺受器的分子機制、嗅覺訊號如何投射至 olfactory bulb 並最終到達嗅覺皮質，以及嗅覺適應的神經機制。
+嗅覺的受器位於鼻腔上端的嗅覺上皮，每個 <span style="color:#60a5fa">olfactory receptor</span> neuron 都是雙極神經元，能偵測特定類型的氣味分子。本章說明嗅覺受器的分子機制、嗅覺訊號如何投射至 olfactory bulb 並最終到達嗅覺皮質，以及嗅覺適應的神經機制。
 
 ## Sense of Taste
 
-Taste buds 主要分布於舌頭的三種乳頭上：輪廓乳頭（circumvallate papillae，排列成V形線）、葉狀乳頭（foliate papillae，沿舌側緣的皺褶）與蕈狀乳頭（fungiform papillae，分散於舌面。此外，顎部、扁桃腺柱與咽部也有少量 taste buds。
+<span style="color:#e2e8f0">Taste bud</span>s 主要分布於舌頭的三種乳頭上：輪廓乳頭（<span style="color:#22d3ee">circumvallate papilla</span>e，排列成V形線）、葉狀乳頭（<span style="color:#22d3ee">foliate papilla</span>e，沿舌側緣的皺褶）與蕈狀乳頭（<span style="color:#22d3ee">fungiform papilla</span>e，分散於舌面。此外，顎部、扁桃腺柱與咽部也有少量 taste buds。
 
 每個 taste bud 直徑約 1/30 毫米，長度約 1/16 毫米，由 support cells（支持細胞）與 taste cells（味覺細胞）組成。每個 taste bud 約含 100 個 taste cells，其平均壽命估計約 10 天，會持續被有絲分裂替換。
 
-味覺細胞的頂端環繞 taste pore 排列，多根微絨毛（taste hairs）從味覺細胞頂端突出進入 taste pore。Taste nerve fibers 交織於味覺細胞體之間，受味覺受器細胞刺激後興奮神經末梢。
+味覺細胞的頂端環繞 <span style="color:#e2e8f0">taste pore</span> 排列，多根微絨毛（taste hairs）從味覺細胞頂端突出進入 taste pore。Taste nerve fibers 交織於味覺細胞體之間，受味覺受器細胞刺激後興奮神經末梢。
 
 ## Primary Taste Sensations
 
@@ -42,7 +42,7 @@ Taste buds 主要分布於舌頭的三種乳頭上：輪廓乳頭（circumvallat
 
 **苦味**與甜味相同，並非由單一類別的化學物質引起。幾乎所有苦味物質都是有機物質。兩類特別容易引起苦味的物質是：（1）含氮的長鏈有機物質；（2） alkaloids（生物鹼），包括許多藥物如奎寧、咖啡因、番木鱉鹼與尼古丁。當苦味強度高時，通常會導致人或動物拒絕食物。這無疑是苦味的重要功能，因為許多有毒植物中的致命毒素都是生物鹼，幾乎所有生物鹼都引起強烈苦味後通常導致食物排斥。
 
-**鮮味（umami）** 是日語「美味」的意思，代表一種與酸、鹹、甜、苦不同的愉悅味覺。鮮味是含有 L-麩胺酸（glutamate）的食物（如肉類萃取物與陳年乳酪）的主要味道，被認為對營養與蛋白質攝取具有重要意義。
+**鮮味（umami）** 是日語「美味」的意思，代表一種與酸、鹹、甜、苦不同的愉悅味覺。鮮味是含有 L-麩胺酸（<span style="color:#fb923c">glutamate</span>）的食物（如肉類萃取物與陳年乳酪）的主要味道，被認為對營養與蛋白質攝取具有重要意義。
 
 ## Taste Thresholds
 
@@ -55,7 +55,7 @@ Table 541 列出不同物質的相對味覺指數（味覺閾值的倒數）。�
 
 ### 味覺盲
 
-有些人对某些物質（特別是硫脲化合物）存在味覺盲。常用於展示味覺盲的物質是苯硫尿素（phenylthiocarbamide），約 15% 至 30% 的人對此物質有味覺盲，確切比例取決於測試方法與物質濃度。
+有些人对某些物質（特別是硫脲化合物）存在味覺盲。常用於展示味覺盲的物質是苯硫尿素（<span style="color:#fb923c">phenylthiocarbamide</span>），約 15% 至 30% 的人對此物質有味覺盲，確切比例取決於測試方法與物質濃度。
 
 ## Mechanism of Activation of Taste Receptors
 
@@ -70,13 +70,13 @@ Table 541 列出不同物質的相對味覺指數（味覺閾值的倒數）。�
 - **T1R family**：T1R2+T1R3 負責甜味；T1R1+T1R3 負責鮮味
 - **T2R family**：約 30 種不同受體負責苦味（提供對毒素的防禦）
 
-這些受體活化後，通過 G proteins（尤其是 gustducin）觸發細胞內訊號級聯，包括 adenylate cyclase 抑制與 cAMP 減少，最終關閉離子通道或改變細胞膜電位。
+這些受體活化後，通過 G proteins（尤其是 <span style="color:#60a5fa">gustducin</span>）觸發細胞內訊號級聯，包括 <span style="color:#60a5fa">adenylate cyclase</span> 抑制與 <span style="color:#60a5fa">cAMP</span> 減少，最終關閉離子通道或改變細胞膜電位。
 
 ## Neural Pathways for Taste
 
 來自 taste buds 的神經纖維進入三對腦神經：面神經（VII）的 intermediate nerve 攜帶來自前 2/3 舌頭的味覺；舌咽神經（IX）攜帶來自後 1/3 舌頭的味覺；迷走神經（X）攜帶來自會厭的味覺。
 
-這些纖維全部終止於 medulla 的 nucleus of the solitary tract（SGT，孤束核），然後第二級神經元投射至 thalamus 的 VPM nucleus，最後投射至 primary gustatory cortex（位於insula 與 frontal operculum）。
+這些纖維全部終止於 medulla 的 nucleus of the solitary tract（SGT，孤束核），然後第二級神經元投射至 thalamus 的 VPM nucleus，最後投射至 primary <span style="color:#e2e8f0">gustatory</span> cortex（位於insula 與 frontal operculum）。
 
 嗅覺系統與邊緣系統有直接連接，這解釋了嗅覺與味覺與情緒、行為的強烈聯繫。
 
@@ -84,9 +84,9 @@ Table 541 列出不同物質的相對味覺指數（味覺閾值的倒數）。�
 
 嗅覺是所有感覺中最具生物學原始性的感覺，與情緒與本能行為的關係比任何其他感覺都更為密切。
 
-### Olfactory Membrane and Olfactory Receptor Neurons
+### Olfactory Membrane and <span style="color:#60a5fa">Olfactory Receptor</span> Neurons
 
-嗅覺上皮位於鼻腔上端的兩側很小區域，包括約 6 cm² 的表面積。Olfactory epithelium 包含三種細胞：olfactory receptor neurons（ORNs，嗅覺受器神經元）、supporting cells 與 basal cells（乾性前驅細胞，負責持續再生 ORNs）。
+嗅覺上皮位於鼻腔上端的兩側很小區域，包括約 6 cm² 的表面積。<span style="color:#22d3ee">Olfactory epithelium</span> 包含三種細胞：olfactory receptor neurons（ORNs，嗅覺受器神經元）、supporting cells 與 basal cells（乾性前驅細胞，負責持續再生 ORNs）。
 
 每個 ORN 是雙極神經元，其樹突末端呈圓頂狀，表面有 10-20 根 olfactory cilia，浸於鼻腔黏液中。這些 cilia 是實際的嗅覺受器表面，含有與氣味分子結合並啟動神經衝動的受體蛋白質。每個 ORN 表達**只有一種**類型的 olfactory receptor（OR），但每個 OR 能識別**多種**相關的氣味分子。
 

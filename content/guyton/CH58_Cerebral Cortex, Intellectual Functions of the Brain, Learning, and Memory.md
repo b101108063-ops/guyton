@@ -1,4 +1,4 @@
----
+
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH58"
 title: "Cerebral Cortex, Intellectual Functions of the Brain, Learning, and Memory"
@@ -15,11 +15,11 @@ key_points:
 
 ## 章節導讀
 
-大腦皮質是中樞神經系統最高層級的整合中心，負責意識、思想、語言、記憶與隨意運動。本章說明大腦皮質的結構與功能分區，特別強調幾個關鍵的 association areas：parietooccipitotemporal association area、Wernicke's area、prefrontal cortex 與 limbic association area。
+大腦皮質是中樞神經系統最高層級的整合中心，負責意識、思想、語言、記憶與隨意運動。本章說明大腦皮質的結構與功能分區，特別強調幾個關鍵的 <span style="color:#e2e8f0">association area</span>s：parietooccipitotemporal association area、<span style="color:#60a5fa">Wernicke's area</span>、<span style="color:#22d3ee">prefrontal cortex</span> 與 <span style="color:#22d3ee">limbic association area</span>。
 
-Wernicke's area 位於優勢半球（左半球，95%的人是左撇子）的顳葉後上部，是所有感覺 interpretive areas 會聚之處，被稱為「一般性 interpretive area」或「gnostic area」，在語言理解與高級認知功能中扮演最重要的角色。Broca's area 位於額葉，負責言語形成的運動程式。
+<span style="color:#60a5fa">Wernicke's area</span> 位於優勢半球（左半球，95%的人是左撇子）的顳葉後上部，是所有感覺 interpretive areas 會聚之處，被稱為「一般性 interpretive area」或「<span style="color:#e2e8f0">gnostic area</span>」，在語言理解與高級認知功能中扮演最重要的角色。<span style="color:#60a5fa">Broca's area</span> 位於額葉，負責言語形成的運動程式。
 
-記憶是本章的另一核心主題。記憶分為陳述性記憶（explicit/declarative）與程序性記憶（implicit/non-declarative）。陳述性記憶依賴海馬與內側顳葉結構；程序性記憶依賴基底核與小腦。工作記憶（working memory）是前額葉皮質的核心功能，用於短暫保存即將使用的信息。
+記憶是本章的另一核心主題。記憶分為陳述性記憶（explicit/declarative）與程序性記憶（implicit/non-declarative）。陳述性記憶依賴海馬與內側顳葉結構；程序性記憶依賴基底核與小腦。工作記憶（<span style="color:#60a5fa">working memory</span>）是前額葉皮質的核心功能，用於短暫保存即將使用的信息。
 
 ## 大腦皮質的結構與分區
 
@@ -41,7 +41,7 @@ Primary motor cortex 位於中央前回（Brodmann area 4），是皮質脊髓�
 
 Association areas（如 Figure 584 所示）佔據皮質表面積的最大部分，不屬於嚴格的初級或次級感覺/運動範疇，負責整合來自多個區域的資訊。主要的 association areas 包括：
 
-**Parietooccipitotemporal Association Area**：位於頂葉與枕葉的广大區域，接收並整合來自周邊感覺區的資訊，負責空間座標分析、語言理解（Wernicke's area）、視覺語言處理（angular gyrus）與物體命名。
+**Parietooccipitotemporal Association Area**：位於頂葉與枕葉的广大區域，接收並整合來自周邊感覺區的資訊，負責空間座標分析、語言理解（Wernicke's area）、視覺語言處理（<span style="color:#22d3ee">angular gyrus</span>）與物體命名。
 
 **Prefrontal Association Area**：位於額葉前部，負責複雜運動模式的規劃與序列安排，也與「思維」過程密切相關。
 
@@ -64,7 +64,7 @@ Association areas（如 Figure 584 所示）佔據皮質表面積的最大部分
 
 ### Angular Gyrus：視覺語言處理
 
-Wernicke's area 後方、枕葉前外側的視覺 association area 接收來自視覺皮質的文字資訊並傳入 Wernicke's area。Angular gyrus 是從視覺感知文字中獲取意義所必需的。損傷導致 agraphia（寫字不能）與 alexia（讀字不能）。
+Wernicke's area 後方、枕葉前外側的視覺 association area 接收來自視覺皮質的文字資訊並傳入 Wernicke's area。Angular gyrus 是從視覺感知文字中獲取意義所必需的。損傷導致 <span style="color:#f87171">agraphia</span>（寫字不能）與 <span style="color:#f87171">alexia</span>（讀字不能）。
 
 ### 物體命名區
 
@@ -72,14 +72,14 @@ Wernicke's area 後方、枕葉前外側的視覺 association area 接收來自�
 
 <figure>
 <img src="/images/guyton/58f585.jpg" alt="Functional areas of cortex">
-<figcaption>Figure 585. Map of specific functional areas in the cerebral cortex, showing especially Wernicke's and Broca's areas for language comprehension and speech production.</figcaption>
+<figcaption>Figure 585. Map of specific functional areas in the cerebral cortex, showing especially Wernicke's and <span style="color:#60a5fa">Broca's area</span>s for language comprehension and speech production.</figcaption>
 </figure>
 
 ## Prefrontal Association Area
 
 Prefrontal association area 與運動皮質密切配合，規劃複雜的運動模式與序列。通過大量皮質下纖維束（連接 parietooccipitotemporal association area 與 prefrontal area）接收 pre-analyzed sensory information，特別是身體空間座標資訊，對有效運動規劃必不可少的。
 
-Prefrontal cortex 也是執行「思維」過程所必需的。它具有處理來自大腦廣泛區域的非運動與運動資訊的能力，實現非運動類型的思維。前額葉皮質在短暫基礎上儲存「工作記憶」（working memories），用於在信息進入大腦時整合新思維。
+<span style="color:#22d3ee">Prefrontal cortex</span> 也是執行「思維」過程所必需的。它具有處理來自大腦廣泛區域的非運動與運動資訊的能力，實現非運動類型的思維。前額葉皮質在短暫基礎上儲存「工作記憶」（working memories），用於在信息進入大腦時整合新思維。
 
 ### Broca's Area：言語形成
 
@@ -93,7 +93,7 @@ Limbic association area（如 Figures 584 與 585 所示）位於顳葉前端、
 
 ## 面部識別
 
-Prosopagnosia（面容失認症）是無法識別面孔的疾病，發生於兩側枕葉內下面與顳葉腹內側面的广泛損傷（如 Figure 586 所示）。
+<span style="color:#f87171">Prosopagnosia</span>（面容失認症）是無法識別面孔的疾病，發生於兩側枕葉內下面與顳葉腹內側面的广泛損傷（如 Figure 586 所示）。
 
 <figure>
 <img src="/images/guyton/58f586.jpg" alt="Facial recognition area">
@@ -106,7 +106,7 @@ Prosopagnosia（面容失認症）是無法識別面孔的疾病，發生於兩�
 
 Wernicke's area 嚴重損傷的患者可能聽力完好甚至能識別不同詞語，但無法將這些詞語組織成連貫的思維；也能讀出印刷詞語但無法識別所傳達的意義。
 
-## Dominant Hemisphere概念
+## <span style="color:#60a5fa">Dominant Hemisphere</span>概念
 
 Wernicke's area、angular gyrus 與言語運動控制區的 一般性 interpretive 功能通常在一個大腦半球高度發達，稱為「優勢半球」（dominant hemisphere）。約 95% 的人左半球是優勢半球。
 

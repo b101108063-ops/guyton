@@ -1,4 +1,4 @@
----
+
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH52"
 title: "The Eye: III. Central Neurophysiology of Vision"
@@ -14,11 +14,11 @@ key_points:
 
 ## 章節導讀
 
-本章延續前兩章對視覺系統周邊結構的討論，深入探討視覺資訊進入大腦後的中樞處理機制。視覺資訊由視網膜接收後，經過視神經、視交叉、視徑傳至 lateral geniculate nucleus，最終投射至 primary visual cortex（又稱 V1 或 Brodmann area 17）。
+本章延續前兩章對視覺系統周邊結構的討論，深入探討視覺資訊進入大腦後的中樞處理機制。視覺資訊由視網膜接收後，經過視神經、視交叉、視徑傳至 <span style="color:#22d3ee">lateral geniculate nucleus</span>，最終投射至 primary visual cortex（又稱 V1 或 Brodmann area 17）。
 
 本章首先說明 primary visual cortex 的六層神經結構，以及 M 視網膜神經節細胞與 P 視網膜神經節細胞如何分別終止於皮質的不同層次。這兩條平行路徑，分別負責快速但無色彩的動作與位置偵測（M 路徑），以及精確但緩慢的彩色細節偵測（P 路徑）。
 
-接著，本章描述視覺皮質如何透過垂直神經柱（vertical neuronal columns）處理資訊，以及「顏色斑塊」（color blobs）在顏色偵測中的角色。視覺資訊的分析採用階層式架構：簡單細胞偵測特定方向的線條與邊界；複雜細胞偵測線條方向而不受限於精確位置；更高層次的神經元則偵測特定長度、角度或其他形狀特徵。
+接著，本章描述視覺皮質如何透過垂直神經柱（vertical neuronal columns）處理資訊，以及「顏色斑塊」（<span style="color:#60a5fa">color blob</span>s）在顏色偵測中的角色。視覺資訊的分析採用階層式架構：簡單細胞偵測特定方向的線條與邊界；複雜細胞偵測線條方向而不受限於精確位置；更高層次的神經元則偵測特定長度、角度或其他形狀特徵。
 
 最後，本章涵蓋眼球運動控制（包括隨意注視、反射性注視、掃視與追蹤運動）、雙眼融合與立體視覺機制，以及視覺系統的自主神經調控（瞳孔光反射、瞳孔對調節反射、Horner 症候群）。
 
@@ -47,7 +47,7 @@ Primary visual cortex 與其他感覺皮質一樣，具有六層清晰可分的�
 
 ### 來自兩眼的視覺訊號交互作用
 
-兩眼的視覺訊號在 lateral geniculate nucleus 中就已經分開處理，但進入 primary visual cortex 第四層後仍保持分離狀態。第四層呈現交替的條紋組織，條紋寬約 0.5 毫米，來自一眼的訊號進入奇數條紋，來自另一眼的訊號則進入偶數條紋。這種結構使皮質能夠判斷兩眼視網膜上對應點是否「對齊」（in register），進而控制眼球的會聚或分開運動，使兩眼影像得以融合。立體視覺（stereopsis）正是利用這種視差機制來判斷物體距離。
+兩眼的視覺訊號在 lateral geniculate nucleus 中就已經分開處理，但進入 primary visual cortex 第四層後仍保持分離狀態。第四層呈現交替的條紋組織，條紋寬約 0.5 毫米，來自一眼的訊號進入奇數條紋，來自另一眼的訊號則進入偶數條紋。這種結構使皮質能夠判斷兩眼視網膜上對應點是否「對齊」（in register），進而控制眼球的會聚或分開運動，使兩眼影像得以融合。立體視覺（<span style="color:#e2e8f0">stereopsis</span>）正是利用這種視差機制來判斷物體距離。
 
 ## Two Major Pathways for Analysis of Visual Information
 
@@ -65,7 +65,7 @@ Primary visual cortex 與其他感覺皮質一樣，具有六層清晰可分的�
 
 ## Neuronal Patterns of Stimulation During Visual Image Analysis
 
-視覺皮質如何分析視覺影像？關鍵在於「對比」（contrast）的偵測。
+視覺皮質如何分析視覺影像？關鍵在於「對比」（<span style="color:#60a5fa">contrast</span>）的偵測。
 
 ### 視覺對比分析
 
@@ -94,7 +94,7 @@ Primary visual cortex 與其他感覺皮質一樣，具有六層清晰可分的�
 
 顏色偵測的機制與線條偵測相似，核心原理同樣是「顏色對比」。紅色區域常與綠色區域相鄰；藍色區域與紅色相鄰；綠色區域與黃色相鄰。這些顏色也可以與白色區域形成對比。
 
-這種與白色對比的機制被認為是「顏色恆常性」（color constancy）的主要基礎：即使照明光源的顏色改變，白色的感知也會隨之改變，大腦的適當計算能使紅色始終被解讀為紅色。
+這種與白色對比的機制被認為是「顏色恆常性」（<span style="color:#60a5fa">color constancy</span>）的主要基礎：即使照明光源的顏色改變，白色的感知也會隨之改變，大腦的適當計算能使紅色始終被解讀為紅色。
 
 顏色對比分析依賴於「對抗顏色」（opponent colors）刺激特定神經細胞的機制。簡單細胞負責偵測基本的顏色對比細節，而複雜細胞與超複雜細胞則處理更複雜的顏色對比組合。
 
@@ -104,7 +104,7 @@ Primary visual cortex 與其他感覺皮質一樣，具有六層清晰可分的�
 
 這種殘存的視覺是由於視覺訊號可繞過視覺皮質，經由視徑主要進入 superior colliculi 以及其他較古老的視覺系統結構。
 
-## Fields of Vision; Perimetry
+## Fields of Vision; <span style="color:#e2e8f0">Perimetry</span>
 
 ### 視野與盲點
 
@@ -112,10 +112,10 @@ Primary visual cortex 與其他感覺皮質一樣，具有六層清晰可分的�
 
 <figure>
 <img src="/images/guyton/52f526.jpg" alt="Perimetry chart">
-<figcaption>Figure 526. Perimetry chart showing the field of vision for the left eye. The red circle shows the blind spot.</figcaption>
+<figcaption>Figure 526. Perimetry chart showing the field of vision for the left eye. The red circle shows the <span style="color:#f87171">blind spot</span>.</figcaption>
 </figure>
 
-視野測繪（perimetry）可用於診斷視網膜特定區域的失明。檢查時，受試者一眼注視正前方的中央固定點，另一眼閉合。然後在視野各區域來回移動小光點或小物體，受試者指出何時能看到或看不到該目標。視野圖中約在中央凝視點外側 15 度處可見盲點，這是因為視神經盤（optic disc）所在區域缺乏 rods 與 cones。
+視野測繪（perimetry）可用於診斷視網膜特定區域的失明。檢查時，受試者一眼注視正前方的中央固定點，另一眼閉合。然後在視野各區域來回移動小光點或小物體，受試者指出何時能看到或看不到該目標。視野圖中約在中央凝視點外側 15 度處可見盲點，這是因為視神經盤（<span style="color:#f87171">optic disc</span>）所在區域缺乏 rods 與 cones。
 
 ### 視野異常
 
@@ -135,7 +135,7 @@ Primary visual cortex 與其他感覺皮質一樣，具有六層清晰可分的�
 
 第三、第四、第六對腦神經的腦幹神經核透過 medial longitudinal fasciculus 相互連接，並支配眼外肌。三對肌肉均呈交互神經支配——當一條肌肉收縮時，對側肌肉放鬆。
 
-皮質對眼球運動的控制（如 Figure 528 所示）由枕葉視覺區發出訊號，經由視蓋與視蓋小腦徑到達腦幹的 pretectal 與 superior colliculus 區，再由此將眼球運動控制訊號傳至動眼神經核。前庭核也透過 medial longitudinal fasciculus 將平衡控制訊號傳入眼球運動系統。
+皮質對眼球運動的控制（如 Figure 528 所示）由枕葉視覺區發出訊號，經由視蓋與視蓋小腦徑到達腦幹的 pretectal 與 <span style="color:#22d3ee">superior colliculus</span> 區，再由此將眼球運動控制訊號傳至動眼神經核。前庭核也透過 medial longitudinal fasciculus 將平衡控制訊號傳入眼球運動系統。
 
 <figure>
 <img src="/images/guyton/52f527.jpg" alt="Extraocular muscles">
