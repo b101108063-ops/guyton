@@ -1,4 +1,4 @@
-
+---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH59"
 title: "The Limbic System and the Hypothalamus—Behavioral and Motivational Mechanisms of the Brain"

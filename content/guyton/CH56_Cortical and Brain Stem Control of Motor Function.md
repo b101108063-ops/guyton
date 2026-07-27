@@ -1,4 +1,4 @@
-
+---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH56"
 title: "Cortical and Brain Stem Control of Motor Function"

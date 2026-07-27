@@ -1,5 +1,4 @@
 ---
----
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH30"
 title: "Renal Regulation of Potassium, Calcium, Phosphate, and Magnesium"

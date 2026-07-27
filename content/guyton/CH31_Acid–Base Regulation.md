@@ -1,5 +1,4 @@
 ---
----
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH31"
 title: "Acid–Base Regulation"

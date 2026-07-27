@@ -1,5 +1,4 @@
 ---
----
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH34"
 title: "Resistance of the Body to Infection"

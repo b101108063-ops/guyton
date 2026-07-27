@@ -1,4 +1,4 @@
-
+---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH53"
 title: "The Sense of Hearing"

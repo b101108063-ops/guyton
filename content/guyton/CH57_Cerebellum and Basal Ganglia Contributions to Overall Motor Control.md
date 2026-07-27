@@ -1,4 +1,4 @@
-
+---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH57"
 title: "Cerebellum and Basal Ganglia Contributions to Overall Motor Control"

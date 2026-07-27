@@ -1,5 +1,4 @@
 ---
----
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH33"
 title: "Red Blood Cells, Anemia, and Polycythemia"

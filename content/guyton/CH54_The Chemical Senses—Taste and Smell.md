@@ -1,4 +1,4 @@
-
+---
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH54"
 title: "The Chemical Senses—Taste and Smell"

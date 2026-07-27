@@ -1,5 +1,4 @@
 ---
----
 source: "Guyton & Hall Textbook of Medical Physiology"
 chapter: "CH23"
 title: "Heart Valves and Heart Sounds; Valvular and Congenital Heart Defects"
