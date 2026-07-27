@@ -19,7 +19,7 @@ summary: "本章闡述感覺受器的運作原理與神經迴路的訊號處理�
 
 ### 受器電位的產生
 
-圖 47-2 說明 Pacinian corpuscle 的結構：中央感覺神經纖維穿過同心圓排列的 capsule 層。當 corpuscle 任何部位受到機械壓迫時，中央纖維被變形，離子通道打開，Na⁺ 內流產生稱為 **receptor potential** 的局部去極化（圖 47-3）。這個局部電流向周圍擴散，在第一個 **node of Ranvier**（位於 corpuscle 內側）引發典型的動作電位，隨後沿神經纖維傳向中樞神經系統。
+圖 47-2 說明<span style="color:#e2e8f0"> Pacinian corpuscle</span> 的結構：<span style="color:#22d3ee">中央感覺神經纖維</span>穿過同心圓排列的 <span style="color:#e2e8f0">capsule</span> 層。當 <span style="color:#e2e8f0">corpuscle</span> 任何部位受到機械壓迫時，<span style="color:#22d3ee">中央纖維</span>被變形，離子通道打開，<span style="color:#60a5fa">Na⁺</span> 內流產生稱為 <span style="color:#60a5fa">receptor potential</span> 的局部去極化（圖 47-3）。這個局部電流向周圍擴散，在第一個 **node of Ranvier**（位於 corpuscle 內側）引發典型的動作電位，隨後沿神經纖維傳向中樞神經系統。
 
 ### Receptor Potential 與刺激強度的關係
 
@@ -38,12 +38,12 @@ summary: "本章闡述感覺受器的運作原理與神經迴路的訊號處理�
 
 | 受器類型 | 適應速度 |
 |---------|---------|
-| Pacinian corpuscle | 極快（約數百毫秒） |
-| 毛髮受器 | 快（約 1 秒） |
-| Joint capsule 受器 | 慢 |
-| Muscle spindle | 慢或不完全 |
-| Baroreceptor（頸动脉竇/主動弓） | 最慢（約 2 天或更久）|
-| 化學受器與疼痛受器 | 幾乎不完全適應 |
+| <span style="color:#e2e8f0">Pacinian corpuscle</span> | 極快（約數百毫秒） |
+| <span style="color:#22d3ee">毛髮受器</span> | 快（約 1 秒） |
+| <span style="color:#22d3ee">Joint capsule 受器</span> | 慢 |
+| <span style="color:#22d3ee">Muscle spindle</span> | 慢或不完全 |
+| <span style="color:#22d3ee">Baroreceptor</span>（頸动脉竇/主動弓） | 最慢（約 2 天或更久）|
+| <span style="color:#22d3ee">化學受器</span>與<span style="color:#22d3ee">疼痛受器</span> | 幾乎不完全適應 |
 
 適應可分為**完全適應**（如 Pacinian corpuscle，刺激持續時放電率降至零）與**部分適應**（如 baroreceptor，長期暴露後仍維持一定放電率）。
 
@@ -83,11 +83,11 @@ Pacinian corpuscle 是黏彈性結構：刺激一開始，力量瞬間傳遞至�
 
 | 直徑（μm） | 傳導速度（m/sec） | 一般分類 | 感覺神經分類 | 感覺功能 |
 |------------|-----------------|---------|-------------|---------|
-| 20–12 | 70–120 | Aα | Ia | Muscle spindle（主要終末）|
-| 12–6 | 40–70 | Aα | Ib | Golgi tendon organ |
-| 6–2 | 15–40 | Aβ、Aγ | II | 毛髮受器、離散皮膚觸覺受器、muscle spindle（次要終末）|
-| 3–2 | 5–15 | Aδ | III | 溫度、粗糙觸覺、刺痛 |
-| 2–0.5 | 0.5–2 | C | IV | 疼痛、癢、溫度、粗糙觸覺 |
+| 20–12 | <span style="color:#34d399">70–120</span> | Aα | Ia | <span style="color:#22d3ee">Muscle spindle</span>（主要終末）|
+| 12–6 | <span style="color:#34d399">40–70</span> | Aα | Ib | <span style="color:#22d3ee">Golgi tendon organ</span> |
+| 6–2 | <span style="color:#34d399">15–40</span> | Aβ、Aγ | II | <span style="color:#22d3ee">毛髮受器</span>、離散<span style="color:#22d3ee">皮膚觸覺受器</span>、<span style="color:#22d3ee">muscle spindle</span>（次要終末）|
+| 3–2 | <span style="color:#34d399">5–15</span> | Aδ | III | <span style="color:#22d3ee">溫度</span>、粗糙觸覺、刺痛 |
+| 2–0.5 | <span style="color:#f87171">0.5–2</span> | C | IV | <span style="color:#22d3ee">疼痛</span>、癢、<span style="color:#22d3ee">溫度</span>、粗糙觸覺 |
 
 - **Type A fibers**：具有髓鞘，傳導快速，包括 α、β、γ、δ 亞型
 - **Type C fibers**：無髓鞘，傳導緩慢，佔多數週邊神經感覺纖維的一半以上，也是所有節後自主神經纖維的型態

@@ -11,7 +11,7 @@ key_points:
 
 ## 章節導讀
 
-利尿劑（diuretics）是臨床上最重要的腎臟藥物類別之一。本章說明各類利尿劑的作用機制與臨床應用——loop diuretics（如 furosemide）作用於 thick ascending limb 的 NKCC2，阻斷鈉鉀氯的再吸收；thiazides 作用於 distal tubule 的 NaCl cotransporter；potassium-sparing diuretics 包括 aldosterone antagonists（spironolactone）與 ENaC blockers（amiloride）；carbonic anhydrase inhibitors（如 acetazolamide）作用於 proximal tubule。第二部分說明腎臟疾病的生理學，包括急性腎損傷（AKI）的三大分類（prerenal、intrarenal 與 postrenal）及其病因，以及慢性腎病（CKD）的病理生理學——腎元數量的逐步喪失、腎絲球高壓與高濾過適應、腎絲球硬化與腎元喪失的惡性循環。本章的最後部分介紹末期腎病（ESRD）的治療選擇——血液透析（hemodialysis）與腎臟移植。
+利尿劑（<span style="color:#fb923c">diuretics</span>）是臨床上最重要的腎臟藥物類別之一。本章說明各類利尿劑的作用機制與臨床應用——loop <span style="color:#fb923c">diuretics</span>（如 furosemide）作用於 thick ascending limb 的 NKCC2，阻斷鈉鉀氯的再吸收；<span style="color:#fb923c">thiazide</span>s 作用於 distal tubule 的 NaCl cotransporter；potassium-sparing <span style="color:#fb923c">diuretics</span> 包括 aldosterone antagonists（<span style="color:#fb923c">spironolactone</span>）與 ENaC blockers（amiloride）；carbonic anhydrase inhibitors（如 <span style="color:#fb923c">acetazolamide</span>）作用於 proximal tubule。第二部分說明腎臟疾病的生理學，包括急性腎損傷（AKI）的三大分類（prerenal、intrarenal 與 postrenal）及其病因，以及慢性腎病（CKD）的病理生理學——腎元數量的逐步喪失、腎絲球高壓與高濾過適應、腎絲球硬化與腎元喪失的惡性循環。本章的最後部分介紹末期腎病（ESRD）的治療選擇——血液透析（hemodialysis）與腎臟移植。
 
 ## 利尿劑的作用機制與分類
 
@@ -31,7 +31,7 @@ key_points:
 
 ### Thiazide Diuretics（噻嗪類利尿劑）
 
-**代表藥物**：Hydrochlorothiazide、Chlorthalidone
+**代表藥物**：Hydrochloro<span style="color:#fb923c">thiazide</span>、Chlorthalidone
 
 **作用機制**：阻斷 distal tubule 的 NaCl cotransporter（TNC）。
 
@@ -93,7 +93,7 @@ AKI 是指腎功能在數天內急遽喪失，傳統上稱為 acute renal failur
 **1. Prerenal AKI（腎前性）**：腎臟血液灌流不足引起的腎功能下降
 
 - 原因：低血容（出血、嘔吐、腹瀉、燒傷）、心輸出量減少（心衰竭）、敗血症性低血壓
-- 機制：腎絲球灌流壓下降 → GFR ↓ → 少尿或無尿
+- 機制：腎絲球灌流壓下降 → <span style="color:#60a5fa">GFR</span> ↓ → 少尿或無尿
 - 若及時恢復灌流，腎功能可完全恢復
 
 **2. Intrarenal AKI（腎性）**：腎臟本身結構受損

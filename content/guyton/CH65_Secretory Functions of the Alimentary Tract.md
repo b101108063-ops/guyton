@@ -19,11 +19,11 @@ key_points:
 
 唾液分泌由唾液腺（腮腺、頜下腺、舌下腺）執行，提供澱粉酶（ptyalin）開始澱粉消化，並潤滑口腔與食物。唾液分泌受交感與副交感神經雙重控制，副交感神經促進大量水樣分泌，交感神經促進黏稠分泌。
 
-胃分泌由胃腺執行，壁細胞（parietal cells）分泌鹽酸（HCl）與內在因子，主細胞（chief cells）分泌胃蛋白酶原（pepsinogen）。胃酸提供酸性環境激活 pepsinogen，並殺死大多數細菌。
+胃分泌由胃腺執行，壁細胞（parietal cells）分泌鹽酸（<span style="color:#fb923c">HCl</span>）與內在因子，主細胞（chief cells）分泌胃蛋白酶原（<span style="color:#fb923c">pepsin</span>ogen）。胃酸提供酸性環境激活 <span style="color:#fb923c">pepsin</span>ogen，並殺死大多數細菌。
 
 胰液由胰腺腺泡細胞分泌消化酶（胰蛋白酶、胰脂肪酶、胰澱粉酶）與胰島素細胞分泌碳酸氫鹽，鹼性胰液中和胃酸並提供消化酶所需的環境。
 
-膽汁由肝細胞生成，儲存於膽囊並濃縮。膽汁鹽（bile salts）是重要的界面活性劑，幫助脂肪乳化與吸收。
+膽汁由肝細胞生成，儲存於膽囊並濃縮。膽汁鹽（<span style="color:#fb923c">bile salts</span>）是重要的界面活性劑，幫助脂肪乳化與吸收。
 
 ## 消化道分泌的一般原則
 
@@ -88,11 +88,11 @@ key_points:
 胃黏膜含兩種主要細胞：
 
 **壁細胞（Parietal/oxyntic cells）**：
-- 分泌鹽酸（HCl）：提供強酸性環境（pH 1.0-3.5）
+- 分泌鹽酸（<span style="color:#fb923c">HCl</span>）：提供強酸性環境（pH 1.0-3.5）
 - 分泌內在因子（intrinsic factor）：維生素 B12 吸收所必需
 
 **主細胞（Chief/peptic cells）**：
-- 分泌胃蛋白酶原（pepsinogen）：被 HCl 激活為 pepsin，用於蛋白質消化
+- 分泌胃蛋白酶原（<span style="color:#fb923c">pepsin</span>ogen）：被 <span style="color:#fb923c">HCl</span> 激活為 <span style="color:#fb923c">pepsin</span>，用於蛋白質消化
 
 ### 胃分泌的時相
 
@@ -102,11 +102,11 @@ key_points:
 
 **胃相（Gastric phase）**：當食物進入胃時，胃擴張與食物中的某些成分（如胺基酸、胜肽）直接刺激胃黏膜，促進胃分泌。佔進餐後胃酸分泌的約 60%。
 
-**腸相（Intestinal phase）**：當酸性 chyme 進入十二指腸時，十二指腸黏膜釋放促胃腸道激素（如 secretin）， initially stimulates but then inhibits gastric secretion. 佔進餐後胃酸分泌的約 10%。
+**腸相（Intestinal phase）**：當酸性 chyme 進入十二指腸時，十二指腸黏膜釋放促胃腸道激素（如 <span style="color:#fb923c">secretin</span>）， initially stimulates but then inhibits gastric secretion. 佔進餐後胃酸分泌的約 10%。
 
 ### 胃酸分泌的機制
 
-HCl 的分泌涉及壁細胞的複雜主動運輸過程：
+<span style="color:#fb923c">HCl</span> 的分泌涉及壁細胞的複雜主動運輸過程：
 
 1. Carbonic anhydrase 將 CO₂ + H₂O → H₂CO₃
 2. H₂CO₃ 解離為 H⁺ + HCO₃⁻
@@ -154,21 +154,21 @@ HCO₃⁺ 的分泌機制：
 
 **副交感神經（迷走神經）**：刺激腺泡分泌，作用較小
 
-**Secretin**：酸性 chyme 進入十二指腸刺激 S 細胞釋放 secretin，強烈刺激胰液（特別是 HCO₃⁺）分泌
+**Secretin**：酸性 chyme 進入十二指腸刺激 S 細胞釋放 <span style="color:#fb923c">secretin</span>，強烈刺激胰液（特別是 HCO₃⁺）分泌
 
-**Cholecystokinin（CCK）**：脂肪與胺基酸刺激 I 細胞釋放 CCK，刺激腺泡分泌消化酶
+**Cholecystokinin（<span style="color:#fb923c">CCK</span>）**：脂肪與胺基酸刺激 I 細胞釋放 <span style="color:#fb923c">CCK</span>，刺激腺泡分泌消化酶
 
 ## 膽汁分泌（Bile Secretion）
 
 ### 膽汁的生成
 
-膽汁由肝細胞生成，每日約 1000 毫升。膽汁含膽汁鹽（bile salts）、膽紅素、膽固醇、磷脂與電解質。
+膽汁由肝細胞生成，每日約 1000 毫升。膽汁含膽汁鹽（<span style="color:#fb923c">bile salts</span>）、膽紅素、膽固醇、磷脂與電解質。
 
-**膽汁鹽**（bile salts）是肝細胞從膽固醇合成的表面活性劑，主要為 cholic acid 與 chenodeoxycholic acid，與甘胺酸或牛磺酸結合後分泌。
+**膽汁鹽**（<span style="color:#fb923c">bile salts</span>）是肝細胞從膽固醇合成的表面活性劑，主要為 cholic acid 與 chenodeoxycholic acid，與甘胺酸或牛磺酸結合後分泌。
 
 ### 膽囊的功能
 
-膽囊儲存並濃縮膽汁（可濃縮 5-20 倍）。當脂肪進入十二指腸時，CCK 刺激膽囊收縮，將膽汁排入十二指腸。
+膽囊儲存並濃縮膽汁（可濃縮 5-20 倍）。當脂肪進入十二指腸時，<span style="color:#fb923c">CCK</span> 刺激膽囊收縮，將膽汁排入十二指腸。
 
 ### 膽汁鹽的腸肝循環
 

@@ -15,19 +15,19 @@ key_points:
 
 ## 章節導讀
 
-自主神經系統（Autonomic Nervous System, ANS）控制身體的無意識功能，包括心臟收縮、血管張力、消化道運動、腺體分泌等。ANS 分為兩大系統：交感神經系統（sympathetic nervous system）與副交感神經系統（parasympathetic nervous system）。
+自主神經系統（Autonomic Nervous System, ANS）控制身體的無意識功能，包括心臟收縮、血管張力、消化道運動、腺體分泌等。ANS 分為兩大系統：交感神經系統（<span style="color:#60a5fa">sympathetic</span> nervous system）與副交感神經系統（para<span style="color:#60a5fa">sympathetic</span> nervous system）。
 
-交感神經系統起源於胸腰段脊髓（T1-L2），釋放 norepinephrine 到效應器官，負責「戰或逃」反應——心跳加速、血壓升高、瞳孔散大、消化功能抑制。副交感神經系統起源於腦幹（第三、七、九、十對腦神經）與骶段（S2-S4），釋放 acetylcholine，負責「休息與消化」功能——心跳減慢、消化功能增強、瞳孔縮小。
+交感神經系統起源於胸腰段脊髓（T1-L2），釋放 <span style="color:#fb923c">nor<span style="color:#fb923c">epinephrine</span></span> 到效應器官，負責「戰或逃」反應——心跳加速、血壓升高、瞳孔散大、消化功能抑制。副交感神經系統起源於腦幹（第三、七、九、十對腦神經）與骶段（S2-S4），釋放 <span style="color:#fb923c">acetylcholine</span>，負責「休息與消化」功能——心跳減慢、消化功能增強、瞳孔縮小。
 
 自主神經的訊號傳遞依賴特定的受體。膽鹼性受體（Cholinergic receptors）分為 nicotinic（N1 位於神經節、N2 位於神經肌肉交接處）與 muscarinic（M1-M5）。腎上腺素性受體（Adrenergic receptors）分為 α（α1、α2）與 β（β1、β2、β3）。不同受體的活化產生不同的生理效應。
 
-腎上腺髓質（Adrenal medulla）在胚胎學上是交感神經節的延伸，其細胞相當於交感神經節後神經元，但直接向血液分泌 catecholamines（epinephrine 與 norepinephrine）。腎上腺髓質受交感神經節前纖維支配。
+腎上腺髓質（Adrenal medulla）在胚胎學上是交感神經節的延伸，其細胞相當於交感神經節後神經元，但直接向血液分泌 catecholamines（<span style="color:#fb923c">epinephrine</span> 與 <span style="color:#fb923c">nor<span style="color:#fb923c">epinephrine</span></span>）。腎上腺髓質受交感神經節前纖維支配。
 
 ## 自主神經系統的解剖組織
 
 ### 交感神經系統（Sympathetic Nervous System）
 
-交感神經系統（如 Figure 611 所示）起源於胸腰段脊髓（T1-L2）的 intermediolateral horn cells。節前神經元發出節前纖維進入交感神經鏈（sympathetic chain），在此有三個可能的去向：
+交感神經系統（如 Figure 611 所示）起源於胸腰段脊髓（T1-L2）的 intermediolateral horn cells。節前神經元發出節前纖維進入交感神經鏈（<span style="color:#60a5fa">sympathetic</span> chain），在此有三個可能的去向：
 
 1. 在交感神經鏈中上升或下降，終止於遠處的交感神經節
 2. 在交感神經鏈中穿過，進入腹腔神經節（celiac ganglion）與其他腹膜後神經節
@@ -39,10 +39,10 @@ key_points:
 
 <figure>
 <img src="/images/guyton/61f611.jpg" alt="Sympathetic nervous system">
-<figcaption>Figure 611. The sympathetic nervous system, showing the sympathetic chain and the major sympathetic ganglia (red dots).</figcaption>
+<figcaption>Figure 611. The <span style="color:#60a5fa">sympathetic</span> nervous system, showing the <span style="color:#60a5fa">sympathetic</span> chain and the major <span style="color:#60a5fa">sympathetic</span> ganglia (red dots).</figcaption>
 </figure>
 
-### 副交感神經系統（Parasympathetic Nervous System）
+### 副交感神經系統（Para<span style="color:#60a5fa">sympathetic</span> Nervous System）
 
 副交感神經系統（如 Figure 613 所示）起源於兩個部位：腦幹（通過第三、七、九、十對腦神經）與骶段脊髓（S2-S4）。
 
@@ -55,8 +55,8 @@ key_points:
 - **骶神經**：支配結腸遠端、直腸、膀胱、外生殖器（勃起）
 
 <figure>
-<img src="/images/guyton/61f613.jpg" alt="Parasympathetic nervous system">
-<figcaption>Figure 613. The parasympathetic nervous system.</figcaption>
+<img src="/images/guyton/61f613.jpg" alt="Para<span style="color:#60a5fa">sympathetic</span> nervous system">
+<figcaption>Figure 613. The para<span style="color:#60a5fa">sympathetic</span> nervous system.</figcaption>
 </figure>
 
 副交感神經系統與交感神經系統的一個重要區別是：副交感神經的節後神經元胞體位於效應器官壁內（或非常接近），而不是像交感神經那樣位於遠處神經節。因此，副交感神經的節後纖維非常短。
@@ -65,7 +65,7 @@ key_points:
 
 ### 膽鹼能纖維（Cholinergic Fibers）
 
-分泌 acetylcholine（ACh）的纖維稱為「膽鹼能纖維」，包括：
+分泌 <span style="color:#fb923c">acetylcholine</span>（ACh）的纖維稱為「膽鹼能纖維」，包括：
 
 1. 所有交感與副交感神經系統的**節前神經元**
 2. 副交感神經系統的**所有節後神經元**
@@ -73,11 +73,11 @@ key_points:
 
 ### 腎上腺素能纖維（Adrenergic Fibers）
 
-分泌 norepinephrine（NE）的纖維稱為「腎上腺素能纖維」，包括大多數交感神經節後神經元。
+分泌 <span style="color:#fb923c">nor<span style="color:#fb923c">epinephrine</span></span>（NE）的纖維稱為「腎上腺素能纖維」，包括大多數交感神經節後神經元。
 
 <figure>
 <img src="/images/guyton/61f614.jpg" alt="Neurotransmitters">
-<figcaption>Figure 614. Cholinergic and adrenergic nerve endings and their neurotransmitters.</figcaption>
+<figcaption>Figure 614. Cholinergic and <span style="color:#60a5fa">adrenergic</span> nerve endings and their neurotransmitters.</figcaption>
 </figure>
 
 ### Acetylcholine的合成與破壞
@@ -85,12 +85,12 @@ key_points:
 ACh 在神經末梢合成：
 Acetyl-CoA + Choline → Acetylcholine（經 choline acetyltransferase 催化）
 
-分泌後，ACh 在組織中持續存在數秒，發揮神經訊號傳遞功能後，被 acetylcholinesterase（AChE）分解為 acetate 與 choline。Choline 被主動運輸回神經末梢再用於合成新的 ACh。
+分泌後，ACh 在組織中持續存在數秒，發揮神經訊號傳遞功能後，被 <span style="color:#fb923c">acetylcholine</span>sterase（AChE）分解為 acetate 與 choline。Choline 被主動運輸回神經末梢再用於合成新的 ACh。
 
-### Norepinephrine的合成、釋放與去除
+### Nor<span style="color:#fb923c">epinephrine</span>的合成、釋放與去除
 
 NE 的合成在軸漿中開始，最終在分泌囊泡中完成：
-Tyrosine → DOPA → Dopamine → Norepinephrine
+Tyrosine → DOPA → Dopamine → Nor<span style="color:#fb923c">epinephrine</span>
 
 NE 從囊泡釋放到組織中後，通過以下方式去除：
 1. 被神經末梢重新攝取（主要機制，約 80-90%）
@@ -153,7 +153,7 @@ NE 從囊泡釋放到組織中後，通過以下方式去除：
 
 **Epinephrine（Adrenaline）**：約佔腎上腺髓質分泌的 80%
 
-**Norepinephrine（Noradrenaline）**：約佔腎上腺髓質分泌的 20%
+**Nor<span style="color:#fb923c">epinephrine</span>（Noradrenaline）**：約佔腎上腺髓質分泌的 20%
 
 當交感神經被活化時，兩種激素都被釋放到血液中，對身體產生廣泛的「交感」效應——心率增加、心肌收縮力增強、血壓升高、肝糖分解增加、脂肪分解增加、支氣管擴張。
 
@@ -202,19 +202,19 @@ NE 從囊泡釋放到組織中後，通過以下方式去除：
 
 ## Bibliography
 
-Bennett MR: The autonomic nervous system. Handb Clin Neurol 151:77, 2018.
+Bennett MR: The <span style="color:#60a5fa">autonomic nervous system</span>. Handb Clin Neurol 151:77, 2018.
 Brodal P: The Central Nervous System. 5th ed. Oxford University Press, 2016.
 Burnstock G: Purinergic signaling in the gastrointestinal tract. Neuropharmacology 161:107583, 2019.
 Calandro C et al: Adrenal medulla. Handb Clin Neurol 161:45, 2019.
 Cousin MA: Mechanisms of neurotransmitter release. Handb Clin Neurol 161:1, 2019.
 Dec Brites S et al: Autonomic nervous system. Handb Clin Neurol 174:1, 2021.
-Guyenet PG: The sympathetic system and hypertension. Curr Hypertens Rep 22:65, 2020.
+Guyenet PG: The <span style="color:#60a5fa">sympathetic</span> system and hypertension. Curr Hypertens Rep 22:65, 2020.
 Hall JE: Guyton and Hall Textbook of Medical Physiology. 14th ed. Elsevier, 2020.
 Koussoullopoulos D et al: Autonomic regulation of the heart. Handb Clin Neurol 161:95, 2019.
 Levick JR: An Introduction to Cardiovascular Physiology. 5th ed. Hodder Arnold, 2010.
 McCorry LK: Physiology of the Autonomic Nervous System. Am J Pharm Educ 71:78, 2007.
 Morrison SF et al: Central control of body temperature. Handb Clin Neurol 161:115, 2019.
 Rowell LB: Human Cardiovascular Control. Oxford University Press, 1993.
-Saffrey MJ: Aging of the autonomic nervous system. Handb Clin Neurol 126:111, 2014.
+Saffrey MJ: Aging of the <span style="color:#60a5fa">autonomic nervous system</span>. Handb Clin Neurol 126:111, 2014.
 Shaffer CL et al: Transmembrane receptors and transporters. Handb Clin Neurol 161:25, 2019.
 Wehrwein EA et al: Central autonomic control of the heart. Handb Clin Neurol 159:97, 2020.

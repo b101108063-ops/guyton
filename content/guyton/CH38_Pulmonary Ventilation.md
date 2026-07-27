@@ -18,7 +18,7 @@ key_points:
 
 ## 肺臟的順應性
 
-每當跨肺壓增加一單位時（假設有足夠時間達到平衡），肺臟所能擴張的程度，稱為肺順應性（lung compliance）。正常成人雙肺總順應性平均約為 200 ml/cm H₂O 的跨肺壓。也就是說，每當跨肺壓增加 1 cm H₂O，肺容積（在 10 至 20 秒後）會擴張 200 ml。
+每當跨肺壓增加一單位時（假設有足夠時間達到平衡），肺臟所能擴張的程度，稱為肺順應性（lung compliance）。正常成人雙肺總順應性平均約為 <span style="color:#34d399">200 ml/cm H₂O</span> 的跨肺壓。也就是說，每當跨肺壓增加 <span style="color:#f87171">1 cm H₂O</span>，<span style="color:#22d3ee">肺容積</span>（在 10 至 20 秒後）會擴張 <span style="color:#34d399">200 ml</span>。
 
 ### 肺臟順應性圖
 
@@ -41,8 +41,8 @@ key_points:
 
 注意，擴張充滿空氣的肺臟所需的跨肺壓約為擴張充滿鹽水的肺臟所需的三倍。由此可以得出結論：
 
-- 空氣充滿的肺臟傾向塌陷的組織彈力僅約佔肺臟總彈性的三分之一
-- 肺泡中液體-空氣表面張力佔約三分之二
+- <span style="color:#22d3ee">空氣充滿的肺臟</span>傾向塌陷的<span style="color:#22d3ee">組織彈力</span>僅約佔肺臟總彈性的三分之一
+- <span style="color:#22d3ee">肺泡</span>中<span style="color:#e2e8f0">液體-空氣表面張力</span>佔約三分之二
 
 肺臟的液體-空氣表面張力彈力在肺泡液中不存在 surfactant 時會大幅增加。
 
@@ -70,9 +70,9 @@ Surfactant 是幾種磷脂、蛋白質和離子的複雜混合物。最重要的
 
 定量而言，不同水溶液的表面張力大致如下：
 
-- 純水：72 dynes/cm
-- 不含 surfactant 的正常肺泡襯液：50 dynes/cm
-- 含正常量 surfactant 的正常肺泡襯液：5–30 dynes/cm
+- <span style="color:#e2e8f0">純水</span>：<span style="color:#34d399">72 dynes/cm</span>
+- 不含 <span style="color:#60a5fa">surfactant</span> 的正常<span style="color:#22d3ee">肺泡襯液</span>：<span style="color:#f87171">50 dynes/cm</span>
+- 含正常量 <span style="color:#60a5fa">surfactant</span> 的正常<span style="color:#22d3ee">肺泡襯液</span>：<span style="color:#34d399">5–30 dynes/cm</span>
 
 ### 由表面張力引起的肺泡內壓力
 
@@ -88,9 +88,9 @@ Surfactant 是幾種磷脂、蛋白質和離子的複雜混合物。最重要的
 
 從前述公式可見，肺泡越小，表面張力引起的肺泡內壓力越大。因此，當肺泡半徑為正常的一半（50 微米而非 100 微米）時，前述壓力加倍。
 
-這個現象在小的早產兒中特別重要，他們中的許多人的肺泡半徑不到成人的 25%。此外，surfactant 通常在妊娠第六至第七個月之間才開始分泌到肺泡中，有時甚至更晚。
+這個現象在小的早產兒中特別重要，他們中的許多人的<span style="color:#22d3ee">肺泡</span>半徑不到成人的 <span style="color:#f87171">25%</span>。此外，<span style="color:#60a5fa">surfactant</span> 通常在妊娠第六至第七個月之間才開始分泌到<span style="color:#22d3ee">肺泡</span>中，有時甚至更晚。
 
-因此，許多早產兒出生時肺泡中只有少量或沒有 surfactant，他們的肺臟有極強的塌陷傾向——有時可達正常成人肺臟的六至八倍。這種情況導致新生兒呼吸窘迫症候群（respiratory distress syndrome of the newborn）。如果不接受積極治療（尤其是適當的持續正壓呼吸），是致命的。
+因此，許多早產兒出生時<span style="color:#22d3ee">肺泡</span>中只有少量或沒有 <span style="color:#60a5fa">surfactant</span>，他們的<span style="color:#22d3ee">肺臟</span>有極強的塌陷傾向——有時可達正常成人<span style="color:#22d3ee">肺臟</span>的<span style="color:#f87171">六至八倍</span>。這種情況導致<span style="color:#e2e8f0">新生兒呼吸窘迫症候群（respiratory distress syndrome of the newborn）</span>。如果不接受積極治療（尤其是適當的持續正壓呼吸），是致命的。
 
 ---
 
@@ -102,7 +102,7 @@ Surfactant 是幾種磷脂、蛋白質和離子的複雜混合物。最重要的
 
 整個肺系統（肺臟和胸廓在一起）的順應性是在受試者完全放鬆或癱瘓的狀態下測量的。測量順應性時，少量強迫將空氣輸入肺臟，同時記錄肺臟壓力和容積。
 
-將這個整個肺系統充氣所需的壓力幾乎是將同樣肺臟從胸廓取出後所需壓力的兩倍。因此，肺-胸廓組合系統的順應性幾乎正好是單獨肺臟的一半——組合系統為 110 ml/cm H₂O，單獨肺臟為 200 ml/cm H₂O。
+將這個整個<span style="color:#22d3ee">肺系統</span>充氣所需的壓力幾乎是將同樣<span style="color:#22d3ee">肺臟</span>從<span style="color:#22d3ee">胸廓</span>取出後所需壓力的兩倍。因此，肺-胸廓組合系統的順應性幾乎正好是單獨<span style="color:#22d3ee">肺臟</span>的一半——組合系統為 <span style="color:#34d399">110 ml/cm H₂O</span>，單獨<span style="color:#22d3ee">肺臟</span>為 <span style="color:#34d399">200 ml/cm H₂O</span>。
 
 此外，當肺臟被擴張到高容積或壓縮到低容積時，胸廓的限制變得極端的。當接近這些極限時，組合肺-胸廓系統的順應性可能低於單獨肺臟的 20%。
 
@@ -155,21 +155,21 @@ Surfactant 是幾種磷脂、蛋白質和離子的複雜混合物。最重要的
 
 Figure 38-6 列出了四種肺容積，它們加起來等於肺臟所能擴張的最大容積。所示肺容積是平均成年男性的数值，但肺容積因體能、年齡、身高、性別和其他因素（如居住地海拔高度）而有相當大的差異。
 
-各肺容積的意義如下：
+各<span style="color:#22d3ee">肺容積</span>的意義如下：
 
-1. **潮氣容積（tidal volume）**——每次正常呼吸時吸入或呼出的空氣量；健康男性平均約 500 ml
-2. **吸氣儲備容積（inspiratory reserve volume）**——當用力吸氣時，超出正常潮氣容積所能額外吸入的空氣量；通常約 3000 ml
-3. **呼氣儲備容積（expiratory reserve volume）**——在正常潮氣呼氣末，用力呼氣所能額外呼出的最大空氣量；男性通常約 1100 ml
-4. **餘容積（residual volume）**——最用力呼氣後仍留在肺臟中的空氣量；平均約 1200 ml
+1. <span style="color:#e2e8f0">潮氣容積（tidal volume）</span>——每次正常呼吸時吸入或呼出的空氣量；健康男性平均約 <span style="color:#34d399">500 ml</span>
+2. <span style="color:#e2e8f0">吸氣儲備容積（inspiratory reserve volume）</span>——當用力吸氣時，超出正常潮氣容積所能額外吸入的空氣量；通常約 <span style="color:#34d399">3000 ml</span>
+3. <span style="color:#e2e8f0">呼氣儲備容積（expiratory reserve volume）</span>——在正常潮氣呼氣末，用力呼氣所能額外呼出的最大空氣量；男性通常約 <span style="color:#34d399">1100 ml</span>
+4. <span style="color:#e2e8f0">餘容積（residual volume）</span>——最用力呼氣後仍留在<span style="color:#22d3ee">肺臟</span>中的空氣量；平均約 <span style="color:#34d399">1200 ml</span>
 
 ### 肺容量
 
 在描述肺循環事件時，有時將兩個或多個容積一起考慮會更有用。這樣的組合稱為肺容量（pulmonary capacities）。Figure 38-6 右側列出了一些重要的肺容量，描述如下：
 
-1. **吸氣容量（inspiratory capacity）**——等於潮氣容積加吸氣儲備容積；這是一個人從正常呼氣水平開始能夠吸入的最大空氣量（約 3500 ml）
-2. **功能性餘容量（functional residual capacity, FRC）**——等於呼氣儲備容積加餘容積；這是正常呼氣末留在肺臟中的空氣量（約 2300 ml）
-3. **肺活量（vital capacity, VC）**——等於吸氣儲備容積加潮氣容積加呼氣儲備容積；這是一個人在先將肺臟充氣至最大程度，然後盡量呼氣所能從肺臟排出的最大空氣量（約 4600 ml）
-4. **總肺容量（total lung capacity, TLC）**——在最大用力時肺臟所能擴張到的最大容積（約 5800 ml）；等於肺活量加餘容積
+1. <span style="color:#e2e8f0">吸氣容量（inspiratory capacity）</span>——等於潮氣容積加吸氣儲備容積；這是一個人從正常呼氣水平開始能夠吸入的最大空氣量（約 <span style="color:#34d399">3500 ml</span>）
+2. <span style="color:#e2e8f0">功能性餘容量（functional residual capacity, FRC）</span>——等於呼氣儲備容積加餘容積；這是正常呼氣末留在<span style="color:#22d3ee">肺臟</span>中的空氣量（約 <span style="color:#34d399">2300 ml</span>）
+3. <span style="color:#e2e8f0">肺活量（vital capacity, VC）</span>——等於吸氣儲備容積加潮氣容積加呼氣儲備容積；這是一個人在先將<span style="color:#22d3ee">肺臟</span>充氣至最大程度，然後盡量呼氣所能從<span style="color:#22d3ee">肺臟</span>排出的最大空氣量（約 <span style="color:#34d399">4600 ml</span>）
+4. <span style="color:#e2e8f0">總肺容量（total lung capacity, TLC）</span>——在最大用力時<span style="color:#22d3ee">肺臟</span>所能擴張到的最大容積（約 <span style="color:#34d399">5800 ml</span>）；等於肺活量加餘容積
 
 大多數肺容積和容量在女性中通常比男性少約 20% 至 30%，而且在高大和運動能力强的人中比矮小和體弱者大。
 
@@ -265,6 +265,6 @@ Where:
 
 ## 每分鐘呼吸容積等於呼吸頻率乘以潮氣容積
 
-每分鐘呼吸容積是每分鐘進入呼吸道的氣總量，等於潮氣容積乘以每分鐘呼吸頻率。正常潮氣容積約 500 ml，正常呼吸頻率約每分鐘 12 次呼吸。因此，每分鐘呼吸容積平均約 6 L/min。
+每分鐘呼吸容積是每分鐘進入呼吸道的氣總量，等於潮氣容積乘以每分鐘呼吸頻率。正常潮氣容積約 500 ml，正常呼吸頻率約每分鐘 12 次呼吸。因此，每分鐘呼吸容積平均約 <span style="color:#34d399">6 L/min</span>。
 
-一個人在每分鐘呼吸容積低至 1.5 L 且呼吸頻率僅 2 至 4 次的情況下可以存活一小段時間。呼吸頻率偶爾會上升到每分鐘 40 至 50 次，潮氣容積可以變得與肺活量一樣大，在年輕成年男性中約 4600 ml。
+一個人在每分鐘呼吸容積低至 <span style="color:#f87171">1.5 L</span> 且呼吸頻率僅 2 至 4 次的情況下可以存活一小段時間。呼吸頻率偶爾會上升到每分鐘 <span style="color:#f87171">40 至 50 次</span>，潮氣容積可以變得與肺活量一樣大，在年輕成年男性中約 <span style="color:#34d399">4600 ml</span>。

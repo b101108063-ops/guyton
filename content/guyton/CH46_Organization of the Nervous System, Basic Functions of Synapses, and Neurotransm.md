@@ -56,14 +56,14 @@ summary: "本章介紹神經系統的整體結構與功能層級，以及 synapt
 
 人體中樞神經系統大多數的 synapse 屬於化學性 synapse。圖 46-5 說明其結構：presynaptic neuron 的神經末梢釋放**神經傳導物質（neurotransmitter）**，跨越 synaptic cleft（200–300 Å 寬）作用於 postsynaptic neuron 的受體，產生興奮或抑制效應。
 
-已知的神經傳導物質超過 50 種：
+已知的神經傳導物質超過 <span style="color:#f87171">50 種</span>：
 
 | 類別 | 代表物質 |
 |------|---------|
-| **膽鹼類** | Acetylcholine |
-| **單胺類** | Norepinephrine、Epinephrine、Dopamine、Serotonin、Histamine |
-| **氨基酸類** | Glutamate（興奮性）、GABA（抑制性）、Glycine |
-| **其他** | ATP、Adenosine、Nitric oxide |
+| <span style="color:#60a5fa">膽鹼類</span> | <span style="color:#fb923c">Acetylcholine</span> |
+| <span style="color:#60a5fa">單胺類</span> | <span style="color:#fb923c">Norepinephrine</span>、<span style="color:#fb923c">Epinephrine</span>、<span style="color:#fb923c">Dopamine</span>、<span style="color:#fb923c">Serotonin</span>、<span style="color:#fb923c">Histamine</span> |
+| <span style="color:#60a5fa">氨基酸類</span> | <span style="color:#fb923c">Glutamate</span>（興奮性）、<span style="color:#fb923c">GABA</span>（抑制性）、<span style="color:#fb923c">Glycine</span> |
+| <span style="color:#60a5fa">其他</span> | <span style="color:#fb923c">ATP</span>、<span style="color:#fb923c">Adenosine</span>、<span style="color:#fb923c">Nitric oxide</span> |
 
 ### 電性 Synapse
 
@@ -90,7 +90,7 @@ summary: "本章介紹神經系統的整體結構與功能層級，以及 synapt
 
 圖 46-5A 說明釋放機制：
 
-動作電位抵達 → 電壓門控 Ca²⁺ 通道打開 → Ca²⁺ 大量內流 → Ca²⁺ 與突觸膜內側的「釋放位點」結合 → 囊泡與細胞膜融合 → 神經傳導物質釋放至 synaptic cleft
+動作電位抵達 → 電壓門控 <span style="color:#60a5fa">Ca²⁺</span> 通道打開 → <span style="color:#60a5fa">Ca²⁺</span> 大量內流 → <span style="color:#60a5fa">Ca²⁺</span> 與突觸膜內側的「釋放位點」結合 → 囊泡與細胞膜融合 → 神經傳導物質釋放至 <span style="color:#e2e8f0">synaptic cleft</span>
 
 **釋放量與 Ca²⁺ 內流量成正比**。以 acetylcholine 為例，每個囊泡含 2,000–10,000 個分子，足夠支援數百至數萬次的動作電位傳遞。
 
@@ -120,10 +120,10 @@ Postsynaptic 膜上的離子通道具有高度選擇性：
 
 | 第二信使 | 作用 |
 |---------|------|
-| **cAMP** | 活化蛋白質激酶，磷酸化離子通道與酶 |
-| **cGMP** | 類似 cAMP，參與視覺與血管舒張 |
-| **Ca²⁺-calmodulin** | 活化多種細胞內酶，調控基因表現 |
-| **Phospholipase C 途徑** | 產生 IP₃ 與 DAG，觸發細胞內 Ca²⁺ 釋放 |
+| <span style="color:#60a5fa">cAMP</span> | 活化蛋白質激酶，磷酸化離子通道與酶 |
+| <span style="color:#60a5fa">cGMP</span> | 類似 cAMP，參與視覺與血管舒張 |
+| <span style="color:#60a5fa">Ca²⁺-calmodulin</span> | 活化多種細胞內酶，調控基因表現 |
+| <span style="color:#60a5fa">Phospholipase C 途徑</span> | 產生 IP₃ 與 DAG，觸發細胞內 Ca²⁺ 釋放 |
 
 這些系統可引發細胞內級聯反應，導致基因表現改變、蛋白質合成變化，以及 synapses 的結構重塑——這些正是學習與記憶的分子基礎。
 

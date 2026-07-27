@@ -10,23 +10,23 @@ key_points:
 
 ## 章節導讀
 
-本章系統性地說明人體水分（body water）在各體液腔室（fluid compartments）之間的分佈與調控，是理解後續腎臟章節的重要基礎。首先，身體總水分約佔體重的 60%（70 kg 成人約 42 L），分為 extracellular fluid（ECF，細胞外液）與 intracellular fluid（ICF，細胞內液）兩大區室。ECF 進一步分為 interstitial fluid（間質液）與 plasma（血漿）。其次，滲透壓（osmolarity）的概念是理解水分在這兩個大區室之間移動的核心——水分子會從低滲透壓區室穿越細胞膜流向高滲透壓區室，直到兩側滲透壓相等。這個平衡原則適用於所有水分調控失衡的病理狀況——包括 hyponatremia（低血鈉）、hypernatremia（高血鈉）與 edema（水腫）的發生機制。本章最後說明身體如何透過淋巴系統與毛細血管 Starling forces 防止水腫，以及當這些安全因子失效時，水腫如何形成。
+本章系統性地說明人體<span style="color:#60a5fa">水分</span>（<span style="color:#60a5fa">body water</span>）在各<span style="color:#60a5fa">體液腔室</span>（<span style="color:#60a5fa">fluid compartments</span>）之間的分佈與調控，是理解後續<span style="color:#22d3ee">腎臟</span>章節的重要基礎。首先，身體<span style="color:#60a5fa">總水分</span>約佔體重的 <span style="color:#34d399">60%</span>（70 kg 成人約 <span style="color:#34d399">42 L</span>），分為<span style="color:#60a5fa">細胞外液</span>（<span style="color:#60a5fa">extracellular fluid</span>，<span style="color:#60a5fa">ECF</span>）與<span style="color:#60a5fa">細胞內液</span>（<span style="color:#60a5fa">intracellular fluid</span>，<span style="color:#60a5fa">ICF</span>）兩大區室。<span style="color:#60a5fa">ECF</span> 進一步分為<span style="color:#60a5fa">間質液</span>（<span style="color:#60a5fa">interstitial fluid</span>）與<span style="color:#60a5fa">血漿</span>（<span style="color:#60a5fa">plasma</span>）。其次，<span style="color:#60a5fa">滲透壓</span>（<span style="color:#60a5fa">osmolarity</span>）的概念是理解水分在這兩個大區室之間移動的核心——水分子會從低滲透壓區室穿越<span style="color:#22d3ee">細胞膜</span>流向高滲透壓區室，直到兩側滲透壓相等。這個平衡原則適用於所有水分調控失衡的病理狀況——包括 <span style="color:#60a5fa">hyponatremia</span>（<span style="color:#60a5fa">低血鈉</span>）、<span style="color:#60a5fa">hypernatremia</span>（<span style="color:#60a5fa">高血鈉</span>）與 <span style="color:#60a5fa">edema</span>（<span style="color:#60a5fa">水腫</span>）的發生機制。本章最後說明身體如何透過<span style="color:#22d3ee">淋巴系統</span>與<span style="color:#22d3ee">毛細血管</span> <span style="color:#60a5fa">Starling forces</span> 防止<span style="color:#60a5fa">水腫</span>，以及當這些安全因子失效時，<span style="color:#60a5fa">水腫</span>如何形成。
 
 ## 體液區室的劃分
 
 ### 總體水分（Total Body Water, TBW）
 
-70 kg 成年男性的總體水分約佔體重 60%，即約 42 L。女性因脂肪比例較高，約為 50%。新生兒最高，可達 70%–75%。這個數值會隨年齡增加而下降（因脂肪比例增加）。
+70 kg 成年男性的<span style="color:#60a5fa">總體水分</span>約佔體重 <span style="color:#34d399">60%</span>，即約 <span style="color:#34d399">42 L</span>。<span style="color:#e2e8f0">女性</span>因脂肪比例較高，約為 <span style="color:#34d399">50%</span>。<span style="color:#e2e8f0">新生兒</span>最高，可達 <span style="color:#34d399">70%–75%</span>。這個數值會隨年齡增加而下降（因脂肪比例增加）。
 
 ### 兩大體液區室
 
-**細胞內液（Intracellular Fluid, ICF）**：約占 TBW 的 40%，即約 28 L。所有細胞內的液體組成一个大區室，但各細胞內液的離子組成大致相似——高鉀、低鈉。
+**<span style="color:#60a5fa">細胞內液</span>（<span style="color:#60a5fa">Intracellular Fluid</span>，<span style="color:#60a5fa">ICF</span>）**：約占 TBW 的 <span style="color:#34d399">40%</span>，即約 <span style="color:#34d399">28 L</span>。所有<span style="color:#22d3ee">細胞</span>內的液體組成一个大區室，但各<span style="color:#22d3ee">細胞</span>內液的離子組成大致相似——高<span style="color:#fb923c">鉀</span>、低<span style="color:#fb923c">鈉</span>。
 
-**細胞外液（Extracellular Fluid, ECF）**：約占 TBW 的 20%，即約 14 L。ECF 又分為：
+**<span style="color:#60a5fa">細胞外液</span>（<span style="color:#60a5fa">Extracellular Fluid</span>，<span style="color:#60a5fa">ECF</span>）**：約占 TBW 的 <span style="color:#34d399">20%</span>，即約 <span style="color:#34d399">14 L</span>。<span style="color:#60a5fa">ECF</span> 又分為：
 
-- **血漿（Plasma）**：約 3 L，存在於血管內
-- **間質液（Interstitial Fluid）**：約 11 L，充斥於細胞之間的空間
-- **跨細胞液（Transcellular Fluid）**：腦脊髓液、關節液、腹膜液等，約 1–2 L
+- **<span style="color:#60a5fa">血漿</span>（<span style="color:#60a5fa">Plasma</span>）**：約 <span style="color:#34d399">3 L</span>，存在於<span style="color:#22d3ee">血管</span>內
+- **<span style="color:#60a5fa">間質液</span>（<span style="color:#60a5fa">Interstitial Fluid</span>）**：約 <span style="color:#34d399">11 L</span>，充斥於<span style="color:#22d3ee">細胞</span>之間的空間
+- **<span style="color:#60a5fa">跨細胞液</span>（<span style="color:#60a5fa">Transcellular Fluid</span>）**：<span style="color:#22d3ee">腦脊髓液</span>、<span style="color:#22d3ee">關節液</span>、<span style="color:#22d3ee">腹膜液</span>等，約 <span style="color:#34d399">1–2 L</span>
 
 各區室之間的水分持續交換，而交換的方向與速率由滲透壓梯度與 hydrostatic pressure 梯度決定。
 
@@ -34,22 +34,22 @@ key_points:
 
 ### 滲透壓的基本概念
 
-滲透壓（osmotic pressure）是由溶液中溶質顆粒濃度決定的。根據 van't Hoff 定律，理想溶液中滲透壓的大小與溶質顆粒數量成正比：
+<span style="color:#60a5fa">滲透壓</span>（<span style="color:#60a5fa">osmotic pressure</span>）是由溶液中<span style="color:#fb923c">溶質</span>顆粒濃度決定的。根據 van't Hoff 定律，理想溶液中滲透壓的大小與<span style="color:#fb923c">溶質</span>顆粒數量成正比：
 
-- 0.9% 生理食鹽水（saline）的 osmolarity 約為 286 mOsm/L
-- 這個濃度與人體血漿的 osmolarity（約 300 mOsm/L）相近，因此是等滲（isotonic）溶液
+- <span style="color:#34d399">0.9%</span> 生理食鹽水（<span style="color:#60a5fa">saline</span>）的 <span style="color:#60a5fa">osmolarity</span> 約為 <span style="color:#34d399">286 mOsm/L</span>
+- 這個濃度與人體<span style="color:#60a5fa">血漿</span>的 <span style="color:#60a5fa">osmolarity</span>（約 <span style="color:#34d399">300 mOsm/L</span>）相近，因此是<span style="color:#60a5fa">等滲</span>（<span style="color:#60a5fa">isotonic</span>）溶液
 
 ### 細胞內外液的滲透平衡
 
-水分子會持續穿越細胞膜來回移動，直到細胞內外液的滲透壓相等。由於細胞膜對鈉與鉀離子幾乎不通透（ impermeant），這些離子的主動排出（Na⁺-K⁺ ATPase）決定了細胞內外的滲透壓平衡點。
+水分子會持續穿越<span style="color:#22d3ee">細胞膜</span>來回移動，直到<span style="color:#60a5fa">細胞內液</span>與<span style="color:#60a5fa">細胞外液</span>的滲透壓相等。由於<span style="color:#22d3ee">細胞膜</span>對<span style="color:#fb923c">鈉</span>與<span style="color:#fb923c">鉀</span>離子幾乎不通透（ impermeant），這些離子的主動排出（Na⁺-K⁺ <span style="color:#60a5fa">ATPase</span>）決定了<span style="color:#22d3ee">細胞</span>內外的滲透壓平衡點。
 
 正常情況下，ICF 與 ECF 的 osmolarity 都約為 300 mOsm/L——這是因為水分子會快速移動來平衡任何滲透壓差異。
 
 ### 等滲、低滲與高滲溶液
 
-- **Isotonic（等滲）**：渗透壓與血漿相同（≈ 300 mOsm/L)，紅血球放入後既不膨脹也不皺縮。0.9% saline 與 5% glucose 是常用的靜脈注射等滲液。
-- **Hypotonic（低滲）**：渗透壓低於血漿，水分子會擴散進入細胞內，引起細胞膨脹。0.45% saline 是低滲。
-- **Hypertonic（高滲）**：渗透壓高於血漿，水分子離開細胞，引起細胞皺縮。3% saline 是高滲。
+- **<span style="color:#60a5fa">Isotonic</span>（等滲）**：滲透壓與<span style="color:#60a5fa">血漿</span>相同（≈ <span style="color:#34d399">300 mOsm/L</span>），<span style="color:#c084fc">紅血球</span>放入後既不膨脹也不皺縮。<span style="color:#34d399">0.9%</span> saline 與 <span style="color:#34d399">5%</span> glucose 是常用的靜脈注射等滲液。
+- **<span style="color:#60a5fa">Hypotonic</span>（低滲）**：滲透壓低於<span style="color:#60a5fa">血漿</span>，水分子會擴散進入<span style="color:#22d3ee">細胞</span>內，引起<span style="color:#22d3ee">細胞</span>膨脹。<span style="color:#34d399">0.45%</span> saline 是低滲。
+- **<span style="color:#60a5fa">Hypertonic</span>（高滲）**：滲透壓高於<span style="color:#60a5fa">血漿</span>，水分子離開<span style="color:#22d3ee">細胞</span>，引起<span style="color:#22d3ee">細胞</span>皺縮。<span style="color:#34d399">3%</span> saline 是高滲。
 
 ## 體液區室異常時的水分與滲透壓變化
 
@@ -67,24 +67,24 @@ key_points:
 
 ## 臨床體液失衡：Hyponatremia（低血鈉）與 Hypernatremia（高血鈉）
 
-血漿鈉濃度（正常約 140 mEq/L）是血漿滲透壓的主要決定因素，因此 hyponatremia 通常反映血漿滲透壓過低。
+<span style="color:#60a5fa">血漿</span><span style="color:#fb923c">鈉</span>濃度（正常約 <span style="color:#34d399">140 mEq/L</span>）是<span style="color:#60a5fa">血漿</span>滲透壓的主要決定因素，因此 <span style="color:#60a5fa">hyponatremia</span> 通常反映<span style="color:#60a5fa">血漿</span>滲透壓過低。
 
 ### 低血鈉的原因
 
-- **鈉流失過多**：腹瀉、嘔吐、使用利尿劑
-- **水分滯留過多**：ADH 分泌過多（SIADH）、心衰竭、腎衰竭
-- **Addison disease**：aldosterone 分泌不足，腎小管無法有效保留鈉
+- **<span style="color:#fb923c">鈉</span>流失過多**：腹瀉、嘔吐、使用<span style="color:#fb923c">利尿劑</span>
+- **水分滯留過多**：<span style="color:#fb923c">ADH</span> 分泌過多（<span style="color:#60a5fa">SIADH</span>）、<span style="color:#60a5fa">心衰竭</span>、<span style="color:#22d3ee">腎衰竭</span>
+- **<span style="color:#60a5fa">Addison disease</span>**：<span style="color:#fb923c">aldosterone</span> 分泌不足，<span style="color:#22d3ee">腎小管</span>無法有效保留<span style="color:#fb923c">鈉</span>
 
 ### 低血鈉的症狀與機制
 
-血漿滲透壓下降 → 水分移入細胞 → 細胞水腫。最危險的是**腦細胞水腫**——因為顱腔是剛性結構，腦水腫會導致顱內壓升高、頭痛、意識障礙、抽搐，嚴重時可因腦組織嵌頓（herniation）而死亡。
+<span style="color:#60a5fa">血漿</span>滲透壓下降 → 水分移入<span style="color:#22d3ee">細胞</span> → <span style="color:#22d3ee">細胞</span><span style="color:#60a5fa">水腫</span>。最危險的是**<span style="color:#22d3ee">腦細胞</span><span style="color:#60a5fa">水腫</span>**——因為<span style="color:#22d3ee">顱腔</span>是剛性結構，<span style="color:#22d3ee">腦</span><span style="color:#60a5fa">水腫</span>會導致<span style="color:#f87171">顱內壓升高</span>、<span style="color:#f87171">頭痛</span>、<span style="color:#f87171">意識障礙</span>、<span style="color:#f87171">抽搐</span>，嚴重時可因<span style="color:#22d3ee">腦組織</span>嵌頓（<span style="color:#60a5fa">herniation</span>）而死亡。
 
 慢性低血鈉（數天內慢慢形成）時，腦細胞會透過主動排出離子（鈉、鉀、有機滲透質）來對抗水腫，使水腫程度減輕。但若快速糾正（如給予高滲鹽水過快），水分突然離開腦細胞，可能造成**滲透性去髓鞘病變**（osmotic demyelination），是一種嚴重的神經併發症。因此糾正低血鈉的速度必須控制在每天不超過 10–12 mEq/L。
 
 ### 高血鈉的原因
 
-- **水分流失過多**：尿崩症（diabetes insipidus）、過度出汗、意識障礙無法飲水
-- **鈉負荷過多**：攝取過多鹽分但水分補充不足
+- **水分流失過多**：<span style="color:#60a5fa">尿崩症</span>（<span style="color:#60a5fa">diabetes insipidus</span>）、過度出汗、意識障礙無法飲水
+- **<span style="color:#fb923c">鈉</span>負荷過多**：攝取過多鹽分但水分補充不足
 - **水分攝取不足**：水源取得障礙
 
 ### 高血鈉的症狀
@@ -93,24 +93,24 @@ key_points:
 
 ## 水腫（Edema）：細胞外液過多
 
-水腫是指液體異常地積聚於組織間隙或細胞內。
+<span style="color:#60a5fa">水腫</span>是指液體異常地積聚於<span style="color:#22d3ee">組織</span>間隙或<span style="color:#22d3ee">細胞</span>內。
 
-### 細胞內水腫（Intracellular Edema）
+### <span style="color:#60a5fa">細胞內水腫</span>（<span style="color:#60a5fa">Intracellular Edema</span>）
 
-細胞內水腫起因於：
+<span style="color:#60a5fa">細胞內水腫</span>起因於：
 
-1. **Hyponatremia**：細胞外液滲透壓過低，水分進入細胞
-2. **細胞代謝抑制**：缺氧或營養不足 → Na⁺-K⁺ ATPase 活性下降 → 鈉離子無法被排出 → 水分被動進入細胞
-3. **發炎**：細胞膜通透性增加
+1. **<span style="color:#60a5fa">Hyponatremia</span>**：<span style="color:#60a5fa">細胞外液</span>滲透壓過低，水分進入<span style="color:#22d3ee">細胞</span>
+2. **<span style="color:#22d3ee">細胞</span>代謝抑制**：缺氧或營養不足 → Na⁺-K⁺ <span style="color:#60a5fa">ATPase</span> 活性下降 → <span style="color:#fb923c">鈉</span>離子無法被排出 → 水分被動進入<span style="color:#22d3ee">細胞</span>
+3. **<span style="color:#c084fc">發炎</span>**：<span style="color:#22d3ee">細胞膜</span>通透性增加
 
 缺血組織的細胞水腫可能預示組織即將死亡。
 
-### 細胞外水腫（Extracellular Edema）
+### <span style="color:#60a5fa">細胞外水腫</span>（<span style="color:#60a5fa">Extracellular Edema</span>）
 
-細胞外水腫起因於：
+<span style="color:#60a5fa">細胞外水腫</span>起因於：
 
-1. **毛細血管過濾增加**：超過淋巴回流的能力
-2. **淋巴回流受阻**：淋巴管阻塞或缺失
+1. **<span style="color:#22d3ee">毛細血管</span>過濾增加**：超過<span style="color:#22d3ee">淋巴</span>回流的能力
+2. **<span style="color:#22d3ee">淋巴</span>回流受阻**：<span style="color:#22d3ee">淋巴管</span>阻塞或缺失
 
 毛細血管過濾由 Starling forces 決定：
 
@@ -118,16 +118,16 @@ key_points:
 
 其中 Pc 為毛細血管 hydrostatic pressure，Pif 為間質液 hydrostatic pressure，πc 為血漿膠體滲透壓，πif 為間質液膠體滠透壓。
 
-臨床上造成細胞外水腫的主要因素包括：
+臨床上造成<span style="color:#60a5fa">細胞外水腫</span>的主要因素包括：
 
-- **心衰竭**：靜脈壓升高 → Pc 增加 → 液體漏出至間隙
-- **腎衰竭**：鈉水滯留 → blood volume ↑ → Pc ↑
-- **血漿蛋白減少**：nephrotic syndrome（蛋白質由尿中流失）、肝硬化（蛋白質製造減少）→ πc ↓ → 液體移出
-- **微血管通透性增加**：過敏反應、感染、燒傷
+- **<span style="color:#60a5fa">心衰竭</span>**：<span style="color:#f87171">靜脈壓升高</span> → <span style="color:#60a5fa">Pc</span> 增加 → 液體漏出至間隙
+- **<span style="color:#22d3ee">腎衰竭</span>**：<span style="color:#fb923c">鈉</span>水滯留 → blood volume ↑ → <span style="color:#60a5fa">Pc</span> ↑
+- **<span style="color:#60a5fa">血漿</span>蛋白減少**：<span style="color:#60a5fa">nephrotic syndrome</span>（蛋白質由尿中流失）、<span style="color:#22d3ee">肝硬化</span>（蛋白質製造減少）→ <span style="color:#60a5fa">πc</span> ↓ → 液體移出
+- **<span style="color:#22d3ee">毛細血管</span>通透性增加**：<span style="color:#c084fc">過敏反應</span>、<span style="color:#c084fc">感染</span>、燒傷
 
 ### 淋巴水腫（Lymphedema）
 
-當淋巴系統因感染（如絲蟲病）、癌症手術或先天的發育異常而受阻時，組織間隙的蛋白質無法被淋巴管回收，堆積的蛋白質提高間質膠體滲透壓，吸引更多液體離開毛細血管，形成進行性水腫。絲蟲病（filarial infection）引起的 elephantiasis（象皮病）就是淋巴水腫的經典例子。
+當<span style="color:#22d3ee">淋巴系統</span>因<span style="color:#c084fc">感染</span>（如<span style="color:#c084fc">絲蟲病</span>）、<span style="color:#c084fc">癌症</span>手術或先天的發育異常而受阻時，<span style="color:#22d3ee">組織</span>間隙的蛋白質無法被<span style="color:#22d3ee">淋巴管</span>回收，堆積的蛋白質提高<span style="color:#60a5fa">間質</span><span style="color:#60a5fa">膠體滲透壓</span>，吸引更多液體離開<span style="color:#22d3ee">毛細血管</span>，形成進行性<span style="color:#60a5fa">水腫</span>。<span style="color:#c084fc">絲蟲病</span>（<span style="color:#c084fc">filarial infection</span>）引起的 <span style="color:#60a5fa">elephantiasis</span>（象皮病）就是<span style="color:#60a5fa">淋巴水腫</span>的經典例子。
 
 ## 預防水腫的安全因子（Safety Factors Against Edema）
 

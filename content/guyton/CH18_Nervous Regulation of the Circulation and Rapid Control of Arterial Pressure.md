@@ -10,9 +10,9 @@ key_points:
 
 ## 章節導讀
 
-本章探討中樞神經系統如何透過交感神經與副交感神經調控心血管系統，進而快速控制血壓。內容聚焦於三個核心主題：第一，交感神經的血管收縮作用——血管運動中樞如何持續發出衝動維持基礎血管張力，以及腎上腺髓質釋放的 catecholamines（epinephrine 與 norepinephrine）如何強化此效應；第二，壓力感受器（baroreceptor）反射——主動脈弓與頸動脈竇的感覺受器如何偵測血壓變化並即時回饋調節；第三，各種緊急情境（如運動、情緒反應、失血）下神經系統如何迅速提升血壓以維持重要器官灌流。本章說明的調控機制，是理解後續章節心衰竭、休克及血壓長期調控的重要基礎。
+本章探討中樞神經系統如何透過交感神經與副交感神經調控心血管系統，進而快速控制血壓。內容聚焦於三個核心主題：第一，交感神經的血管收縮作用——<span style="color:#22d3ee">血管運動中樞</span>如何持續發出衝動維持基礎血管張力，以及腎上腺<span style="color:#22d3ee">髓質</span>釋放的 catecholamines（epinephrine 與 norepinephrine）如何強化此效應；第二，<span style="color:#60a5fa">壓力感受器</span>（baroreceptor）反射——<span style="color:#22d3ee">主動脈弓</span>與<span style="color:#22d3ee">頸動脈竇</span>的感覺受器如何偵測血壓變化並即時回饋調節；第三，各種緊急情境（如運動、情緒反應、失血）下神經系統如何迅速提升血壓以維持重要器官灌流。本章說明的調控機制，是理解後續章節心衰竭、休克及血壓長期調控的重要基礎。
 
-## Vasomotor Center（血管運動中樞）
+## Vasomotor Center（<span style="color:#22d3ee">血管運動中樞</span>）
 
 Vasomotor center 位於 medulla 與 lower pons，由三個功能區域組成，共同調控血管直徑與心臟活動，進而影響 arterial pressure：
 
@@ -22,9 +22,9 @@ Vasomotor center 位於 medulla 與 lower pons，由三個功能區域組成，�
 
 3. **Sensory area（感覺區）**：位於 nucleus tractus solitarius，接收來自 vagus 與 glossopharyngeal nerves 的循環系統感覺訊號，並輸出訊號控制 vasoconstrictor 與 vasodilator area 的活動——這正是 baroreceptor reflex 的神經基礎。
 
-### Sympathetic Vasoconstrictor Tone（交感血管收縮張力）
+### Sympathetic Vasoconstrictor Tone（<span style="color:#e2e8f0">交感血管收縮張力</span>）
 
-在正常生理狀態下，vasoconstrictor area 以每秒約 0.5–2 次的頻率持續向交感神經纖維發送訊號，維持血管的部分收縮狀態，稱為 sympathetic vasoconstrictor tone。此張力可透過實驗驗證：給予脊椎麻醉阻斷交感神經傳導後，血壓會從 100 mm Hg 驟降至 50 mm Hg，顯示基礎張力對維持正常血壓的重要性。
+在正常生理狀態下，vasoconstrictor area 以每秒約 0.5–2 次的頻率持續向交感神經纖維發送訊號，維持血管的部分收縮狀態，稱為 sympathetic vasoconstrictor tone。此張力可透過實驗驗證：給予脊椎麻醉阻斷交感神經傳導後，血壓會從 100 mm Hg 驟降至 <span style="color:#f87171">50 mm Hg</span>，顯示基礎張力對維持正常血壓的重要性。
 
 ### 心臟活動的神經調控
 
@@ -48,7 +48,7 @@ Hypothalamus 是控制血管運動系統的關鍵橋樑。Posterolateral hypotha
 
 ### 血壓升高的三位一體反應
 
-面對緊急需求（如運動、恐懼反應），交感神經系統與迷走抑制同時調整，產生以下三種變化：
+面對緊急需求（如運動、恐懼反應），<span style="color:#60a5fa">交感神經系統</span>與迷走抑制同時調整，產生以下三種變化：
 
 1. **全身 arterioles 收縮**：大幅增加 total peripheral resistance，進而提高 arterial pressure。
 2. **靜脈與大血管收縮**：將血液從周邊大血管擠向心臟，增加心室充盈與每搏輸出量。
@@ -58,7 +58,7 @@ Hypothalamus 是控制血管運動系統的關鍵橋樑。Posterolateral hypotha
 
 運動時肌肉代谢產物引起局部血管舒張以增加血流，同時 CNS 啟動廣泛的交感興奮，使 arterial pressure 約升高 30%–40%，進一步將血流量提升近兩倍。此血壓上升幾乎完全來自神經系統的快速調控。
 
-## Baroreceptor Arterial Pressure Control System（壓力感受器血壓控制系統）
+## Baroreceptor Arterial Pressure Control System（<span style="color:#60a5fa">壓力感受器</span>血壓控制系統）
 
 Baroreceptor reflex 是最為人熟知的神經性血壓調控機制。其運作原理是：位於大血管壁內的拉伸感受器（baroreceptors）偵測血壓變化，將訊號傳入 CNS，CNS 再透過自律神經系統發出反饋訊號，使血壓回歸正常。
 
@@ -66,14 +66,14 @@ Baroreceptor reflex 是最為人熟知的神經性血壓調控機制。其運作
 
 Baroreceptors 分布於多條大血管壁，但特別密集於：
 
-- **Carotid sinus（頸動脈竇）**：每側 internal carotid artery 分叉處上方。
-- **Aortic arch（主動脈弓）**
+- **Carotid sinus（<span style="color:#22d3ee">頸動脈竇</span>）**：每側 internal carotid artery 分叉處上方。
+- **Aortic arch（<span style="color:#22d3ee">主動脈弓</span>）**
 
 Carotid baroreceptors 的訊號經 Hering's nerves 傳入 glossopharyngeal nerves，再至 medulla 的 nucleus tractus solitarius；主動脈 baroreceptors 的訊號則經 vagus nerves 傳至同一核團。
 
 ### Baroreceptors 對血壓的感應特性
 
-Carotid baroreceptors 在 pressure 50–60 mm Hg 以下完全不興奮；隨血壓上升，訊號發射頻率漸增，至約 180 mm Hg 達到最大。重要的是，在正常操作範圍（約 100 mm Hg）內，血壓只要有小幅變動，就能引發強烈的 baroreflex 訊號調整。這種在血壓最需要穩定的區間最為敏感的設計，正是 feedback control 的精髓。
+Carotid baroreceptors 在 pressure 50–60 mm Hg 以下完全不興奮；隨血壓上升，訊號發射頻率漸增，至約 180 mm Hg 達到最大。重要的是，在正常操作範圍（<span style="color:#34d399">約 100 mm Hg</span>）內，血壓只要有小幅變動，就能引發強烈的 baroreflex 訊號調整。這種在血壓最需要穩定的區間最為敏感的設計，正是 feedback control 的精髓。
 
 Baroreceptors 的反應極為快速——在心臟收縮期發射頻率增加，舒張期隨即下降；且對變動中的血壓比對恆定血壓更為敏感。
 
@@ -86,17 +86,17 @@ Baroreceptors 的反應極為快速——在心臟收縮期發射頻率增加，
 
 因此，高血壓時 baroreceptors 被伸展，反射性地使血壓下降；低血壓時則作用相反，使血壓回升。
 
-圖 18-7 的經典實驗說明此 reflex：夾閉兩側 common carotid arteries 後，頸動脈竇壓力下降，baroreceptor 訊號減少，vasomotor center 活性大增，導致 aortic pressure 急升至更高水平並維持約 10 分鐘。移除夾閉後，竇壓恢復，初期因過度補償而出現低血壓隨即回歸正常。
+圖 18-7 的經典實驗說明此 reflex：夾閉兩側 common carotid arteries 後，<span style="color:#22d3ee">頸動脈竇</span>壓力下降，baroreceptor 訊號減少，vasomotor center 活性大增，導致 aortic pressure 急升至更高水平並維持約 10 分鐘。移除夾閉後，竇壓恢復，初期因過度補償而出現低血壓隨即回歸正常。
 
 ## 其他血壓相關反射
 
-### Chemoreceptor Reflex（化學感受器反射）
+### Chemoreceptor Reflex（<span style="color:#60a5fa"><span style="color:#e2e8f0">化學感受器</span>反射</span>）
 
-Carotid bodies 與 aortic bodies 內的 chemoreceptors 對血液 oxygen、carbon dioxide 與 pH 值的變化極為敏感。當 hypoxia、hypercapnia 或 acidosis 發生時，chemoreceptors 興奮，透過與 baroreceptor 相同的神經路徑引發交感興奮與升壓反應。化學感受器反射主要在血氧過低時保護呼吸與循環系統。
+Carotid bodies 與 aortic bodies 內的 chemoreceptors 對血液 oxygen、carbon dioxide 與 pH 值的變化極為敏感。當 hypoxia、hypercapnia 或 acidosis 發生時，chemoreceptors 興奮，透過與 baroreceptor 相同的神經路徑引發交感興奮與升壓反應。<span style="color:#60a5fa"><span style="color:#e2e8f0">化學感受器</span>反射</span>主要在血氧過低時保護呼吸與循環系統。
 
 ### CNS Ischemic Response（CNS缺血反應）
 
-當 cerebral blood flow 嚴重不足（如血壓極低）時，brain stem 的 vasomotor center 因缺氧而產生強烈的交感放電，引起血壓急遽上升（called the Cushing reaction）。此機制在血壓降至 50 mm Hg 以下時才顯著啟動，是對腦部缺血危機的最後防線。
+當 cerebral blood flow 嚴重不足（如血壓極低）時，brain stem 的 vasomotor center 因缺氧而產生強烈的交感放電，引起血壓急遽上升（called the Cushing reaction）。此機制在血壓降至 <span style="color:#f87171">50 mm Hg</span> 以下時才顯著啟動，是對腦部缺血危機的最後防線。
 
 ### Right Heart and Low Pressure Receptor Reflexes（心臟與低壓感受器反射）
 

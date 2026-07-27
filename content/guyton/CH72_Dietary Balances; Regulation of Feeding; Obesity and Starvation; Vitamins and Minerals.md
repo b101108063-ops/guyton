@@ -10,7 +10,7 @@ key_points:
 
 ## 章節導讀
 
-維持體重與身體組成需要能量攝取與消耗長期平衡。本章說明身體如何調控進食行為與能量儲存。Hypothalamus 是進食調控的中樞結構：lateral hypothalamus 的 feeding center 驅動飢餓感，ventromedial hypothalamus 的 satiety center 抑制進食。Arcuatenucleus 中的 POMC/CART 神经元與 NPY/AGRP 神经元構成調控攝食的兩大神經途徑。短期調控主要由胃腸道的機械性擴張信號與胃腸道激素（如 CCK、PYY、ghrelin）執行；長期調控則依賴脂肪組織分泌的 leptin——當脂肪組織增加時，leptin 濃度升高，作用於 hypothalamic arcuate nucleus 的 POMC 與 AGRP/NPY 神经元，抑制食慾並增加能量消耗。肥胖的根本原因是能量攝取大於消耗，多餘的能量以脂肪形式儲存。遺傳因素、生活型態與環境因子共同決定了肥胖的發生。兒童期的營養過剩可能導致脂肪細胞數量永久性增加，使成年後肥胖的風險大為升高。
+維持體重與身體組成需要能量攝取與消耗長期平衡。本章說明身體如何調控進食行為與能量儲存。Hypothalamus 是進食調控的中樞結構：lateral hypothalamus 的 feeding center 驅動飢餓感，ventromedial hypothalamus 的 satiety center 抑制進食。Arcuatenucleus 中的 POMC/CART 神经元與 NPY/AGRP 神经元構成調控攝食的兩大神經途徑。短期調控主要由胃腸道的機械性擴張信號與胃腸道激素（如 CCK、PYY、<span style="color:#fb923c">ghrelin</span>）執行；長期調控則依賴脂肪組織分泌的 <span style="color:#fb923c">leptin</span>——當脂肪組織增加時，<span style="color:#fb923c">leptin</span> 濃度升高，作用於 hypothalamic arcuate nucleus 的 POMC 與 AGRP/NPY 神经元，抑制食慾並增加能量消耗。肥胖的根本原因是能量攝取大於消耗，多餘的能量以脂肪形式儲存。遺傳因素、生活型態與環境因子共同決定了肥胖的發生。兒童期的營養過剩可能導致脂肪細胞數量永久性增加，使成年後肥胖的風險大為升高。
 
 ---
 
@@ -79,7 +79,7 @@ Arcuate nucleus 中有兩類對立的神经元（Figure 72-2）：
 - **PYY**：由整個胃腸道（尤其是迴腸與結腸）分泌，進食後 1–2 小時達到高峰，高脂肪飲食後濃度更高。動物實驗中注射 PYY 可抑制進食長達 12 小時，但在人體的生理重要性尚待確認。
 - **GLP**：食物存在於腸道時刺激其分泌，進而促進胰島素分泌，兩者皆可抑制食慾。
 
-**Ghrelin 促進進食**：Ghrelin 主要由胃的 oxyntic cells 分泌，禁食時血中濃度上升，進食前達高峰，進食後迅速下降。給予 ghrelin 可增加動物進食量。
+**Ghrelin 促進進食**：Ghrelin 主要由胃的 oxyntic cells 分泌，禁食時血中濃度上升，進食前達高峰，進食後迅速下降。給予 <span style="color:#fb923c">ghrelin</span> 可增加動物進食量。
 
 **口腔因素計算進食量**：即使食物從食道瘻管立即流失（胃腸道未填充），動物在一定量的食物通過口腔後仍會出現飢餓感減退。這說明咀嚼、吞嚥與品嚐等口腔因素能「計算」已通過的食物量，但此機制的抑制效果較弱且持續時間短（約 20–40 分鐘）。
 
@@ -93,7 +93,7 @@ Arcuate nucleus 中有兩類對立的神经元（Figure 72-2）：
 
 **脂肪組織的回饋——Leptin**：
 
-當脂肪組織增加時， adipocyte 分泌的 leptin 增多，leptin 穿越血腦屏障後作用於 hypothalamus（尤其是 arcuate nucleus 的 POMC 與 AGRP/NPY 神经元，以及 paraventricular nucleus），引發以下效應：
+當脂肪組織增加時， adipocyte 分泌的 <span style="color:#fb923c">leptin</span> 增多，<span style="color:#fb923c">leptin</span> 穿越血腦屏障後作用於 hypothalamus（尤其是 arcuate nucleus 的 POMC 與 AGRP/NPY 神经元，以及 paraventricular nucleus），引發以下效應：
 
 1. 抑制 NPY 與 AGRP 的產生
 2. 活化 POMC 神经元，釋放 α-MSH 並活化 melanocortin receptors
@@ -103,7 +103,7 @@ Arcuate nucleus 中有兩類對立的神经元（Figure 72-2）：
 
 Leptin 讓脂肪組織得以向大脑報告「能量已足夠」的信号。
 
-大多數肥胖者血漿 leptin 濃度並不匱乏，反而是隨著脂肪組織增加而升高，稱為 leptin resistance——leptin 受體或受體後訊號路徑對 leptin 的敏感性下降，導致即使 leptin 高濃度仍持續過度進食。
+大多數肥胖者血漿 <span style="color:#fb923c">leptin</span> 濃度並不匱乏，反而是隨著脂肪組織增加而升高，稱為 <span style="color:#fb923c">leptin</span> resistance——<span style="color:#fb923c">leptin</span> 受體或受體後訊號路徑對 <span style="color:#fb923c">leptin</span> 的敏感性下降，導致即使 <span style="color:#fb923c">leptin</span> 高濃度仍持續過度進食。
 
 ---
 
@@ -134,7 +134,7 @@ BMI 不是脂肪量的直接測量，有些肌肉量大的人 BMI 也高。臨�
 
 **兒童期營養過剩**：嬰兒與幼童期是脂肪細胞數量快速增加的時期，肥胖兒童的脂肪細胞數量可達正常兒童的三倍。約 80% 的肥胖兒童成年後仍為肥胖。
 
-**遺傳因素**：約 20%–25% 的肥胖可歸因於遺傳。單基因致胖原因包括：POMC 與 MCR-4 基因突變（最常見的單基因致胖形式）、先天性 leptin 缺乏、leptin 受體基因突變。表觀遺傳機制也可能讓父母肥胖增加子代肥胖的風險。
+**遺傳因素**：約 20%–25% 的肥胖可歸因於遺傳。單基因致胖原因包括：POMC 與 MCR-4 基因突變（最常見的單基因致胖形式）、先天性 <span style="color:#fb923c">leptin</span> 缺乏、<span style="color:#fb923c">leptin</span> 受體基因突變。表觀遺傳機制也可能讓父母肥胖增加子代肥胖的風險。
 
 ---
 

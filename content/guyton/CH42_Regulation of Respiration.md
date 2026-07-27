@@ -31,9 +31,9 @@ summary: "本章闡述呼吸的化學與神經調控機制。呼吸中樞位於�
 
 ### H⁺ 是直接刺激物，但血液 H⁺ 難以穿越血腦屏障
 
-化學敏感區的神經元對 **H⁺** 直接敏感，但 H⁺ 離子極難穿越血腦屏障。**CO₂** 本身對這些神經元幾乎無直接作用，但其間接效應卻極為強大：
+化學敏感區的神經元對 <span style="color:#60a5fa">H⁺</span> 直接敏感，但 H⁺ 離子極難穿越<span style="color:#22d3ee">血腦屏障</span>。<span style="color:#60a5fa">CO₂</span> 本身對這些神經元幾乎無直接作用，但其間接效應卻極為強大：
 
-CO₂ → 擴散穿過血腦屏障 → 在腦間質液與腦脊隨液中與 H₂O 形成 H₂CO₃ → 解離為 H⁺ + HCO₃⁻ → H⁺ 刺激化學敏感區 → 呼吸驅動增強
+<span style="color:#60a5fa">CO₂</span> → 擴散穿過<span style="color:#22d3ee">血腦屏障</span> → 在<span style="color:#22d3ee">腦間質液</span>與<span style="color:#22d3ee">腦脊隨液</span>中與 H₂O 形成 H₂CO₃ → 解離為 <span style="color:#60a5fa">H⁺</span> + HCO₃⁻ → <span style="color:#60a5fa">H⁺</span> 刺激<span style="color:#e2e8f0">化學敏感區</span> → 呼吸驅動增強
 
 因此，血液 CO₂ 濃度的變化對呼吸中樞的刺激效應，反而比直接施加 H⁺ 更強——這是因為 CO₂ 能輕易穿越血腦屏障，而 H⁺ 不能。
 
@@ -73,7 +73,7 @@ O₂ 濃度的變化**幾乎不直接影響**呼吸中樞本身的活動。前�
 
 ### 低氧對化學感受器的刺激
 
-圖 42-5 顯示頸動脈體的神經衝動頻率與 arterial PO₂ 的關係。在 PO₂ 60–30 mm Hg 區間（hemoglobin saturation 快速下降的範圍），感受器特別敏感。當 PO₂ 低於 60 mm Hg 時，肺泡通氣量可增至正常的 **5–6 倍**（圖 42-7）。
+圖 42-5 顯示<span style="color:#22d3ee">頸动脉體</span>的神經衝動頻率與 arterial PO₂ 的關係。在 PO₂ <span style="color:#f87171">60–30 mm Hg</span> 區間（<span style="color:#60a5fa">hemoglobin</span> saturation 快速下降的範圍），感受器特別敏感。當 PO₂ 低於 <span style="color:#f87171">60 mm Hg</span> 時，<span style="color:#22d3ee">肺泡</span>通氣量可增至正常的 <span style="color:#34d399">5–6 倍</span>（圖 42-7）。
 
 ### Glomus 細胞的 O₂ 感知機制
 
@@ -105,11 +105,11 @@ CO₂ 與 H⁺ 也能刺激週邊化學感受器，但效應約僅為直接刺�
 
 ### 運動時通氣量與血液氣體的變化
 
-激烈運動時，O₂ 消耗與 CO₂ 產生可增達 20 倍。然而健康運動員的肺泡通氣量幾乎精確地與代谢需求同步增加，arterial PO₂、PCO₂ 與 pH 均維持接近正常（圖 42-9）。這意味著存在一套「超前的」呼吸驅動機制。
+激烈運動時，O₂ 消耗與 CO₂ 產生可增達 <span style="color:#f87171">20 倍</span>。然而健康運動員的<span style="color:#22d3ee">肺泡</span>通氣量幾乎精確地與<span style="color:#22d3ee">代谢</span>需求同步增加，arterial PO₂、PCO₂ 與 pH 均維持接近正常（圖 42-9）。這意味著存在一套「超前的」呼吸驅動機制。
 
 ### 神經性訊號驅動呼吸的預期性增加
 
-運動開始時，呼吸的增加在血液化學成分改變之前就已經啟動。這是因為大腦在發送運動訊號至肌肉的同時，也透過 **collateral fibers** 向腦幹呼吸中樞發出興奮性訊號——這與運動時血管運動中樞同步興奮導致血壓升高的機制類似。
+運動開始時，呼吸的增加在<span style="color:#22d3ee">血液</span>化學成分改變之前就已經啟動。這是因為<span style="color:#22d3ee">大腦</span>在發送運動訊號至<span style="color:#22d3ee">肌肉</span>的同時，也透過 <span style="color:#e2e8f0">collateral fibers</span> 向<span style="color:#22d3ee">腦幹</span>呼吸中樞發出興奮性訊號——這與運動時<span style="color:#22d3ee">血管運動中樞</span>同步興奮導致<span style="color:#22d3ee">血壓</span>升高的機制類似。
 
 圖 42-10 說明此現象：運動一開始，肺泡通氣量即驟然上升，甚至使 arterial PCO₂ 一度低於正常（代表通氣量「超前」於 CO₂ 產生）。約 30–40 秒後，肌肉產生的 CO₂ 量與增加的通氣量達到平衡，PCO₂ 回升至正常。
 

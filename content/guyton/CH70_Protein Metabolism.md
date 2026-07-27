@@ -10,7 +10,7 @@ key_points:
 
 ## 章節導讀
 
-蛋白質是生命活動的執行者，本章系統說明氨基酸與蛋白質在體內的命運與調控。胺基酸由小腸吸收後進入血液，部分由腎臟以主動運輸方式再吸收，但當血漿中某種胺基酸濃度過高時，超過腎閾值的部分便由尿液排出。進入細胞的胺基酸在核糖體系統中聚合成蛋白質儲存，或在需要時被 lysosomal enzyme 分解後釋出。必需胺基酸（essential amino acids）無法在人體內合成，必須由飲食供應；非必需胺基酸則可透過 transamination 從 α-keto acid 前驅物生成。當細胞內胺基酸過量時，會先經 deamination（去胺基作用）移除胺基團，產生氨（NH₃）與對應的 keto acid。氨在肝臟中轉化為 urea 排出體外——這是防止氨中毒的關鍵機制。Keto acid 可進入檸檬酸循環氧化供能，或用於 gluconeogenesis 與 ketogenesis。本章最後說明各種荷爾蒙對蛋白質代謝的影響。
+蛋白質是生命活動的執行者，本章系統說明氨基酸與蛋白質在體內的命運與調控。胺基酸由小腸吸收後進入血液，部分由腎臟以主動運輸方式再吸收，但當血漿中某種胺基酸濃度過高時，超過腎閾值的部分便由尿液排出。進入細胞的胺基酸在核糖體系統中聚合成蛋白質儲存，或在需要時被 lysosomal enzyme 分解後釋出。必需胺基酸（essential <span style="color:#60a5fa">amino acids</span>）無法在人體內合成，必須由飲食供應；非必需胺基酸則可透過 transamination 從 α-keto acid 前驅物生成。當細胞內胺基酸過量時，會先經 deamination（去胺基作用）移除胺基團，產生氨（NH₃）與對應的 keto acid。氨在肝臟中轉化為 <span style="color:#60a5fa">urea</span> 排出體外——這是防止氨中毒的關鍵機制。Keto acid 可進入檸檬酸循環氧化供能，或用於 gluconeogenesis 與 ketogenesis。本章最後說明各種荷爾蒙對蛋白質代謝的影響。
 
 ---
 
@@ -56,7 +56,7 @@ key_points:
 
 ## 必需與非必需胺基酸
 
-組成動物蛋白質的 20 種胺基酸中，有 10 種可以在細胞內合成，稱為非必需胺基酸（nonessential amino acids）；另外 10 種無法合成或產量不足供身體所需，稱為必需胺基酸（essential amino acids）。此分類並不表示非必需胺基酸不需要，而是強調它們無需由飲食供應。
+組成動物蛋白質的 20 種胺基酸中，有 10 種可以在細胞內合成，稱為非必需胺基酸（nonessential <span style="color:#60a5fa">amino acids</span>）；另外 10 種無法合成或產量不足供身體所需，稱為必需胺基酸（essential <span style="color:#60a5fa">amino acids</span>）。此分類並不表示非必需胺基酸不需要，而是強調它們無需由飲食供應。
 
 ### Transamination（轉胺作用）
 
@@ -77,7 +77,7 @@ Glutamic acid + NAD⁺ + H₂O → α-Ketoglutaric acid + NADH + H⁺ + NH₃
 
 ### Urea 形成
 
-去胺基作用產生的氨幾乎全部在肝臟轉化為 urea 排出：
+去胺基作用產生的氨幾乎全部在肝臟轉化為 <span style="color:#60a5fa">urea</span> 排出：
 
 2NH₃ + CO₂ → NH₂CONH₂ + H₂O
 
@@ -87,7 +87,7 @@ Glutamic acid + NAD⁺ + H₂O → α-Ketoglutaric acid + NADH + H⁺ + NH₃
 2. Citrulline + NH₃ → Arginine
 3. Arginine + H₂O → Urea + Ornithine
 
-形成後的 urea 擴散進入體液，由腎臟排出體外。
+形成後的 <span style="color:#60a5fa">urea</span> 擴散進入體液，由腎臟排出體外。
 
 ---
 
@@ -133,4 +133,4 @@ Estrogen 也有促進蛋白質沉積的作用，但效果遠比 testosterone 微
 
 ### Thyroxine
 
-Thyroxine 透過提高細胞代謝率間接地影響蛋白質代謝。當 carbohydrate 與脂肪不足時，thyroxine 促使蛋白質降解以提供能量；若 carbohydrate、脂肪與 excess amino acids 都充裕，thyroxine 反而促進蛋白質合成。在生長發育期，甲狀腺素缺乏會嚴重抑制生長。
+Thyroxine 透過提高細胞代謝率間接地影響蛋白質代謝。當 carbohydrate 與脂肪不足時，thyroxine 促使蛋白質降解以提供能量；若 carbohydrate、脂肪與 excess <span style="color:#60a5fa">amino acids</span> 都充裕，thyroxine 反而促進蛋白質合成。在生長發育期，甲狀腺素缺乏會嚴重抑制生長。

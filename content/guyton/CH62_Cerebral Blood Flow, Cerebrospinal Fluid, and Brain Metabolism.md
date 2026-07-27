@@ -19,7 +19,7 @@ key_points:
 
 腦血流的調節與其他器官有顯著差異。腦部具有強大的「自動調節」機制，在血壓 60-150 mmHg 範圍內維持恆定的腦血流。這種自動調節主要依賴血管平滑肌的肌源性反應（myogenic response）與代謝性因素（代謝產物的堆積）。交感神經系統在急性高血壓時保護腦部免受過度灌注的傷害。
 
-腦脊髓液（Cerebrospinal fluid, CSF）是充滿腦室與蛛網膜下腔的液體，提供浮力保護腦部免受自身重量壓迫，也作為腦部代謝廢物的清除途徑。CSF 由腦室內的脈絡叢（choroid plexus）生成，經腦室系統循環，最終由蛛網膜粒（arachnoidal villi）吸收進入靜脈竇。
+腦脊髓液（Cerebrospinal fluid, <span style="color:#60a5fa">CSF</span>）是充滿腦室與蛛網膜下腔的液體，提供浮力保護腦部免受自身重量壓迫，也作為腦部代謝廢物的清除途徑。<span style="color:#60a5fa">CSF</span> 由腦室內的脈絡叢（choroid plexus）生成，經腦室系統循環，最終由蛛網膜粒（arachnoidal villi）吸收進入靜脈竇。
 
 血腦屏障（Blood-brain barrier）是腦部毛細血管內皮細胞之間的緊密連接，選擇性地阻止某些物質從血液進入腦組織，維持腦部內環境的恆定。這個屏障對臨床用藥與神經疾病的治療有重要影響。
 
@@ -31,7 +31,7 @@ key_points:
 
 ### 腦血流的數值
 
-正常腦血流（cerebral blood flow, CBF）約為每 100 克腦組織每分鐘 50-60 毫升。全腦血流量約為每分鐘 750 毫升，約佔心輸出量的 15%。
+正常腦血流（<span style="color:#60a5fa">cerebral blood flow</span>, CBF）約為每 100 克腦組織每分鐘 50-60 毫升。全腦血流量約為每分鐘 750 毫升，約佔心輸出量的 15%。
 
 ### 腦血流與神經元活動
 
@@ -52,7 +52,7 @@ key_points:
 
 <figure>
 <img src="/images/guyton/62f624.jpg" alt="Autoregulation">
-<figcaption>Figure 624. Autoregulation of cerebral blood flow during acute changes in mean arterial pressure in subjects with normotension (blue curve) and chronic hypertension (red curve).</figcaption>
+<figcaption>Figure 624. Autoregulation of <span style="color:#60a5fa">cerebral blood flow</span> during acute changes in mean arterial pressure in subjects with normotension (blue curve) and chronic hypertension (red curve).</figcaption>
 </figure>
 
 ### 自動調節的機制
@@ -87,35 +87,35 @@ key_points:
 
 血腦屏障的功能障礙見於多種神經疾病，如多發性硬化症、腦炎與腦腫瘤。在這些情況下，屏障通透性增加導致水腫與發炎。
 
-## 腦脊髓液（Cerebrospinal Fluid, CSF）
+## 腦脊髓液（Cerebrospinal Fluid, <span style="color:#60a5fa">CSF</span>）
 
-### CSF的生成
+### <span style="color:#60a5fa">CSF</span>的生成
 
-CSF 主要由腦室內的脈絡叢（choroid plexus）生成。脈絡叢是包含毛細血管與上皮細胞的絨毛狀結構，上皮細胞之間有緊密連接，選擇性地從血漿中生成 CSF。
+<span style="color:#60a5fa">CSF</span> 主要由腦室內的脈絡叢（choroid plexus）生成。脈絡叢是包含毛細血管與上皮細胞的絨毛狀結構，上皮細胞之間有緊密連接，選擇性地從血漿中生成 <span style="color:#60a5fa">CSF</span>。
 
-CSF 的生成速率約為每天 500 毫升（每分鐘約 0.35 毫升）。CSF 的成分與血漿不同——蛋白質含量極低（約血漿的 1%），葡萄糖與電解質濃度與血漿相似。
+<span style="color:#60a5fa">CSF</span> 的生成速率約為每天 500 毫升（每分鐘約 0.35 毫升）。<span style="color:#60a5fa">CSF</span> 的成分與血漿不同——蛋白質含量極低（約血漿的 1%），葡萄糖與電解質濃度與血漿相似。
 
-### CSF的循環
+### <span style="color:#60a5fa">CSF</span>的循環
 
-CSF 從側腦室（lateral ventricles）流經 Monro 孔進入第三腦室，再經大腦導水管（aqueduct of Sylvius）進入第四腦室。從第四腦室，CSF 進入蛛網膜下腔（subarachnoid space），最終由蛛網膜粒（arachnoidal villi）吸收進入上矢狀竇（superior sagittal sinus）。
+<span style="color:#60a5fa">CSF</span> 從側腦室（lateral ventricles）流經 Monro 孔進入第三腦室，再經大腦導水管（aqueduct of Sylvius）進入第四腦室。從第四腦室，<span style="color:#60a5fa">CSF</span> 進入蛛網膜下腔（subarachnoid space），最終由蛛網膜粒（arachnoidal villi）吸收進入上矢狀竇（superior sagittal sinus）。
 
 <figure>
-<img src="/images/guyton/62f625.jpg" alt="CSF circulation">
-<figcaption>Figure 62-5. 腦脊髓液的循環路徑。CSF由脈絡叢生成，流經腦室系統，進入蛛網膜下腔，由蛛網膜粒吸收。</figcaption>
+<img src="/images/guyton/62f625.jpg" alt="<span style="color:#60a5fa">CSF</span> circulation">
+<figcaption>Figure 62-5. 腦脊髓液的循環路徑。<span style="color:#60a5fa">CSF</span>由脈絡叢生成，流經腦室系統，進入蛛網膜下腔，由蛛網膜粒吸收。</figcaption>
 </figure>
 
-### CSF的功能
+### <span style="color:#60a5fa">CSF</span>的功能
 
-1. **機械性保護**：CSF 提供浮力，使腦部實際重量從約 1400 克減少至約 50 克，保護腦部免受顱骨內壁撞擊
-2. **代謝廢物清除**：CSF 將腦部代謝產物帶走
-3. **顱內壓力恆定**：CSF 循環維持顱內壓力的恆定
-4. **離子與營養平衡**：CSF 的離子組成影響神經元興奮性
+1. **機械性保護**：<span style="color:#60a5fa">CSF</span> 提供浮力，使腦部實際重量從約 1400 克減少至約 50 克，保護腦部免受顱骨內壁撞擊
+2. **代謝廢物清除**：<span style="color:#60a5fa">CSF</span> 將腦部代謝產物帶走
+3. **顱內壓力恆定**：<span style="color:#60a5fa">CSF</span> 循環維持顱內壓力的恆定
+4. **離子與營養平衡**：<span style="color:#60a5fa">CSF</span> 的離子組成影響神經元興奮性
 
 ### 腦積水（Hydrocephalus）
 
-腦積水是 CSF 循環障礙導致的 CSF 異常積聚。分為：
+腦積水是 <span style="color:#60a5fa">CSF</span> 循環障礙導致的 <span style="color:#60a5fa">CSF</span> 異常積聚。分為：
 - **阻塞性腦積水**：腦室系統某處阻塞
-- **交通性腦積水**：CSF 吸收障礙
+- **交通性腦積水**：<span style="color:#60a5fa">CSF</span> 吸收障礙
 
 顱內壓升高可導致腦組織受壓迫，嚴重時可致腦疝（herniation）。
 

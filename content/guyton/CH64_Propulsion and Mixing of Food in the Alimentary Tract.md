@@ -15,13 +15,13 @@ key_points:
 
 ## 章節導讀
 
-食物從口腔攝入到肛門排出的過程中，消化道各段通過不同類型的運動完成推進與混合。本章首先說明吞嚥（swallowing）——這是食物從口腔進入胃的唯一正常途徑。吞嚥分為口腔期、咽期與食道期，由延腦的 swallowing center 協調控制。
+食物從口腔攝入到肛門排出的過程中，消化道各段通過不同類型的運動完成推進與混合。本章首先說明吞嚥（<span style="color:#60a5fa">swallowing</span>）——這是食物從口腔進入胃的唯一正常途徑。吞嚥分為口腔期、咽期與食道期，由延腦的 <span style="color:#60a5fa">swallowing</span> center 協調控制。
 
-食道的主要功能是快速將食物從咽部輸送到胃。食道表現兩種類型的蠕動：primary peristalsis（由咽部波動延續而來）與 secondary peristalsis（由食道擴張引發）。下食道括約肌在吞嚥時舒張，平時保持緊張性收縮，防止胃內容物回流。
+食道的主要功能是快速將食物從咽部輸送到胃。食道表現兩種類型的蠕動：primary <span style="color:#60a5fa">peristalsis</span>（由咽部波動延續而來）與 secondary <span style="color:#60a5fa">peristalsis</span>（由食道擴張引發）。下食道括約肌在吞嚥時舒張，平時保持緊張性收縮，防止胃內容物回流。
 
 胃的運動功能包括：（1）儲存大量食物；（2）將食物與胃分泌物混合形成 chyme；（3）以適當速率將 chyme 排入小腸。胃的平滑肌具有基本電節律，產生每 15-20 秒一次的 mix waves，將食物與胃液混合。
 
-小腸的運動類型包括 segmentation contractions（主要混合運動）與 peristalsis（推進運動）。小腸運動受 enteric nervous system 控制，受來自胃與十二指腸的反射調節。
+小腸的運動類型包括 <span style="color:#60a5fa">segmentation</span> contractions（主要混合運動）與 <span style="color:#60a5fa">peristalsis</span>（推進運動）。小腸運動受 enteric nervous system 控制，受來自胃與十二指腸的反射調節。
 
 ## 吞嚥（Swallowing）
 
@@ -44,9 +44,9 @@ Swallowing center 位於延腦，通過腦神經（CN V, VII, IX, X, XII）控�
 
 食道的主要功能是將食物快速從咽部輸送到胃。食道表現兩種類型的蠕動：
 
-**Primary peristalsis**：是咽部波動的延續，從咽部擴展至整個食道約需 8-10 秒。在直立位置時，食物因重力作用可能比蠕動波更快到達食道末端（5-8 秒）。
+**Primary <span style="color:#60a5fa">peristalsis</span>**：是咽部波動的延續，從咽部擴展至整個食道約需 8-10 秒。在直立位置時，食物因重力作用可能比蠕動波更快到達食道末端（5-8 秒）。
 
-**Secondary peristalsis**：當 primary peristalsis 未能將所有食物排入胃時，引發 secondary peristalsis。由食道內食物擴張觸發，部分由 enteric nervous system 的內在神經線路發起，部分由咽部反射（通過迷走神經傳入與傳出）協調。
+**Secondary <span style="color:#60a5fa">peristalsis</span>**：當 primary <span style="color:#60a5fa">peristalsis</span> 未能將所有食物排入胃時，引發 secondary <span style="color:#60a5fa">peristalsis</span>。由食道內食物擴張觸發，部分由 enteric nervous system 的內在神經線路發起，部分由咽部反射（通過迷走神經傳入與傳出）協調。
 
 食道上 1/3 的肌肉是骨骼肌，由舌咽神經與迷走神經的軀體運動纖維控制；下 2/3 是平滑肌，由迷走神經通過 myenteric plexus 控制。
 
@@ -109,9 +109,9 @@ LES 功能障礙可導致胃食道逆流疾病（GERD）與 achalasia。
 
 ### Segmentation Contractions
 
-小腸的主要混合運動是 segmentation contractions（如 Figure 643 所示）。這些收縮是環形肌的交替收縮與舒張，將腸內容物來回分割。
+小腸的主要混合運動是 <span style="color:#60a5fa">segmentation</span> contractions（如 Figure 643 所示）。這些收縮是環形肌的交替收縮與舒張，將腸內容物來回分割。
 
-小腸的 segmentation contractions 由小腸平滑肌的基本電節律觸發，每分鐘的頻率取決於小腸部位：十二指腸約 12 次/分，迴腸末端約 8-9 次/分。
+小腸的 <span style="color:#60a5fa">segmentation</span> contractions 由小腸平滑肌的基本電節律觸發，每分鐘的頻率取決於小腸部位：十二指腸約 12 次/分，迴腸末端約 8-9 次/分。
 
 ### Peristalsis
 
@@ -145,9 +145,9 @@ Peristaltic rush 是強烈的蠕動波，可由腸道過度擴張或刺激引發
 ## Bibliography
 
 Camilleri M: Gastrointestinal motility. Ann Intern Med 169:ITC49, 2018.
-Costa M, Brookes SJ: Neural mechanisms of peristalsis. Handb Exp Pharmacol 273:1, 2021.
+Costa M, Brookes SJ: Neural mechanisms of <span style="color:#60a5fa">peristalsis</span>. Handb Exp Pharmacol 273:1, 2021.
 Grundy D, Schemann M: Gastrointestinal motility. Handb Clin Neurol 174:103, 2021.
-Huizinga JD, Lammers WJ: Gut peristalsis is governed by a multiplicity of neuronal pathways. Neurogastroenterol Motil 21:161, 2009.
+Huizinga JD, Lammers WJ: Gut <span style="color:#60a5fa">peristalsis</span> is governed by a multiplicity of neuronal pathways. Neurogastroenterol Motil 21:161, 2009.
 Kunze WA, Furness JB: The enteric nervous system and its extrinsic innervation. Curr Opin Gastroenterol 15:485, 1999.
 Mayer EA: Gut feelings: the emerging biology of gut-brain communication. Nat Rev Neurosci 12:453, 2011.
 Sarna SK: Physiology and pathophysiology of colonic motor activity. Crit Rev Biomed Eng 19:313, 1991.

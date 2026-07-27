@@ -10,7 +10,7 @@ key_points:
 
 ## 章節導讀
 
-妊娠與泌乳涵蓋從受精到新生兒餵養的完整生理過程。受精卵在輸卵管的壺腹部與精子結合後，經桑葚胚與囊胚階段，於排卵後 7–9 天著床於子宫内膜蛻膜（decidua）。早期胚胎營養來自蛻膜細胞儲存的物質；約第 16 天後胎盤（placenta）開始承擔營養功能。胎盤是由胎兒絨毛（chorionic villi）與母體血液竇（maternal blood sinuses）交織形成的器官，執行氣體交換（O₂、CO₂）、營養物質擴散（glucose、fatty acids）與廢物排泄（urea、creatinine）。胎兒血紅蛋白（fetal hemoglobin）對 O₂ 的親和力高於成人血紅蛋白，加上胎兒血紅蛋白濃度較高與雙 Bohr 效應，使胎兒即使在胎盤血 P_O₂僅 30 mm Hg 的情況下仍能獲得足夠氧氣。妊娠期重要的胎盤激素包括：hCG（維持黃體功能防止月經並刺激男性胎兒睪固酮分泌）、estrogen（促進子宫增大與乳腺發育）、progesterone（維持子宫内膜並抑制子宫收縮）與 human placental lactogen/human chorionic somatomammotropin（促進乳腺發育並調整母體代謝）。胎兒甲狀腺、腎上腺皮質與腦下垂體相對獨立發育。分娩的啟動涉及機械性擴張與激素變化（estrogen ↑、progesterone ↓、oxytocin ↑、前列腺素 ↑）。泌乳則由 prolactin（促進乳汁合成）與 oxytocin（促進乳汁射出）共同調控。
+妊娠與泌乳涵蓋從受精到新生兒餵養的完整生理過程。受精卵在輸卵管的壺腹部與精子結合後，經桑葚胚與囊胚階段，於排卵後 7–9 天著床於子宫内膜蛻膜（decidua）。早期胚胎營養來自蛻膜細胞儲存的物質；約第 16 天後胎盤（<span style="color:#22d3ee">placenta</span>）開始承擔營養功能。胎盤是由胎兒絨毛（chorionic villi）與母體血液竇（maternal blood sinuses）交織形成的器官，執行氣體交換（O₂、CO₂）、營養物質擴散（glucose、fatty acids）與廢物排泄（urea、creatinine）。胎兒血紅蛋白（fetal hemoglobin）對 O₂ 的親和力高於成人血紅蛋白，加上胎兒血紅蛋白濃度較高與雙 Bohr 效應，使胎兒即使在胎盤血 P_O₂僅 30 mm Hg 的情況下仍能獲得足夠氧氣。妊娠期重要的胎盤激素包括：<span style="color:#fb923c">hCG</span>（維持黃體功能防止月經並刺激男性胎兒睪固酮分泌）、<span style="color:#fb923c">estrogen</span>（促進子宫增大與乳腺發育）、<span style="color:#fb923c">progesterone</span>（維持子宫内膜並抑制子宫收縮）與 human <span style="color:#22d3ee">placenta</span>l lactogen/human chorionic somatomammotropin（促進乳腺發育並調整母體代謝）。胎兒甲狀腺、腎上腺皮質與腦下垂體相對獨立發育。分娩的啟動涉及機械性擴張與激素變化（<span style="color:#fb923c">estrogen</span> ↑、<span style="color:#fb923c">progesterone</span> ↓、<span style="color:#fb923c">oxytocin</span> ↑、前列腺素 ↑）。泌乳則由 <span style="color:#fb923c">prolactin</span>（促進乳汁合成）與 <span style="color:#fb923c">oxytocin</span>（促進乳汁射出）共同調控。
 
 ---
 
@@ -24,7 +24,7 @@ key_points:
 
 ### 胎盤結構
 
-胎兒血液經兩條臍帶动脉進入絨毛毛細血管，再經臍靜脈回到胎兒。母體血液由子宫动脉進入環繞絨毛的大型母體血液竇，再回流至子宫靜脈（Figure 83-5）。胎兒血與母體血在絨毛處僅由一層薄薄的胎盤膜（placental membrane）分隔。
+胎兒血液經兩條臍帶动脉進入絨毛毛細血管，再經臍靜脈回到胎兒。母體血液由子宫动脉進入環繞絨毛的大型母體血液竇，再回流至子宫靜脈（Figure 83-5）。胎兒血與母體血在絨毛處僅由一層薄薄的胎盤膜（<span style="color:#22d3ee">placenta</span>l membrane）分隔。
 
 ### 胎盤的物質交換
 
@@ -46,15 +46,15 @@ key_points:
 
 ## 妊娠期的內分泌因子
 
-### Human Chorionic Gonadotropin（hCG）
+### Human Chorionic Gonadotropin（<span style="color:#fb923c">hCG</span>）
 
 由合胞體滋養層細胞分泌，受精後 8–9 天即可在母體血液中測得，約 10–12 週達峰值，之後下降並持續至分娩。
 
 **功能**：
-1. **維持黃體功能**：hCG 作用類似 LH，防止黃體退化並促進其分泌 progesterone 與 estrogen，維持子宫内膜並防止月經來潮
+1. **維持黃體功能**：<span style="color:#fb923c">hCG</span> 作用類似 LH，防止黃體退化並促進其分泌 <span style="color:#fb923c">progesterone</span> 與 <span style="color:#fb923c">estrogen</span>，維持子宫内膜並防止月經來潮
 2. **刺激男性胎兒睪固酮分泌**：促使胎兒 Leydig cells 分泌睪固酮，驅動男性外生殖器發育；臨近分娩時使睪丸下降至陰囊
 
-若在妊娠第七週前切除黃體，幾乎必然導致流產；第七週後胎盤已能分泌足夠的 progesterone 與 estrogen 維持妊娠。
+若在妊娠第七週前切除黃體，幾乎必然導致流產；第七週後胎盤已能分泌足夠的 <span style="color:#fb923c">progesterone</span> 與 <span style="color:#fb923c">estrogen</span> 維持妊娠。
 
 ### Human Placental Lactogen（HPL）/Human Chorionic Somatomammotropin
 
@@ -80,8 +80,8 @@ key_points:
 
 分娩的啟動涉及多重因素：
 
-- **Progesterone/Estrogen 比值下降**：Progesterone 抑制子宫收縮；分娩前 progesterone 下降使子宫對收縮刺激的敏感性增加
-- **Oxytocin 增加**：胎兒下丘腦-垂體分泌 oxytocin，子宮內壓力感受器激活使母體 oxytocin 分泌進一步增加
+- **Progesterone/Estrogen 比值下降**：Progesterone 抑制子宫收縮；分娩前 <span style="color:#fb923c">progesterone</span> 下降使子宫對收縮刺激的敏感性增加
+- **Oxytocin 增加**：胎兒下丘腦-垂體分泌 <span style="color:#fb923c">oxytocin</span>，子宮內壓力感受器激活使母體 <span style="color:#fb923c">oxytocin</span> 分泌進一步增加
 - **前列腺素（Prostaglandins）增加**：胎兒、子宮內膜與胎盤釋放前列腺素（F₂α 與 E₂），強力刺激子宫平滑肌收縮
 - **機械性因素**：胎兒頭部對子宫下段的擴張刺激
 
@@ -98,15 +98,15 @@ key_points:
 
 ### 乳腺的結構
 
-乳腺由 15–25 個葉（lobes）構成，每葉含無數腺泡（alveoli），腺泡細胞在 prolactin 與其他激素作用下合成乳汁。乳汁經導管系統收集，通過輸乳竇（lactiferous sinuses，在乳頭下方擴張的導管區域）後由乳頭排出。
+乳腺由 15–25 個葉（lobes）構成，每葉含無數腺泡（alveoli），腺泡細胞在 <span style="color:#fb923c">prolactin</span> 與其他激素作用下合成乳汁。乳汁經導管系統收集，通過輸乳竇（lactiferous sinuses，在乳頭下方擴張的導管區域）後由乳頭排出。
 
 ### 乳汁分泌的激素調控
 
-**懷孕期間**：高濃度雌激素與 progesterone 促進乳腺導管與腺泡的發育，但高濃度的雌激素與 progesterone 也抑制 prolactin 對乳腺的泌乳效應。因此懷孕期間乳腺已發育完成但不分泌乳汁。
+**懷孕期間**：高濃度雌激素與 <span style="color:#fb923c">progesterone</span> 促進乳腺導管與腺泡的發育，但高濃度的雌激素與 <span style="color:#fb923c">progesterone</span> 也抑制 <span style="color:#fb923c">prolactin</span> 對乳腺的泌乳效應。因此懷孕期間乳腺已發育完成但不分泌乳汁。
 
-**產後**：胎盤娩出後，雌激素與 progesterone 血漿濃度急劇下降，對乳腺的抑制解除，prolactin 開始促進乳汁分泌。
+**產後**：胎盤娩出後，雌激素與 <span style="color:#fb923c">progesterone</span> 血漿濃度急劇下降，對乳腺的抑制解除，<span style="color:#fb923c">prolactin</span> 開始促進乳汁分泌。
 
-**乳汁射出（Milk ejection）**：催產素（oxytocin）刺激乳腺腺泡周圍的肌上皮細胞（myoepithelial cells）收縮，將乳汁從腺泡擠入導管並通過乳頭射出。吸吮本身刺激乳頭感覺受器，經脊髓上傳至下丘腦，促進 oxytocin 的神經垂體分泌——這是一個典型的神經內分泌反射（neuroendocrine reflex）。
+**乳汁射出（Milk ejection）**：催產素（<span style="color:#fb923c">oxytocin</span>）刺激乳腺腺泡周圍的肌上皮細胞（myoepithelial cells）收縮，將乳汁從腺泡擠入導管並通過乳頭射出。吸吮本身刺激乳頭感覺受器，經脊髓上傳至下丘腦，促進 <span style="color:#fb923c">oxytocin</span> 的神經垂體分泌——這是一個典型的神經內分泌反射（neuroendocrine reflex）。
 
 ### 乳汁的成分
 
@@ -114,4 +114,4 @@ key_points:
 
 ### 乳汁分泌的維持
 
-持續哺乳（吸吮）是維持乳汁分泌的關鍵：吸吮刺激乳頭感覺受器，通過視上核與副視核促進 oxytocin 與 prolactin 的分泌。若哺乳停止，乳汁分泌在數天內減少並停止（退奶）。
+持續哺乳（吸吮）是維持乳汁分泌的關鍵：吸吮刺激乳頭感覺受器，通過視上核與副視核促進 <span style="color:#fb923c">oxytocin</span> 與 <span style="color:#fb923c">prolactin</span> 的分泌。若哺乳停止，乳汁分泌在數天內減少並停止（退奶）。

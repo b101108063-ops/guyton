@@ -15,13 +15,13 @@ key_points:
 
 ## 章節導讀
 
-碳水化合物代謝是維持生命活動的能量基礎。本章說明葡萄糖如何從血液進入細胞、在細胞內被磷酸化並轉化為 ATP，以及這些過程如何受到激素調控。
+碳水化合物代謝是維持生命活動的能量基礎。本章說明葡萄糖如何從血液進入細胞、在細胞內被磷酸化並轉化為 <span style="color:#fb923c">ATP</span>，以及這些過程如何受到激素調控。
 
 葡萄糖進入細胞依賴兩種機制：大多數細胞通過促進性擴散（facilitated diffusion），這個過程受胰島素調節；腸道上皮與腎小管上皮細胞則通過鈉-葡萄糖共轉運（secondary active transport）主動吸收葡萄糖。
 
-在細胞內，葡萄糖被磷酸化為葡萄糖-6-磷酸，被「捕获」在細胞內。這些分子可以進入幾個代謝途徑：（1）進入糖解作用（glycolysis）產生丙酮酸與少量 ATP；（2）合成糖原（glycogen）儲存；（3）在肝臟通過葡萄糖-6-磷酸酶轉化為葡萄糖釋放入血液。
+在細胞內，葡萄糖被磷酸化為葡萄糖-6-磷酸，被「捕获」在細胞內。這些分子可以進入幾個代謝途徑：（1）進入糖解作用（<span style="color:#60a5fa">glycolysis</span>）產生丙酮酸與少量 <span style="color:#fb923c">ATP</span>；（2）合成糖原（<span style="color:#60a5fa">glycogen</span>）儲存；（3）在肝臟通過葡萄糖-6-磷酸酶轉化為葡萄糖釋放入血液。
 
-ATP 的完全生成需要葡萄糖通過糖解作用、丙酮酸氧化、檸檬酸循環（Krebs cycle）與電子傳遞鏈的連續過程。這個過程稱為「細胞呼吸」，需要氧氣並產生二氧化碳與水。
+<span style="color:#fb923c">ATP</span> 的完全生成需要葡萄糖通過糖解作用、丙酮酸氧化、檸檬酸循環（<span style="color:#60a5fa">Krebs cycle</span>）與電子傳遞鏈的連續過程。這個過程稱為「細胞呼吸」，需要氧氣並產生二氧化碳與水。
 
 ## 葡萄糖的細胞攝取
 
@@ -31,7 +31,7 @@ ATP 的完全生成需要葡萄糖通過糖解作用、丙酮酸氧化、檸檬�
 
 **促進性擴散（Facilitated diffusion）**：存在於大多數細胞。葡萄糖順濃度梯度從高濃度向低濃度擴散，通過與膜載體蛋白結合而轉運。當細胞外葡萄糖濃度高於細胞內時，攝取增加；當細胞內葡萄糖濃度高於細胞外時，攝取減少或逆轉。
 
-**鈉-葡萄糖共轉運（Secondary active transport）**：存在於腸道上皮與腎小管上皮。Na⁺ 的主動轉運（由 Na⁺/K⁺-ATPase 維持梯度）提供能量，驅動葡萄糖逆濃度梯度轉運。
+**鈉-葡萄糖共轉運（Secondary active transport）**：存在於腸道上皮與腎小管上皮。Na⁺ 的主動轉運（由 Na⁺/K⁺-<span style="color:#fb923c">ATP</span>ase 維持梯度）提供能量，驅動葡萄糖逆濃度梯度轉運。
 
 ### 胰島素的作用
 
@@ -54,7 +54,7 @@ ATP 的完全生成需要葡萄糖通過糖解作用、丙酮酸氧化、檸檬�
 
 當葡萄糖進入細胞後，立即被磷酸化為葡萄糖-6-磷酸：
 
-Glucose + ATP → Glucose-6-phosphate + ADP
+Glucose + <span style="color:#fb923c">ATP</span> → Glucose-6-phosphate + ADP
 
 這個反應由以下酶催化：
 - **Glucokinase（肝臟）**：Km 值高，只在高血糖時作用，防止肝臟在血糖低時釋放葡萄糖
@@ -62,7 +62,7 @@ Glucose + ATP → Glucose-6-phosphate + ADP
 
 磷酸化將葡萄糖「捕获」在細胞內，因為帶電的磷酸基團使葡萄糖-6-磷酸不能自由通過細胞膜。
 
-在肝臟、腎小管與腸道上皮細胞，存在葡萄糖-6-磷酸酶（glucose-6-phosphatase），可以將葡萄糖-6-磷酸水解為葡萄糖，使葡萄糖得以釋放入血液。
+在肝臟、腎小管與腸道上皮細胞，存在葡萄糖-6-磷酸酶（<span style="color:#60a5fa">glucose</span>-6-phosphatase），可以將葡萄糖-6-磷酸水解為葡萄糖，使葡萄糖得以釋放入血液。
 
 ## 糖原的合成與分解
 
@@ -90,7 +90,7 @@ Glucose + ATP → Glucose-6-phosphate + ADP
 
 <figure>
 <img src="/images/guyton/68f684.jpg" alt="Glycogen metabolism">
-<figcaption>Figure 684. Chemical reactions of glycogenesis and glycogenolysis, also showing interconversions between blood glucose and liver glycogen.</figcaption>
+<figcaption>Figure 684. Chemical reactions of <span style="color:#60a5fa">glycogen</span>esis and <span style="color:#60a5fa">glycogen</span>olysis, also showing interconversions between blood <span style="color:#60a5fa">glucose</span> and liver <span style="color:#60a5fa">glycogen</span>.</figcaption>
 </figure>
 
 ## 糖解作用（Glycolysis）
@@ -101,19 +101,19 @@ Glucose + ATP → Glucose-6-phosphate + ADP
 
 糖解作用的關鍵步驟：
 
-1. **葡萄糖 → 葡萄糖-6-磷酸**：消耗 1 ATP
+1. **葡萄糖 → 葡萄糖-6-磷酸**：消耗 1 <span style="color:#fb923c">ATP</span>
 2. **葡萄糖-6-磷酸 → 果糖-6-磷酸**
-3. **果糖-6-磷酸 → 果糖-1,6-二磷酸**：消耗 1 ATP（由磷酸果糖激酶PFK催化）
+3. **果糖-6-磷酸 → 果糖-1,6-二磷酸**：消耗 1 <span style="color:#fb923c">ATP</span>（由磷酸果糖激酶PFK催化）
 4. **果糖-1,6-二磷酸 → 兩個三碳分子**：二羥丙酮磷酸（DHAP）與甘油醛-3-磷酸（G3P）
 5. **G3P → 1,3-二磷酸甘油酸**：產生 NADH
-6. **1,3-二磷酸甘油酸 → 3-磷酸甘油酸**：產生 ATP（底物水平磷酸化）
-7. **3-磷酸甘油酸 → 丙酮酸**：產生 ATP（底物水平磷酸化）
+6. **1,3-二磷酸甘油酸 → 3-磷酸甘油酸**：產生 <span style="color:#fb923c">ATP</span>（底物水平磷酸化）
+7. **3-磷酸甘油酸 → 丙酮酸**：產生 <span style="color:#fb923c">ATP</span>（底物水平磷酸化）
 
 ### 糖解作用的產物
 
 每分子葡萄糖通過糖解作用產生：
 - 2 分子丙酮酸
-- 2 分子 ATP（淨產量）
+- 2 分子 <span style="color:#fb923c">ATP</span>（淨產量）
 - 2 分子 NADH（在無氧條件下用於還原丙酮酸為乳酸）
 
 ### 磷酸果糖激酶（PFK）的調節
@@ -121,7 +121,7 @@ Glucose + ATP → Glucose-6-phosphate + ADP
 PFK 是糖解作用的關鍵調節酶，其活性受以下因素調節：
 
 **抑制因素**：
-- ATP（能量充足時抑制）
+- <span style="color:#fb923c">ATP</span>（能量充足時抑制）
 - 檸檬酸
 - 氫離子（酸中毒時抑制）
 
@@ -139,7 +139,7 @@ PFK 是糖解作用的關鍵調節酶，其活性受以下因素調節：
 
 Pyruvate + CoA + NAD⁺ → Acetyl-CoA + NADH + CO₂
 
-Acetyl-CoA 隨後進入檸檬酸循環（Krebs cycle）。
+Acetyl-CoA 隨後進入檸檬酸循環（<span style="color:#60a5fa">Krebs cycle</span>）。
 
 ### 無氧條件（乳酸發酵）
 
@@ -161,7 +161,7 @@ Acetyl-CoA 進入檸檬酸循環，每一圈產生：
 - 2 分子 CO₂（為身體的廢物）
 - 3 分子 NADH（用於電子傳遞鏈）
 - 1 分子 FADH₂（用於電子傳遞鏈）
-- 1 分子 GTP（相當於 ATP）
+- 1 分子 GTP（相當於 <span style="color:#fb923c">ATP</span>）
 
 檸檬酸循環發生在粒線體基質中，每分子 acetyl-CoA 燃燒一圈。
 
@@ -181,20 +181,20 @@ NADH 與 FADH₂ 通過電子傳遞鏈將電子傳遞給氧氣，釋放的能量
 
 ### 氧化磷酸化
 
-當質子通過 ATP 合酶（Complex V）回流粒線體基質時，ADP 被磷酸化為 ATP。
+當質子通過 <span style="color:#fb923c">ATP</span> 合酶（Complex V）回流粒線體基質時，ADP 被磷酸化為 <span style="color:#fb923c">ATP</span>。
 
-每分子 NADH 通過電子傳遞鏈產生約 2.5 分子 ATP；每分子 FADH₂ 產生約 1.5 分子 ATP。
+每分子 NADH 通過電子傳遞鏈產生約 2.5 分子 <span style="color:#fb923c">ATP</span>；每分子 FADH₂ 產生約 1.5 分子 <span style="color:#fb923c">ATP</span>。
 
-### 總結：葡萄糖氧化的ATP產量
+### 總結：葡萄糖氧化的<span style="color:#fb923c">ATP</span>產量
 
 每分子葡萄糖完全氧化產生約：
 
-| 階段 | ATP 產量 |
+| 階段 | <span style="color:#fb923c">ATP</span> 產量 |
 |------|---------|
-| 糖解作用（細胞質）| 2 ATP（淨產量）+ 2 NADH |
+| 糖解作用（細胞質）| 2 <span style="color:#fb923c">ATP</span>（淨產量）+ 2 NADH |
 | 丙酮酸氧化 | 2 NADH |
 | 檸檬酸循環 | 6 NADH + 2 FADH₂ + 2 GTP |
-| **總計** | **約 30-32 ATP** |
+| **總計** | **約 30-32 <span style="color:#fb923c">ATP</span>** |
 
 ## 維持血糖的重要性
 
@@ -211,7 +211,7 @@ NADH 與 FADH₂ 通過電子傳遞鏈將電子傳遞給氧氣，釋放的能量
 - 腦（需要持續供應，每分鐘約 60 克）
 - 骨骼肌
 - 脂肪組織
-- 紅血球（只通過糖解作用產生 ATP）
+- 紅血球（只通過糖解作用產生 <span style="color:#fb923c">ATP</span>）
 
 ### 血糖調節
 
@@ -225,7 +225,7 @@ NADH 與 FADH₂ 通過電子傳遞鏈將電子傳遞給氧氣，釋放的能量
 
 甲狀腺激素增加基礎代謝率，通過：
 - 增加粒線體數量與大小
-- 增加 Na⁺/K⁺-ATPase 活性
+- 增加 Na⁺/K⁺-<span style="color:#fb923c">ATP</span>ase 活性
 - 增加許多代謝酶的基因表達
 
 甲狀腺功能減退導致基礎代謝率降低；甲狀腺功能亢進導致基礎代謝率升高。

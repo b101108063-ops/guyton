@@ -11,11 +11,11 @@ key_points:
 
 ## 章節導讀
 
-酸鹼平衡是體內環境恆定的關鍵指標之一。正常血漿 pH 維持在 7.35–7.45 的窄幅範圍內，這個平衡由三層機制共同維持：緩衝系統（buffers）、呼吸系統（CO₂ 的排出）與腎臟（碳酸氫根的再吸收與酸的排泄）。本章首先說明三種主要的細胞外與細胞內緩衝系統——bicarbonate buffer system、phosphate buffer system 與蛋白質緩衝系統——如何快速中和過多或過少的氫離子（H⁺）。接著介紹 Henderson-Hasselbalch 方程式，並用它來解釋呼吸性與代謝性酸鹼失衡的由來。本章重點在於腎臟如何調節酸鹼平衡：腎小管細胞如何分泌 H⁺ 並同時再生 HCO₃⁻ 回到血液，這個過程如何受到酸中毒（acidosis）與鹼中毒（alkalosis）的調控，以及為什麼嚴重的腎功能障礙最終會導致無法控制的酸中毒。
+酸鹼平衡是體內環境恆定的關鍵指標之一。正常血漿 pH 維持在 <span style="color:#34d399">7.35</span>–<span style="color:#34d399">7.45</span> 的窄幅範圍內，這個平衡由三層機制共同維持：緩衝系統（<span style="color:#60a5fa">buffer</span>s）、呼吸系統（CO₂ 的排出）與腎臟（碳酸氫根的再吸收與酸的排泄）。本章首先說明三種主要的細胞外與細胞內緩衝系統——<span style="color:#60a5fa">bicarbonate</span> <span style="color:#60a5fa">buffer</span> system、phosphate <span style="color:#60a5fa">buffer</span> system 與蛋白質緩衝系統——如何快速中和過多或過少的氫離子（H⁺）。接著介紹 Henderson-Hasselbalch 方程式，並用它來解釋呼吸性與代謝性酸鹼失衡的由來。本章重點在於腎臟如何調節酸鹼平衡：腎小管細胞如何分泌 H⁺ 並同時再生 HCO₃⁻ 回到血液，這個過程如何受到酸中毒（<span style="color:#60a5fa">acidosis</span>）與鹼中毒（<span style="color:#60a5fa">alkalosis</span>）的調控，以及為什麼嚴重的腎功能障礙最終會導致無法控制的酸中毒。
 
 ## 氫離子濃度與 pH
 
-氫離子（H⁺）濃度在生理上極低，正常血漿約 0.00004 mEq/L。為方便表示，科學上使用 pH = −log[H⁺] 來表示。正常血漿 pH 為 7.35–7.45；低於 7.35 為 acidemia（酸血症），高於 7.45 為 alkalemia（鹼血症）。
+氫離子（H⁺）濃度在生理上極低，正常血漿約 0.00004 mEq/L。為方便表示，科學上使用 pH = −log[H⁺] 來表示。正常血漿 pH 為 <span style="color:#34d399">7.35</span>–<span style="color:#34d399">7.45</span>；低於 <span style="color:#34d399">7.35</span> 為 acidemia（酸血症），高於 <span style="color:#34d399">7.45</span> 為 alkalemia（鹼血症）。
 
 ## 體內酸鹼失衡的來源
 
@@ -100,7 +100,7 @@ H⁺ + Hb ⇌ HHb
 
 ### 酸中毒時的腎臟反應
 
-當血漿 H⁺ 濃度過高（acidosis）時：
+當血漿 H⁺ 濃度過高（<span style="color:#60a5fa">acidosis</span>）時：
 
 - 腎小管 H⁺ 分泌增加
 - 新 HCO₃⁻ 生成增加
@@ -109,7 +109,7 @@ H⁺ + Hb ⇌ HHb
 
 ### 鹼中毒時的腎臟反應
 
-當血漿 H⁺ 濃度過低（alkalosis）時：
+當血漿 H⁺ 濃度過低（<span style="color:#60a5fa">alkalosis</span>）時：
 
 - 腎小管 H⁺ 分泌減少
 - HCO₃⁻ 的排泄增加（被稱為「鹼中毒時丟失碳酸氫根」）
@@ -153,4 +153,4 @@ H⁺ + Hb ⇌ HHb
 
 ## 腎臟在慢性酸中毒中的角色
 
-在慢性腎衰竭時，腎臟排泄 H⁺ 與再生 HCO₃⁻ 的能力受損，導致進行性的 metabolic acidosis。這種酸中毒若未治療，會引起骨質流失（骨鈣動員緩衝 H⁺）、肌肉蛋白質分解、以及高血鉀（加劇心律不整風險）。
+在慢性腎衰竭時，腎臟排泄 H⁺ 與再生 HCO₃⁻ 的能力受損，導致進行性的 metabolic <span style="color:#60a5fa">acidosis</span>。這種酸中毒若未治療，會引起骨質流失（骨鈣動員緩衝 H⁺）、肌肉蛋白質分解、以及高血鉀（加劇心律不整風險）。

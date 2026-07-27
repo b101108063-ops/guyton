@@ -10,7 +10,7 @@ key_points:
 
 ## 章節導讀
 
-體溫調控是維持生命恆定的關鍵系統之一。本章說明人體如何與環境交換熱量並精確維持核心體溫。熱量的散失途徑包括輻射（60%）、傳導（15%）、對流（15%）與蒸發（22%）。汗液的蒸發是溫度高於環境溫度時唯一有效的散熱機制。汗腺由交感膽鹼能神經支配，分泌含電解質的液體，腎上腺皮質激素（aldosterone）則在熱適應過程中減少汗液中氯化鈉的丟失。體溫的神經控制中樞位於 hypothalamus：anterior hypothalamic-preoptic area 含溫度感受神經元，是體溫的「恒溫器」；posterior hypothalamus 整合來自皮膚、深部組織與中樞的溫度信號，啟動散熱或產熱效應。體溫的「設定點」（set point）約為 37.1°C，此點以上的核心溫度觸發出汗與血管擴張，以下則觸發顫抖與血管收縮。交感神經的化學產熱效應主要由 brown fat 執行，成人貢獻有限，但新生兒至關重要。行為調控（穿衣、移至適當環境）是比生理機制更強大的體溫控制手段。本章最後說明發燒（fever）的機制。
+體溫調控是維持生命恆定的關鍵系統之一。本章說明人體如何與環境交換熱量並精確維持核心體溫。熱量的散失途徑包括輻射（60%）、傳導（15%）、對流（15%）與蒸發（22%）。汗液的蒸發是溫度高於環境溫度時唯一有效的散熱機制。汗腺由交感膽鹼能神經支配，分泌含電解質的液體，腎上腺皮質激素（aldosterone）則在熱適應過程中減少汗液中氯化鈉的丟失。體溫的神經控制中樞位於 <span style="color:#22d3ee">hypothalamus</span>：anterior hypothalamic-preoptic area 含溫度感受神經元，是體溫的「恒溫器」；posterior <span style="color:#22d3ee">hypothalamus</span> 整合來自皮膚、深部組織與中樞的溫度信號，啟動散熱或產熱效應。體溫的「設定點」（set point）約為 37.1°C，此點以上的核心溫度觸發出汗與血管擴張，以下則觸發顫抖與血管收縮。交感神經的化學產熱效應主要由 brown fat 執行，成人貢獻有限，但新生兒至關重要。行為調控（穿衣、移至適當環境）是比生理機制更強大的體溫控制手段。本章最後說明發燒（<span style="color:#f87171">fever</span>）的機制。
 
 ---
 
@@ -77,7 +77,7 @@ Figure 74-6 顯示裸體者在 30°F–160°F 乾空氣中暴露數小時後的�
 
 ### Posterior Hypothalamus 整合中樞與周邊信號
 
-周邊與中樞溫度信號在 posterior hypothalamus（近乳頭體水準）整合，啟動產熱或散熱反應。
+周邊與中樞溫度信號在 posterior <span style="color:#22d3ee">hypothalamus</span>（近乳頭體水準）整合，啟動產熱或散熱反應。
 
 ---
 
@@ -104,11 +104,11 @@ Figure 74-6 顯示裸體者在 30°F–160°F 乾空氣中暴露數小時後的�
 
 ### 顫抖產熱
 
-Dorsomedial posterior hypothalamus 的顫抖中樞平常被 anterior preoptic area 的信號抑制；寒冷時被激活，經腦幹雙側下行至脊髓側索，增強骨骼肌張力。當張力超過一定臨界水準時，顫抖開始，最大產熱可達正常的 4–5 倍。
+Dorsomedial posterior <span style="color:#22d3ee">hypothalamus</span> 的顫抖中樞平常被 anterior preoptic area 的信號抑制；寒冷時被激活，經腦幹雙側下行至脊髓側索，增強骨骼肌張力。當張力超過一定臨界水準時，顫抖開始，最大產熱可達正常的 4–5 倍。
 
 ### 交感「化學」產熱
 
-Norepinephrine 與 epinephrine 增加細胞代謝率（化學產熱/non-shivering thermogenesis）。作用機制之一是去偶聯粒線體的氧化磷酸化——脂肪氧化產生熱但幾乎不生成 ATP。
+Norepinephrine 與 epinephrine 增加細胞代謝率（化學產熱/non-<span style="color:#60a5fa">shivering</span> thermogenesis）。作用機制之一是去偶聯粒線體的氧化磷酸化——脂肪氧化產生熱但幾乎不生成 ATP。
 
 Brown fat 含大量粒線體且 UCP1（thermogenin）豐富，交感刺激使 norepinephrine 促進 UCP1 表現，產生大量熱。新生兒有相對較多 brown fat，最大交感刺激可使代謝率提高超過 100%。成人 brown fat 幾乎不存在，化學產熱對整體熱生成的貢獻估計不超過 10%–15%。
 
@@ -155,10 +155,10 @@ Preoptic area 冷卻時增加 TRH 分泌，經下丘腦-垂體門脈刺激 TSH �
 
 ### 脊髓橫斷對體溫調控的影響
 
-脊髓在頸部（高於交感神經輸出處）橫斷後，體溫調控極度受損，因為 hypothalamus 無法再控制任何部位的皮膚血流或出汗。此類患者只能依賴頭部區域的冷熱感覺進行行為調控（穿衣或選擇環境）。
+脊髓在頸部（高於交感神經輸出處）橫斷後，體溫調控極度受損，因為 <span style="color:#22d3ee">hypothalamus</span> 無法再控制任何部位的皮膚血流或出汗。此類患者只能依賴頭部區域的冷熱感覺進行行為調控（穿衣或選擇環境）。
 
 ---
 
 ## 體溫調控的異常：發燒
 
-發燒（Fever）是指體溫高於正常範圍，其發生是由於下丘腦的設定點被升高。感染、創傷、發炎或某些腫瘤可促使免疫細胞釋放發燒介質（pyrogen），包括 interleukin-1（IL-1）、tumor necrosis factor（TNF）與 prostaglandin E₂（PGE₂）。PGE₂ 作用於 hypothalamic preoptic area 的熱敏感神經元，使設定點升高。設定點升高後，身體會啟動顫抖、血管收縮等產熱反應，直到核心體溫達到新的設定點溫度。退燒藥（如 aspirin）通过抑制 cyclooxygenase 減少 prostaglandin 合成，從而降低設定點。
+發燒（Fever）是指體溫高於正常範圍，其發生是由於下丘腦的設定點被升高。感染、創傷、發炎或某些腫瘤可促使免疫細胞釋放發燒介質（<span style="color:#fb923c">pyrogen</span>），包括 interleukin-1（IL-1）、tumor necrosis factor（TNF）與 prostaglandin E₂（PGE₂）。PGE₂ 作用於 hypothalamic preoptic area 的熱敏感神經元，使設定點升高。設定點升高後，身體會啟動顫抖、血管收縮等產熱反應，直到核心體溫達到新的設定點溫度。退燒藥（如 aspirin）通过抑制 cyclooxygenase 減少 prostaglandin 合成，從而降低設定點。

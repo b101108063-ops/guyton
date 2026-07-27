@@ -10,7 +10,7 @@ key_points:
 
 ## 章節導讀
 
-內分泌系統通過激素（hormone）在血液中的傳遞，協調全身各組織與器官的功能。本章首先說明內分泌腺體與激素的對應關係、主要激素的化學結構（peptide、steroid、amine）與功能。激素分泌後透過 negative feedback 機制防止過度作用（偶爾有 positive feedback 如 LH surge）；分泌節律受 circadian clock（由 suprachiasmatic nucleus 主導）與睡眠等因素調控。水溶性激素（peptide、catecholamine）在血漿中游離運輸；類固醇與甲狀腺激素則與血漿蛋白高度結合，形成 reservoir 並延長半衰期。激素的作用取決於目標細胞上的受器（receptor），受器分布於細胞膜、細胞質或細胞核。膜受器透過 G protein-coupled receptors（GPCR）與 enzyme-linked receptors 啟動細胞內訊號；類固醇、甲狀腺激素則進入細胞與細胞內受器結合，直接調控基因轉錄（steroid response element）。細胞內的 second messenger 包括 cAMP（經 adenylyl cyclase）、phospholipid 系統（IP₃、DAG）與 calcium-calmodulin 系統。激素濃度的調控取決於分泌速率與 metabolic clearance rate，後者取決於組織降解、肝膽排泄或腎臟排泄等途徑。
+內分泌系統通過激素（<span style="color:#60a5fa">hormone</span>）在血液中的傳遞，協調全身各組織與器官的功能。本章首先說明內分泌腺體與激素的對應關係、主要激素的化學結構（peptide、steroid、amine）與功能。激素分泌後透過 <span style="color:#60a5fa">negative feedback</span> 機制防止過度作用（偶爾有 positive feedback 如 LH surge）；分泌節律受 circadian clock（由 suprachiasmatic nucleus 主導）與睡眠等因素調控。水溶性激素（peptide、catecholamine）在血漿中游離運輸；類固醇與甲狀腺激素則與血漿蛋白高度結合，形成 reservoir 並延長半衰期。激素的作用取決於目標細胞上的受器（<span style="color:#60a5fa">receptor</span>），受器分布於細胞膜、細胞質或細胞核。膜受器透過 G protein-coupled <span style="color:#60a5fa">receptor</span>s（GPCR）與 enzyme-linked <span style="color:#60a5fa">receptor</span>s 啟動細胞內訊號；類固醇、甲狀腺激素則進入細胞與細胞內受器結合，直接調控基因轉錄（steroid response element）。細胞內的 <span style="color:#60a5fa">second messenger</span> 包括 cAMP（經 adenylyl cyclase）、phospholipid 系統（IP₃、DAG）與 calcium-calmodulin 系統。激素濃度的調控取決於分泌速率與 metabolic clearance rate，後者取決於組織降解、肝膽排泄或腎臟排泄等途徑。
 
 ---
 
@@ -27,7 +27,7 @@ key_points:
 | **腎上腺皮質** | Cortisol、Aldosterone | 糖類代謝、鈉鉀平衡 | Steroid |
 | **腎上腺髓質** | Epinephrine、Norepinephrine | 交感神經效應 | Amine |
 | **胰臟** | Insulin（β細胞）、Glucagon（α細胞） | 血糖調節 | Peptide |
-| **副甲狀腺** | Parathyroid hormone（PTH） | 升高血鈣 | Peptide |
+| **副甲狀腺** | Parathyroid <span style="color:#60a5fa">hormone</span>（PTH） | 升高血鈣 | Peptide |
 | **睪丸** | Testosterone | 男性生殖與第二性徵 | Steroid |
 | **卵巢** | Estrogen、Progesterone | 女性生殖與第二性徵 | Steroid |
 | **腎臟** | Renin、Erythropoietin、1,25-Dihydroxycholecalciferol | 血壓、RBC 合成、鈣吸收 | Peptide/Steroid |
@@ -40,7 +40,7 @@ key_points:
 
 ### 激素分泌的時程差異
 
-Norepinephrine 與 epinephrine 在刺激後數秒內即可發揮作用；Thyroxine 與 growth hormone 的完全作用則需數週。這種差異源於信號傳遞途徑的結構差異——有的激素透過快速膜受器途徑，有的則透過緩慢的基因調控途徑。
+Norepinephrine 與 epinephrine 在刺激後數秒內即可發揮作用；Thyroxine 與 growth <span style="color:#60a5fa">hormone</span> 的完全作用則需數週。這種差異源於信號傳遞途徑的結構差異——有的激素透過快速膜受器途徑，有的則透過緩慢的基因調控途徑。
 
 ### 血中激素濃度的調控
 
@@ -48,7 +48,7 @@ Norepinephrine 與 epinephrine 在刺激後數秒內即可發揮作用；Thyroxi
 
 ### Feedback 控制
 
-幾乎所有激素系統都受到 **negative feedback** 的精密調控：激素或其產物抑制進一步分泌，防止過度作用。少數例外如排卵前的 **LH surge** 屬於 positive feedback。Feedback 可作用於基因轉錄、蛋白質合成或儲存激素的釋放等各個層次。
+幾乎所有激素系統都受到 **<span style="color:#60a5fa">negative feedback</span>** 的精密調控：激素或其產物抑制進一步分泌，防止過度作用。少數例外如排卵前的 **LH surge** 屬於 positive feedback。Feedback 可作用於基因轉錄、蛋白質合成或儲存激素的釋放等各個層次。
 
 ### 週期性變化
 
@@ -60,7 +60,7 @@ Norepinephrine 與 epinephrine 在刺激後數秒內即可發揮作用；Thyroxi
 
 ### 水溶性激素
 
-Peptide hormone 與 catecholamine 溶於血漿中自由運輸，離開微血管進入間質液再作用於目標細胞。
+Peptide <span style="color:#60a5fa">hormone</span> 與 catecholamine 溶於血漿中自由運輸，離開微血管進入間質液再作用於目標細胞。
 
 ### 脂溶性激素
 
@@ -70,7 +70,7 @@ Steroid 與甲狀腺激素在血漿中主要與蛋白質結合。例如 99% 以�
 
 激素清除速率 = 血漿中激素消失速率 ÷ 血漿激素濃度
 
-清除途徑包括：組織代謝破壞、組織結合、肝臟排泄至膽汁、腎臟排泄至尿液。Peptide hormone 與 catecholamine 通常半衰期很短（如 angiotensin II 不到 1 分鐘）；類固醇半衰期約 20–100 分鐘；甲狀腺激素因與蛋白質高度結合，半衰期可達 1–6 天。
+清除途徑包括：組織代謝破壞、組織結合、肝臟排泄至膽汁、腎臟排泄至尿液。Peptide <span style="color:#60a5fa">hormone</span> 與 catecholamine 通常半衰期很短（如 angiotensin II 不到 1 分鐘）；類固醇半衰期約 20–100 分鐘；甲狀腺激素因與蛋白質高度結合，半衰期可達 1–6 天。
 
 ---
 
@@ -82,8 +82,8 @@ Steroid 與甲狀腺激素在血漿中主要與蛋白質結合。例如 99% 以�
 
 受器的三個主要位置：
 
-1. **細胞膜**：主要適用於 protein、peptide 與 catecholamine hormones
-2. **細胞質**：主要適用於 steroid hormones
+1. **細胞膜**：主要適用於 protein、peptide 與 catecholamine <span style="color:#60a5fa">hormone</span>s
+2. **細胞質**：主要適用於 steroid <span style="color:#60a5fa">hormone</span>s
 3. **細胞核**：主要適用於甲狀腺激素（與染色體直接相關聯）
 
 ### 受器的動態調控
@@ -107,7 +107,7 @@ Steroid 與甲狀腺激素在血漿中主要與蛋白質結合。例如 99% 以�
 | 激素/生長因子 |
 |---|
 | Fibroblast growth factor |
-| Growth hormone |
+| Growth <span style="color:#60a5fa">hormone</span> |
 | Hepatocyte growth factor |
 | Insulin |
 | Insulin-like growth factor-1 |
@@ -117,7 +117,7 @@ Steroid 與甲狀腺激素在血漿中主要與蛋白質結合。例如 99% 以�
 
 ### 細胞內受器與基因活化
 
-Steroid、甲狀腺、視網醇與維生素 D 等激素為脂溶性，可直接穿越細胞膜與細胞質或細胞核內受器結合。受器-激素複合體結合於 DNA 上的激素反應元件（hormone response element），進而活化或抑制特定基因的轉錄。此過程需要數分鐘至數天才能展現最終效應。
+Steroid、甲狀腺、視網醇與維生素 D 等激素為脂溶性，可直接穿越細胞膜與細胞質或細胞核內受器結合。受器-激素複合體結合於 DNA 上的激素反應元件（<span style="color:#60a5fa">hormone</span> response element），進而活化或抑制特定基因的轉錄。此過程需要數分鐘至數天才能展現最終效應。
 
 ---
 
@@ -133,7 +133,7 @@ cAMP 一旦形成，會啟動酶的瀑布效應（cascade），使訊號逐級�
 
 | 激素 |
 |---|
-| ACTH、Angiotensin II（上皮細胞）、Calcitonin、Catecholamines（β受器）、CRH、FSH、Glucagon、GHRH、hCG、LH、Parathyroid hormone、Secretin、Somatostatin、TSH、Vasopressin（V2受器，上皮細胞）|
+| ACTH、Angiotensin II（上皮細胞）、Calcitonin、Catecholamines（β受器）、CRH、FSH、Glucagon、GHRH、hCG、LH、Parathyroid <span style="color:#60a5fa">hormone</span>、Secretin、Somatostatin、TSH、Vasopressin（V2受器，上皮細胞）|
 
 ### Phospholipase C 系統
 
@@ -148,7 +148,7 @@ DAG 的脂肪部分也是 arachidonic acid，是前列腺素（prostaglandin）�
 
 | 激素 |
 |---|
-| Angiotensin II（血管平滑肌）、Catecholamines（α受器）、GnRH、GHRH、Parathyroid hormone、Oxytocin、TRH、Vasopressin（V1受器，血管平滑肌）|
+| Angiotensin II（血管平滑肌）、Catecholamines（α受器）、GnRH、GHRH、Parathyroid <span style="color:#60a5fa">hormone</span>、Oxytocin、TRH、Vasopressin（V1受器，血管平滑肌）|
 
 ### Calcium-Calmodulin 系統
 

@@ -24,9 +24,9 @@ key_points:
 
 凝血過程可分為三個基本步驟：
 
-1. 作為血管破裂或血液自身受損的反應，血液中會發生涉及 12 種以上凝血因子的複雜化學反應級聯。最終結果是形成一個稱為凝血酶原活化素（prothrombin activator）的活化物質複合體。
-2. 凝血酶原活化素在鈣離子（Ca²⁺）足夠的情況下，催化 prothrombin 轉化為 thrombin。
-3. Thrombin 作為酶將 fibrinogen 轉化為纖維蛋白（fibrin），這些纖維蛋白包裹血小板、血球和血漿，形成血塊。
+1. 作為血管破裂或血液自身受損的反應，血液中會發生涉及 <span style="color:#f87171">12 種以上</span>凝血因子的複雜化學反應級聯。最終結果是形成一個稱為<span style="color:#60a5fa">凝血酶原活化素（prothrombin activator）</span>的活化物質複合體。
+2. <span style="color:#60a5fa">凝血酶原活化素</span>在<span style="color:#e2e8f0">鈣離子（Ca²⁺）</span>足夠的情況下，催化<span style="color:#60a5fa">prothrombin</span>轉化為<span style="color:#60a5fa">thrombin</span>。
+3. <span style="color:#60a5fa">Thrombin</span> 作為酶將<span style="color:#60a5fa">fibrinogen</span>轉化為<span style="color:#60a5fa">纖維蛋白（fibrin）</span>，這些纖維蛋白包裹<span style="color:#60a5fa">血小板</span>、<span style="color:#22d3ee">血球</span>和<span style="color:#22d3ee">血漿</span>，形成血塊。
 
 ### Prothrombin 轉化為 Thrombin
 
@@ -66,7 +66,7 @@ Prothrombin 轉化為 thrombin 的過程如下：
 
 ### Prothrombin 與 Thrombin
 
-Prothrombin 是一種血漿蛋白，屬於 α2-球蛋白，分子量為 68,700。它存在於正常血漿中，濃度約為 15 mg/dL。它是一種不穩定的蛋白質，容易分裂成較小的化合物，其中之一是 thrombin，分子量為 33,700，幾乎是 prothrombin 的一半。
+<span style="color:#60a5fa">Prothrombin</span> 是一種<span style="color:#22d3ee">血漿蛋白</span>，屬於 α2-球蛋白，分子量為 <span style="color:#f87171">68,700</span>。它存在於正常<span style="color:#22d3ee">血漿</span>中，濃度約為 <span style="color:#34d399">15 mg/dL</span>。它是一種不穩定的蛋白質，容易分裂成較小的化合物，其中之一是<span style="color:#60a5fa">thrombin</span>，分子量為 <span style="color:#f87171">33,700</span>，幾乎是 prothrombin 的一半。
 
 Prothrombin 由肝臟持續生成，並持續被人體用於血液凝固。如果肝臟無法產生 prothrombin，大約一天後血漿中的 prothrombin 濃度就會低到無法維持正常血液凝固。維生素 K 是肝臟正常活化 prothrombin 以及其他少數凝血因子所必需的。因此，缺乏維生素 K 或肝臟疾病導致 prothrombin 形成異常，都會使 prothrombin 降至過低水平，造成出血傾向。
 
@@ -76,7 +76,7 @@ Prothrombin 由肝臟持續生成，並持續被人體用於血液凝固。如�
 
 ### Fibrinogen
 
-Fibrinogen 是一種高分子量蛋白質（分子量約 340,000），存在於血漿中，含量為 100 至 700 mg/dL。Fibrinogen 由肝臟生成，肝臟疾病會降低循環中 fibrinogen 的濃度，就像前述對 prothrombin 濃度的影響一樣。
+<span style="color:#60a5fa">Fibrinogen</span> 是一種高分子量蛋白質（分子量約 <span style="color:#f87171">340,000</span>），存在於<span style="color:#22d3ee">血漿</span>中，含量為 <span style="color:#34d399">100 至 700 mg/dL</span>。Fibrinogen 由肝臟生成，肝臟疾病會降低循環中 fibrinogen 的濃度，就像前述對 prothrombin 濃度的影響一樣。
 
 由於其分子量較大，fibrinogen 通常很少從血管漏出到間質液中，而且由於 fibrinogen 是凝固過程的必要因子之一，間質液通常不會凝固。然而，當毛細血管通透性病理性增加時，fibrinogen 會漏出到組織液中並達到足以讓這些液體凝固的量，與血漿和全血凝固的方式大致相同。
 
@@ -137,9 +137,9 @@ Prothrombin activator 的形成通常被認為有兩種途徑，雖然在實際�
 
 啟動 prothrombin activator 形成的外在途徑始於血管壁創傷或接觸血液的血管外組織創傷。這種情況導致以下步驟：
 
-1. **組織因子的釋放。** 受創傷組織釋放一個稱為組織因子（tissue factor）或組織凝血活酶（tissue thromboplastin）的複合物質。這個因子主要由組織細胞膜的磷脂和一種脂蛋白複合體組成，主要作為蛋白水解酶發揮作用。
-2. **因子 X 的活化——因子 VII 和組織因子的角色。** 組織因子的脂蛋白複合體進一步與凝血因子 VII 結合，在鈣離子存在下，對因子 X 發揮酶作用，將其轉化為活化型因子 X（Xa）。
-3. **Xa 形成 prothrombin activator——因子 V 的角色。** 活化的因子 X 立即與組織因子中的組織磷脂或從血小板釋放的其他磷脂結合，並與因子 V 形成稱為 prothrombin activator 的複合體。在 Ca²⁺ 存在下，prothrombin 在數秒內被切割形成 thrombin，凝血過程隨即按前述方式進行。
+1. <span style="color:#60a5fa">組織因子的釋放。</span> 受創傷<span style="color:#22d3ee">組織</span>釋放一個稱為<span style="color:#60a5fa">組織因子（tissue factor）</span>或<span style="color:#60a5fa">組織凝血活酶（tissue thromboplastin）</span>的複合物質。這個因子主要由<span style="color:#22d3ee">組織細胞膜</span>的<span style="color:#60a5fa">磷脂</span>和一種<span style="color:#60a5fa">脂蛋白複合體</span>組成，主要作為蛋白水解酶發揮作用。
+2. <span style="color:#60a5fa">因子 X 的活化——因子 VII 和組織因子的角色。</span> <span style="color:#60a5fa">組織因子</span>的脂蛋白複合體進一步與<span style="color:#e2e8f0">凝血因子 VII</span>結合，在<span style="color:#e2e8f0">鈣離子</span>存在下，對<span style="color:#e2e8f0">因子 X</span>發揮酶作用，將其轉化為活化型<span style="color:#e2e8f0">因子 X（Xa）</span>。
+3. <span style="color:#60a5fa">Xa 形成 prothrombin activator——因子 V 的角色。</span> 活化的因子 X 立即與組織因子中的組織磷脂或從血小板釋放的其他磷脂結合，並與因子 V 形成稱為 prothrombin activator 的複合體。在 Ca²⁺ 存在下，prothrombin 在數秒內被切割形成 thrombin，凝血過程隨即按前述方式進行。
 
 一開始，prothrombin activator 複合體中的因子 V 是無活性的，但一旦凝血開始且 thrombin 開始形成，thrombin 的蛋白水解作用就會活化因子 V。這種活化反過來又成為 prothrombin 活化的強大加速劑。
 
@@ -151,11 +151,11 @@ Prothrombin activator 的形成通常被認為有兩種途徑，雖然在實際�
 
 啟動 prothrombin activator 形成從而啟動凝血的第二個機制，始於血液本身的創傷或血液接觸受損血管壁的膠原蛋白。這個過程通過以下級聯反應持續進行：
 
-1. **血液創傷導致因子 XII 活化和血小板磷脂釋放。** 血液創傷或血液接觸血管壁膠原蛋白會改變血液中兩個重要的凝血因子：因子 XII 和血小板。當因子 XII 與膠原蛋白或玻璃等濕潤表面接觸時，會呈現新的分子構型，將其轉化為稱為活化因子 XII 的蛋白水解酶。同時，血液創傷也會因附著於膠原蛋白或濕潤表面而損傷血小板（或其他方式損傷）；這會釋放含有稱為血小板因子 3 的脂蛋白的血小板磷脂，在後續凝血反應中也發揮作用。
-2. **因子 XI 的活化。** 活化因子 XII 也在酶學上作用於因子 XI，將其活化，這是內在途徑的第二步。這個反應也需要高分子量激肽原，並由前激肽釋放酶加速。
-3. **活化因子 XI 活化因子 IX。** 活化因子 XI 然後在酶學上作用於因子 IX，同樣將其活化。
-4. **因子 X 的活化——因子 VIII 的角色。** 活化因子 IX 與活化因子 VIII 以及來自受創傷血小板的血小板磷脂和因子 III 共同作用，活化因子 X。很明顯，當因子 VIII 或血小板供應不足時，這個步驟就會有缺陷。因子 VIII 是典型血友病患者所缺乏的因子，因此稱為抗血友病因子。血小板是出血性疾病——血小板減少症（thrombocytopenia）——中所缺乏的凝血因子。
-5. **活化因子 X 形成 prothrombin activator——因子 V 的角色。** 這個步驟在內在途徑中與外在途徑的最後一步相同。即活化因子 X 與因子 V 和血小板或組織磷脂結合，形成稱為 prothrombin activator 的複合體。Prothrombin activator 反過來在數秒內啟動切割 prothrombin 形成 thrombin，從而啟動前述的最終凝血過程。
+1. <span style="color:#60a5fa">血液創傷導致因子 XII 活化和血小板磷脂釋放。</span> 血液創傷或血液接觸<span style="color:#22d3ee">血管壁</span>的<span style="color:#e2e8f0">膠原蛋白</span>會改變血液中兩個重要的凝血因子：<span style="color:#e2e8f0">因子 XII</span>和<span style="color:#60a5fa">血小板</span>。當<span style="color:#e2e8f0">因子 XII</span>與<span style="color:#e2e8f0">膠原蛋白</span>或玻璃等濕潤表面接觸時，會呈現新的分子構型，將其轉化為稱為活化<span style="color:#e2e8f0">因子 XII</span>的蛋白水解酶。同時，血液創傷也會因附著於<span style="color:#e2e8f0">膠原蛋白</span>或濕潤表面而損傷<span style="color:#60a5fa">血小板</span>；這會釋放含有稱為<span style="color:#e2e8f0">血小板因子 3</span>的脂蛋白的<span style="color:#60a5fa">血小板磷脂</span>，在後續凝血反應中也發揮作用。
+2. <span style="color:#60a5fa">因子 XI 的活化。</span> 活化<span style="color:#e2e8f0">因子 XII</span>也在酶學上作用於<span style="color:#e2e8f0">因子 XI</span>，將其活化，這是內在途徑的第二步。這個反應也需要<span style="color:#e2e8f0">高分子量激肽原</span>，並由<span style="color:#e2e8f0">前激肽釋放酶</span>加速。
+3. <span style="color:#60a5fa">活化因子 XI 活化因子 IX。</span> 活化<span style="color:#e2e8f0">因子 XI</span>然後在酶學上作用於<span style="color:#e2e8f0">因子 IX</span>，同樣將其活化。
+4. <span style="color:#60a5fa">因子 X 的活化——因子 VIII 的角色。</span> 活化<span style="color:#e2e8f0">因子 IX</span>與活化<span style="color:#e2e8f0">因子 VIII</span>以及來自受創傷<span style="color:#60a5fa">血小板</span>的<span style="color:#60a5fa">血小板磷脂</span>和<span style="color:#e2e8f0">因子 III</span>共同作用，活化<span style="color:#e2e8f0">因子 X</span>。很明顯，當<span style="color:#e2e8f0">因子 VIII</span>或<span style="color:#60a5fa">血小板</span>供應不足時，這個步驟就會有缺陷。<span style="color:#e2e8f0">因子 VIII</span>是典型<span style="color:#c084fc">血友病</span>患者所缺乏的因子，因此稱為<span style="color:#e2e8f0">抗血友病因子</span>。<span style="color:#60a5fa">血小板</span>是出血性疾病——<span style="color:#e2e8f0">血小板減少症（thrombocytopenia）</span>——中所缺乏的凝血因子。
+5. <span style="color:#60a5fa">活化因子 X 形成 prothrombin activator——因子 V 的角色。</span> 這個步驟在內在途徑中與外在途徑的最後一步相同。即活化因子 X 與因子 V 和血小板或組織磷脂結合，形成稱為 prothrombin activator 的複合體。Prothrombin activator 反過來在數秒內啟動切割 prothrombin 形成 thrombin，從而啟動前述的最終凝血過程。
 
 **Figure 37-6.** Intrinsic pathway for initiating blood clotting. HMW, High-molecular weight.
 

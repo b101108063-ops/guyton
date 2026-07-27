@@ -17,7 +17,7 @@ summary: "本章探討肺循環的獨特生理特性、肺間質液體動力學�
 
 ## 肺循環的基本特徵
 
-肺循環的首要任務是將血液精確配送至各肺段，使血液充分暴露於充氧的肺泡環境中。這一過程並非被動分配，而是由局部 **oxygen 濃度主動調控**：當某區域肺泡 O₂ 濃度下降時，局部血管收縮，血流重新導向充氧良好的區段。這種 **hypoxic pulmonary vasoconstriction** 機制確保血液總能接觸到最佳的氣體交換界面。
+<span style="color:#22d3ee">肺循環</span>的首要任務是將<span style="color:#22d3ee">血液</span>精確配送至各<span style="color:#22d3ee">肺段</span>，使<span style="color:#22d3ee">血液</span>充分暴露於充氧的<span style="color:#22d3ee">肺泡</span>環境中。這一過程並非被動分配，而是由局部 <span style="color:#60a5fa">oxygen</span> 濃度主動調控：當某區域<span style="color:#22d3ee">肺泡</span> O₂ 濃度下降時，局部<span style="color:#22d3ee">血管</span>收縮，血流重新導向充氧良好的區段。這種 <span style="color:#e2e8f0">hypoxic pulmonary vasoconstriction</span> 機制確保<span style="color:#22d3ee">血液</span>總能接觸到最佳的氣體交換界面。
 
 ### 肺循環與體循環的壓力差異
 
@@ -48,7 +48,7 @@ summary: "本章探討肺循環的獨特生理特性、肺間質液體動力學�
 | **向內總力** | **−28** |
 | **淨濾過壓** | **+1** |
 
-正常情況下，向外總力（+29 mm Hg）略大於向內總力（−28 mm Hg），產生約 +1 mm Hg 的淨濾過壓。這微弱的正向驅使力使液體持續從肺微血管滲入間質，而淋巴系統則負責將這股細流引流回循環——這是維持肺間質乾燥的關鍵平衡。
+正常情況下，向外總力（<span style="color:#34d399">+29 mm Hg</span>）略大於向內總力（<span style="color:#34d399">−28 mm Hg</span>），產生約 <span style="color:#34d399">+1 mm Hg</span> 的<span style="color:#e2e8f0">淨濾過壓</span>。這微弱的正向驅使力使液體持續從<span style="color:#22d3ee">肺微血管</span>滲入間質，而<span style="color:#22d3ee">淋巴系統</span>則負責將這股細流引流回循環——這是維持<span style="color:#22d3ee">肺間質</span>乾燥的關鍵平衡。
 
 ### 為何肺泡能維持乾燥？
 
@@ -71,13 +71,13 @@ summary: "本章探討肺循環的獨特生理特性、肺間質液體動力學�
 
 **Figure 39-8.** 當左心房壓力（及肺微血管壓）升高時，肺組織液體流失的速率。（From Guyton AC, Lindsey AW: Effect of elevated left atrial pressure and decreased plasma protein concentration on the development of pulmonary edema. Circ Res 7:649, 1959.）
 
-左心房壓力每上升 1–2 mm Hg，肺微血管壓便隨之上升約 1–2 mm Hg。實驗中，當左心房壓力超過 23 mm Hg（微血管壓約 25 mm Hg）時，液體開始在肺臟累積；此臨界值恰好等於血漿膠體滲透壓。
+左心房壓力每上升 1–2 mm Hg，肺微血管壓便隨之上升約 1–2 mm Hg。實驗中，當<span style="color:#22d3ee">左心房</span>壓力超過 <span style="color:#f87171">23 mm Hg</span>（<span style="color:#22d3ee">微血管</span>壓約 <span style="color:#f87171">25 mm Hg</span>）時，液體開始在<span style="color:#22d3ee">肺臟</span>累積；此臨界值恰好等於<span style="color:#22d3ee">血漿</span><span style="color:#e2e8f0">膠體滲透壓</span>。
 
-**急性安全係數**：正常人血漿膠體滲透壓為 28 mm Hg，肺微血管壓正常值為 7 mm Hg，兩者差距約 21 mm Hg——這就是急性暴露時的安全邊際。
+<span style="color:#e2e8f0">急性安全係數：</span>正常人<span style="color:#22d3ee">血漿</span><span style="color:#e2e8f0">膠體滲透壓</span>為 <span style="color:#34d399">28 mm Hg</span>，<span style="color:#22d3ee">肺微血管</span>壓正常值為 <span style="color:#34d399">7 mm Hg</span>，兩者差距約 <span style="color:#34d399">21 mm Hg</span>——這就是急性暴露時的安全邊際。
 
 #### 慢性疾病的安全係數擴增
 
-當肺微血管壓持續升高達兩週以上，肺臟對水腫的耐受性會大幅提升，原因在於淋巴管顯著擴張，排除液體的能力可增加近十倍。因此，慢性僧帽瓣狹窄患者的肺微血管壓即使達到 40–45 mm Hg，仍可不發生致命性肺水腫。
+當<span style="color:#22d3ee">肺微血管</span>壓持續升高達兩週以上，<span style="color:#22d3ee">肺臟</span>對<span style="color:#e2e8f0">水腫</span>的耐受性會大幅提升，原因在於<span style="color:#22d3ee">淋巴管</span>顯著擴張，排除液體的能力可增加近十倍。因此，慢性<span style="color:#e2e8f0">僧帽瓣狹窄</span>患者的<span style="color:#22d3ee">肺微血管</span>壓即使達到 <span style="color:#f87171">40–45 mm Hg</span>，仍可不發生致命性<span style="color:#e2e8f0">肺水腫</span>。
 
 ### 急性肺水腫的致死速度
 
@@ -89,9 +89,9 @@ summary: "本章探討肺循環的獨特生理特性、肺間質液體動力學�
 
 肺臟在呼吸時於肋膜腔內來回滑動，為減少摩擦，肋膜表面（壁層與臟層）之間覆有一層薄薄的黏液狀液體。這層液體由肋膜這層具有通透性的間皮組織持續滲出，攜帶組織蛋白使其呈黏液特性，確保肺臟滑動時阻力極低。
 
-正常時每側肋膜腔僅含數毫升液體。當液體稍微過量時，分布於以下區域的淋巴管便會主動將其抽走：縱隔、橫膈上方表面，以及壁層肋膜外側面。
+正常時每側<span style="color:#22d3ee">肋膜腔</span>僅含數毫升液體。當液體稍微過量時，分布於以下區域的<span style="color:#22d3ee">淋巴管</span>便會主動將其抽走：<span style="color:#22d3ee">縱隔</span>、<span style="color:#22d3ee">橫膈</span>上方表面，以及壁層<span style="color:#22d3ee">肋膜</span>外側面。
 
-因此，**肋膜腔是一個潛在空間**——正常時極度狹窄，不構成明顯的物理腔隙。
+因此，<span style="color:#e2e8f0">肋膜腔是一個潛在空間</span>——正常時極度狹窄，不構成明顯的物理腔隙。
 
 ### 肋膜液體的負壓來源
 
@@ -99,7 +99,7 @@ summary: "本章探討肺循環的獨特生理特性、肺間質液體動力學�
 
 ### 肋膜積液
 
-**Pleural effusion**（肋膜積液）是指肋膜腔內積聚大量自由液體，其成因與其他組織水腫相同：
+<span style="color:#e2e8f0">Pleural effusion</span>（肋膜積液）是指<span style="color:#22d3ee">肋膜腔</span>內積聚大量自由液體，其成因與其他組織<span style="color:#e2e8f0">水腫</span>相同：
 
 1. 淋巴排出受阻
 2. 心衰竭導致周邊及肺微血管壓過高，液體過度滲出

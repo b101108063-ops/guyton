@@ -10,7 +10,7 @@ key_points:
 
 ## 章節導讀
 
-肝臟是人體最大的腺體器官（約占體重的 2%），執行超過數百種相互關聯的生理功能。本章首先說明肝臟的基本結構單元——肝小葉（liver lobule）的解剖，包括肝細胞板、膽小管、肝竇（sinusoids）、Kupffer 細胞與 Disse 間隙等。肝臟擁有豐富的血管分布，門靜脈（portal vein）與肝動脈（hepatic artery）共同供血，血流量約占心輸出量的 27%。肝竇的高通透性使血漿蛋白可自由進入 Disse 間隙，進而形成大量淋巴液（占全身淋巴的約 50%）。當肝靜脈壓力升高（如心衰竭）時，液體會滲出形成腹水（ascites）。肝臟具備驚人的再生能力，可透過 hepatocyte growth factor（HGF）等因子在 5–7 天內恢復原有體積。Kupffer 細胞作為肝巨噬細胞，清除來自腸道的細菌。代謝方面，肝臟是葡萄糖緩衝庫、脂肪與膽固醇合成的中心、尿素合成的唯一場所，並合成 90% 的血漿蛋白質。此外，肝臟還是多種維生素與鐵的儲存庫、凝血因子的產地，以及藥物與激素的代謝排泄器官。本章最後以膽紅素（bilirubin）代謝與黃疸（jaundice）作為臨床應用的說明。
+肝臟是人體最大的腺體器官（約占體重的 2%），執行超過數百種相互關聯的生理功能。本章首先說明肝臟的基本結構單元——肝小葉（<span style="color:#22d3ee">liver</span> lobule）的解剖，包括肝細胞板、膽小管、肝竇（sinusoids）、Kupffer 細胞與 Disse 間隙等。肝臟擁有豐富的血管分布，門靜脈（<span style="color:#22d3ee">portal vein</span>）與肝動脈（hepatic artery）共同供血，血流量約占心輸出量的 27%。肝竇的高通透性使血漿蛋白可自由進入 Disse 間隙，進而形成大量淋巴液（占全身淋巴的約 50%）。當肝靜脈壓力升高（如心衰竭）時，液體會滲出形成腹水（ascites）。肝臟具備驚人的再生能力，可透過 <span style="color:#22d3ee">hepatocyte</span> growth factor（HGF）等因子在 5–7 天內恢復原有體積。Kupffer 細胞作為肝巨噬細胞，清除來自腸道的細菌。代謝方面，肝臟是葡萄糖緩衝庫、脂肪與膽固醇合成的中心、尿素合成的唯一場所，並合成 90% 的血漿蛋白質。此外，肝臟還是多種維生素與鐵的儲存庫、凝血因子的產地，以及藥物與激素的代謝排泄器官。本章最後以膽紅素（<span style="color:#fb923c">bilirubin</span>）代謝與黃疸（jaundice）作為臨床應用的說明。
 
 ---
 
@@ -18,9 +18,9 @@ key_points:
 
 ### 肝小葉的解剖
 
-肝臟的基本功能單位是肝小葉（liver lobule），呈圓柱狀，長約數毫米，直徑 0.8–2 毫米。人類肝臟約有 50,000–100,000 個小葉。
+肝臟的基本功能單位是肝小葉（<span style="color:#22d3ee">liver</span> lobule），呈圓柱狀，長約數毫米，直徑 0.8–2 毫米。人類肝臟約有 50,000–100,000 個小葉。
 
-小葉以中央靜脈（central vein）為中心，肝細胞板（liver cell plates）如車輪幅條般向外放射排列，每塊肝細胞板通常只有兩層細胞厚度。相鄰肝細胞之間為膽小管（bile canaliculi），匯入葉間膽管。
+小葉以中央靜脈（central vein）為中心，肝細胞板（<span style="color:#22d3ee">liver</span> cell plates）如車輪幅條般向外放射排列，每塊肝細胞板通常只有兩層細胞厚度。相鄰肝細胞之間為膽小管（bile canaliculi），匯入葉間膽管。
 
 小葉周圍的葉間間隔（fibrous septa）中有門靜脈的小分支（portal venule），接收來自胃腸道的靜脈血，血液流經扁平的肝竇（sinusoids）後進入中央靜脈。肝竇內皮細胞有孔洞（pores），最大可達約 1 μm，使血漿物質可自由進入 Disse 間隙（spaces of Disse，又稱 perisinusoidal spaces）。此間隙與葉間淋巴管相連， excess fluid 即由此清除。
 
@@ -125,11 +125,11 @@ Urea 形成是防止氨中毒（hepatic coma）的關鍵機制。血漿白蛋白
 
 ### 膽紅素的形成
 
-老化的紅血球（約 120 天壽命）在網狀內皮系統中被吞噬，hemoglobin 被分解為 globin 與 heme。Heme 先轉化為 biliverdin，再迅速被還原為游離膽紅素（unconjugated bilirubin），與血漿白蛋白結合後運往肝臟。
+老化的紅血球（約 120 天壽命）在網狀內皮系統中被吞噬，hemoglobin 被分解為 globin 與 heme。Heme 先轉化為 bi<span style="color:#22d3ee">liver</span>din，再迅速被還原為游離膽紅素（unconjugated <span style="color:#fb923c">bilirubin</span>），與血漿白蛋白結合後運往肝臟。
 
 <figure>
-紅血球 → 網狀內皮系統 → Heme → Biliverdin → Unconjugated bilirubin
-血漿 → 肝細胞 → Conjugated bilirubin → 膽汁 → 腸道
+紅血球 → 網狀內皮系統 → Heme → Bi<span style="color:#22d3ee">liver</span>din → Unconjugated <span style="color:#fb923c">bilirubin</span>
+血漿 → 肝細胞 → Conjugated <span style="color:#fb923c">bilirubin</span> → 膽汁 → 腸道
 膽紅素 → 糞便（stercobilin）/ 尿（urobilin）
 </figure>
 
@@ -137,7 +137,7 @@ Urea 形成是防止氨中毒（hepatic coma）的關鍵機制。血漿白蛋白
 
 ### 膽紅素的肝內轉化
 
-在肝細胞內，約 80% 的游離膽紅素與 glucuronic acid 結合（形成 bilirubin glucuronide），約 10% 與硫酸結合，約 10% 與其他物質結合。結合後的膽紅素經主動運輸排入膽小管，最終進入腸道。
+在肝細胞內，約 80% 的游離膽紅素與 glucuronic acid 結合（形成 <span style="color:#fb923c">bilirubin</span> glucuronide），約 10% 與硫酸結合，約 10% 與其他物質結合。結合後的膽紅素經主動運輸排入膽小管，最終進入腸道。
 
 ### 糞膽素原（Urobilinogen）
 

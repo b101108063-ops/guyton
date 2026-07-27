@@ -13,7 +13,7 @@ summary: "本章探討 O₂ 與 CO₂ 在血液及組織間質中的運輸機制
 
 呼吸系統的最終目標是將 O₂ 送達組織細胞，並將細胞產生的 CO₂ 移除。本章承接前兩章對氣體交換的討論，進一步深入血液中的氣體運輸機制。
 
-Hemoglobin 是 O₂ 運輸的核心分子——每 100 ml 血液中的 15 g hemoglobin 最多可結合約 20 ml O₂，形成所謂的 20 volume percent。Oxygen-hemoglobin dissociation curve 的 S 形特徵蘊含重要生理意義：平坦的上段確保在肺泡 PO₂ 變動時仍能有效結合 O₂；陡峭的下段則使組織端能迅速釋放 O₂ 以響應代谢需求。
+<span style="color:#60a5fa">Hemoglobin</span> 是 O₂ 運輸的核心分子——每 100 ml <span style="color:#22d3ee">血液</span>中的 <span style="color:#f87171">15 g</span> <span style="color:#60a5fa">hemoglobin</span> 最多可結合約 <span style="color:#34d399">20 ml</span> O₂，形成所謂的 20 volume percent。Oxygen-hemoglobin dissociation curve 的 S 形特徵蘊含重要生理意義：平坦的上段確保在肺泡 PO₂ 變動時仍能有效結合 O₂；陡峭的下段則使組織端能迅速釋放 O₂ 以響應代谢需求。
 
 此外，hemoglobin 還扮演組織 O₂ 緩衝系統的角色——當環境 O₂ 濃度大幅變動時，組織 PO₂ 的變化幅度遠小於肺泡 PO₂ 的變化，這是因為 hemoglobin 的結合特性自動限制了組織 PO₂ 的波動範圍。CO₂ 的運輸則主要依賴 bicarbonate 形成反應（70%），這是一個可逆的水合反應，由 carbonic anhydrase 催化。整個氣體運輸鏈中，O₂ 與 CO₂ 的擴散方向處處相反，而 CO₂ 因其高溶解度與擴散係數，只需極小的 partial pressure 差即可完成擴散。
 
@@ -40,12 +40,12 @@ Hemoglobin 是 O₂ 運輸的核心分子——每 100 ml 血液中的 15 g hemo
 
 | 位置 | PCO₂（mm Hg） |
 |------|-------------|
-| 細胞內 | 46 |
-| 組織間質 | 45 |
-| 進入組織的微血管血液（arterial） | 40 |
-| 離開組織的微血管血液（venous） | 45 |
-| 肺微血管 arterial 端血液 | 45 |
-| 肺泡氣 | 40 |
+| <span style="color:#22d3ee">細胞內</span> | <span style="color:#f87171">46</span> |
+| <span style="color:#22d3ee">組織間質</span> | <span style="color:#f87171">45</span> |
+| 進入組織的微血管血液（arterial） | <span style="color:#34d399">40</span> |
+| 離開組織的微血管血液（venous） | <span style="color:#f87171">45</span> |
+| 肺微血管 arterial 端血液 | <span style="color:#f87171">45</span> |
+| <span style="color:#22d3ee">肺泡氣</span> | <span style="color:#34d399">40</span> |
 
 注意：組織間質與細胞之間的 PCO₂ 差僅 **1 mm Hg**，而血液與肺泡之間的差也僅 **5 mm Hg**——這遠小於 O₂ 擴散所需的 partial pressure 差，正是因為 CO₂ 的擴散係數約為 O₂ 的 20 倍。
 
@@ -78,19 +78,19 @@ Hemoglobin 的 globin portion 含四個 polypeptide chain，各含一個 heme gr
 2. **陡峭中段**（PO₂ 20–60 mm Hg）：稍降 PO₂ 即導致 saturation 大幅下降，使 O₂ 容易在組織端釋放
 3. **平緩下段**（PO₂ < 20 mm Hg）： saturation 已很低，曲線趨於平坦
 
-正常值：
-- ** Systemic arterial blood**：PO₂ ~95 mm Hg，hemoglobin saturation ~**97%**，每 100 ml 血液含 O₂ 約 **19.4 ml**
-- **Mixed venous blood**：PO₂ ~40 mm Hg，hemoglobin saturation ~**75%**，每 100 ml 血液含 O₂ 約 **14.4 ml**
+<span style="color:#e2e8f0">正常值：</span>
+- <span style="color:#e2e8f0">Systemic arterial blood</span>：PO₂ ~95 mm Hg，<span style="color:#60a5fa">hemoglobin</span> saturation ~<span style="color:#34d399">97%</span>，每 100 ml <span style="color:#22d3ee">血液</span>含 O₂ 約 <span style="color:#34d399">19.4 ml</span>
+- <span style="color:#e2e8f0">Mixed venous blood</span>：PO₂ ~40 mm Hg，<span style="color:#60a5fa">hemoglobin</span> saturation ~<span style="color:#34d399">75%</span>，每 100 ml <span style="color:#22d3ee">血液</span>含 O₂ 約 <span style="color:#34d399">14.4 ml</span>
 
 每 100 ml 血液流經組織時約釋出 **5 ml O₂**，即所謂的 **utilization coefficient**（利用率），正常值約 25%。
 
 ### Hemoglobin 的最大結合量
 
-正常血液：每 100 ml 含 hemoglobin 約 15 g，每克 hemoglobin 最多結合 1.34 ml O₂（純品為 1.39 ml，但血中雜質使平均值略低）。
+<span style="color:#e2e8f0">正常血液：</span>每 100 ml 含<span style="color:#60a5fa"> hemoglobin</span>約 <span style="color:#f87171">15 g</span>，每克<span style="color:#60a5fa"> hemoglobin</span>最多結合 <span style="color:#34d399">1.34 ml</span> O₂（純品為 1.39 ml，但血中雜質使平均值略低）。
 
 $$15 \text{ g Hb} \times 1.34 \text{ ml O}_2/\text{g Hb} = 20.1 \text{ ml O}_2/100\text{ ml blood}$$
 
-即 **20 volume percent（vol%）**。
+即 <span style="color:#34d399">20 volume percent（vol%）</span>。
 
 圖 41-9 說明血 PO₂ 與 Hemoglobin 結合 O₂ 量的關係。
 
@@ -110,7 +110,7 @@ Hemoglobin 的重要性不僅在於運輸 O₂，更在於穩定組織 PO₂。
 
 ### 為何組織 PO₂ 能維持穩定
 
-正常時組織約需 5 ml O₂/100 ml 血液。檢視 dissociation curve 可知，要從 hemoglobin 釋放 5 ml O₂，組織 PO₂ 必須降至約 40 mm Hg——這個值成為組織 PO₂ 的**上限**：若組織 PO₂ 高於 40 mm Hg，hemoglobin 就不會釋放更多 O₂，導致組織無法獲得足夠的 O₂ 供應。
+<span style="color:#e2e8f0">正常時</span><span style="color:#22d3ee">組織</span>約需 <span style="color:#34d399">5 ml</span> O₂/100 ml <span style="color:#22d3ee">血液</span>。檢視 <span style="color:#60a5fa">dissociation curve</span> 可知，要從<span style="color:#60a5fa"> hemoglobin</span> 釋放 5 ml O₂，<span style="color:#22d3ee">組織</span> PO₂ 必須降至約 <span style="color:#f87171">40 mm Hg</span>——這個值成為<span style="color:#22d3ee">組織</span> PO₂ 的<span style="color:#e2e8f0">上限：</span>若組織 PO₂ 高於 40 mm Hg，hemoglobin 就不會釋放更多 O₂，導致組織無法獲得足夠的 O₂ 供應。
 
 反之，當組織急需大量 O₂（如運動）時，稍微降低組織 PO₂ 就能從 hemoglobin 釋放大量 O₂（陡峭段），同時局部血流的增加也加速 O₂ 補充。因此，hemoglobin 自動將組織 PO₂ 維持在約 **15–40 mm Hg** 的狹窄範圍內。
 
@@ -146,17 +146,17 @@ Hemoglobin 的重要性不僅在於運輸 O₂，更在於穩定組織 PO₂。
 
 ### 2,3-BPG 的角色
 
-2,3-BPG 是紅血球糖解途徑的副產物，正常存在於血中，使 dissociation curve 輕度右移。**慢性缺氧**（如長期居住於高原、心衰竭）時，2,3-BPG 濃度增加，使曲線進一步右移，讓組織可在比正常高達 10 mm Hg 的 PO₂ 下仍獲得足夠 O₂——這對缺氧適應相當重要。
+<span style="color:#60a5fa">2,3-BPG</span> 是<span style="color:#22d3ee">紅血球</span>糖解途徑的副產物，正常存在於血中，使<span style="color:#60a5fa"> dissociation curve</span> 輕度右移。<span style="color:#e2e8f0">慢性缺氧</span>（如長期居住於高原、心衰竭）時，<span style="color:#60a5fa">2,3-BPG</span> 濃度增加，使曲線進一步右移，讓<span style="color:#22d3ee">組織</span>可在比正常高達 <span style="color:#f87171">10 mm Hg</span> 的 PO₂ 下仍獲得足夠 O₂——這對缺氧適應相當重要。
 
 ### 運動時曲線右移的疊加效應
 
-運動時，肌肉釋出大量 CO₂ 與乳酸（酸性物質），局部體溫升高 2–3°C，血中 2,3-BPG 也增加——這些因素共同作用，使肌肉微血管血液的 dissociation curve 顯著右移。效果：即使靜脈端血液仍有 70% 的 O₂ 與 hemoglobin 結合，O₂ 已能在 PO₂ 高達 40 mm Hg 時就大量釋放至肌肉。
+運動時，<span style="color:#22d3ee">肌肉</span>釋出大量 CO₂ 與<span style="color:#fb923c">乳酸</span>（酸性物質），局部體溫升高 <span style="color:#f87171">2–3°C</span>，血中 <span style="color:#60a5fa">2,3-BPG</span> 也增加——這些因素共同作用，使<span style="color:#22d3ee">肌肉</span><span style="color:#22d3ee">微血管</span><span style="color:#22d3ee">血液</span>的<span style="color:#60a5fa"> dissociation curve</span> 顯著右移。效果：即使靜脈端<span style="color:#22d3ee">血液</span>仍有 <span style="color:#34d399">70%</span> 的 O₂ 與<span style="color:#60a5fa"> hemoglobin</span> 結合，O₂ 已能在 PO₂ 高達 <span style="color:#f87171">40 mm Hg</span> 時就大量釋放至<span style="color:#22d3ee">肌肉</span>。
 
 ## 細胞對 Oxygen 的利用
 
 ### 細胞內 PO₂ 對 O₂ 使用速率的影響
 
-細胞內的呼吸酶系統設計精巧，只要細胞 PO₂ 超過 **1 mm Hg**，O₂ 的供應便不再是化學反應速率的限制因素。真正限制反應速率的是 **ADP（adenosine diphosphate）** 的濃度。
+<span style="color:#22d3ee">細胞內</span>的<span style="color:#e2e8f0">呼吸酶系統</span>設計精巧，只要<span style="color:#22d3ee">細胞</span> PO₂ 超過 <span style="color:#f87171">1 mm Hg</span>，O₂ 的供應便不再是化學反應速率的限制因素。真正限制反應速率的是 <span style="color:#e2e8f0">ADP（adenosine diphosphate）</span> 的濃度。
 
 ATP 在細胞中提供能量後轉化為 ADP；ADP 濃度升高會加速 O₂ 與營養物質的結合反應，釋放能量將 ADP 重新合成 ATP。因此，細胞 O₂ 消耗速率最終由細胞內部的能量消耗速率（即 ADP 生成速率）所控制。
 

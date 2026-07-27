@@ -15,7 +15,7 @@ key_points:
 
 ## 章節導讀
 
-本章說明常見胃腸道疾病的病理生理學機制，包括 peptic ulcer、pancreatitis、malabsorption syndromes、constipation、diarrhea 與 vomiting。
+本章說明常見胃腸道疾病的病理生理學機制，包括 <span style="color:#f87171">peptic ulcer</span>、pancreatitis、malabsorption syndromes、constipation、diarrhea 與 vomiting。
 
 消化性潰瘤（Peptic ulcer）是胃或十二指腸黏膜被酸性胃液（鹽酸與胃蛋白酶）消化而形成的潰瘤。過去認為壓力與飲食是主因，但現已確認約 75% 的病例與幽門螺旋桿菌（Helicobacter pylori）感染有關。幽門螺旋桿菌分泌尿素酶產生氨，破壞黏膜屏障並刺激胃酸分泌。治療需要抗生素根除感染與抑酸藥物（如 H2 阻斷劑、質子泵抑制劑）。
 
@@ -167,7 +167,7 @@ Greenberger NJ et al: Current Diagnosis & Treatment Gastroenterology, Hepatology
 Hammer HF: Small intestinal malabsorption. Handb Clin Neurol 174:265, 2021.
 Johnson LR et al: Physiology of the Gastrointestinal Tract. 5th ed. Academic Press, 2012.
 Kasper DL et al: Harrison's Principles of Internal Medicine. 20th ed. McGraw-Hill, 2018.
-Marshall BJ: The history of the discovery of H. pylori. In: Helicobacter pylori: Physiology and Genetics. ASM Press, 2001.
+Marshall BJ: The history of the discovery of <span style="color:#c084fc">H. pylori</span>. In: Helicobacter pylori: Physiology and Genetics. ASM Press, 2001.
 Sachs G: The gastric parietal cell. Handb Clin Neurol 174:55, 2021.
 Stevens CE, Hume ID: Comparative Physiology of the Vertebrate Digestive System. 2nd ed. Cambridge University Press, 1995.
 Talley NJ: Functional gastrointestinal disorders. N Engl J Med 374:2016, 2016.

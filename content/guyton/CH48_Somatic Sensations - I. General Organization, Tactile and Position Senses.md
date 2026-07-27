@@ -19,7 +19,7 @@ Somatosensory cortex 位於 postcentral gyrus（Brodmann 3、1、2 區），其�
 
 ### 皮膚的觸覺受器
 
-皮膚含有多種觸覺受器，包括 **Meissner's corpuscles**（適應較慢，分布於無毛髮皮膚的乳頭層）、**Pacinian corpuscles**（快速適應，偵測高頻振動）以及 **Merkel's disks**（慢速適應，偵測持續壓力與紋理）。
+<span style="color:#22d3ee">皮膚</span>含有多種觸覺受器，包括 <span style="color:#e2e8f0">Meissner's corpuscles</span>（適應較慢，分布於無毛髮<span style="color:#22d3ee">皮膚</span>的乳頭層）、<span style="color:#e2e8f0">Pacinian corpuscles</span>（快速適應，偵測高頻振動）以及 <span style="color:#e2e8f0">Merkel's disks</span>（慢速適應，偵測持續壓力與紋理）。
 
 ### 癢覺的偵測機制
 
@@ -31,10 +31,10 @@ Somatosensory cortex 位於 postcentral gyrus（Brodmann 3、1、2 區），其�
 
 圖 48-3 與 48-4 說明此路徑的完整結構：
 
-1. 感覺纖維進入脊髓背根後，大型有髓鞘纖維分為內側支與外側支
-2. **內側支**：直接進入 dorsal column，向上投射至延腦的 **cuneate nucleus（楔束核）**（來自上肢）與 **gracile nucleus（薄束核）**（來自下肢）
-3. 在延腦交叉至對側，透過 **medial lemniscus** 繼續上行至視丘 **ventrobasal complex**
-4. 視丘第三級神經元投射至 primary somatosensory cortex（**postcentral gyrus**，Brodmann 3、1、2 區），也部分投射至 somatosensory area II
+1. 感覺纖維進入<span style="color:#22d3ee">脊髓背根</span>後，大型有髓鞘纖維分為內側支與外側支
+2. <span style="color:#60a5fa">內側支：</span>直接進入 dorsal column，向上投射至<span style="color:#22d3ee">延腦</span>的 <span style="color:#e2e8f0">cuneate nucleus（楔束核）</span>（來自上肢）與 <span style="color:#e2e8f0">gracile nucleus（薄束核）</span>（來自下肢）
+3. 在<span style="color:#22d3ee">延腦</span>交叉至對側，透過 <span style="color:#60a5fa">medial lemniscus</span> 繼續上行至<span style="color:#22d3ee">視丘</span> <span style="color:#e2e8f0">ventrobasal complex</span>
+4. <span style="color:#22d3ee">視丘</span>第三級神經元投射至 primary somatosensory cortex（<span style="color:#22d3ee">postcentral gyrus</span>，Brodmann 3、1、2 區），也部分投射至 somatosensory area II
 
 此路徑攜帶的訊息：精確觸覺定位、細微觸覺強度分辨、振動感覺、皮膚移動感覺、**關節位置覺**、精細壓力覺。
 
@@ -49,7 +49,7 @@ Somatosensory cortex 位於 postcentral gyrus（Brodmann 3、1、2 區），其�
 | 特性 | Dorsal Column–Medial Lemniscal | Anterolateral |
 |------|-------------------------------|---------------|
 | 纖維大小 | 大型有髓鞘 | 中小型有髓鞘 |
-| 傳導速度 | 30–110 m/sec | 數 m/sec 至 40 m/sec |
+| 傳導速度 | <span style="color:#34d399">30–110 m/sec</span> | <span style="color:#f87171">數 m/sec 至 40 m/sec</span> |
 | 空間定位精確度 | 高（維持明確的軀體定位對應） | 低 |
 | 感覺型態 | 僅精細機械感覺 | 疼痛、溫度、粗糙觸覺、癢覺 |
 | 交叉位置 | 延腦（所有纖維） | 脊髓（進入後立即） |

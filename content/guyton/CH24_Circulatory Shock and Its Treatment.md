@@ -10,25 +10,25 @@ key_points:
 
 ## 章節導讀
 
-Circulatory shock（循環休克）是指循環系統無法提供足夠血液以滿足組織代謝需求的狀態，是臨床上最緊急的生理危機之一。本章首先介紹休克的類型——包括 hypovolemic shock（低血容性休克）、cardiogenic shock（心因性休克）與 distributive shock（分布性休克，如 septic shock、過敏性休克、神經性休克）。接著分為兩個主要部分：非進行性休克（compensated shock）與進行性休克（progressive shock）。前者描述體內多種代償機制——包括交感神經反射、renin-angiotensin 系統、ADH 與 catecholamine 分泌——如何在血壓下降時迅速啟動以維持灌流。後者則說明這些代償機制失效後，休克如何因 cardiac depression、vasomotor failure、血液淤積（sludging）、微血管通透性增加與細胞毒素釋放等因素，形成惡性循環而走向不可逆（irreversible）甚至死亡的結局。
+<span style="color:#60a5fa">Circulatory shock</span>（<span style="color:#60a5fa">循環休克</span>）是指<span style="color:#60a5fa">循環系統</span>無法提供足夠血液以滿足<span style="color:#22d3ee">組織</span>代謝需求的狀態，是臨床上最緊急的生理危機之一。本章首先介紹休克的類型——包括 <span style="color:#60a5fa">hypovolemic shock</span>（<span style="color:#60a5fa">低血容性休克</span>）、<span style="color:#60a5fa">cardiogenic shock</span>（<span style="color:#60a5fa">心因性休克</span>）與 <span style="color:#60a5fa">distributive shock</span>（<span style="color:#60a5fa">分布性休克</span>，如 <span style="color:#60a5fa">septic shock</span>、過敏性休克、神經性休克）。接著分為兩個主要部分：<span style="color:#60a5fa">非進行性休克</span>（<span style="color:#60a5fa">compensated shock</span>）與<span style="color:#60a5fa">進行性休克</span>（<span style="color:#60a5fa">progressive shock</span>）。前者描述體內多種代償機制——包括<span style="color:#60a5fa">交感神經</span>反射、<span style="color:#fb923c">renin-angiotensin</span> 系統、<span style="color:#fb923c">ADH</span> 與 <span style="color:#fb923c">catecholamine</span> 分泌——如何在<span style="color:#60a5fa">血壓</span>下降時迅速啟動以維持灌流。後者則說明這些代償機制失效後，休克如何因 <span style="color:#60a5fa">cardiac depression</span>、<span style="color:#60a5fa">vasomotor failure</span>、血液淤積（<span style="color:#60a5fa">sludging</span>）、<span style="color:#22d3ee">微血管</span>通透性增加與<span style="color:#60a5fa">細胞毒素</span>釋放等因素，形成惡性循環而走向<span style="color:#f87171">不可逆</span>（<span style="color:#f87171">irreversible</span>）甚至死亡的結局。
 
 ## 休克的分類
 
-### 低血容性休克（Hypovolemic Shock）
+### <span style="color:#60a5fa">低血容性休克</span>（<span style="color:#60a5fa">Hypovolemic Shock</span>）
 
-最常見的休克類型，因大量失血、體液流失（如嚴重腹瀉、燒傷）或脱水引起。核心問題是血液體積不足，導致 venous return 減少與 cardiac output 下降。
+最常見的休克類型，因大量失血、體液流失（如嚴重腹瀉、燒傷）或脱水引起。核心問題是血液體積不足，導致 <span style="color:#60a5fa">venous return</span> 減少與 <span style="color:#60a5fa">cardiac output</span> 下降。
 
-### 心因性休克（Cardiogenic Shock）
+### <span style="color:#60a5fa">心因性休克</span>（<span style="color:#60a5fa">Cardiogenic Shock</span>）
 
-心臟幫浦功能嚴重受損（如大範圍心肌梗塞、嚴重心衰竭），即使血液體積正常也無法維持足夠的心輸出量。
+<span style="color:#22d3ee">心臟</span>幫浦功能嚴重受損（如大範圍<span style="color:#c084fc">心肌梗塞</span>、嚴重<span style="color:#60a5fa">心衰竭</span>），即使血液體積正常也無法維持足夠的<span style="color:#60a5fa">心輸出量</span>。
 
-### 分布性休克（Distributive Shock）
+### <span style="color:#60a5fa">分布性休克</span>（<span style="color:#60a5fa">Distributive Shock</span>）
 
-血管阻力過度下降（vasodilation）導致血液分佈異常，常見於：
+血管阻力過度下降（<span style="color:#60a5fa">vasodilation</span>）導致血液分佈異常，常見於：
 
-- **Septic shock（敗血症性休克）：** 全身性感染導致 vasodilation 與微血管通透性增加
-- **Anaphylactic shock（過敏性休克）：** 過敏反應導致大量血管舒張介質釋放
-- **Neurogenic shock（神經性休克）：** 交感神經功能喪失（如脊髓損傷）導致血管張力消失
+- **<span style="color:#60a5fa">Septic shock</span>（敗血症性休克）：** 全身性<span style="color:#c084fc">感染</span>導致 <span style="color:#60a5fa">vasodilation</span> 與<span style="color:#22d3ee">微血管</span>通透性增加
+- **<span style="color:#60a5fa">Anaphylactic shock</span>（過敏性休克）：** <span style="color:#c084fc">過敏反應</span>導致大量<span style="color:#60a5fa">血管舒張</span>介質釋放
+- **<span style="color:#60a5fa">Neurogenic shock</span>（神經性休克）：** <span style="color:#60a5fa">交感神經</span>功能喪失（如<span style="color:#22d3ee">脊髓</span>損傷）導致血管張力消失
 
 ## 非進行性休克——代償機制
 
@@ -36,20 +36,20 @@ Circulatory shock（循環休克）是指循環系統無法提供足夠血液以
 
 ### 交感神經反射
 
-動物的實驗顯示，當血壓降至 45 mm Hg 以下並維持時，若未超過某個臨界閾值，動物可望康復。當血壓維持在 70 mm Hg 以上時，腦部與心臟的血流可透過自動調節（autoregulation）維持正常。這個閾值以上的休克，就是 compensated shock。
+動物的實驗顯示，當<span style="color:#60a5fa">血壓</span>降至 <span style="color:#f87171">45 mm Hg</span> 以下並維持時，若未超過某個臨界閾值，動物可望康復。當<span style="color:#60a5fa">血壓</span>維持在 <span style="color:#34d399">70 mm Hg</span> 以上時，<span style="color:#22d3ee">腦部</span>與<span style="color:#22d3ee">心臟</span>的血流可透過<span style="color:#60a5fa">自動調節</span>（<span style="color:#60a5fa">autoregulation</span>）維持正常。這個閾值以上的休克，就是 <span style="color:#60a5fa">compensated shock</span>。
 
-Baroreceptor reflex 在血壓下降後立即啟動（30 秒內），使全身交感活性大增，產生血管收縮與心跳加速。
+<span style="color:#60a5fa">Baroreceptor reflex</span> 在<span style="color:#60a5fa">血壓</span>下降後立即啟動（30 秒內），使全身<span style="color:#60a5fa">交感活性</span>大增，產生<span style="color:#60a5fa">血管收縮</span>與<span style="color:#60a5fa">心跳加速</span>。
 
 ### Renin-Angiotensin-Aldosterone System（RAAS）
 
-血壓下降後 10–60 分鐘內，腎素分泌增加，Angiotensin II 形成增加，造成：
+<span style="color:#60a5fa">血壓</span>下降後 10–60 分鐘內，<span style="color:#fb923c">renin</span> 分泌增加，<span style="color:#fb923c">Angiotensin II</span> 形成增加，造成：
 
-- 全身 arterioles 收縮
-- 腎臟鈉與水分再吸收增加
+- 全身 <span style="color:#22d3ee">arterioles</span> 收縮
+- <span style="color:#22d3ee">腎臟</span>鈉與水分再吸收增加
 
 ### ADH（血管加壓素）的分泌
 
-血容量減少與滲透壓升高刺激 posterior pituitary 釋放 ADH，促進腎小管對水的再吸收。
+血容量減少與<span style="color:#60a5fa">滲透壓</span>升高刺激<span style="color:#22d3ee">posterior pituitary</span> 釋放 <span style="color:#fb923c">ADH</span>，促進<span style="color:#22d3ee">腎小管</span>對水的再吸收。
 
 ### Reverse Stress-Relaxation（反向應力鬆弛）
 
@@ -68,19 +68,19 @@ Baroreceptor reflex 在血壓下降後立即啟動（30 秒內），使全身交
 
 當休克超過某個臨界點後，休克本身會進一步加重休克，形成惡性循環，稱為 progressive shock。以下是各關鍵因素：
 
-### 心臟抑制（Cardiac Depression）
+### <span style="color:#60a5fa">心臟抑制</span>（<span style="color:#60a5fa">Cardiac Depression</span>）
 
-當 coronary blood flow（冠狀血流）不足時，心肌無法獲得足夠氧氣與營養，收縮力下降，cardiac output 進一步降低。這形成一個正回饋：心輸出量下降 → 冠狀灌流更少 → 心臟更弱 → 更低的心輸出量。
+當 <span style="color:#22d3ee">冠狀血流</span>（<span style="color:#22d3ee">coronary blood flow</span>）不足時，<span style="color:#22d3ee">心肌</span>無法獲得足夠<span style="color:#60a5fa">氧氣</span>與營養，收縮力下降，<span style="color:#60a5fa">cardiac output</span> 進一步降低。這形成一個正回饋：<span style="color:#60a5fa">心輸出量</span>下降 → <span style="color:#22d3ee">冠狀灌流</span>更少 → <span style="color:#22d3ee">心臟</span>更弱 → 更低的<span style="color:#60a5fa">心輸出量</span>。
 
 動物實驗顯示，在低冠狀灌流壓力（30 mm Hg）下，心臟功能在 2 小時內無明顯衰退，但 4 小時後急劇惡化，末期心臟完全失去功能。
 
-### 血管運動中樞衰竭（Vasomotor Failure）
+### <span style="color:#60a5fa">血管運動中樞衰竭</span>（<span style="color:#60a5fa">Vasomotor Failure</span>）
 
-交感神經在初期會因低血壓而被強烈活化，但當灌流不足影響到腦幹的 vasomotor center 時，該中樞本身開始衰竭。10–15 分鐘的完全腦部缺血會導致血管運動中樞完全失去活性。
+<span style="color:#60a5fa">交感神經</span>在初期會因<span style="color:#f87171">低血壓</span>而被強烈活化，但當灌流不足影響到<span style="color:#22d3ee">腦幹</span>的 <span style="color:#22d3ee">vasomotor center</span> 時，該中樞本身開始衰竭。10–15 分鐘的完全腦部缺血會導致血管運動中樞完全失去活性。
 
 ### 血液淤積與微血管阻塞（Sludged Blood）
 
-休克時組織灌流不足，細胞代謝持續進行但缺氧，導致大量酸性代謝產物（乳酸、碳酸）堆積。酸性環境使血液容易凝集，形成微小血栓阻塞微血管，進一步減少組織灌流。紅血球相互黏連的現象稱為 sludged blood。
+休克時<span style="color:#22d3ee">組織</span>灌流不足，<span style="color:#22d3ee">細胞</span>代謝持續進行但缺氧，導致大量酸性代謝產物（<span style="color:#fb923c">乳酸</span>、碳酸）堆積。酸性環境使血液容易凝集，形成微小血栓阻塞<span style="color:#22d3ee">微血管</span>，進一步減少<span style="color:#22d3ee">組織</span>灌流。<span style="color:#c084fc">紅血球</span>相互黏連的現象稱為 <span style="color:#60a5fa">sludged blood</span>。
 
 ### 微血管通透性增加
 
@@ -88,27 +88,27 @@ Baroreceptor reflex 在血壓下降後立即啟動（30 秒內），使全身交
 
 ### 組織毒素釋放
 
-缺血組織會釋放組織毒素（如 histamine、serotonin）與內毒素（endotoxin，來自腸道內死亡的格蘭氏陰性菌），這些物質進一步抑制心臟功能並加重血管擴張。內毒素在敗血症性休克中扮演重要角色。
+缺血<span style="color:#22d3ee">組織</span>會釋放<span style="color:#60a5fa">組織毒素</span>（如 <span style="color:#fb923c">histamine</span>、<span style="color:#fb923c">serotonin</span>）與<span style="color:#c084fc">內毒素</span>（<span style="color:#c084fc">endotoxin</span>，來自<span style="color:#22d3ee">腸道</span>內死亡的<span style="color:#c084fc">格蘭氏陰性菌</span>），這些物質進一步抑制<span style="color:#22d3ee">心臟</span>功能並加重<span style="color:#60a5fa">血管擴張</span>。<span style="color:#c084fc">內毒素</span>在<span style="color:#60a5fa">敗血症性休克</span>中扮演重要角色。
 
 ### 全身性細胞退化
 
 休克進入晚期時，多種細胞功能障礙相繼出現：
 
-- **離子泵功能受損：** Na⁺-K⁺ ATPase 活性下降，鈉離子進入細胞，鉀離子流失，細胞水腫
-- **粒線體功能受損：** ATP 合成減少
-- **溶小體破裂：** 釋放水解酶，進一步破壞細胞
-- **胰島素阻抗：** 細胞對葡萄糖的利用大幅下降
+- **<span style="color:#60a5fa">離子泵</span>功能受損：** Na⁺-K⁺ <span style="color:#60a5fa">ATPase</span> 活性下降，鈉離子進入<span style="color:#22d3ee">細胞</span>，鉀離子流失，<span style="color:#22d3ee">細胞</span>水腫
+- **<span style="color:#22d3ee">粒線體</span>功能受損：** ATP 合成減少
+- **<span style="color:#22d3ee">溶小體</span>破裂：** 釋放水解酶，進一步破壞<span style="color:#22d3ee">細胞</span>
+- **胰島素阻抗：** <span style="color:#22d3ee">細胞</span>對<span style="color:#fb923c">葡萄糖</span>的利用大幅下降
 
 這些細胞層面的損傷，導致肝臟、肺部與心臟功能相繼衰竭。
 
 ### 酸中毒（Acidosis）
 
-組織灌流不足導致：
+<span style="color:#22d3ee">組織</span>灌流不足導致：
 
-- 氧氣輸送不足 → 無氧糖解（glycolysis）增加 → 乳酸堆積（乳酸性酸中毒）
-- 二氧化碳無法被血液带走 → 細胞內碳酸形成增加
+- <span style="color:#60a5fa">氧氣</span>輸送不足 → 無氧糖解（<span style="color:#60a5fa">glycolysis</span>）增加 → <span style="color:#fb923c">乳酸</span>堆積（<span style="color:#60a5fa">乳酸性酸中毒</span>）
+- 二氧化碳無法被血液带走 → <span style="color:#22d3ee">細胞</span>內碳酸形成增加
 
-酸中毒進一步抑制心臟收縮力與血管對 catecholamines 的敏感性，加速休克的惡性循環。
+<span style="color:#60a5fa">酸中毒</span>進一步抑制<span style="color:#22d3ee">心臟</span>收縮力與血管對 <span style="color:#fb923c">catecholamines</span> 的敏感性，加速休克的惡性循環。
 
 ## 不可逆休克（Irreversible Shock）
 
@@ -118,8 +118,8 @@ Baroreceptor reflex 在血壓下降後立即啟動（30 秒內），使全身交
 
 休克的治療核心在於恢復組織灌流與去除休克原因：
 
-- **補充血液體積：** 对于低血容性休克，輸液或輸血
-- **提升心輸出量：** 对于心因性休克，使用強心劑
-- **血管活性藥物：** 視休克類型使用 vasoconstrictors 或 vasodilators
-- **處理感染：** 对于敗血症性休克，給予抗生素與引流感染源
-- **支持療法：** 維持呼吸道通暢、給予氧氣、監測生命徵象
+- **補充血液體積：** 对于<span style="color:#60a5fa">低血容性休克</span>，輸液或輸血
+- **提升<span style="color:#60a5fa">心輸出量</span>：** 对于<span style="color:#60a5fa">心因性休克</span>，使用<span style="color:#fb923c">強心劑</span>
+- **血管活性藥物：** 視休克類型使用 <span style="color:#fb923c">vasoconstrictors</span> 或 <span style="color:#fb923c">vasodilators</span>
+- **處理感染：** 对于<span style="color:#60a5fa">敗血症性休克</span>，給予<span style="color:#fb923c">抗生素</span>與引流感染源
+- **支持療法：** 維持<span style="color:#22d3ee">呼吸道</span>通暢、給予<span style="color:#60a5fa">氧氣</span>、監測生命徵象

@@ -11,15 +11,15 @@ key_points:
 
 ## 章節導讀
 
-身體對感染的抵抗力依賴先天免疫（innate immunity）與適應性免疫（adaptive immunity）兩套系統。本章聚焦於先天免疫系統——這是身體對病原體的第一道防線，也是反應最快速的機制。首先說明嗜中性球（neutrophils）與單核球/巨噬細胞（monocytes/macrophages）如何透過 phagocytosis（吞噬作用）消滅病原體，以及它們如何離開血液進入發炎組織（經由 diapedesis 與 chemotaxis）。接著說明身體如何區分自我與非我的分子基礎——調理素（opsonization）的概念。最後說明發炎反應（inflammation）的全身性角色：為什麼發炎會紅、腫、熱、痛，以及局部組織如何透過 walling-off 效應防止感染擴散。適應性免疫（抗體與 T 淋巴球）則在下一章介紹。
+身體對感染的抵抗力依賴先天免疫（innate immunity）與適應性免疫（adaptive immunity）兩套系統。本章聚焦於先天免疫系統——這是身體對病原體的第一道防線，也是反應最快速的機制。首先說明嗜中性球（neutrophils）與單核球/巨噬細胞（monocytes/<span style="color:#22d3ee">macrophage</span>s）如何透過 phagocytosis（吞噬作用）消滅病原體，以及它們如何離開血液進入發炎組織（經由 diapedesis 與 chemotaxis）。接著說明身體如何區分自我與非我的分子基礎——調理素（opsonization）的概念。最後說明發炎反應（<span style="color:#60a5fa">inflammation</span>）的全身性角色：為什麼發炎會紅、腫、熱、痛，以及局部組織如何透過 walling-off 效應防止感染擴散。適應性免疫（抗體與 T 淋巴球）則在下一章介紹。
 
 ## 先天免疫系統的細胞組成
 
-先天免疫系統的核心細胞是嗜中性球（neutrophils）與單核球/巨噬細胞（monocytes/macrophages）。它們起源於骨髓的 myeloid stem cells，在血液與組織中執行吞噬與清除病原體的功能。
+先天免疫系統的核心細胞是嗜中性球（neutrophils）與單核球/巨噬細胞（monocytes/<span style="color:#22d3ee">macrophage</span>s）。它們起源於骨髓的 myeloid stem cells，在血液與組織中執行吞噬與清除病原體的功能。
 
 **Neutrophils**：成熟的顆粒球，存在於血液中，可立即對病原體發動攻擊。一個嗜中性球通常可以吞噬 3–20 個細菌後死亡。
 
-**單核球（Monocytes）**：在血液中是不成熟細胞，进入組織後發育為巨噬細胞（macrophages）。巨噬細胞比嗜中性球更強大，可以吞噬多達 100 個細菌，還能吞噬更大的顆粒（如整個紅血球、瘧原蟲）。巨噬細胞在消化後可以存活並繼續功能數月甚至數年。
+**單核球（Monocytes）**：在血液中是不成熟細胞，进入組織後發育為巨噬細胞（<span style="color:#22d3ee">macrophage</span>s）。巨噬細胞比嗜中性球更強大，可以吞噬多達 100 個細菌，還能吞噬更大的顆粒（如整個紅血球、瘧原蟲）。巨噬細胞在消化後可以存活並繼續功能數月甚至數年。
 
 ## Phagocytosis（吞噬作用）的機制
 
@@ -76,7 +76,7 @@ Chemotaxis 的作用範圍約可達 100 微米，足以吸引附近毛細血管�
 
 - **肝臟**：Kupffer cells（肝竇內皮細胞）——每天吞噬大量來自胃腸道的細菌與毒素，是腸道屏障的關鍵
 - **脾臟**：邊緣區的巨噬細胞——清除血液中的受損紅血球與病原體
-- **肺臟**：Alveolar macrophages（肺泡巨噬細胞）——清除吸入的顆粒與病原體
+- **肺臟**：Alveolar <span style="color:#22d3ee">macrophage</span>s（肺泡巨噬細胞）——清除吸入的顆粒與病原體
 - **淋巴結**：竇狀結構內襯的巨噬細胞——過濾淋巴液中的顆粒
 - **皮下組織**：Histiocytes——局部的第一線防禦
 - **腦部**：Microglia——中樞神經系統的吞噬細胞
@@ -116,7 +116,7 @@ Chemotaxis 的作用範圍約可達 100 微米，足以吸引附近毛細血管�
 
 ### 組織巨噬細胞是第一線
 
-組織中原本存在的巨噬細胞（如 alveolar macrophages、microglia、Kupffer cells）在發炎發生後數分鐘內就開始吞噬病原體與受損細胞。發炎介質使這些細胞變大、活化，並脫離原本的固定狀態，轉變為可移動的巨噬細胞。
+組織中原本存在的巨噬細胞（如 alveolar <span style="color:#22d3ee">macrophage</span>s、microglia、Kupffer cells）在發炎發生後數分鐘內就開始吞噬病原體與受損細胞。發炎介質使這些細胞變大、活化，並脫離原本的固定狀態，轉變為可移動的巨噬細胞。
 
 ### 嗜中性球的浸潤是第二波
 

@@ -8,143 +8,143 @@ summary: "本章說明平滑肌與骨骼肌在結構、收縮機制與控制上�
 
 ## 章節導讀
 
-平滑肌分布於內臟器官、血管及眼球等處，其收縮機制與骨骼肌有本質上的差異。本章說明平滑肌分為多單位（multi-unit）與單單位（unitary/visceral）兩大類型，前者如虹膜與毛髮豎立肌，各纖維獨立運作，由神經直接控制；後者如腸道與血管平滑肌，纖維透過 gap junctions 同步收縮。平滑肌同樣利用 actin 與 myosin 的相對滑動產生力量，但調控機制完全不同：平滑肌不含 troponin，而是透過 calmodulin 與 myosin light chain kinase 的級聯反應，以 calcium-dependent myosin 輕鏈磷酸化作為起動收縮的開關。本章詳細介紹了 latch mechanism——這種讓平滑肌以極低能量消耗維持長時間張力的特殊能力，以及平滑肌如何透過膜電位、慢波（slow wave）、多種激素與局部組織因素來精細調控其收縮與舒張。
+<span style="color:#22d3ee">平滑肌</span>分布於內臟器官、血管及眼球等處，其收縮機制與骨骼肌有本質上的差異。本章說明<span style="color:#22d3ee">平滑肌</span>分為多單位（multi-unit）與單單位（unitary/visceral）兩大類型，前者如虹膜與毛髮豎立肌，各纖維獨立運作，由神經直接控制；後者如腸道與血管<span style="color:#22d3ee">平滑肌</span>，纖維透過 <span style="color:#e2e8f0">gap junctions</span> 同步收縮。<span style="color:#22d3ee">平滑肌</span>同樣利用 actin 與 myosin 的相對滑動產生力量，但調控機制完全不同：<span style="color:#22d3ee">平滑肌</span>不含 troponin，而是透過 <span style="color:#e2e8f0">calmodulin</span> 與 myosin light chain kinase 的級聯反應，以 calcium-dependent myosin 輕鏈磷酸化作為起動收縮的開關。本章詳細介紹了 latch mechanism——這種讓<span style="color:#22d3ee">平滑肌</span>以極低能量消耗維持長時間張力的特殊能力，以及<span style="color:#22d3ee">平滑肌</span>如何透過膜電位、慢波（slow wave）、多種激素與局部組織因素來精細調控其收縮與舒張。
 
-## 平滑肌的類型
+## <span style="color:#22d3ee">平滑肌</span>的類型
 
-平滑肌可分為兩大類型（Figure 8-1）：
+<span style="color:#22d3ee">平滑肌</span>可分為兩大類型（Figure 8-1）：
 
-**多單位平滑肌（Multi-Unit Smooth Muscle）：** 由離散、獨立的光滑肌纖維組成，每條纖維可獨立收縮，主要由神經信號控制。纖維外覆蓋薄層基底膜，有絕緣作用。例如眼球的睫狀肌、虹膜肌，以及豎毛肌。
+**多單位<span style="color:#22d3ee">平滑肌</span>（Multi-Unit Smooth Muscle）：** 由離散、獨立的光滑肌纖維組成，每條纖維可獨立收縮，主要由神經信號控制。纖維外覆蓋薄層基底膜，有絕緣作用。例如眼球的睫狀肌、虹膜肌，以及豎毛肌。
 
-**單單位平滑肌（Unitary/Single-Unit Smooth Muscle）：** 又稱合體平滑肌或臟層平滑肌。數百到數千條纖維作為一個單位一起收縮。纖維常排列成薄片或束，細胞膜在多個點相互附著，可將一條纖維產生的力量傳遞到下一條。細胞膜之間有許多 gap junctions，離子可自由流通，使 action potential 或離子流在纖維間傳播，導致纖維一起收縮。此類平滑肌分布於胃腸道、膽道、輸尿管、子宮及許多血管中。
+**單單位<span style="color:#22d3ee">平滑肌</span>（Unitary/Single-Unit Smooth Muscle）：** 又稱合體<span style="color:#22d3ee">平滑肌</span>或臟層<span style="color:#22d3ee">平滑肌</span>。數百到數千條纖維作為一個單位一起收縮。纖維常排列成薄片或束，細胞膜在多個點相互附著，可將一條纖維產生的力量傳遞到下一條。細胞膜之間有許多 <span style="color:#e2e8f0">gap junctions</span>，離子可自由流通，使 action potential 或離子流在纖維間傳播，導致纖維一起收縮。此類<span style="color:#22d3ee">平滑肌</span>分布於胃腸道、膽道、輸尿管、子宮及許多血管中。
 
-## 平滑肌的收縮機制
+## <span style="color:#22d3ee">平滑肌</span>的收縮機制
 
 ### 化學基礎
 
-平滑肌含有 actin 與 myosin 絲，其化學特性與骨骼肌類似，但不含 troponin。收縮過程由鈣離子啟動，ATP 被降解為 ADP 為收縮提供能量。然而，平滑肌與骨骼肌在物理組織與興奮-收縮耦合上存在重大差異。
+<span style="color:#22d3ee">平滑肌</span>含有 actin 與 myosin 絲，其化學特性與骨骼肌類似，但不含 troponin。收縮過程由鈣離子啟動，ATP 被降解為 ADP 為收縮提供能量。然而，<span style="color:#22d3ee">平滑肌</span>與骨骼肌在物理組織與<span style="color:#60a5fa">興奮-收縮耦合</span>上存在重大差異。
 
 ### 物理基礎
 
-平滑肌沒有骨骼肌那種規則排列的橫紋結構。電子顯微鏡顯示（Figure 8-2）：大量 actin 絲附著於 dense bodies，部分 dense bodies 附著於細胞膜，部分分散於細胞內；相鄰細胞的膜 dense bodies 由細胞間蛋白橋連接，收縮力量主要透過這些橋接從一個細胞傳遞到另一個。穿插於 actin 絲之間的是 myosin 絲，其直徑是 actin 的兩倍以上。平滑肌的 dense bodies 與骨骼肌的 Z disk 扮演相同角色。
+<span style="color:#22d3ee">平滑肌</span>沒有骨骼肌那種規則排列的橫紋結構。電子顯微鏡顯示（Figure 8-2）：大量 actin 絲附著於 dense bodies，部分 dense bodies 附著於細胞膜，部分分散於細胞內；相鄰細胞的膜 dense bodies 由細胞間蛋白橋連接，收縮力量主要透過這些橋接從一個細胞傳遞到另一個。穿插於 actin 絲之間的是 myosin 絲，其直徑是 actin 的兩倍以上。<span style="color:#22d3ee">平滑肌</span>的 dense bodies 與骨骼肌的 Z disk 扮演相同角色。
 
-值得注意的是，大多數 myosin 絲具有「側極性」cross-bridges，兩側的 bridges hinge 方向相反，使 myosin 能同時向相反方向拉動兩側的 actin 絲。這種結構使平滑肌細胞可收縮達其長度的 80%（骨骼肌受限於 30%）。
+值得注意的是，大多數 myosin 絲具有「側極性」cross-bridges，兩側的 bridges hinge 方向相反，使 myosin 能同時向相反方向拉動兩側的 actin 絲。這種結構使<span style="color:#22d3ee">平滑肌</span>細胞可收縮達其長度的 80%（骨骼肌受限於 30%）。
 
 ### Myosin Cross-Bridges 的慢循環
 
-平滑肌中 myosin cross-bridges 的循環頻率（附著、脫離、再附著）遠慢於骨骼肌，可低至骨骼肌的 1/10 至 1/300。然而，cross-bridges 附著於 actin 的時間比例反而大幅增加，這決定了收縮力量。慢循環的原因可能是 myosin head 的 ATPase 活性遠低於骨骼肌。
+<span style="color:#22d3ee">平滑肌</span>中 myosin cross-bridges 的循環頻率（附著、脫離、再附著）遠慢於骨骼肌，可低至骨骼肌的 1/10 至 1/300。然而，cross-bridges 附著於 actin 的時間比例反而大幅增加，這決定了收縮力量。慢循環的原因可能是 myosin head 的 ATPase 活性遠低於骨骼肌。
 
-### 維持平滑肌收縮的低能量需求
+### 維持<span style="color:#22d3ee">平滑肌</span>收縮的低能量需求
 
-維持平滑肌相同張力所需的能量僅為骨骼肌的 1/10 至 1/300。這是因為 cross-bridges 的慢附著-脫離循環，且每個循環無論持續多久只需一個 ATP 分子。這種低能量消耗對胃腸道、膀胱、膽囊等需要長時間維持張力的內臟器官極為重要。
+維持<span style="color:#22d3ee">平滑肌</span>相同張力所需的能量僅為骨骼肌的 1/10 至 1/300。這是因為 cross-bridges 的慢附著-脫離循環，且每個循環無論持續多久只需一個 ATP 分子。這種低能量消耗對胃腸道、膀胱、膽囊等需要長時間維持張力的內臟器官極為重要。
 
 ### 收縮開始與舒張的緩慢
 
-典型平滑肌組織在刺激後 50-100 毫秒開始收縮，約 0.5 秒後達最大收縮，再經 1-2 秒下降，總收縮時間約 1-3 秒，約為平均骨骼肌纖維收縮時間的 30 倍。慢開始與持續時間源於 cross-bridges 與 actin 絲附著/脫離的緩慢，以及鈣離子啟動收縮的速度比骨骼肌慢得多。
+典型<span style="color:#22d3ee">平滑肌</span>組織在刺激後 50-100 毫秒開始收縮，約 0.5 秒後達最大收縮，再經 1-2 秒下降，總收縮時間約 1-3 秒，約為平均骨骼肌纖維收縮時間的 30 倍。慢開始與持續時間源於 cross-bridges 與 actin 絲附著/脫離的緩慢，以及鈣離子啟動收縮的速度比骨骼肌慢得多。
 
 ### 最大收縮力量
 
-儘管平滑肌的 myosin 絲相對較少且 cross-bridges 循環時間慢，平滑肌的最大收縮力量常大於骨骼肌，可達 4-6 kg/cm²（骨骼肌為 3-4 kg）。這是因為 myosin cross-bridges 附著於 actin 的時間延長。
+儘管<span style="color:#22d3ee">平滑肌</span>的 myosin 絲相對較少且 cross-bridges 循環時間慢，<span style="color:#22d3ee">平滑肌</span>的最大收縮力量常大於骨骼肌，可達 4-6 kg/cm²（骨骼肌為 3-4 kg）。這是因為 myosin cross-bridges 附著於 actin 的時間延長。
 
-### 閂機制（Latch Mechanism）
+### <span style="color:#60a5fa">閂機制</span>（Latch Mechanism）
 
-平滑肌一旦達到完全收縮，維持張力的持續興奮信號可降至遠低於初始水準，而肌肉仍維持完全張力。同時維持收縮所消耗的能量極少，有時僅為可比擬的骨骼肌持續收縮所需能量的 1/300。這種機制稱為閂機制。閂機制使平滑肌能以極少能量維持長時間張力，只需極少的來自神經纖維或激素來源的持續興奮信號。
+<span style="color:#22d3ee">平滑肌</span>一旦達到完全收縮，維持張力的持續興奮信號可降至遠低於初始水準，而肌肉仍維持完全張力。同時維持收縮所消耗的能量極少，有時僅為可比擬的骨骼肌持續收縮所需能量的 1/300。這種機制稱為<span style="color:#60a5fa">閂機制</span>。<span style="color:#60a5fa">閂機制</span>使<span style="color:#22d3ee">平滑肌</span>能以極少能量維持長時間張力，只需極少的來自神經纖維或激素來源的持續興奮信號。
 
-## 壓力-舒張（Stress-Relaxation）
+## <span style="color:#60a5fa">壓力-舒張</span>（Stress-Relaxation）
 
-平滑肌（尤其是許多中空器官的臟層單單位平滑肌）具有在延長或縮短後數秒或數分鐘內恢復幾乎原始張力的能力。例如膀胱中液體容量突然增加導致膀胱壁平滑肌被牽拉，壓力立即大幅上升，但約 15-60 秒後，儘管持續牽拉，壓力幾乎回到原始水準。這種特性稱為壓力-舒張，對於維持中空器官內腔壓力穩定至關重要。
+<span style="color:#22d3ee">平滑肌</span>（尤其是許多中空器官的臟層單單位<span style="color:#22d3ee">平滑肌</span>）具有在延長或縮短後數秒或數分鐘內恢復幾乎原始張力的能力。例如膀胱中液體容量突然增加導致膀胱壁<span style="color:#22d3ee">平滑肌</span>被牽拉，壓力立即大幅上升，但約 15-60 秒後，儘管持續牽拉，壓力幾乎回到原始水準。這種特性稱為<span style="color:#60a5fa">壓力-舒張</span>，對於維持中空器官內腔壓力穩定至關重要。
 
 ## 鈣離子對收縮的調控
 
-與骨骼肌相同，平滑肌大多數收縮的啟動刺激是細胞內鈣離子濃度增加。鈣離子增加可由神經刺激、激素刺激、纖維牽拉或化學環境變化引起。平滑肌不含 troponin，其收縮啟動機制完全不同。
+與骨骼肌相同，<span style="color:#22d3ee">平滑肌</span>大多數收縮的啟動刺激是細胞內鈣離子濃度增加。鈣離子增加可由神經刺激、激素刺激、纖維牽拉或化學環境變化引起。<span style="color:#22d3ee">平滑肌</span>不含 troponin，其收縮啟動機制完全不同。
 
 ### 鈣離子與 Calmodulin 結合，啟動 Myosin Kinase 並磷酸化 Myosin Head
 
-平滑肌細胞含大量 calmodulin，取代了 troponin 的位置。收縮的順序如 Figure 8-3 所示：
+<span style="color:#22d3ee">平滑肌</span>細胞含大量 <span style="color:#e2e8f0">calmodulin</span>，取代了 troponin 的位置。收縮的順序如 Figure 8-3 所示：
 
 1. 細胞質中鈣離子濃度因細胞外鈣離子經鈣通道流入和/或肌漿網釋放而增加。
-2. 鈣離子與 calmodulin 可逆結合。
+2. 鈣離子與 <span style="color:#e2e8f0">calmodulin</span> 可逆結合。
 3. Calmodulin-calcium 複合體與 myosin light chain kinase 結合並活化之。
 4. 每個 myosin head 的一條輕鏈（稱為調節鏈）在 myosin kinase 作用下被磷酸化。當此鏈未被磷酸化時，head 無法與 actin 絲進行附著-脫離循環；磷酸化後，head 才能持續與 actin 絲結合並通過循環產生收縮。
 
 ### 鈣離子的來源
 
-骨骼肌收縮所需的鈣離子幾乎全部來自肌漿網，而大多數平滑肌的肌漿網發育較差。大多數引起收縮的鈣離子來自細胞外液。細胞外液中鈣離子濃度約 10⁻³ M，而細胞內約 10⁻⁷ M，鈣通道打開時鈣離子迅速擴散進入細胞。這個擴散過程平均需 200-300 毫秒，是平滑肌收縮潛伏期比骨骼肌長約 50 倍的原因。
+骨骼肌收縮所需的鈣離子幾乎全部來自肌漿網，而大多數<span style="color:#22d3ee">平滑肌</span>的肌漿網發育較差。大多數引起收縮的鈣離子來自細胞外液。細胞外液中鈣離子濃度約 10⁻³ M，而細胞內約 10⁻⁷ M，鈣通道打開時鈣離子迅速擴散進入細胞。這個擴散過程平均需 200-300 毫秒，是<span style="color:#22d3ee">平滑肌</span>收縮潛伏期比骨骼肌長約 50 倍的原因。
 
 ### 肌漿網的角色
 
-Figure 8-4 顯示某些較大平滑肌細胞中靠近細胞膜的少量發育不良的肌漿網小管。細胞膜的內陷結構 caveolae 與這些小管相鄰，類似骨骼肌的橫管系統。Action potential 傳入 caveolae 會刺激相鄰肌漿網小管釋放鈣離子。肌漿網越發達的平滑肌細胞，收縮越快。
+Figure 8-4 顯示某些較大<span style="color:#22d3ee">平滑肌</span>細胞中靠近細胞膜的少量發育不良的肌漿網小管。細胞膜的內陷結構 caveolae 與這些小管相鄰，類似骨骼肌的橫管系統。Action potential 傳入 caveolae 會刺激相鄰肌漿網小管釋放鈣離子。肌漿網越發達的<span style="color:#22d3ee">平滑肌</span>細胞，收縮越快。
 
-### 平滑肌收縮依賴細胞外鈣離子濃度
+### <span style="color:#22d3ee">平滑肌</span>收縮依賴細胞外鈣離子濃度
 
-改變細胞外液鈣離子濃度對骨骼肌收縮力量影響很小，但對大多數平滑肌則不然。當細胞外液鈣離子濃度降至約正常的 1/3 至 1/10 時，平滑肌收縮通常停止。
+改變細胞外液鈣離子濃度對骨骼肌收縮力量影響很小，但對大多數<span style="color:#22d3ee">平滑肌</span>則不然。當細胞外液鈣離子濃度降至約正常的 1/3 至 1/10 時，<span style="color:#22d3ee">平滑肌</span>收縮通常停止。
 
-### 鈣幫浦介導平滑肌舒張
+### 鈣幫浦介導<span style="color:#22d3ee">平滑肌</span>舒張
 
-為在收縮後引起舒張，必須將鈣離子從細胞內液中移除。平滑肌的鈣幫浦將鈣離子泵回細胞外液或肌漿網（如 Figure 8-5）。這個幫浦需要 ATP 且作用緩慢，因此單次平滑肌收縮常持續數秒而非骨骼肌的百分之一到十分之一秒。
+為在收縮後引起舒張，必須將鈣離子從細胞內液中移除。<span style="color:#22d3ee">平滑肌</span>的鈣幫浦將鈣離子泵回細胞外液或肌漿網（如 Figure 8-5）。這個幫浦需要 ATP 且作用緩慢，因此單次<span style="color:#22d3ee">平滑肌</span>收縮常持續數秒而非骨骼肌的百分之一到十分之一秒。
 
 ### Myosin Phosphatase 在停止收縮中的重要性
 
 當鈣離子濃度降至臨界水準以下時前述過程自動逆轉，但 myosin head 的磷酸化需要另一種酶——myosin phosphatase——將磷酸從調節輕鏈上移除，循環才能停止。因此，細胞中活性 myosin phosphatase 的量很大程度上決定了肌肉舒張所需的時間。
 
-### 閂機制的可能解釋
+### <span style="color:#60a5fa">閂機制</span>的可能解釋
 
 當 myosin kinase 與 myosin phosphatase 都被強烈活化時，myosin heads 的循環頻率與收縮速度都高。隨著酶活化程度降低，循環頻率下降，但同時這些酶的去活化使 myosin heads 在每個循環中附著於 actin 絲的時間越來越長。因此，任意時刻附著於 actin 的 heads 數量維持較多，張力得以維持或被「閂住」，但肌肉消耗的能量很少，因為 ATP 不會降解為 ADP。
 
-## 平滑肌的神經與激素控制
+## <span style="color:#22d3ee">平滑肌</span>的神經與激素控制
 
-骨骼肌纖維僅由神經系統刺激，而平滑肌可由神經信號、激素刺激、纖維牽拉等多種方式刺激收縮。平滑肌膜含有多種受體蛋白，可啟動收縮過程，也有抑制平滑肌收縮的受體。
+骨骼肌纖維僅由神經系統刺激，而<span style="color:#22d3ee">平滑肌</span>可由神經信號、激素刺激、纖維牽拉等多種方式刺激收縮。<span style="color:#22d3ee">平滑肌</span>膜含有多種受體蛋白，可啟動收縮過程，也有抑制<span style="color:#22d3ee">平滑肌</span>收縮的受體。
 
-### 平滑肌的神經肌肉接合
+### <span style="color:#22d3ee">平滑肌</span>的神經肌肉接合
 
-平滑肌不像骨骼肌那樣有典型的高結構神經肌肉接合處。支配平滑肌的自主神經纖維通常以瀰漫方式分支於肌肉纖維片層之上（Figure 8-6）。這些纖維多不與平滑肌細胞膜直接接觸，而是分泌神經傳遞物質到平滑肌表面的基質中，再擴散到細胞。
+<span style="color:#22d3ee">平滑肌</span>不像骨骼肌那樣有典型的高結構神經肌肉接合處。支配<span style="color:#22d3ee">平滑肌</span>的自主神經纖維通常以瀰漫方式分支於肌肉纖維片層之上（Figure 8-6）。這些纖維多不與<span style="color:#22d3ee">平滑肌</span>細胞膜直接接觸，而是分泌神經傳遞物質到<span style="color:#22d3ee">平滑肌</span>表面的基質中，再擴散到細胞。
 
 自主神經纖維末梢有多個 varicosities， Schwann 細胞在這些部位中斷，使傳遞物質可通過 varicosity 壁分泌。其中有與骨骼肌相似的含傳遞物質囊泡，但與骨骼肌總是含 acetylcholine 不同，自主神經末梢囊泡可含 acetylcholine 或 norepinephrine 或兩者都有。
 
 ### 興奮性與抑制性傳遞物質
 
-自主神經分泌的最重要傳遞物質是 acetylcholine 與 norepinephrine，但兩者從不由同一神經纖維分泌。Acetylcholine 在某些器官是平滑肌的興奮性傳遞物質，在其他器官則是抑制性傳遞物質；Norepinephrine 的作用通常與 acetylcholine 相反。這種差異取決於平滑肌細胞膜上的受體類型（興奮性或抑制性）。
+自主神經分泌的最重要傳遞物質是 acetylcholine 與 norepinephrine，但兩者從不由同一神經纖維分泌。Acetylcholine 在某些器官是<span style="color:#22d3ee">平滑肌</span>的興奮性傳遞物質，在其他器官則是抑制性傳遞物質；Norepinephrine 的作用通常與 acetylcholine 相反。這種差異取決於<span style="color:#22d3ee">平滑肌</span>細胞膜上的受體類型（興奮性或抑制性）。
 
-## 平滑肌的膜電位與動作電位
+## <span style="color:#22d3ee">平滑肌</span>的膜電位與動作電位
 
-### 平滑肌的膜電位
+### <span style="color:#22d3ee">平滑肌</span>的膜電位
 
-平滑肌 resting membrane potential 通常約 −50 至 −60 毫伏，比骨骼肌（約 −80 至 −90 毫伏）負得少。
+<span style="color:#22d3ee">平滑肌</span> resting membrane potential 通常約 −50 至 −60 毫伏，比骨骼肌（約 −80 至 −90 毫伏）負得少。
 
-### 單單位平滑肌的動作電位
+### 單單位<span style="color:#22d3ee">平滑肌</span>的動作電位
 
-單單位平滑肌（如臟層肌肉）的動作電位與骨骼肌類似，有兩種形式：spike potentials 與具有 plateau 的動作電位。
+單單位<span style="color:#22d3ee">平滑肌</span>（如臟層肌肉）的動作電位與骨骼肌類似，有兩種形式：spike potentials 與具有 plateau 的動作電位。
 
 **Spike Potentials：** 典型 action potential 持續 10-50 毫秒（Figure 8-7A），可由電刺激、激素、神經傳遞物質、牽拉或自發產生。
 
-**具有 Plateau 的動作電位：** 如 Figure 8-7C 所示，再極化延遲數百到 1000 毫秒。這種 plateau 見於輸尿管、子宮及某些血管平滑肌，也是心肌纖維的動作電位形式。
+**具有 Plateau 的動作電位：** 如 Figure 8-7C 所示，再極化延遲數百到 1000 毫秒。這種 plateau 見於輸尿管、子宮及某些血管<span style="color:#22d3ee">平滑肌</span>，也是心肌纖維的動作電位形式。
 
-### 鈣離子通道在平滑肌動作電位中的重要性
+### 鈣離子通道在<span style="color:#22d3ee">平滑肌</span>動作電位中的重要性
 
-平滑肌細胞膜含大量電壓門控鈣通道但很少電壓門控鈉通道。因此，平滑肌 action potential 的產生主要依賴鈣離子內流而非鈉離子。鈣通道開放與關閉比鈉通道慢得多且維持開放更長時間，這解釋了某些平滑肌的 prolonged plateau action potential。Action potential 期間進入細胞的鈣離子同時直接作用於收縮機制，執行雙重任務。
+<span style="color:#22d3ee">平滑肌</span>細胞膜含大量電壓門控鈣通道但很少電壓門控鈉通道。因此，<span style="color:#22d3ee">平滑肌</span> action potential 的產生主要依賴鈣離子內流而非鈉離子。鈣通道開放與關閉比鈉通道慢得多且維持開放更長時間，這解釋了某些<span style="color:#22d3ee">平滑肌</span>的 prolonged plateau action potential。Action potential 期間進入細胞的鈣離子同時直接作用於收縮機制，執行雙重任務。
 
-### 單單位平滑肌的慢波電位與自發動作電位
+### 單單位<span style="color:#22d3ee">平滑肌</span>的<span style="color:#60a5fa">慢波電位</span>與自發動作電位
 
-某些平滑肌是自發興奮的——action potential 在沒有外來刺激的情況下在平滑肌細胞內產生。這種活動常與膜電位的基礎慢波節律相關（Figure 8-7B）。慢波本身不是動作電位，不會自我傳播，是構成肌肉團塊的平滑肌纖維的局部特性。當慢波足夠強時可啟動 action potential。每個慢波峰值處常產生一個或多個動作電位，導致節律性收縮。這些慢波因此稱為 pacemaker waves，控制腸道節律性收縮。
+某些<span style="color:#22d3ee">平滑肌</span>是自發興奮的——action potential 在沒有外來刺激的情況下在<span style="color:#22d3ee">平滑肌</span>細胞內產生。這種活動常與膜電位的基礎慢波節律相關（Figure 8-7B）。慢波本身不是動作電位，不會自我傳播，是構成肌肉團塊的<span style="color:#22d3ee">平滑肌</span>纖維的局部特性。當慢波足夠強時可啟動 action potential。每個慢波峰值處常產生一個或多個動作電位，導致節律性收縮。這些慢波因此稱為 pacemaker waves，控制腸道節律性收縮。
 
-### 平滑肌的牽拉興奮
+### <span style="color:#22d3ee">平滑肌</span>的牽拉興奮
 
-當單單位平滑肌被充分牽拉時，通常會產生自發 action potential。這是因為慢波電位與牽拉引起的膜電位負值減小共同作用的結果。例如腸道內容物過多時，自動節律性收縮產生蠕動波將內容物推向肛門。
+當單單位<span style="color:#22d3ee">平滑肌</span>被充分牽拉時，通常會產生自發 action potential。這是因為<span style="color:#60a5fa">慢波電位</span>與牽拉引起的膜電位負值減小共同作用的結果。例如腸道內容物過多時，自動節律性收縮產生蠕動波將內容物推向肛門。
 
-## 多單位平滑肌的去極化（不產生動作電位）
+## 多單位<span style="color:#22d3ee">平滑肌</span>的去極化（不產生動作電位）
 
-多單位平滑肌（如虹膜或豎毛肌）的收縮主要由神經刺激引起。神經末梢分泌 acetylcholine（某些多單位平滑肌）或 norepinephrine（其他多單位平滑肌），兩者都使平滑肌膜去極化，但通常不產生 action potential（因為纖維太小）。局部去極化（稱為 junctional potential）以電緊張方式傳播至整條纖維，足以引起收縮。
+多單位<span style="color:#22d3ee">平滑肌</span>（如虹膜或豎毛肌）的收縮主要由神經刺激引起。神經末梢分泌 acetylcholine（某些多單位<span style="color:#22d3ee">平滑肌</span>）或 norepinephrine（其他多單位<span style="color:#22d3ee">平滑肌</span>），兩者都使<span style="color:#22d3ee">平滑肌</span>膜去極化，但通常不產生 action potential（因為纖維太小）。局部去極化（稱為 junctional potential）以電緊張方式傳播至整條纖維，足以引起收縮。
 
-## 非動作電位機制的平滑肌收縮調控
+## 非動作電位機制的<span style="color:#22d3ee">平滑肌</span>收縮調控
 
-約半數平滑肌收縮是由直接作用於收縮機制的刺激性因素啟動，不涉及 action potential。兩種主要非神經性、非動作電位因素是局部組織化學因子與激素。
+約半數<span style="color:#22d3ee">平滑肌</span>收縮是由直接作用於收縮機制的刺激性因素啟動，不涉及 action potential。兩種主要非神經性、非動作電位因素是局部組織化學因子與激素。
 
-### 局部組織化學因子對平滑肌的控制
+### 局部組織化學因子對<span style="color:#22d3ee">平滑肌</span>的控制
 
-小血管（小動脈、後小动脉、precapillary sphincters）神經支配很少，但平滑肌高度收縮，能快速回應間質液中局部化學條件與血壓改變引起的牽拉。控制局部血流的重要因素包括：缺氧（引起血管舒張）、二氧化碳過多（引起血管舒張）、氫離子濃度增加（引起血管舒張）。此外 adenosine、乳酸、鉀離子增加、一氧化氮及體溫升高都能引起局部血管舒張。
+小血管（小動脈、後小动脉、precapillary sphincters）神經支配很少，但<span style="color:#22d3ee">平滑肌</span>高度收縮，能快速回應間質液中局部化學條件與血壓改變引起的牽拉。控制局部血流的重要因素包括：缺氧（引起血管舒張）、二氧化碳過多（引起血管舒張）、氫離子濃度增加（引起血管舒張）。此外 adenosine、乳酸、鉀離子增加、一氧化氮及體溫升高都能引起局部血管舒張。
 
-### 激素對平滑肌收縮的作用
+### 激素對<span style="color:#22d3ee">平滑肌</span>收縮的作用
 
-循環激素中對平滑肌影響較大的包括 norepinephrine、epinephrine、angiotensin II、endothelin、vasopressin、oxytocin、serotonin 與 histamine。激素與平滑肌細胞膜上的受體結合後，可能打開鈉或鈣通道引起去極化，也可能關閉離子通道或打開鉀通道引起超極化而抑制收縮。有時激素不通過膜電位變化而透過釋放肌漿網中鈣離子或改變 cAMP/cGMP 濃度來調節收縮。
+循環激素中對<span style="color:#22d3ee">平滑肌</span>影響較大的包括 norepinephrine、epinephrine、angiotensin II、<span style="color:#fb923c">endothelin</span>、vasopressin、oxytocin、serotonin 與 histamine。激素與<span style="color:#22d3ee">平滑肌</span>細胞膜上的受體結合後，可能打開鈉或鈣通道引起去極化，也可能關閉離子通道或打開鉀通道引起超極化而抑制收縮。有時激素不通過膜電位變化而透過釋放肌漿網中鈣離子或改變 cAMP/cGMP 濃度來調節收縮。
 
-平滑肌對不同激素與神經傳遞物質的反應具有多樣性，有時同一物質在不同部位可引起相反效果——例如 norepinephrine 抑制腸道平滑肌收縮但刺激血管平滑肌收縮。
+<span style="color:#22d3ee">平滑肌</span>對不同激素與神經傳遞物質的反應具有多樣性，有時同一物質在不同部位可引起相反效果——例如 norepinephrine 抑制腸道<span style="color:#22d3ee">平滑肌</span>收縮但刺激血管<span style="color:#22d3ee">平滑肌</span>收縮。

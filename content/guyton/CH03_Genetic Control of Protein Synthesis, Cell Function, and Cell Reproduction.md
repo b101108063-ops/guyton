@@ -8,146 +8,146 @@ summary: "Chapter 3 addresses how genetic information stored in DNA controls cel
 
 ## 章節導讀
 
-每一個人類細胞的細胞核中都藏著一套完整的遺傳指令，決定了細胞將合成哪些蛋白質、執行什麼功能，以及何時分裂增殖。本章從 DNA 的分子結構談起，說明腺嘌呤（A）、胸腺嘧啶（T）、鳥糞嘌呤（G）與胞嘧啶（C）四種鹼基如何透過互補配對構成雙股螺旋，並以三聯密碼子的形式儲存遺傳資訊。我們將詳細討論基因表現的過程：DNA 的遺傳訊息如何透過轉錄作用複製到 messenger RNA（mRNA），再由 mRNA 攜帶至細胞質，在核糖體上由 transfer RNA（tRNA）將對應的胺基酸依序連接，最終合成出具有特定功能的蛋白質。本章也介紹基因表現的調控機制、DNA 複製與細胞有絲分裂的過程，以及細胞如何控制生長、分化與死亡（細胞凋亡）。這些知識是理解細胞如何成為一個有功能、能自我更新的生命單位的基础。
+每一個人類細胞的細胞核中都藏著一套完整的遺傳指令，決定了細胞將合成哪些蛋白質、執行什麼功能，以及何時分裂增殖。本章從 <span style="color:#e2e8f0">DNA</span> 的分子結構談起，說明腺嘌呤（A）、胸腺嘧啶（T）、鳥糞嘌呤（G）與胞嘧啶（C）四種鹼基如何透過互補配對構成雙股螺旋，並以三聯<span style="color:#e2e8f0">密碼子</span>的形式儲存遺傳資訊。我們將詳細討論基因表現的過程：<span style="color:#e2e8f0">DNA</span> 的遺傳訊息如何透過<span style="color:#60a5fa">轉錄（transcription）</span>作用複製到 messenger <span style="color:#e2e8f0">RNA</span>（m<span style="color:#e2e8f0">RNA</span>），再由 m<span style="color:#e2e8f0">RNA</span> 攜帶至細胞質，在<span style="color:#22d3ee">核糖體</span>上由 transfer <span style="color:#e2e8f0">RNA</span>（t<span style="color:#e2e8f0">RNA</span>）將對應的<span style="color:#e2e8f0">胺基酸</span>依序連接，最終合成出具有特定功能的蛋白質。本章也介紹基因表現的調控機制、<span style="color:#e2e8f0">DNA</span> 複製與細胞有絲分裂的過程，以及細胞如何控制生長、分化與死亡（<span style="color:#60a5fa">細胞凋亡</span>）。這些知識是理解細胞如何成為一個有功能、能自我更新的生命單位的基础。
 
-## DNA 的核苷酸組織成兩條鬆散結合的 DNA 鏈
+## <span style="color:#e2e8f0">DNA</span> 的核苷酸組織成兩條鬆散結合的 <span style="color:#e2e8f0">DNA</span> 鏈
 
-Figure 3-2 顯示多個核苷酸如何結合在一起形成兩條 DNA 鏈。兩條鏈透過弱的橫向鍵連在一起（如 Figure 3-6 中間虛線所示）。注意每條 DNA 鏈的主鏈由交替的磷酸和去氧核糖分子組成。接著，purine 與 pyrimidine 鹼基附著在去氧核糖分子的兩側。透過鹼基之間的弱氫鍵（虛線），兩條 DNA 鏈被固定在一起。然而需注意以下要點：
+Figure 3-2 顯示多個核苷酸如何結合在一起形成兩條 <span style="color:#e2e8f0">DNA</span> 鏈。兩條鏈透過弱的橫向鍵連在一起（如 Figure 3-6 中間虛線所示）。注意每條 <span style="color:#e2e8f0">DNA</span> 鏈的主鏈由交替的磷酸和去氧核糖分子組成。接著，purine 與 pyrimidine 鹼基附著在去氧核糖分子的兩側。透過鹼基之間的弱氫鍵（虛線），兩條 <span style="color:#e2e8f0">DNA</span> 鏈被固定在一起。然而需注意以下要點：
 
 1. 一條鏈上的每個 purine 鹼基 adenine 總是與另一條鏈上的 pyrimidine 鹼基 thymine 鍵合。
 2. 每個 purine 鹼基 guanine 總是與 pyrimidine 鹼基 cytosine 鍵合。
 
 因此，在 Figure 3-6 中，互補鹼基對的序列為 CG、CG、GC、TA、CG、TA、GC、AT 和 AT。由於氫鍵的弱性，兩條鏈可以輕易分開，在細胞功能過程中會多次分開。
 
-若要將 Figure 3-6 的 DNA 置於正確的物理角度，只需抓住兩端並扭轉成螺旋。DNA 分子每一完整螺旋圈含有 10 對核苷酸。
+若要將 Figure 3-6 的 <span style="color:#e2e8f0">DNA</span> 置於正確的物理角度，只需抓住兩端並扭轉成螺旋。<span style="color:#e2e8f0">DNA</span> 分子每一完整螺旋圈含有 10 對核苷酸。
 
 ## 遺傳密碼
 
-DNA 的重要性在於其能夠透過遺傳密碼控制細胞中蛋白質的合成。當 DNA 分子的兩條鏈分開時，每條 DNA 鏈側面露出的 purine 與 pyrimidine 鹼基如 Figure 3-7 頂部所示。正是這些突出的鹼基形成了遺傳密碼。
+<span style="color:#e2e8f0">DNA</span> 的重要性在於其能夠透過遺傳密碼控制細胞中蛋白質的合成。當 <span style="color:#e2e8f0">DNA</span> 分子的兩條鏈分開時，每條 <span style="color:#e2e8f0">DNA</span> 鏈側面露出的 purine 與 pyrimidine 鹼基如 Figure 3-7 頂部所示。正是這些突出的鹼基形成了遺傳密碼。
 
-遺傳密碼由連續的鹼基「三聯體」組成——即每三個連續鹼基是一個密碼子。連續的三聯體最終控制細胞合成之蛋白質分子中胺基酸的序列。注意 Figure 3-6 中，DNA 頂部鏈從左到右讀取，遺傳密碼為 GGC、AGA、CTT，三聯體之間以箭頭分隔。隨著我們追蹤這個遺傳密碼穿過 Figure 3-7 和 Figure 3-8，可見這三個相應的三聯體負責在新型蛋白質分子的連續位置放置三個胺基酸：proline、serine 和 glutamic acid。
+遺傳密碼由連續的鹼基「三聯體」組成——即每三個連續鹼基是一個<span style="color:#e2e8f0">密碼子</span>。連續的三聯體最終控制細胞合成之蛋白質分子中<span style="color:#e2e8f0">胺基酸</span>的序列。注意 Figure 3-6 中，<span style="color:#e2e8f0">DNA</span> 頂部鏈從左到右讀取，遺傳密碼為 GGC、AGA、CTT，三聯體之間以箭頭分隔。隨著我們追蹤這個遺傳密碼穿過 Figure 3-7 和 Figure 3-8，可見這三個相應的三聯體負責在新型蛋白質分子的連續位置放置三個<span style="color:#e2e8f0">胺基酸</span>：proline、serine 和 glutamic acid。
 
-## 轉錄——將細胞核 DNA 密碼轉移至細胞質 RNA 密碼
+## <span style="color:#60a5fa">轉錄（transcription）</span>——將細胞核 <span style="color:#e2e8f0">DNA</span> 密碼轉移至細胞質 <span style="color:#e2e8f0">RNA</span> 密碼
 
-由於 DNA 位於細胞核，而大多數細胞功能在細胞質中進行，細胞核的 DNA 基因必定有某種方式控制細胞質的化學反應。這種控制是透過另一種核酸——RNA——作為媒介來實現的，其形成受細胞核 DNA 的控制。因此，如 Figure 3-7 所示，密碼透過一個稱為轉錄的過程被轉移到 RNA。RNA 隨即從細胞核通過核孔擴散到細胞質區室，在那裡控制蛋白質合成。
+由於 <span style="color:#e2e8f0">DNA</span> 位於細胞核，而大多數細胞功能在細胞質中進行，細胞核的 <span style="color:#e2e8f0">DNA</span> 基因必定有某種方式控制細胞質的化學反應。這種控制是透過另一種核酸——<span style="color:#e2e8f0">RNA</span>——作為媒介來實現的，其形成受細胞核 <span style="color:#e2e8f0">DNA</span> 的控制。因此，如 Figure 3-7 所示，密碼透過一個稱為<span style="color:#60a5fa">轉錄（transcription）</span>的過程被轉移到 <span style="color:#e2e8f0">RNA</span>。<span style="color:#e2e8f0">RNA</span> 隨即從細胞核通過<span style="color:#22d3ee">核孔</span>擴散到細胞質區室，在那裡控制蛋白質合成。
 
-## RNA 在細胞核中以 DNA 作為模板被合成
+## <span style="color:#e2e8f0">RNA</span> 在細胞核中以 <span style="color:#e2e8f0">DNA</span> 作為模板被合成
 
-在 RNA 合成過程中，DNA 的兩條鏈暫時分開；其中一條鏈作為模板用於合成 RNA 分子。DNA 中的密碼子三聯體導致在 RNA 中形成互補的密碼子（稱為密碼子）。這些密碼子進而控制要在細胞質中合成的蛋白質的胺基酸序列。
+在 <span style="color:#e2e8f0">RNA</span> 合成過程中，<span style="color:#e2e8f0">DNA</span> 的兩條鏈暫時分開；其中一條鏈作為模板用於合成 <span style="color:#e2e8f0">RNA</span> 分子。<span style="color:#e2e8f0">DNA</span> 中的<span style="color:#e2e8f0">密碼子</span>三聯體導致在 <span style="color:#e2e8f0">RNA</span> 中形成互補的<span style="color:#e2e8f0">密碼子</span>（稱為<span style="color:#e2e8f0">密碼子</span>）。這些<span style="color:#e2e8f0">密碼子</span>進而控制要在細胞質中合成的蛋白質的<span style="color:#e2e8f0">胺基酸</span>序列。
 
-### RNA 的構築單元
+### <span style="color:#e2e8f0">RNA</span> 的構築單元
 
-RNA 的基本構築單元與 DNA 幾乎相同，但有兩個差異。首先，糖分子去氧核糖在 RNA 中不使用，取而代之的是略有不同的糖——核糖，含有附加在核糖環結構上的額外氫氧根。其次，thymine 被另一個 pyrimidine——uracil——取代。
+<span style="color:#e2e8f0">RNA</span> 的基本構築單元與 <span style="color:#e2e8f0">DNA</span> 幾乎相同，但有兩個差異。首先，糖分子去氧核糖在 <span style="color:#e2e8f0">RNA</span> 中不使用，取而代之的是略有不同的糖——核糖，含有附加在核糖環結構上的額外氫氧根。其次，thymine 被另一個 pyrimidine——uracil——取代。
 
-### RNA 核苷酸的形成
+### <span style="color:#e2e8f0">RNA</span> 核苷酸的形成
 
-RNA 的基本構築單元形成 RNA 核苷酸，與前述 DNA 合成描述的方式完全相同。這裡再次使用四種不同的核苷酸來形成 RNA。這些核苷酸含有鹼基 adenine、guanine、cytosine 和 uracil。注意，這些鹼基與 DNA 中的相同，只是 RNA 中用 uracil 替代了 DNA 中的 thymine。
+<span style="color:#e2e8f0">RNA</span> 的基本構築單元形成 <span style="color:#e2e8f0">RNA</span> 核苷酸，與前述 <span style="color:#e2e8f0">DNA</span> 合成描述的方式完全相同。這裡再次使用四種不同的核苷酸來形成 <span style="color:#e2e8f0">RNA</span>。這些核苷酸含有鹼基 adenine、guanine、cytosine 和 uracil。注意，這些鹼基與 <span style="color:#e2e8f0">DNA</span> 中的相同，只是 <span style="color:#e2e8f0">RNA</span> 中用 uracil 替代了 <span style="color:#e2e8f0">DNA</span> 中的 thymine。
 
-### RNA 核苷酸的「活化」
+### <span style="color:#e2e8f0">RNA</span> 核苷酸的「活化」
 
-合成 RNA 的下一步是透過一種酶——RNA 聚合酶——對 RNA 核苷酸進行「活化」。這種活化是透過給每個核苷酸添加兩個額外的磷酸根形成三磷酸來實現的（在 Figure 3-7 中，RNA 鏈形成時最右側的兩個 RNA 核苷酸顯示）。最後兩個磷酸通過高能磷酸鍵與核苷酸結合，這些高能磷酸鍵來自細胞中的 ATP。
+合成 <span style="color:#e2e8f0">RNA</span> 的下一步是透過一種酶——<span style="color:#e2e8f0">RNA</span> 聚合酶——對 <span style="color:#e2e8f0">RNA</span> 核苷酸進行「活化」。這種活化是透過給每個核苷酸添加兩個額外的磷酸根形成三磷酸來實現的（在 Figure 3-7 中，<span style="color:#e2e8f0">RNA</span> 鏈形成時最右側的兩個 <span style="color:#e2e8f0">RNA</span> 核苷酸顯示）。最後兩個磷酸通過高能磷酸鍵與核苷酸結合，這些高能磷酸鍵來自細胞中的 ATP。
 
-這種活化過程的結果是為每個核苷酸提供了大量的 ATP 能量。這些能量用於促進化學反應，在成長中的 RNA 鏈末端添加每個新的 RNA 核苷酸。
+這種活化過程的結果是為每個核苷酸提供了大量的 ATP 能量。這些能量用於促進化學反應，在成長中的 <span style="color:#e2e8f0">RNA</span> 鏈末端添加每個新的 <span style="color:#e2e8f0">RNA</span> 核苷酸。
 
-## 使用活化的核苷酸從 DNA 鏈模板組裝 RNA 鏈
+## 使用活化的核苷酸從 <span style="color:#e2e8f0">DNA</span> 鏈模板組裝 <span style="color:#e2e8f0">RNA</span> 鏈
 
-如 Figure 3-7 所示，RNA 的組裝是在一種酶——RNA 聚合酶——的影響下完成的。這個大型蛋白質酶具有形成 RNA 所需的多種功能特性，具體如下：
+如 Figure 3-7 所示，<span style="color:#e2e8f0">RNA</span> 的組裝是在一種酶——<span style="color:#e2e8f0">RNA</span> 聚合酶——的影響下完成的。這個大型蛋白質酶具有形成 <span style="color:#e2e8f0">RNA</span> 所需的多種功能特性，具體如下：
 
-1. 在要被轉錄的基因之前的 DNA 鏈上，有一序列核苷酸稱為啟動子。RNA 聚合酶具有識別該啟動子的互補結構並與其附著，這是開始形成 RNA 的關鍵步驟。
-2. RNA 聚合酶附著到啟動子後，使 DNA 螺旋約兩圈展開並分開。
-3. 聚合酶隨即沿著 DNA 鏈移動，在其移動的每個階段暫時展開並分開兩條 DNA 鏈。在移動過程中，每個階段它在新型 RNA 鏈末端添加一個新的活化 RNA 核苷酸，步驟如下：
-   - 首先，它使 DNA 鏈末端的鹼基與核質中 RNA 核苷酸的鹼基之間形成氫鍵。
-   - 然後，一次一個，RNA 聚合酶將每個 RNA 核苷酸的三個磷酸根中的兩個切斷，釋放大量能量。這些能量用於使核苷酸上剩餘的磷酸與成長中 RNA 鏈末端的核糖形成共價鍵。
-   - 當 RNA 聚合酶到達 DNA 基因末端時，遇到一個稱為鏈終止序列的新 DNA 核苷酸序列，導致聚合酶和新形成的 RNA 鏈從 DNA 鏈上脫離。聚合酶然後可被一次又一次地使用，形成更多新的 RNA 鏈。
-   - 當新的 RNA 鏈形成時，由於 DNA 與其互補 DNA 鏈有很高的重新鍵合親和力，它與 DNA 模板的弱氫鍵會斷開。因此，RNA 鏈被迫離開 DNA 並釋放到核質中。
+1. 在要被<span style="color:#60a5fa">轉錄（transcription）</span>的基因之前的 <span style="color:#e2e8f0">DNA</span> 鏈上，有一序列核苷酸稱為<span style="color:#e2e8f0">啟動子</span>。<span style="color:#e2e8f0">RNA</span> 聚合酶具有識別該<span style="color:#e2e8f0">啟動子</span>的互補結構並與其附著，這是開始形成 <span style="color:#e2e8f0">RNA</span> 的關鍵步驟。
+2. <span style="color:#e2e8f0">RNA</span> 聚合酶附著到<span style="color:#e2e8f0">啟動子</span>後，使 <span style="color:#e2e8f0">DNA</span> 螺旋約兩圈展開並分開。
+3. 聚合酶隨即沿著 <span style="color:#e2e8f0">DNA</span> 鏈移動，在其移動的每個階段暫時展開並分開兩條 <span style="color:#e2e8f0">DNA</span> 鏈。在移動過程中，每個階段它在新型 <span style="color:#e2e8f0">RNA</span> 鏈末端添加一個新的活化 <span style="color:#e2e8f0">RNA</span> 核苷酸，步驟如下：
+   - 首先，它使 <span style="color:#e2e8f0">DNA</span> 鏈末端的鹼基與核質中 <span style="color:#e2e8f0">RNA</span> 核苷酸的鹼基之間形成氫鍵。
+   - 然後，一次一個，<span style="color:#e2e8f0">RNA</span> 聚合酶將每個 <span style="color:#e2e8f0">RNA</span> 核苷酸的三個磷酸根中的兩個切斷，釋放大量能量。這些能量用於使核苷酸上剩餘的磷酸與成長中 <span style="color:#e2e8f0">RNA</span> 鏈末端的核糖形成共價鍵。
+   - 當 <span style="color:#e2e8f0">RNA</span> 聚合酶到達 <span style="color:#e2e8f0">DNA</span> 基因末端時，遇到一個稱為鏈終止序列的新 <span style="color:#e2e8f0">DNA</span> 核苷酸序列，導致聚合酶和新形成的 <span style="color:#e2e8f0">RNA</span> 鏈從 <span style="color:#e2e8f0">DNA</span> 鏈上脫離。聚合酶然後可被一次又一次地使用，形成更多新的 <span style="color:#e2e8f0">RNA</span> 鏈。
+   - 當新的 <span style="color:#e2e8f0">RNA</span> 鏈形成時，由於 <span style="color:#e2e8f0">DNA</span> 與其互補 <span style="color:#e2e8f0">DNA</span> 鏈有很高的重新鍵合親和力，它與 <span style="color:#e2e8f0">DNA</span> 模板的弱氫鍵會斷開。因此，<span style="color:#e2e8f0">RNA</span> 鏈被迫離開 <span style="color:#e2e8f0">DNA</span> 並釋放到核質中。
 
-因此，DNA 鏈中存在的密碼最終以互補形式傳遞到 RNA 鏈。核糖核苷酸鹼基總是與去氧核糖鹼基以下列組合結合：
+因此，<span style="color:#e2e8f0">DNA</span> 鏈中存在的密碼最終以互補形式傳遞到 <span style="color:#e2e8f0">RNA</span> 鏈。核糖核苷酸鹼基總是與去氧核糖鹼基以下列組合結合：
 
-| DNA 鹼基 | RNA 鹼基 |
+| <span style="color:#e2e8f0">DNA</span> 鹼基 | <span style="color:#e2e8f0">RNA</span> 鹼基 |
 |----------|----------|
 | Guanine  | Cytosine |
 | Cytosine | Guanine  |
 | Adenine  | Uracil   |
 | Thymine  | Adenine  |
 
-## 有幾種不同類型的 RNA
+## 有幾種不同類型的 <span style="color:#e2e8f0">RNA</span>
 
-隨著 RNA 研究的不斷進展，發現了許多不同類型的 RNA。有些類型的 RNA 參與蛋白質合成，有些則具有基因調控功能或參與 RNA 的轉錄後修飾。某些類型 RNA（尤其是似乎不編碼蛋白質的 RNA）的功能仍然神秘。以下六種 RNA 在蛋白質合成中扮演獨立且不同的角色：
+隨著 <span style="color:#e2e8f0">RNA</span> 研究的不斷進展，發現了許多不同類型的 <span style="color:#e2e8f0">RNA</span>。有些類型的 <span style="color:#e2e8f0">RNA</span> 參與蛋白質合成，有些則具有<span style="color:#60a5fa">基因調控</span>功能或參與 <span style="color:#e2e8f0">RNA</span> 的<span style="color:#60a5fa">轉錄（transcription）</span>後修飾。某些類型 <span style="color:#e2e8f0">RNA</span>（尤其是似乎不編碼蛋白質的 <span style="color:#e2e8f0">RNA</span>）的功能仍然神秘。以下六種 <span style="color:#e2e8f0">RNA</span> 在蛋白質合成中扮演獨立且不同的角色：
 
-1. **前體 messenger RNA（pre-mRNA）** 是一個大型、未成熟、單股 RNA，在細胞核中加工形成成熟的 messenger RNA（mRNA）。前 RNA 包含兩種不同類型的片段，稱為內含子（introns），透過剪接過程被移除，以及外顯子（exons），保留在最終的 mRNA 中。
-2. **小型核 RNA（snRNA）** 指導 pre-mRNA 的剪接，形成 mRNA。
-3. **Messenger RNA（mRNA）** 攜帶遺傳密碼到細胞質，控制所形成蛋白質的類型。
-4. **Transfer RNA（tRNA）** 將活化的胺基酸運輸到核糖體，用於組裝蛋白質分子。
-5. **核糖體 RNA**，與約 75 種不同蛋白質一起形成核糖體——蛋白質分子實際上在這些物理和化學結構上被組裝。
-6. **MicroRNAs（miRNAs）** 是 21 至 23 個核苷酸的單股 RNA 分子，能夠調節基因轉錄和翻譯。
+1. **前體 messenger <span style="color:#e2e8f0">RNA</span>（pre-m<span style="color:#e2e8f0">RNA</span>）** 是一個大型、未成熟、單股 <span style="color:#e2e8f0">RNA</span>，在細胞核中加工形成成熟的 messenger <span style="color:#e2e8f0">RNA</span>（m<span style="color:#e2e8f0">RNA</span>）。前 <span style="color:#e2e8f0">RNA</span> 包含兩種不同類型的片段，稱為<span style="color:#e2e8f0">內含子</span>（introns），透過剪接過程被移除，以及<span style="color:#e2e8f0">外顯子</span>（exons），保留在最終的 m<span style="color:#e2e8f0">RNA</span> 中。
+2. **小型核 <span style="color:#e2e8f0">RNA</span>（sn<span style="color:#e2e8f0">RNA</span>）** 指導 pre-m<span style="color:#e2e8f0">RNA</span> 的剪接，形成 m<span style="color:#e2e8f0">RNA</span>。
+3. **Messenger <span style="color:#e2e8f0">RNA</span>（m<span style="color:#e2e8f0">RNA</span>）** 攜帶遺傳密碼到細胞質，控制所形成蛋白質的類型。
+4. **Transfer <span style="color:#e2e8f0">RNA</span>（t<span style="color:#e2e8f0">RNA</span>）** 將活化的<span style="color:#e2e8f0">胺基酸</span>運輸到<span style="color:#22d3ee">核糖體</span>，用於組裝蛋白質分子。
+5. **<span style="color:#22d3ee">核糖體</span> <span style="color:#e2e8f0">RNA</span>**，與約 75 種不同蛋白質一起形成<span style="color:#22d3ee">核糖體</span>——蛋白質分子實際上在這些物理和化學結構上被組裝。
+6. **Micro<span style="color:#e2e8f0">RNA</span>s（mi<span style="color:#e2e8f0">RNA</span>s）** 是 21 至 23 個核苷酸的單股 <span style="color:#e2e8f0">RNA</span> 分子，能夠調節基因<span style="color:#60a5fa">轉錄（transcription）</span>和<span style="color:#60a5fa">翻譯（translation）</span>。
 
-## Messenger RNA——密碼子
+## Messenger <span style="color:#e2e8f0">RNA</span>——<span style="color:#e2e8f0">密碼子</span>
 
-Messenger RNA 分子是懸浮在細胞質中的長單股 RNA 鏈。這些分子由數百到數千個未配對的 RNA 核苷酸組成，包含與 DNA 基因密碼子三聯體完全互補的密碼子。Figure 3-8 顯示了一段 mRNA 的小片段。其密碼子為 CCG、UCU 和 GAA，分別是胺基酸 proline、serine 和 glutamic acid 的密碼子。從 DNA 分子到 RNA 分子的這些密碼子轉錄如 Figure 3-7 所示。
+Messenger <span style="color:#e2e8f0">RNA</span> 分子是懸浮在細胞質中的長單股 <span style="color:#e2e8f0">RNA</span> 鏈。這些分子由數百到數千個未配對的 <span style="color:#e2e8f0">RNA</span> 核苷酸組成，包含與 <span style="color:#e2e8f0">DNA</span> 基因<span style="color:#e2e8f0">密碼子</span>三聯體完全互補的<span style="color:#e2e8f0">密碼子</span>。Figure 3-8 顯示了一段 m<span style="color:#e2e8f0">RNA</span> 的小片段。其<span style="color:#e2e8f0">密碼子</span>為 CCG、UCU 和 GAA，分別是<span style="color:#e2e8f0">胺基酸</span> proline、serine 和 glutamic acid 的<span style="color:#e2e8f0">密碼子</span>。從 <span style="color:#e2e8f0">DNA</span> 分子到 <span style="color:#e2e8f0">RNA</span> 分子的這些<span style="color:#e2e8f0">密碼子</span><span style="color:#60a5fa">轉錄（transcription）</span>如 Figure 3-7 所示。
 
-### 不同胺基酸的 RNA 密碼子
+### 不同<span style="color:#e2e8f0">胺基酸</span>的 <span style="color:#e2e8f0">RNA</span> <span style="color:#e2e8f0">密碼子</span>
 
-Table 3-1 列出了蛋白質分子中 20 種常見胺基酸的 RNA 密碼子。注意，大多數胺基酸由多個密碼子表示；另外，一個密碼子表示「開始製造蛋白質分子」的信號，三個密碼子表示「停止製造蛋白質分子」。在 Table 3-1 中，這兩種類型的密碼子分別標記為 CI（鏈起始密碼子）和 CT（鏈終止密碼子）。
+Table 3-1 列出了蛋白質分子中 20 種常見<span style="color:#e2e8f0">胺基酸</span>的 <span style="color:#e2e8f0">RNA</span> <span style="color:#e2e8f0">密碼子</span>。注意，大多數<span style="color:#e2e8f0">胺基酸</span>由多個<span style="color:#e2e8f0">密碼子</span>表示；另外，一個<span style="color:#e2e8f0">密碼子</span>表示「開始製造蛋白質分子」的信號，三個<span style="color:#e2e8f0">密碼子</span>表示「停止製造蛋白質分子」。在 Table 3-1 中，這兩種類型的<span style="color:#e2e8f0">密碼子</span>分別標記為 CI（鏈起始<span style="color:#e2e8f0">密碼子</span>）和 CT（鏈終止<span style="color:#e2e8f0">密碼子</span>）。
 
-## Transfer RNA——反密碼子
+## Transfer <span style="color:#e2e8f0">RNA</span>——反<span style="color:#e2e8f0">密碼子</span>
 
-蛋白質合成所必需的另一種 RNA 稱為 transfer RNA（tRNA），因為它在蛋白質合成過程中將胺基酸轉移到蛋白質分子。每種 tRNA 特異性地與 20 種胺基酸中的一種結合，這些胺基酸是要摻入蛋白質的。tRNA 隨即作為載體將其特定類型的胺基酸運送到正在形成蛋白質分子的核糖體。在核糖體中，每種特異性 tRNA 識別 mRNA 上的特定密碼子（如後所述），從而將適當的胺基酸送到新型蛋白質鏈的適當位置。
+蛋白質合成所必需的另一種 <span style="color:#e2e8f0">RNA</span> 稱為 transfer <span style="color:#e2e8f0">RNA</span>（t<span style="color:#e2e8f0">RNA</span>），因為它在蛋白質合成過程中將<span style="color:#e2e8f0">胺基酸</span>轉移到蛋白質分子。每種 t<span style="color:#e2e8f0">RNA</span> 特異性地與 20 種<span style="color:#e2e8f0">胺基酸</span>中的一種結合，這些<span style="color:#e2e8f0">胺基酸</span>是要摻入蛋白質的。t<span style="color:#e2e8f0">RNA</span> 隨即作為載體將其特定類型的<span style="color:#e2e8f0">胺基酸</span>運送到正在形成蛋白質分子的<span style="color:#22d3ee">核糖體</span>。在<span style="color:#22d3ee">核糖體</span>中，每種特異性 t<span style="color:#e2e8f0">RNA</span> 識別 m<span style="color:#e2e8f0">RNA</span> 上的特定<span style="color:#e2e8f0">密碼子</span>（如後所述），從而將適當的<span style="color:#e2e8f0">胺基酸</span>送到新型蛋白質鏈的適當位置。
 
-Transfer RNA 只含有約 80 個核苷酸，與 mRNA 相比是相對較小的分子。它是一個折疊的核苷酸鏈，呈現類似 Figure 3-9 所示的三葉草外觀。在分子的一端總是有一個腺苷酸，胺基酸透過核糖上羥基連接到腺苷酸。
+Transfer <span style="color:#e2e8f0">RNA</span> 只含有約 80 個核苷酸，與 m<span style="color:#e2e8f0">RNA</span> 相比是相對較小的分子。它是一個折疊的核苷酸鏈，呈現類似 Figure 3-9 所示的三葉草外觀。在分子的一端總是有一個腺苷酸，<span style="color:#e2e8f0">胺基酸</span>透過核糖上羥基連接到腺苷酸。
 
-由於 tRNA 的功能是導致特定胺基酸連接到正在形成的蛋白質鏈上，因此每種 tRNA 也必須對 mRNA 上的特定密碼子具有特異性。tRNA 中允許其識別特定密碼子的特定密碼是另一個三聯體核苷酸鹼基，稱為反密碼子。這個反密碼子位於分子的中間位置（見 Figure 3-9 三葉草構型的底部）。在蛋白質分子形成期間，反密碼子鹼基透過氫鍵與 mRNA 的密碼子鹼基鬆散結合。這樣，相應的胺基酸就沿著 mRNA 鏈一一排列，從而建立了新型蛋白質分子中胺基酸的適當序列。
+由於 t<span style="color:#e2e8f0">RNA</span> 的功能是導致特定<span style="color:#e2e8f0">胺基酸</span>連接到正在形成的蛋白質鏈上，因此每種 t<span style="color:#e2e8f0">RNA</span> 也必須對 m<span style="color:#e2e8f0">RNA</span> 上的特定<span style="color:#e2e8f0">密碼子</span>具有特異性。t<span style="color:#e2e8f0">RNA</span> 中允許其識別特定<span style="color:#e2e8f0">密碼子</span>的特定密碼是另一個三聯體核苷酸鹼基，稱為反<span style="color:#e2e8f0">密碼子</span>。這個反<span style="color:#e2e8f0">密碼子</span>位於分子的中間位置（見 Figure 3-9 三葉草構型的底部）。在蛋白質分子形成期間，反<span style="color:#e2e8f0">密碼子</span>鹼基透過氫鍵與 m<span style="color:#e2e8f0">RNA</span> 的<span style="color:#e2e8f0">密碼子</span>鹼基鬆散結合。這樣，相應的<span style="color:#e2e8f0">胺基酸</span>就沿著 m<span style="color:#e2e8f0">RNA</span> 鏈一一排列，從而建立了新型蛋白質分子中<span style="color:#e2e8f0">胺基酸</span>的適當序列。
 
-## 核糖體 RNA
+## <span style="color:#22d3ee">核糖體</span> <span style="color:#e2e8f0">RNA</span>
 
-細胞中第三種 RNA 是核糖體 RNA，約占核糖體的 60%。核糖體的其餘部分是蛋白質，包括約 75 種蛋白質，既有結構蛋白，也有製造蛋白質所需的酶。
+細胞中第三種 <span style="color:#e2e8f0">RNA</span> 是<span style="color:#22d3ee">核糖體</span> <span style="color:#e2e8f0">RNA</span>，約占<span style="color:#22d3ee">核糖體</span>的 60%。<span style="color:#22d3ee">核糖體</span>的其餘部分是蛋白質，包括約 75 種蛋白質，既有結構蛋白，也有製造蛋白質所需的酶。
 
-核糖體是細胞質中實際合成蛋白質的物理結構。然而，它總是與其他兩種 RNA 共同發揮作用；tRNA 將胺基酸運送到核糖體摻入正在發育的蛋白質，而 mRNA 提供按適當順序排列胺基酸所需的信息，以製造每種特定類型的蛋白質。因此，核糖體充當製造工廠，蛋白質分子在此形成。
+<span style="color:#22d3ee">核糖體</span>是細胞質中實際合成蛋白質的物理結構。然而，它總是與其他兩種 <span style="color:#e2e8f0">RNA</span> 共同發揮作用；t<span style="color:#e2e8f0">RNA</span> 將<span style="color:#e2e8f0">胺基酸</span>運送到<span style="color:#22d3ee">核糖體</span>摻入正在發育的蛋白質，而 m<span style="color:#e2e8f0">RNA</span> 提供按適當順序排列<span style="color:#e2e8f0">胺基酸</span>所需的信息，以製造每種特定類型的蛋白質。因此，<span style="color:#22d3ee">核糖體</span>充當製造工廠，蛋白質分子在此形成。
 
-### 在核仁中形成核糖體
+### 在<span style="color:#22d3ee">核仁</span>中形成<span style="color:#22d3ee">核糖體</span>
 
-核糖體 RNA 形成的 DNA 基因位於細胞核中五對染色體上。每條染色體由於需要大量核糖體 RNA 進行細胞功能，都含有這些特定基因的多個拷貝。
+<span style="color:#22d3ee">核糖體</span> <span style="color:#e2e8f0">RNA</span> 形成的 <span style="color:#e2e8f0">DNA</span> 基因位於細胞核中五對<span style="color:#22d3ee">染色體</span>上。每條<span style="color:#22d3ee">染色體</span>由於需要大量<span style="color:#22d3ee">核糖體</span> <span style="color:#e2e8f0">RNA</span> 進行細胞功能，都含有這些特定基因的多個拷貝。
 
-當核糖體 RNA 形成時，它們聚集在核仁中——一個位於染色體附近的專門結構。當大量核糖體 RNA 被合成時（如大量蛋白質製造細胞中那樣），核仁是一個大型結構；而在合成少量蛋白質的細胞中，核仁可能根本看不到。核糖體 RNA 在核仁中特異性加工，與核糖體蛋白質結合形成顆粒狀凝縮產物，這是核糖體的原始亞基。然後這些亞基從核仁釋放，通過核膜的大孔運輸到細胞質幾乎所有部位。亞基進入細胞質後，組裝成成熟的功能性核糖體。因此，蛋白質在細胞的細胞質中形成，而非在細胞核中，因為細胞核不含有成熟核糖體。
+當<span style="color:#22d3ee">核糖體</span> <span style="color:#e2e8f0">RNA</span> 形成時，它們聚集在<span style="color:#22d3ee">核仁</span>中——一個位於<span style="color:#22d3ee">染色體</span>附近的專門結構。當大量<span style="color:#22d3ee">核糖體</span> <span style="color:#e2e8f0">RNA</span> 被合成時（如大量蛋白質製造細胞中那樣），<span style="color:#22d3ee">核仁</span>是一個大型結構；而在合成少量蛋白質的細胞中，<span style="color:#22d3ee">核仁</span>可能根本看不到。<span style="color:#22d3ee">核糖體</span> <span style="color:#e2e8f0">RNA</span> 在<span style="color:#22d3ee">核仁</span>中特異性加工，與<span style="color:#22d3ee">核糖體</span>蛋白質結合形成顆粒狀凝縮產物，這是<span style="color:#22d3ee">核糖體</span>的原始亞基。然後這些亞基從<span style="color:#22d3ee">核仁</span>釋放，通過<span style="color:#22d3ee">核膜</span>的大孔運輸到細胞質幾乎所有部位。亞基進入細胞質後，組裝成成熟的功能性<span style="color:#22d3ee">核糖體</span>。因此，蛋白質在細胞的細胞質中形成，而非在細胞核中，因為細胞核不含有成熟<span style="color:#22d3ee">核糖體</span>。
 
-## miRNA 與小型干擾 RNA
+## mi<span style="color:#e2e8f0">RNA</span> 與小型干擾 <span style="color:#e2e8f0">RNA</span>
 
-細胞中第四種 RNA 是 microRNA（miRNA）；miRNA 是短的（21 至 23 個核苷酸）單股 RNA 片段，調節基因表達（Figure 3-10）。miRNA 由基因的轉錄 DNA 編碼，但們不被翻譯成蛋白質，因此常被稱為非編碼 RNA。miRNA 被細胞加工成與 mRNA 互補的分子，作用是降低基因表達。miRNA 的生成涉及稱為 pri-miRNA 的較長前體 RNA 的特殊加工，pri-miRNA 是基因的初始轉錄物。pri-miRNA 然後在細胞核中由微加工複合體處理形成 pre-miRNA，這是 70 個核苷酸的髮夾環結構。這些 pre-miRNA 然後在細胞質中由特定的 dicer 酶進一步加工，幫助組裝 RNA 誘導的沉默複合體（RISC）並產生 miRNA。
+細胞中第四種 <span style="color:#e2e8f0">RNA</span> 是 micro<span style="color:#e2e8f0">RNA</span>（mi<span style="color:#e2e8f0">RNA</span>）；mi<span style="color:#e2e8f0">RNA</span> 是短的（21 至 23 個核苷酸）單股 <span style="color:#e2e8f0">RNA</span> 片段，調節基因表達（Figure 3-10）。mi<span style="color:#e2e8f0">RNA</span> 由基因的<span style="color:#60a5fa">轉錄（transcription）</span> <span style="color:#e2e8f0">DNA</span> 編碼，但們不被<span style="color:#60a5fa">翻譯（translation）</span>成蛋白質，因此常被稱為非編碼 <span style="color:#e2e8f0">RNA</span>。mi<span style="color:#e2e8f0">RNA</span> 被細胞加工成與 m<span style="color:#e2e8f0">RNA</span> 互補的分子，作用是降低基因表達。mi<span style="color:#e2e8f0">RNA</span> 的生成涉及稱為 pri-mi<span style="color:#e2e8f0">RNA</span> 的較長前體 <span style="color:#e2e8f0">RNA</span> 的特殊加工，pri-mi<span style="color:#e2e8f0">RNA</span> 是基因的初始<span style="color:#60a5fa">轉錄（transcription）</span>物。pri-mi<span style="color:#e2e8f0">RNA</span> 然後在細胞核中由微加工複合體處理形成 pre-mi<span style="color:#e2e8f0">RNA</span>，這是 70 個核苷酸的髮夾環結構。這些 pre-mi<span style="color:#e2e8f0">RNA</span> 然後在細胞質中由特定的 dicer 酶進一步加工，幫助組裝 <span style="color:#e2e8f0">RNA</span> 誘導的沉默複合體（RISC）並產生 mi<span style="color:#e2e8f0">RNA</span>。
 
-miRNA 透過與 RNA 的互補區域結合來調節基因表達，促進翻譯抑制或在 mRNA 被核糖體翻譯之前促進其降解。miRNA 被認為在正常細胞功能調節中起重要作用，miRNA 功能的改變與癌症和心臟病等疾病相關。
+mi<span style="color:#e2e8f0">RNA</span> 透過與 <span style="color:#e2e8f0">RNA</span> 的互補區域結合來調節基因表達，促進<span style="color:#60a5fa">翻譯（translation）</span>抑制或在 m<span style="color:#e2e8f0">RNA</span> 被<span style="color:#22d3ee">核糖體</span><span style="color:#60a5fa">翻譯（translation）</span>之前促進其降解。mi<span style="color:#e2e8f0">RNA</span> 被認為在正常細胞功能調節中起重要作用，mi<span style="color:#e2e8f0">RNA</span> 功能的改變與癌症和心臟病等疾病相關。
 
-另一種 miRNA 是小型干擾 RNA（siRNA），也稱為沉默 RNA 或短干擾 RNA。siRNA 是短的雙股 RNA 分子，由 20 至 25 個核苷酸組成，干擾特定基因的表達。siRNA 通常指合成的 miRNA，可以施用於沉默特定基因的表達。它們被設計為避免被微加工複合體在細胞核中加工，當 siRNA 進入細胞質後，激活 RISC 沉默複合體，阻斷 mRNA 的翻譯。因為 siRNA 可以為基因中任何特定序列量身定制，它們可用於阻斷任何 mRNA 的翻譯，因此只要已知核苷酸序列，就能阻斷任何基因的表達。研究人員提出 siRNA 可能成為有用的治療工具，來沉默導致疾病病理生理學的基因。
+另一種 mi<span style="color:#e2e8f0">RNA</span> 是小型干擾 <span style="color:#e2e8f0">RNA</span>（si<span style="color:#e2e8f0">RNA</span>），也稱為沉默 <span style="color:#e2e8f0">RNA</span> 或短干擾 <span style="color:#e2e8f0">RNA</span>。si<span style="color:#e2e8f0">RNA</span> 是短的雙股 <span style="color:#e2e8f0">RNA</span> 分子，由 20 至 25 個核苷酸組成，干擾特定基因的表達。si<span style="color:#e2e8f0">RNA</span> 通常指合成的 mi<span style="color:#e2e8f0">RNA</span>，可以施用於沉默特定基因的表達。它們被設計為避免被微加工複合體在細胞核中加工，當 si<span style="color:#e2e8f0">RNA</span> 進入細胞質後，激活 RISC 沉默複合體，阻斷 m<span style="color:#e2e8f0">RNA</span> 的<span style="color:#60a5fa">翻譯（translation）</span>。因為 si<span style="color:#e2e8f0">RNA</span> 可以為基因中任何特定序列量身定制，它們可用於阻斷任何 m<span style="color:#e2e8f0">RNA</span> 的<span style="color:#60a5fa">翻譯（translation）</span>，因此只要已知核苷酸序列，就能阻斷任何基因的表達。研究人員提出 si<span style="color:#e2e8f0">RNA</span> 可能成為有用的治療工具，來沉默導致疾病病理生理學的基因。
 
-## 翻譯——在核糖體上形成蛋白質
+## <span style="color:#60a5fa">翻譯（translation）</span>——在<span style="color:#22d3ee">核糖體</span>上形成蛋白質
 
-當一個 mRNA 分子與核糖體接觸時，它穿過核糖體，從由適當的 RNA 鹼基序列（稱為鏈起始密碼子）指定的 RNA 分子預定末端開始。然後，如 Figure 3-9 所示，當 mRNA 穿過核糖體時，蛋白質分子正在形成，這個過程稱為翻譯。因此，核糖體閱讀 mRNA 的密碼子，與錄音機播放頭閱讀磁帶的方式大致相同。當「停止」（或「鏈終止」）密碼子滑過核糖體時，蛋白質分子的末端被信號告知，蛋白質分子被釋放到細胞質中。
+當一個 m<span style="color:#e2e8f0">RNA</span> 分子與<span style="color:#22d3ee">核糖體</span>接觸時，它穿過<span style="color:#22d3ee">核糖體</span>，從由適當的 <span style="color:#e2e8f0">RNA</span> 鹼基序列（稱為鏈起始<span style="color:#e2e8f0">密碼子</span>）指定的 <span style="color:#e2e8f0">RNA</span> 分子預定末端開始。然後，如 Figure 3-9 所示，當 m<span style="color:#e2e8f0">RNA</span> 穿過<span style="color:#22d3ee">核糖體</span>時，蛋白質分子正在形成，這個過程稱為<span style="color:#60a5fa">翻譯（translation）</span>。因此，<span style="color:#22d3ee">核糖體</span>閱讀 m<span style="color:#e2e8f0">RNA</span> 的<span style="color:#e2e8f0">密碼子</span>，與錄音機播放頭閱讀磁帶的方式大致相同。當「停止」（或「鏈終止」）<span style="color:#e2e8f0">密碼子</span>滑過<span style="color:#22d3ee">核糖體</span>時，蛋白質分子的末端被信號告知，蛋白質分子被釋放到細胞質中。
 
-### 多核糖體
+### 多<span style="color:#22d3ee">核糖體</span>
 
-一個 mRNA 分子可以同時在多個核糖體上形成蛋白質分子，因為 RNA 鏈的初始端可以在離開第一個核糖體時傳到下一個核糖體，如 Figure 3-9 左下方和 Figure 3-11 所示。每個核糖體中的蛋白質分子處於不同發育階段。因此，核糖體經常成簇出現，3 至 10 個核糖體同時附著在一個 mRNA 上。這些簇稱為多核糖體（polyribosomes）。
+一個 m<span style="color:#e2e8f0">RNA</span> 分子可以同時在多個<span style="color:#22d3ee">核糖體</span>上形成蛋白質分子，因為 <span style="color:#e2e8f0">RNA</span> 鏈的初始端可以在離開第一個<span style="color:#22d3ee">核糖體</span>時傳到下一個<span style="color:#22d3ee">核糖體</span>，如 Figure 3-9 左下方和 Figure 3-11 所示。每個<span style="color:#22d3ee">核糖體</span>中的蛋白質分子處於不同發育階段。因此，<span style="color:#22d3ee">核糖體</span>經常成簇出現，3 至 10 個<span style="color:#22d3ee">核糖體</span>同時附著在一個 m<span style="color:#e2e8f0">RNA</span> 上。這些簇稱為多<span style="color:#22d3ee">核糖體</span>（polyribosomes）。
 
-mRNA 可以在任何核糖體中引起蛋白質分子的形成；核糖體對特定類型的蛋白質沒有特異性。核糖體只是發生化學反應的物理製造工廠。
+m<span style="color:#e2e8f0">RNA</span> 可以在任何<span style="color:#22d3ee">核糖體</span>中引起蛋白質分子的形成；<span style="color:#22d3ee">核糖體</span>對特定類型的蛋白質沒有特異性。<span style="color:#22d3ee">核糖體</span>只是發生化學反應的物理製造工廠。
 
-### 許多核糖體附著在內質網上
+### 許多<span style="color:#22d3ee">核糖體</span>附著在內質網上
 
-在第 2 章中，我們注意到許多核糖體附著在內質網上。這種附著發生是因為許多正在形成的蛋白質分子的初始端具有立即附著到內質網上特定受體位點的胺基酸序列，導致這些分子穿透內質網壁進入內質網基質。這個過程使正在形成蛋白質並進入內質網基質的內質網部分呈現顆粒狀外觀。
+在第 2 章中，我們注意到許多<span style="color:#22d3ee">核糖體</span>附著在內質網上。這種附著發生是因為許多正在形成的蛋白質分子的初始端具有立即附著到內質網上特定受體位點的<span style="color:#e2e8f0">胺基酸</span>序列，導致這些分子穿透內質網壁進入內質網基質。這個過程使正在形成蛋白質並進入內質網基質的內質網部分呈現顆粒狀外觀。
 
-Figure 3-11 顯示了 mRNA 與核糖體的功能關係，以及核糖體附著到內質網膜上的方式。請注意在多個核糖體中同時發生的翻譯過程，回應同一條 mRNA 鏈。還要注意正在形成的多肽（蛋白質）鏈穿過內質網膜進入內質網基質。
+Figure 3-11 顯示了 m<span style="color:#e2e8f0">RNA</span> 與<span style="color:#22d3ee">核糖體</span>的功能關係，以及<span style="color:#22d3ee">核糖體</span>附著到內質網膜上的方式。請注意在多個<span style="color:#22d3ee">核糖體</span>中同時發生的<span style="color:#60a5fa">翻譯（translation）</span>過程，回應同一條 m<span style="color:#e2e8f0">RNA</span> 鏈。還要注意正在形成的多肽（蛋白質）鏈穿過內質網膜進入內質網基質。
 
-應該注意的是，除了形成大量含蛋白質分泌囊泡的腺細胞外，由核糖體合成的大多數蛋白質直接釋放到細胞質基質中，而非進入內質網。這些蛋白質是酶和細胞的內部結構蛋白。
+應該注意的是，除了形成大量含蛋白質分泌囊泡的腺細胞外，由<span style="color:#22d3ee">核糖體</span>合成的大多數蛋白質直接釋放到細胞質基質中，而非進入內質網。這些蛋白質是酶和細胞的內部結構蛋白。
 
 ### 蛋白質合成中的化學步驟
 
-Figure 3-12 顯示蛋白質分子合成中發生的一些化學事件。該圖顯示了三個不同胺基酸 AA1、AA2 和 AA20 的代表性反應。反應的階段如下：
+Figure 3-12 顯示蛋白質分子合成中發生的一些化學事件。該圖顯示了三個不同<span style="color:#e2e8f0">胺基酸</span> AA1、AA2 和 AA20 的代表性反應。反應的階段如下：
 
-1. 每個胺基酸透過 ATP 與胺基酸結合形成腺苷單磷酸-胺基酸複合物而被活化，過程中失去兩個高能磷酸鍵。
-2. 具有過量能量的活化胺基酸，然後與其特定 tRNA 結合形成胺基酸-tRNA 複合物，同時釋放腺苷單磷酸。
-3. 攜帶胺基酸複合物的 tRNA 然後與核糖體中的 mRNA 分子接觸，tRNA 的反密碼子暫時附著到其特定的 mRNA 密碼子上，從而將胺基酸排列成適當的序列，形成蛋白質分子。
+1. 每個<span style="color:#e2e8f0">胺基酸</span>透過 ATP 與<span style="color:#e2e8f0">胺基酸</span>結合形成腺苷單磷酸-<span style="color:#e2e8f0">胺基酸</span>複合物而被活化，過程中失去兩個高能磷酸鍵。
+2. 具有過量能量的活化<span style="color:#e2e8f0">胺基酸</span>，然後與其特定 t<span style="color:#e2e8f0">RNA</span> 結合形成<span style="color:#e2e8f0">胺基酸</span>-t<span style="color:#e2e8f0">RNA</span> 複合物，同時釋放腺苷單磷酸。
+3. 攜帶<span style="color:#e2e8f0">胺基酸</span>複合物的 t<span style="color:#e2e8f0">RNA</span> 然後與<span style="color:#22d3ee">核糖體</span>中的 m<span style="color:#e2e8f0">RNA</span> 分子接觸，t<span style="color:#e2e8f0">RNA</span> 的反<span style="color:#e2e8f0">密碼子</span>暫時附著到其特定的 m<span style="color:#e2e8f0">RNA</span> <span style="color:#e2e8f0">密碼子</span>上，從而將<span style="color:#e2e8f0">胺基酸</span>排列成適當的序列，形成蛋白質分子。
 
-然後，在 peptidyl transferase（核糖體中的一種蛋白質）的作用下，相繼胺基酸之間形成肽鍵，從而逐步添加到蛋白質鏈上。這些化學事件需要另外兩個高能磷酸鍵的能量，使每個添加到蛋白質鏈的胺基酸消耗的總高能鍵達到四個。因此，蛋白質合成是細胞中最耗能的過程之一。
+然後，在 peptidyl transferase（<span style="color:#22d3ee">核糖體</span>中的一種蛋白質）的作用下，相繼<span style="color:#e2e8f0">胺基酸</span>之間形成肽鍵，從而逐步添加到蛋白質鏈上。這些化學事件需要另外兩個高能磷酸鍵的能量，使每個添加到蛋白質鏈的<span style="color:#e2e8f0">胺基酸</span>消耗的總高能鍵達到四個。因此，蛋白質合成是細胞中最耗能的過程之一。
 
-### 肽鍵——胺基酸的結合
+### 肽鍵——<span style="color:#e2e8f0">胺基酸</span>的結合
 
-蛋白質鏈中相繼的胺基酸根據典型反應相互結合：
+蛋白質鏈中相繼的<span style="color:#e2e8f0">胺基酸</span>根據典型反應相互結合：
 
 ```
 O          O
@@ -159,7 +159,7 @@ NH₂         C-R
             COOH
 ```
 
-在這個化學反應中，羥基（OH⁻）從第一個胺基酸的 COOH 部分被移除，第二個胺基酸 NH₂ 部分的氫（H⁺）被移除。它們結合形成水，兩個相繼胺基酸上的兩個反應位點相互鍵合，產生一個分子。這個過程稱為肽鍵。每添加一個額外的胺基酸，就形成一個額外的肽鍵。
+在這個化學反應中，羥基（OH⁻）從第一個<span style="color:#e2e8f0">胺基酸</span>的 COOH 部分被移除，第二個<span style="color:#e2e8f0">胺基酸</span> NH₂ 部分的氫（H⁺）被移除。它們結合形成水，兩個相繼<span style="color:#e2e8f0">胺基酸</span>上的兩個反應位點相互鍵合，產生一個分子。這個過程稱為肽鍵。每添加一個額外的<span style="color:#e2e8f0">胺基酸</span>，就形成一個額外的肽鍵。
 
 ## 細胞中其他物質的合成
 
@@ -171,62 +171,62 @@ NH₂         C-R
 
 細胞中生化活性的控制基本有兩種方法：
 
-1. **基因調控**：基因的活化程度和基因產物的形成本身受到控制。
+1. **<span style="color:#60a5fa">基因調控</span>**：基因的活化程度和基因產物的形成本身受到控制。
 2. **酶調控**：細胞中已形成酶的活性水平受到控制。
 
-## 基因調控
+## <span style="color:#60a5fa">基因調控</span>
 
-基因調控涵蓋了從細胞核中遺傳密碼的轉錄到細胞質中蛋白質形成的整個過程。基因表達的調控為所有生物提供了對環境變化做出反應的能力。在具有許多不同細胞類型、組織和器官的動物中，基因表達的差異化調控也使體內不同細胞類型能夠各自執行其專門功能。雖然心肌細胞含有與腎小管上皮細胞相同的遺傳密碼，但心臟細胞中表達的許多基因在腎小管細胞中不表達。基因「表達」的最終衡量標準是是否（以及多少）基因產物（蛋白質）被產生，因為蛋白質執行由基因指定的細胞功能。基因表達的調控可以在轉錄、RNA 加工和翻譯的任何環節發生。
+<span style="color:#60a5fa">基因調控</span>涵蓋了從細胞核中遺傳密碼的<span style="color:#60a5fa">轉錄（transcription）</span>到細胞質中蛋白質形成的整個過程。基因表達的調控為所有生物提供了對環境變化做出反應的能力。在具有許多不同細胞類型、組織和器官的動物中，基因表達的差異化調控也使體內不同細胞類型能夠各自執行其專門功能。雖然心肌細胞含有與腎小管上皮細胞相同的遺傳密碼，但心臟細胞中表達的許多基因在腎小管細胞中不表達。基因「表達」的最終衡量標準是是否（以及多少）基因產物（蛋白質）被產生，因為蛋白質執行由基因指定的細胞功能。基因表達的調控可以在<span style="color:#60a5fa">轉錄（transcription）</span>、<span style="color:#e2e8f0">RNA</span> 加工和<span style="color:#60a5fa">翻譯（translation）</span>的任何環節發生。
 
-### 啟動子控制基因表達
+### <span style="color:#e2e8f0">啟動子</span>控制基因表達
 
-細胞蛋白質的合成是一個複雜的過程，從 DNA 轉錄為 RNA 開始。DNA 的轉錄受存在於基因啟動子中的調控元件控制（Figure 3-13）。在真核生物（包括所有哺乳動物）中，基本啟動子由一組鹼基序列（TATAAA）組成，稱為 TATA 盒，是 TATA 結合蛋白和幾種其他重要轉錄因子的結合位點，統稱為轉錄因子 IID 複合體。除轉錄因子 IID 複合體外，轉錄因子 IIB 也在此區域結合到 DNA 和 RNA 聚合酶 2 上，促進 DNA 轉錄為 RNA。這個基本啟動子存在於所有蛋白質編碼基因中，聚合酶必須先與這個基本啟動子結合，才能開始沿著 DNA 鏈移動合成 RNA。
+細胞蛋白質的合成是一個複雜的過程，從 <span style="color:#e2e8f0">DNA</span> <span style="color:#60a5fa">轉錄（transcription）</span>為 <span style="color:#e2e8f0">RNA</span> 開始。<span style="color:#e2e8f0">DNA</span> 的<span style="color:#60a5fa">轉錄（transcription）</span>受存在於基因<span style="color:#e2e8f0">啟動子</span>中的調控元件控制（Figure 3-13）。在真核生物（包括所有哺乳動物）中，基本<span style="color:#e2e8f0">啟動子</span>由一組鹼基序列（TATAAA）組成，稱為 TATA 盒，是 TATA 結合蛋白和幾種其他重要<span style="color:#60a5fa">轉錄（transcription）</span>因子的結合位點，統稱為<span style="color:#60a5fa">轉錄（transcription）</span>因子 IID 複合體。除<span style="color:#60a5fa">轉錄（transcription）</span>因子 IID 複合體外，<span style="color:#60a5fa">轉錄（transcription）</span>因子 IIB 也在此區域結合到 <span style="color:#e2e8f0">DNA</span> 和 <span style="color:#e2e8f0">RNA</span> 聚合酶 2 上，促進 <span style="color:#e2e8f0">DNA</span> <span style="color:#60a5fa">轉錄（transcription）</span>為 <span style="color:#e2e8f0">RNA</span>。這個基本<span style="color:#e2e8f0">啟動子</span>存在於所有蛋白質編碼基因中，聚合酶必須先與這個基本<span style="color:#e2e8f0">啟動子</span>結合，才能開始沿著 <span style="color:#e2e8f0">DNA</span> 鏈移動合成 <span style="color:#e2e8f0">RNA</span>。
 
-上游啟動子位於轉錄起始點更遠的上游，包含多個正性或負性轉錄因子的結合位點，這些轉錄因子透過與結合到基本啟動子的蛋白質相互作用來影響轉錄。上游啟動子的結構和轉錄因子結合位點因基因而異，導致不同組織中基因的不同表達模式。
+上游<span style="color:#e2e8f0">啟動子</span>位於<span style="color:#60a5fa">轉錄（transcription）</span>起始點更遠的上游，包含多個正性或負性<span style="color:#60a5fa">轉錄（transcription）</span>因子的結合位點，這些<span style="color:#60a5fa">轉錄（transcription）</span>因子透過與結合到基本<span style="color:#e2e8f0">啟動子</span>的蛋白質相互作用來影響<span style="color:#60a5fa">轉錄（transcription）</span>。上游<span style="color:#e2e8f0">啟動子</span>的結構和<span style="color:#60a5fa">轉錄（transcription）</span>因子結合位點因基因而異，導致不同組織中基因的不同表達模式。
 
-真核生物中基因的轉錄也受增強子影響，增強子是能夠結合轉錄因子的 DNA 區域。增強子可以位於它們作用的基因很遠的地方，甚至位於不同的染色體上。它們也可以位於它們調節基因的上游或下游。雖然增強子可能遠離其目標基因，但當 DNA 在細胞核中盤繞時可能相對較近。估計人類基因組中有超過 100,000 個基因增強子序列。
+真核生物中基因的<span style="color:#60a5fa">轉錄（transcription）</span>也受<span style="color:#e2e8f0">增強子</span>影響，<span style="color:#e2e8f0">增強子</span>是能夠結合<span style="color:#60a5fa">轉錄（transcription）</span>因子的 <span style="color:#e2e8f0">DNA</span> 區域。<span style="color:#e2e8f0">增強子</span>可以位於它們作用的基因很遠的地方，甚至位於不同的<span style="color:#22d3ee">染色體</span>上。它們也可以位於它們調節基因的上游或下游。雖然<span style="color:#e2e8f0">增強子</span>可能遠離其目標基因，但當 <span style="color:#e2e8f0">DNA</span> 在細胞核中盤繞時可能相對較近。估計人類基因組中有超過 100,000 個基因<span style="color:#e2e8f0">增強子</span>序列。
 
-在染色體的組織中，將正在轉錄的活性基因與被抑制的基因分開是很重要的。由於多個基因可能位於染色體上彼此靠近的位置，這種分離具有挑戰性。這種分離是透過染色體絕緣子實現的。這些絕緣子是基因序列，提供屏障，使特定基因免受周圍基因的轉錄影響。絕緣子在其 DNA 序列和與它們結合的蛋白質方面可能有很大差異。一種可以調節絕緣子活性的方式是 DNA 甲基化，哺乳動物胰島素樣生長因子 2（IGF-2）基因就是這種情況。母親的等位基因在增強子和基因啟動子之間有一個絕緣子，允許轉錄抑制因子的結合。然而，父本 DNA 序列是甲基化的，使轉錄抑制因子無法與絕緣子結合，IGF-2 基因從父本拷貝的基因中表達。
+在<span style="color:#22d3ee">染色體</span>的組織中，將正在<span style="color:#60a5fa">轉錄（transcription）</span>的活性基因與被抑制的基因分開是很重要的。由於多個基因可能位於<span style="color:#22d3ee">染色體</span>上彼此靠近的位置，這種分離具有挑戰性。這種分離是透過<span style="color:#22d3ee">染色體</span>絕緣子實現的。這些絕緣子是基因序列，提供屏障，使特定基因免受周圍基因的<span style="color:#60a5fa">轉錄（transcription）</span>影響。絕緣子在其 <span style="color:#e2e8f0">DNA</span> 序列和與它們結合的蛋白質方面可能有很大差異。一種可以調節絕緣子活性的方式是 <span style="color:#e2e8f0">DNA</span> 甲基化，哺乳動物胰島素樣生長因子 2（IGF-2）基因就是這種情況。母親的等位基因在<span style="color:#e2e8f0">增強子</span>和基因<span style="color:#e2e8f0">啟動子</span>之間有一個絕緣子，允許<span style="color:#60a5fa">轉錄（transcription）</span>抑制因子的結合。然而，父本 <span style="color:#e2e8f0">DNA</span> 序列是甲基化的，使<span style="color:#60a5fa">轉錄（transcription）</span>抑制因子無法與絕緣子結合，IGF-2 基因從父本拷貝的基因中表達。
 
-### 啟動子轉錄控制的其他機制
+### <span style="color:#e2e8f0">啟動子</span><span style="color:#60a5fa">轉錄（transcription）</span>控制的其他機制
 
-在過去三十年中發現了啟動子控制基本機制的變化。在此不作詳細說明，只列出一些：
+在過去三十年中發現了<span style="color:#e2e8f0">啟動子</span>控制基本機制的變化。在此不作詳細說明，只列出一些：
 
-1. 啟動子常受位於基因組其他地方的轉錄因子控制。即，調節基因導致調節蛋白的形成，然後調節蛋白依次作為轉錄的活化劑或抑制劑。
-2. 有時多個不同的啟動子同時由同一種調節蛋白控制。在某些情況下，同一調節蛋白對一個啟動子作為活化劑，對另一個啟動子作為抑制劑。
-3. 有些蛋白質的控制不在 DNA 鏈上的轉錄起始點，而是在沿鏈更遠的地方。有時控制甚至不在 DNA 鏈本身，而是在 RNA 分子在細胞核中加工並釋放到細胞質之前的過程中。控制也可能發生在核糖體翻譯過程中細胞質中蛋白質形成的水平。
-4. 在有核細胞中，核 DNA 包裝在特定的結構單位——染色體中。在每條染色體內，DNA 圍繞稱為組織蛋白的小蛋白質纏繞，這些組織蛋白又被其他蛋白質緊密壓縮在一起。只要 DNA 處於這種壓縮狀態，它就不能作為形成 RNA 或複製新 DNA 的模板。然而，發現了多種控制機制，可以使染色體的選定區域一次一個地解壓縮，使部分 RNA 轉錄可以發生。即使那樣，特定的轉錄因子也控制啟動子在染色體中的實際轉錄速率。因此，更高層次的控制被用來建立適當的細胞功能。此外，來自細胞外部的信號（如本書討論的一些激素）也可以透過活化或抑制一個或多個細胞內控制系統來控制細胞的化學機械功能。
+1. <span style="color:#e2e8f0">啟動子</span>常受位於基因組其他地方的<span style="color:#60a5fa">轉錄（transcription）</span>因子控制。即，調節基因導致調節蛋白的形成，然後調節蛋白依次作為<span style="color:#60a5fa">轉錄（transcription）</span>的活化劑或抑制劑。
+2. 有時多個不同的<span style="color:#e2e8f0">啟動子</span>同時由同一種調節蛋白控制。在某些情況下，同一調節蛋白對一個<span style="color:#e2e8f0">啟動子</span>作為活化劑，對另一個<span style="color:#e2e8f0">啟動子</span>作為抑制劑。
+3. 有些蛋白質的控制不在 <span style="color:#e2e8f0">DNA</span> 鏈上的<span style="color:#60a5fa">轉錄（transcription）</span>起始點，而是在沿鏈更遠的地方。有時控制甚至不在 <span style="color:#e2e8f0">DNA</span> 鏈本身，而是在 <span style="color:#e2e8f0">RNA</span> 分子在細胞核中加工並釋放到細胞質之前的過程中。控制也可能發生在<span style="color:#22d3ee">核糖體</span><span style="color:#60a5fa">翻譯（translation）</span>過程中細胞質中蛋白質形成的水平。
+4. 在有核細胞中，核 <span style="color:#e2e8f0">DNA</span> 包裝在特定的結構單位——<span style="color:#22d3ee">染色體</span>中。在每條<span style="color:#22d3ee">染色體</span>內，<span style="color:#e2e8f0">DNA</span> 圍繞稱為組織蛋白的小蛋白質纏繞，這些組織蛋白又被其他蛋白質緊密壓縮在一起。只要 <span style="color:#e2e8f0">DNA</span> 處於這種壓縮狀態，它就不能作為形成 <span style="color:#e2e8f0">RNA</span> 或複製新 <span style="color:#e2e8f0">DNA</span> 的模板。然而，發現了多種控制機制，可以使<span style="color:#22d3ee">染色體</span>的選定區域一次一個地解壓縮，使部分 <span style="color:#e2e8f0">RNA</span> <span style="color:#60a5fa">轉錄（transcription）</span>可以發生。即使那樣，特定的<span style="color:#60a5fa">轉錄（transcription）</span>因子也控制<span style="color:#e2e8f0">啟動子</span>在<span style="color:#22d3ee">染色體</span>中的實際<span style="color:#60a5fa">轉錄（transcription）</span>速率。因此，更高層次的控制被用來建立適當的細胞功能。此外，來自細胞外部的信號（如本書討論的一些激素）也可以透過活化或抑制一個或多個細胞內控制系統來控制細胞的化學機械功能。
 
-由於每個人類細胞中有數千個不同的基因，基因活性可以控制的方式數量眾多並不令人驚訝。基因控制系統對於控制細胞內胺基酸、胺基酸衍生物以及碳水化合物、脂肪和蛋白質代謝的中間體和產物的濃度特別重要。
+由於每個人類細胞中有數千個不同的基因，基因活性可以控制的方式數量眾多並不令人驚訝。基因控制系統對於控制細胞內<span style="color:#e2e8f0">胺基酸</span>、<span style="color:#e2e8f0">胺基酸</span>衍生物以及碳水化合物、脂肪和蛋白質代謝的中間體和產物的濃度特別重要。
 
 ## 透過酶調控控制細胞功能
 
-除了透過基因調控控制細胞功能外，細胞活動也受直接作用於特定細胞內酶的細胞內抑制劑或活化劑控制。因此，酶調控代表著控制細胞生化功能的第二類機制。
+除了透過<span style="color:#60a5fa">基因調控</span>控制細胞功能外，細胞活動也受直接作用於特定細胞內酶的細胞內抑制劑或活化劑控制。因此，酶調控代表著控制細胞生化功能的第二類機制。
 
 ### 酶抑制
 
 細胞中形成的一些化學物質具有直接反饋作用，抑制合成它們的特定酶系統。幾乎總是合成的產物作用於序列中的第一個酶，而非後續的酶，通常直接與酶結合並引起使其失活的變構構象變化。可以很容易地識別失活第一個酶的重要性，因為這防止了未被使用的中間產物的積累。
 
-酶抑制是負反饋控制的另一個例子。它負責控制多種胺基酸、purines、pyrimidines、維生素和其他物質的細胞內濃度。
+酶抑制是負反饋控制的另一個例子。它負責控制多種<span style="color:#e2e8f0">胺基酸</span>、purines、pyrimidines、維生素和其他物質的細胞內濃度。
 
 ### 酶活化
 
-通常處於非活性狀態的酶在需要時可以被活化。一個例子是當細胞中大部分 ATP 被耗盡時。在這種情況下，大量 cyclic adenosine monophosphate（cAMP）開始作為 ATP 的分解產物形成。cAMP 的存在進而立即活化糖原分解酶——phosphorylase，釋放葡萄糖分子，這些分子迅速被代謝，其能量用於補充 ATP 儲存。因此，cAMP 作為 phosphorylase 的酶活化劑，幫助控制細胞內 ATP 濃度。
+通常處於非活性狀態的酶在需要時可以被活化。一個例子是當細胞中大部分 ATP 被耗盡時。在這種情況下，大量 cyclic adenosine monophosphate（<span style="color:#e2e8f0">cAMP</span>）開始作為 ATP 的分解產物形成。<span style="color:#e2e8f0">cAMP</span> 的存在進而立即活化糖原分解酶——phosphorylase，釋放葡萄糖分子，這些分子迅速被代謝，其能量用於補充 ATP 儲存。因此，<span style="color:#e2e8f0">cAMP</span> 作為 phosphorylase 的酶活化劑，幫助控制細胞內 ATP 濃度。
 
-另一個酶抑制和酶活化都涉及的有趣例子發生在 purines 和 pyrimidines 的形成中。這些物質是細胞合成 DNA 和 RNA 所需的大致等量的物質。當 purines 形成時，它們抑制形成額外 purines 所需的酶。然而，它們活化形成 pyrimidines 的酶。相反，pyrimidines 抑制它們自己的酶，但活化 purine 酶。這樣，這兩種物質的合成系統之間持續有交叉對話，結果幾乎在所有時刻細胞中兩種物質的數量都完全相等。
+另一個酶抑制和酶活化都涉及的有趣例子發生在 purines 和 pyrimidines 的形成中。這些物質是細胞合成 <span style="color:#e2e8f0">DNA</span> 和 <span style="color:#e2e8f0">RNA</span> 所需的大致等量的物質。當 purines 形成時，它們抑制形成額外 purines 所需的酶。然而，它們活化形成 pyrimidines 的酶。相反，pyrimidines 抑制它們自己的酶，但活化 purine 酶。這樣，這兩種物質的合成系統之間持續有交叉對話，結果幾乎在所有時刻細胞中兩種物質的數量都完全相等。
 
 ### 總結
 
 細胞控制不同細胞成分的適當比例和數量有兩個主要機制：
 
-1. 基因調控
+1. <span style="color:#60a5fa">基因調控</span>
 2. 酶調控
 
 基因可以被活化或抑制，同樣，酶系統也可以被活化或抑制。這些調控機制通常作為反饋控制系統功能，不斷監測細胞的生化組成並根據需要進行修正。然而，偶爾來自細胞外部的物質（尤其是本書討論的一些激素）也可以透過活化或抑制一個或多個細胞內控制系統來控制細胞內的生化反應。
 
-## DNA——遺傳系統控制細胞增殖
+## <span style="color:#e2e8f0">DNA</span>——遺傳系統控制細胞增殖
 
-細胞增殖是 DNA——遺傳系統在所有生命過程中普遍作用的另一個例子。基因及其調控機制決定細胞的生長特徵以及細胞是否或何時分裂形成新細胞。這樣，這個至關重要的遺傳系統控制著人類發育的每個階段，從單細胞受精卵到整個機能體。因此，如果說生命有一個核心主題，那就是 DNA——遺傳系統。
+細胞增殖是 <span style="color:#e2e8f0">DNA</span>——遺傳系統在所有生命過程中普遍作用的另一個例子。基因及其調控機制決定細胞的生長特徵以及細胞是否或何時分裂形成新細胞。這樣，這個至關重要的遺傳系統控制著人類發育的每個階段，從單細胞受精卵到整個機能體。因此，如果說生命有一個核心主題，那就是 <span style="color:#e2e8f0">DNA</span>——遺傳系統。
 
 ### 細胞的生命週期
 
@@ -234,75 +234,75 @@ NH₂         C-R
 
 除了快速細胞增殖的特殊條件外，抑制因素幾乎總是減慢或停止細胞的不受抑制的生命週期。因此，身體不同細胞的實際生命週期差異很大，從高度刺激的骨髓細胞的短至 10 小時到許多神經細胞的整個人體壽命。
 
-### 細胞增殖從 DNA 複製開始
+### 細胞增殖從 <span style="color:#e2e8f0">DNA</span> 複製開始
 
-細胞增殖的第一步是染色體中所有 DNA 的複製（複製）。只有在這種複製發生後，有絲分裂才能進行。
+細胞增殖的第一步是<span style="color:#22d3ee">染色體</span>中所有 <span style="color:#e2e8f0">DNA</span> 的複製（複製）。只有在這種複製發生後，有絲分裂才能進行。
 
-DNA 在有絲分裂前 5 至 10 小時開始複製，複製在 4 至 8 小時內完成。最終結果是所有 DNA 的兩個精確拷貝。這些拷貝成為將在有絲分裂中形成的兩個新子細胞中的 DNA。DNA 複製完成後，在有絲分裂突然開始之前還有 1 至 2 小時的另一段時期。即使在這段時期，導致有絲分裂的初步變化也開始發生。
+<span style="color:#e2e8f0">DNA</span> 在有絲分裂前 5 至 10 小時開始複製，複製在 4 至 8 小時內完成。最終結果是所有 <span style="color:#e2e8f0">DNA</span> 的兩個精確拷貝。這些拷貝成為將在有絲分裂中形成的兩個新子細胞中的 <span style="color:#e2e8f0">DNA</span>。<span style="color:#e2e8f0">DNA</span> 複製完成後，在有絲分裂突然開始之前還有 1 至 2 小時的另一段時期。即使在這段時期，導致有絲分裂的初步變化也開始發生。
 
-### DNA 複製
+### <span style="color:#e2e8f0">DNA</span> 複製
 
-DNA 複製的方式與 RNA 從 DNA 轉錄的方式大致相同，但有幾個重要差異：
+<span style="color:#e2e8f0">DNA</span> 複製的方式與 <span style="color:#e2e8f0">RNA</span> 從 <span style="color:#e2e8f0">DNA</span> <span style="color:#60a5fa">轉錄（transcription）</span>的方式大致相同，但有幾個重要差異：
 
-1. 每條染色體中的 DNA 兩條鏈都被複製，而非僅一條。
-2. 兩條 DNA 螺旋的整條鏈都是從頭到尾複製，而非像 RNA 轉錄那樣只複製小片段。
-3. 複製 DNA 需要多種稱為 DNA 聚合酶的酶，這與 RNA 聚合酶相當。DNA 聚合酶附著在 DNA 模板鏈上並沿其移動，以 5' 到 3' 的方向添加核苷酸。另一種酶——DNA 連接酶——使用高能磷酸鍵能量，使相繼的 DNA 核苷酸相互連接。
-4. **複製叉形成。** 在 DNA 可以被複製之前，雙股分子必須被「解開」成兩條單鏈（Figure 3-15）。因為每條染色體中的 DNA 螺旋約長 6 厘米，有數百萬個螺旋圈，如果沒有一些特殊機制，兩個新形成的 DNA 螺旋將無法彼此解開。這種解開是由 DNA 解旋酶實現的，它們打破鹼基對之間的氫鍵，使兩條鏈分離成 Y 形，稱為複製叉，這是複製開始的模板區域。DNA 在兩條鏈上都有方向性，由 5' 和 3' 端表示（見 Figure 3-15）。複製只沿 5' 到 3' 方向進行。在複製叉處，一條鏈——前導鏈——以 3' 到 5' 的方向指向複製叉，而落後鏈以 5' 到 3' 的方向遠離複製叉。由於方向不同，兩條鏈的複製方式也不同。
-5. **引子結合。** 一旦 DNA 鏈分開，一段稱為 RNA 引子的短 RNA 片段結合到前導鏈的 3' 端。引子由 DNA 引子酶產生。引子總是作為 DNA 複製的起點。
-6. **延伸。** DNA 聚合酶負責透過稱為延伸的過程創建新鏈。因為複製在前導鏈上沿 5' 到 3' 方向進行，新形成的鏈是連續的。落後鏈透過結合多個引子來開始複製，這些引子僅相隔幾個鹼基。DNA 聚合酶然後在引子之間的鏈上添加稱為岡崎片段的 DNA 片段。這種複製過程是不連續的，因為新形成的岡崎片段尚未連接。一種酶——DNA 連接酶——將岡崎片段連接成一條統一的鏈。
-7. **終止。** 連續鏈和非連續鏈都形成後，外切酶去除原始鏈上的 RNA 引子，並用適當的鹼基替換。另一種外切酶「校對」新形成的 DNA，檢查並剪掉任何不匹配或未配對的鹼基。
+1. 每條<span style="color:#22d3ee">染色體</span>中的 <span style="color:#e2e8f0">DNA</span> 兩條鏈都被複製，而非僅一條。
+2. 兩條 <span style="color:#e2e8f0">DNA</span> 螺旋的整條鏈都是從頭到尾複製，而非像 <span style="color:#e2e8f0">RNA</span> <span style="color:#60a5fa">轉錄（transcription）</span>那樣只複製小片段。
+3. 複製 <span style="color:#e2e8f0">DNA</span> 需要多種稱為 <span style="color:#e2e8f0">DNA</span> 聚合酶的酶，這與 <span style="color:#e2e8f0">RNA</span> 聚合酶相當。<span style="color:#e2e8f0">DNA</span> 聚合酶附著在 <span style="color:#e2e8f0">DNA</span> 模板鏈上並沿其移動，以 5' 到 3' 的方向添加核苷酸。另一種酶——<span style="color:#e2e8f0">DNA</span> 連接酶——使用高能磷酸鍵能量，使相繼的 <span style="color:#e2e8f0">DNA</span> 核苷酸相互連接。
+4. **複製叉形成。** 在 <span style="color:#e2e8f0">DNA</span> 可以被複製之前，雙股分子必須被「解開」成兩條單鏈（Figure 3-15）。因為每條<span style="color:#22d3ee">染色體</span>中的 <span style="color:#e2e8f0">DNA</span> 螺旋約長 6 厘米，有數百萬個螺旋圈，如果沒有一些特殊機制，兩個新形成的 <span style="color:#e2e8f0">DNA</span> 螺旋將無法彼此解開。這種解開是由 <span style="color:#e2e8f0">DNA</span> 解旋酶實現的，它們打破鹼基對之間的氫鍵，使兩條鏈分離成 Y 形，稱為複製叉，這是複製開始的模板區域。<span style="color:#e2e8f0">DNA</span> 在兩條鏈上都有方向性，由 5' 和 3' 端表示（見 Figure 3-15）。複製只沿 5' 到 3' 方向進行。在複製叉處，一條鏈——前導鏈——以 3' 到 5' 的方向指向複製叉，而落後鏈以 5' 到 3' 的方向遠離複製叉。由於方向不同，兩條鏈的複製方式也不同。
+5. **引子結合。** 一旦 <span style="color:#e2e8f0">DNA</span> 鏈分開，一段稱為 <span style="color:#e2e8f0">RNA</span> 引子的短 <span style="color:#e2e8f0">RNA</span> 片段結合到前導鏈的 3' 端。引子由 <span style="color:#e2e8f0">DNA</span> 引子酶產生。引子總是作為 <span style="color:#e2e8f0">DNA</span> 複製的起點。
+6. **延伸。** <span style="color:#e2e8f0">DNA</span> 聚合酶負責透過稱為延伸的過程創建新鏈。因為複製在前導鏈上沿 5' 到 3' 方向進行，新形成的鏈是連續的。落後鏈透過結合多個引子來開始複製，這些引子僅相隔幾個鹼基。<span style="color:#e2e8f0">DNA</span> 聚合酶然後在引子之間的鏈上添加稱為岡崎片段的 <span style="color:#e2e8f0">DNA</span> 片段。這種複製過程是不連續的，因為新形成的岡崎片段尚未連接。一種酶——<span style="color:#e2e8f0">DNA</span> 連接酶——將岡崎片段連接成一條統一的鏈。
+7. **終止。** 連續鏈和非連續鏈都形成後，外切酶去除原始鏈上的 <span style="color:#e2e8f0">RNA</span> 引子，並用適當的鹼基替換。另一種外切酶「校對」新形成的 <span style="color:#e2e8f0">DNA</span>，檢查並剪掉任何不匹配或未配對的鹼基。
 
-另一種酶——拓撲異構酶——可以暫時切斷 DNA 鏈骨架中的磷酸二酯鍵，防止複製叉前方的 DNA 過度纏繞。這個反應是可逆的，當拓撲異構酶離開時，磷酸二酯鍵重新形成。
+另一種酶——拓撲異構酶——可以暫時切斷 <span style="color:#e2e8f0">DNA</span> 鏈骨架中的磷酸二酯鍵，防止複製叉前方的 <span style="color:#e2e8f0">DNA</span> 過度纏繞。這個反應是可逆的，當拓撲異構酶離開時，磷酸二酯鍵重新形成。
 
-一旦完成，父本鏈及其互補 DNA 鏈纏繞成雙螺旋形狀。因此，複製過程產生兩個 DNA 分子，每個都有一條來自父本 DNA 的鏈和一條全新的鏈。因此，DNA 複製常被描述為半保留複製；一半的鏈是原始 DNA 分子的一部分，一半是全新的。
+一旦完成，父本鏈及其互補 <span style="color:#e2e8f0">DNA</span> 鏈纏繞成雙螺旋形狀。因此，複製過程產生兩個 <span style="color:#e2e8f0">DNA</span> 分子，每個都有一條來自父本 <span style="color:#e2e8f0">DNA</span> 的鏈和一條全新的鏈。因此，<span style="color:#e2e8f0">DNA</span> 複製常被描述為半保留複製；一半的鏈是原始 <span style="color:#e2e8f0">DNA</span> 分子的一部分，一半是全新的。
 
-### DNA 修復、DNA「校對」和「突變」
+### <span style="color:#e2e8f0">DNA</span> 修復、<span style="color:#e2e8f0">DNA</span>「校對」和「突變」
 
-在 DNA 複製結束到有絲分裂開始之間的大約一小時或更長時間內，是 DNA 鏈主動修復和「校對」的時期。只要不適當的 DNA 核苷酸與原始模板鏈的核苷酸匹配的地方，特殊酶就會切除缺陷區域並用適當的互補核苷酸替換。這個修復過程，透過與複製中使用的相同的 DNA 聚合酶和 DNA 連接酶實現，稱為 DNA 校對。
+在 <span style="color:#e2e8f0">DNA</span> 複製結束到有絲分裂開始之間的大約一小時或更長時間內，是 <span style="color:#e2e8f0">DNA</span> 鏈主動修復和「校對」的時期。只要不適當的 <span style="color:#e2e8f0">DNA</span> 核苷酸與原始模板鏈的核苷酸匹配的地方，特殊酶就會切除缺陷區域並用適當的互補核苷酸替換。這個修復過程，透過與複製中使用的相同的 <span style="color:#e2e8f0">DNA</span> 聚合酶和 <span style="color:#e2e8f0">DNA</span> 連接酶實現，稱為 <span style="color:#e2e8f0">DNA</span> 校對。
 
-由於修復和校對，在 DNA 複製過程中很少犯錯。當犯錯時，稱為突變。突變可能導致細胞形成一些異常蛋白質而非所需的蛋白質，這可能導致細胞功能異常，有時甚至細胞死亡。考慮到人類基因組中存在數千個基因，以及從人類一代到下一代的時期約為 30 年，在基因組從父母傳遞給後代的過程中，人們預期會有 10 個或更多突變。然而，作為進一步的保護，每個人類基因組由兩套分離的染色體代表，一套來自父親，一套來自母親，基因幾乎完全相同。因此，儘管有突變，每對中的一個功能基因幾乎總是可供孩子使用。
+由於修復和校對，在 <span style="color:#e2e8f0">DNA</span> 複製過程中很少犯錯。當犯錯時，稱為突變。突變可能導致細胞形成一些異常蛋白質而非所需的蛋白質，這可能導致細胞功能異常，有時甚至細胞死亡。考慮到人類基因組中存在數千個基因，以及從人類一代到下一代的時期約為 30 年，在基因組從父母傳遞給後代的過程中，人們預期會有 10 個或更多突變。然而，作為進一步的保護，每個人類基因組由兩套分離的<span style="color:#22d3ee">染色體</span>代表，一套來自父親，一套來自母親，基因幾乎完全相同。因此，儘管有突變，每對中的一個功能基因幾乎總是可供孩子使用。
 
-## 染色體及其複製
+## <span style="color:#22d3ee">染色體</span>及其複製
 
-細胞核中的 DNA 螺旋包裝在染色體中。人類細胞含有 46 條染色體，排列成 23 對。大多數每對兩條染色體中的基因彼此相同或幾乎相同，因此通常說不同的基因也成對存在，儘管偶爾並非如此。
+細胞核中的 <span style="color:#e2e8f0">DNA</span> 螺旋包裝在<span style="color:#22d3ee">染色體</span>中。人類細胞含有 46 條<span style="color:#22d3ee">染色體</span>，排列成 23 對。大多數每對兩條<span style="color:#22d3ee">染色體</span>中的基因彼此相同或幾乎相同，因此通常說不同的基因也成對存在，儘管偶爾並非如此。
 
-除 DNA 外，染色體中還有大量蛋白質，主要由帶正電荷的組織蛋白的許多小分子組成。組織蛋白被組織成大量的小線軸狀核心。每條 DNA 螺旋的片段連續纏繞在一個又一個核心上。
+除 <span style="color:#e2e8f0">DNA</span> 外，<span style="color:#22d3ee">染色體</span>中還有大量蛋白質，主要由帶正電荷的組織蛋白的許多小分子組成。組織蛋白被組織成大量的小線軸狀核心。每條 <span style="color:#e2e8f0">DNA</span> 螺旋的片段連續纏繞在一個又一個核心上。
 
-組織蛋白核心在 DNA 活性調控中起重要作用，因為只要 DNA 被緊密包裝，它就不能作為形成 RNA 或複製新 DNA 的模板。此外，一些調節蛋白使 DNA 的組織蛋白包裝解壓縮，一次允許一小段形成 RNA。
+組織蛋白核心在 <span style="color:#e2e8f0">DNA</span> 活性調控中起重要作用，因為只要 <span style="color:#e2e8f0">DNA</span> 被緊密包裝，它就不能作為形成 <span style="color:#e2e8f0">RNA</span> 或複製新 <span style="color:#e2e8f0">DNA</span> 的模板。此外，一些調節蛋白使 <span style="color:#e2e8f0">DNA</span> 的組織蛋白包裝解壓縮，一次允許一小段形成 <span style="color:#e2e8f0">RNA</span>。
 
-幾種非組織蛋白也是染色體的主要成分，作為染色體結構蛋白，以及與遺傳調節機制相關的活化劑、抑制劑和酶。
+幾種非組織蛋白也是<span style="color:#22d3ee">染色體</span>的主要成分，作為<span style="color:#22d3ee">染色體</span>結構蛋白，以及與遺傳調節機制相關的活化劑、抑制劑和酶。
 
-染色體的完整複製在 DNA 螺旋複製完成後的幾分鐘內進行；新形成的 DNA 螺旋根據需要收集新的蛋白質分子。兩條新形成的染色體在稱為著絲粒的中心點附近保持連接（直到有絲分裂時）。這些複製但仍連接的染色體稱為染色分體。
+<span style="color:#22d3ee">染色體</span>的完整複製在 <span style="color:#e2e8f0">DNA</span> 螺旋複製完成後的幾分鐘內進行；新形成的 <span style="color:#e2e8f0">DNA</span> 螺旋根據需要收集新的蛋白質分子。兩條新形成的<span style="color:#22d3ee">染色體</span>在稱為著絲粒的中心點附近保持連接（直到有絲分裂時）。這些複製但仍連接的<span style="color:#22d3ee">染色體</span>稱為染色分體。
 
 ## 細胞有絲分裂
 
-細胞分裂成兩個新細胞的實際過程稱為有絲分裂。一旦每條染色體被複製形成兩個染色分體，有絲分裂在許多細胞中就會在 1 或 2 小時內自動進行。
+細胞分裂成兩個新細胞的實際過程稱為有絲分裂。一旦每條<span style="color:#22d3ee">染色體</span>被複製形成兩個染色分體，有絲分裂在許多細胞中就會在 1 或 2 小時內自動進行。
 
-### 有絲分裂器：中心粒的功能
+### 有絲分裂器：<span style="color:#22d3ee">中心粒</span>的功能
 
-有絲分裂最早的事件之一發生在細胞質中，位於間期後期的小結構——中心粒——內或其附近。如 Figure 3-14 所示，兩對中心粒位於細胞核一極附近彼此靠近的地方。這些中心粒與 DNA 和染色體一樣，也在間期複製，通常在 DNA 複製後不久。每個中心粒是一個約 0.4 微米長、直徑約 0.15 微米的小圓柱體，主要由九個平行管狀結構組成，排列成圓柱形。每對的兩個中心粒彼此成直角排列。每對中心粒與周圍中心粒物質一起稱為中心體。
+有絲分裂最早的事件之一發生在細胞質中，位於間期後期的小結構——<span style="color:#22d3ee">中心粒</span>——內或其附近。如 Figure 3-14 所示，兩對<span style="color:#22d3ee">中心粒</span>位於細胞核一極附近彼此靠近的地方。這些<span style="color:#22d3ee">中心粒</span>與 <span style="color:#e2e8f0">DNA</span> 和<span style="color:#22d3ee">染色體</span>一樣，也在間期複製，通常在 <span style="color:#e2e8f0">DNA</span> 複製後不久。每個<span style="color:#22d3ee">中心粒</span>是一個約 0.4 微米長、直徑約 0.15 微米的小圓柱體，主要由九個平行管狀結構組成，排列成圓柱形。每對的兩個<span style="color:#22d3ee">中心粒</span>彼此成直角排列。每對<span style="color:#22d3ee">中心粒</span>與周圍<span style="color:#22d3ee">中心粒</span>物質一起稱為中心體。
 
-有絲分裂前不久，兩對中心粒開始彼此分開。這種運動是由在相應中心粒對之間生長並實際推動它們分開的蛋白質微管聚合引起的。同時，其他微管從每對中心粒徑向生長，形成稱為星狀體的刺狀星，在細胞兩端。星狀體的一些刺穿透核膜，幫助有絲分裂期間分離兩套染色分體。在兩個新中心粒對之間延伸的微管複合體稱為紡錘體，整套微管加上兩對中心粒稱為有絲分裂器。
+有絲分裂前不久，兩對<span style="color:#22d3ee">中心粒</span>開始彼此分開。這種運動是由在相應<span style="color:#22d3ee">中心粒</span>對之間生長並實際推動它們分開的蛋白質微管聚合引起的。同時，其他微管從每對<span style="color:#22d3ee">中心粒</span>徑向生長，形成稱為星狀體的刺狀星，在細胞兩端。星狀體的一些刺穿透<span style="color:#22d3ee">核膜</span>，幫助有絲分裂期間分離兩套染色分體。在兩個新<span style="color:#22d3ee">中心粒</span>對之間延伸的微管複合體稱為<span style="color:#22d3ee">紡錘體</span>，整套微管加上兩對<span style="color:#22d3ee">中心粒</span>稱為有絲分裂器。
 
 ### 前期
 
-有絲分裂的第一階段，稱為前期，如 Figure 3-14 A、B 和 C 所示。當紡錘體形成時，細胞核的染色體（在間期由鬆散纏繞的鏈組成）濃縮成定義明確的染色體。
+有絲分裂的第一階段，稱為前期，如 Figure 3-14 A、B 和 C 所示。當<span style="color:#22d3ee">紡錘體</span>形成時，細胞核的<span style="color:#22d3ee">染色體</span>（在間期由鬆散纏繞的鏈組成）濃縮成定義明確的<span style="color:#22d3ee">染色體</span>。
 
 ### 前期中期
 
-在前期中期階段（見 Figure 3-14D），正在生長的星狀體微管刺使核膜碎片。同時，來自星狀體的多個微管附著到仍相互連接的染色分體的著絲粒上。然後微管將每對中的一個染色分體拉向一個細胞極，其配對物拉向另一個極。
+在前期中期階段（見 Figure 3-14D），正在生長的星狀體微管刺使<span style="color:#22d3ee">核膜</span>碎片。同時，來自星狀體的多個微管附著到仍相互連接的染色分體的著絲粒上。然後微管將每對中的一個染色分體拉向一個細胞極，其配對物拉向另一個極。
 
 ### 中期
 
-在中期階段（見 Figure 3-14E），有絲分裂器的兩個星狀體被進一步推開。這種推動被認為是因為來自兩個星狀體的微管刺在它們交織在一起形成有絲分裂紡錘體的地方相互推開。同時，染色分體被它們附著的微管緊緊拉向細胞正中心，排列成有絲分裂紡錘體的赤道板。
+在中期階段（見 Figure 3-14E），有絲分裂器的兩個星狀體被進一步推開。這種推動被認為是因為來自兩個星狀體的微管刺在它們交織在一起形成有絲分裂<span style="color:#22d3ee">紡錘體</span>的地方相互推開。同時，染色分體被它們附著的微管緊緊拉向細胞正中心，排列成有絲分裂<span style="color:#22d3ee">紡錘體</span>的赤道板。
 
 ### 後期
 
-在後期階段（見 Figure 3-14F），每條染色體的兩個染色分體在著絲粒處被分開。所有 46 對染色分體被分開，形成兩套獨立的 46 條子代染色體。一套被拉向一個有絲分裂星狀體，另一套被拉向另一個極，同時分裂細胞的兩個相應極被進一步推開。
+在後期階段（見 Figure 3-14F），每條<span style="color:#22d3ee">染色體</span>的兩個染色分體在著絲粒處被分開。所有 46 對染色分體被分開，形成兩套獨立的 46 條子代<span style="color:#22d3ee">染色體</span>。一套被拉向一個有絲分裂星狀體，另一套被拉向另一個極，同時分裂細胞的兩個相應極被進一步推開。
 
 ### 末期
 
-在末期階段（見 Figure 3-14G 和 H），兩套子代染色體被完全推開。然後有絲分裂器消散，每套染色體周圍形成新的核膜。這個膜由細胞質中已存在的內質網部分形成。隨後，細胞在兩個新形成的細胞核之間的中間點收縮。這種收縮是由在正在發育的新細胞交界處形成的由肌動蛋白和可能是肌球蛋白（肌肉的兩種收縮蛋白）組成的收縮微絲環引起的，將它們彼此掐開。
+在末期階段（見 Figure 3-14G 和 H），兩套子代<span style="color:#22d3ee">染色體</span>被完全推開。然後有絲分裂器消散，每套<span style="color:#22d3ee">染色體</span>周圍形成新的<span style="color:#22d3ee">核膜</span>。這個膜由細胞質中已存在的內質網部分形成。隨後，細胞在兩個新形成的細胞核之間的中間點收縮。這種收縮是由在正在發育的新細胞交界處形成的由肌動蛋白和可能是肌球蛋白（肌肉的兩種收縮蛋白）組成的收縮微絲環引起的，將它們彼此掐開。
 
 ## 細胞生長和細胞增殖的控制
 
@@ -312,17 +312,17 @@ DNA 複製的方式與 RNA 從 DNA 轉錄的方式大致相同，但有幾個重
 
 維持身體中不同類型細胞適當數量的機制仍然知之甚少。然而，實驗表明至少有三種生長控制方式。首先，生長常受來自身體其他部位的生長因子控制。其中一些生長因子在血液中循環，但其他起源於相鄰組織。例如，某些腺體（如胰腺）的上皮細胞如果沒有來自腺體下層結締組織的生長因子就不會生長。其次，大多數正常細胞在生長空間耗盡時停止生長。當細胞在組織培養中生長時會出現這種現象；細胞生長直到接觸固體物體，然後生長停止。第三，在組織培養中生長的細胞當允許它們自己的分泌物少量積累在培養基中時經常停止生長。這種機制也可以提供負反饋控制生長的一種手段。
 
-### 端粒防止染色體降解
+### <span style="color:#60a5fa">端粒</span>防止<span style="color:#22d3ee">染色體</span>降解
 
-端粒是位於每條染色分體末端的重複核苷酸序列區域（Figure 3-16）。端粒作為保護性帽，防止染色體在細胞分裂過程中惡化。在細胞分裂期間，一段短「引子」RNA 附著到 DNA 鏈上開始複製。然而，因為引子不是附著在 DNA 鏈的最末端，拷貝缺少一小段 DNA。每當細胞分裂，拷貝的 DNA 從端粒區域丟失額外的核苷酸。因此，端粒提供的核苷酸序列可防止基因組在每次細胞分裂時逐漸丟失信息並被截斷。因此，端粒可以被視為一次性染色體緩衝器，幫助維持基因穩定性，但在重複細胞分裂過程中逐漸消耗。
+<span style="color:#60a5fa">端粒</span>是位於每條染色分體末端的重複核苷酸序列區域（Figure 3-16）。<span style="color:#60a5fa">端粒</span>作為保護性帽，防止<span style="color:#22d3ee">染色體</span>在細胞分裂過程中惡化。在細胞分裂期間，一段短「引子」<span style="color:#e2e8f0">RNA</span> 附著到 <span style="color:#e2e8f0">DNA</span> 鏈上開始複製。然而，因為引子不是附著在 <span style="color:#e2e8f0">DNA</span> 鏈的最末端，拷貝缺少一小段 <span style="color:#e2e8f0">DNA</span>。每當細胞分裂，拷貝的 <span style="color:#e2e8f0">DNA</span> 從<span style="color:#60a5fa">端粒</span>區域丟失額外的核苷酸。因此，<span style="color:#60a5fa">端粒</span>提供的核苷酸序列可防止基因組在每次細胞分裂時逐漸丟失信息並被截斷。因此，<span style="color:#60a5fa">端粒</span>可以被視為一次性<span style="color:#22d3ee">染色體</span>緩衝器，幫助維持基因穩定性，但在重複細胞分裂過程中逐漸消耗。
 
-每次細胞分裂，平均每人損失其細胞端粒末端的 30 至 200 個鹼基。在人類血細胞中，端粒長度從出生時的 8000 個鹼基對到老年人的低至 1500 不等。最終，當端粒縮短到臨界長度時，染色體變得不穩定，細胞死亡。這種端粒縮短的過程被認為是與衰老相關的一些生理變化的重要原因。端粒侵蝕也可能作為疾病的結果發生，尤其是與氧化應激和炎症相關的疾病。
+每次細胞分裂，平均每人損失其細胞<span style="color:#60a5fa">端粒</span>末端的 30 至 200 個鹼基。在人類血細胞中，<span style="color:#60a5fa">端粒</span>長度從出生時的 8000 個鹼基對到老年人的低至 1500 不等。最終，當<span style="color:#60a5fa">端粒</span>縮短到臨界長度時，<span style="color:#22d3ee">染色體</span>變得不穩定，細胞死亡。這種<span style="color:#60a5fa">端粒</span>縮短的過程被認為是與衰老相關的一些生理變化的重要原因。<span style="color:#60a5fa">端粒</span>侵蝕也可能作為疾病的結果發生，尤其是與氧化應激和炎症相關的疾病。
 
-在一些細胞中，如必須終生補充的骨髓或皮膚的幹細胞，或卵巢和睪丸中的生殖細胞，端粒酶在端粒末端添加鹼基，使更多代細胞得以產生。然而，端粒酶活性在大多數身體細胞中通常較低，許多代後，子代細胞將遺傳有缺陷的染色體，變得衰老並停止分裂。這種端粒縮短的過程在調節細胞增殖和維持基因穩定性方面很重要。在癌細胞中，端粒酶活性異常活化，使端粒長度得以維持，使細胞能夠一遍又一遍地不受控制地複製（見 Figure 3-16）。因此，一些科學家提出端粒縮短保護我們免受癌症和其他增殖性疾病的侵害。
+在一些細胞中，如必須終生補充的骨髓或皮膚的幹細胞，或卵巢和睪丸中的生殖細胞，<span style="color:#60a5fa">端粒</span>酶在<span style="color:#60a5fa">端粒</span>末端添加鹼基，使更多代細胞得以產生。然而，<span style="color:#60a5fa">端粒</span>酶活性在大多數身體細胞中通常較低，許多代後，子代細胞將遺傳有缺陷的<span style="color:#22d3ee">染色體</span>，變得衰老並停止分裂。這種<span style="color:#60a5fa">端粒</span>縮短的過程在調節細胞增殖和維持基因穩定性方面很重要。在癌細胞中，<span style="color:#60a5fa">端粒</span>酶活性異常活化，使<span style="color:#60a5fa">端粒</span>長度得以維持，使細胞能夠一遍又一遍地不受控制地複製（見 Figure 3-16）。因此，一些科學家提出<span style="color:#60a5fa">端粒</span>縮短保護我們免受癌症和其他增殖性疾病的侵害。
 
 ### 細胞大小的調節
 
-細胞大小幾乎完全由細胞核中起作用 DNA 的量決定。如果 DNA 複製不發生，細胞生長到一定大小後就保持該大小。相反，秋水仙素的使用可以阻止有絲分裂紡錘體的形成，從而阻止有絲分裂，即使 DNA 複製繼續進行。在這種情況下，細胞核含有的 DNA 量遠超正常量，細胞按比例變得更大。這種細胞生長被認為是由增加的 RNA 和細胞蛋白質產生引起的，進而導致細胞變大。
+細胞大小幾乎完全由細胞核中起作用 <span style="color:#e2e8f0">DNA</span> 的量決定。如果 <span style="color:#e2e8f0">DNA</span> 複製不發生，細胞生長到一定大小後就保持該大小。相反，秋水仙素的使用可以阻止有絲分裂<span style="color:#22d3ee">紡錘體</span>的形成，從而阻止有絲分裂，即使 <span style="color:#e2e8f0">DNA</span> 複製繼續進行。在這種情況下，細胞核含有的 <span style="color:#e2e8f0">DNA</span> 量遠超正常量，細胞按比例變得更大。這種細胞生長被認為是由增加的 <span style="color:#e2e8f0">RNA</span> 和細胞蛋白質產生引起的，進而導致細胞變大。
 
 ## 細胞分化
 
@@ -330,7 +330,7 @@ DNA 複製的方式與 RNA 從 DNA 轉錄的方式大致相同，但有幾個重
 
 當青蛙腸黏膜細胞的細胞核被手術移植到去除了原始卵核的青蛙卵中時，結果通常是形成一隻正常青蛙。這個實驗表明，即使是完全分化的腸黏膜細胞，也攜帶著發育青蛙身體所需的所有結構的所有必要的遺傳信息。
 
-因此，已經明確的是，分化不是基因丟失的結果，而是不同基因啟動子選擇性抑制的結果。實際上，電子顯微鏡照片表明，纏繞在組織蛋白核心上的某些 DNA 螺旋片段變得如此緊密，以至於它們不再展開形成 RNA 分子。一種解釋如下：已經假定細胞基因組在細胞分化的一定階段開始產生一種調節蛋白，從那時起永久抑制一組選定的基因。因此，被抑制的基因再也無法運作。無論機制如何，成熟的人類細胞每個最多產生約 8000 至 10,000 種蛋白質，而非如果所有基因都有活性會產生的潛在 20,000 至 25,000 或更多種蛋白質。
+因此，已經明確的是，分化不是基因丟失的結果，而是不同基因<span style="color:#e2e8f0">啟動子</span>選擇性抑制的結果。實際上，電子顯微鏡照片表明，纏繞在組織蛋白核心上的某些 <span style="color:#e2e8f0">DNA</span> 螺旋片段變得如此緊密，以至於它們不再展開形成 <span style="color:#e2e8f0">RNA</span> 分子。一種解釋如下：已經假定細胞基因組在細胞分化的一定階段開始產生一種調節蛋白，從那時起永久抑制一組選定的基因。因此，被抑制的基因再也無法運作。無論機制如何，成熟的人類細胞每個最多產生約 8000 至 10,000 種蛋白質，而非如果所有基因都有活性會產生的潛在 20,000 至 25,000 或更多種蛋白質。
 
 胚胎學實驗表明，胚胎中的某些細胞控制相鄰細胞的分化。例如，原始脊索中胚層被稱為胚胎的主要組織者，因為它形成了一個焦點，胚胎的其餘部分在此焦點周圍發育。它分化成包含節段排列的體節的中胚層軸，並作為對周圍組織誘導的結果，導致身體幾乎所有器官的形成。
 
@@ -338,14 +338,14 @@ DNA 複製的方式與 RNA 從 DNA 轉錄的方式大致相同，但有幾個重
 
 因此，儘管我們對細胞分化的理解仍然模糊，但我們意識到分化可能發生的許多控制機制。
 
-## 細胞凋亡——程序性細胞死亡
+## <span style="color:#60a5fa">細胞凋亡</span>——程序性細胞死亡
 
- programmed cell death，是維持組織中細胞數量平衡的受控過程。與細胞因創傷或疾病而發生的被動性壞死不同，細胞凋亡是細胞主動破壞自己的過程。這個術語源自希臘語，表示「從樹上落下」，就像秋葉凋落一般。
+ programmed cell death，是維持組織中細胞數量平衡的受控過程。與細胞因創傷或疾病而發生的被動性壞死不同，<span style="color:#60a5fa">細胞凋亡</span>是細胞主動破壞自己的過程。這個術語源自希臘語，表示「從樹上落下」，就像秋葉凋落一般。
 
-在正常組織中，細胞凋亡與細胞增殖保持動態平衡。例如，在胚胎發育期間，手指和腳趾之間的細胞透過細胞凋亡被消除，形成分开的附肢。成年人的腸道上皮也不斷更新，衰老和受損的細胞透過細胞凋亡被清除，同時由幹細胞增殖補充。
+在正常組織中，<span style="color:#60a5fa">細胞凋亡</span>與細胞增殖保持動態平衡。例如，在胚胎發育期間，手指和腳趾之間的細胞透過<span style="color:#60a5fa">細胞凋亡</span>被消除，形成分开的附肢。成年人的腸道上皮也不斷更新，衰老和受損的細胞透過<span style="color:#60a5fa">細胞凋亡</span>被清除，同時由幹細胞增殖補充。
 
-細胞凋亡的特徵包括：細胞收縮、染色質濃縮、DNA 片段化，以及最終形成膜包圍的凋亡小體，被相鄰細胞或巨噬細胞迅速吞噬。由於凋亡小體在被吞噬前不會釋放其內容物，因此這種死亡形式不會引起周圍組織的炎症反應——這是與壞死的主要區別之一。
+<span style="color:#60a5fa">細胞凋亡</span>的特徵包括：細胞收縮、<span style="color:#22d3ee">染色質</span>濃縮、<span style="color:#e2e8f0">DNA</span> 片段化，以及最終形成膜包圍的凋亡小體，被相鄰細胞或巨噬細胞迅速吞噬。由於凋亡小體在被吞噬前不會釋放其內容物，因此這種死亡形式不會引起周圍組織的炎症反應——這是與壞死的主要區別之一。
 
-分子層面上，細胞凋亡可透過兩條主要途徑啟動：外在途徑（由死亡受體如 Fas 觸發）和內在途徑（由細胞內壓力信號如 DNA 損傷、氧化應激或去除生長因子觸發）。兩條途徑最終都會激活 caspase 級聯反應，一系列 caspase 蛋白酶連續激活，最終導致細胞結構和遺傳物質的受控降解。
+分子層面上，<span style="color:#60a5fa">細胞凋亡</span>可透過兩條主要途徑啟動：外在途徑（由死亡受體如 Fas 觸發）和內在途徑（由細胞內壓力信號如 <span style="color:#e2e8f0">DNA</span> 損傷、氧化應激或去除生長因子觸發）。兩條途徑最終都會激活 caspase 級聯反應，一系列 caspase 蛋白酶連續激活，最終導致細胞結構和遺傳物質的受控降解。
 
-在生理條件下，細胞凋亡對於發育、免疫系統的正常功能（消除自我反應性淋巴細胞）以及維持組織恆態至關重要。當細胞凋亡機制失調時，會導致疾病。例如，細胞凋亡不足可能導致癌症（異常細胞無法被清除）或自體免疫疾病（自我反應性免疫細胞無法被消除）。相反，過度細胞凋亡與神經退化性疾病（如阿茲海默症和帕金森氏症）和心肌梗塞後的心肌細胞死亡有關。
+在生理條件下，<span style="color:#60a5fa">細胞凋亡</span>對於發育、免疫系統的正常功能（消除自我反應性淋巴細胞）以及維持組織恆態至關重要。當<span style="color:#60a5fa">細胞凋亡</span>機制失調時，會導致疾病。例如，<span style="color:#60a5fa">細胞凋亡</span>不足可能導致癌症（異常細胞無法被清除）或自體免疫疾病（自我反應性免疫細胞無法被消除）。相反，過度<span style="color:#60a5fa">細胞凋亡</span>與神經退化性疾病（如阿茲海默症和帕金森氏症）和心肌梗塞後的心肌細胞死亡有關。

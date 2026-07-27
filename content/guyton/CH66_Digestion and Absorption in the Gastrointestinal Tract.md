@@ -17,7 +17,7 @@ key_points:
 
 消化是將食物中的大分子營養素分解為可被吸收的小分子的過程；吸收則是這些小分子穿過腸道上皮進入血液或淋巴的過程。本章詳細說明三大營養素（碳水化合物、脂肪、蛋白質）以及水與電解質的消化與吸收機制。
 
-碳水化合物的消化從口腔開始——唾液 α-澱粉酶（ptyalin）水解澱粉中的 α-1,4-糖苷鍵。胃酸可破壞唾液澱粉酶，因此碳水化合物消化主要在小腸完成。胰澱粉酶進一步水解澱粉為麥芽糖、異麥芽糖與糊精；腸刷狀緣酶（maltase、sucrase、lactase）將這些雙糖水解為單糖（葡萄糖、半乳糖、果糖），通過特定轉運蛋白吸收。
+碳水化合物的消化從口腔開始——唾液 α-澱粉酶（ptyalin）水解澱粉中的 α-1,4-糖苷鍵。胃酸可破壞唾液澱粉酶，因此碳水化合物消化主要在小腸完成。胰澱粉酶進一步水解澱粉為麥芽糖、異麥芽糖與糊精；腸刷狀緣酶（maltase、sucrase、<span style="color:#60a5fa">lactase</span>）將這些雙糖水解為單糖（葡萄糖、半乳糖、果糖），通過特定轉運蛋白吸收。
 
 脂肪消化需要膽汁鹽的乳化作用——將大脂肪滴分散為微小的脂肪滴，增加表面積以便脂肪酶作用。胰脂酶（pancreatic lipase）水解 triglycerides 為游離脂肪酸與單酸甘油酯。這些消化產物與膽汁鹽形成微膠粒（micelles），被腸上皮吸收。在腸細胞內重新合成 triglycerides，與蛋白質形成 chylomicrons，進入淋巴系統而非門靜脈。
 
@@ -57,7 +57,7 @@ key_points:
 果糖通過易化擴散（facilitated diffusion）被吸收，通過 GLUT5 轉運蛋白。
 
 <figure>
-<img src="/images/guyton/66f661.jpg" alt="Carbohydrate absorption">
+<img src="/images/guyton/66f661.jpg" alt="Carbohydrate <span style="color:#60a5fa">absorption</span>">
 <figcaption>Figure 66-1. 葡萄糖與半乳糖的吸收機制：鈉依賴性主動轉運。</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ key_points:
 
 ### 飲食中的脂肪
 
-飲食中含量最多的脂肪是中性脂肪（neutral fats/triglycerides），每個分子由甘油骨架與三個脂肪酸側鏈組成。其他脂肪包括磷脂（phospholipids）、膽固醇（cholesterol）與膽固醇酯（cholesterol esters）。
+飲食中含量最多的脂肪是中性脂肪（neutral fats/triglycerides），每個分子由甘油骨架與三個脂肪酸側鏈組成。其他脂肪包括磷脂（phospholipids）、膽固醇（<span style="color:#60a5fa">cholesterol</span>）與膽固醇酯（<span style="color:#60a5fa">cholesterol</span> esters）。
 
 ### 脂肪消化的必要性
 
@@ -80,7 +80,7 @@ key_points:
 ### 胰脂酶的水解作用
 
 胰脂酶（由胰腺腺泡細胞分泌）在輔因子 colipase 存在下，水解 triglycerides 為：
-- 2 分子游離脂肪酸（free fatty acids）
+- 2 分子游離脂肪酸（free <span style="color:#fb923c">fatty acids</span>）
 - 1 分子單酸甘油酯（monoglyceride）
 
 <figure>
@@ -149,7 +149,7 @@ Chylomicrons 是直徑約 75-1200 nm 的乳糜微粒，由腸細胞通過胞溢�
 ### 電解質的吸收
 
 **鈉離子（Na⁺）**：約 95% 的膳食 Na⁺ 在小腸被吸收。吸收機制包括：
-- 腸細胞刷狀緣的 Na⁺/glucose 與 Na⁺/amino acid cotransport
+- 腸細胞刷狀緣的 Na⁺/<span style="color:#60a5fa">glucose</span> 與 Na⁺/amino acid cotransport
 - 基底側膜的 Na⁺/K⁺-ATPase
 
 **氯離子（Cl⁻）**：主要隨 Na⁺ 吸收而被动吸收；在空腸 also 通过 Cl⁻/HCO₃⁻ exchange 吸收。
@@ -180,11 +180,11 @@ Chylomicrons 是直徑約 75-1200 nm 的乳糜微粒，由腸細胞通過胞溢�
 
 Barrett KE: Gastrointestinal Physiology. 2nd ed. McGraw-Hill, 2014.
 Berg JM et al: Biochemistry. 9th ed. W.H. Freeman, 2019.
-Bodmer MW: Carbohydrate absorption. Handb Clin Neurol 174:215, 2021.
-Carey HV et al: Nutrient absorption. Handb Physiol 2:1065, 2018.
+Bodmer MW: Carbohydrate <span style="color:#60a5fa">absorption</span>. Handb Clin Neurol 174:215, 2021.
+Carey HV et al: Nutrient <span style="color:#60a5fa">absorption</span>. Handb Physiol 2:1065, 2018.
 DeSesso JM, Jacobson CF: Anatomy and physiology of the small intestine. Handb Clin Neurol 174:205, 2021.
 Guandalini S et al: Lactose intolerance. Am J Gastroenterol 106:2011, 2011.
 Hofmann AF, Mysels KJ: Bile acid solubility and the emulsification of dietary fat. Hepatology 12:6S, 1990.
 Johnson LR et al: Physiology of the Gastrointestinal Tract. 5th ed. Academic Press, 2012.
-Kane JP: Lipid absorption. Handb Clin Neurol 174:245, 2021.
-Schwartz SE et al: Mechanisms of fat absorption. Gastroenterology 88:607, 1985.
+Kane JP: Lipid <span style="color:#60a5fa">absorption</span>. Handb Clin Neurol 174:245, 2021.
+Schwartz SE et al: Mechanisms of fat <span style="color:#60a5fa">absorption</span>. Gastroenterology 88:607, 1985.

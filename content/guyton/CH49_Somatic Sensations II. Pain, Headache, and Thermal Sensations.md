@@ -23,21 +23,21 @@ summary: "本章探討疼痛的複雜神經機制。疼痛訊息由兩條路徑�
 
 ### Neospinothalamic Tract——快速疼痛
 
-- **纖維類型**：Type Aδ（大型有髓鞘）
-- **終止部位**：脊髓背角 **Lamina I（邊緣層）**
-- **第二級神經元**：交叉至對側，經 anterolateral column 上行至視丘 ventrobasal complex
-- **神經傳導物質**：**Glutamate**（作用時間數毫秒）
+- <span style="color:#60a5fa">纖維類型：</span>Type Aδ（大型有髓鞘）
+- <span style="color:#60a5fa">終止部位：</span><span style="color:#22d3ee">脊髓背角</span> <span style="color:#e2e8f0">Lamina I（邊緣層）</span>
+- <span style="color:#60a5fa">第二級神經元：</span>交叉至對側，經 anterolateral column 上行至<span style="color:#22d3ee">視丘</span> ventrobasal complex
+- <span style="color:#60a5fa">神經傳導物質：</span><span style="color:#fb923c">Glutamate</span>（作用時間數毫秒）
 - **功能定位**：可精確至刺激點周圍約 10 公分範圍；若有觸覺受器同時興奮，定位可達高度精確
 
 ### Paleospinothalamic Pathway——慢疼痛
 
-- **纖維類型**：Type C（小型無髓鞘），攜帶主要為慢速灼痛
-- **終止部位**：脊髓背角 **Laminae II 與 III（ substantia gelatinosa）**，經一至多個中間神經元後進入 lamina V，再交叉至對側 anterolateral column
-- **投射範圍**：僅 10–25% 的纖維直接投射至視丘；大部分終止於：
-  - 腦幹網狀結構（延腦、橋腦、中腦）
-  - 中腦四疊體深方的 tectal area
-  - 導水管周圍灰質（periaqueductal gray）
-- **神經傳導物質**：**Substance P**（釋放緩慢，累積需數秒至數分鐘）
+- <span style="color:#60a5fa">纖維類型：</span>Type C（小型無髓鞘），攜帶主要為慢速灼痛
+- <span style="color:#60a5fa">終止部位：</span><span style="color:#22d3ee">脊髓背角</span> <span style="color:#e2e8f0">Laminae II 與 III（ substantia gelatinosa）</span>，經一至多個中間神經元後進入 lamina V，再交叉至對側 anterolateral column
+- <span style="color:#60a5fa">投射範圍：</span>僅 <span style="color:#f87171">10–25%</span> 的纖維直接投射至<span style="color:#22d3ee">視丘</span>；大部分終止於：
+  - <span style="color:#22d3ee">腦幹網狀結構</span>（延腦、橋腦、中腦）
+  - <span style="color:#22d3ee">中腦四疊體</span>深方的 tectal area
+  - <span style="color:#22d3ee">導水管周圍灰質</span>（periaqueductal gray）
+- <span style="color:#60a5fa">神經傳導物質：</span><span style="color:#fb923c">Substance P</span>（釋放緩慢，累積需數秒至數分鐘）
 - **功能定位**：極差，只能定位至整個肢體而非定點
 
 ### 兩軌路徑的功能對比
@@ -45,10 +45,10 @@ summary: "本章探討疼痛的複雜神經機制。疼痛訊息由兩條路徑�
 | 特性 | 快速疼痛 | 慢疼痛 |
 |------|---------|--------|
 | 纖維類型 | Aδ（有髓鞘） | C（無髓鞘） |
-| 傳導速度 | 快 | 慢 |
+| 傳導速度 | <span style="color:#34d399">快</span> | <span style="color:#f87171">慢</span> |
 | 感覺性質 | 尖銳、刺痛 | 灼燙、持續 |
 | 定位精確度 | 高（約 10 cm） | 低（僅能定位至肢體） |
-| 神經傳導物質 | Glutamate | Substance P |
+| 神經傳導物質 | <span style="color:#fb923c">Glutamate</span> | <span style="color:#fb923c">Substance P</span> |
 | 投射範圍 | 集中於視丘 | 彌散於腦幹、視丘、基底腦區 |
 
 ### 腦部對疼痛的知覺
@@ -76,8 +76,8 @@ summary: "本章探討疼痛的複雜神經機制。疼痛訊息由兩條路徑�
 
 ### 涉及的神經傳導物質
 
-- **Enkephalin**：由 periventricular nuclei 與 periaqueductal gray 投射至 raphe magnus nucleus 的纖維終末釋放
-- **Serotonin**：由 raphe magnus nucleus 神經元釋放至脊髓背角，刺激當地神經元分泌 **enkephalin**
+- <span style="color:#fb923c">Enkephalin</span>：由 periventricular nuclei 與 periaqueductal gray 投射至 raphe magnus nucleus 的纖維終末釋放
+- <span style="color:#fb923c">Serotonin</span>：由 raphe magnus nucleus 神經元釋放至<span style="color:#22d3ee">脊髓背角</span>，刺激當地神經元分泌 <span style="color:#fb923c">enkephalin</span>
 - Enkephalin 作用於突觸前與突觸後，抑制 Aδ 與 C 疼痛纖維
 
 ## 腦的類鴉片系統——Endorphins 與 Enkephalins

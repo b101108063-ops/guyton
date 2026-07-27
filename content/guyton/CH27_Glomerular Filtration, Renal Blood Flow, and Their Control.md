@@ -10,21 +10,21 @@ key_points:
 
 ## 章節導讀
 
-本章深入探討尿液形成第一步——腎絲球濾過（glomerular filtration）的物理與生理機制。首先介紹 GFR（glomerular filtration rate）的決定因素：腎絲球毛細血管內的 hydrostatic pressure（推動液體濾出）與膠體滲透壓（阻止濾過）、Bowman's capsule 內壓，以及腎絲球濾過係數（Kf）。接著說明 GFR 的自主調控（autoregulation）——即使血壓在 80–170 mm Hg 範圍內大幅變動，腎臟仍能維持相對恆定的 GFR；這是由 tubuloglomerular feedback（透過 macula densa 細胞偵測鈉濃度）與 myogenic mechanism（血管平滑肌對拉伸的内在反應）共同達成的。本章也說明了交感神經、angiotensin II 與 prostaglandins 等因素如何影響 renal blood flow 與 GFR，最後強調 GFR 的穩定對於腎臟排泄功能與全身液體平衡的至關重要性。
+本章深入探討<span style="color:#60a5fa">尿液形成</span>第一步——<span style="color:#60a5fa">腎絲球濾過</span>（<span style="color:#60a5fa">glomerular filtration</span>）的物理與生理機制。首先介紹 <span style="color:#60a5fa">GFR</span>（<span style="color:#60a5fa">glomerular filtration rate</span>）的決定因素：<span style="color:#22d3ee">腎絲球</span><span style="color:#22d3ee">毛細血管</span>內的 <span style="color:#60a5fa">hydrostatic pressure</span>（推動液體濾出）與<span style="color:#60a5fa">膠體滲透壓</span>（阻止濾過）、<span style="color:#22d3ee">Bowman's capsule</span> 內壓，以及<span style="color:#60a5fa">腎絲球濾過係數</span>（<span style="color:#60a5fa">Kf</span>）。接著說明 <span style="color:#60a5fa">GFR</span> 的<span style="color:#60a5fa">自主調控</span>（<span style="color:#60a5fa">autoregulation</span>）——即使<span style="color:#60a5fa">血壓</span>在 <span style="color:#34d399">80–170 mm Hg</span> 範圍內大幅變動，<span style="color:#22d3ee">腎臟</span>仍能維持相對恆定的 <span style="color:#60a5fa">GFR</span>；這是由 <span style="color:#60a5fa">tubuloglomerular feedback</span>（透過 <span style="color:#22d3ee">macula densa</span> <span style="color:#22d3ee">細胞</span>偵測<span style="color:#fb923c">鈉</span>濃度）與 <span style="color:#60a5fa">myogenic mechanism</span>（<span style="color:#22d3ee">血管平滑肌</span>對拉伸的内在反應）共同達成的。本章也說明了<span style="color:#60a5fa">交感神經</span>、<span style="color:#fb923c">angiotensin II</span> 與 <span style="color:#fb923c">prostaglandins</span> 等因素如何影響 <span style="color:#60a5fa">renal blood flow</span> 與 <span style="color:#60a5fa">GFR</span>，最後強調 <span style="color:#60a5fa">GFR</span> 的穩定對於<span style="color:#22d3ee">腎臟</span>排泄功能與全身液體平衡的至關重要性。
 
 ## 腎絲球濾過的決定因素
 
-GFR 是腎臟排泄能力的核心指標。正常成年人每分鐘約有 125 ml 的血漿被濾過（每天約 180 L）。GFR 由以下四個物理力量共同決定：
+<span style="color:#60a5fa">GFR</span> 是<span style="color:#22d3ee">腎臟</span>排泄能力的核心指標。正常成年人每分鐘約有 <span style="color:#34d399">125 ml</span> 的<span style="color:#60a5fa">血漿</span>被濾過（每天約 <span style="color:#34d399">180 L</span>）。<span style="color:#60a5fa">GFR</span> 由以下四個物理力量共同決定：
 
-**GFR = Kf × (PG − PB − πG + πB)**
+**<span style="color:#60a5fa">GFR</span> = <span style="color:#60a5fa">Kf</span> × (<span style="color:#60a5fa">PG</span> − <span style="color:#60a5fa">PB</span> − <span style="color:#60a5fa">πG</span> + <span style="color:#60a5fa">πB</span>)**
 
-- **PG（Glomerular capillary hydrostatic pressure）**：約 60 mm Hg，方向是**推動濾過**
-- **PB（Bowman's capsule hydrostatic pressure）**：約 18 mm Hg，方向是**阻礙濾過**
-- **πG（Glomerular capillary colloid osmotic pressure）**：約 32 mm Hg，方向是**阻礙濾過**（因為蛋白質不能通過）
-- **πB（Bowman's capsule colloid osmotic pressure）**：約 0 mm Hg（蛋白質極少進入滤液）
-- **Kf（Filtration coefficient）**：約 12.5 ml/min/mm Hg，反映毛細血管的通透性與表面積
+- **<span style="color:#60a5fa">PG</span>（<span style="color:#22d3ee">Glomerular capillary</span> <span style="color:#60a5fa">hydrostatic pressure</span>）**：約 <span style="color:#34d399">60 mm Hg</span>，方向是**推動濾過**
+- **<span style="color:#60a5fa">PB</span>（<span style="color:#22d3ee">Bowman's capsule</span> <span style="color:#60a5fa">hydrostatic pressure</span>）**：約 <span style="color:#34d399">18 mm Hg</span>，方向是**阻礙濾過**
+- **<span style="color:#60a5fa">πG</span>（<span style="color:#22d3ee">Glomerular capillary</span> <span style="color:#60a5fa">colloid osmotic pressure</span>）**：約 <span style="color:#34d399">32 mm Hg</span>，方向是**阻礙濾過**（因為蛋白質不能通過）
+- **<span style="color:#60a5fa">πB</span>（<span style="color:#22d3ee">Bowman's capsule</span> <span style="color:#60a5fa">colloid osmotic pressure</span>）**：約 <span style="color:#34d399">0 mm Hg</span>（蛋白質極少進入濾液）
+- **<span style="color:#60a5fa">Kf</span>（Filtration coefficient）**：約 <span style="color:#34d399">12.5 ml/min/mm Hg</span>，反映<span style="color:#22d3ee">毛細血管</span>的通透性與表面積
 
-淨濾過壓 = 60 − 18 − 32 = **+10 mm Hg**
+<span style="color:#f87171">淨濾過壓</span> = 60 − 18 − 32 = **<span style="color:#34d399">+10 mm Hg</span>**
 
 ### 影響 GFR 的生理因素
 
@@ -35,23 +35,23 @@ GFR 是腎臟排泄能力的核心指標。正常成年人每分鐘約有 125 ml
 
 ## 腎血流（ Renal Blood Flow）
 
-兩側腎臟每分鐘接收約 1100 ml 血液，約占 cardiac output 的 22%。腎臟的高血流是為了提供足夠血漿進行過濾，而非僅供應營養。
+兩側<span style="color:#22d3ee">腎臟</span>每分鐘接收約 <span style="color:#34d399">1100 ml</span> 血液，約占 <span style="color:#60a5fa">cardiac output</span> 的 <span style="color:#34d399">22%</span>。<span style="color:#22d3ee">腎臟</span>的高血流是為了提供足夠<span style="color:#60a5fa">血漿</span>進行過濾，而非僅供應營養。
 
 值得注意的是，腎臟的氧氣消耗量與鈉再吸收量成正比——當 GFR 下降與鈉濾過減少時，腎小管的鈉再吸收量下降，氧耗也相應減少。
 
 ## GFR 的自主調控（Autoregulation）
 
-GFR 的自主調控是指腎臟能夠在 arterial pressure 於 80–170 mm Hg 範圍內大幅波動時，仍維持 GFR 與 renal blood flow 相對恆定。這種調控是由兩種內在於腎臟的機制達成的：
+<span style="color:#60a5fa">GFR</span> 的<span style="color:#60a5fa">自主調控</span>是指<span style="color:#22d3ee">腎臟</span>能夠在 <span style="color:#60a5fa">arterial pressure</span> 於 <span style="color:#34d399">80–170 mm Hg</span> 範圍內大幅波動時，仍維持 <span style="color:#60a5fa">GFR</span> 與 <span style="color:#60a5fa">renal blood flow</span> 相對恆定。這種調控是由兩種內在於<span style="color:#22d3ee">腎臟</span>的機制達成的：
 
 ### Tubuloglomerular Feedback（腎小管-腎絲球反饋）
 
-腎元結構中的 macula densa 細胞（位於 distal tubule 與 glomerulus 的交界處）能偵測 tubule fluid 中的鈉濃度。當 GFR 增加時，進入 distal tubule 的鈉量增加，macula densa 感知到此變化後，發出訊號使 afferent arteriole 收縮，降低 GFR；反之亦然。
+<span style="color:#60a5fa">腎元</span>結構中的 <span style="color:#22d3ee">macula densa</span> <span style="color:#22d3ee">細胞</span>（位於 <span style="color:#22d3ee">distal tubule</span> 與 <span style="color:#22d3ee">glomerulus</span> 的交界處）能偵測 tubule fluid 中的<span style="color:#fb923c">鈉</span>濃度。當 <span style="color:#60a5fa">GFR</span> 增加時，進入<span style="color:#22d3ee">distal tubule</span> 的<span style="color:#fb923c">鈉</span>量增加，<span style="color:#22d3ee">macula densa</span> 感知到此變化後，發出訊號使 <span style="color:#22d3ee">afferent arteriole</span> 收縮，降低 <span style="color:#60a5fa">GFR</span>；反之亦然。
 
-這個 feedback 機制還涉及 renin 的釋放：macula densa 感知低鈉時，刺激 juxtaglomerular cells 釋放 renin，啟動 angiotensin II → 選擇性地收縮 efferent arteriole，維持 glomerular capillary pressure。
+這個 feedback 機制還涉及 <span style="color:#fb923c">renin</span> 的釋放：<span style="color:#22d3ee">macula densa</span> 感知低<span style="color:#fb923c">鈉</span>時，刺激 <span style="color:#22d3ee">juxtaglomerular cells</span> 釋放 <span style="color:#fb923c">renin</span>，啟動 <span style="color:#fb923c">angiotensin II</span> → 選擇性地收縮 <span style="color:#22d3ee">efferent arteriole</span>，維持 <span style="color:#22d3ee">glomerular capillary</span> pressure。
 
 ### Myogenic Mechanism（肌原性機制）
 
-血管平滑肌對拉伸有內在的收縮反應。當 arterial pressure 上升時，afferent arterioles 被過度拉伸，平滑肌反射性地收縮，增加血管阻力，防止過多血液進入腎絲球；當血壓下降時，血管舒張，維持血流。這種機制類似於身體其他部位的 myogenic regulation。
+<span style="color:#22d3ee">血管平滑肌</span>對拉伸有內在的收縮反應。當 <span style="color:#60a5fa">arterial pressure</span> 上升時，<span style="color:#22d3ee">afferent arterioles</span> 被過度拉伸，<span style="color:#22d3ee">平滑肌</span>反射性地收縮，增加血管阻力，防止過多血液進入<span style="color:#22d3ee">腎絲球</span>；當<span style="color:#60a5fa">血壓</span>下降時，<span style="color:#60a5fa">血管舒張</span>，維持血流。這種機制類似於身體其他部位的 <span style="color:#60a5fa">myogenic regulation</span>。
 
 ## 交感神經對腎血流的影響
 
@@ -63,10 +63,10 @@ GFR 的自主調控是指腎臟能夠在 arterial pressure 於 80–170 mm Hg �
 
 ## 激素與自泌因子對 GFR 的影響
 
-- **Angiotensin II**：選擇性地收縮 efferent arteriole，在血量不足時維持 GFR，但過度時也會損害腎功能
-- **Prostaglandins（PGE₂、PGI₂）**：血管舒張，對抗交感神經的血管收縮作用
-- **Nitric Oxide（NO）**：內皮細胞釋放，維持腎臟的基礎血管舒張狀態
-- **Endothelin**：強效血管收縮肽，可能在腎損傷時活化
+- **<span style="color:#fb923c">Angiotensin II</span>**：選擇性地收縮 <span style="color:#22d3ee">efferent arteriole</span>，在血量不足時維持 <span style="color:#60a5fa">GFR</span>，但過度時也會損害<span style="color:#22d3ee">腎功能</span>
+- **<span style="color:#fb923c">Prostaglandins</span>（<span style="color:#fb923c">PGE₂</span>、<span style="color:#fb923c">PGI₂</span>）**：<span style="color:#60a5fa">血管舒張</span>，對抗<span style="color:#60a5fa">交感神經</span>的血管收縮作用
+- **<span style="color:#fb923c">Nitric Oxide</span>（<span style="color:#fb923c">NO</span>）**：內皮<span style="color:#22d3ee">細胞</span>釋放，維持<span style="color:#22d3ee">腎臟</span>的基礎<span style="color:#60a5fa">血管舒張</span>狀態
+- **<span style="color:#fb923c">Endothelin</span>**：強效<span style="color:#60a5fa">血管收縮</span>肽，可能在<span style="color:#22d3ee">腎</span>損傷時活化
 
 ## GFR 自主調控的生理意義
 

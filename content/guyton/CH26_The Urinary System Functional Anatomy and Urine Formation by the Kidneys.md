@@ -10,21 +10,21 @@ key_points:
 
 ## 章節導讀
 
-腎臟是維持體內環境恆定的核心器官。本章首先介紹腎臟的多重生理功能：排泄代謝廢物、調控水與電解質平衡、調節血漿滲透壓與酸鹼平衡、調控 arterial pressure（透過鈉排泄）、促進紅血球生成（分泌 erythropoietin）與活化維生素 D。其次說明腎臟的解剖構造——皮質（cortex）與髓質（medulla）、腎元（nephron）的組成結構，以及腎絲球（glomerulus）與腎小管（renal tubule）各段的名稱與位置。本章的重點在於建立尿液形成（urine formation）的概念框架：尿液是 glomerular filtration、tubular reabsorption 與 tubular secretion 三個過程的代數和（uric excretion = filtration − reabsorption + secretion）。理解這個框架，是掌握後續五個腎臟章節內容的前提。
+<span style="color:#22d3ee">腎臟</span>是維持體內環境恆定的核心器官。本章首先介紹<span style="color:#22d3ee">腎臟</span>的多重生理功能：排泄代謝廢物、調控水與<span style="color:#fb923c">電解質</span>平衡、調節<span style="color:#60a5fa">血漿</span><span style="color:#60a5fa">滲透壓</span>與<span style="color:#60a5fa">酸鹼平衡</span>、調控 <span style="color:#60a5fa">arterial pressure</span>（透過<span style="color:#fb923c">鈉</span>排泄）、促進<span style="color:#c084fc">紅血球</span>生成（分泌 <span style="color:#fb923c">erythropoietin</span>）與活化<span style="color:#fb923c">維生素 D</span>。其次說明<span style="color:#22d3ee">腎臟</span>的解剖構造——<span style="color:#22d3ee">皮質</span>（<span style="color:#22d3ee">cortex</span>）與<span style="color:#22d3ee">髓質</span>（<span style="color:#22d3ee">medulla</span>）、<span style="color:#60a5fa">腎元</span>（<span style="color:#60a5fa">nephron</span>）的組成結構，以及<span style="color:#22d3ee">腎絲球</span>（<span style="color:#22d3ee">glomerulus</span>）與<span style="color:#22d3ee">腎小管</span>（<span style="color:#22d3ee">renal tubule</span>）各段的名稱與位置。本章的重點在於建立<span style="color:#60a5fa">尿液形成</span>（<span style="color:#60a5fa">urine formation</span>）的概念框架：尿液是 <span style="color:#60a5fa">glomerular filtration</span>、<span style="color:#60a5fa">tubular reabsorption</span> 與 <span style="color:#60a5fa">tubular secretion</span> 三個過程的代數和（<span style="color:#60a5fa">urinary excretion</span> = filtration − reabsorption + secretion）。理解這個框架，是掌握後續五個<span style="color:#22d3ee">腎臟</span>章節內容的前提。
 
 ## 腎臟的多重生理功能
 
 腎臟不僅僅是排泄尿液的器官，它在維持體內環境恆定中扮演著多層面的角色：
 
-1. **排泄代謝廢物**：尿素（urea）、 creatinine、尿酸、膽紅素等
-2. **調控水與電解質平衡**：鈉、鉀、鈣、磷、鎂、氯等
-3. **調節酸鹼平衡**：排泄氫離子與重吸收碳酸氫根
-4. **調節 arterial pressure**：透過鈉的排泄（pressure natriuresis）
-5. **促進紅血球生成**：分泌 erythropoietin
-6. **活化維生素 D**：將 25-(OH) vitamin D 轉化為 1,25-(OH)₂ vitamin D（calcitriol）
-7. **葡萄糖新生（Gluconeogenesis）**：在禁食期間由腎臟合成葡萄糖
+1. **排泄代謝廢物**：<span style="color:#fb923c">尿素</span>（<span style="color:#fb923c">urea</span>）、<span style="color:#fb923c">creatinine</span>、<span style="color:#fb923c">尿酸</span>、膽紅素等
+2. **調控水與<span style="color:#fb923c">電解質</span>平衡**：<span style="color:#fb923c">鈉</span>、<span style="color:#fb923c">鉀</span>、<span style="color:#fb923c">鈣</span>、<span style="color:#fb923c">磷</span>、<span style="color:#fb923c">鎂</span>、<span style="color:#fb923c">氯</span>等
+3. **調節<span style="color:#60a5fa">酸鹼平衡</span>**：排泄<span style="color:#fb923c">氫離子</span>與重吸收<span style="color:#fb923c">碳酸氫根</span>
+4. **調節 <span style="color:#60a5fa">arterial pressure</span>**：透過<span style="color:#fb923c">鈉</span>的排泄（<span style="color:#60a5fa">pressure natriuresis</span>）
+5. **促進<span style="color:#c084fc">紅血球</span>生成**：分泌 <span style="color:#fb923c">erythropoietin</span>
+6. **活化<span style="color:#fb923c">維生素 D</span>**：將 <span style="color:#fb923c">25-(OH) vitamin D</span> 轉化為 <span style="color:#fb923c">1,25-(OH)₂ vitamin D</span>（<span style="color:#fb923c">calcitriol</span>）
+7. **<span style="color:#60a5fa">葡萄糖新生</span>（<span style="color:#60a5fa">Gluconeogenesis</span>）**：在禁食期間由<span style="color:#22d3ee">腎臟</span>合成<span style="color:#fb923c">葡萄糖</span>
 
-腎絲球每日過濾約 180 L 的血漿，但最終只有約 1–2 L 成為尿液排出——超過 99% 的水分與溶質都被腎小管再吸收回血液。
+<span style="color:#22d3ee">腎絲球</span>每日過濾約 <span style="color:#34d399">180 L</span> 的<span style="color:#60a5fa">血漿</span>，但最終只有約 <span style="color:#34d399">1–2 L</span> 成為尿液排出——超過 <span style="color:#34d399">99%</span> 的水分與<span style="color:#fb923c">溶質</span>都被<span style="color:#22d3ee">腎小管</span>再吸收回血液。
 
 ## 腎臟的解剖構造
 
@@ -34,31 +34,31 @@ key_points:
 
 ### 腎血流
 
-腎臟接收約 22% 的 cardiac output（每分鐘約 1100 ml），這個高灌流量是因為腎絲球濾過需要大量血漿。血流經過以下路徑：
+<span style="color:#22d3ee">腎臟</span>接收約 <span style="color:#34d399">22%</span> 的 <span style="color:#60a5fa">cardiac output</span>（每分鐘約 <span style="color:#34d399">1100 ml</span>），這個高灌流量是因為<span style="color:#22d3ee">腎絲球</span>濾過需要大量<span style="color:#60a5fa">血漿</span>。血流經過以下路徑：
 
-**Renal artery → Interlobar artery → Arcuate artery → Interlobular artery → Afferent arteriole → Glomerulus → Efferent arteriole → Peritubular capillaries / Vasa recta → Venous system**
+**<span style="color:#22d3ee">Renal artery</span> → <span style="color:#22d3ee">Interlobar artery</span> → <span style="color:#22d3ee">Arcuate artery</span> → <span style="color:#22d3ee">Interlobular artery</span> → <span style="color:#22d3ee">Afferent arteriole</span> → <span style="color:#22d3ee">Glomerulus</span> → <span style="color:#22d3ee">Efferent arteriole</span> → <span style="color:#22d3ee">Peritubular capillaries</span> / <span style="color:#22d3ee">Vasa recta</span> → Venous system**
 
 腎臟循環的特殊之處在於有兩組毛細血管床（glomerular capillaries 與 peritubular capillaries），兩者由 efferent arterioles 串連。這個結構使得腎臟能透過調整兩組 arterioles 的阻力，精確調控 glomerular hydrostatic pressure 與 peritubular capillary hydrostatic pressure。
 
 ## 腎元（Nephron）是腎臟的功能單位
 
-每個腎臟約有 80–100 萬個 nephron，兩者合計約 160–200 萬。腎元由以下結構組成：
+每個<span style="color:#22d3ee">腎臟</span>約有 <span style="color:#34d399">80–100 萬</span>個 <span style="color:#60a5fa">nephron</span>，兩者合計約 <span style="color:#34d399">160–200 萬</span>。<span style="color:#60a5fa">腎元</span>由以下結構組成：
 
-### 腎絲球（Glomerulus）
+### <span style="color:#22d3ee">腎絲球</span>（<span style="color:#22d3ee">Glomerulus</span>）
 
-位於皮質，是一团毛細血管叢，外面覆蓋著上皮細胞（podocytes），整個結構包圍在 Bowman's capsule 內。腎絲球毛細血管的血漿濾過是尿液形成 的第一步。
+位於<span style="color:#22d3ee">皮質</span>，是一团<span style="color:#22d3ee">毛細血管</span>叢，外面覆蓋著上皮<span style="color:#22d3ee">細胞</span>（<span style="color:#22d3ee">podocytes</span>），整個結構包圍在<span style="color:#22d3ee">Bowman's capsule</span> 內。<span style="color:#22d3ee">腎絲球</span><span style="color:#22d3ee">毛細血管</span>的<span style="color:#60a5fa">血漿</span>濾過是<span style="color:#60a5fa">尿液形成</span>的第一步。
 
-### 腎小管（Renal Tubule）
+### <span style="color:#22d3ee">腎小管</span>（<span style="color:#22d3ee">Renal Tubule</span>）
 
-從 Bowman's capsule 延伸到 renal pelvis，依次包括：
+從<span style="color:#22d3ee">Bowman's capsule</span>延伸到 <span style="color:#22d3ee">renal pelvis</span>，依次包括：
 
-- **Proximal tubule（近端小管）**：位於皮質，高度代謝活性的細胞，擁有刷狀邊緣（brush border），大量再吸收鈉、水與營養物質
-- **Loop of Henle（亨利氏環）**：分為薄的下降支與厚的上升支
-  - 薄的下降支：高通透性，允許水分通過
-  - 厚的上升支：主動運輸鈉鉀氯，但對水不通透（逆流倍增機制的核心）
-- **Distal tubule（遠端小管）**：前段與 macula densa 連續，後段為 diluting segment
+- **<span style="color:#22d3ee">Proximal tubule</span>（近端小管）**：位於<span style="color:#22d3ee">皮質</span>，高度代謝活性的<span style="color:#22d3ee">細胞</span>，擁有<span style="color:#60a5fa">刷狀邊緣</span>（<span style="color:#60a5fa">brush border</span>），大量再吸收<span style="color:#fb923c">鈉</span>、水與營養物質
+- **<span style="color:#22d3ee">Loop of Henle</span>（亨利氏環）**：分為薄的下降支與厚的上升支
+  - 薄的下降支：<span style="color:#60a5fa">高通透性</span>，允許水分通過
+  - 厚的上升支：主動運輸<span style="color:#fb923c">鈉鉀氯</span>，但對水不通透（<span style="color:#60a5fa">逆流倍增機制</span>的核心）
+- **<span style="color:#22d3ee">Distal tubule</span>（遠端小管）**：前段與 <span style="color:#22d3ee">macula densa</span> 連續，後段為 diluting segment
 - **Connecting tubule 與 cortical collecting tubule**
-- **Collecting duct（集合管）**：由皮質穿過髓質，最終開口於 papilla
+- **<span style="color:#22d3ee">Collecting duct</span>（集合管）**：由<span style="color:#22d3ee">皮質</span>穿過<span style="color:#22d3ee">髓質</span>，最終開口於 <span style="color:#22d3ee">papilla</span>
 
 ### 皮質腎元與近髓質腎元
 
@@ -67,30 +67,30 @@ key_points:
 
 ## 尿液形成的三個基本過程
 
-尿液的形成是三個腎絲球與腎小管過程的代數和：
+<span style="color:#60a5fa">尿液形成</span>是三個<span style="color:#22d3ee">腎絲球</span>與<span style="color:#22d3ee">腎小管</span>過程的代數和：
 
-**Urinary excretion = Glomerular filtration − Tubular reabsorption + Tubular secretion**
+**<span style="color:#60a5fa">Urinary excretion</span> = <span style="color:#60a5fa">Glomerular filtration</span> − <span style="color:#60a5fa">Tubular reabsorption</span> + <span style="color:#60a5fa">Tubular secretion</span>**
 
-### Glomerular Filtration（腎絲球濾過）
+### <span style="color:#60a5fa">Glomerular Filtration</span>（<span style="color:#60a5fa">腎絲球濾過</span>）
 
-腎絲球毛細血管對血漿的過濾類似於其他組織的毛細血管，但過濾量特別大——每天約 180 L。與其他毛細血管不同的是，腎絲球阻止血漿蛋白通過，但幾乎所有小分子（電解質、葡萄糖、氨基酸、尿素等）都可以自由濾過。
+<span style="color:#22d3ee">腎絲球</span><span style="color:#22d3ee">毛細血管</span>對<span style="color:#60a5fa">血漿</span>的過濾類似於其他組織的<span style="color:#22d3ee">毛細血管</span>，但過濾量特別大——每天約 <span style="color:#34d399">180 L</span>。與其他<span style="color:#22d3ee">毛細血管</span>不同的是，<span style="color:#22d3ee">腎絲球</span>阻止<span style="color:#60a5fa">血漿</span>蛋白通過，但幾乎所有小分子（<span style="color:#fb923c">電解質</span>、<span style="color:#fb923c">葡萄糖</span>、氨基酸、<span style="color:#fb923c">尿素</span>等）都可以自由濾過。
 
 ### Tubular Reabsorption（腎小管再吸收）
 
-過濾的液體在穿過腎小管的過程中，溶質與水分會被選擇性地再吸收回血液。再吸收可分為：
+過濾的液體在穿過<span style="color:#22d3ee">腎小管</span>的過程中，<span style="color:#fb923c">溶質</span>與水分會被選擇性地再吸收回血液。再吸收可分為：
 
-- **主動再吸收**：需要能量，如 glucose、amino acids、phosphate、 sulfate
-- **被動再吸收**：透過擴散或滲透，如 water、urea、某些離子
+- **<span style="color:#60a5fa">主動再吸收</span>**：需要能量，如 <span style="color:#fb923c">glucose</span>、amino acids、phosphate、sulfate
+- **<span style="color:#60a5fa">被動再吸收</span>**：透過擴散或滲透，如 water、<span style="color:#fb923c">urea</span>、某些離子
 
-再吸收的量是巨大的——例如，每天過濾的鈉約 25,560 mEq，但最終只有約 150 mEq 排出，再吸收率高達 99.4%。
+再吸收的量是巨大的——例如，每天過濾的<span style="color:#fb923c">鈉</span>約 <span style="color:#34d399">25,560 mEq</span>，但最終只有約 <span style="color:#34d399">150 mEq</span> 排出，再吸收率高達 <span style="color:#34d399">99.4%</span>。
 
 ### Tubular Secretion（腎小管分泌）
 
-某些物質從 peritubular capillaries 的血液主動分泌進入腎小管腔，包括：
+某些物質從<span style="color:#22d3ee">peritubular capillaries</span>的血液主動分泌進入<span style="color:#22d3ee">腎小管</span>腔，包括：
 
-- **氫離子（H⁺）**：酸鹼調控的關鍵
-- **鉀離子（K⁺）**：鉀平衡調控的關鍵
-- **有機酸與鹼**：藥物、代謝廢物（如 PAH）
+- **<span style="color:#fb923c">氫離子</span>（H⁺）**：<span style="color:#60a5fa">酸鹼</span>調控的關鍵
+- **<span style="color:#fb923c">鉀離子</span>（K⁺）**：<span style="color:#fb923c">鉀</span>平衡調控的關鍵
+- **有機酸與鹼**：<span style="color:#fb923c">藥物</span>、代謝廢物（如 PAH）
 
 分泌在某些物質（如 PAH、penicillin）的腎臟清除中扮演重要角色。
 

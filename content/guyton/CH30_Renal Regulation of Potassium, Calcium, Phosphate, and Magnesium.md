@@ -11,7 +11,7 @@ key_points:
 
 ## 章節導讀
 
-鉀離子（K⁺）是細胞內最豐富的陽離子，對維持細胞膜電位、心臟與神經的興奮性、以及酸鹼平衡至關重要。本章說明腎臟如何精確調控鉀的排泄——在飲食攝取變化範圍極大的情況下，仍能維持血漿鉀濃度於窄幅範圍內（3.5–5.0 mEq/L）。腎臟處理鉀的核心是：每日濾過的 756 mEq 鉀中，約 65% 在 proximal tubule 與 loop of Henle 被再吸收，最終只有約 12%（約 92 mEq）由 principal cells 分泌至遠端腎元與皮質集合管。這個分泌過程受到血漿鉀濃度、aldosterone 與 distal tubular flow rate 的精密調控。本章也簡要說明腎臟對鈣、磷與鎂離子的排泄調控——甲狀旁腺素（PTH）與 calcitriol 如何影響腎小管對這些離子的再吸收，以及甲狀旁腺功能減退與亢進的生理後果。
+鉀離子（K⁺）是細胞內最豐富的陽離子，對維持細胞膜電位、心臟與神經的興奮性、以及酸鹼平衡至關重要。本章說明腎臟如何精確調控鉀的排泄——在飲食攝取變化範圍極大的情況下，仍能維持血漿鉀濃度於窄幅範圍內（3.5–5.0 mEq/L）。腎臟處理鉀的核心是：每日濾過的 756 mEq 鉀中，約 65% 在 proximal tubule 與 loop of Henle 被再吸收，最終只有約 12%（約 92 mEq）由 principal cells 分泌至遠端腎元與皮質集合管。這個分泌過程受到血漿鉀濃度、<span style="color:#fb923c">aldosterone</span> 與 distal tubular flow rate 的精密調控。本章也簡要說明腎臟對鈣、磷與鎂離子的排泄調控——甲狀旁腺素（PTH）與 calcitriol 如何影響腎小管對這些離子的再吸收，以及甲狀旁腺功能減退與亢進的生理後果。
 
 ## 腎臟對鉀離子的處理
 
@@ -33,7 +33,7 @@ key_points:
 
 ### Intercalated Cells 的作用
 
-在嚴重鉀缺乏時，type A intercalated cells 可以再吸收 K⁺（透過 H⁺-K⁺ ATPase，將 K⁺ 再吸收同時分泌 H⁺），這是防止 hypokalemia 的最後一道防線。
+在嚴重鉀缺乏時，type A intercalated cells 可以再吸收 K⁺（透過 H⁺-K⁺ ATPase，將 K⁺ 再吸收同時分泌 H⁺），這是防止 <span style="color:#f87171">hypokalemia</span> 的最後一道防線。
 
 ## 影響鉀分泌的主要因素
 
@@ -53,7 +53,7 @@ Aldosterone 是調控鉀排泄最重要的激素。作用於 principal cells：
 - 上調 ROMK 與 BK K⁺ channels → 直接增加 K⁺ 分泌
 - 刺激 Na⁺-K⁺ ATPase → 增加細胞內 K⁺ 濃度
 
-Aldosterone 的分泌受血漿 K⁺ 濃度的直接刺激——這形成了一個負回饋環：血漿 K⁺ ↑ → aldosterone ↑ → 腎臟 K⁺ 排泄 ↑ → 血漿 K⁺ 回歸正常。
+Aldosterone 的分泌受血漿 K⁺ 濃度的直接刺激——這形成了一個負回饋環：血漿 K⁺ ↑ → <span style="color:#fb923c">aldosterone</span> ↑ → 腎臟 K⁺ 排泄 ↑ → 血漿 K⁺ 回歸正常。
 
 ### 遠端腎元流速的影響
 
@@ -64,7 +64,7 @@ Aldosterone 的分泌受血漿 K⁺ 濃度的直接刺激——這形成了一�
 
 ## 鉀排泄與血壓和心衰竭的關聯
 
-許多利尿劑（特別是 thiazides 與 loop diuretics）會增加鉀的排泄，可能導致 hypokalemia。嚴重的 hypokalemia 可引起心律不整、肌肉無力與腎濃縮功能障礙。相反地，ACE inhibitors、ARBs 與 potassium-sparing diuretics（spironolactone、amiloride）則減少 K⁺ 排泄，可能導致 hyperkalemia。
+許多利尿劑（特別是 thiazides 與 loop diuretics）會增加鉀的排泄，可能導致 <span style="color:#f87171">hypokalemia</span>。嚴重的 <span style="color:#f87171">hypokalemia</span> 可引起心律不整、肌肉無力與腎濃縮功能障礙。相反地，ACE inhibitors、ARBs 與 <span style="color:#60a5fa">potassium</span>-sparing diuretics（spironolactone、amiloride）則減少 K⁺ 排泄，可能導致 <span style="color:#f87171">hyperkalemia</span>。
 
 ## 腎臟對鈣的排泄調控
 

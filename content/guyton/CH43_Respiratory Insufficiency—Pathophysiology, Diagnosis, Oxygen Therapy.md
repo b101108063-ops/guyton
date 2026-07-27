@@ -25,7 +25,7 @@ summary: "本章探討常見肺部疾病的病理生理學、肺功能檢查的�
 
 **FVC（forced vital capacity）** 測定時，受試者先深吸至 TLC，再以最快速度用力吐至 RV。臨床上最常分析的指標是 **FEV₁（first second forced expiratory volume）**——第一秒內可吐出多少肺活量。
 
-正常人的 **FEV₁/FVC%** 約為 **80%**。氣道阻塞時，此比值降至約 47%；急性氣喘嚴重發作時，可低於 20%（圖 43-3）。
+<span style="color:#e2e8f0">正常人的</span> <span style="color:#e2e8f0">FEV₁/FVC%</span> 約為 <span style="color:#34d399">80%</span>。氣道阻塞時，此比值降至約 <span style="color:#f87171">47%</span>；急性氣喘嚴重發作時，可低於 <span style="color:#f87171">20%</span>（圖 43-3）。
 
 **Table: FEV₁/FVC% 臨床意義**
 
@@ -37,7 +37,7 @@ summary: "本章探討常見肺部疾病的病理生理學、肺功能檢查的�
 
 ## 慢性肺氣腫
 
-**Pulmonary emphysema**（肺氣腫）並非單純的「肺部空氣過多」，而是由多年吸菸導致的複雜阻塞性與破壞性過程。
+<span style="color:#e2e8f0">Pulmonary emphysema</span>（<span style="color:#22d3ee">肺氣腫</span>）並非單純的「肺部空氣過多」，而是由多年吸菸導致的複雜阻塞性與破壞性過程。
 
 ### 致病機制
 
@@ -89,7 +89,7 @@ Surfactant 由肺泡上皮細胞分泌，能將肺泡液體的表面張力降低
 
 ### 致病機制
 
-約 70% 的年輕患者屬於**過敏性氣喘**——體內產生過量 IgE 抗體，與過敏原結合後激活肺間質中的 **mast cells**，釋放多種介質：
+約 <span style="color:#f87171">70%</span> 的年輕患者屬於<span style="color:#e2e8f0">過敏性氣喘</span>——體內產生過量 <span style="color:#fb923c">IgE 抗體</span>，與過敏原結合後激活<span style="color:#22d3ee">肺間質</span>中的 <span style="color:#e2e8f0">mast cells</span>，釋放多種介質：
 
 | 介質 | 效應 |
 |------|------|
@@ -108,7 +108,7 @@ Surfactant 由肺泡上皮細胞分泌，能將肺泡液體的表面張力降低
 
 ## 結核病
 
-結核菌在肺臟引發肉芽腫性反應：巨噬細胞浸潤並包圍病灶，纖維組織形成 **tubercle（結節）**，將感染侷限化。若人體免疫系統無法控制（約 3% 未治療患者），結核菌擴散並大範圍破壞肺組織。
+<span style="color:#c084fc">結核菌</span>在<span style="color:#22d3ee">肺臟</span>引發肉芽腫性反應：<span style="color:#22d3ee">巨噬細胞</span>浸潤並包圍病灶，<span style="color:#22d3ee">纖維組織</span>形成 <span style="color:#e2e8f0">tubercle（結節）</span>，將感染侷限化。若人體免疫系統無法控制（約 3% 未治療患者），結核菌擴散並大範圍破壞肺組織。
 
 ### 晚期病理效應
 

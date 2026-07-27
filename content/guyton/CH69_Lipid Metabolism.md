@@ -10,13 +10,13 @@ key_points:
 
 ## 章節導讀
 
-本章探討人體內脂肪的代謝途徑與調控機制。首先說明血中脂肪如何以 lipoprotein 的形式被運輸，包括 chylomicron、VLDL、IDL、LDL、HDL 等不同顆粒的組成與功能差異。接著討論脂肪如何儲存於 adipose tissue 以及動員脂肪時如何進行 beta-oxidation 產生 ATP。肝臟在脂肪代謝中扮演樞紐角色，既能氧化脂肪酸供能，也可合成 triglyceride 並將其包裝成 VLDL 輸出。當體內缺乏 carbohydrate（例如飢餓或糖尿病）時，肝細胞會將過量的 acetyl-CoA 轉化為酮體（ketone bodies）——acetoacetic acid、β-hydroxybutyric acid、acetone——供其他組織使用，臨床上稱為 ketosis。脂肪的合成（主要是從 carbohydrate 轉化而來）與分解兩條路徑皆受荷爾蒙精密調控，insulin、glucagon、epinephrine、growth hormone 等皆參與其中。最後，本章也介紹 phospholipid 與 cholesterol 的結構、功能與代謝調控。
+本章探討人體內脂肪的代謝途徑與調控機制。首先說明血中脂肪如何以 lipoprotein 的形式被運輸，包括 chylomicron、V<span style="color:#60a5fa">LDL</span>、IDL、<span style="color:#60a5fa">LDL</span>、<span style="color:#60a5fa">HDL</span> 等不同顆粒的組成與功能差異。接著討論脂肪如何儲存於 adipose tissue 以及動員脂肪時如何進行 beta-oxidation 產生 ATP。肝臟在脂肪代謝中扮演樞紐角色，既能氧化脂肪酸供能，也可合成 triglyceride 並將其包裝成 V<span style="color:#60a5fa">LDL</span> 輸出。當體內缺乏 carbohydrate（例如飢餓或糖尿病）時，肝細胞會將過量的 acetyl-CoA 轉化為酮體（ketone bodies）——acetoacetic acid、β-hydroxybutyric acid、acetone——供其他組織使用，臨床上稱為 ketosis。脂肪的合成（主要是從 carbohydrate 轉化而來）與分解兩條路徑皆受荷爾蒙精密調控，insulin、glucagon、epinephrine、growth hormone 等皆參與其中。最後，本章也介紹 phospholipid 與 <span style="color:#60a5fa">cholesterol</span> 的結構、功能與代謝調控。
 
 ---
 
 ## Lipoprotein 的結構與分類
 
-在餐後吸收期結束、血中 chylomicron 已被清除之後，血漿中超過 95% 的脂肪都是以 lipoprotein 的形式存在。這些顆粒比 chylomicron 小，但組成類似，內含 triglyceride、cholesterol、phospholipid 與 protein。血漿中 lipoprotein 的總濃度平均約 700 mg/dl，可細分為以下成分：
+在餐後吸收期結束、血中 chylomicron 已被清除之後，血漿中超過 95% 的脂肪都是以 lipoprotein 的形式存在。這些顆粒比 chylomicron 小，但組成類似，內含 triglyceride、<span style="color:#60a5fa">cholesterol</span>、phospholipid 與 protein。血漿中 lipoprotein 的總濃度平均約 700 mg/dl，可細分為以下成分：
 
 - Cholesterol：180 mg/dl
 - Phospholipids：160 mg/dl
@@ -27,21 +27,21 @@ key_points:
 
 除了極大的 chylomicron 之外，依超高速離心機測得的密度可分為四類：
 
-- **VLDL（Very Low Density Lipoprotein）**：triglyceride 含量高，cholesterol 與 phospholipid 含量適中
-- **IDL（Intermediate-Density Lipoprotein）**：由 VLDL 移除部分 triglyceride 而來，cholesterol 與 phospholipid 濃度相對提高
-- **LDL（Low-Density Lipoprotein）**：幾乎所有 triglyceride 已被移除，cholesterol 濃度特別高，phospholipid 含量也較高
-- **HDL（High-Density Lipoprotein）**：protein 含量高（約 50%），cholesterol 與 phospholipid 含量相對較少
+- **V<span style="color:#60a5fa">LDL</span>（Very Low Density Lipoprotein）**：triglyceride 含量高，<span style="color:#60a5fa">cholesterol</span> 與 phospholipid 含量適中
+- **IDL（Intermediate-Density Lipoprotein）**：由 V<span style="color:#60a5fa">LDL</span> 移除部分 triglyceride 而來，<span style="color:#60a5fa">cholesterol</span> 與 phospholipid 濃度相對提高
+- **<span style="color:#60a5fa">LDL</span>（Low-Density Lipoprotein）**：幾乎所有 triglyceride 已被移除，<span style="color:#60a5fa">cholesterol</span> 濃度特別高，phospholipid 含量也較高
+- **<span style="color:#60a5fa">HDL</span>（High-Density Lipoprotein）**：protein 含量高（約 50%），<span style="color:#60a5fa">cholesterol</span> 與 phospholipid 含量相對較少
 
 ### Lipoprotein 的形成與功能
 
-幾乎所有 lipoprotein 都由肝臟合成，這也是血漿 cholesterol、phospholipid 與 triglyceride 的主要產地。HDL 有少量由腸道上皮細胞在吸收脂肪酸時同步合成。Lipoprotein 的主要功能是將脂肪運輸到全身各組織：VLDL 將肝臟合成的 triglyceride 送往 adipose tissue；其餘 lipoprotein 則負責將 phospholipid 與 cholesterol 在肝臟與週邊組織之間做雙向運輸。膽固醇的運輸異常與 atherosclerosis 的發生密切相關。
+幾乎所有 lipoprotein 都由肝臟合成，這也是血漿 <span style="color:#60a5fa">cholesterol</span>、phospholipid 與 triglyceride 的主要產地。<span style="color:#60a5fa">HDL</span> 有少量由腸道上皮細胞在吸收脂肪酸時同步合成。Lipoprotein 的主要功能是將脂肪運輸到全身各組織：V<span style="color:#60a5fa">LDL</span> 將肝臟合成的 triglyceride 送往 adipose tissue；其餘 lipoprotein 則負責將 phospholipid 與 <span style="color:#60a5fa">cholesterol</span> 在肝臟與週邊組織之間做雙向運輸。膽固醇的運輸異常與 atherosclerosis 的發生密切相關。
 
 <figure>
-Chylomicron（腸道）→ VLDL（肝臟）→ IDL → LDL
+Chylomicron（腸道）→ V<span style="color:#60a5fa">LDL</span>（肝臟）→ IDL → <span style="color:#60a5fa">LDL</span>
 Apo B、Apo E、FFA、IDL、LPL 等路徑節點
 </figure>
 
-**Figure 69-2.** Chylomicron（腸道合成）與 VLDL（肝臟合成）的主要代謝途徑總覽。Apo B、Apo E、FFA（游離脂肪酸）、IDL、LDL、LPL（lipoprotein lipase）等標示說明各步驟的角色。
+**Figure 69-2.** Chylomicron（腸道合成）與 V<span style="color:#60a5fa">LDL</span>（肝臟合成）的主要代謝途徑總覽。Apo B、Apo E、FFA（游離脂肪酸）、IDL、<span style="color:#60a5fa">LDL</span>、LPL（lipoprotein lipase）等標示說明各步驟的角色。
 
 ---
 
@@ -65,7 +65,7 @@ Adipose tissue 含有多種 lipase，有些負責將 chylomicron 與 lipoprotein
 
 1. 將脂肪酸降解為可供能的的小分子化合物
 2. 以 carbohydrate（以及少量 protein）為原料合成 triglyceride
-3. 以脂肪酸為原料合成其他 lipid，尤其是 cholesterol 與 phospholipid
+3. 以脂肪酸為原料合成其他 lipid，尤其是 <span style="color:#60a5fa">cholesterol</span> 與 phospholipid
 
 在飢餓早期、糖尿病或其他脂肪替代 carbohydrate 作為能源的狀況下，大量 triglyceride 會從 adipose tissue 動員出來，以 FFA 形式進入血液並再度沉積為肝臟的 triglyceride。因此，肝臟 triglyceride 的總量主要取決於整體脂肪被用作能源的速率。肥胖或 lipodystrophy（脂肪細胞萎縮或基因缺陷）患者也會出現脂肪在肝臟過度堆積的現象。
 
@@ -219,9 +219,9 @@ BMI = 體重（kg）÷ 身高（m）²
 
 ### Cholesterol
 
-Cholesterol（Figure 69-7）的 sterol nucleus 由多分子 acetyl-CoA 構成，可經側鏈修飾後轉變為 cholesterol 本體、膽汁酸（cholic acid）或腎上腺皮質/卵巢/睪丸的 steroid hormone（Chapter 78、82、83）。
+Cholesterol（Figure 69-7）的 sterol nucleus 由多分子 acetyl-CoA 構成，可經側鏈修飾後轉變為 <span style="color:#60a5fa">cholesterol</span> 本體、膽汁酸（cholic acid）或腎上腺皮質/卵巢/睪丸的 steroid hormone（Chapter 78、82、83）。
 
-膽固醇可與脂肪酸結合形成 cholesterol ester，血漿 lipoprotein 中約 70% 的膽固醇以此形式存在。
+膽固醇可與脂肪酸結合形成 <span style="color:#60a5fa">cholesterol</span> ester，血漿 lipoprotein 中約 70% 的膽固醇以此形式存在。
 
 #### 影響血漿膽固醇濃度的因素
 
@@ -229,7 +229,7 @@ Cholesterol（Figure 69-7）的 sterol nucleus 由多分子 acetyl-CoA 構成，
 - **飽和脂肪**：會使血膽固醇升高 15%–25%，且效果比直接限制膳食膽固醇更重要。
 - **不飽和脂肪酸**：通常可適度降低血膽固醇。
 - **胰島素、甲狀腺素缺乏**：會升高血膽固醇；甲狀腺機能亢進則降低之。
-- **遺傳因素**：LDL receptor 基因突變可阻止肝臟有效清除血漿 LDL，導致家族性高膽固醇血症。
+- **遺傳因素**：<span style="color:#60a5fa">LDL</span> receptor 基因突變可阻止肝臟有效清除血漿 <span style="color:#60a5fa">LDL</span>，導致家族性高膽固醇血症。
 
 #### 膽固醇的用途
 

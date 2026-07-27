@@ -10,7 +10,7 @@ key_points:
 
 ## 章節導讀
 
-能量代謝探討的是細胞如何控制並釋放能量。酶促反應的速率受酶濃度與受質濃度的共同調控（Michaelis-Menten 方程式）。當受質過量時，反應速率由酶濃度決定；當受質濃度低時，兩者共同決定速率。一系列連續反應的總速率由最慢的 rate-limiting step 決定。ADP 是幾乎所有能量釋放途徑的速率控制因子——細胞活動增加時，ATP 水解產生 ADP，進而自動加速所有能量釋放反應。本章接著說明能量的整體流向：食物中的能量先儲存於 ATP，約 65% 在 ATP 合成時以熱散失，最終僅約 27% 的食物能量到達功能系統，而這些能量最終也多數轉化為熱。能量輸出的構成包括基礎代謝率（BMR）、體能活動、食物的攝食與消化（thermogenic effect of food）以及維持體溫。本章也介紹了 BMR 的測量方法（direct/indirect calorimetry）、影響因素（如甲狀腺素、睾酮、發燒、睡眠、營養不良），以及 non-shivering thermogenesis（由交感神經刺激 brown fat 產生）。
+能量代謝探討的是細胞如何控制並釋放能量。酶促反應的速率受酶濃度與受質濃度的共同調控（Michaelis-Menten 方程式）。當受質過量時，反應速率由酶濃度決定；當受質濃度低時，兩者共同決定速率。一系列連續反應的總速率由最慢的 rate-limiting step 決定。ADP 是幾乎所有能量釋放途徑的速率控制因子——細胞活動增加時，ATP 水解產生 ADP，進而自動加速所有能量釋放反應。本章接著說明能量的整體流向：食物中的能量先儲存於 ATP，約 65% 在 ATP 合成時以熱散失，最終僅約 27% 的食物能量到達功能系統，而這些能量最終也多數轉化為熱。能量輸出的構成包括基礎代謝率（<span style="color:#60a5fa">BMR</span>）、體能活動、食物的攝食與消化（thermogenic effect of food）以及維持體溫。本章也介紹了 <span style="color:#60a5fa">BMR</span> 的測量方法（direct/indirect <span style="color:#60a5fa">calorimetry</span>）、影響因素（如甲狀腺素、睾酮、發燒、睡眠、營養不良），以及 non-shivering <span style="color:#60a5fa">thermogenesis</span>（由交感神經刺激 brown fat 產生）。
 
 ---
 
@@ -135,12 +135,12 @@ Acetyl-CoA、去胺基酸、其他受質、Glucose、Glycogen、ATP、AMP、Phos
 
 ---
 
-## 基礎代謝率（BMR）
+## 基礎代謝率（<span style="color:#60a5fa">BMR</span>）
 
-即使完全休息，體內化學反應仍需大量能量，這就是 BMR，占久坐者每日能量消耗的 50%–70%（Figure 73-3）。
+即使完全休息，體內化學反應仍需大量能量，這就是 <span style="color:#60a5fa">BMR</span>，占久坐者每日能量消耗的 50%–70%（Figure 73-3）。
 
 <figure>
-Exercise and nonexercise physical activity thermogenesis（32%）
+Exercise and nonexercise physical activity <span style="color:#60a5fa">thermogenesis</span>（32%）
 Thermic effect of food（8%）
 Basal metabolic rate（60%）
 每日總能量消耗（約 3000 Cal）
@@ -148,7 +148,7 @@ Basal metabolic rate（60%）
 
 **Figure 73-3.** 能量平衡且每日攝取約 3000 Cal 的 70 kg 成人之每日能量消耗分布。
 
-### BMR 的測量條件
+### <span style="color:#60a5fa">BMR</span> 的測量條件
 
 - 禁食至少 12 小時
 - 前晚充足睡眠後
@@ -157,16 +157,16 @@ Basal metabolic rate（60%）
 - 環境溫度舒適（68°F–80°F）
 - 測試期間不得有任何肢體活動
 
-70 kg 男性平均 BMR 約 65–70 Cal/hr。BMR 主要由骨骼肌量與體表面積決定，常以 Cal/hr/m² 體表面積表示（Figure 73-4）。
+70 kg 男性平均 <span style="color:#60a5fa">BMR</span> 約 65–70 Cal/hr。<span style="color:#60a5fa">BMR</span> 主要由骨骼肌量與體表面積決定，常以 Cal/hr/m² 體表面積表示（Figure 73-4）。
 
 <figure>
 不同年齡男女性的正常基礎代謝率
-（圖示男性與女性在不同年齡的 BMR 曲線）
+（圖示男性與女性在不同年齡的 <span style="color:#60a5fa">BMR</span> 曲線）
 </figure>
 
 **Figure 73-4.** 不同年齡男女性的正常基礎代謝率。
 
-### 影響 BMR 的因素
+### 影響 <span style="color:#60a5fa">BMR</span> 的因素
 
 | 因素 | 效應 |
 |---|---|
@@ -180,4 +180,4 @@ Basal metabolic rate（60%）
 
 ### Non-Shivering Thermogenesis：交感神經的角色
 
-Cold stress 時交感神經系統釋放 norepinephrine 與 epinephrine，刺激 brown fat（含有大量粒線體且 oxidative phosphorylation 被「去偶聯」）產生大量熱而幾乎不生成 ATP。新生兒擁有較多 brown fat，最大交感刺激可使代謝率提高超過 100%。成人 brown fat 幾乎不存在，此類 thermogenesis 對整體熱生成的貢獻估計不超過 10%–15%。
+Cold stress 時交感神經系統釋放 norepinephrine 與 epinephrine，刺激 brown fat（含有大量粒線體且 oxidative phosphorylation 被「去偶聯」）產生大量熱而幾乎不生成 ATP。新生兒擁有較多 brown fat，最大交感刺激可使代謝率提高超過 100%。成人 brown fat 幾乎不存在，此類 <span style="color:#60a5fa">thermogenesis</span> 對整體熱生成的貢獻估計不超過 10%–15%。

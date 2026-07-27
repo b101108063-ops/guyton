@@ -44,11 +44,11 @@ summary: "本章探討深海潛水與高氣壓環境的生理學。隨深度增�
 
 | 深度（英尺） | 溶解氮量（公升） |
 |-------------|----------------|
-| 0（海平面）  | 1              |
-| 33          | 2              |
-| 100         | 4              |
-| 200         | 7              |
-| 300         | 10             |
+| 0（海平面）  | <span style="color:#34d399">1</span>              |
+| 33          | <span style="color:#34d399">2</span>              |
+| 100         | <span style="color:#f87171">4</span>              |
+| 200         | <span style="color:#f87171">7</span>              |
+| 300         | <span style="color:#f87171">10</span>             |
 
 各組織達到與肺泡氮 partial pressure 平衡所需的時間差異很大：
 
@@ -61,15 +61,15 @@ summary: "本章探討深海潛水與高氣壓環境的生理學。隨深度增�
 
 當潜水員在高壓環境暴露夠久以來，體內累積大量溶解氮。若快速上升至水面，組織中的氮 partial pressure 遠高於肺泡氮 partial pressure，氮氣開始經血液釋放至肺泡。若減壓過快，氮氣在組織與血液中來不及溶解而直接形成**氣泡**——氣泡可在細胞內或細胞外形成，堵塞各組織的血管，引發程度不一的損傷（圖 45-3）。
 
-減壓病的別名包括：壓縮空氣病、潛水夫病、Caisson disease、 diver's paralysis、dysbarism。
+<span style="color:#e2e8f0">減壓病的別名包括：壓縮空氣病、潛水夫病、Caisson disease、 diver's paralysis、dysbarism。</span>
 
 ### 減壓病的症狀
 
 | 症狀 | 發生率 | 機制 |
 |------|--------|------|
-| **關節與肌肉疼痛（bends）** | 85–90% | 氣泡阻塞關節與肌肉血流 |
-| **神經系統症狀**（眩暈、癱瘓、意識喪失） | 5–10% | 氣泡進入腦與脊髓血管 |
-| **The chokes**（肺部微栓塞） | ~2% | 大量微氣泡堵塞肺微血管，導致嚴重呼吸困難、肺水腫，可能致死 |
+| <span style="color:#e2e8f0">關節與肌肉疼痛（bends）</span> | <span style="color:#f87171">85–90%</span> | 氣泡阻塞關節與<span style="color:#22d3ee">肌肉</span>血流 |
+| <span style="color:#e2e8f0">神經系統症狀</span>（眩暈、癱瘓、意識喪失） | <span style="color:#f87171">5–10%</span> | 氣泡進入<span style="color:#22d3ee">腦</span>與<span style="color:#22d3ee">脊髓</span>血管 |
+| <span style="color:#e2e8f0">The chokes</span>（肺部微栓塞） | <span style="color:#f87171">~2%</span> | 大量微氣泡堵塞<span style="color:#22d3ee">肺微血管</span>，導致嚴重呼吸困難、<span style="color:#e2e8f0">肺水腫</span>，可能致死 |
 
 ### 減壓表的原理
 

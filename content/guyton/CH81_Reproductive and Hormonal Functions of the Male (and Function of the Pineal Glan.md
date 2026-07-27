@@ -10,7 +10,7 @@ key_points:
 
 ## 章節導讀
 
-男性生殖系統的核心是下丘腦-垂體-性腺軸（hypothalamic-pituitary-gonadal axis）。下丘腦以脈衝式節律分泌 GnRH，刺激垂體前葉釋放 LH 與 FSH。LH 作用於 Leydig cells 刺激 testosterone 合成；FSH 作用於 seminiferous tubules 中的 Sertoli cells，促進 spermatogenesis。Testosterone 是主要的雄激素，負責男性第一與第二性徵的發育與維持，並具有蛋白質同化作用（促進肌肉生長）與促紅血球生成作用。Testosterone 與 inhibin（由 Sertoli cells 分泌）共同對下丘腦與垂體施加 negative feedback，維持血漿 testosterone 濃度的穩定。睪丸溫度需低於體溫才能正常產生精子（这也是为什么 cryptorchidism 需要治療）。精液的組成包括精子（約占 5%）與來自精囊（約 60%）、前列腺（約 30%）與尿道球腺的液體。Pineal gland 位於間腦背面，分泌 melatonin，調控晝夜節律並抑制性腺發育。褪黑激素的分泌受光照抑制——光照抑制視網膜信號到達 pineal gland，使 melatonin 分泌減少，允許性腺在春季啟動活動。
+男性生殖系統的核心是下丘腦-垂體-性腺軸（hypothalamic-pituitary-gonadal axis）。下丘腦以脈衝式節律分泌 GnRH，刺激垂體前葉釋放 <span style="color:#fb923c">LH</span> 與 <span style="color:#fb923c">FSH</span>。<span style="color:#fb923c">LH</span> 作用於 <span style="color:#22d3ee">Leydig cells</span> 刺激 <span style="color:#fb923c">testosterone</span> 合成；<span style="color:#fb923c">FSH</span> 作用於 seminiferous tubules 中的 <span style="color:#22d3ee">Sertoli cells</span>，促進 <span style="color:#60a5fa">sperm</span>atogenesis。Testosterone 是主要的雄激素，負責男性第一與第二性徵的發育與維持，並具有蛋白質同化作用（促進肌肉生長）與促紅血球生成作用。Testosterone 與 inhibin（由 <span style="color:#22d3ee">Sertoli cells</span> 分泌）共同對下丘腦與垂體施加 negative feedback，維持血漿 <span style="color:#fb923c">testosterone</span> 濃度的穩定。睪丸溫度需低於體溫才能正常產生精子（这也是为什么 cryptorchidism 需要治療）。精液的組成包括精子（約占 5%）與來自精囊（約 60%）、前列腺（約 30%）與尿道球腺的液體。Pineal gland 位於間腦背面，分泌 melatonin，調控晝夜節律並抑制性腺發育。褪黑激素的分泌受光照抑制——光照抑制視網膜信號到達 pineal gland，使 melatonin 分泌減少，允許性腺在春季啟動活動。
 
 ---
 
@@ -21,20 +21,20 @@ key_points:
 精子發生於 seminiferous tubules，分為三個階段：
 
 1. **增殖期**： Spermatogonia 進行有絲分裂，維持生殖細胞系列
-2. **成長期**： Primary spermatocytes 增大，為減數分裂做準備
-3. **成熟期**：減數分裂產生單倍體 spermatids，再經 spermiogenesis（分化）成為 spermatozoa（精子）
+2. **成長期**： Primary <span style="color:#60a5fa">sperm</span>atocytes 增大，為減數分裂做準備
+3. **成熟期**：減數分裂產生單倍體 <span style="color:#60a5fa">sperm</span>atids，再經 <span style="color:#60a5fa">sperm</span>iogenesis（分化）成為 <span style="color:#60a5fa">sperm</span>atozoa（精子）
 
 成熟的精子由頭部（含濃縮細胞核與 DNA）、中段（粒線體螺旋排列於軸絲周圍）與尾部（flagellum，藉鞭打運動提供活動力）構成。
 
 ### 精子發生的激素調控
 
-FSH 與 Sertoli cells 上的受器結合，啟動精子發生所必需的營養與結構支持信號；高濃度的睪固酮存在於 seminiferous tubules 內（由 Leydig cells 分泌擴散而來）也是精子正常發育的必要條件。
+<span style="color:#fb923c">FSH</span> 與 <span style="color:#22d3ee">Sertoli cells</span> 上的受器結合，啟動精子發生所必需的營養與結構支持信號；高濃度的睪固酮存在於 seminiferous tubules 內（由 <span style="color:#22d3ee">Leydig cells</span> 分泌擴散而來）也是精子正常發育的必要條件。
 
 ---
 
 ## 男性生殖器官
 
-**睪丸**：主要性腺，產生精子與 testosterone
+**睪丸**：主要性腺，產生精子與 <span style="color:#fb923c">testosterone</span>
 
 **副睪（Epididymis）**：精子儲存與成熟場所
 
@@ -63,7 +63,7 @@ FSH 與 Sertoli cells 上的受器結合，啟動精子發生所必需的營養�
 
 ## 下丘腦-垂體-性腺軸的回饋調控
 
-LH 刺激 Leydig cells 分泌 testosterone；FSH 刺激 Sertoli cells 支持精子發生。 Testosterone 對下丘腦（抑制 GnRH）與垂體前葉（抑制 LH 分泌）施加 negative feedback。Inhibin（由 Sertoli cells 在 FSH 刺激下分泌）選擇性抑制 FSH 分泌。
+<span style="color:#fb923c">LH</span> 刺激 <span style="color:#22d3ee">Leydig cells</span> 分泌 <span style="color:#fb923c">testosterone</span>；<span style="color:#fb923c">FSH</span> 刺激 <span style="color:#22d3ee">Sertoli cells</span> 支持精子發生。 Testosterone 對下丘腦（抑制 GnRH）與垂體前葉（抑制 <span style="color:#fb923c">LH</span> 分泌）施加 negative feedback。Inhibin（由 <span style="color:#22d3ee">Sertoli cells</span> 在 <span style="color:#fb923c">FSH</span> 刺激下分泌）選擇性抑制 <span style="color:#fb923c">FSH</span> 分泌。
 
 ---
 
@@ -127,7 +127,7 @@ Testosterone 水平在 30 歲後每年約下降 1%。部分男性出現類似女
 
 ### Melatonin 的主要功能
 
-1. **抑制性腺發育**：Melatonin 抑制 GnRH 的釋放，從而減少 LH 與 FSH 的分泌，抑制性腺功能。這解釋了為何生活在溫帶與寒帶的動物其性腺在冬季最小、在春季（日照增長）開始增大並恢復生殖活動。
+1. **抑制性腺發育**：Melatonin 抑制 GnRH 的釋放，從而減少 <span style="color:#fb923c">LH</span> 與 <span style="color:#fb923c">FSH</span> 的分泌，抑制性腺功能。這解釋了為何生活在溫帶與寒帶的動物其性腺在冬季最小、在春季（日照增長）開始增大並恢復生殖活動。
 2. **晝夜節律的同步**：Melatonin 幫助設定內源性時鐘（由 suprachiasmatic nucleus 主導）與外界光照週期同步，是體內時間感的重要调节者。
 
 動物實驗中，長期施打 melatonin 可抑制性腺並降低性腺重量；但人類給予外源性 melatonin 的效果尚待更多研究確認。
