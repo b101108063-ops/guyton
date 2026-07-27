@@ -11,7 +11,7 @@ key_points:
 
 ## 章節導讀
 
-紅血球（Red Blood Cells, RBCs）是血液中數量最多的細胞，負責從肺部將氧氣運輸至全身組織。本章首先說明紅血球生成（erythropoiesis）的過程：從造血幹細胞（hematopoietic stem cells）分化為 proerythroblast，經過各個 erythroblast 階段，最終形成 reticulocyte 並釋放入血液。紅血球生成的調節核心是 <span style="color:#60a5fa">erythropoietin</span>（EPO）——一種由腎臟分泌的荷爾蒙，當組織缺氧時分泌增加，刺激骨髓製造更多紅血球。成熟紅血球沒有細胞核，寿命約 120 天，最終在脾臟被巨噬細胞清除，釋出的鐵會被回收用於新的血紅素合成。本章接著說明各類貧血（<span style="color:#f87171">anemia</span>）的生理學原因——包括血液流失、缺乏鐵、維生素 B12 或葉酸、以及慢性疾病的貧血。最後說明紅血球增多症（<span style="color:#f87171">polycythemia</span>）的類型與其對血液黏滯度的影響。
+紅血球（Red Blood Cells, RBCs）是血液中數量最多的細胞，負責從肺部將氧氣運輸至全身組織。本章首先說明紅血球生成（erythropoiesis）的過程：從<span style="color:#22d3ee">造血幹細胞</span>（<span style="color:#60a5fa">hematopoietic stem cells</span>）分化為 proerythroblast，經過各個 erythroblast 階段，最終形成 reticulocyte 並釋放入血液。紅血球生成的調節核心是 <span style="color:#22d3ee">腎臟</span>分泌的<span style="color:#fb923c">erythropoietin</span>（EPO）——一種由腎臟分泌的荷爾蒙，當組織缺氧時分泌增加，刺激骨髓製造更多紅血球。成熟紅血球沒有細胞核，寿命約 120 天，最終在脾臟被巨噬細胞清除，釋出的鐵會被回收用於新的血紅素合成。本章接著說明各類<span style="color:#f87171">貧血</span>（<span style="color:#f87171">anemia</span>）的<span style="color:#60a5fa">生理學</span>原因——包括血液流失、缺乏鐵、維生素 B12 或葉酸、以及慢性疾病的貧血。最後說明<span style="color:#60a5fa">紅血球增多症</span>（<span style="color:#f87171">polycythemia</span>）的類型與其對血液黏滯度的影響。
 
 ## 紅血球的生成（Erythropoiesis）
 
@@ -27,7 +27,7 @@ key_points:
 
 EPO 是紅血球生成的主要調節因子：
 
-- **分泌來源**：約 90% 來自腎臟（腎皮質與外髓的 fibroblast-like interstitial cells），其餘來自肝臟
+- **分泌來源**：約 <span style="color:#34d399">90%</span> 來自<span style="color:#22d3ee">腎臟</span>（<span style="color:#22d3ee">腎皮質</span>與外髓的 fibroblast-like interstitial cells），其餘來自肝臟
 - **刺激分泌的因素**：組織缺氧（hypoxia）是主要刺激
 - **分泌機制**：缺氧時，腎臟細胞內的 HIF1（hypoxia-inducible factor 1）增加，結合到 EPO 基因的 hypoxia response element，促進 EPO 的轉錄
 
@@ -38,7 +38,7 @@ EPO 是紅血球生成的主要調節因子：
 紅血球生成需要充足的鐵、維生素 B12、與 folic acid：
 
 - **鐵（Iron）**：是血紅素的核心成分。缺鐵導致血紅素合成不足，紅血球變小且血紅素含量低（微小球性低色性貧血）
-- **維生素 B12（Cyanocobalamin）**與** folic acid**：兩者都是 DNA 合成所必需的，影響細胞核的成熟。缺乏時，紅血球發育停滯，變得過大（macrocytic <span style="color:#f87171">anemia</span>）且壽命縮短
+- **<span style="color:#fb923c">維生素 B12</span>（<span style="color:#fb923c">Cyanocobalamin</span>）**與** folic acid**（<span style="color:#fb923c">folic acid</span>）**：兩者都是 <span style="color:#60a5fa">DNA</span> 合成所必需的，影響細胞核的成熟。缺乏時，紅血球發育停滯，變得過大（macrocytic <span style="color:#f87171">anemia</span>）且壽命縮短
 
 ### 血紅素的合成
 
@@ -83,27 +83,27 @@ EPO 是紅血球生成的主要調節因子：
 
 ### 維生素 B12 與葉酸缺乏性貧血（Megaloblastic Anemia）
 
-維生素 B12 或 folic acid 缺乏導致 DNA 合成受阻，細胞核成熟停滯，紅血球變得過大（macrocytes）且形狀不規則。臨床上稱為**巨芽球性貧血**（megaloblastic <span style="color:#f87171">anemia</span>）。
+維生素 B12 或 folic acid 缺乏導致 DNA 合成受阻，細胞核成熟停滯，<span style="color:#22d3ee">紅血球</span>變得過大（macrocytes）且形狀不規則。臨床上稱為**<span style="color:#60a5fa">巨芽球性貧血</span>**（megaloblastic <span style="color:#f87171">anemia</span>）。
 
 維生素 B12 缺乏的常見原因：
 
 - **惡性貧血（ Pernicious <span style="color:#f87171">anemia</span>）**：胃黏膜萎縮 → intrinsic factor 分泌減少 → B12 吸收障礙
 - 胃切除手術後
-- 迴腸疾病（如 Crohn disease、sprue）
+- <span style="color:#22d3ee">迴腸</span>疾病（如 <span style="color:#c084fc">Crohn disease</span>、sprue）
 
 Intrinsic factor 由胃黏膜的壁細胞分泌，與 B12 結合保護其不被消化，並促進迴腸吸收。
 
 ### 再生不良性貧血（Aplastic Anemia）
 
-骨髓功能衰竭，造血細胞無法正常增殖。原因包括：放射治療、化學治療、某些毒素（殺蟲劑、苯）、自體免疫攻擊（全身性紅斑狼瘡）。嚴重者需要輸血或骨髓移植。
+<span style="color:#22d3ee">骨髓</span>功能衰竭，<span style="color:#22d3ee">造血細胞</span>無法正常增殖。原因包括：放射治療、化學治療、某些毒素（殺蟲劑、苯）、自體免疫攻擊（全身性紅斑狼瘡）。嚴重者需要輸血或骨髓移植。
 
 ### 溶血性貧血（Hemolytic Anemia）
 
-紅血球受損或結構異常，壽命縮短至數天至數週，骨髓來不及補充，導致貧血。
+<span style="color:#22d3ee">紅血球</span>受損或結構異常，<span style="color:#60a5fa">壽命</span>縮短至數天至數週，骨髓來不及補充，導致貧血。
 
 **遺傳性球形紅血球症（Hereditary spherocytosis）**：紅血球變成球形而非雙凹盤，剛性增加，在脾臟容易被破壞。
 
-**鐮刀型紅血球貧血（Sickle cell <span style="color:#f87171">anemia</span>）**：β 鏈上有一個氨基酸被置換（glutamic acid → valine），形成異常血紅素（HbS）。缺氧時 HbS 會形成長結晶，使紅血球變成鐮刀狀，容易破裂與阻塞微血管，引發危象。
+**鐮刀型紅血球貧血（Sickle cell <span style="color:#f87171">anemia</span>）**：β 鏈上有一個氨基酸被置換（glutamic acid → valine），形成異常<span style="color:#60a5fa">血紅素</span>（<span style="color:#60a5fa">HbS</span>）。<span style="color:#f87171">缺氧</span>時 <span style="color:#60a5fa">HbS</span> 會形成長結晶，使<span style="color:#22d3ee">紅血球</span>變成<span style="color:#e2e8f0">鐮刀狀</span>，容易破裂與阻塞微血管，引發危象。
 
 **新生兒溶血性疾病（Erythroblastosis fetalis）**：Rh 陽性的胎兒紅血球被 Rh 陰性母親的抗體攻擊，導致新生兒嚴重貧血。
 
@@ -124,14 +124,14 @@ Intrinsic factor 由胃黏膜的壁細胞分泌，與 B12 結合保護其不被�
 
 因組織慢性缺氧驅動 EPO 分泌，骨髓製造更多紅血球。常見原因：
 
-- **高山適應**：居住於高海拔地區（大氣氧分壓低）
-- **慢性心肺疾病**：心衰竭、慢性阻塞性肺病
+- **<span style="color:#60a5fa">高山適應</span>**：居住於<span style="color:#60a5fa">高海拔</span>地區（大氣氧分壓低）
+- **慢性心肺疾病**：<span style="color:#60a5fa">心衰竭</span>、<span style="color:#60a5fa">慢性阻塞性肺病</span>
 - **血紅素異常**：對氧氣親和力過高的血紅素疾病
 
-血紅球計數通常為 6–7 百萬/微升，輕度增加。
+<span style="color:#22d3ee">血紅球</span>計數通常為 <span style="color:#34d399">6–7 百萬/微升</span>，輕度增加。
 
 ### 真性紅血球增多症（Polycythemia Vera）
 
-骨髓造血細胞本身病變，不依賴 EPO 刺激，紅血球（與其他血球系）過度增殖。血紅球計數可達 7–8 百萬/微升，<span style="color:#60a5fa">hematocrit</span> 可升至 60%–70%（正常約 40%–45%）。血液黏滯度可升至正常的 10 倍，大量毛細血管被黏稠血液堵塞。
+骨髓造血細胞本身病變，不依賴 EPO 刺激，紅血球（與其他血球系）過度增殖。<span style="color:#22d3ee">血紅球</span>計數可達 <span style="color:#f87171">7–8 百萬/微升</span>，<span style="color:#60a5fa">hematocrit</span> 可升至 60%–70%（正常約 40%–45%）。血液黏滯度可升至正常的 10 倍，大量毛細血管被黏稠血液堵塞。
 
-真性紅血球增多症患者面臨更高的血栓風險（中風、心肌梗塞）與出血風險（因血小板功能異常）。
+真性紅血球增多症患者面臨更高的<span style="color:#f87171">血栓風險</span>（中風、心肌梗塞）與出血風險（因血小板功能異常）。

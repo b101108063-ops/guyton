@@ -11,7 +11,7 @@ key_points:
 
 ## 章節導讀
 
-酸鹼平衡是體內環境恆定的關鍵指標之一。正常血漿 pH 維持在 <span style="color:#34d399">7.35</span>–<span style="color:#34d399">7.45</span> 的窄幅範圍內，這個平衡由三層機制共同維持：緩衝系統（<span style="color:#60a5fa">buffer</span>s）、呼吸系統（CO₂ 的排出）與腎臟（碳酸氫根的再吸收與酸的排泄）。本章首先說明三種主要的細胞外與細胞內緩衝系統——<span style="color:#60a5fa">bicarbonate</span> <span style="color:#60a5fa">buffer</span> system、phosphate <span style="color:#60a5fa">buffer</span> system 與蛋白質緩衝系統——如何快速中和過多或過少的氫離子（H⁺）。接著介紹 Henderson-Hasselbalch 方程式，並用它來解釋呼吸性與代謝性酸鹼失衡的由來。本章重點在於腎臟如何調節酸鹼平衡：腎小管細胞如何分泌 H⁺ 並同時再生 HCO₃⁻ 回到血液，這個過程如何受到酸中毒（<span style="color:#60a5fa">acidosis</span>）與鹼中毒（<span style="color:#60a5fa">alkalosis</span>）的調控，以及為什麼嚴重的腎功能障礙最終會導致無法控制的酸中毒。
+酸鹼平衡是體內環境恆定的關鍵指標之一。正常血漿 pH 維持在 <span style="color:#34d399">7.35</span>–<span style="color:#34d399">7.45</span> 的窄幅範圍內，這個平衡由三層機制共同維持：緩衝系統（<span style="color:#60a5fa">buffer</span>s）、呼吸系統（CO₂ 的排出）與腎臟（碳酸氫根的再吸收與酸的排泄）。本章首先說明三種主要的<span style="color:#22d3ee">細胞外</span>與<span style="color:#22d3ee">細胞內</span>緩衝系統——<span style="color:#60a5fa">bicarbonate</span> <span style="color:#60a5fa">buffer</span> system、<span style="color:#60a5fa">phosphate</span> <span style="color:#60a5fa">buffer</span> system 與<span style="color:#60a5fa">蛋白質</span>緩衝系統——如何快速中和過多或過少的氫離子（H⁺）。接著介紹 Henderson-Hasselbalch 方程式，並用它來解釋呼吸性與代謝性酸鹼失衡的由來。本章重點在於腎臟如何調節酸鹼平衡：腎小管細胞如何分泌 H⁺ 並同時再生 HCO₃⁻ 回到血液，這個過程如何受到酸中毒（<span style="color:#60a5fa">acidosis</span>）與鹼中毒（<span style="color:#60a5fa">alkalosis</span>）的調控，以及為什麼嚴重的<span style="color:#22d3ee">腎功能</span>障礙最終會導致無法控制的<span style="color:#60a5fa">酸中毒</span>。
 
 ## 氫離子濃度與 pH
 
@@ -19,10 +19,10 @@ key_points:
 
 ## 體內酸鹼失衡的來源
 
-每天體內產生約 80 mEq 的 H⁺，主要來自：
+每天體內產生約 <span style="color:#34d399">80 mEq</span> 的 H⁺，主要來自：
 
-- **碳質代謝**：CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻（這個 H⁺ 由肺臟管理排出）
-- **含硫氨基酸與磷蛋白質的代謝**：產生 sulfuric acid 與 phosphoric acid，無法由肺臟排出，必須由腎臟排泄
+- **<span style="color:#60a5fa">碳質代謝</span>**：CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻（這個 H⁺ 由<span style="color:#22d3ee">肺臟</span>管理排出）
+- **<span style="color:#60a5fa">含硫氨基酸</span>與<span style="color:#fb923c">磷</span>蛋白質的代謝**：產生<span style="color:#fb923c">sulfuric acid</span> 與<span style="color:#fb923c">phosphoric acid</span>，無法由<span style="color:#22d3ee">肺臟</span>排出，必須由<span style="color:#22d3ee">腎臟</span>排泄
 
 沒有緩衝系統，如此大量的 H⁺ 會在瞬間使體內環境變得致命。
 
@@ -30,19 +30,19 @@ key_points:
 
 這是細胞外液中最重要的緩衝系統，由弱酸（H₂CO₃）與其鹼鹽（NaHCO₃）組成。
 
-### 運作原理
+### <span style="color:#60a5fa">運作原理</span>
 
-當強酸（如 HCl）加入時：
+當強酸（如 <span style="color:#fb923c">HCl</span>）加入時：
 
 H⁺ + HCO₃⁻ → H₂CO₃ → CO₂ + H₂O
 
-強酸中的 H⁺ 與 HCO₃⁻ 反應形成極弱的酸 H₂CO₃，進而分解為二氧化碳與水。CO₂ 刺激呼吸中樞增加通氣，將過多的 CO₂ 排出體外。
+強酸中的 H⁺ 與 HCO₃⁻ 反應形成極弱的酸 H₂CO₃，進而分解為二氧化碳與水。CO₂ 刺激<span style="color:#22d3ee">呼吸中樞</span>增加通氣，將過多的 CO₂ 排出體外。
 
-當強鹼（如 NaOH）加入時：
+當強鹼（如 <span style="color:#fb923c">NaOH</span>）加入時：
 
 NaOH + H₂CO₃ → NaHCO₃ + H₂O
 
-強鹼被置換為弱鹼 NaHCO₃，同時消耗 H₂CO₃，刺激呼吸減少 CO₂ 排出，腎臟則增加 HCO₃⁻ 的排泄。
+強鹼被置換為弱鹼 NaHCO₃，同時消耗 H₂CO₃，刺激<span style="color:#22d3ee">呼吸</span>減少 CO₂ 排出，<span style="color:#22d3ee">腎臟</span>則增加 HCO₃⁻ 的排泄。
 
 ### Henderson-Hasselbalch 方程式
 
@@ -123,24 +123,24 @@ H⁺ + Hb ⇌ HHb
 
 - **酸性物質產生過多**：乳酸性酸中毒（組織缺氧）、酮酸累積（糖尿病禁餓）
 - **碳酸氫根丟失過多**：腹瀉（腸道流失鹼性液體）、腎小管酸中毒
-- **腎臟排泄酸能力減退**：腎衰竭
+- **<span style="color:#22d3ee">腎臟</span>排泄酸能力減退**：<span style="color:#22d3ee">腎衰竭</span>
 
 診斷上，[HCO₃⁻] 下降，PCO₂ 代償性下降（呼吸系統加速排出 CO₂）。
 
 ### 呼吸性酸中毒（Respiratory Acidosis）
 
-起因為肺泡通氣不足，CO₂ 滯留：
+起因為<span style="color:#22d3ee">肺泡</span>通氣不足，CO₂ 滯留：
 
 - PCO₂ 升高，[HCO₃⁻] 代償性升高
-- 常見於慢性阻塞性肺病（COPD）、嗎啡過量、中樞性呼吸抑制
+- 常見於<span style="color:#c084fc">慢性阻塞性肺病</span>（<span style="color:#60a5fa">COPD</span>）、<span style="color:#fb923c">嗎啡</span>過量、<span style="color:#22d3ee">中樞性</span><span style="color:#22d3ee">呼吸</span>抑制
 
 ### 代謝性鹼中毒（Metabolic Alkalosis）
 
 起因包括：
 
-- **酸性物質丟失**：嘔吐（丟失胃酸）、胃抽吸
-- **鹼性物質攝取過多**：大量輸液或抗酸劑
-- **利尿劑使用**：丟失 H⁺ 與 Cl⁻
+- **<span style="color:#60a5fa">酸性物質</span>丟失**：嘔吐（丟失<span style="color:#fb923c">胃酸</span>）、<span style="color:#22d3ee">胃</span>抽吸
+- **<span style="color:#60a5fa">鹼性物質</span>攝取過多**：大量輸液或<span style="color:#fb923c">抗酸劑</span>
+- **<span style="color:#fb923c">利尿劑</span>使用**：丟失 H⁺ 與 Cl⁻
 
 診斷上，[HCO₃⁻] 升高，PCO₂ 代償性升高（呼吸抑制）。
 
@@ -149,8 +149,8 @@ H⁺ + Hb ⇌ HHb
 起因為過度通氣，CO₂ 排出過多：
 
 - PCO₂ 下降，[HCO₃⁻] 代償性下降
-- 常見於焦慮引發的過度換氣、高海拔環境
+- 常見於<span style="color:#60a5fa">焦慮</span>引發的過度換氣、高<span style="color:#60a5fa">海拔</span>環境
 
 ## 腎臟在慢性酸中毒中的角色
 
-在慢性腎衰竭時，腎臟排泄 H⁺ 與再生 HCO₃⁻ 的能力受損，導致進行性的 metabolic <span style="color:#60a5fa">acidosis</span>。這種酸中毒若未治療，會引起骨質流失（骨鈣動員緩衝 H⁺）、肌肉蛋白質分解、以及高血鉀（加劇心律不整風險）。
+在慢性腎衰竭時，腎臟排泄 H⁺ 與再生 HCO₃⁻ 的能力受損，導致進行性的 metabolic <span style="color:#60a5fa">acidosis</span>。這種<span style="color:#60a5fa">酸中毒</span>若未治療，會引起<span style="color:#60a5fa">骨質流失</span>（<span style="color:#fb923c">骨鈣</span>動員緩衝 H⁺）、<span style="color:#22d3ee">肌肉</span><span style="color:#60a5fa">蛋白質</span>分解、以及<span style="color:#f87171">高血鉀</span>（加劇<span style="color:#f87171">心律不整</span>風險）。

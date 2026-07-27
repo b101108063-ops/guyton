@@ -12,11 +12,11 @@ key_points:
 
 ## 章節導讀
 
-免疫系統是人體抵禦外來病原體的複雜防線。本章聚焦於後天免疫（adaptive immunity）的兩大核心：T 淋巴細胞（cell-mediated immunity）與 B 淋巴細胞（humoral immunity）。T 淋巴細胞在胸腺中經歷篩選與教育，僅保留對外来抗原具有反應性的細胞，並透過細胞直接接觸的方式攻擊病原體或異常細胞。B 淋巴細胞則分化為漿細胞，產生大量 antibody（免疫球蛋白）來中和或破壞病原體。抗體的結構由輕鏈與重鏈組成，具有高度特異性的抗原結合位，能精準辨識並與目標抗原結合。補體系統（complement system）則作為抗體的輔助放大機制，透過級聯反應增強對病原體的破壞力。本章亦說明免疫記憶的形成機制，解釋何以疫苗接种能提供長期的疾病保護。
+<span style="color:#60a5fa">免疫系統</span>是人體抵禦外來<span style="color:#c084fc">病原體</span>的複雜防線。本章聚焦於<span style="color:#60a5fa">後天免疫</span>（<span style="color:#60a5fa">adaptive immunity</span>）的兩大核心：<span style="color:#22d3ee">T 淋巴細胞</span>（<span style="color:#60a5fa">cell-mediated immunity</span>）與<span style="color:#22d3ee">B 淋巴細胞</span>（<span style="color:#60a5fa">humoral immunity</span>）。<span style="color:#22d3ee">T 淋巴細胞</span>在<span style="color:#22d3ee">胸腺</span>中經歷篩選與教育，僅保留對外来<span style="color:#c084fc">抗原</span>具有反應性的<span style="color:#22d3ee">細胞</span>，並透過<span style="color:#22d3ee">細胞</span>直接接觸的方式攻擊<span style="color:#c084fc">病原體</span>或異常<span style="color:#22d3ee">細胞</span>。<span style="color:#22d3ee">B 淋巴細胞</span>則分化為<span style="color:#22d3ee">漿細胞</span>，產生大量<span style="color:#60a5fa">抗體</span>（<span style="color:#60a5fa">antibody</span>，<span style="color:#60a5fa">免疫球蛋白</span>）來中和或破壞<span style="color:#c084fc">病原體</span>。<span style="color:#60a5fa">抗體</span>的結構由<span style="color:#60a5fa">輕鏈</span>與<span style="color:#60a5fa">重鏈</span>組成，具有高度特異性的<span style="color:#c084fc">抗原</span>結合位，能精準辨識並與目標<span style="color:#c084fc">抗原</span>結合。<span style="color:#60a5fa">補體系統</span>（<span style="color:#60a5fa">complement system</span>）則作為<span style="color:#60a5fa">抗體</span>的輔助放大機制，透過級聯反應增強對病原體的破壞力。本章亦說明<span style="color:#60a5fa">免疫記憶</span>的形成機制，解釋何以<span style="color:#fb923c">疫苗</span>接种能提供長期的疾病保護。
 
 ---
 
-## T 淋巴細胞與 B 淋巴細胞的前處理
+## <span style="color:#22d3ee">T 淋巴細胞</span>與<span style="color:#22d3ee">B 淋巴細胞</span>的前處理
 
 雖然所有淋巴細胞都源自胚胎時期的造血幹細胞，但這些幹細胞無法直接分化為活化的 T 細胞或抗體。它們必須先在特定的「處理區」進一步分化才能獲得功能。
 
@@ -59,7 +59,7 @@ T 淋巴細胞在骨髓生成後，首先遷移至胸腺（thymus）進行前處
 
 僅憑數百到數千個基因，如何能夠編碼數百萬種不同類型的抗體和 T 淋巴細胞一直是免疫學的重大謎題。這個問題如今已經得到解答。
 
-每一種 T 細胞或 B 細胞的形成基因，最初並非完整存在於功能免疫細胞形成的原始幹細胞中。相反地，這些基因只以「基因片段」的形式存在——實際上有數百個這樣的片段，但並非完整基因。在 T 細胞和 B 細胞淋巴細胞的前處理過程中，這些基因片段以隨機組合的方式相互混合，最終形成完整的基因。由於存在數百種類型的基因片段，加上每個細胞中這些片段可以排列組合的方式達到數百萬種，因此可以理解為何淋巴組織能夠產生如此多樣的細胞基因類型。
+每一種 T 細胞或 B 細胞的形成基因，最初並非完整存在於功能免疫細胞形成的原始幹細胞中。相反地，這些基因只以「基因片段」的形式存在——實際上有數百個這樣的片段，但並非完整基因。在 T 細胞和 B 細胞淋巴細胞的前處理過程中，這些基因片段以隨機組合的方式相互混合，最終形成完整的<span style="color:#60a5fa">基因</span>。由於存在數百種類型的基因片段，加上每個細胞中這些片段可以排列組合的方式達到數百萬種，因此可以理解為何淋巴組織能夠產生如此多樣的細胞基因類型。
 
 對於最終形成的每一個功能性 T 細胞或 B 細胞，其基因結構只編碼單一的抗原特異性。這些成熟細胞隨後成為高度特異性的 T 細胞和 B 細胞，並散布分布於淋巴組織中。
 
@@ -75,7 +75,7 @@ T 淋巴細胞在骨髓生成後，首先遷移至胸腺（thymus）進行前處
 
 淋巴組織中除了淋巴細胞外，還有數百萬個巨噬細胞。這些巨噬細胞沿著淋巴結、脾臟和其他淋巴組織的竇狀隙排列，並與許多淋巴結淋巴細胞相鄰接。
 
-大多數入侵的病原體首先被巨噬細胞吞噬並部分消化，抗原產物隨後釋放到巨噬細胞的細胞質中。巨噬細胞接著透過細胞對細胞的直接接觸將這些抗原傳遞給淋巴細胞，從而導致特定淋巴細胞克隆的活化。此外，巨噬細胞還分泌一種特殊的活化物質——介白素-1（interleukin-1），進一步促進特定淋巴細胞的生長和增殖。
+大多數入侵的病原體首先被巨噬細胞吞噬並部分消化，抗原產物隨後釋放到巨噬細胞的細胞質中。巨噬細胞接著透過細胞對細胞的直接接觸將這些抗原傳遞給淋巴細胞，從而導致特定淋巴細胞克隆的活化。此外，巨噬細胞還分泌一種特殊的活化物質——<span style="color:#fb923c">介白素-1</span>（<span style="color:#fb923c">interleukin-1</span>），進一步促進特定淋巴細胞的生長和增殖。
 
 ### T 細胞在 B 淋巴細胞活化中的角色
 

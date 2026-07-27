@@ -11,11 +11,11 @@ key_points:
 
 ## 章節導讀
 
-腎臟濃縮尿液的能力是人類適應陸地環境的關鍵。本章說明腎臟如何在缺水時保存水分、在水分過多時排出稀釋尿液的機制。尿液濃縮的核心是髓質高滲透梯度（hyperosmotic medullary interstitium）的建立——由 countercurrent multiplier mechanism（逆流倍增機制）達成。這個機制依賴三個解剖基礎：loop of Henle 的 U 形結構、vasa recta 的並行毛細血管、以及 <span style="color:#22d3ee">collecting duct</span> 穿越髓質的路徑。厚上升支（thick ascending limb）的主動鈉鉀氯共同運輸是驅動這個系統的能量來源，而 <span style="color:#fb923c">urea</span> 的再循環（recycling）與 <span style="color:#fb923c">ADH</span> 對 <span style="color:#22d3ee">collecting duct</span> 水通透性的調控，則是完整濃縮尿液的必要條件。本章最後說明 vasa recta 如何透過 countercurrent exchange 保存已建立的髓質高滲透梯度，以及為什麼海水不能飲用（會導致脫水）。
+<span style="color:#22d3ee">腎臟</span>濃縮尿液的能力是人類適應陸地環境的關鍵。本章說明腎臟如何在缺水時保存水分、在水分過多時排出稀釋尿液的機制。尿液濃縮的核心是髓質高滲透梯度（hyperosmotic medullary interstitium）的建立——由 countercurrent multiplier mechanism（逆流倍增機制）達成。這個機制依賴三個解剖基礎：loop of Henle 的 U 形結構、vasa recta 的並行毛細血管、以及 <span style="color:#22d3ee">collecting duct</span> 穿越髓質的路徑。厚上升支（<span style="color:#22d3ee">thick ascending limb</span>）的主動<span style="color:#fb923c">鈉鉀氯</span>共同運輸是驅動這個系統的能量來源，而 <span style="color:#fb923c">urea</span> 的再循環（<span style="color:#60a5fa">recycling</span>）與 <span style="color:#fb923c">ADH</span> 對 <span style="color:#22d3ee">Collecting duct</span> <span style="color:#60a5fa">水</span>通透性的調控，則是完整濃縮尿液的必要條件。本章最後說明 vasa recta 如何透過 countercurrent exchange 保存已建立的髓質高滲透梯度，以及為什麼海水不能飲用（會導致脫水）。
 
 ## 尿液濃縮與稀釋的基本原理
 
-腎臟濃縮尿液的能力是生存必需的。正常人每天必須排出約 600 mOsm 的溶質（主要為尿素與電解質）。人類腎臟的最大尿液滲透壓約 1200–1400 mOsm/L，最低可稀釋至約 50 mOsm/L。
+腎臟濃縮尿液的能力是生存必需的。正常人每天必須排出約 <span style="color:#34d399">600 mOsm</span> 的<span style="color:#fb923c">溶質</span>（主要為<span style="color:#fb923c">尿素</span>與<span style="color:#fb923c">電解質</span>）。人類<span style="color:#22d3ee">腎臟</span>的最大尿液<span style="color:#60a5fa">滲透壓</span>約 <span style="color:#34d399">1200–1400 mOsm/L</span>，最低可稀釋至約 <span style="color:#34d399">50 mOsm/L</span>。
 
 若最大尿液濃度為 1200 mOsm/L，則每天最少尿量（obligatory urine volume）為：
 
@@ -76,6 +76,6 @@ Vasa recta 是與 loop of Henle 並行的微血管，負責供應髓質細胞的
 
 海水的氯化鈉濃度約 3%–3.5%（滲透壓約 1000–1200 mOsm/L）。若飲用 1 L 海水，假設最大尿液濃度為 1200 mOsm/L，排出這些鹽分（1200 mOsm）需要 1 L 尿量。但腎臟還必須同時排出其他溶質（約 600 mOsm)，實際上需要 1.5 L 尿量才能排掉所有攝取的鹽分——淨脫水 0.5 L。因此飲用海水會加劇脫水而非緩解。
 
-## 尿液稀釋
+## <span style="color:#60a5fa">尿液稀釋</span>
 
-當體內水分過多時，<span style="color:#fb923c">ADH</span> 分泌減少，<span style="color:#22d3ee">collecting duct</span> 對水幾乎不通透。富含溶質但水很少的液體從厚上升支進入 distal tubule，在 <span style="color:#fb923c">ADH</span> 缺乏時，水不被再吸收，形成大量低滲尿液（可低至 50 mOsm/L）排出體外。
+當體內<span style="color:#60a5fa">水分</span>過多時，<span style="color:#fb923c">ADH</span> 分泌減少，<span style="color:#22d3ee">collecting duct</span> 對水幾乎不通透。富含溶質但水很少的液體從厚上升支進入 distal tubule，在 <span style="color:#fb923c">ADH</span> 缺乏時，水不被再吸收，形成大量低滲尿液（可低至 50 mOsm/L）排出體外。
